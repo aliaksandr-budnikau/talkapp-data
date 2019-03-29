@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWbgqkawNEXFMlzHLJxd",
+  "text" : "You engineered that conversation.",
+  "translations" : {
+    "russian" : "Вы спровоцировали этот разговор."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "engineer",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "that",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "conversation",
+    "startOffset" : 20,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgjr9dNEXFMlzHLAOc",
+  "text" : "Nice, nice, friendly conversation.",
+  "translations" : {
+    "russian" : "Да, вышел дружелюбный разговор."
+  },
+  "tokens" : [ {
+    "token" : "nice",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "nice",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "friendly",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "friend",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "conversation",
+    "startOffset" : 21,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+} ]

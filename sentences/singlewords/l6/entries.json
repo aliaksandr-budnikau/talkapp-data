@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWbgdTEnNEXFMlzHK6yd",
+  "text" : "Play next log entry.",
+  "translations" : {
+    "russian" : "Воспроизвести следующую запись журнала."
+  },
+  "tokens" : [ {
+    "token" : "play",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "next",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "log",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "entry",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgx61eNEXFMlzHLT_Q",
+  "text" : "It's an easy point of entry.",
+  "translations" : {
+    "russian" : "Да это точка проникновения."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "easy",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "point",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "entry",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

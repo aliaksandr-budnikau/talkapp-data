@@ -1,0 +1,75 @@
+[ {
+  "id" : "AWbgyiuJNEXFMlzHLU82",
+  "text" : "For guards, transport, bribes if necessary.",
+  "translations" : {
+    "russian" : "На охрану, транспорт, взятки, если потребуется."
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "guard",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "transport",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "bribe",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "if",
+    "startOffset" : 30,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "necessary",
+    "startOffset" : 33,
+    "endOffset" : 42,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbglrF6NEXFMlzHLC3i",
+  "text" : "Unnecessary backstory.",
+  "translations" : {
+    "russian" : "Ненужная предыстория."
+  },
+  "tokens" : [ {
+    "token" : "necessary",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "backstory",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+}, {
+  "id" : "AWbgn4MrNEXFMlzHLGLV",
+  "text" : "Unnecessary backstory.",
+  "translations" : {
+    "russian" : "Ненужная предыстория."
+  },
+  "tokens" : [ {
+    "token" : "necessary",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "backstory",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

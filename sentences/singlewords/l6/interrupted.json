@@ -1,0 +1,77 @@
+[ {
+  "id" : "AWbgqw9ZNEXFMlzHLKA1",
+  "text" : "Something's broke or something's interrupted.",
+  "translations" : {
+    "russian" : "Что-то сломалось или что-то прервалось."
+  },
+  "tokens" : [ {
+    "token" : "something's",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "broke",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "or",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "something's",
+    "startOffset" : 21,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "interrupted",
+    "startOffset" : 33,
+    "endOffset" : 44,
+    "position" : 4
+  }, {
+    "token" : "interrupt",
+    "startOffset" : 33,
+    "endOffset" : 44,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvHTgNEXFMlzHLQcr",
+  "text" : "The connection was interrupted, sir.",
+  "translations" : {
+    "russian" : "Соединение было прервано, сэр."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "connection",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "interrupted",
+    "startOffset" : 19,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "interrupt",
+    "startOffset" : 19,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "sir",
+    "startOffset" : 32,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

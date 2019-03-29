@@ -1,0 +1,57 @@
+[ {
+  "id" : "AWbgoJTjNEXFMlzHLGdR",
+  "text" : "Item one duck!",
+  "translations" : {
+    "russian" : "Пункт первый ложись!"
+  },
+  "tokens" : [ {
+    "token" : "item",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "one",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "duck",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgo49_NEXFMlzHLHkI",
+  "text" : "My cartoon's about a duck.",
+  "translations" : {
+    "russian" : "Мои комиксы об утке."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "cartoon",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "about",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 19,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "duck",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

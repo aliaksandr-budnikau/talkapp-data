@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWbgvKEeNEXFMlzHLQid",
+  "text" : "Custom, homemade brews.",
+  "translations" : {
+    "russian" : "Сделанные по заказу напитки домашнего производства."
+  },
+  "tokens" : [ {
+    "token" : "custom",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "homemade",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "brew",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgnZayNEXFMlzHLFYZ",
+  "text" : "I've tasted this brew before.",
+  "translations" : {
+    "russian" : "Я уже пробовал это зелье."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "tasted",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "taste",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "brew",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "before",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

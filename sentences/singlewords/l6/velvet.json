@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWbgl6N5NEXFMlzHLDBT",
+  "text" : "Cupcakes, red velvet.",
+  "translations" : {
+    "russian" : "Капкейки красный бархат."
+  },
+  "tokens" : [ {
+    "token" : "cupcake",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "red",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "velvet",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgl4x4NEXFMlzHLDAR",
+  "text" : "And for dessert, red velvet cupcakes.",
+  "translations" : {
+    "russian" : "А на десерт кексики."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "dessert",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "red",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "velvet",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "cupcake",
+    "startOffset" : 28,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

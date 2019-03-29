@@ -1,0 +1,47 @@
+[ {
+  "id" : "AWbgu2C8NEXFMlzHLP5X",
+  "text" : "I love jumbo beads.",
+  "translations" : {
+    "russian" : "Я обожаю гигантские бусы."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "love",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "jumbo",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bead",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgu2CsNEXFMlzHLP5W",
+  "text" : "Jumbo beads?",
+  "translations" : {
+    "russian" : "Гигантские бусы?"
+  },
+  "tokens" : [ {
+    "token" : "jumbo",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bead",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

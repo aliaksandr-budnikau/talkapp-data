@@ -1,0 +1,47 @@
+[ {
+  "id" : "AWbgu7pQNEXFMlzHLQET",
+  "text" : "A cantilevered monoplane, right?",
+  "translations" : {
+    "russian" : "Консольный моноплан."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "cantilever",
+    "startOffset" : 2,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "monoplane",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "right",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgu7ohNEXFMlzHLQES",
+  "text" : "A monoplane.",
+  "translations" : {
+    "russian" : "Моноплан."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "monoplane",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

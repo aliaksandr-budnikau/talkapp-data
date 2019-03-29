@@ -1,0 +1,47 @@
+[ {
+  "id" : "AWbgtlroNEXFMlzHLNsG",
+  "text" : "Save us from utter penury.",
+  "translations" : {
+    "russian" : "Может спасет нас от нищеты."
+  },
+  "tokens" : [ {
+    "token" : "save",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "us",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "from",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "utter",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "penury",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgtluENEXFMlzHLNsI",
+  "text" : "Penury.",
+  "translations" : {
+    "russian" : "От нищеты."
+  },
+  "tokens" : [ {
+    "token" : "penury",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  } ],
+  "contentScore" : "POOR"
+} ]

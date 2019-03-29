@@ -1,0 +1,52 @@
+[ {
+  "id" : "AWbgn7AONEXFMlzHLGPz",
+  "text" : "Brennan railing against censorship.",
+  "translations" : {
+    "russian" : "Бреннен сетует против цензуры."
+  },
+  "tokens" : [ {
+    "token" : "brennan",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "railing",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "rail",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "against",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "censorship",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgn7HjNEXFMlzHLGQB",
+  "text" : "Secrets, censorship.",
+  "translations" : {
+    "russian" : "Секреты, цензура."
+  },
+  "tokens" : [ {
+    "token" : "secret",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "censorship",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

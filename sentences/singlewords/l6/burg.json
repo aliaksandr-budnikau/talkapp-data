@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWbgmdOxNEXFMlzHLD7D",
+  "text" : "You're frying burgers.",
+  "translations" : {
+    "russian" : "Весь день ты жаришь гамбургеры... а потом, в 60, ты умираешь."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fry",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "burg",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgmcm_NEXFMlzHLD6D",
+  "text" : "It had burgers and fries.",
+  "translations" : {
+    "russian" : "Там были бургеры и картошка фри."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "burg",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "fries",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "fry",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

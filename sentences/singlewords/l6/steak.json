@@ -1,0 +1,52 @@
+[ {
+  "id" : "AWbgu2OKNEXFMlzHLP5t",
+  "text" : "One Jumbo Steak.",
+  "translations" : {
+    "russian" : "Один большой стейк."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "jumbo",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "steak",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgmPY2NEXFMlzHLDjS",
+  "text" : "Chops today, steak tomorrow.",
+  "translations" : {
+    "russian" : "Отбивные сегодня, стейк завтра."
+  },
+  "tokens" : [ {
+    "token" : "chop",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "today",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "steak",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "tomorrow",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+} ]

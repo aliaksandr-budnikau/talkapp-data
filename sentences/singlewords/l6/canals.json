@@ -1,0 +1,75 @@
+[ {
+  "id" : "AWbguAqiNEXFMlzHLOTb",
+  "text" : "This one was a root canal.",
+  "translations" : {
+    "russian" : "Это был корневой канал."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "one",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "root",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 4
+  }, {
+    "token" : "canal",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbguAn3NEXFMlzHLOTX",
+  "text" : "Root canal?",
+  "translations" : {
+    "russian" : "Корневой канал?"
+  },
+  "tokens" : [ {
+    "token" : "root",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "canal",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+}, {
+  "id" : "AWbguApFNEXFMlzHLOTZ",
+  "text" : "Root canal.",
+  "translations" : {
+    "russian" : "Корневой канал."
+  },
+  "tokens" : [ {
+    "token" : "root",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "canal",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

@@ -1,0 +1,72 @@
+[ {
+  "id" : "AWbgxZMCNEXFMlzHLTMU",
+  "text" : "Single stack, plain, no cheese.",
+  "translations" : {
+    "russian" : "Один стек, простой, без сыра."
+  },
+  "tokens" : [ {
+    "token" : "single",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "stack",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "plain",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "no",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "cheese",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgsZekNEXFMlzHLMYs",
+  "text" : "These are all plain concrete foundations.",
+  "translations" : {
+    "russian" : "У них фундамент из сплошного бетона."
+  },
+  "tokens" : [ {
+    "token" : "these",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "all",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "plain",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "concrete",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "foundation",
+    "startOffset" : 29,
+    "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

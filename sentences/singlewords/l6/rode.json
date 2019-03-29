@@ -1,0 +1,105 @@
+[ {
+  "id" : "AWbgydK3NEXFMlzHLU4H",
+  "text" : "You rode her bus today!",
+  "translations" : {
+    "russian" : "Ты ездил сегодня на ее автобусе!"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "rode",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "her",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bus",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "today",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgycy8NEXFMlzHLU3v",
+  "text" : "I rode home in machine.",
+  "translations" : {
+    "russian" : "Я ехал домой в машине."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "rode",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "home",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "machine",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgux6KNEXFMlzHLPxV",
+  "text" : "You... rode in the Stones' airplane.",
+  "translations" : {
+    "russian" : "Ты... летала на аэроплане Стоунов."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "rode",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "stone",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "airplane",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

@@ -1,0 +1,42 @@
+[ {
+  "id" : "AWbglzvwNEXFMlzHLC8v",
+  "text" : "Find the usherette!",
+  "translations" : {
+    "russian" : "Найдите билетёршу!"
+  },
+  "tokens" : [ {
+    "token" : "find",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "usherette",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbglztUNEXFMlzHLC8t",
+  "text" : "No, usherette.",
+  "translations" : {
+    "russian" : "Нет, билитершей."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "usherette",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

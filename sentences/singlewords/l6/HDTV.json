@@ -1,0 +1,65 @@
+[ {
+  "id" : "AWbgrWPZNEXFMlzHLK3r",
+  "text" : "You have HDTV.",
+  "translations" : {
+    "russian" : "В вашем распоряжении цифровой телевизор."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "hdtv",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgrWOaNEXFMlzHLK3p",
+  "text" : "It's HDTV.",
+  "translations" : {
+    "russian" : "Это же супер-тв."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hdtv",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+}, {
+  "id" : "AWbgrWQINEXFMlzHLK3s",
+  "text" : "Built-in HDTV...",
+  "translations" : {
+    "russian" : "Встроенный телевизор высокой четкости..."
+  },
+  "tokens" : [ {
+    "token" : "built",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "hdtv",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : "POOR"
+} ]

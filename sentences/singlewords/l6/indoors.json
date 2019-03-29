@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWbgvmFTNEXFMlzHLRPu",
+  "text" : "These doors should hold.",
+  "translations" : {
+    "russian" : "Эти двери должны выдержать."
+  },
+  "tokens" : [ {
+    "token" : "these",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "doors",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "door",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "should",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "hold",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgesETNEXFMlzHK7-C",
+  "text" : "It's indoors, so no sunscreen.",
+  "translations" : {
+    "russian" : "В помещении, поэтому не нужен солнцезащитный крем."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "doors",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "so",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "no",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "sunscreen",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

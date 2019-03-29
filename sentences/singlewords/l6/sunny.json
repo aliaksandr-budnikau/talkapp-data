@@ -1,0 +1,95 @@
+[ {
+  "id" : "AWbgrN9gNEXFMlzHLKrk",
+  "text" : "Tomorrow's forecast, sunny.",
+  "translations" : {
+    "russian" : "Прогноз на завтра солнечно."
+  },
+  "tokens" : [ {
+    "token" : "tomorrow",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "forecast",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "sunny",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgerFkNEXFMlzHK79K",
+  "text" : "It's a beautiful sunny day.",
+  "translations" : {
+    "russian" : "Такой чудный солнечный день."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "beautiful",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "sunny",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "day",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgerNoNEXFMlzHK79R",
+  "text" : "Forecast is 70 degrees and sunny.",
+  "translations" : {
+    "russian" : "Прогноз 70 по фаренгейту, и солнечно."
+  },
+  "tokens" : [ {
+    "token" : "forecast",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "70",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "degree",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "sunny",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

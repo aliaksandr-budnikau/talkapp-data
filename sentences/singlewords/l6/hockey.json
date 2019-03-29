@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWbgnrbnNEXFMlzHLF2c",
+  "text" : "Antiques, collectibles, hockey memorabilia.",
+  "translations" : {
+    "russian" : "Антиквариат, коллекционные предметы, памятные вещи хоккеистов."
+  },
+  "tokens" : [ {
+    "token" : "antique",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "collectible",
+    "startOffset" : 10,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "hockey",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 2
+  }, {
+    "token" : "memorabilia",
+    "startOffset" : 31,
+    "endOffset" : 42,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgh2fONEXFMlzHK-su",
+  "text" : "Hockey was a big mistake.",
+  "translations" : {
+    "russian" : "Хоккей был большой ошибкой."
+  },
+  "tokens" : [ {
+    "token" : "hockey",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "big",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "mistake",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

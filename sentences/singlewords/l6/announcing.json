@@ -1,0 +1,110 @@
+[ {
+  "id" : "AWbgqZ7FNEXFMlzHLJmp",
+  "text" : "LRB- Announcer -RRB- Mary...",
+  "translations" : {
+    "russian" : "Диктор Мэри..."
+  },
+  "tokens" : [ {
+    "token" : "lrb",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "announcer",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "announce",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "rrb",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "mary",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgqZ8zNEXFMlzHLJms",
+  "text" : "LRB- Announcer -RRB- Right now...",
+  "translations" : {
+    "russian" : "Диктор прямо сейчас..."
+  },
+  "tokens" : [ {
+    "token" : "lrb",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "announcer",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "announce",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "rrb",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "right",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "now",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbguC4mNEXFMlzHLOW4",
+  "text" : "Before the jury announces the verdict?",
+  "translations" : {
+    "russian" : "До того, как присяжные вынесут решение?"
+  },
+  "tokens" : [ {
+    "token" : "before",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "jury",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "announce",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "verdict",
+    "startOffset" : 30,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

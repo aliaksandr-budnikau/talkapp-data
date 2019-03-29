@@ -1,0 +1,39 @@
+[ {
+  "id" : "AWbgvc7GNEXFMlzHLQ8P",
+  "text" : "Compass, gyro, air speed indicator, altimeter.",
+  "translations" : {
+    "russian" : "Компас, гироскоп, указатель скорости полета, высотомер."
+  },
+  "tokens" : [ {
+    "token" : "compass",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "gyro",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "air",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "speed",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "indicator",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "altimeter",
+    "startOffset" : 36,
+    "endOffset" : 45,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

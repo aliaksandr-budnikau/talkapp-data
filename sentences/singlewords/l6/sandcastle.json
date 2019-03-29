@@ -1,0 +1,57 @@
+[ {
+  "id" : "AWbgmEBwNEXFMlzHLDPc",
+  "text" : "The greatest sandcastle ever built.",
+  "translations" : {
+    "russian" : "Величайший замок из песка, что был когда-либо построен."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "great",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "sandcastle",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "ever",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "eve",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "built",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgmEEbNEXFMlzHLDPh",
+  "text" : "What Sandcastle?",
+  "translations" : {
+    "russian" : "Каком замке из песка?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "sandcastle",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

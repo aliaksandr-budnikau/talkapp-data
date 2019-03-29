@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWbgvchtNEXFMlzHLQ7i",
+  "text" : "Aisle 42, hunting gear.",
+  "translations" : {
+    "russian" : "Ряд 42, охотничье снаряжение."
+  },
+  "tokens" : [ {
+    "token" : "aisle",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "42",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "hunting",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "hunt",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "gear",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgk8MzNEXFMlzHLBpH",
+  "text" : "Witch Hunters never act alone.",
+  "translations" : {
+    "russian" : "Охотники на ведьм никогда не действуют в одиночку."
+  },
+  "tokens" : [ {
+    "token" : "witch",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "hunt",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "never",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "act",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "alone",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

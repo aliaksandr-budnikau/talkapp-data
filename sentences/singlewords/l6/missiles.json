@@ -1,0 +1,90 @@
+[ {
+  "id" : "AWbgxZsBNEXFMlzHLTM1",
+  "text" : "Standby to ready missiles.",
+  "translations" : {
+    "russian" : "Готовность ракет в режим ожидания."
+  },
+  "tokens" : [ {
+    "token" : "standby",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ready",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "missile",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgxapNNEXFMlzHLTNz",
+  "text" : "Standby to fire missiles.",
+  "translations" : {
+    "russian" : "Готовность ракет к запуску."
+  },
+  "tokens" : [ {
+    "token" : "standby",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "fire",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "missile",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvbFJNEXFMlzHLQ4g",
+  "text" : "Missile detectors, front and back!",
+  "translations" : {
+    "russian" : "Спереди и сзади детекторы пуска ракет."
+  },
+  "tokens" : [ {
+    "token" : "missile",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "detector",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "front",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "back",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

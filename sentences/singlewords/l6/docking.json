@@ -1,0 +1,95 @@
+[ {
+  "id" : "AWbgqOLnNEXFMlzHLJWb",
+  "text" : "Households, businesses, loading docks.",
+  "translations" : {
+    "russian" : "Дома, фирмы, погрузочные доки."
+  },
+  "tokens" : [ {
+    "token" : "household",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "business",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "loading",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "load",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "dock",
+    "startOffset" : 32,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgxjRiNEXFMlzHLTZK",
+  "text" : "Everybody off these docks!",
+  "translations" : {
+    "russian" : "Все, прочь отсюда!"
+  },
+  "tokens" : [ {
+    "token" : "everybody",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "off",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "these",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "dock",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvkNbNEXFMlzHLRLz",
+  "text" : "Starboard hatch green for docking.",
+  "translations" : {
+    "russian" : "Правый шлюз готов к стыковке."
+  },
+  "tokens" : [ {
+    "token" : "starboard",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "hatch",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "green",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "dock",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWbgkA0jNEXFMlzHLAgK",
+  "text" : "Fuzzy clothes, plastic jewelry.",
+  "translations" : {
+    "russian" : "Яркая одежда, пластиковая бижутерия."
+  },
+  "tokens" : [ {
+    "token" : "fuzzy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "clothe",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "cloth",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "plastic",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "jewelry",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgc9y7NEXFMlzHK6fd",
+  "text" : "I just make jewelry.",
+  "translations" : {
+    "russian" : "Я всего лишь мастерю украшения."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "make",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "jewelry",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+} ]

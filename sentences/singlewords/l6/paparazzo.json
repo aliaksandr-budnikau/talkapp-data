@@ -1,0 +1,75 @@
+[ {
+  "id" : "AWbgovwdNEXFMlzHLHW4",
+  "text" : "He's a paparazzo.",
+  "translations" : {
+    "russian" : "Он папарацци."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "paparazzo",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgovxcNEXFMlzHLHW6",
+  "text" : "Corona is not a paparazzo.",
+  "translations" : {
+    "russian" : "Корона не из папарацци."
+  },
+  "tokens" : [ {
+    "token" : "corona",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "paparazzo",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgovopNEXFMlzHLHWv",
+  "text" : "That's Paparazzo.",
+  "translations" : {
+    "russian" : "Это Папарацци."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "paparazzo",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

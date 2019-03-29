@@ -1,0 +1,70 @@
+[ {
+  "id" : "AWbgmlfsNEXFMlzHLEJA",
+  "text" : "Hotplate check ahead.",
+  "translations" : {
+    "russian" : "Впереди проверка, что у нас в кастрюльках на печке."
+  },
+  "tokens" : [ {
+    "token" : "hotplate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "check",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "ahead",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgmljWNEXFMlzHLEJI",
+  "text" : "Go get the hotplate.",
+  "translations" : {
+    "russian" : "Иди принеси плитку."
+  },
+  "tokens" : [ {
+    "token" : "go",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "get",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "hotplate",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgmlgLNEXFMlzHLEJB",
+  "text" : "Hotplate check?",
+  "translations" : {
+    "russian" : "Кастрюльки на печке?"
+  },
+  "tokens" : [ {
+    "token" : "hotplate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "check",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

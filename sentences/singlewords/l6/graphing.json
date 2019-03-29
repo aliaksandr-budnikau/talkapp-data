@@ -1,0 +1,39 @@
+[ {
+  "id" : "AWbgtCstNEXFMlzHLNQO",
+  "text" : "Requesting fuel graph, say your state.",
+  "translations" : {
+    "russian" : "Запрашиваю данные по топливу, подтвердите статус."
+  },
+  "tokens" : [ {
+    "token" : "request",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "fuel",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "graph",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "say",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "your",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "state",
+    "startOffset" : 32,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

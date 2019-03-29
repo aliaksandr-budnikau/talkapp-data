@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWbge6VZNEXFMlzHK8Kv",
+  "text" : "I'm postponing my trip.",
+  "translations" : {
+    "russian" : "Я откладываю свою поездку."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "postpone",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "trip",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvKfUNEXFMlzHLQjV",
+  "text" : "Maybe I should postpone my departure.",
+  "translations" : {
+    "russian" : "Может быть, я отложу свой отъезд."
+  },
+  "tokens" : [ {
+    "token" : "maybe",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "should",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "postpone",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "my",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "departure",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

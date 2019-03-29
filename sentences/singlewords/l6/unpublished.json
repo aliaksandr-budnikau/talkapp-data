@@ -1,0 +1,72 @@
+[ {
+  "id" : "AWbgobUhNEXFMlzHLG5f",
+  "text" : "Tabloid published some photos.",
+  "translations" : {
+    "russian" : "В газетах печатали некоторые фотографии."
+  },
+  "tokens" : [ {
+    "token" : "tabloid",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "published",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "publish",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "some",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "photo",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgoaoUNEXFMlzHLG4f",
+  "text" : "But it will be published.",
+  "translations" : {
+    "russian" : "Но ее опубликуют."
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "will",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "published",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "publish",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

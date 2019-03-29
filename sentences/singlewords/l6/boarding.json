@@ -1,0 +1,85 @@
+[ {
+  "id" : "AWbgmSlhNEXFMlzHLDoy",
+  "text" : "Platoon 02 now boarding.",
+  "translations" : {
+    "russian" : "Отряд 0-2 поднимается на борт."
+  },
+  "tokens" : [ {
+    "token" : "platoon",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "02",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "now",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "boarding",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvZJuNEXFMlzHLQ0g",
+  "text" : "Final boarding call.",
+  "translations" : {
+    "russian" : "Последнее приглашение на посадку."
+  },
+  "tokens" : [ {
+    "token" : "final",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "boarding",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvh_BNEXFMlzHLRG4",
+  "text" : "Regular seats, but priority boarding.",
+  "translations" : {
+    "russian" : "Обычные кресла, но приоритетная посадка."
+  },
+  "tokens" : [ {
+    "token" : "regular",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "seat",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "but",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "priority",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "boarding",
+    "startOffset" : 28,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

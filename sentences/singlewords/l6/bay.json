@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWbgy9OFNEXFMlzHLVeU",
+  "text" : "East Bay Railway train 67.",
+  "translations" : {
+    "russian" : "Восточный залив, железнодорожный состав 67."
+  },
+  "tokens" : [ {
+    "token" : "east",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bay",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "railway",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "train",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "67",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvJN8NEXFMlzHLQgo",
+  "text" : "Cargo Bay 6... customs inspection.",
+  "translations" : {
+    "russian" : "Грузовой отсек 6, таможенный досмотр."
+  },
+  "tokens" : [ {
+    "token" : "cargo",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bay",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "6",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "custom",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "inspection",
+    "startOffset" : 23,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

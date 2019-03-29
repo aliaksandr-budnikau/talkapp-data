@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWbgmvGONEXFMlzHLEZo",
+  "text" : "Storm, range, helm - understand?",
+  "translations" : {
+    "russian" : "Стихия, амплитуда, штурвал - понятно?"
+  },
+  "tokens" : [ {
+    "token" : "storm",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "range",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "helm",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "understand",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyF0DNEXFMlzHLUQH",
+  "text" : "Switch to manual helm control.",
+  "translations" : {
+    "russian" : "Переключите на ручное управление."
+  },
+  "tokens" : [ {
+    "token" : "switch",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "manual",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "helm",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "control",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

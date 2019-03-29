@@ -1,0 +1,72 @@
+[ {
+  "id" : "AWbgmylONEXFMlzHLEff",
+  "text" : "Coins clinking, slot machines humming.",
+  "translations" : {
+    "russian" : "Звенят монеты, игровые автоматы напевая."
+  },
+  "tokens" : [ {
+    "token" : "coin",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "clink",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "slot",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "machine",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "humming",
+    "startOffset" : 30,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbglZlnNEXFMlzHLCeL",
+  "text" : "Her backpack's always clinking with empties.",
+  "translations" : {
+    "russian" : "В её сумке всегда звенят пустые бутылки."
+  },
+  "tokens" : [ {
+    "token" : "her",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "backpack",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "alway",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "clink",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "with",
+    "startOffset" : 31,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "empty",
+    "startOffset" : 36,
+    "endOffset" : 43,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

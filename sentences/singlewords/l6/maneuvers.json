@@ -1,0 +1,57 @@
+[ {
+  "id" : "AWbguywWNEXFMlzHLPy4",
+  "text" : "Evasive maneuvers, pattern delta.",
+  "translations" : {
+    "russian" : "Маневр уклонения образца дельта."
+  },
+  "tokens" : [ {
+    "token" : "evasive",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "maneuver",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "pattern",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "delta",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbguyvYNEXFMlzHLPy2",
+  "text" : "Evasive maneuver sequence delta.",
+  "translations" : {
+    "russian" : "Маневр уклонения, схема дельта."
+  },
+  "tokens" : [ {
+    "token" : "evasive",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "maneuver",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "sequence",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "delta",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+} ]

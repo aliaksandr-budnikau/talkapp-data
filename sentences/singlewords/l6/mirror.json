@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWbgkLpANEXFMlzHLAnq",
+  "text" : "Smoke and mirrors, baby.",
+  "translations" : {
+    "russian" : "Напускаю туман, детка."
+  },
+  "tokens" : [ {
+    "token" : "smoke",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "mirror",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "baby",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgmYOmNEXFMlzHLDya",
+  "text" : "Steering wheel, mirror, counter...",
+  "translations" : {
+    "russian" : "Это руль, тут зеркало, тут счетчик..."
+  },
+  "tokens" : [ {
+    "token" : "steer",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "wheel",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "mirror",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "counter",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "count",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+} ]

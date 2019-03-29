@@ -1,0 +1,105 @@
+[ {
+  "id" : "AWbgyFqyNEXFMlzHLUP0",
+  "text" : "Backup battery switched itself on.",
+  "translations" : {
+    "russian" : "Резервный аккумулятор переключился сам."
+  },
+  "tokens" : [ {
+    "token" : "backup",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "battery",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "switch",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "itself",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "on",
+    "startOffset" : 31,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyIdiNEXFMlzHLUVf",
+  "text" : "With twist ties and batteries.",
+  "translations" : {
+    "russian" : "С завязками и батарейками."
+  },
+  "tokens" : [ {
+    "token" : "with",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "twist",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "tie",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "battery",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgzFR2NEXFMlzHLVui",
+  "text" : "Hidden compartment in your car battery.",
+  "translations" : {
+    "russian" : "Скрытый отсек в аккумуляторе автомобиля."
+  },
+  "tokens" : [ {
+    "token" : "hidden",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "compartment",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "car",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "battery",
+    "startOffset" : 31,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWbgeqyhNEXFMlzHK784",
+  "text" : "Pickles, olives, sunflower seeds...",
+  "translations" : {
+    "russian" : "Соленья, оливки, семена подсолнечника..."
+  },
+  "tokens" : [ {
+    "token" : "pickle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "olive",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "sunflower",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "seed",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgzTPdNEXFMlzHLWLr",
+  "text" : "You might like the sour pickles.",
+  "translations" : {
+    "russian" : "Кислый огурец вам очень подойдёт."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "might",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "like",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "sour",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "pickle",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

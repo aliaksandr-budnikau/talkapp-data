@@ -1,0 +1,77 @@
+[ {
+  "id" : "AWbgfkFlNEXFMlzHK8um",
+  "text" : "Plagues fell, crops withered, children perished.",
+  "translations" : {
+    "russian" : "Распространилась чума, погибли посевы, умерли дети."
+  },
+  "tokens" : [ {
+    "token" : "plague",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "fell",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "crop",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "wither",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "children",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 4
+  }, {
+    "token" : "perish",
+    "startOffset" : 39,
+    "endOffset" : 47,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyDrFNEXFMlzHLULd",
+  "text" : "I said spurs and a crop.",
+  "translations" : {
+    "russian" : "Я сказал шпоры и хлыст."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "said",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "spur",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 4
+  }, {
+    "token" : "crop",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

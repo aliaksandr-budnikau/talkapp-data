@@ -1,0 +1,42 @@
+[ {
+  "id" : "AWbgmDEjNEXFMlzHLDNu",
+  "text" : "I'm June Havens.",
+  "translations" : {
+    "russian" : "Meня зoвут Джун Хэйвeнc."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "june",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "haven",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgm2lhNEXFMlzHLEmU",
+  "text" : "I haven.",
+  "translations" : {
+    "russian" : "T opened the tinЯ еще не открыла банку."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "haven",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

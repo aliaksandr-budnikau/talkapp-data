@@ -1,0 +1,57 @@
+[ {
+  "id" : "AWbgmCkVNEXFMlzHLDM0",
+  "text" : "Confirm airlift, Gilliam Circle.",
+  "translations" : {
+    "russian" : "Подтверждаю с воздуха, Гиллиам Сёркл."
+  },
+  "tokens" : [ {
+    "token" : "confirm",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "firm",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "airlift",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "gilliam",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "circle",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgmCjWNEXFMlzHLDMy",
+  "text" : "Offshore airlift. Hypothermia.",
+  "translations" : {
+    "russian" : "Доставили по воздуху, переохлаждение."
+  },
+  "tokens" : [ {
+    "token" : "offshore",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "airlift",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "hypothermia",
+    "startOffset" : 18,
+    "endOffset" : 29,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

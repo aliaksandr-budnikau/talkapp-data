@@ -1,0 +1,52 @@
+[ {
+  "id" : "AWbgp7JuNEXFMlzHLI8M",
+  "text" : "Where's the repossession order?",
+  "translations" : {
+    "russian" : "Где ордер об изъятии за неплатёж?"
+  },
+  "tokens" : [ {
+    "token" : "where",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "possession",
+    "startOffset" : 12,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "order",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgsJbrNEXFMlzHLMB0",
+  "text" : "Possession, sales marijuana.",
+  "translations" : {
+    "russian" : "Транспортировка марихуаны с целью сбыта."
+  },
+  "tokens" : [ {
+    "token" : "possession",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "sale",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "marijuana",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

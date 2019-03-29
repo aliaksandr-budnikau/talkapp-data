@@ -1,0 +1,166 @@
+[ {
+  "id" : "AWbgyrGgNEXFMlzHLVEh",
+  "text" : "Requesting medical and backup.",
+  "translations" : {
+    "russian" : "Запрашиваю медиков и подмогу."
+  },
+  "tokens" : [ {
+    "token" : "request",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "medical",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "backup",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyFqyNEXFMlzHLUP0",
+  "text" : "Backup battery switched itself on.",
+  "translations" : {
+    "russian" : "Резервный аккумулятор переключился сам."
+  },
+  "tokens" : [ {
+    "token" : "backup",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "battery",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "switch",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "itself",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "on",
+    "startOffset" : 31,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyqzWNEXFMlzHLVEH",
+  "text" : "Please request backup from HQ.",
+  "translations" : {
+    "russian" : "Пожалуйста, запросите подмогу у штаба."
+  },
+  "tokens" : [ {
+    "token" : "please",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "request",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "backup",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "from",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "hq",
+    "startOffset" : 27,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgxxEFNEXFMlzHLT2W",
+  "text" : "That's our main backup storage.",
+  "translations" : {
+    "russian" : "Это наше основное хранилище резервных копий."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "our",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "main",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "backup",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "storage",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyq_jNEXFMlzHLVEV",
+  "text" : "Requesting immediate medical assistance and backup.",
+  "translations" : {
+    "russian" : "Запрашиваю, как можно скорее, медицинскую бригаду и подкрепление."
+  },
+  "tokens" : [ {
+    "token" : "request",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "immediate",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "medical",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "assistance",
+    "startOffset" : 29,
+    "endOffset" : 39,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 40,
+    "endOffset" : 43,
+    "position" : 4
+  }, {
+    "token" : "backup",
+    "startOffset" : 44,
+    "endOffset" : 50,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

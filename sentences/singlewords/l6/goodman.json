@@ -1,0 +1,65 @@
+[ {
+  "id" : "AWbglkwvNEXFMlzHLCxm",
+  "text" : "DC Stella Goodman.",
+  "translations" : {
+    "russian" : "Детектив Стелла Гудман."
+  },
+  "tokens" : [ {
+    "token" : "dc",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "stella",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "goodman",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbglkxtNEXFMlzHLCxo",
+  "text" : "Hi, DC Goodman.",
+  "translations" : {
+    "russian" : "Привет. Детектив Гудман."
+  },
+  "tokens" : [ {
+    "token" : "hi",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "dc",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "goodman",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbglkwQNEXFMlzHLCxl",
+  "text" : "DC Goodman.",
+  "translations" : {
+    "russian" : "Детектив Гудман."
+  },
+  "tokens" : [ {
+    "token" : "dc",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "goodman",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

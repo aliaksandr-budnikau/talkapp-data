@@ -1,0 +1,42 @@
+[ {
+  "id" : "AWbguM7UNEXFMlzHLOod",
+  "text" : "Judge, detention, prison...",
+  "translations" : {
+    "russian" : "Суд, задержание, тюрьма..."
+  },
+  "tokens" : [ {
+    "token" : "judge",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "detention",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "prison",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgoknqNEXFMlzHLHIQ",
+  "text" : "Judge, sidebar?",
+  "translations" : {
+    "russian" : "Судья, можно подойти?"
+  },
+  "tokens" : [ {
+    "token" : "judge",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "sidebar",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

@@ -1,0 +1,57 @@
+[ {
+  "id" : "AWbgo4QGNEXFMlzHLHja",
+  "text" : "Sighs First byline, pretty exciting.",
+  "translations" : {
+    "russian" : "Первое авторство, довольно волнующе."
+  },
+  "tokens" : [ {
+    "token" : "sighs",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "first",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "byline",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "pretty",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "exciting",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "excite",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgzMUUNEXFMlzHLV9T",
+  "text" : "Sighs, whistles.",
+  "translations" : {
+    "russian" : "Вздыхает, свистит."
+  },
+  "tokens" : [ {
+    "token" : "sighs",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "whistle",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : "CORRUPTED"
+} ]

@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWbgnTfGNEXFMlzHLFOS",
+  "text" : "Slices, wedges, cubes, logs...",
+  "translations" : {
+    "russian" : "Кусочками, кружочками, ломтиками..."
+  },
+  "tokens" : [ {
+    "token" : "slice",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wedge",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "cube",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "log",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbghCFMNEXFMlzHK9_C",
+  "text" : "Something is wedged between the keys.",
+  "translations" : {
+    "russian" : "Что-то застряло между клавишами."
+  },
+  "tokens" : [ {
+    "token" : "something",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "wedge",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "between",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "key",
+    "startOffset" : 32,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

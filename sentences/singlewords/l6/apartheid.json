@@ -1,0 +1,70 @@
+[ {
+  "id" : "AWbguVjHNEXFMlzHLO5d",
+  "text" : "Er, what is apartheid?",
+  "translations" : {
+    "russian" : "Ээ, что такое апартеид?"
+  },
+  "tokens" : [ {
+    "token" : "er",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "what",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "apartheid",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbguVo-NEXFMlzHLO5q",
+  "text" : "Apartheid protest, 1988.",
+  "translations" : {
+    "russian" : "Протест против апартеида, 1988."
+  },
+  "tokens" : [ {
+    "token" : "apartheid",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "protest",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "1988",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbguVq7NEXFMlzHLO5t",
+  "text" : "That's... apartheid.",
+  "translations" : {
+    "russian" : "Это... апартеид."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "apartheid",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

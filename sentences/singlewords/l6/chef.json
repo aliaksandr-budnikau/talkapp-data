@@ -1,0 +1,52 @@
+[ {
+  "id" : "AWbgnGXFNEXFMlzHLE8p",
+  "text" : "Chef, garnish for lamb.",
+  "translations" : {
+    "russian" : "Шеф, гарнир к ягненку."
+  },
+  "tokens" : [ {
+    "token" : "chef",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "garnish",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "lamb",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgmdvaNEXFMlzHLD70",
+  "text" : "Hot pan, chef.",
+  "translations" : {
+    "russian" : "Горячая сковорода, шеф."
+  },
+  "tokens" : [ {
+    "token" : "hot",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pan",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "chef",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

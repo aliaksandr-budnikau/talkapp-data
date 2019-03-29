@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWbgrsMGNEXFMlzHLLYJ",
+  "text" : "A traffic control error?",
+  "translations" : {
+    "russian" : "Ошибка системы управления дорожным движением?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "traffic",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "control",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "error",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgrkVrNEXFMlzHLLMY",
+  "text" : "Take-error-boat... people-will pay.",
+  "translations" : {
+    "russian" : "Не та лодка... расплата ждет."
+  },
+  "tokens" : [ {
+    "token" : "take",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "error",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "boat",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "people",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "will",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "pay",
+    "startOffset" : 31,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

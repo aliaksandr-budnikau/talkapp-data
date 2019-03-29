@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWbgm2dONEXFMlzHLEmI",
+  "text" : "A tent, stove, provisions.",
+  "translations" : {
+    "russian" : "Палатка, печка, еда."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "tent",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "stove",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "vision",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgoLGaNEXFMlzHLGgL",
+  "text" : "Lead him to his tent.",
+  "translations" : {
+    "russian" : "Тебя проводят в палатку."
+  },
+  "tokens" : [ {
+    "token" : "lead",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "his",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "tent",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

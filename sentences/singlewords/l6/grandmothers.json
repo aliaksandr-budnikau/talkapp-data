@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWbgnGReNEXFMlzHLE8h",
+  "text" : "My grandmother hates garnish.",
+  "translations" : {
+    "russian" : "Моя бабушка ненавидит гарнир."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "grandmother",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "hate",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "garnish",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgy4XVNEXFMlzHLVUU",
+  "text" : "You have any... single grandmothers?",
+  "translations" : {
+    "russian" : "У вас есть... незамужние бабушки?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "any",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "single",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "grandmother",
+    "startOffset" : 23,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWbgpjQPNEXFMlzHLIav",
+  "text" : "Chuck, feeding pillow, stat!",
+  "translations" : {
+    "russian" : "Чак, подушку для кормления, срочно!"
+  },
+  "tokens" : [ {
+    "token" : "chuck",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "feeding",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "feed",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "pillow",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "stat",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgrJZWNEXFMlzHLKky",
+  "text" : "My pillow doesn't talk.",
+  "translations" : {
+    "russian" : "Моя подушка не болтает."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "pillow",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "doesn't",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "talk",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+} ]

@@ -1,0 +1,65 @@
+[ {
+  "id" : "AWbgsqTBNEXFMlzHLMvq",
+  "text" : "We take Medicaid, Blue Cross....",
+  "translations" : {
+    "russian" : "Мы принимаем с государственной страховкой."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "take",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "medicaid",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "blue",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "cross",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgsqSyNEXFMlzHLMvp",
+  "text" : "Medicaid.",
+  "translations" : {
+    "russian" : "Страховка."
+  },
+  "tokens" : [ {
+    "token" : "medicaid",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  } ],
+  "contentScore" : "POOR"
+}, {
+  "id" : "AWbgsqKeNEXFMlzHLMvV",
+  "text" : "Medicaid cutbacks.",
+  "translations" : {
+    "russian" : "Медицинскую программу сократили."
+  },
+  "tokens" : [ {
+    "token" : "medicaid",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "cutback",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]

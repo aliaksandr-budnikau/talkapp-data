@@ -1,0 +1,57 @@
+[ {
+  "id" : "AWbgqZ2NNEXFMlzHLJmh",
+  "text" : "Wendy's an anchorwoman. -Anchorperson.",
+  "translations" : {
+    "russian" : "Венди телерепортёр..."
+  },
+  "tokens" : [ {
+    "token" : "wendy",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "anchorwoman",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "anchorperson",
+    "startOffset" : 25,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgqZzhNEXFMlzHLJme",
+  "text" : "Anchorwoman Lee Bo Na!",
+  "translations" : {
+    "russian" : "Ведущая Ли Бо На!"
+  },
+  "tokens" : [ {
+    "token" : "anchorwoman",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "lee",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "bo",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "na",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+} ]

@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWbgjadDNEXFMlzHK__L",
+  "text" : "Cancer, asbestos, black lung.",
+  "translations" : {
+    "russian" : "Рак, асбест, антракоз."
+  },
+  "tokens" : [ {
+    "token" : "cancer",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "asbestos",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "black",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "lung",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgmxO0NEXFMlzHLEdU",
+  "text" : "This lung is like a sieve.",
+  "translations" : {
+    "russian" : "Лёгкое, как решето."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "lung",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "like",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 18,
+    "endOffset" : 19,
+    "position" : 4
+  }, {
+    "token" : "sieve",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

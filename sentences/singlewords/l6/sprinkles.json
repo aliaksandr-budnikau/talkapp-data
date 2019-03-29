@@ -1,0 +1,47 @@
+[ {
+  "id" : "AWbgl5EqNEXFMlzHLDAe",
+  "text" : "Cupcakes. With sprinkles.",
+  "translations" : {
+    "russian" : "Пирожные... и шампанское."
+  },
+  "tokens" : [ {
+    "token" : "cupcake",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "sprinkle",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgl4qzNEXFMlzHLDAM",
+  "text" : "Sprinkles cupcakes too.",
+  "translations" : {
+    "russian" : "Ещё есть кексики с присыпкой."
+  },
+  "tokens" : [ {
+    "token" : "sprinkle",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "cupcake",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "too",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

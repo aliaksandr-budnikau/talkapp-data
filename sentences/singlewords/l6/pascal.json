@@ -1,0 +1,47 @@
+[ {
+  "id" : "AWbgisvYNEXFMlzHK_ZD",
+  "text" : "Pascal - very sensitive to sound.",
+  "translations" : {
+    "russian" : "Паскаль - очень чувствителен к звукам."
+  },
+  "tokens" : [ {
+    "token" : "pascal",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "very",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "sensitive",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "sound",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgqPnoNEXFMlzHLJYY",
+  "text" : "Pascal.",
+  "translations" : {
+    "russian" : "Very sensitive to soundПаскаль - очень чувствителен к звукам."
+  },
+  "tokens" : [ {
+    "token" : "pascal",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  } ],
+  "contentScore" : "POOR"
+} ]

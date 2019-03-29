@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWbguH1gNEXFMlzHLOei",
+  "text" : "Senior elective permission slip.",
+  "translations" : {
+    "russian" : "Выборочный элективный курс для старшеклассников."
+  },
+  "tokens" : [ {
+    "token" : "senior",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "elective",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "permission",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "slip",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyPRrNEXFMlzHLUjm",
+  "text" : "Should I cancel this afternoon's elective?",
+  "translations" : {
+    "russian" : "Я должен отменить этот второй половине дня элективные?"
+  },
+  "tokens" : [ {
+    "token" : "should",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "cancel",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "this",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "afternoon",
+    "startOffset" : 21,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "elective",
+    "startOffset" : 33,
+    "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

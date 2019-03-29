@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWbgw-5SNEXFMlzHLSuw",
+  "text" : "Insects, flies, spiders.",
+  "translations" : {
+    "russian" : "Насекомых, мух, пауков."
+  },
+  "tokens" : [ {
+    "token" : "sect",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "fly",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "spider",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgw_BWNEXFMlzHLSu6",
+  "text" : "Said the spider to the fly.",
+  "translations" : {
+    "russian" : "Говорит паучара мухе."
+  },
+  "tokens" : [ {
+    "token" : "said",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "spider",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "fly",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

@@ -1,0 +1,95 @@
+[ {
+  "id" : "AWbgxaqrNEXFMlzHLTN1",
+  "text" : "Standby for priority.",
+  "translations" : {
+    "russian" : "Готовность к первоочередной работе."
+  },
+  "tokens" : [ {
+    "token" : "standby",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "priority",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvh_BNEXFMlzHLRG4",
+  "text" : "Regular seats, but priority boarding.",
+  "translations" : {
+    "russian" : "Обычные кресла, но приоритетная посадка."
+  },
+  "tokens" : [ {
+    "token" : "regular",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "seat",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "but",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "priority",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "boarding",
+    "startOffset" : 28,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgxtqNNEXFMlzHLTvE",
+  "text" : "This is NSA priority level four.",
+  "translations" : {
+    "russian" : "Приоритет ЭнЭсЭй 4-го уровня."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "nsa",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "priority",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "level",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "four",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

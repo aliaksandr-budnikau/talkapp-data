@@ -1,0 +1,100 @@
+[ {
+  "id" : "AWbgo6HrNEXFMlzHLHle",
+  "text" : "A program-length advertisement!",
+  "translations" : {
+    "russian" : "Целая передача реклама!"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "program",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "gram",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "length",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "advertisement",
+    "startOffset" : 17,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "advertise",
+    "startOffset" : 17,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgqT0FNEXFMlzHLJeG",
+  "text" : "Sponsor me in the program.",
+  "translations" : {
+    "russian" : "Поручителем в программе."
+  },
+  "tokens" : [ {
+    "token" : "sponsor",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "program",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "gram",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgrhYwNEXFMlzHLLIE",
+  "text" : "Control Programs!",
+  "translations" : {
+    "russian" : "Управляющие программы!"
+  },
+  "tokens" : [ {
+    "token" : "control",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "gram",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "program",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
+} ]
