@@ -141,34 +141,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnL4BNEXFMlzHLFDy",
-  "text" : "Inside, outside, up?",
-  "translations" : {
-    "russian" : "Внутри, снаружи, вверху?"
-  },
-  "tokens" : [ {
-    "token" : "inside",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "side",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "outside",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "up",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbguROQNEXFMlzHLOw4",
   "text" : "It's not for outsiders.",
   "translations" : {
@@ -464,6 +436,29 @@
     "startOffset" : 14,
     "endOffset" : 21,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgzGOYNEXFMlzHLVwi",
+  "text" : "Outside dining room.",
+  "translations" : {
+    "russian" : "Снаружи столовая."
+  },
+  "tokens" : [ {
+    "token" : "outside",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "din",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "room",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

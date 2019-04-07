@@ -172,34 +172,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgb2AJNEXFMlzHK5eo",
-  "text" : "LSB- blows tone -RSB.",
-  "translations" : {
-    "russian" : "Дует тон."
-  },
-  "tokens" : [ {
-    "token" : "lsb",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "blow",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "tone",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "rsb",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgb4ufNEXFMlzHK5hI",
   "text" : "I'll blow my horn...",
   "translations" : {
@@ -488,6 +460,39 @@
     "token" : "up",
     "startOffset" : 16,
     "endOffset" : 18,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgb4EwNEXFMlzHK5gi",
+  "text" : "I want to blow eggs.",
+  "translations" : {
+    "russian" : "Хочу выдувать яйца."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "want",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "blow",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "egg",
+    "startOffset" : 15,
+    "endOffset" : 19,
     "position" : 4
   } ],
   "contentScore" : null

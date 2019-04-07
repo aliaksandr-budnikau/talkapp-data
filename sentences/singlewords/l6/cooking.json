@@ -131,6 +131,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWn5oEncSHZo49ps8uFE",
+  "text" : "Someone cooked him deliberate?",
+  "translations" : {
+    "russian" : "Кто-то преднамеренно поджарил его?"
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "cooked",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "cook",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "him",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "deliberate",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "liberate",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnfWPNEXFMlzHLFiV",
   "text" : "He cooks crank.",
   "translations" : {
@@ -455,39 +493,6 @@
     "token" : "cook",
     "startOffset" : 17,
     "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgneu8NEXFMlzHLFhS",
-  "text" : "I cook for my father.",
-  "translations" : {
-    "russian" : "Своему отцу я готовлю."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "cook",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "father",
-    "startOffset" : 14,
-    "endOffset" : 20,
     "position" : 4
   } ],
   "contentScore" : null

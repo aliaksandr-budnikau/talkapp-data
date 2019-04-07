@@ -190,6 +190,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWn5oIySSHZo49ps8uFy",
+  "text" : "They deliberated for 38 minutes.",
+  "translations" : {
+    "russian" : "Они совещались 38 минут."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "liberate",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "38",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "minute",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxTWFNEXFMlzHLTGi",
   "text" : "Four minutes ahead of schedule.",
   "translations" : {
@@ -465,44 +498,6 @@
     "token" : "schedule",
     "startOffset" : 25,
     "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzG_XNEXFMlzHLVyK",
-  "text" : "Downstairs, main dining room, 15 minutes.",
-  "translations" : {
-    "russian" : "Нижний этаж, обеденный зал."
-  },
-  "tokens" : [ {
-    "token" : "downstairs",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "main",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "din",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "room",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "15",
-    "startOffset" : 30,
-    "endOffset" : 32,
-    "position" : 4
-  }, {
-    "token" : "minute",
-    "startOffset" : 33,
-    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null

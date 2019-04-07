@@ -454,26 +454,41 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgySCfNEXFMlzHLUpY",
-  "text" : "No, not returns.",
+  "id" : "AWn5oFdGSHZo49ps8uFP",
+  "text" : "He's making deliberate turns.",
   "translations" : {
-    "russian" : "Нет, никаких возвратов."
+    "russian" : "Он делает преднамеренные повороты."
   },
   "tokens" : [ {
-    "token" : "no",
+    "token" : "he",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "not",
-    "startOffset" : 4,
-    "endOffset" : 7,
+    "token" : "making",
+    "startOffset" : 5,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "turn",
-    "startOffset" : 8,
-    "endOffset" : 15,
+    "token" : "make",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "deliberate",
+    "startOffset" : 12,
+    "endOffset" : 22,
     "position" : 2
+  }, {
+    "token" : "liberate",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "turn",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

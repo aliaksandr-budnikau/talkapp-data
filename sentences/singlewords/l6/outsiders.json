@@ -27,34 +27,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnL4BNEXFMlzHLFDy",
-  "text" : "Inside, outside, up?",
-  "translations" : {
-    "russian" : "Внутри, снаружи, вверху?"
-  },
-  "tokens" : [ {
-    "token" : "inside",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "side",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "outside",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "up",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbguROQNEXFMlzHLOw4",
   "text" : "It's not for outsiders.",
   "translations" : {
@@ -429,6 +401,39 @@
     "startOffset" : 12,
     "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgd-pQNEXFMlzHK7Vi",
+  "text" : "For camp transport, assemble outside.",
+  "translations" : {
+    "russian" : "Лагерная перевозка, всем выйти наружу."
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "camp",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "transport",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "assemble",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "outside",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

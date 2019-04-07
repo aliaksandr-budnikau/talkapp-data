@@ -32,6 +32,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWn5niLSSHZo49ps8t_M",
+  "text" : "Well, that feels redundant.",
+  "translations" : {
+    "russian" : "Ну, это кажется излишним."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "feel",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "redundant",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguNiONEXFMlzHLOpo",
   "text" : "He feels... displaced.",
   "translations" : {
@@ -480,39 +508,6 @@
     "token" : "blade",
     "startOffset" : 19,
     "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm0M9NEXFMlzHLEiO",
-  "text" : "I feel slow, more heavy.",
-  "translations" : {
-    "russian" : "Я чувствую себя медлительным, и гораздо более тяжёлым."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "feel",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "slow",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "more",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "heavy",
-    "startOffset" : 18,
-    "endOffset" : 23,
     "position" : 4
   } ],
   "contentScore" : null

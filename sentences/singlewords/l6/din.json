@@ -28,7 +28,7 @@
   "contentScore" : null
 }, {
   "id" : "AWbgzGdcNEXFMlzHLVxE",
-  "text" : "HAVE YOU DINED?",
+  "text" : "Have you dined?",
   "translations" : {
     "russian" : "Вы ужинали?"
   },
@@ -394,26 +394,31 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzGQ0NEXFMlzHLVwm",
-  "text" : "WELFARE DINING HALL.",
+  "id" : "AWbgzG9aNEXFMlzHLVyH",
+  "text" : "Forty bedrooms, dining hall.",
   "translations" : {
-    "russian" : "СОЦИАЛЬНАЯ СТОЛОВАЯ."
+    "russian" : "Сорок спален, обеденный зал."
   },
   "tokens" : [ {
-    "token" : "welfare",
+    "token" : "forty",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "din",
-    "startOffset" : 8,
+    "token" : "bedroom",
+    "startOffset" : 6,
     "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "hall",
-    "startOffset" : 15,
-    "endOffset" : 19,
+    "token" : "din",
+    "startOffset" : 16,
+    "endOffset" : 22,
     "position" : 2
+  }, {
+    "token" : "hall",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

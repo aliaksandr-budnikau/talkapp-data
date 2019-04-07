@@ -1,27 +1,4 @@
 [ {
-  "id" : "AWbgzGQ0NEXFMlzHLVwm",
-  "text" : "WELFARE DINING HALL.",
-  "translations" : {
-    "russian" : "СОЦИАЛЬНАЯ СТОЛОВАЯ."
-  },
-  "tokens" : [ {
-    "token" : "welfare",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "din",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "hall",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgzG9aNEXFMlzHLVyH",
   "text" : "Forty bedrooms, dining hall.",
   "translations" : {
@@ -49,4 +26,27 @@
     "position" : 3
   } ],
   "contentScore" : null
+}, {
+  "id" : "AWbgzGQ0NEXFMlzHLVwm",
+  "text" : "Welfare dining hall.",
+  "translations" : {
+    "russian" : "Социальная столовая."
+  },
+  "tokens" : [ {
+    "token" : "welfare",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "din",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "hall",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : "POOR"
 } ]

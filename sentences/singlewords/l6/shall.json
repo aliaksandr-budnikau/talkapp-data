@@ -134,6 +134,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWn5oJ8dSHZo49ps8uF_",
+  "text" : "And I shall deliberate!",
+  "translations" : {
+    "russian" : "И я хорошенько все обдумаю!"
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "shall",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "deliberate",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "liberate",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzHT5NEXFMlzHLVy2",
   "text" : "Shall we dine?",
   "translations" : {
@@ -445,39 +478,6 @@
     "token" : "say",
     "startOffset" : 29,
     "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyRHUNEXFMlzHLUnZ",
-  "text" : "I shall return Monday afternoon.",
-  "translations" : {
-    "russian" : "Я вернусь в понедельник после полудня."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "shall",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "turn",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "monday",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "afternoon",
-    "startOffset" : 22,
-    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null

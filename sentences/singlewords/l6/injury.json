@@ -27,6 +27,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWn5oJLUSHZo49ps8uF4",
+  "text" : "The jury is deliberating.",
+  "translations" : {
+    "russian" : "Присяжные ушли совещаться."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "jury",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "liberate",
+    "startOffset" : 12,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguCzONEXFMlzHLOWy",
   "text" : "I got jury duty.",
   "translations" : {
@@ -131,6 +159,39 @@
     "startOffset" : 21,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWn5oJGySHZo49ps8uF3",
+  "text" : "Mr. Gardner, the jury's deliberating.",
+  "translations" : {
+    "russian" : "Мистер Гарнер, присяжные совещаются."
+  },
+  "tokens" : [ {
+    "token" : "mr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "gardner",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "jury",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "liberate",
+    "startOffset" : 24,
+    "endOffset" : 36,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

@@ -88,6 +88,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWn5oEncSHZo49ps8uFE",
+  "text" : "Someone cooked him deliberate?",
+  "translations" : {
+    "russian" : "Кто-то преднамеренно поджарил его?"
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "cooked",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "cook",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "him",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "deliberate",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "liberate",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgngjqNEXFMlzHLFkP",
   "text" : "We're already cooked.",
   "translations" : {
@@ -445,39 +483,6 @@
     "token" : "formula",
     "startOffset" : 22,
     "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnfaJNEXFMlzHLFid",
-  "text" : "And that's where we'll cook.",
-  "translations" : {
-    "russian" : "И там мы будем варить."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "where",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "we'll",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "cook",
-    "startOffset" : 23,
-    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null

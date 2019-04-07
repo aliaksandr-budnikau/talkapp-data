@@ -111,6 +111,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWn5n9FVSHZo49ps8uD-",
+  "text" : "He yawns when he's bluffing.",
+  "translations" : {
+    "russian" : "Он зевает, когда блефует."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "yawn",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "when",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "he",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "bluff",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqHWeNEXFMlzHLJM_",
   "text" : "He's shown us that he's angry.",
   "translations" : {
@@ -453,34 +486,6 @@
     "position" : 2
   }, {
     "token" : "film",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgh0CHNEXFMlzHK-qm",
-  "text" : "He's taken it over.",
-  "translations" : {
-    "russian" : "Он забирает его полностью."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "taken",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "over",
     "startOffset" : 14,
     "endOffset" : 18,
     "position" : 3

@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWn5oAduSHZo49ps8uEh",
+  "text" : "Yes, slit his throat.",
+  "translations" : {
+    "russian" : "Да, разрежьте ему глотку."
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "slit",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "throat",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvkv-NEXFMlzHLRM2",
   "text" : "He wasn't holding his throat.",
   "translations" : {
@@ -33,6 +61,39 @@
     "token" : "throat",
     "startOffset" : 22,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWn5oA-ASHZo49ps8uEl",
+  "text" : "She just slit her throat!",
+  "translations" : {
+    "russian" : "Она только что разрезала ей горло!"
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "slit",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "her",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "throat",
+    "startOffset" : 18,
+    "endOffset" : 24,
     "position" : 4
   } ],
   "contentScore" : null

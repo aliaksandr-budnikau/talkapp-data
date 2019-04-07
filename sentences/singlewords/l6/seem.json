@@ -22,6 +22,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWn5nheYSHZo49ps8t_H",
+  "text" : "Just... it seems redundant.",
+  "translations" : {
+    "russian" : "Просто... кажется излишним."
+  },
+  "tokens" : [ {
+    "token" : "just",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "seem",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "redundant",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkkJENEXFMlzHLBI6",
   "text" : "It seems to have died.",
   "translations" : {
@@ -533,22 +561,4 @@
     "position" : 5
   } ],
   "contentScore" : null
-}, {
-  "id" : "AWbgt0K7NEXFMlzHLN_P",
-  "text" : "Seems we.",
-  "translations" : {
-    "russian" : "Re born into this world merely to labourКажется мы приходим в этот мир, единственно для того чтобы работать."
-  },
-  "tokens" : [ {
-    "token" : "seem",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "we",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  } ],
-  "contentScore" : "POOR"
 } ]

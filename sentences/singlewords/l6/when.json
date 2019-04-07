@@ -32,6 +32,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWn5n8i1SHZo49ps8uD1",
+  "text" : "Yes, when it yawned.",
+  "translations" : {
+    "russian" : "Ага, когда зевнула."
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "when",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "yawn",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghiZGNEXFMlzHK-bN",
   "text" : "When is my monologue?",
   "translations" : {
@@ -169,6 +197,39 @@
     "startOffset" : 14,
     "endOffset" : 22,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWn5n9cySHZo49ps8uEF",
+  "text" : "Only when yawning.",
+  "translations" : {
+    "russian" : "Только тогда, когда зевает."
+  },
+  "tokens" : [ {
+    "token" : "only",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "when",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "yawning",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "yawn",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -442,77 +503,6 @@
     "token" : "approach",
     "startOffset" : 22,
     "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmQxtNEXFMlzHLDlt",
-  "text" : "You're beautiful when you're chopping.",
-  "translations" : {
-    "russian" : "Ты красива, когда режешь."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "beautiful",
-    "startOffset" : 7,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "when",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "you're",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "chopping",
-    "startOffset" : 29,
-    "endOffset" : 37,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqYLTNEXFMlzHLJkP",
-  "text" : "When do we test transmission?",
-  "translations" : {
-    "russian" : "Когда проведем испытание по передаче инфекции?"
-  },
-  "tokens" : [ {
-    "token" : "when",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "do",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "we",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "test",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "t",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "transmission",
-    "startOffset" : 16,
-    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null

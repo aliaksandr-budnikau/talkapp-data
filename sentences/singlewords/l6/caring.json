@@ -309,6 +309,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWn5n60uSHZo49ps8uDd",
+  "text" : "His car's in a ditch.",
+  "translations" : {
+    "russian" : "А его машина в кювете."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "car",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "ditch",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmAVTNEXFMlzHLDJN",
   "text" : "It's just a toy car.",
   "translations" : {
@@ -475,39 +508,6 @@
     "token" : "car",
     "startOffset" : 26,
     "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgowCRNEXFMlzHLHXQ",
-  "text" : "Radio cars, photographers, command vehicle...",
-  "translations" : {
-    "russian" : "Радиостанции, фотографы, штабной автомобиль."
-  },
-  "tokens" : [ {
-    "token" : "radio",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "car",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "photographer",
-    "startOffset" : 12,
-    "endOffset" : 25,
-    "position" : 2
-  }, {
-    "token" : "command",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 3
-  }, {
-    "token" : "vehicle",
-    "startOffset" : 35,
-    "endOffset" : 42,
     "position" : 4
   } ],
   "contentScore" : null

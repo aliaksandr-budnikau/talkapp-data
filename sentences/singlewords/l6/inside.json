@@ -1,32 +1,4 @@
 [ {
-  "id" : "AWbgnL4BNEXFMlzHLFDy",
-  "text" : "Inside, outside, up?",
-  "translations" : {
-    "russian" : "Внутри, снаружи, вверху?"
-  },
-  "tokens" : [ {
-    "token" : "inside",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "side",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "outside",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "up",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgjod4NEXFMlzHLALc",
   "text" : "Inside, outside, up?",
   "translations" : {
@@ -452,4 +424,32 @@
     "position" : 4
   } ],
   "contentScore" : null
+}, {
+  "id" : "AWbgnL4BNEXFMlzHLFDy",
+  "text" : "Inside, outside, up?",
+  "translations" : {
+    "russian" : "Внутри, снаружи, вверху?"
+  },
+  "tokens" : [ {
+    "token" : "inside",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "side",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "outside",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "up",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : "POOR"
 } ]

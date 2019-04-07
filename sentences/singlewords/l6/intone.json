@@ -1,32 +1,4 @@
 [ {
-  "id" : "AWbgb2AJNEXFMlzHK5eo",
-  "text" : "LSB- blows tone -RSB.",
-  "translations" : {
-    "russian" : "Дует тон."
-  },
-  "tokens" : [ {
-    "token" : "lsb",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "blow",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "tone",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "rsb",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgijb8NEXFMlzHK_RQ",
   "text" : "Martinis set the proper tone.",
   "translations" : {
@@ -234,4 +206,22 @@
     "position" : 4
   } ],
   "contentScore" : null
+}, {
+  "id" : "AWbgb2AJNEXFMlzHK5eo",
+  "text" : "Blows tone.",
+  "translations" : {
+    "russian" : "Дует тон."
+  },
+  "tokens" : [ {
+    "token" : "blow",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "tone",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : "POOR"
 } ]

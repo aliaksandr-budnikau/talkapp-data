@@ -358,6 +358,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWn5oFdGSHZo49ps8uFP",
+  "text" : "He's making deliberate turns.",
+  "translations" : {
+    "russian" : "Он делает преднамеренные повороты."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "making",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "make",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "deliberate",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "liberate",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "turn",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnes_NEXFMlzHLFhO",
   "text" : "We're making braised chicken.",
   "translations" : {
@@ -420,34 +458,6 @@
     "token" : "rocket",
     "startOffset" : 12,
     "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzUU0NEXFMlzHLWN6",
-  "text" : "It'll make you strong.",
-  "translations" : {
-    "russian" : "Оно сделает тебя сильным."
-  },
-  "tokens" : [ {
-    "token" : "it'll",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "make",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "strong",
-    "startOffset" : 15,
-    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null

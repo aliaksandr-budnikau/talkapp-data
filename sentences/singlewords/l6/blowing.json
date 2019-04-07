@@ -324,34 +324,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgb2AJNEXFMlzHK5eo",
-  "text" : "LSB- blows tone -RSB.",
-  "translations" : {
-    "russian" : "Дует тон."
-  },
-  "tokens" : [ {
-    "token" : "lsb",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "blow",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "tone",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "rsb",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgb4ufNEXFMlzHK5hI",
   "text" : "I'll blow my horn...",
   "translations" : {
@@ -498,6 +470,44 @@
     "token" : "horn",
     "startOffset" : 18,
     "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgb5pnNEXFMlzHK5h9",
+  "text" : "You're gonna blow our cover!",
+  "translations" : {
+    "russian" : "Ты нас разоблачишь!"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "gonna",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "blow",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "our",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "cover",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "cove",
+    "startOffset" : 22,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
