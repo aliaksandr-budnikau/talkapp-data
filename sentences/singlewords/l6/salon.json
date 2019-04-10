@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoFCqgpDTAu_IiLfKB_",
+  "text" : "We should codify our little salon.",
+  "translations" : {
+    "russian" : "Нужно создать свой салон."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "should",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "codify",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "our",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "little",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "salon",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgraT3NEXFMlzHLK9r",
   "text" : "Movie theaters, restaurants, bookstores, hair salons....",
   "translations" : {
@@ -33,6 +71,44 @@
     "token" : "salon",
     "startOffset" : 46,
     "endOffset" : 52,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFb83XDTAu_IiLfdYK",
+  "text" : "You mean like a competing salon!",
+  "translations" : {
+    "russian" : "Ты имеешь в виду конкурирующий салон?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "mean",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "like",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "compete",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "salon",
+    "startOffset" : 26,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

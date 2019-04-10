@@ -65,6 +65,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD4COdDTAu_IiLeUFG",
+  "text" : "I packed her valise.",
+  "translations" : {
+    "russian" : "Я собрала твой чемодан."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "packed",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pack",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "her",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "valise",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjFpxNEXFMlzHK_ul",
   "text" : "Well, we're all packed.",
   "translations" : {
@@ -94,6 +127,39 @@
     "token" : "pack",
     "startOffset" : 16,
     "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbJ9lDTAu_IiLeENb",
+  "text" : "The auditorium was packed.",
+  "translations" : {
+    "russian" : "Зал был забит."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "auditorium",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "packed",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "pack",
+    "startOffset" : 19,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
@@ -133,6 +199,90 @@
     "startOffset" : 21,
     "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnoiEDTAu_IiLe20S",
+  "text" : "I thought you'd be packed.",
+  "translations" : {
+    "russian" : "Я думал, ты собрала вещи."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "thought",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "you'd",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "packed",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "pack",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcBQlDTAu_IiLeEti",
+  "text" : "Mud packs.",
+  "translations" : {
+    "russian" : "Грязевые повязки."
+  },
+  "tokens" : [ {
+    "token" : "mud",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "packs",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "pack",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhgxsDTAu_IiLfhQJ",
+  "text" : "Dye packs.",
+  "translations" : {
+    "russian" : "Пакеты с краской."
+  },
+  "tokens" : [ {
+    "token" : "dye",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "packs",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "pack",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
@@ -281,6 +431,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD_hCkDTAu_IiLeYyb",
+  "text" : "Pack a wallop.",
+  "translations" : {
+    "russian" : "Показывать реальную силу."
+  },
+  "tokens" : [ {
+    "token" : "pack",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "wallop",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgluq0NEXFMlzHLC5v",
   "text" : "Pack your swimsuit.",
   "translations" : {
@@ -301,174 +474,6 @@
     "startOffset" : 10,
     "endOffset" : 18,
     "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnuTMNEXFMlzHLF7S",
-  "text" : "Pack of B's, please.",
-  "translations" : {
-    "russian" : "Пачку B' s , пожалуйста."
-  },
-  "tokens" : [ {
-    "token" : "pack",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "of",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "b's",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "please",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnvIXNEXFMlzHLF8s",
-  "text" : "Dye pack blew up.",
-  "translations" : {
-    "russian" : "Пакет с краской сработал."
-  },
-  "tokens" : [ {
-    "token" : "dye",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "pack",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "blew",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "up",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnvyCNEXFMlzHLF9v",
-  "text" : "There's my pack, sir.",
-  "translations" : {
-    "russian" : "Здесь моя свора, сэр."
-  },
-  "tokens" : [ {
-    "token" : "there",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "pack",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "sir",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnt63NEXFMlzHLF6w",
-  "text" : "You're still packing.",
-  "translations" : {
-    "russian" : "Тем не менее, ты собираешь вещи."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "still",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "packing",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "pack",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnt_PNEXFMlzHLF60",
-  "text" : "Pack your stuff, Roscoe.",
-  "translations" : {
-    "russian" : "Собирай вещи, Роско."
-  },
-  "tokens" : [ {
-    "token" : "pack",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "stuff",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "roscoe",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnuh-NEXFMlzHLF7t",
-  "text" : "Pack a suitcase, Will.",
-  "translations" : {
-    "russian" : "Пакуй чемоданы, Уилл."
-  },
-  "tokens" : [ {
-    "token" : "pack",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "suitcase",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "will",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

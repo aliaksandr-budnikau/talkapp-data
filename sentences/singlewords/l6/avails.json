@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEqrDiDTAu_IiLe5Ec",
+  "text" : "Contractually I'm not available.",
+  "translations" : {
+    "russian" : "Мой контракт мне это запрещает."
+  },
+  "tokens" : [ {
+    "token" : "contractual",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "i'm",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "available",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "avail",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgg3pPNEXFMlzHK918",
   "text" : "Have any extra shifts available?",
   "translations" : {
@@ -99,6 +132,44 @@
     "token" : "flight",
     "startOffset" : 19,
     "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoElCXEDTAu_IiLe03H",
+  "text" : "The crew manifest is available.",
+  "translations" : {
+    "russian" : "Доступен список экипажа."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "crew",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "manifest",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "available",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "avail",
+    "startOffset" : 21,
+    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null

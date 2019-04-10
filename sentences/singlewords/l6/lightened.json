@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDbx0YDTAu_IiLeEmH",
+  "text" : "Hey, Ajax, lighten up.",
+  "translations" : {
+    "russian" : "Эй, Аякс, полегче."
+  },
+  "tokens" : [ {
+    "token" : "hey",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ajax",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "lighten",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "up",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglEbYNEXFMlzHLB4P",
   "text" : "A storm of thunder, lightening.",
   "translations" : {
@@ -34,6 +62,44 @@
     "startOffset" : 20,
     "endOffset" : 30,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDc6iIDTAu_IiLeFMM",
+  "text" : "Lighten ship and drop all ballast.",
+  "translations" : {
+    "russian" : "Облегчить корабль, сбросить весь балласт."
+  },
+  "tokens" : [ {
+    "token" : "lighten",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "ship",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "drop",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "all",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "ballast",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

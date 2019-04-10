@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoDxHpEDTAu_IiLeQqF",
+  "text" : "Comrade foreman?",
+  "translations" : {
+    "russian" : "Товарищ бригадир?"
+  },
+  "tokens" : [ {
+    "token" : "comrade",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "foreman",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZeimDTAu_IiLesOm",
+  "text" : "Comrade Garrison Commander!",
+  "translations" : {
+    "russian" : "Товарищначальник гарнизона!"
+  },
+  "tokens" : [ {
+    "token" : "comrade",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "garrison",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "commander",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "command",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzGsVNEXFMlzHLVxj",
   "text" : "He's dining, Comrade Marshal.",
   "translations" : {
@@ -24,6 +70,237 @@
     "startOffset" : 21,
     "endOffset" : 28,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFA5xZDTAu_IiLfIuA",
+  "text" : "Comrades Board deadlocked.",
+  "translations" : {
+    "russian" : "Товарищи! Правление зашло в тупик."
+  },
+  "tokens" : [ {
+    "token" : "comrade",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "board",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "deadlock",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWMh4DTAu_IiLeBkY",
+  "text" : "Comrade antifascists, former prisoners.",
+  "translations" : {
+    "russian" : "Товарищи антифашисты! Бывшие узники."
+  },
+  "tokens" : [ {
+    "token" : "comrade",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "antifascist",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "former",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "prison",
+    "startOffset" : 29,
+    "endOffset" : 38,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRxloDTAu_IiLd-vc",
+  "text" : "I'm all alone, comrade midwife.",
+  "translations" : {
+    "russian" : "Я совсем одна, товарищ повитуха."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "all",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "alone",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "comrade",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "midwife",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDk9iDTAu_IiLfKsd",
+  "text" : "Health I wish, comrade General.",
+  "translations" : {
+    "russian" : "Здравия желаю, товарищ генерал."
+  },
+  "tokens" : [ {
+    "token" : "health",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "heal",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "wish",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "comrade",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "general",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMrNaDTAu_IiLeizQ",
+  "text" : "War comrades, so to speak.",
+  "translations" : {
+    "russian" : "Боевые товарищи. Чтоб, так сказать, поговорить."
+  },
+  "tokens" : [ {
+    "token" : "war",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "comrade",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "so",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "speak",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOQ4bDTAu_IiLej_e",
+  "text" : "I return from the cosmos, comrades.",
+  "translations" : {
+    "russian" : "Я вернулся из космоса, товарищи."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "turn",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "from",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "cosmos",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "comrade",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFID_iDTAu_IiLfOEK",
+  "text" : "Comrades In this rule, all crooks!",
+  "translations" : {
+    "russian" : "Товарищи! В этом правлении все жулики!"
+  },
+  "tokens" : [ {
+    "token" : "comrade",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "rule",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "all",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "crook",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

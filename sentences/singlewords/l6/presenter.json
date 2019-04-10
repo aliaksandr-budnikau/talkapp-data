@@ -37,6 +37,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFOu5DDTAu_IiLfTNt",
+  "text" : "Hallmark presents.",
+  "translations" : {
+    "russian" : "Открытка Hallmark."
+  },
+  "tokens" : [ {
+    "token" : "hallmark",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "presents",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "present",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdUXONEXFMlzHK6zp",
   "text" : "I meant Christmas present.",
   "translations" : {
@@ -373,6 +396,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEHviXDTAu_IiLefD9",
+  "text" : "Your present capacity.",
+  "translations" : {
+    "russian" : "Ваш нынешний объём."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "present",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "capacity",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdXWpNEXFMlzHK62V",
   "text" : "The bishop presents it.",
   "translations" : {
@@ -402,62 +448,6 @@
     "token" : "it",
     "startOffset" : 20,
     "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyQqgNEXFMlzHLUmf",
-  "text" : "Present from the conductor.",
-  "translations" : {
-    "russian" : "Подарок от проводника."
-  },
-  "tokens" : [ {
-    "token" : "present",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "from",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "conductor",
-    "startOffset" : 17,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdW2KNEXFMlzHK615",
-  "text" : "Okay, present company excluded.",
-  "translations" : {
-    "russian" : "Хорошо, за исключением присутствующих."
-  },
-  "tokens" : [ {
-    "token" : "okay",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "present",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "company",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "exclude",
-    "startOffset" : 22,
-    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null

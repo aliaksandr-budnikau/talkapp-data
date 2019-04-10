@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoFFAO9DTAu_IiLfLsP",
+  "text" : "Colour patterns.",
+  "translations" : {
+    "russian" : "Цветовые модели."
+  },
+  "tokens" : [ {
+    "token" : "colour",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "pattern",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguyyTNEXFMlzHLPy8",
   "text" : "Evasive action, pattern Delta.",
   "translations" : {
@@ -23,6 +41,39 @@
     "token" : "delta",
     "startOffset" : 24,
     "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJK_IDTAu_IiLfO_O",
+  "text" : "Brain wave pattern altered.",
+  "translations" : {
+    "russian" : "Параметры программы изменены..."
+  },
+  "tokens" : [ {
+    "token" : "brain",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "wave",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pattern",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "altered",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "alter",
+    "startOffset" : 19,
+    "endOffset" : 26,
     "position" : 3
   } ],
   "contentScore" : null
@@ -83,29 +134,222 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgny8ZNEXFMlzHLGC8",
-  "text" : "A unique talent for pattern recognition.",
+  "id" : "AWoEaWsxDTAu_IiLes0B",
+  "text" : "Any patterns geographically?",
   "translations" : {
-    "russian" : "Редкий дар распознавать закономерности в данных."
+    "russian" : "Есть географические закономерности?"
   },
   "tokens" : [ {
-    "token" : "a",
+    "token" : "any",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pattern",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "geographical",
+    "startOffset" : 13,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJK-KDTAu_IiLfO_N",
+  "text" : "Brain wave pattern altered.",
+  "translations" : {
+    "russian" : "Параметры изменены."
+  },
+  "tokens" : [ {
+    "token" : "brain",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "wave",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pattern",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "altered",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "alter",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmZlgDTAu_IiLe13o",
+  "text" : "I'm programming your descent pattern.",
+  "translations" : {
+    "russian" : "Я программирую маршрут твоего спуска."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "programming",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "descent",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "pattern",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1_exDTAu_IiLfBBg",
+  "text" : "I bet there's a pattern.",
+  "translations" : {
+    "russian" : "Бьюсь об заклад, это шаблон."
+  },
+  "tokens" : [ {
+    "token" : "i",
     "startOffset" : 0,
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "unique",
+    "token" : "bet",
     "startOffset" : 2,
-    "endOffset" : 8,
+    "endOffset" : 5,
     "position" : 1
   }, {
-    "token" : "talent",
-    "startOffset" : 9,
-    "endOffset" : 15,
+    "token" : "there",
+    "startOffset" : 6,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "for",
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "pattern",
     "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzRUODTAu_IiLeRzA",
+  "text" : "Spatter patterns from Joann's coat.",
+  "translations" : {
+    "russian" : "Пятна на плаще Джоан."
+  },
+  "tokens" : [ {
+    "token" : "spatter",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "pattern",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "from",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "joann",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "coat",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFD0v6DTAu_IiLfK3w",
+  "text" : "What about the tread pattern?",
+  "translations" : {
+    "russian" : "Что насчёт рисунка протектора?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "about",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "tread",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "pattern",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFd4KXDTAu_IiLfezL",
+  "text" : "There was no stable pattern.",
+  "translations" : {
+    "russian" : "Никакого образца стабильности не было."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "stable",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "st",
+    "startOffset" : 13,
     "endOffset" : 19,
     "position" : 3
   }, {
@@ -113,11 +357,148 @@
     "startOffset" : 20,
     "endOffset" : 27,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFd4L1DTAu_IiLfezM",
+  "text" : "No stable underlying pattern emerged.",
+  "translations" : {
+    "russian" : "Шаблона стабильности не возникало."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
   }, {
-    "token" : "cognition",
-    "startOffset" : 28,
+    "token" : "stable",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "st",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "underly",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "pattern",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "emerge",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJ3S-DTAu_IiLfPjB",
+  "text" : "I've isolated the bio-patterns.",
+  "translations" : {
+    "russian" : "Я выделил био-образцы."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "isolate",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "bio",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "pattern",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcQuzDTAu_IiLeuFL",
+  "text" : "For comparable wave intensity patterns.",
+  "translations" : {
+    "russian" : "С полученными образцами интенсивности волн."
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "comparable",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "compare",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "wave",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "tensity",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "pattern",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoYH7DTAu_IiLe3ZE",
+  "text" : "Behavioral patterns, motives, potential targets.",
+  "translations" : {
+    "russian" : "Схемы поведения, мотивы, потенциальные цели."
+  },
+  "tokens" : [ {
+    "token" : "behavioral",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "pattern",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "motive",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "potential",
+    "startOffset" : 30,
     "endOffset" : 39,
-    "position" : 5
+    "position" : 3
+  }, {
+    "token" : "target",
+    "startOffset" : 40,
+    "endOffset" : 47,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

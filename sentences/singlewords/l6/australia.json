@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoEg2C-DTAu_IiLexlh",
+  "text" : "Australia, Greenland, who knows?",
+  "translations" : {
+    "russian" : "Австралия, Гренландия, кто знает?"
+  },
+  "tokens" : [ {
+    "token" : "australia",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "greenland",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "who",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "know",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4OqBDTAu_IiLfChm",
+  "text" : "Captions by CSI Australia.",
+  "translations" : {
+    "russian" : "Перевод с субтитров CSI Australia."
+  },
+  "tokens" : [ {
+    "token" : "caption",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "by",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "csi",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "australia",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguPRDNEXFMlzHLOtA",
   "text" : "He emigrated to Australia.",
   "translations" : {
@@ -24,6 +80,67 @@
     "startOffset" : 16,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3569DTAu_IiLfCTk",
+  "text" : "Captions by CSI Australia.",
+  "translations" : {
+    "russian" : "Перевод с субтитров CSI Australia."
+  },
+  "tokens" : [ {
+    "token" : "caption",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "by",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "csi",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "australia",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnis5DTAu_IiLe2vq",
+  "text" : "England, France, Australia, Geneva, others.",
+  "translations" : {
+    "russian" : "Англия, Франция, Австралия, Женева и все остальное."
+  },
+  "tokens" : [ {
+    "token" : "england",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "france",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "australia",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "geneva",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "other",
+    "startOffset" : 36,
+    "endOffset" : 42,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

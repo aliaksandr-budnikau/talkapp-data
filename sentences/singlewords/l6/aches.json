@@ -1,77 +1,434 @@
 [ {
-  "id" : "AWbgbZ-GNEXFMlzHK5Fi",
-  "text" : "Yeah, it reaches out to people.",
+  "id" : "AWoDuvZhDTAu_IiLePQF",
+  "text" : "It aches.",
   "translations" : {
-    "russian" : "Да, они производят впечатление на людей."
+    "russian" : "И сердцу больно."
   },
   "tokens" : [ {
-    "token" : "yeah",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "it",
-    "startOffset" : 6,
+    "token" : "aches",
+    "startOffset" : 3,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "aches",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "to",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "people",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 5
+    "token" : "ache",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtvSdNEXFMlzHLN3P",
-  "text" : "Yeah, it reaches out to people.",
+  "id" : "AWoDuuPbDTAu_IiLePPa",
+  "text" : "Aches or pains?",
   "translations" : {
-    "russian" : "Да, они производят впечатление на людей."
+    "russian" : "Жажда или боли?"
   },
   "tokens" : [ {
-    "token" : "yeah",
+    "token" : "aches",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "it",
+    "token" : "ache",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "or",
     "startOffset" : 6,
     "endOffset" : 8,
     "position" : 1
   }, {
+    "token" : "pain",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuu3SDTAu_IiLePPx",
+  "text" : "Aches still, but...",
+  "translations" : {
+    "russian" : "Побаливает немного, правда."
+  },
+  "tokens" : [ {
     "token" : "aches",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ache",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "still",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "but",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuuvbDTAu_IiLePPt",
+  "text" : "Aches a bit.",
+  "translations" : {
+    "russian" : "Побаливает."
+  },
+  "tokens" : [ {
+    "token" : "aches",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ache",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "bit",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDusTRDTAu_IiLePOO",
+  "text" : "Aching.",
+  "translations" : {
+    "russian" : "Больно."
+  },
+  "tokens" : [ {
+    "token" : "aching",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "ache",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDus6xDTAu_IiLePOn",
+  "text" : "He had terrible stomach aches.",
+  "translations" : {
+    "russian" : "У него очень болел живот."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "terrible",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "stomach",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "aches",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "ache",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDusVMDTAu_IiLePOP",
+  "text" : "I ache.",
+  "translations" : {
+    "russian" : "Мне больно..."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "ache",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuufkDTAu_IiLePPj",
+  "text" : "Tummy ache.",
+  "translations" : {
+    "russian" : "Живот болит."
+  },
+  "tokens" : [ {
+    "token" : "tummy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ache",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuJ2UDTAu_IiLeO44",
+  "text" : "My hand's aching.",
+  "translations" : {
+    "russian" : "Мен болит рука."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "hand's",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "aching",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "ache",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuutoDTAu_IiLePPs",
+  "text" : "I've got stomach ache.",
+  "translations" : {
+    "russian" : "У вас таблетки не найдется, что-то тут побаливает."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "stomach",
     "startOffset" : 9,
     "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "out",
+    "token" : "ache",
     "startOffset" : 17,
-    "endOffset" : 20,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDutppDTAu_IiLePPD",
+  "text" : "I have aching tooth.",
+  "translations" : {
+    "russian" : "У меня что-то ноет зуб."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "aching",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "ache",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "tooth",
+    "startOffset" : 14,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "to",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 4
+    "token" : "too",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuuxLDTAu_IiLePPu",
+  "text" : "A few aching...",
+  "translations" : {
+    "russian" : "Побаливает немного..."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
   }, {
-    "token" : "people",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 5
+    "token" : "few",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "aching",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "ache",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFK-mDTAu_IiLedMf",
+  "text" : "Oh, gut ache.",
+  "translations" : {
+    "russian" : "Нутро не на месте."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "gut",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "ache",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDutVyDTAu_IiLePO4",
+  "text" : "You'll get tummy ache.",
+  "translations" : {
+    "russian" : "У тебя заболит живот."
+  },
+  "tokens" : [ {
+    "token" : "you'll",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "get",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "tummy",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "ache",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDus33DTAu_IiLePOl",
+  "text" : "My whole body ached.",
+  "translations" : {
+    "russian" : "Голова, живот."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "whole",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "body",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "ached",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "ache",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDutRpDTAu_IiLePO1",
+  "text" : "My heart ached.",
+  "translations" : {
+    "russian" : "У меня заболело сердце."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "heart",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "ached",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "ache",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

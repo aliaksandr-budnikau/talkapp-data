@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEYXnyDTAu_IiLereS",
+  "text" : "Some Vermont-based alums.",
+  "translations" : {
+    "russian" : "Выпускники из Вермонта."
+  },
+  "tokens" : [ {
+    "token" : "some",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "vermont",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "base",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "bas",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "alum",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglMn0NEXFMlzHLCG3",
   "text" : "You'll flood your basement!",
   "translations" : {
@@ -32,6 +65,103 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDfoq1DTAu_IiLeGv5",
+  "text" : "First base, Gil Hodges.",
+  "translations" : {
+    "russian" : "Первая база, Гил Ходжес."
+  },
+  "tokens" : [ {
+    "token" : "first",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "base",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "gil",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "hodge",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFY5RQDTAu_IiLfa4o",
+  "text" : "Base to goat.",
+  "translations" : {
+    "russian" : "База Козлёнку."
+  },
+  "tokens" : [ {
+    "token" : "base",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "goat",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFY5QLDTAu_IiLfa4n",
+  "text" : "Base to goat.",
+  "translations" : {
+    "russian" : "База Козлёнку."
+  },
+  "tokens" : [ {
+    "token" : "base",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "goat",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDresJDTAu_IiLeNRx",
+  "text" : "Yes, Lunar Base?",
+  "translations" : {
+    "russian" : "Да, лунная база?"
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "lunar",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "base",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglmHiNEXFMlzHLCz9",
   "text" : "It's biodegradable... soy-based.",
   "translations" : {
@@ -62,6 +192,252 @@
     "startOffset" : 26,
     "endOffset" : 31,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsz-6DTAu_IiLeOFl",
+  "text" : "She's based in Bogota.",
+  "translations" : {
+    "russian" : "Она живёт в Боготе."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "base",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "bas",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "bogota",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDfopHDTAu_IiLeGv4",
+  "text" : "Gil Hodges, first base.",
+  "translations" : {
+    "russian" : "Гил Ходжес, первая база."
+  },
+  "tokens" : [ {
+    "token" : "gil",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "hodge",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "first",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "base",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSV2_DTAu_IiLd_H6",
+  "text" : "It's a sulfur-based alkaloid.",
+  "translations" : {
+    "russian" : "Это сернистый алкалоид."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "sulfur",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "base",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "bas",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "alkaloid",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD90hjDTAu_IiLeXhM",
+  "text" : "Base, this is summit team.",
+  "translations" : {
+    "russian" : "База, это отряд Вершина."
+  },
+  "tokens" : [ {
+    "token" : "base",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "this",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "summit",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "team",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESGb3DTAu_IiLemyQ",
+  "text" : "It's fiction based on reality.",
+  "translations" : {
+    "russian" : "Это художественный фильм на основе реальных событий."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fiction",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "base",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "bas",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "reality",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-0HfDTAu_IiLfHEV",
+  "text" : "A musty old basement, huh?",
+  "translations" : {
+    "russian" : "О затхлом старом подвале, да?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "musty",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "old",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "basement",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "base",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "huh",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAxjrDTAu_IiLfIny",
+  "text" : "Based on interview... and merit.",
+  "translations" : {
+    "russian" : "Основано только на интервью... и достоинствах."
+  },
+  "tokens" : [ {
+    "token" : "base",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bas",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "interview",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "merit",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -128,82 +504,6 @@
     "startOffset" : 24,
     "endOffset" : 27,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwBEZNEXFMlzHLRug",
-  "text" : "Aerial surveillance of navy bases?",
-  "translations" : {
-    "russian" : "Воздушное наблюдение за военными базами?"
-  },
-  "tokens" : [ {
-    "token" : "aerial",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "surveillance",
-    "startOffset" : 7,
-    "endOffset" : 19,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "navy",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "base",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 4
-  }, {
-    "token" : "bas",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguFF6NEXFMlzHLOaL",
-  "text" : "Must be from the military base.",
-  "translations" : {
-    "russian" : "Должно быть с военной базы."
-  },
-  "tokens" : [ {
-    "token" : "must",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "be",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "from",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "military",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "base",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,134 @@
 [ {
+  "id" : "AWoEfldTDTAu_IiLewl6",
+  "text" : "Gravity check.",
+  "translations" : {
+    "russian" : "Проверка силы тяжести."
+  },
+  "tokens" : [ {
+    "token" : "gravity",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "check",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0-6DDTAu_IiLfAVb",
+  "text" : "Cranberries, check.",
+  "translations" : {
+    "russian" : "Клюква тут. Гоголь-моголь тут."
+  },
+  "tokens" : [ {
+    "token" : "cranberry",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "check",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdCobDTAu_IiLeunx",
+  "text" : "Checking availability.",
+  "translations" : {
+    "russian" : "Проверяю доступность."
+  },
+  "tokens" : [ {
+    "token" : "check",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "availability",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1IuODTAu_IiLfAcC",
+  "text" : "No crust, check, extra jelly, check.",
+  "translations" : {
+    "russian" : "Нет корочки, раз. Много джема, два."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "crust",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "check",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "extra",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "jelly",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "check",
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuqFLDTAu_IiLe7xf",
+  "text" : "No crust, check, extra jelly, check.",
+  "translations" : {
+    "russian" : "Нет корочки, раз. Много джема, два."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "crust",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "check",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "extra",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "jelly",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "check",
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgb_7MNEXFMlzHK5nr",
   "text" : "I checked your cards.",
   "translations" : {
@@ -28,6 +158,39 @@
     "token" : "card",
     "startOffset" : 15,
     "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvGiqNEXFMlzHLQbG",
+  "text" : "Light, checked sports jacket.",
+  "translations" : {
+    "russian" : "Светлая спортивная куртка в клетку."
+  },
+  "tokens" : [ {
+    "token" : "light",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "checked",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "check",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "sport",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "jacket",
+    "startOffset" : 22,
+    "endOffset" : 28,
     "position" : 3
   } ],
   "contentScore" : null
@@ -88,198 +251,71 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvGiqNEXFMlzHLQbG",
-  "text" : "Light, checked sports jacket.",
+  "id" : "AWoDOwFVDTAu_IiLd8w4",
+  "text" : "Double-checking Outpost 3.",
   "translations" : {
-    "russian" : "Светлая спортивная куртка в клетку."
+    "russian" : "Повторно проверяю Аванпост 3."
   },
   "tokens" : [ {
-    "token" : "light",
+    "token" : "double",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 6,
     "position" : 0
-  }, {
-    "token" : "checked",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
   }, {
     "token" : "check",
     "startOffset" : 7,
-    "endOffset" : 14,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "sport",
-    "startOffset" : 15,
-    "endOffset" : 21,
+    "token" : "outpost",
+    "startOffset" : 16,
+    "endOffset" : 23,
     "position" : 2
   }, {
-    "token" : "jacket",
-    "startOffset" : 22,
-    "endOffset" : 28,
+    "token" : "3",
+    "startOffset" : 24,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoJfBNEXFMlzHLGdg",
-  "text" : "So, item one, check!",
+  "id" : "AWoDRtmcDTAu_IiLd-tH",
+  "text" : "To check the acoustics.",
   "translations" : {
-    "russian" : "Итак, пункт один - есть!"
+    "russian" : "Хотел проверить акустику."
   },
   "tokens" : [ {
-    "token" : "so",
+    "token" : "to",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "item",
-    "startOffset" : 4,
+    "token" : "check",
+    "startOffset" : 3,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "one",
+    "token" : "the",
     "startOffset" : 9,
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "check",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgphO_NEXFMlzHLIX5",
-  "text" : "I checked your cards.",
-  "translations" : {
-    "russian" : "Я проверила твои карты."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "checked",
-    "startOffset" : 2,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "check",
-    "startOffset" : 2,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "card",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrIFYNEXFMlzHLKiy",
-  "text" : "Decorative hand soap, check.",
-  "translations" : {
-    "russian" : "Декоративное мыло для рук, есть."
-  },
-  "tokens" : [ {
-    "token" : "decorative",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "decorate",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "hand",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "soap",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "check",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvEyZNEXFMlzHLQXa",
-  "text" : "Check witnesses as well.",
-  "translations" : {
-    "russian" : "Как следует проверьте свидетеля."
-  },
-  "tokens" : [ {
-    "token" : "check",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "witness",
-    "startOffset" : 6,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "as",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "well",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvFeVNEXFMlzHLQYy",
-  "text" : "I'll deposit the check.",
-  "translations" : {
-    "russian" : "Я сама открою счет."
-  },
-  "tokens" : [ {
-    "token" : "i'll",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "deposit",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "posit",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "the",
+    "token" : "acoustics",
     "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
+    "endOffset" : 22,
+    "position" : 3
   }, {
-    "token" : "check",
-    "startOffset" : 17,
+    "token" : "acoustic",
+    "startOffset" : 13,
     "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvFTWNEXFMlzHLQYd",
-  "text" : "Check please, Joe.",
+  "id" : "AWoDq7aQDTAu_IiLeM9L",
+  "text" : "Check out these... beatitudes.",
   "translations" : {
-    "russian" : "Пожалуйста, счет, Джо."
+    "russian" : "Зацени эти... заповеди блаженства."
   },
   "tokens" : [ {
     "token" : "check",
@@ -287,73 +323,27 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "please",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "joe",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvF_eNEXFMlzHLQZ5",
-  "text" : "She's got a check.",
-  "translations" : {
-    "russian" : "У нее есть галочка."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "got",
+    "token" : "out",
     "startOffset" : 6,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "a",
+    "token" : "these",
     "startOffset" : 10,
-    "endOffset" : 11,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "check",
-    "startOffset" : 12,
-    "endOffset" : 17,
+    "token" : "beatitude",
+    "startOffset" : 19,
+    "endOffset" : 29,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvGLONEXFMlzHLQaV",
-  "text" : "Yeah, we're checking.",
+  "id" : "AWoDw3TCDTAu_IiLeQhj",
+  "text" : "Check it, chump.",
   "translations" : {
-    "russian" : "Да, как раз сверяемся."
-  },
-  "tokens" : [ {
-    "token" : "yeah",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "we're",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "check",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvcLKNEXFMlzHLQ6y",
-  "text" : "Check the damage aft.",
-  "translations" : {
-    "russian" : "Проверьте ущерб на корме."
+    "russian" : "Хватай мяч, чурбан."
   },
   "tokens" : [ {
     "token" : "check",
@@ -361,55 +351,45 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "the",
+    "token" : "it",
     "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "damage",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "aft",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvE-WNEXFMlzHLQXv",
-  "text" : "That's a big check.",
-  "translations" : {
-    "russian" : "Это большой чек."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 7,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "big",
-    "startOffset" : 9,
-    "endOffset" : 12,
+    "token" : "chump",
+    "startOffset" : 10,
+    "endOffset" : 15,
     "position" : 2
-  }, {
-    "token" : "check",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvGKfNEXFMlzHLQaT",
-  "text" : "I checked the map.",
+  "id" : "AWoElD3SDTAu_IiLe04P",
+  "text" : "Check flight manifests?",
   "translations" : {
-    "russian" : "Я сверился с картой."
+    "russian" : "Проверили полетные манифесты?"
+  },
+  "tokens" : [ {
+    "token" : "check",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "flight",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "manifest",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwnZaDTAu_IiLe9Ms",
+  "text" : "I checked with Deacon.",
+  "translations" : {
+    "russian" : "Я связалась с Диконом."
   },
   "tokens" : [ {
     "token" : "i",
@@ -427,38 +407,43 @@
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "the",
+    "token" : "with",
     "startOffset" : 10,
-    "endOffset" : 13,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "map",
-    "startOffset" : 14,
-    "endOffset" : 17,
+    "token" : "deacon",
+    "startOffset" : 15,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjxo4NEXFMlzHLATb",
-  "text" : "One greenhouse, check.",
+  "id" : "AWoE4R1tDTAu_IiLfCj7",
+  "text" : "Woody, check the corral.",
   "translations" : {
-    "russian" : "Что ж, проверим теплицу."
+    "russian" : "Вуди, посмотри в загоне."
   },
   "tokens" : [ {
-    "token" : "one",
+    "token" : "woody",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "greenhouse",
-    "startOffset" : 4,
-    "endOffset" : 14,
+    "token" : "check",
+    "startOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "check",
-    "startOffset" : 16,
-    "endOffset" : 21,
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
     "position" : 2
+  }, {
+    "token" : "corral",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

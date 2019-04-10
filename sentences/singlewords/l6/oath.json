@@ -1,21 +1,355 @@
 [ {
-  "id" : "AWbgsv8_NEXFMlzHLM2N",
-  "text" : "Yeah, but the oath worked.",
+  "id" : "AWoFX0AVDTAu_IiLfZ-m",
+  "text" : "Oath.",
   "translations" : {
-    "russian" : "Да, но клятва подействовала."
+    "russian" : "Присяга."
   },
   "tokens" : [ {
-    "token" : "yeah",
+    "token" : "oath",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX0UtDTAu_IiLfZ-0",
+  "text" : "The oath.",
+  "translations" : {
+    "russian" : "Клятва."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "oath",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBdCyDTAu_IiLeaR0",
+  "text" : "Accused, take the oath.",
+  "translations" : {
+    "russian" : "Обвиняемый, принесите присягу."
+  },
+  "tokens" : [ {
+    "token" : "accused",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accuse",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "take",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "oath",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX3TBDTAu_IiLfaBU",
+  "text" : "You swore an oath.",
+  "translations" : {
+    "russian" : "Ты принесла клятву."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "swore",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "oath",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXzvlDTAu_IiLfZ-Y",
+  "text" : "Accused, take the oath.",
+  "translations" : {
+    "russian" : "Обвиняемый, принесите присягу."
+  },
+  "tokens" : [ {
+    "token" : "accused",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accuse",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "take",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "oath",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX0NHDTAu_IiLfZ-v",
+  "text" : "Make an oath.",
+  "translations" : {
+    "russian" : "Дай клятву."
+  },
+  "tokens" : [ {
+    "token" : "make",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "but",
-    "startOffset" : 6,
+    "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "oath",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX0xpDTAu_IiLfZ_M",
+  "text" : "You made an oath.",
+  "translations" : {
+    "russian" : "Ты поклялся."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "made",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "oath",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX1tLDTAu_IiLfZ__",
+  "text" : "You took an oath.",
+  "translations" : {
+    "russian" : "Ты дала клятву."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "took",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "oath",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX2I5DTAu_IiLfaAX",
+  "text" : "You swore an oath.",
+  "translations" : {
+    "russian" : "Ты давала клятву."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "swore",
+    "startOffset" : 4,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "the",
+    "token" : "an",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "oath",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX2gZDTAu_IiLfaAp",
+  "text" : "My oath on this.",
+  "translations" : {
+    "russian" : "Клянусь."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "oath",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "this",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX2mqDTAu_IiLfaAu",
+  "text" : "Oh--Blood oath.",
+  "translations" : {
+    "russian" : "О, кровью клянусь."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "blood",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "oath",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX2n_DTAu_IiLfaAv",
+  "text" : "On my oath.",
+  "translations" : {
+    "russian" : "Клянусь."
+  },
+  "tokens" : [ {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 3,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "oath",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX24-DTAu_IiLfaA7",
+  "text" : "That oath was serious?",
+  "translations" : {
+    "russian" : "Так мы клялись всерьез?"
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "oath",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "serious",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX3lVDTAu_IiLfaBj",
+  "text" : "I'll take any oath.",
+  "translations" : {
+    "russian" : "Готов присягнуть где угодно."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "take",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "any",
     "startOffset" : 10,
     "endOffset" : 13,
     "position" : 2
@@ -24,16 +358,57 @@
     "startOffset" : 14,
     "endOffset" : 18,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX0b8DTAu_IiLfZ-6",
+  "text" : "The blood oath.",
+  "translations" : {
+    "russian" : "Клятва крови."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
-    "token" : "worked",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
+    "token" : "blood",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
   }, {
-    "token" : "work",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
+    "token" : "oath",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX17CDTAu_IiLfaAL",
+  "text" : "You took an oath.",
+  "translations" : {
+    "russian" : "Ты давал клятву."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "took",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "oath",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

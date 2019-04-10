@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoDdQWxDTAu_IiLeFYU",
+  "text" : "They're raking up my bulbs!",
+  "translations" : {
+    "russian" : "Они выкапывают мои луковицы!"
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "rake",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "up",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "bulb",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtQBRNEXFMlzHLNcX",
   "text" : "I'm outside raking dirt somewhere.",
   "translations" : {
@@ -28,6 +61,39 @@
     "token" : "somewhere",
     "startOffset" : 24,
     "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAK68DTAu_IiLfIJ8",
+  "text" : "All except the rusty rake.",
+  "translations" : {
+    "russian" : "Все, кроме ржавых граблей."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "except",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "rusty",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "rake",
+    "startOffset" : 21,
+    "endOffset" : 25,
     "position" : 4
   } ],
   "contentScore" : null

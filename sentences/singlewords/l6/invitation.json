@@ -78,6 +78,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDVoMuDTAu_IiLeBRG",
+  "text" : "I rescind my invitation.",
+  "translations" : {
+    "russian" : "Я отменяю своё приглашение."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "rescind",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "invitation",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcwDxNEXFMlzHK6TD",
   "text" : "I take back my invitation.",
   "translations" : {
@@ -287,6 +315,44 @@
     "token" : "invitation",
     "startOffset" : 21,
     "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcMhpDTAu_IiLfdkW",
+  "text" : "Invitation to dinner the German consul.",
+  "translations" : {
+    "russian" : "Приглашение на ужин к немецкому генеральному консулу."
+  },
+  "tokens" : [ {
+    "token" : "invitation",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "dinner",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "german",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "consul",
+    "startOffset" : 32,
+    "endOffset" : 38,
     "position" : 5
   } ],
   "contentScore" : null

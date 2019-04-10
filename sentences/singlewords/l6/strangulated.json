@@ -1,0 +1,50 @@
+[ {
+  "id" : "AWoE6KlnDTAu_IiLfDye",
+  "text" : "Strangulated.",
+  "translations" : {
+    "russian" : "Ущемленная."
+  },
+  "tokens" : [ {
+    "token" : "strangulate",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6KpRDTAu_IiLfDyg",
+  "text" : "Strangulated hernia.",
+  "translations" : {
+    "russian" : "Ущемлённая грыжа."
+  },
+  "tokens" : [ {
+    "token" : "strangulate",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "hernia",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6KreDTAu_IiLfDyh",
+  "text" : "Strangulated hernia?",
+  "translations" : {
+    "russian" : "Ущемлённая грыжа?"
+  },
+  "tokens" : [ {
+    "token" : "strangulate",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "hernia",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+} ]

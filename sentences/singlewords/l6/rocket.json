@@ -1,4 +1,193 @@
 [ {
+  "id" : "AWoEfxK0DTAu_IiLewvP",
+  "text" : "Rocket launcher.",
+  "translations" : {
+    "russian" : "Гранатомет."
+  },
+  "tokens" : [ {
+    "token" : "rocket",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "launcher",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfyWiDTAu_IiLewwL",
+  "text" : "Rocket launchers?",
+  "translations" : {
+    "russian" : "Ракетные установки?"
+  },
+  "tokens" : [ {
+    "token" : "rocket",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "launcher",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfzCBDTAu_IiLewwr",
+  "text" : "Rocket launcher.",
+  "translations" : {
+    "russian" : "Ракетница."
+  },
+  "tokens" : [ {
+    "token" : "rocket",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "launcher",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfzpGDTAu_IiLewxE",
+  "text" : "Use the rocket launcher!",
+  "translations" : {
+    "russian" : "Пусти ракету."
+  },
+  "tokens" : [ {
+    "token" : "use",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "rocket",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "launcher",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEq_RnDTAu_IiLe5Sc",
+  "text" : "Rocket Troop, reload.",
+  "translations" : {
+    "russian" : "Ракетчики, перезаряжай."
+  },
+  "tokens" : [ {
+    "token" : "rocket",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "troop",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "reload",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEq_SmDTAu_IiLe5Sd",
+  "text" : "Rocket Troop, reload!",
+  "translations" : {
+    "russian" : "Ракетчики, перезаряжай!"
+  },
+  "tokens" : [ {
+    "token" : "rocket",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "troop",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "reload",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfzi_DTAu_IiLewxA",
+  "text" : "Gasps My rocket launcher.",
+  "translations" : {
+    "russian" : "Моя РПГ."
+  },
+  "tokens" : [ {
+    "token" : "gasp",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "rocket",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "launcher",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwwecDTAu_IiLe9Tw",
+  "text" : "Egyptian mummies building rockets? !",
+  "translations" : {
+    "russian" : "Египетские мумии, строящие ракеты?"
+  },
+  "tokens" : [ {
+    "token" : "egyptian",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "mummy",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "building",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "build",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "rocket",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu8OuNEXFMlzHLQFp",
   "text" : "Make like a rocket.",
   "translations" : {
@@ -27,145 +216,41 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgu8QcNEXFMlzHLQFr",
-  "text" : "Or a really awesome rocket!",
+  "id" : "AWoEf0yHDTAu_IiLewx7",
+  "text" : "Rocket-propelled grenade launchers.",
   "translations" : {
-    "russian" : "Или по-настоящему потрясающая ракета!"
+    "russian" : "Реактивные гранатометы."
   },
   "tokens" : [ {
-    "token" : "or",
+    "token" : "rocket",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "a",
-    "startOffset" : 3,
-    "endOffset" : 4,
+    "token" : "propelled",
+    "startOffset" : 7,
+    "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "ally",
-    "startOffset" : 5,
-    "endOffset" : 11,
+    "token" : "grenade",
+    "startOffset" : 17,
+    "endOffset" : 24,
     "position" : 2
   }, {
-    "token" : "awesome",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "rocket",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu8MxNEXFMlzHLQFm",
-  "text" : "We're out of rockets, sir.",
-  "translations" : {
-    "russian" : "У нас кончились ракеты, командир."
-  },
-  "tokens" : [ {
-    "token" : "we're",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "out",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "rocket",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "sir",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu8XRNEXFMlzHLQF5",
-  "text" : "It's not rocket science, chief.",
-  "translations" : {
-    "russian" : "Взлетаешь и садишься, ничего сложного."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "rocket",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "science",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "chief",
+    "token" : "launcher",
     "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgySRYNEXFMlzHLUp1",
-  "text" : "And soon the rocket returns.",
-  "translations" : {
-    "russian" : "И скоро обратная ракета."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "soon",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "rocket",
-    "startOffset" : 13,
-    "endOffset" : 19,
+    "endOffset" : 34,
     "position" : 3
-  }, {
-    "token" : "turn",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgu8I3NEXFMlzHLQFd",
-  "text" : "The rocket 128 has disappeared!",
+  "id" : "AWoEfyigDTAu_IiLewwV",
+  "text" : "AT4 rocket launchers, sir.",
   "translations" : {
-    "russian" : "Ракета N 128 исчезла!"
+    "russian" : "Ракетные установки АТ-4, сэр."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "at4",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
@@ -175,134 +260,150 @@
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "128",
+    "token" : "launcher",
     "startOffset" : 11,
-    "endOffset" : 14,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "has",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "token" : "sir",
+    "startOffset" : 22,
+    "endOffset" : 25,
     "position" : 3
-  }, {
-    "token" : "appear",
-    "startOffset" : 19,
-    "endOffset" : 30,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgu8acNEXFMlzHLQGA",
-  "text" : "Get ready to rocket into the...",
+  "id" : "AWoEfyt_DTAu_IiLewwd",
+  "text" : "Rocket launcher. Oh!",
   "translations" : {
-    "russian" : "Приготовьтесь взлететь в..."
+    "russian" : "Ракетная установка..."
   },
   "tokens" : [ {
-    "token" : "get",
+    "token" : "rocket",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "ready",
-    "startOffset" : 4,
+    "token" : "launcher",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "oh",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfzhwDTAu_IiLeww_",
+  "text" : "My rocket launcher!",
+  "translations" : {
+    "russian" : "Моя РПГ!"
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "rocket",
+    "startOffset" : 3,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "to",
+    "token" : "launcher",
     "startOffset" : 10,
-    "endOffset" : 12,
+    "endOffset" : 18,
     "position" : 2
-  }, {
-    "token" : "rocket",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "into",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "the",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgu8SZNEXFMlzHLQFv",
-  "text" : "The rocket's red glare. 8 30.",
+  "id" : "AWoEfzaMDTAu_IiLeww7",
+  "text" : "A damn rocket launcher?",
   "translations" : {
-    "russian" : "Красное зарево ракет. 8 30."
+    "russian" : "Чёртов РПГ?"
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "a",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "rocket",
-    "startOffset" : 4,
-    "endOffset" : 12,
+    "token" : "damn",
+    "startOffset" : 2,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "red",
-    "startOffset" : 13,
-    "endOffset" : 16,
+    "token" : "rocket",
+    "startOffset" : 7,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "glare",
-    "startOffset" : 17,
+    "token" : "launcher",
+    "startOffset" : 14,
     "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "8",
-    "startOffset" : 24,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "30",
-    "startOffset" : 26,
-    "endOffset" : 28,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgu8XwNEXFMlzHLQF6",
-  "text" : "The local vineyards rocketed in price.",
+  "id" : "AWoFZnpGDTAu_IiLfbfu",
+  "text" : "Rockets to colonize space.",
   "translations" : {
-    "russian" : "Местные виноградники взлетели в цене."
+    "russian" : "Ракеты для колонизации космоса."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "rocket",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "local",
-    "startOffset" : 4,
-    "endOffset" : 9,
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "vineyard",
-    "startOffset" : 10,
+    "token" : "colonize",
+    "startOffset" : 11,
     "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "rocket",
+    "token" : "space",
     "startOffset" : 20,
-    "endOffset" : 28,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfy-HDTAu_IiLewwo",
+  "text" : "Of course, a rocket launcher.",
+  "translations" : {
+    "russian" : "Конечно, ракетница!"
+  },
+  "tokens" : [ {
+    "token" : "of",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "course",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "rocket",
+    "startOffset" : 13,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "in",
-    "startOffset" : 29,
-    "endOffset" : 31,
+    "token" : "launcher",
+    "startOffset" : 20,
+    "endOffset" : 28,
     "position" : 4
-  }, {
-    "token" : "price",
-    "startOffset" : 32,
-    "endOffset" : 37,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

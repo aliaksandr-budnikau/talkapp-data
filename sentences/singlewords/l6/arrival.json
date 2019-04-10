@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDV8VlDTAu_IiLeBcQ",
+  "text" : "Your arrival in Antwerp?",
+  "translations" : {
+    "russian" : "Как добрались до Антверпена?"
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "arrival",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "antwerp",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwJF9NEXFMlzHLR58",
   "text" : "Especially with new arrivals.",
   "translations" : {
@@ -23,6 +51,34 @@
     "token" : "arrival",
     "startOffset" : 20,
     "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFC1pEDTAu_IiLfKKB",
+  "text" : "Vindicators, prepare for arrival.",
+  "translations" : {
+    "russian" : "Виндикаторы, приготовиться."
+  },
+  "tokens" : [ {
+    "token" : "vindicator",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "prepare",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "arrival",
+    "startOffset" : 25,
+    "endOffset" : 32,
     "position" : 3
   } ],
   "contentScore" : null

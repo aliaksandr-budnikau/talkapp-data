@@ -1,4 +1,112 @@
 [ {
+  "id" : "AWoFWAZ4DTAu_IiLfYp1",
+  "text" : "Bubble wrap!",
+  "translations" : {
+    "russian" : "Пузырчатая упаковка!"
+  },
+  "tokens" : [ {
+    "token" : "bubble",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wrap",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWAYTDTAu_IiLfYp0",
+  "text" : "Bubble wrap!",
+  "translations" : {
+    "russian" : "Пузырчатая плёнка!"
+  },
+  "tokens" : [ {
+    "token" : "bubble",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wrap",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWAbMDTAu_IiLfYp2",
+  "text" : "Bubble wrap?",
+  "translations" : {
+    "russian" : "Пузырчатая пленка?"
+  },
+  "tokens" : [ {
+    "token" : "bubble",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wrap",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWAT2DTAu_IiLfYpx",
+  "text" : "Bubble wrap.",
+  "translations" : {
+    "russian" : "Ты слышал это. Пузырчатая пленка."
+  },
+  "tokens" : [ {
+    "token" : "bubble",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wrap",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWASSDTAu_IiLfYpw",
+  "text" : "Bubble wrap.",
+  "translations" : {
+    "russian" : "Пузырчатая пленка."
+  },
+  "tokens" : [ {
+    "token" : "bubble",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wrap",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWAWvDTAu_IiLfYpz",
+  "text" : "Bubble wrap.",
+  "translations" : {
+    "russian" : "Пузырчатая плёнка."
+  },
+  "tokens" : [ {
+    "token" : "bubble",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wrap",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgce72NEXFMlzHK6Ds",
   "text" : "I didn't wrap it.",
   "translations" : {
@@ -85,6 +193,29 @@
     "startOffset" : 14,
     "endOffset" : 18,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWAMnDTAu_IiLfYpr",
+  "text" : "Bubble wrap, mom.",
+  "translations" : {
+    "russian" : "Пузырчатую пленку, мама."
+  },
+  "tokens" : [ {
+    "token" : "bubble",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wrap",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "mom",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -220,178 +351,74 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcer_NEXFMlzHK6De",
-  "text" : "Please, don't wrap the storybook!",
+  "id" : "AWoFWAIJDTAu_IiLfYpn",
+  "text" : "I'm not wearing bubble wrap.",
   "translations" : {
-    "russian" : "Пожалуйста, не упаковывайте книгу!"
+    "russian" : "Я не надевал пузырчатую плёнку."
   },
   "tokens" : [ {
-    "token" : "please",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "don't",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "wrap",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "storybook",
-    "startOffset" : 23,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgce81NEXFMlzHK6Dt",
-  "text" : "Did you wrap this yourself?",
-  "translations" : {
-    "russian" : "Ты это сам упаковал?"
-  },
-  "tokens" : [ {
-    "token" : "did",
+    "token" : "i'm",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "you",
+    "token" : "not",
     "startOffset" : 4,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "wrap",
+    "token" : "wearing",
     "startOffset" : 8,
-    "endOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "this",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "token" : "wear",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "bubble",
+    "startOffset" : 16,
+    "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "yourself",
-    "startOffset" : 18,
-    "endOffset" : 26,
+    "token" : "wrap",
+    "startOffset" : 23,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcey0NEXFMlzHK6Dk",
-  "text" : "And I'll wrap it too.",
+  "id" : "AWoFWAcxDTAu_IiLfYp3",
+  "text" : "Besides, bubble wrap is fun.",
   "translations" : {
-    "russian" : "А там же упакую."
+    "russian" : "Тем более, пузырчатая упаковка это весело."
   },
   "tokens" : [ {
-    "token" : "and",
+    "token" : "beside",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "i'll",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "wrap",
+    "token" : "bubble",
     "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "it",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "too",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgceqRNEXFMlzHK6Dc",
-  "text" : "Can you wrap these for me?",
-  "translations" : {
-    "russian" : "Вы можете их упаковать для меня?"
-  },
-  "tokens" : [ {
-    "token" : "can",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
+    "endOffset" : 15,
     "position" : 1
   }, {
     "token" : "wrap",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "these",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "for",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "me",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgce_hNEXFMlzHK6Dv",
-  "text" : "You can wrap this up. please.",
-  "translations" : {
-    "russian" : "Упакуйте её, пожалуйста."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "can",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "wrap",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "this",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "up",
-    "startOffset" : 18,
+    "startOffset" : 16,
     "endOffset" : 20,
-    "position" : 4
+    "position" : 2
   }, {
-    "token" : "please",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 5
+    "token" : "is",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "fun",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

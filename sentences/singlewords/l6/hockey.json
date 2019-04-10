@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDlRvLDTAu_IiLeJ83",
+  "text" : "Howard coaches bantam hockey.",
+  "translations" : {
+    "russian" : "Тренер Говард, детский хоккей."
+  },
+  "tokens" : [ {
+    "token" : "howard",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "coach",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "bantam",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "hockey",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnrbnNEXFMlzHLF2c",
   "text" : "Antiques, collectibles, hockey memorabilia.",
   "translations" : {
@@ -24,6 +52,39 @@
     "startOffset" : 31,
     "endOffset" : 42,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4Ut7DTAu_IiLeUNy",
+  "text" : "We play roller hockey together.",
+  "translations" : {
+    "russian" : "Мы играем вместе в хоккей на роликах."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "play",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "roller",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "hockey",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "together",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

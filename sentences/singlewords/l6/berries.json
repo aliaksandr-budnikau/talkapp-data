@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoD-iCKDTAu_IiLeYDT",
+  "text" : "Twig and berries.",
+  "translations" : {
+    "russian" : "Веточку и ягодки."
+  },
+  "tokens" : [ {
+    "token" : "twig",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "berry",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgd8_SNEXFMlzHK7UE",
   "text" : "Eating nuts and berries.",
   "translations" : {
@@ -174,6 +197,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD-iX5DTAu_IiLeYDl",
+  "text" : "All there - twig and berries, too.",
+  "translations" : {
+    "russian" : "Всё там...веточка и ягодки тоже."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "there",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "twig",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "berry",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "too",
+    "startOffset" : 30,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgd9L_NEXFMlzHK7UP",
   "text" : "I have -- I have fresh berries.",
   "translations" : {
@@ -208,6 +269,82 @@
     "token" : "berry",
     "startOffset" : 23,
     "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZRi-DTAu_IiLeDCE",
+  "text" : "The berries have a sweet flavor.",
+  "translations" : {
+    "russian" : "Ягоды имеют сладковатый привкус."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "berry",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "sweet",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "flavor",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-hCmDTAu_IiLeYCi",
+  "text" : "All there -- twig and berries, too.",
+  "translations" : {
+    "russian" : "Всё там... веточка и ягодки тоже."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "there",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "twig",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "berry",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "too",
+    "startOffset" : 31,
+    "endOffset" : 34,
     "position" : 5
   } ],
   "contentScore" : null

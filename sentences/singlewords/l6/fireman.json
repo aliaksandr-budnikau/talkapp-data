@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoFTwI6DTAu_IiLfXFs",
+  "text" : "I'm thinking fireman's helmet.",
+  "translations" : {
+    "russian" : "Не хватает пожарной каски."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "thinking",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "think",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "fireman",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "helmet",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkBejNEXFMlzHLAgq",
   "text" : "What's with the plastic fireman's hat?",
   "translations" : {
@@ -33,6 +66,44 @@
     "token" : "hat",
     "startOffset" : 34,
     "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOa0EDTAu_IiLekG9",
+  "text" : "Course, Dad's an auxiliary fireman now.",
+  "translations" : {
+    "russian" : "Конечно, теперь папа помощник пожарного."
+  },
+  "tokens" : [ {
+    "token" : "course",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dad",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "auxiliary",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "fireman",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "now",
+    "startOffset" : 35,
+    "endOffset" : 38,
     "position" : 5
   } ],
   "contentScore" : null

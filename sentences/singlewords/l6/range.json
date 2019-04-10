@@ -241,6 +241,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEdp2YDTAu_IiLevE6",
+  "text" : "Free-range, organic pigeon.",
+  "translations" : {
+    "russian" : "На свободном выгуле, натуральный голубь."
+  },
+  "tokens" : [ {
+    "token" : "free",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "range",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "organic",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "pigeon",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmthONEXFMlzHLEW3",
   "text" : "They're within range.",
   "translations" : {
@@ -396,29 +424,6 @@
     "startOffset" : 18,
     "endOffset" : 23,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmtBjNEXFMlzHLEV9",
-  "text" : "So, close range.",
-  "translations" : {
-    "russian" : "Значит, с близкого расстояния."
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "close",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "range",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
   } ],
   "contentScore" : null
 } ]

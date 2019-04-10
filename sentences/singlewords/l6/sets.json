@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoEclKkDTAu_IiLeuSu",
+  "text" : "Depth set!",
+  "translations" : {
+    "russian" : "Торпеды."
+  },
+  "tokens" : [ {
+    "token" : "depth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "set",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZi6EDTAu_IiLesRm",
+  "text" : "Set harpoon.",
+  "translations" : {
+    "russian" : "Готовь гарпун."
+  },
+  "tokens" : [ {
+    "token" : "set",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "harpoon",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgigqWNEXFMlzHK_O3",
   "text" : "My execution's set.",
   "translations" : {
@@ -241,6 +277,85 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDRItgDTAu_IiLd-Tf",
+  "text" : "Set five struggle academically.",
+  "translations" : {
+    "russian" : "Класс Д имеет трудности в учебе."
+  },
+  "tokens" : [ {
+    "token" : "set",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "five",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "struggle",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "academical",
+    "startOffset" : 18,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcLGhDTAu_IiLfdjR",
+  "text" : "A Meccano Set?",
+  "translations" : {
+    "russian" : "Конструктор?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "meccano",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "set",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfF-CDTAu_IiLffrX",
+  "text" : "Corruption in data set.",
+  "translations" : {
+    "russian" : "Искажение в наборе данных."
+  },
+  "tokens" : [ {
+    "token" : "corruption",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "data",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "set",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgieKpNEXFMlzHK_Mu",
   "text" : "Quiet on the set.",
   "translations" : {
@@ -294,131 +409,6 @@
     "startOffset" : 20,
     "endOffset" : 25,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqE6VNEXFMlzHLJJo",
-  "text" : "Crossfire emplacements are set.",
-  "translations" : {
-    "russian" : "Укрепления с перекрестным огнем установлены."
-  },
-  "tokens" : [ {
-    "token" : "crossfire",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "emplacement",
-    "startOffset" : 10,
-    "endOffset" : 22,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 2
-  }, {
-    "token" : "set",
-    "startOffset" : 27,
-    "endOffset" : 30,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqELONEXFMlzHLJIl",
-  "text" : "My execution's set.",
-  "translations" : {
-    "russian" : "Дата моей казни уже назначена."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "execution",
-    "startOffset" : 3,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "set",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqFP0NEXFMlzHLJKG",
-  "text" : "How'd your set go?",
-  "translations" : {
-    "russian" : "Как прошел твой сет?"
-  },
-  "tokens" : [ {
-    "token" : "how'd",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "set",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "go",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqE_8NEXFMlzHLJJw",
-  "text" : "Game, set, match.",
-  "translations" : {
-    "russian" : "Игра, сет, матч."
-  },
-  "tokens" : [ {
-    "token" : "game",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "set",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "match",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqHEqNEXFMlzHLJMn",
-  "text" : "Okay, you set?",
-  "translations" : {
-    "russian" : "Хорошо, ты схватилась хорошо?"
-  },
-  "tokens" : [ {
-    "token" : "okay",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "set",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
   } ],
   "contentScore" : null
 } ]

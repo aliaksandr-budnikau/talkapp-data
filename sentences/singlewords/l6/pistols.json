@@ -27,6 +27,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEq-0kDTAu_IiLe5SK",
+  "text" : "Dan, reload me pistols!",
+  "translations" : {
+    "russian" : "Дэн, перезаряди пистолеты!"
+  },
+  "tokens" : [ {
+    "token" : "dan",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "reload",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "pistol",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErAvZDTAu_IiLe5Tb",
+  "text" : "I'm reloading the pistols.",
+  "translations" : {
+    "russian" : "Я заряжаю пистолеты."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "reload",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "pistol",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguTpCNEXFMlzHLO1v",
   "text" : "You got a pistol permit?",
   "translations" : {
@@ -123,6 +179,82 @@
     "startOffset" : 16,
     "endOffset" : 22,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPYAxDTAu_IiLd9J3",
+  "text" : "25 auto pistol on the floor.",
+  "translations" : {
+    "russian" : "Автоматический пистолет 25-го калибра на полу."
+  },
+  "tokens" : [ {
+    "token" : "25",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "auto",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "pistol",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "floor",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8l1ZDTAu_IiLeWk1",
+  "text" : "That was a Colt.45 pistol.",
+  "translations" : {
+    "russian" : "Это был Кольт 45-го."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "colt",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "45",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 4
+  }, {
+    "token" : "pistol",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

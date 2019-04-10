@@ -83,6 +83,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDSSCqDTAu_IiLd_FX",
+  "text" : "Partial custody, alimony.",
+  "translations" : {
+    "russian" : "Раздельная опека, платит алименты."
+  },
+  "tokens" : [ {
+    "token" : "partial",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "custody",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "alimony",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgr3kQNEXFMlzHLLoe",
   "text" : "He's still in custody?",
   "translations" : {
@@ -108,6 +131,39 @@
     "startOffset" : 14,
     "endOffset" : 21,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwuNIDTAu_IiLeQcU",
+  "text" : "Custody disputes can be ugly.",
+  "translations" : {
+    "russian" : "Споры об опеке могут быть неприглядны."
+  },
+  "tokens" : [ {
+    "token" : "custody",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "dispute",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "can",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "ugly",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -141,6 +197,44 @@
     "startOffset" : 26,
     "endOffset" : 28,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEzyPDTAu_IiLec7L",
+  "text" : "Your grandchild is in my custody.",
+  "translations" : {
+    "russian" : "Ваш ребенок у меня."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "grandchild",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "my",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "custody",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -216,6 +310,44 @@
     "token" : "custody",
     "startOffset" : 23,
     "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEzwhDTAu_IiLec7J",
+  "text" : "Your grandchild is in my custody.",
+  "translations" : {
+    "russian" : "Ваш ребенок у меня."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "grandchild",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "my",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "custody",
+    "startOffset" : 25,
+    "endOffset" : 32,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,0 +1,83 @@
+[ {
+  "id" : "AWoEeNEsDTAu_IiLevgc",
+  "text" : "Rueful, soulful.",
+  "translations" : {
+    "russian" : "С мягкой горечью."
+  },
+  "tokens" : [ {
+    "token" : "rueful",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "soulful",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeNBgDTAu_IiLevgZ",
+  "text" : "Chuckles ruefully.",
+  "translations" : {
+    "russian" : "Усмехается."
+  },
+  "tokens" : [ {
+    "token" : "chuckle",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "rueful",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeNCeDTAu_IiLevga",
+  "text" : "John. Rueful laugh.",
+  "translations" : {
+    "russian" : "Джон."
+  },
+  "tokens" : [ {
+    "token" : "john",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "rueful",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "laugh",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeM_TDTAu_IiLevgX",
+  "text" : "Rueful Chuckle No.",
+  "translations" : {
+    "russian" : "Нет."
+  },
+  "tokens" : [ {
+    "token" : "rueful",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "chuckle",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

@@ -1,4 +1,76 @@
 [ {
+  "id" : "AWoEBFRODTAu_IiLeZ_8",
+  "text" : "Brakes Squeal.",
+  "translations" : {
+    "russian" : "Визг тормозов."
+  },
+  "tokens" : [ {
+    "token" : "brake",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "squeal",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBH9ZDTAu_IiLeaB4",
+  "text" : "Brakes Squeal.",
+  "translations" : {
+    "russian" : "Визг тормозов."
+  },
+  "tokens" : [ {
+    "token" : "brake",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "squeal",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKQy7DTAu_IiLeg3n",
+  "text" : "Brakes screeching.",
+  "translations" : {
+    "russian" : "Визжащие тормоза."
+  },
+  "tokens" : [ {
+    "token" : "brake",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "screech",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKPK5DTAu_IiLeg2c",
+  "text" : "Brakes screeching.",
+  "translations" : {
+    "russian" : "Визг тормозов."
+  },
+  "tokens" : [ {
+    "token" : "brake",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "screech",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmGNINEXFMlzHLDTQ",
   "text" : "Never use the brakes.",
   "translations" : {
@@ -101,6 +173,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDRcXuDTAu_IiLd-hL",
+  "text" : "Brake and accelerator.",
+  "translations" : {
+    "russian" : "Тормоз и газ."
+  },
+  "tokens" : [ {
+    "token" : "brake",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "accelerator",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmGbiNEXFMlzHLDTq",
   "text" : "Well, those brakes suck.",
   "translations" : {
@@ -162,6 +257,143 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFSWl6DTAu_IiLfWDV",
+  "text" : "The capillary can brake.",
+  "translations" : {
+    "russian" : "Может сосуд лопнуть."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "capillary",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "can",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "brake",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKd32DTAu_IiLehB0",
+  "text" : "LRB- brakes screech -RRB- Whoa!",
+  "translations" : {
+    "russian" : "Визг тормозов Стоп!"
+  },
+  "tokens" : [ {
+    "token" : "lrb",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "brake",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "screech",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "rrb",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "whoa",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUqIhDTAu_IiLfXuj",
+  "text" : "Brake and muffler exhibit -- no.",
+  "translations" : {
+    "russian" : "Тормоз и глушитель -- нет."
+  },
+  "tokens" : [ {
+    "token" : "brake",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "muffler",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "muffle",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "exhibit",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "no",
+    "startOffset" : 29,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVq02DTAu_IiLfYbM",
+  "text" : "Carbon ceramic brakes, not fading.",
+  "translations" : {
+    "russian" : "Карбоновые керамические тормоза не подводят меня."
+  },
+  "tokens" : [ {
+    "token" : "carbon",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "ceramic",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "brake",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "not",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "fading",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "fad",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmGS_NEXFMlzHLDTb",
   "text" : "This thing has brakes, right?",
   "translations" : {
@@ -197,310 +429,6 @@
     "startOffset" : 23,
     "endOffset" : 28,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmGOWNEXFMlzHLDTS",
-  "text" : "Set the parking brake, please.",
-  "translations" : {
-    "russian" : "Прошу Вас, поставьте самолет на ручной тормоз."
-  },
-  "tokens" : [ {
-    "token" : "set",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "parking",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "park",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "brake",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "please",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmGUsNEXFMlzHLDTe",
-  "text" : "Gibbs, Norton's brakes were definitely...",
-  "translations" : {
-    "russian" : "Гиббс, тормоза Нортона, определенно..."
-  },
-  "tokens" : [ {
-    "token" : "gibb",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "norton",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "brake",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "were",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "finitely",
-    "startOffset" : 28,
-    "endOffset" : 38,
-    "position" : 4
-  }, {
-    "token" : "definite",
-    "startOffset" : 28,
-    "endOffset" : 38,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmGW5NEXFMlzHLDTj",
-  "text" : "Someone tampered with Conrad's brakes.",
-  "translations" : {
-    "russian" : "Кто-то испортил тормоза Конрада."
-  },
-  "tokens" : [ {
-    "token" : "someone",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "tampered",
-    "startOffset" : 8,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "tamper",
-    "startOffset" : 8,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "with",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "conrad",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 3
-  }, {
-    "token" : "brake",
-    "startOffset" : 31,
-    "endOffset" : 37,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmG23NEXFMlzHLDUW",
-  "text" : "I spilled brake fluid on myself.",
-  "translations" : {
-    "russian" : "Я пролил на себя тормозную жидкость."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "spill",
-    "startOffset" : 2,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "brake",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "fluid",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "on",
-    "startOffset" : 22,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "myself",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmGUNNEXFMlzHLDTd",
-  "text" : "Put your foot on the brake.",
-  "translations" : {
-    "russian" : "Поставь ногу на тормоз."
-  },
-  "tokens" : [ {
-    "token" : "put",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "foot",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "brake",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmGbDNEXFMlzHLDTp",
-  "text" : "Bump, bump, bump went the brakes.",
-  "translations" : {
-    "russian" : "Тормоза скрипели."
-  },
-  "tokens" : [ {
-    "token" : "bump",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "bump",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "bump",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "went",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "brake",
-    "startOffset" : 26,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmHFdNEXFMlzHLDUx",
-  "text" : "Yes, but where are the brakes?",
-  "translations" : {
-    "russian" : "Да, но как же тормозить?"
-  },
-  "tokens" : [ {
-    "token" : "yes",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "but",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "where",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "are",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "brake",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmGmRNEXFMlzHLDT8",
-  "text" : "And into the trickiest braking spot.",
-  "translations" : {
-    "russian" : "И в сложнейшое место торможения."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "into",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "tricky",
-    "startOffset" : 13,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "brake",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "spot",
-    "startOffset" : 31,
-    "endOffset" : 35,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

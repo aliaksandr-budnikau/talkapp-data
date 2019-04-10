@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoE6YIdDTAu_IiLfD7W",
+  "text" : "Towel and cord clamp.",
+  "translations" : {
+    "russian" : "Полотенце и зажим для пуповины."
+  },
+  "tokens" : [ {
+    "token" : "towel",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "cord",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "clamp",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzPJlNEXFMlzHLWDV",
   "text" : "I need a fresh towel.",
   "translations" : {
@@ -70,44 +98,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxEZ_NEXFMlzHLS0R",
-  "text" : "Will you hand me that towel?",
-  "translations" : {
-    "russian" : "Можешь передать мне полотенце?"
-  },
-  "tokens" : [ {
-    "token" : "will",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "hand",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "me",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "that",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "towel",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgyUVPNEXFMlzHLUuK",
   "text" : "I'll get you some more towels.",
   "translations" : {
@@ -142,6 +132,44 @@
     "token" : "towel",
     "startOffset" : 23,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgxEZ_NEXFMlzHLS0R",
+  "text" : "Will you hand me that towel?",
+  "translations" : {
+    "russian" : "Можешь передать мне полотенце?"
+  },
+  "tokens" : [ {
+    "token" : "will",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "hand",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "that",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "towel",
+    "startOffset" : 22,
+    "endOffset" : 27,
     "position" : 5
   } ],
   "contentScore" : null

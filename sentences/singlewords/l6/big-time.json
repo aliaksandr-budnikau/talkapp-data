@@ -1,4 +1,70 @@
 [ {
+  "id" : "AWoE_UfGDTAu_IiLfHeq",
+  "text" : "Big Cow, time to close.",
+  "translations" : {
+    "russian" : "Старший Слон, пора закрываться."
+  },
+  "tokens" : [ {
+    "token" : "big",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "time",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "close",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6aJ6DTAu_IiLfD8b",
+  "text" : "I owe you big time.",
+  "translations" : {
+    "russian" : "С меня причитается."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "owe",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "big",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 3
+  }, {
+    "token" : "time",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghTc1NEXFMlzHK-OP",
   "text" : "Now he's a big time screenwriter.",
   "translations" : {
@@ -33,6 +99,44 @@
     "token" : "screenwriter",
     "startOffset" : 20,
     "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKbmmDTAu_IiLfP_m",
+  "text" : "Big-time trafficking in fake emeralds.",
+  "translations" : {
+    "russian" : "Там крупные махинации с фальшивыми изумрудами."
+  },
+  "tokens" : [ {
+    "token" : "big",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "time",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "trafficking",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "fake",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "emerald",
+    "startOffset" : 29,
+    "endOffset" : 37,
     "position" : 5
   } ],
   "contentScore" : null

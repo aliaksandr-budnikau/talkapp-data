@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoFDbSJDTAu_IiLfKle",
+  "text" : "Jack Toller.",
+  "translations" : {
+    "russian" : "Джек Толлер."
+  },
+  "tokens" : [ {
+    "token" : "jack",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "toller",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0oqlDTAu_IiLfAGJ",
+  "text" : "G'day, Jack.",
+  "translations" : {
+    "russian" : "Доброе утро, Джек."
+  },
+  "tokens" : [ {
+    "token" : "g'day",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "jack",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrL04NEXFMlzHLKob",
   "text" : "People talk, Jack.",
   "translations" : {
@@ -18,6 +54,263 @@
     "token" : "jack",
     "startOffset" : 13,
     "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnftYDTAu_IiLeLKm",
+  "text" : "Jack is delirious.",
+  "translations" : {
+    "russian" : "Дженни, Джек бредит."
+  },
+  "tokens" : [ {
+    "token" : "jack",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "delirious",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoZ_3DTAu_IiLe3ac",
+  "text" : "Jack Wilder, behavioral therapist.",
+  "translations" : {
+    "russian" : "Джек Вилдер, специалист по поведению."
+  },
+  "tokens" : [ {
+    "token" : "jack",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "wilder",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "wilde",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "wild",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "behavioral",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "therapist",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEulLXDTAu_IiLe7uM",
+  "text" : "He's a playwright, Jack.",
+  "translations" : {
+    "russian" : "Он драматург, Джак."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "playwright",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "jack",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAgAADTAu_IiLfIaT",
+  "text" : "Jack, fix those cartridges.",
+  "translations" : {
+    "russian" : "Джек, набейте патроны."
+  },
+  "tokens" : [ {
+    "token" : "jack",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fix",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "those",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "cartridge",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDbZZDTAu_IiLfKlk",
+  "text" : "You'll find Jack Toller.",
+  "translations" : {
+    "russian" : "Найдем Джека Толлера."
+  },
+  "tokens" : [ {
+    "token" : "you'll",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "find",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "jack",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "toller",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI2t7DTAu_IiLef1r",
+  "text" : "This is growth, Jack.",
+  "translations" : {
+    "russian" : "Это прогресс, Джек."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "growth",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "grow",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "jack",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWa4cDTAu_IiLfY7y",
+  "text" : "Let's join Jack's tribe!",
+  "translations" : {
+    "russian" : "Давай вступим в племя Джека!"
+  },
+  "tokens" : [ {
+    "token" : "let",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "join",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "jack",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "tribe",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDOgaaDTAu_IiLd8oe",
+  "text" : "I'm Jack Starks.",
+  "translations" : {
+    "russian" : "Я Джекс Старкс."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "jack",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "stark",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjOYpDTAu_IiLfiVQ",
+  "text" : "Jack Slater IV.",
+  "translations" : {
+    "russian" : "Джек Слейтер IV."
+  },
+  "tokens" : [ {
+    "token" : "jack",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "slater",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "slat",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "iv",
+    "startOffset" : 12,
+    "endOffset" : 14,
     "position" : 2
   } ],
   "contentScore" : null
@@ -126,239 +419,36 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcaVYNEXFMlzHK5_j",
-  "text" : "You got ta eat, Jack.",
+  "id" : "AWoEKsRyDTAu_IiLehNK",
+  "text" : "You're a regular Jack sparrow.",
   "translations" : {
-    "russian" : "Ты должен съесть, Джек."
+    "russian" : "Ты просто Джек Воробей."
   },
   "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "ta",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "eat",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "jack",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyORbNEXFMlzHLUhl",
-  "text" : "Pass it to Travis, Jack.",
-  "translations" : {
-    "russian" : "Пасуй Тревису, Джек!"
-  },
-  "tokens" : [ {
-    "token" : "pass",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "travis",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "jack",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwGVjNEXFMlzHLR1D",
-  "text" : "He gets airsick, don't you, Jack?",
-  "translations" : {
-    "russian" : "Воздушная болезнь, да Джек?"
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "get",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "airsick",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "don't",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "you",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "jack",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjnc8NEXFMlzHLAKl",
-  "text" : "You jack our prices up 10 ?",
-  "translations" : {
-    "russian" : "Ты повысил наши цены на 10 ?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "jack",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "price",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "up",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "10",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnLNjNEXFMlzHLFC6",
-  "text" : "You jack our prices up 10 ?",
-  "translations" : {
-    "russian" : "Ты повысил наши цены на 10 ?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "jack",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "price",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "up",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "10",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyOOvNEXFMlzHLUhe",
-  "text" : "Soccer Jack passes from the left...",
-  "translations" : {
-    "russian" : "Утболист жек пасует с левого фланга..."
-  },
-  "tokens" : [ {
-    "token" : "soccer",
+    "token" : "you're",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "jack",
+    "token" : "a",
     "startOffset" : 7,
-    "endOffset" : 11,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "pass",
-    "startOffset" : 12,
-    "endOffset" : 18,
+    "token" : "regular",
+    "startOffset" : 9,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "from",
-    "startOffset" : 19,
-    "endOffset" : 23,
+    "token" : "jack",
+    "startOffset" : 17,
+    "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "the",
-    "startOffset" : 24,
-    "endOffset" : 27,
+    "token" : "sparrow",
+    "startOffset" : 22,
+    "endOffset" : 29,
     "position" : 4
-  }, {
-    "token" : "left",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
-}, {
-  "id" : "AWbgl1mKNEXFMlzHLC9_",
-  "text" : "Hollywood Jack?",
-  "translations" : {
-    "russian" : "Голливудский Джек, Большой Вик?"
-  },
-  "tokens" : [ {
-    "token" : "hollywood",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "jack",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 1
-  } ],
-  "contentScore" : "POOR"
 } ]

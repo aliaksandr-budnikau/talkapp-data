@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoDPYmiDTAu_IiLd9KK",
+  "text" : "Auto backup.",
+  "translations" : {
+    "russian" : "Автоматическая запасная копия."
+  },
+  "tokens" : [ {
+    "token" : "auto",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "backup",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyrGgNEXFMlzHLVEh",
   "text" : "Requesting medical and backup.",
   "translations" : {
@@ -21,6 +39,95 @@
     "position" : 2
   }, {
     "token" : "backup",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZVcXDTAu_IiLeDEh",
+  "text" : "Backup doors reinforced.",
+  "translations" : {
+    "russian" : "Запасные двери укреплены..."
+  },
+  "tokens" : [ {
+    "token" : "backup",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "doors",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "door",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "reinforced",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "reinforce",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqGYUDTAu_IiLe4px",
+  "text" : "Requesting backup to extract.",
+  "translations" : {
+    "russian" : "Запрашиваю помощь, чтобы вытащить его."
+  },
+  "tokens" : [ {
+    "token" : "request",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "backup",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "extract",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaTo3DTAu_IiLesx-",
+  "text" : "The backup generator's failed.",
+  "translations" : {
+    "russian" : "Резервный генератор сдох."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "backup",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "generator",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "fail",
     "startOffset" : 23,
     "endOffset" : 29,
     "position" : 3
@@ -126,6 +233,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEPtOADTAu_IiLelC1",
+  "text" : "This was just a backup veil.",
+  "translations" : {
+    "russian" : "Это была просто запасная фата."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "just",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "backup",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "veil",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyq_jNEXFMlzHLVEV",
   "text" : "Requesting immediate medical assistance and backup.",
   "translations" : {
@@ -160,6 +305,120 @@
     "token" : "backup",
     "startOffset" : 44,
     "endOffset" : 50,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQyH1DTAu_IiLel0v",
+  "text" : "My backup are evacuating the guests.",
+  "translations" : {
+    "russian" : "Моя подмога эвакуирует гостей."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "backup",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "evacuate",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "guest",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHojsDTAu_IiLfNtX",
+  "text" : "Will advise if we need backup.",
+  "translations" : {
+    "russian" : "Мы сообщим, если будет нужна поддержка."
+  },
+  "tokens" : [ {
+    "token" : "will",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "advise",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "if",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "we",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "need",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "backup",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAX4ZDTAu_IiLfIUA",
+  "text" : "We've been ambushed, send us backup!",
+  "translations" : {
+    "russian" : "Мы попали в засаду! Вышлите нам подкрепление!"
+  },
+  "tokens" : [ {
+    "token" : "we've",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "been",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ambush",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "send",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "us",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "backup",
+    "startOffset" : 29,
+    "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null

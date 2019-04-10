@@ -1,4 +1,73 @@
 [ {
+  "id" : "AWoE-hE-DTAu_IiLfG0m",
+  "text" : "Bed, crib!",
+  "translations" : {
+    "russian" : "Кровать, Люлька!"
+  },
+  "tokens" : [ {
+    "token" : "bed",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "b",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "crib",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYpJsDTAu_IiLfaq8",
+  "text" : "The bed.",
+  "translations" : {
+    "russian" : "Кровать."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bed",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "b",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7lzLDTAu_IiLfErj",
+  "text" : "Bed, crib!",
+  "translations" : {
+    "russian" : "Кровать, Люлька!"
+  },
+  "tokens" : [ {
+    "token" : "bed",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "b",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "crib",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtxbwNEXFMlzHLN62",
   "text" : "I'm in bed, sweating.",
   "translations" : {
@@ -65,505 +134,376 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgc6bxNEXFMlzHK6cZ",
-  "text" : "You made your bed, pal.",
+  "id" : "AWoE8G98DTAu_IiLfFCB",
+  "text" : "Fasten your bed-sheets!",
   "translations" : {
-    "russian" : "Ты сам заварил эту кашу."
+    "russian" : "Пристегнулись простынями."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "fasten",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "made",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
   }, {
     "token" : "your",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
   }, {
     "token" : "bed",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
   }, {
     "token" : "b",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
   }, {
-    "token" : "pal",
-    "startOffset" : 19,
+    "token" : "sheet",
+    "startOffset" : 16,
     "endOffset" : 22,
-    "position" : 4
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvgAVNEXFMlzHLRCv",
-  "text" : "She's got a canopy bed.",
+  "id" : "AWoFYqV_DTAu_IiLfar9",
+  "text" : "Come, get to bed.",
   "translations" : {
-    "russian" : "Ей купили кровать с балдахином."
+    "russian" : "А теперь иди спать."
   },
   "tokens" : [ {
-    "token" : "she",
+    "token" : "come",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "got",
+    "token" : "get",
     "startOffset" : 6,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "a",
+    "token" : "to",
     "startOffset" : 10,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "canopy",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "bed",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "b",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgc6Z0NEXFMlzHK6cY",
-  "text" : "You made your bed, kid.",
-  "translations" : {
-    "russian" : "Ты заварил кашу, сынок."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "made",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 9,
-    "endOffset" : 13,
+    "endOffset" : 12,
     "position" : 2
   }, {
     "token" : "bed",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "b",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "kid",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvgF8NEXFMlzHLRC_",
-  "text" : "I miss my canopy bed.",
-  "translations" : {
-    "russian" : "Я скучаю по своей кроватке с навесом."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "miss",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "canopy",
-    "startOffset" : 10,
+    "startOffset" : 13,
     "endOffset" : 16,
     "position" : 3
   }, {
-    "token" : "bed",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
     "token" : "b",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbfmANEXFMlzHK5Ko",
-  "text" : "It's best that way.",
-  "translations" : {
-    "russian" : "Это самый лучший метод."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "best",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "b",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "way",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "startOffset" : 13,
+    "endOffset" : 16,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgq78iNEXFMlzHLKQu",
-  "text" : "It's her best feature.",
+  "id" : "AWoFYr2ZDTAu_IiLfatP",
+  "text" : "Come to bed, Natasha.",
   "translations" : {
-    "russian" : "Это её отличительная особенность."
+    "russian" : "Ложись спать, Наташа."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "come",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "her",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "best",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "b",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "feature",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzXblNEXFMlzHLWUe",
-  "text" : "B - sweet and slow.",
-  "translations" : {
-    "russian" : "Б - ласково и медленно."
-  },
-  "tokens" : [ {
-    "token" : "b",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "sweet",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "slow",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiU_dNEXFMlzHK_Ez",
-  "text" : "He's my best promoter.",
-  "translations" : {
-    "russian" : "Он мой лучший промоутер."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "my",
+    "token" : "to",
     "startOffset" : 5,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "best",
+    "token" : "bed",
     "startOffset" : 8,
-    "endOffset" : 12,
+    "endOffset" : 11,
     "position" : 2
   }, {
     "token" : "b",
     "startOffset" : 8,
-    "endOffset" : 12,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "promoter",
+    "token" : "natasha",
     "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "promote",
-    "startOffset" : 13,
-    "endOffset" : 21,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrpPcNEXFMlzHLLTf",
-  "text" : "You're my best receiver.",
+  "id" : "AWoFYr3nDTAu_IiLfatQ",
+  "text" : "Go back to bed.",
   "translations" : {
-    "russian" : "Ты же лучший принимающий."
+    "russian" : "Ложись спать."
   },
   "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "best",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "b",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "receiver",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "receive",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsauINEXFMlzHLMaY",
-  "text" : "My best friend!",
-  "translations" : {
-    "russian" : "Моя лучшая подруга!"
-  },
-  "tokens" : [ {
-    "token" : "my",
+    "token" : "go",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "best",
+    "token" : "back",
     "startOffset" : 3,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "b",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "friend",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpMs6NEXFMlzHLH9D",
-  "text" : "Very best quality, good price.",
-  "translations" : {
-    "russian" : "Лучшее качество, хорошая цена."
-  },
-  "tokens" : [ {
-    "token" : "very",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "best",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "b",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "quality",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "good",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "price",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgq7bQNEXFMlzHLKP7",
-  "text" : "They're my second-best feature.",
-  "translations" : {
-    "russian" : "Это моя вторая лучшая черта."
-  },
-  "tokens" : [ {
-    "token" : "they're",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "my",
+    "token" : "to",
     "startOffset" : 8,
     "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "second",
-    "startOffset" : 11,
-    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "best",
-    "startOffset" : 18,
-    "endOffset" : 22,
+    "token" : "bed",
+    "startOffset" : 11,
+    "endOffset" : 14,
     "position" : 3
   }, {
     "token" : "b",
-    "startOffset" : 18,
-    "endOffset" : 22,
+    "startOffset" : 11,
+    "endOffset" : 14,
     "position" : 3
-  }, {
-    "token" : "feature",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjZZqNEXFMlzHK_-R",
-  "text" : "Very best quality, good price.",
+  "id" : "AWoFiMS0DTAu_IiLfhpi",
+  "text" : "Let's christen the bed.",
   "translations" : {
-    "russian" : "Лучшее качество, хорошая цена."
+    "russian" : "Давай окрестим кровать."
   },
   "tokens" : [ {
-    "token" : "very",
+    "token" : "let",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "best",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "token" : "christen",
+    "startOffset" : 6,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "b",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "token" : "christ",
+    "startOffset" : 6,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "quality",
-    "startOffset" : 10,
-    "endOffset" : 17,
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "good",
+    "token" : "bed",
     "startOffset" : 19,
-    "endOffset" : 23,
+    "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "price",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 4
+    "token" : "b",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggdZGNEXFMlzHK9e4",
-  "text" : "You know the best bit?",
+  "id" : "AWoE-6wmDTAu_IiLfHJu",
+  "text" : "I'm in bed, sweating.",
   "translations" : {
-    "russian" : "Вы знаете лучший бит?"
+    "russian" : "Потею в кровати."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "i'm",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "know",
+    "token" : "in",
     "startOffset" : 4,
-    "endOffset" : 8,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "bed",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "b",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "sweat",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFey8nDTAu_IiLffdg",
+  "text" : "We pooped the bed!",
+  "translations" : {
+    "russian" : "Мы нагадили в кровать!"
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "poop",
+    "startOffset" : 3,
+    "endOffset" : 9,
     "position" : 1
   }, {
     "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
+    "startOffset" : 10,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "best",
-    "startOffset" : 13,
+    "token" : "bed",
+    "startOffset" : 14,
     "endOffset" : 17,
     "position" : 3
   }, {
     "token" : "b",
-    "startOffset" : 13,
+    "startOffset" : 14,
     "endOffset" : 17,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYpjHDTAu_IiLfarT",
+  "text" : "What about your bed?",
+  "translations" : {
+    "russian" : "А что с твоей кроватью?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
-    "token" : "bit",
+    "token" : "about",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "bed",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "b",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYpfZDTAu_IiLfarQ",
+  "text" : "Nothing under the bed.",
+  "translations" : {
+    "russian" : "Под кроватью ничего."
+  },
+  "tokens" : [ {
+    "token" : "nothing",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "under",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "bed",
     "startOffset" : 18,
     "endOffset" : 21,
-    "position" : 4
+    "position" : 3
+  }, {
+    "token" : "b",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYqFlDTAu_IiLfarx",
+  "text" : "Off and bed.",
+  "translations" : {
+    "russian" : "Одежду долой и в постель."
+  },
+  "tokens" : [ {
+    "token" : "off",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "bed",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "b",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYriBDTAu_IiLfas_",
+  "text" : "Is Mother in bed?",
+  "translations" : {
+    "russian" : "А мама уже легла?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "mother",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "moth",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bed",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "b",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

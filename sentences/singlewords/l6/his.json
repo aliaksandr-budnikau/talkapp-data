@@ -1,214 +1,277 @@
 [ {
-  "id" : "AWbgcCbZNEXFMlzHK5p8",
-  "text" : "I celebrate his humanity!",
+  "id" : "AWoDQor1DTAu_IiLd988",
+  "text" : "His administration... his problem.",
   "translations" : {
-    "russian" : "Я прославляю его человечность!"
+    "russian" : "Его правление его проблема."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "his",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "celebrate",
-    "startOffset" : 2,
-    "endOffset" : 11,
+    "token" : "administration",
+    "startOffset" : 4,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "administrate",
+    "startOffset" : 4,
+    "endOffset" : 18,
     "position" : 1
   }, {
     "token" : "his",
-    "startOffset" : 12,
-    "endOffset" : 15,
+    "startOffset" : 22,
+    "endOffset" : 25,
     "position" : 2
   }, {
-    "token" : "humanity",
-    "startOffset" : 16,
-    "endOffset" : 24,
+    "token" : "problem",
+    "startOffset" : 26,
+    "endOffset" : 33,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgeDGGNEXFMlzHK7ZZ",
-  "text" : "Look at his fan!",
+  "id" : "AWoEt9a5DTAu_IiLe7Si",
+  "text" : "His dignity...",
   "translations" : {
-    "russian" : "Взгляните на его веер!"
+    "russian" : "Своего достоинства..."
   },
   "tokens" : [ {
-    "token" : "look",
+    "token" : "his",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "at",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "his",
-    "startOffset" : 8,
+    "token" : "dignity",
+    "startOffset" : 4,
     "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "fan",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgj_f-NEXFMlzHLAfC",
-  "text" : "They are his pets.",
+  "id" : "AWoE6mskDTAu_IiLfEDz",
+  "text" : "His stutter.",
   "translations" : {
-    "russian" : "Они - его любимцы."
+    "russian" : "От заикания."
   },
   "tokens" : [ {
-    "token" : "they",
+    "token" : "his",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "are",
-    "startOffset" : 5,
+    "token" : "stutter",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6vxlDTAu_IiLfEJi",
+  "text" : "His stutter?",
+  "translations" : {
+    "russian" : "Заикался?"
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "stutter",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRC-VDTAu_IiLfVDv",
+  "text" : "His hamstring.",
+  "translations" : {
+    "russian" : "Его подколенное сухожилие."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "hamstring",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDaIfGDTAu_IiLeDlf",
+  "text" : "His complexion.",
+  "translations" : {
+    "russian" : "Его внешность."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "complexion",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRK6WDTAu_IiLfVJ9",
+  "text" : "His hamstring.",
+  "translations" : {
+    "russian" : "Его подколенное сухожилие."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "hamstring",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6l5hDTAu_IiLfEDV",
+  "text" : "His stutter?",
+  "translations" : {
+    "russian" : "Заикался?"
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "stutter",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDCAVDTAu_IiLfKTH",
+  "text" : "His alleged.",
+  "translations" : {
+    "russian" : "Так называемым."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "alleged",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "allege",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6gSYDTAu_IiLfEAV",
+  "text" : "His concubine.",
+  "translations" : {
+    "russian" : "Его наложница."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "concubine",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6wlmDTAu_IiLfEKA",
+  "text" : "His stutter.",
+  "translations" : {
+    "russian" : "От заикания."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "stutter",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDty5iDTAu_IiLeOq6",
+  "text" : "His blockhead!",
+  "translations" : {
+    "russian" : "Ты тупица!"
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "blockhead",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDhhEnDTAu_IiLeH2h",
+  "text" : "His ribs, both his femurs.",
+  "translations" : {
+    "russian" : "Рёбра, оба бедра."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "rib",
+    "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "his",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "pet",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglpYsNEXFMlzHLC2f",
-  "text" : "His new environmental job.",
-  "translations" : {
-    "russian" : "Об этой новой работе по охране окружающей среды."
-  },
-  "tokens" : [ {
-    "token" : "his",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "new",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "environmental",
-    "startOffset" : 8,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "job",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoR7_NEXFMlzHLGrG",
-  "text" : "His heart is malformed.",
-  "translations" : {
-    "russian" : "У него больное сердце."
-  },
-  "tokens" : [ {
-    "token" : "his",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "heart",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "is",
+    "token" : "both",
     "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "malformed",
-    "startOffset" : 13,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgszSbNEXFMlzHLM6n",
-  "text" : "And all his works?",
-  "translations" : {
-    "russian" : "И от всех его деяний?"
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "all",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "his",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "works",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "work",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgs_etNEXFMlzHLNLz",
-  "text" : "He volunteered his services.",
-  "translations" : {
-    "russian" : "Он предложил свои услуги."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "volunteer",
-    "startOffset" : 3,
     "endOffset" : 14,
-    "position" : 1
+    "position" : 2
   }, {
     "token" : "his",
     "startOffset" : 15,
     "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "services",
-    "startOffset" : 19,
-    "endOffset" : 27,
     "position" : 3
   }, {
-    "token" : "service",
+    "token" : "femur",
     "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 3
+    "endOffset" : 25,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtY7-NEXFMlzHLNgK",
-  "text" : "His face is emaciated.",
+  "id" : "AWoExg2-DTAu_IiLe94A",
+  "text" : "His reach exceeded his grasp.",
   "translations" : {
-    "russian" : "Его лицо истощено."
+    "russian" : "Захотел больше, чем смог ухватить."
   },
   "tokens" : [ {
     "token" : "his",
@@ -216,254 +279,91 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "face",
+    "token" : "reach",
     "startOffset" : 4,
-    "endOffset" : 8,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "is",
-    "startOffset" : 9,
-    "endOffset" : 11,
+    "token" : "exceed",
+    "startOffset" : 10,
+    "endOffset" : 18,
     "position" : 2
-  }, {
-    "token" : "emaciate",
-    "startOffset" : 12,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgve7RNEXFMlzHLRAa",
-  "text" : "He's in his cabin.",
-  "translations" : {
-    "russian" : "Он в своей каюте."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
   }, {
     "token" : "his",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "cabin",
-    "startOffset" : 12,
-    "endOffset" : 17,
+    "startOffset" : 19,
+    "endOffset" : 22,
     "position" : 3
+  }, {
+    "token" : "grasp",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcw8qNEXFMlzHK6T2",
-  "text" : "Don't drink his juice.",
+  "id" : "AWoDuLtwDTAu_IiLeO6E",
+  "text" : "His -- his legs were twitching.",
   "translations" : {
-    "russian" : "Не пей его сок."
+    "russian" : "Его... ноги дергались."
   },
   "tokens" : [ {
-    "token" : "don't",
+    "token" : "his",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 3,
     "position" : 0
-  }, {
-    "token" : "drink",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
   }, {
     "token" : "his",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "juice",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgg15pNEXFMlzHK90X",
-  "text" : "What about his character?",
-  "translations" : {
-    "russian" : "А как насчет его личных качеств?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "about",
-    "startOffset" : 5,
+    "startOffset" : 7,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "his",
+    "token" : "leg",
     "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "character",
-    "startOffset" : 15,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjukQNEXFMlzHLAQu",
-  "text" : "His food is garbage.",
-  "translations" : {
-    "russian" : "Его еда - отбросы."
-  },
-  "tokens" : [ {
-    "token" : "his",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "food",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "garbage",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj3hwNEXFMlzHLAYT",
-  "text" : "His manure's too costly...",
-  "translations" : {
-    "russian" : "Он хочет продать все удобрения слишком дорого..."
-  },
-  "tokens" : [ {
-    "token" : "his",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "manure",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "too",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "costly",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "cost",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm9_CNEXFMlzHLEyC",
-  "text" : "Crush his spirit, Randy.",
-  "translations" : {
-    "russian" : "Сокруши его дух, Рэнди."
-  },
-  "tokens" : [ {
-    "token" : "crush",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "his",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "spirit",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "randy",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoR4kNEXFMlzHLGq-",
-  "text" : "His heart is waking.",
-  "translations" : {
-    "russian" : "Это любовь, его сердце расцвело."
-  },
-  "tokens" : [ {
-    "token" : "his",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "heart",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "wake",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqtBjNEXFMlzHLJ7U",
-  "text" : "He mastered his rage.",
-  "translations" : {
-    "russian" : "Он справился со своим гневом."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "mastered",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "master",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "his",
-    "startOffset" : 12,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "rage",
+    "token" : "were",
     "startOffset" : 16,
     "endOffset" : 20,
     "position" : 3
+  }, {
+    "token" : "twitch",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6PwuDTAu_IiLfD16",
+  "text" : "His reach exceeded his grasp.",
+  "translations" : {
+    "russian" : "Захотел больше, чем смог ухватить."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "reach",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "exceed",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "his",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "grasp",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

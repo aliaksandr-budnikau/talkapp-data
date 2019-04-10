@@ -1,4 +1,129 @@
 [ {
+  "id" : "AWoEycThDTAu_IiLe-jm",
+  "text" : "Couple jelly.",
+  "translations" : {
+    "russian" : "Два с джемом."
+  },
+  "tokens" : [ {
+    "token" : "couple",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "jelly",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdX-rDTAu_IiLeu3O",
+  "text" : "Couple thugs.",
+  "translations" : {
+    "russian" : "Пара громил."
+  },
+  "tokens" : [ {
+    "token" : "couple",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "thug",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSAorDTAu_IiLfVyq",
+  "text" : "Couple of Canadian comedians.",
+  "translations" : {
+    "russian" : "Парочка канадских комиков."
+  },
+  "tokens" : [ {
+    "token" : "couple",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "canadian",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "comedian",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFg4eGDTAu_IiLfg3U",
+  "text" : "Couple counts of burglary.",
+  "translations" : {
+    "russian" : "Пара случаев ограблений."
+  },
+  "tokens" : [ {
+    "token" : "couple",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "count",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "burglary",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-t-4DTAu_IiLeYMZ",
+  "text" : "They're an elderly couple.",
+  "translations" : {
+    "russian" : "Они уже пожилая пара."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "elderly",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "elder",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "couple",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbRalNEXFMlzHK494",
   "text" : "Admitted a couple times.",
   "translations" : {
@@ -60,6 +185,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFRyZEDTAu_IiLfVoQ",
+  "text" : "Couple of Canadian comedians.",
+  "translations" : {
+    "russian" : "Парочка канадских комиков."
+  },
+  "tokens" : [ {
+    "token" : "couple",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "canadian",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "comedian",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnLq2NEXFMlzHLFDg",
   "text" : "See that couple up front?",
   "translations" : {
@@ -93,150 +246,239 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjoIZNEXFMlzHLALK",
-  "text" : "See that couple up front?",
+  "id" : "AWoDm8k5DTAu_IiLeK3d",
+  "text" : "A couple domestic disturbance calls.",
   "translations" : {
-    "russian" : "Видишь эту парочку впереди?"
+    "russian" : "Несколько вызовов о нарушении общественного порядка."
   },
   "tokens" : [ {
-    "token" : "see",
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "couple",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "domestic",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "disturbance",
+    "startOffset" : 18,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "call",
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkHpEDTAu_IiLe0MU",
+  "text" : "Nice couple in the duplex.",
+  "translations" : {
+    "russian" : "Хорошая пара в дуплексе."
+  },
+  "tokens" : [ {
+    "token" : "nice",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "couple",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "duplex",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfoGSDTAu_IiLfgD6",
+  "text" : "But... the occasional couple shagging.",
+  "translations" : {
+    "russian" : "Иногда парочки, чтобы перепихнуться."
+  },
+  "tokens" : [ {
+    "token" : "but",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "that",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "couple",
-    "startOffset" : 9,
-    "endOffset" : 15,
+    "token" : "occasional",
+    "startOffset" : 11,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "up",
+    "token" : "couple",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "shagging",
+    "startOffset" : 29,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFf1fvDTAu_IiLfgNp",
+  "text" : "This couple is, uh, cosmopolitan.",
+  "translations" : {
+    "russian" : "Эта пара, они космополиты."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "couple",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "uh",
     "startOffset" : 16,
     "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "front",
-    "startOffset" : 19,
+    "token" : "cosmopolitan",
+    "startOffset" : 20,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDV-ZLDTAu_IiLeBdX",
+  "text" : "No, a couple of antelope.",
+  "translations" : {
+    "russian" : "Нет, пару антилоп."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "couple",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "antelope",
+    "startOffset" : 16,
     "endOffset" : 24,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgs_ukNEXFMlzHLNML",
-  "text" : "The couple did not differ welfare.",
+  "id" : "AWoD-uQNDTAu_IiLeYMm",
+  "text" : "An elderly couple, semi-retired.",
   "translations" : {
-    "russian" : "Эта пара не отличалась благосостоянием."
+    "russian" : "Пожилая пара, работают неполный день."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "an",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "couple",
-    "startOffset" : 4,
+    "token" : "elderly",
+    "startOffset" : 3,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "did",
+    "token" : "elder",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "couple",
     "startOffset" : 11,
-    "endOffset" : 14,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "not",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "token" : "semi",
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "differ",
-    "startOffset" : 19,
-    "endOffset" : 25,
+    "token" : "tired",
+    "startOffset" : 24,
+    "endOffset" : 31,
     "position" : 4
-  }, {
-    "token" : "welfare",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgt6SRNEXFMlzHLOJD",
-  "text" : "We had a couple classes together.",
+  "id" : "AWoEBLUVDTAu_IiLeaEd",
+  "text" : "Mind a couple of visitors?.",
   "translations" : {
-    "russian" : "У нас есть пара общих курсов."
+    "russian" : "Ты не против двух гостей?"
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "mind",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "had",
-    "startOffset" : 3,
+    "token" : "a",
+    "startOffset" : 5,
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "a",
+    "token" : "couple",
     "startOffset" : 7,
-    "endOffset" : 8,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "couple",
-    "startOffset" : 9,
-    "endOffset" : 15,
+    "token" : "of",
+    "startOffset" : 14,
+    "endOffset" : 16,
     "position" : 3
   }, {
-    "token" : "class",
-    "startOffset" : 16,
-    "endOffset" : 23,
+    "token" : "visitor",
+    "startOffset" : 17,
+    "endOffset" : 25,
     "position" : 4
-  }, {
-    "token" : "together",
-    "startOffset" : 24,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglaT0NEXFMlzHLCfc",
-  "text" : "Go backpacking for a couple months.",
-  "translations" : {
-    "russian" : "Ходить в поход на пару мес цев."
-  },
-  "tokens" : [ {
-    "token" : "go",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "backpack",
-    "startOffset" : 3,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 19,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "couple",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "months",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

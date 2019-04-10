@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoEVV31DTAu_IiLepSG",
+  "text" : "Coach's rant.",
+  "translations" : {
+    "russian" : "Тирада тренера."
+  },
+  "tokens" : [ {
+    "token" : "coach",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "rant",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJSklDTAu_IiLegJf",
+  "text" : "Volleyball coach.",
+  "translations" : {
+    "russian" : "Тренер по волейболу."
+  },
+  "tokens" : [ {
+    "token" : "volleyball",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "coach",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsFOiNEXFMlzHLL7-",
   "text" : "Coach Bang should appeal!",
   "translations" : {
@@ -27,6 +63,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgzE0yNEXFMlzHLVti",
+  "text" : "Come, my coach!",
+  "translations" : {
+    "russian" : "Поворачивай, моя карета!"
+  },
+  "tokens" : [ {
+    "token" : "come",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "coach",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzEoGNEXFMlzHLVtM",
   "text" : "You can't coach.",
   "translations" : {
@@ -50,26 +109,64 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzE0yNEXFMlzHLVti",
-  "text" : "Come, my coach!",
+  "id" : "AWoDlRvLDTAu_IiLeJ83",
+  "text" : "Howard coaches bantam hockey.",
   "translations" : {
-    "russian" : "Поворачивай, моя карета!"
+    "russian" : "Тренер Говард, детский хоккей."
   },
   "tokens" : [ {
-    "token" : "come",
+    "token" : "howard",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "my",
-    "startOffset" : 6,
-    "endOffset" : 8,
+    "token" : "coach",
+    "startOffset" : 7,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "coach",
-    "startOffset" : 9,
-    "endOffset" : 14,
+    "token" : "bantam",
+    "startOffset" : 15,
+    "endOffset" : 21,
     "position" : 2
+  }, {
+    "token" : "hockey",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvqt7DTAu_IiLeP0e",
+  "text" : "And the wrestling coach.",
+  "translations" : {
+    "russian" : "И тренер по реслингу."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "wrestling",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "wrestle",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "coach",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -125,6 +222,34 @@
     "token" : "speak",
     "startOffset" : 15,
     "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJj0ADTAu_IiLfPTT",
+  "text" : "You demolished Coach's car.",
+  "translations" : {
+    "russian" : "Ты уничтожил машину тренера."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "demolish",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "coach",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "car",
+    "startOffset" : 23,
+    "endOffset" : 26,
     "position" : 3
   } ],
   "contentScore" : null
@@ -223,6 +348,72 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE9VznDTAu_IiLfF4H",
+  "text" : "Uh, substitute coach Roth. Yes?",
+  "translations" : {
+    "russian" : "Заместитель тренера Рот?"
+  },
+  "tokens" : [ {
+    "token" : "uh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "substitute",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "coach",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "roth",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "yes",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYllhDTAu_IiLfany",
+  "text" : "I'm his Kiddie League coach.",
+  "translations" : {
+    "russian" : "Я тренер его Детской Лиги."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "his",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "kiddie",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "league",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "coach",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzE7oNEXFMlzHLVtz",
   "text" : "He shot all the coach.",
   "translations" : {
@@ -255,200 +446,4 @@
     "position" : 4
   } ],
   "contentScore" : null
-}, {
-  "id" : "AWbgzE8HNEXFMlzHLVt0",
-  "text" : "Perhaps somewhere on the coach.",
-  "translations" : {
-    "russian" : "Возможно, в экипаже."
-  },
-  "tokens" : [ {
-    "token" : "perhaps",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "somewhere",
-    "startOffset" : 8,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "coach",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzElaNEXFMlzHLVtF",
-  "text" : "And who coaches at U.M.K.C.",
-  "translations" : {
-    "russian" : "И та, что тренирует команду Университета Миссури."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "who",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "coach",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "at",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "u.m.k.c",
-    "startOffset" : 19,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzE2wNEXFMlzHLVtn",
-  "text" : "His coach was attacked by Indians.",
-  "translations" : {
-    "russian" : "На его карету напали индейцы."
-  },
-  "tokens" : [ {
-    "token" : "his",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "coach",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "was",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "attack",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "by",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "indian",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzEm4NEXFMlzHLVtJ",
-  "text" : "I chose to coach this team.",
-  "translations" : {
-    "russian" : "Я выбрал тренировать эту команду."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "chose",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "coach",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "this",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "team",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzERfNEXFMlzHLVsf",
-  "text" : "Hello, coach.",
-  "translations" : {
-    "russian" : "Привет, тренер."
-  },
-  "tokens" : [ {
-    "token" : "hello",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "coach",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  } ],
-  "contentScore" : "POOR"
-}, {
-  "id" : "AWbgzER_NEXFMlzHLVsg",
-  "text" : "Yeah, Coach.",
-  "translations" : {
-    "russian" : "Да, тренер."
-  },
-  "tokens" : [ {
-    "token" : "yeah",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "coach",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  } ],
-  "contentScore" : "POOR"
-}, {
-  "id" : "AWbgzEWhNEXFMlzHLVsr",
-  "text" : "Hi, coach.",
-  "translations" : {
-    "russian" : "Привет, тренер."
-  },
-  "tokens" : [ {
-    "token" : "hi",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "coach",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  } ],
-  "contentScore" : "POOR"
 } ]

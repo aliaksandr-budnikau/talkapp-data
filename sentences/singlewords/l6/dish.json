@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFiVU1DTAu_IiLfhvX",
+  "text" : "It's a peasant dish.",
+  "translations" : {
+    "russian" : "Это деревенская еда."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "peasant",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "dish",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgma4LNEXFMlzHLD28",
   "text" : "House with satellite dish.",
   "translations" : {
@@ -23,6 +51,34 @@
     "token" : "dish",
     "startOffset" : 21,
     "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ5oxDTAu_IiLfU8T",
+  "text" : "Dip dish Yak dick!",
+  "translations" : {
+    "russian" : "Хуй яка для макания в соус!"
+  },
+  "tokens" : [ {
+    "token" : "dip",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dish",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "yak",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "dick",
+    "startOffset" : 13,
+    "endOffset" : 17,
     "position" : 3
   } ],
   "contentScore" : null
@@ -302,6 +358,82 @@
     "token" : "vagrant",
     "startOffset" : 25,
     "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhSm7DTAu_IiLex7s",
+  "text" : "A dish of mushrooms... and overnight...",
+  "translations" : {
+    "russian" : "Было блюдо из грибов на следующий день я остался один."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "dish",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "mushroom",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "overnight",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-m2_DTAu_IiLfG5W",
+  "text" : "A coronary in a casserole dish.",
+  "translations" : {
+    "russian" : "Сердечным приступом в кастрюле."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "coronary",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "casserole",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "dish",
+    "startOffset" : 26,
+    "endOffset" : 30,
     "position" : 5
   } ],
   "contentScore" : null

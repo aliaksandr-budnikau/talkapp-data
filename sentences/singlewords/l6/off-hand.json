@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWbgxjUONEXFMlzHLTZP",
+  "text" : "Hands off, shithead.",
+  "translations" : {
+    "russian" : "Руки прочь, говнюк."
+  },
+  "tokens" : [ {
+    "token" : "hand",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "off",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "shithead",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxjL7NEXFMlzHLTZE",
   "text" : "Hands off, I sold.",
   "translations" : {
@@ -24,29 +47,6 @@
     "startOffset" : 13,
     "endOffset" : 17,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxjUONEXFMlzHLTZP",
-  "text" : "Hands off, shithead.",
-  "translations" : {
-    "russian" : "Руки прочь, говнюк."
-  },
-  "tokens" : [ {
-    "token" : "hand",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "off",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "shithead",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -157,26 +157,31 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxjNJNEXFMlzHLTZG",
-  "text" : "Hey, hands off!",
+  "id" : "AWoD9nK6DTAu_IiLeXXD",
+  "text" : "Hands off the shipyard!",
   "translations" : {
-    "russian" : "Эй, руки прочь!"
+    "russian" : "Прочь руки от верфи!"
   },
   "tokens" : [ {
-    "token" : "hey",
+    "token" : "hand",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "hand",
-    "startOffset" : 5,
-    "endOffset" : 10,
+    "token" : "off",
+    "startOffset" : 6,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "off",
-    "startOffset" : 11,
-    "endOffset" : 14,
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
     "position" : 2
+  }, {
+    "token" : "shipyard",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -200,6 +205,57 @@
     "startOffset" : 13,
     "endOffset" : 16,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgxjNJNEXFMlzHLTZG",
+  "text" : "Hey, hands off!",
+  "translations" : {
+    "russian" : "Эй, руки прочь!"
+  },
+  "tokens" : [ {
+    "token" : "hey",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "hand",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "off",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYsvMDTAu_IiLeCsb",
+  "text" : "Hands off my harlequin!",
+  "translations" : {
+    "russian" : "Руки прочь от моего арлекина!"
+  },
+  "tokens" : [ {
+    "token" : "hand",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "off",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "harlequin",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -302,6 +358,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFg5xfDTAu_IiLfg3_",
+  "text" : "Hand him off to burglary.",
+  "translations" : {
+    "russian" : "Брать за кражу со взломом."
+  },
+  "tokens" : [ {
+    "token" : "hand",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "off",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "burglary",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxi5mNEXFMlzHLTYd",
   "text" : "Get your hands off me!",
   "translations" : {
@@ -335,150 +424,36 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxjOXNEXFMlzHLTZH",
-  "text" : "Hands off of me, fag.",
+  "id" : "AWoFbv86DTAu_IiLfdOH",
+  "text" : "Hey, hands off the console.",
   "translations" : {
-    "russian" : "Ручи прочь, педик."
+    "russian" : "Эй, убери руки с пульта."
   },
   "tokens" : [ {
-    "token" : "hand",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "off",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "me",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "fag",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxi0ONEXFMlzHLTYR",
-  "text" : "Get your hands off my girl!",
-  "translations" : {
-    "russian" : "Убери руки от моей девушки!"
-  },
-  "tokens" : [ {
-    "token" : "get",
+    "token" : "hey",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "your",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "hand",
+    "startOffset" : 5,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "hand",
-    "startOffset" : 9,
+    "token" : "off",
+    "startOffset" : 11,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "off",
+    "token" : "the",
     "startOffset" : 15,
     "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "my",
+    "token" : "console",
     "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "girl",
-    "startOffset" : 22,
     "endOffset" : 26,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxiz_NEXFMlzHLTYQ",
-  "text" : "Just take your hands off me!",
-  "translations" : {
-    "russian" : "Уберите от меня руки!"
-  },
-  "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "take",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "hand",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "off",
-    "startOffset" : 21,
-    "endOffset" : 24,
     "position" : 4
-  }, {
-    "token" : "me",
-    "startOffset" : 25,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmPo9NEXFMlzHLDjz",
-  "text" : "He deserves his hands chopping off.",
-  "translations" : {
-    "russian" : "Руку отрубить этому негодяю! Фрау Шобер!"
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "serve",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "his",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "hand",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "chopping",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "off",
-    "startOffset" : 31,
-    "endOffset" : 34,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,45 @@
 [ {
+  "id" : "AWoE0ev_DTAu_IiLe__S",
+  "text" : "Juggle knives!",
+  "translations" : {
+    "russian" : "Пожонглировать ножами!"
+  },
+  "tokens" : [ {
+    "token" : "juggle",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "knives",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFF_WUDTAu_IiLfMam",
+  "text" : "Knives or needles?",
+  "translations" : {
+    "russian" : "Ножи или шприцы?"
+  },
+  "tokens" : [ {
+    "token" : "knives",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "or",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "needle",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdsOwNEXFMlzHK7FF",
   "text" : "I can't throw knives.",
   "translations" : {
@@ -23,6 +64,39 @@
     "token" : "knives",
     "startOffset" : 14,
     "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTIE1DTAu_IiLfWoN",
+  "text" : "Knives can sharpen pencils.",
+  "translations" : {
+    "russian" : "Ножиком можно отточить карандаш."
+  },
+  "tokens" : [ {
+    "token" : "knives",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "sharpen",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "sharp",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "pencil",
+    "startOffset" : 19,
+    "endOffset" : 26,
     "position" : 3
   } ],
   "contentScore" : null
@@ -55,6 +129,75 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFCmqqDTAu_IiLfJ_O",
+  "text" : "Knives or needles?",
+  "translations" : {
+    "russian" : "Ножи или шприцы?"
+  },
+  "tokens" : [ {
+    "token" : "knives",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "or",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "needle",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJnGyDTAu_IiLfPV-",
+  "text" : "We abrade knives!",
+  "translations" : {
+    "russian" : "Точим ножи!"
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "abrade",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "knives",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJnYwDTAu_IiLfPWN",
+  "text" : "We abrade knives!",
+  "translations" : {
+    "russian" : "Точим ножи!"
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "abrade",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "knives",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnub2NEXFMlzHLF7h",
   "text" : "Pack your knives and go.",
   "translations" : {
@@ -84,6 +227,77 @@
     "token" : "go",
     "startOffset" : 21,
     "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUZnXDTAu_IiLfXiz",
+  "text" : "Box cutters and kitchen knives.",
+  "translations" : {
+    "russian" : "Возможно канцелярский или кухонный нож."
+  },
+  "tokens" : [ {
+    "token" : "box",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "cutter",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "kitchen",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "knives",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDh82IDTAu_IiLeIGX",
+  "text" : "Miles, heavily armed, multiple knives.",
+  "translations" : {
+    "russian" : "Майлз, тяжело вооруженный, много ножей."
+  },
+  "tokens" : [ {
+    "token" : "mile",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "heavily",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "armed",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "arm",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "multiple",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "knives",
+    "startOffset" : 31,
+    "endOffset" : 37,
     "position" : 4
   } ],
   "contentScore" : null

@@ -1,4 +1,76 @@
 [ {
+  "id" : "AWoEYU1vDTAu_IiLercX",
+  "text" : "You know.",
+  "translations" : {
+    "russian" : "This may be the first time I've ever seen you without a necktieПо моему это первый раз, когда я вижу тебя без галстука."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "know",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVi3gDTAu_IiLfYVq",
+  "text" : "Becks knows.",
+  "translations" : {
+    "russian" : "О, Бекс в курсе."
+  },
+  "tokens" : [ {
+    "token" : "beck",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "know",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDt7FHDTAu_IiLeOv8",
+  "text" : "You know.",
+  "translations" : {
+    "russian" : "She was so little and frailЗнаете, она была такой маленькой и слабой."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "know",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsXvHDTAu_IiLe6OO",
+  "text" : "You know.",
+  "translations" : {
+    "russian" : "We can talk flat rate or a return of the percentageЗнаешь, мы можем обсудить единую ставку, или процент за возврат."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "know",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgebjdNEXFMlzHK7vB",
   "text" : "I know, just relax.",
   "translations" : {
@@ -111,132 +183,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbQmVNEXFMlzHK49I",
-  "text" : "You know, takes time.",
+  "id" : "AWoDOTInDTAu_IiLd8h6",
+  "text" : "I know you, Abbot.",
   "translations" : {
-    "russian" : "Понимаете, нужно время."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "know",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "takes",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "take",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "time",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiHMxNEXFMlzHK-6S",
-  "text" : "You know their methods.",
-  "translations" : {
-    "russian" : "Вы знакомы с их методами."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "know",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "their",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "method",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgn7XqNEXFMlzHLGQd",
-  "text" : "Journalism's dying, you know.",
-  "translations" : {
-    "russian" : "Знаете, журналистика умирает."
-  },
-  "tokens" : [ {
-    "token" : "journalism",
-    "startOffset" : 0,
-    "endOffset" : 12,
-    "position" : 0
-  }, {
-    "token" : "dying",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "dye",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "know",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvCjoNEXFMlzHLQSx",
-  "text" : "I'm terminal, you know?",
-  "translations" : {
-    "russian" : "Болезнь смертельная, да."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "terminal",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "know",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgay3_NEXFMlzHK4iq",
-  "text" : "I know your type.",
-  "translations" : {
-    "russian" : "Я знаю твой тип людей."
+    "russian" : "Знаю я вас, аббат."
   },
   "tokens" : [ {
     "token" : "i",
@@ -249,195 +199,157 @@
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "your",
+    "token" : "you",
     "startOffset" : 7,
-    "endOffset" : 11,
+    "endOffset" : 10,
     "position" : 2
   }, {
-    "token" : "type",
+    "token" : "abbot",
     "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSbePDTAu_IiLd_Lt",
+  "text" : "I know my alleys.",
+  "translations" : {
+    "russian" : "Я знаю, что по моей части."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "know",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "alley",
+    "startOffset" : 10,
     "endOffset" : 16,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgiIjdNEXFMlzHK-7T",
-  "text" : "You know my methods.",
+  "id" : "AWoDfX60DTAu_IiLeGmK",
+  "text" : "Know Frank Barcelona?",
   "translations" : {
-    "russian" : "Ты знаешь мои приемы."
+    "russian" : "Вы знакомы с Фрэнком Барселоной?"
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "know",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "know",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "frank",
+    "startOffset" : 5,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "my",
-    "startOffset" : 9,
-    "endOffset" : 11,
+    "token" : "barcelona",
+    "startOffset" : 11,
+    "endOffset" : 20,
     "position" : 2
-  }, {
-    "token" : "method",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnyOUNEXFMlzHLGBv",
-  "text" : "Talent knows no age.",
+  "id" : "AWoDlITbDTAu_IiLeJ3-",
+  "text" : "Cause Squirrel knows me.",
   "translations" : {
-    "russian" : "У талантов нет возраста.."
+    "russian" : "Потому что Бельчонок меня знает."
   },
   "tokens" : [ {
-    "token" : "talent",
+    "token" : "cause",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "know",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "no",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "age",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrl5TNEXFMlzHLLOq",
-  "text" : "You know that picture?",
-  "translations" : {
-    "russian" : "Ты знаешь этот рисунок?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "know",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "picture",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguCjUNEXFMlzHLOWT",
-  "text" : "You know, vertical integration...",
-  "translations" : {
-    "russian" : "Ты знаешь, вертикальная интеграция."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "know",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "vertical",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "integration",
-    "startOffset" : 19,
-    "endOffset" : 30,
-    "position" : 3
-  }, {
-    "token" : "integrate",
-    "startOffset" : 19,
-    "endOffset" : 30,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgubTvNEXFMlzHLPE7",
-  "text" : "You know, like, European.",
-  "translations" : {
-    "russian" : "В духе европейского кино."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "know",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "like",
-    "startOffset" : 10,
+    "token" : "squirrel",
+    "startOffset" : 6,
     "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "european",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgunU0NEXFMlzHLPc-",
-  "text" : "You know, feminism's overrated.",
-  "translations" : {
-    "russian" : "Не стоит переоценивать феминизм."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "know",
-    "startOffset" : 4,
-    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "feminism",
-    "startOffset" : 10,
+    "token" : "know",
+    "startOffset" : 15,
     "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "overrate",
+    "token" : "me",
     "startOffset" : 21,
-    "endOffset" : 30,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguqgvNEXFMlzHLPjL",
-  "text" : "I know, right?",
+  "id" : "AWoDoAmlDTAu_IiLeLa6",
+  "text" : "We know it's preposterous.",
   "translations" : {
-    "russian" : "Здорово, да?"
+    "russian" : "Мы знаем, что это нелепо."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "know",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "preposterous",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8kq1DTAu_IiLeWj7",
+  "text" : "Venus knows too much.",
+  "translations" : {
+    "russian" : "Венус слишком много знает."
+  },
+  "tokens" : [ {
+    "token" : "venus",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "know",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "too",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "much",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD89W-DTAu_IiLeW3h",
+  "text" : "I know my allegiances.",
+  "translations" : {
+    "russian" : "Я знаю, кому служу."
   },
   "tokens" : [ {
     "token" : "i",
@@ -450,9 +362,37 @@
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "right",
-    "startOffset" : 8,
-    "endOffset" : 13,
+    "token" : "my",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "allegiance",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECM_yDTAu_IiLea3k",
+  "text" : "You know, whirlwind.",
+  "translations" : {
+    "russian" : "Ну, знаешь, смерч."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "know",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "whirlwind",
+    "startOffset" : 10,
+    "endOffset" : 19,
     "position" : 2
   } ],
   "contentScore" : null

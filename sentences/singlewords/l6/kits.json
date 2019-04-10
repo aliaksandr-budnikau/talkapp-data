@@ -1,77 +1,409 @@
 [ {
-  "id" : "AWbgmGHhNEXFMlzHLDTH",
-  "text" : "There's oil in the emergency kit.",
+  "id" : "AWoFfOKHDTAu_IiLffxN",
+  "text" : "Oh, Kit.",
   "translations" : {
-    "russian" : "Там есть масло в запасном комплекте!"
+    "russian" : "О, Кит."
   },
   "tokens" : [ {
-    "token" : "there",
+    "token" : "oh",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "oil",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "emergency",
-    "startOffset" : 19,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
     "token" : "kit",
-    "startOffset" : 29,
-    "endOffset" : 32,
-    "position" : 5
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglHcANEXFMlzHLB9m",
-  "text" : "There's oil in the emergency kit.",
+  "id" : "AWoFfONTDTAu_IiLffxP",
+  "text" : "Hi, Kit.",
   "translations" : {
-    "russian" : "Там есть масло в запасном комплекте!"
+    "russian" : "Привет Кит."
   },
   "tokens" : [ {
-    "token" : "there",
+    "token" : "hi",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "kit",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfOcbDTAu_IiLffxe",
+  "text" : "Kit's complex.",
+  "translations" : {
+    "russian" : "Это комплексы Кита."
+  },
+  "tokens" : [ {
+    "token" : "kit",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "complex",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDeFhkDTAu_IiLeF2W",
+  "text" : "Er, miniature drum kit.",
+  "translations" : {
+    "russian" : "Маленькую ударную установку."
+  },
+  "tokens" : [ {
+    "token" : "er",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "miniature",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "drum",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "kit",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDhJOTDTAu_IiLeHn-",
+  "text" : "That's a runaway kit.",
+  "translations" : {
+    "russian" : "Это набор вещей для побега."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "runaway",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "kit",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfTDNDTAu_IiLff0r",
+  "text" : "I'll get my kit.",
+  "translations" : {
+    "russian" : "Возьму инструменты."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "get",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "kit",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFg72BDTAu_IiLfg5T",
+  "text" : "Burglary starter kit...",
+  "translations" : {
+    "russian" : "Набор начинающего взломщика..."
+  },
+  "tokens" : [ {
+    "token" : "burglary",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "starter",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "start",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "kit",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfOoqDTAu_IiLffxo",
+  "text" : "It's a shaving kit.",
+  "translations" : {
+    "russian" : "Это набор для бритья."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "shaving",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "shave",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "kit",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfOZvDTAu_IiLffxb",
+  "text" : "His vest killed Kit.",
+  "translations" : {
+    "russian" : "Его жилет убил Кита."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "vest",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "kill",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "kit",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfORsDTAu_IiLffxS",
+  "text" : "Here's more about Kit.",
+  "translations" : {
+    "russian" : "Еще кое что о Кит."
+  },
+  "tokens" : [ {
+    "token" : "here's",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "more",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "about",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "kit",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfTErDTAu_IiLff0s",
+  "text" : "I'll grab my kit.",
+  "translations" : {
+    "russian" : "Возьму инструменты."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "grab",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "kit",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5KE5DTAu_IiLfDHn",
+  "text" : "He'll snaffle kit.",
+  "translations" : {
+    "russian" : "Он стащит амуницию."
+  },
+  "tokens" : [ {
+    "token" : "he'll",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "snaffle",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "kit",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfOS6DTAu_IiLffxT",
+  "text" : "Kit. You know who.",
+  "translations" : {
+    "russian" : "Кит, ты знаешь кто."
+  },
+  "tokens" : [ {
+    "token" : "kit",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "know",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "who",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfOYCDTAu_IiLffxZ",
+  "text" : "Cheep Kit goes...",
+  "translations" : {
+    "russian" : "У Кита...."
+  },
+  "tokens" : [ {
+    "token" : "cheep",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "kit",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "goes",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfQKWDTAu_IiLffyp",
+  "text" : "The first-aid kit.",
+  "translations" : {
+    "russian" : "Комплект первой помощи засосало в дыру."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "first",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "aid",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "kit",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfPXjDTAu_IiLffyG",
+  "text" : "Medical kit, ooh.",
+  "translations" : {
+    "russian" : "Аптечка, ох."
+  },
+  "tokens" : [ {
+    "token" : "medical",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "oil",
+    "token" : "kit",
     "startOffset" : 8,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "in",
-    "startOffset" : 12,
-    "endOffset" : 14,
+    "token" : "ooh",
+    "startOffset" : 13,
+    "endOffset" : 16,
     "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "emergency",
-    "startOffset" : 19,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "kit",
-    "startOffset" : 29,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

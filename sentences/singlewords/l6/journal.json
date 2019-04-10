@@ -32,6 +32,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDwOJmDTAu_IiLeQJg",
+  "text" : "Journal of Brazil.",
+  "translations" : {
+    "russian" : "Бразильский журнал."
+  },
+  "tokens" : [ {
+    "token" : "journal",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "brazil",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpHXuNEXFMlzHLH16",
   "text" : "In my mother's journals?",
   "translations" : {
@@ -424,6 +447,44 @@
     "token" : "impact",
     "startOffset" : 28,
     "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWNzRDTAu_IiLfYyw",
+  "text" : "IYI CLAN JOURNAL 10 00 a.m.",
+  "translations" : {
+    "russian" : "ЖУРНАЛ КЛАНА ИИ. 10 00."
+  },
+  "tokens" : [ {
+    "token" : "iyi",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "clan",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "journal",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "10",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "00",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "a.m",
+    "startOffset" : 23,
+    "endOffset" : 26,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoFMGRXDTAu_IiLfRRj",
+  "text" : "Initial indications are good.",
+  "translations" : {
+    "russian" : "Первичные показатели хорошие."
+  },
+  "tokens" : [ {
+    "token" : "initial",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "indicate",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "good",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFg65-DTAu_IiLfg4s",
+  "text" : "Nothing indicates burglary.",
+  "translations" : {
+    "russian" : "Признаков взлома нет."
+  },
+  "tokens" : [ {
+    "token" : "nothing",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "indicate",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "burglary",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu5V8NEXFMlzHLP_y",
   "text" : "But the light indicates...",
   "translations" : {
@@ -24,6 +75,265 @@
     "startOffset" : 14,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGMnFDTAu_IiLed8-",
+  "text" : "It indicates arousal.",
+  "translations" : {
+    "russian" : "Он показывает возбуждение."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "indicate",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "arousal",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDTqbjDTAu_IiLeABT",
+  "text" : "That usually indicates an amputation.",
+  "translations" : {
+    "russian" : "Обычно это показания к ампутации."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "usual",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "indicate",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "an",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "amputation",
+    "startOffset" : 26,
+    "endOffset" : 36,
+    "position" : 4
+  }, {
+    "token" : "amputate",
+    "startOffset" : 26,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYRANDTAu_IiLeCeF",
+  "text" : "Well, it could indicate duress.",
+  "translations" : {
+    "russian" : "Ну, это может означать принуждение."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "could",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "indicate",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "duress",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnFUHDTAu_IiLe2Ya",
+  "text" : "Indicating a Vitamin D deficiency.",
+  "translations" : {
+    "russian" : "Говорит о том, что у него был недостаток витамина Д."
+  },
+  "tokens" : [ {
+    "token" : "indicate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "vitamin",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "d",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "deficiency",
+    "startOffset" : 23,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwYmRDTAu_IiLe9BE",
+  "text" : "Air qualifiers indicate corrosive fumes.",
+  "translations" : {
+    "russian" : "Датчик воздуха показывает наличие едкого дыма."
+  },
+  "tokens" : [ {
+    "token" : "air",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "qualifier",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "indicate",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "corrosive",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "fume",
+    "startOffset" : 34,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGNQWDTAu_IiLed9a",
+  "text" : "This indicates partial sleep arousal.",
+  "translations" : {
+    "russian" : "Это показывает частичное пробуждение."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "indicate",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "partial",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "sleep",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "arousal",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMHJCDTAu_IiLfRSM",
+  "text" : "Initial analysis indicates non-toxic.",
+  "translations" : {
+    "russian" : "Предварительный анализ не выявил токсинов."
+  },
+  "tokens" : [ {
+    "token" : "initial",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "analysis",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "indicate",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "non",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "toxic",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeJXiDTAu_IiLfe_N",
+  "text" : "Air qualifiers indicate corrosive fumes.",
+  "translations" : {
+    "russian" : "Анализаторы воздуха обнаружили едкие испарения."
+  },
+  "tokens" : [ {
+    "token" : "air",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "qualifier",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "indicate",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "corrosive",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "fume",
+    "startOffset" : 34,
+    "endOffset" : 39,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -132,6 +442,82 @@
     "token" : "made",
     "startOffset" : 31,
     "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEInhlDTAu_IiLefq6",
+  "text" : "Calculations indicate a 98 percent restoration.",
+  "translations" : {
+    "russian" : "Вычисления указывают 98 восстановление."
+  },
+  "tokens" : [ {
+    "token" : "calculate",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "indicate",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 22,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "98",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "percent",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "restoration",
+    "startOffset" : 35,
+    "endOffset" : 46,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkWE9DTAu_IiLe0WI",
+  "text" : "My analysis indicates a degenerative cancer.",
+  "translations" : {
+    "russian" : "Мой анализ указывает на дегенеративный рак."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "analysis",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "indicate",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 22,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "degenerative",
+    "startOffset" : 24,
+    "endOffset" : 36,
+    "position" : 4
+  }, {
+    "token" : "cancer",
+    "startOffset" : 37,
+    "endOffset" : 43,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoFInwsDTAu_IiLfOh8",
+  "text" : "Mustang convertible, limited edition.",
+  "translations" : {
+    "russian" : "Мустанг с откидным верхом, ограниченной серии."
+  },
+  "tokens" : [ {
+    "token" : "mustang",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "convertible",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "limited",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "limit",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "edition",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgw5fNNEXFMlzHLSpQ",
   "text" : "Pay off your Mustang first.",
   "translations" : {
@@ -62,6 +95,120 @@
     "startOffset" : 21,
     "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFRZEDTAu_IiLfL4u",
+  "text" : "77 Mustang, Wisconsin plates on it.",
+  "translations" : {
+    "russian" : "Мустанг 1977 года, номера висконсинские."
+  },
+  "tokens" : [ {
+    "token" : "77",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "mustang",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "wisconsin",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "plate",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "on",
+    "startOffset" : 29,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "it",
+    "startOffset" : 32,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEz4NCDTAu_IiLe_ks",
+  "text" : "When did you paint your mustang?",
+  "translations" : {
+    "russian" : "Когда ты покрасил свой мустанг?"
+  },
+  "tokens" : [ {
+    "token" : "when",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "did",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "paint",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "your",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "mustang",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIj91DTAu_IiLfOew",
+  "text" : "It's a special publication about Mustangs.",
+  "translations" : {
+    "russian" : "Это специальное издание о Мустангах."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "special",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "publication",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "about",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "mustang",
+    "startOffset" : 33,
+    "endOffset" : 41,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

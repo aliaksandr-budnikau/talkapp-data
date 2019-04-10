@@ -1,4 +1,58 @@
 [ {
+  "id" : "AWoESAyWDTAu_IiLemuA",
+  "text" : "Hot fudge.",
+  "translations" : {
+    "russian" : "Мороженное есть."
+  },
+  "tokens" : [ {
+    "token" : "hot",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "fudge",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoER_9mDTAu_IiLemtZ",
+  "text" : "Hot fudge.",
+  "translations" : {
+    "russian" : "Горячий шоколад."
+  },
+  "tokens" : [ {
+    "token" : "hot",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "fudge",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbb0pDTAu_IiLfc-Y",
+  "text" : "Hot Congo!",
+  "translations" : {
+    "russian" : "Мать Конго!"
+  },
+  "tokens" : [ {
+    "token" : "hot",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "congo",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeNtvNEXFMlzHK7il",
   "text" : "Hot, fat, blood, food.",
   "translations" : {
@@ -172,34 +226,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzQVMNEXFMlzHLWF2",
-  "text" : "Stockholm is too hot.",
-  "translations" : {
-    "russian" : "Оставаться в Стокгольме слишком опасно."
-  },
-  "tokens" : [ {
-    "token" : "stockholm",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "too",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "hot",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgzQDsNEXFMlzHLWFT",
   "text" : "No hot date tonight?",
   "translations" : {
@@ -228,6 +254,146 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgzQVMNEXFMlzHLWF2",
+  "text" : "Stockholm is too hot.",
+  "translations" : {
+    "russian" : "Оставаться в Стокгольме слишком опасно."
+  },
+  "tokens" : [ {
+    "token" : "stockholm",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "too",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "hot",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDaADgDTAu_IiLeDf9",
+  "text" : "A hot architecture nerd!",
+  "translations" : {
+    "russian" : "Горяченькая архитектурная ботанша!"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "hot",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "architecture",
+    "startOffset" : 6,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "nerd",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoER_6LDTAu_IiLemtX",
+  "text" : "Maybe with hot fudge.",
+  "translations" : {
+    "russian" : "Может быть... горячий шоколад? ! Ха-ха-ха-хе..."
+  },
+  "tokens" : [ {
+    "token" : "maybe",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "hot",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "fudge",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEydEWDTAu_IiLe-kM",
+  "text" : "Hey, hot damn, Jelly.",
+  "translations" : {
+    "russian" : "И вообще, Джелли, черт возьми!"
+  },
+  "tokens" : [ {
+    "token" : "hey",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "hot",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "damn",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "jelly",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcclzDTAu_IiLfdw1",
+  "text" : "Consultants get hot coffee.",
+  "translations" : {
+    "russian" : "Старшему врачу нужен только горячий кофе."
+  },
+  "tokens" : [ {
+    "token" : "consultant",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "get",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "hot",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "coffee",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgePMONEXFMlzHK7j4",
   "text" : "Julie Andrews was hot.",
   "translations" : {
@@ -245,197 +411,6 @@
     "position" : 1
   }, {
     "token" : "was",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "hot",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglPgrNEXFMlzHLCL6",
-  "text" : "Yeah, lava's really hot.",
-  "translations" : {
-    "russian" : "Да, лава очень горячая."
-  },
-  "tokens" : [ {
-    "token" : "yeah",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "lava",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "ally",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "hot",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmdvaNEXFMlzHLD70",
-  "text" : "Hot pan, chef.",
-  "translations" : {
-    "russian" : "Горячая сковорода, шеф."
-  },
-  "tokens" : [ {
-    "token" : "hot",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "pan",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "chef",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmffdNEXFMlzHLD-y",
-  "text" : "Hot off the presses.",
-  "translations" : {
-    "russian" : "Ещё горяченькие из печати."
-  },
-  "tokens" : [ {
-    "token" : "hot",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "off",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "press",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmfhaNEXFMlzHLD-1",
-  "text" : "Hot off the presses.",
-  "translations" : {
-    "russian" : "Только что из печати."
-  },
-  "tokens" : [ {
-    "token" : "hot",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "off",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "press",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmk2mNEXFMlzHLEH3",
-  "text" : "Hot plates and griddles.",
-  "translations" : {
-    "russian" : "Электроплиты и сковородки."
-  },
-  "tokens" : [ {
-    "token" : "hot",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "plate",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "griddle",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzQFpNEXFMlzHLWFX",
-  "text" : "Julie Andrews was hot.",
-  "translations" : {
-    "russian" : "Джилия Эндрюс была страстной."
-  },
-  "tokens" : [ {
-    "token" : "julie",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "andrew",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "was",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "hot",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzQE6NEXFMlzHLWFV",
-  "text" : "Funny, smart, and hot...",
-  "translations" : {
-    "russian" : "Смешной, умный и страстный..."
-  },
-  "tokens" : [ {
-    "token" : "funny",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "smart",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "and",
     "startOffset" : 14,
     "endOffset" : 17,
     "position" : 2

@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoFbYPpDTAu_IiLfc7i",
+  "text" : "Widgets for air-conditioning machines.",
+  "translations" : {
+    "russian" : "Виджеты для кондиционирования воздуха машины."
+  },
+  "tokens" : [ {
+    "token" : "widget",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "air",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "conditioning",
+    "startOffset" : 16,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "condition",
+    "startOffset" : 16,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "machine",
+    "startOffset" : 29,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTFQ5DTAu_IiLfWmK",
+  "text" : "Capsule's condition?",
+  "translations" : {
+    "russian" : "Состояние капсюля?"
+  },
+  "tokens" : [ {
+    "token" : "capsule",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "condition",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwgQlNEXFMlzHLSP5",
   "text" : "No catch, no conditions?",
   "translations" : {
@@ -23,6 +79,39 @@
     "token" : "condition",
     "startOffset" : 13,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDa14cDTAu_IiLeEA7",
+  "text" : "Were there conditions attached?",
+  "translations" : {
+    "russian" : "Имелись ли особые условия освобождения?"
+  },
+  "tokens" : [ {
+    "token" : "were",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "there",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "condition",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "attached",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "attach",
+    "startOffset" : 22,
+    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null
@@ -52,6 +141,110 @@
     "startOffset" : 15,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpnJZDTAu_IiLe4TJ",
+  "text" : "Were there conditions attached?",
+  "translations" : {
+    "russian" : "Имелись ли особые условия освобождения?"
+  },
+  "tokens" : [ {
+    "token" : "were",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "there",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "condition",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "attached",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "attach",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6NswDTAu_IiLeVEL",
+  "text" : "No-one's imposing any conditions.",
+  "translations" : {
+    "russian" : "Никто не навязывает никаких условий."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "one",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "imposing",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "impose",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "any",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "condition",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlDlrDTAu_IiLeJ1d",
+  "text" : "You have disregard my conditions.",
+  "translations" : {
+    "russian" : "Ты пренебрег моими условиями."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "regard",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "condition",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -88,41 +281,234 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvCi6NEXFMlzHLQSw",
-  "text" : "I thought his condition was terminal.",
+  "id" : "AWoDqPRoDTAu_IiLeMkL",
+  "text" : "And your condition needs nurturing.",
   "translations" : {
-    "russian" : "Мне казалось, что его состояние было смертельным."
+    "russian" : "И твое состояние требует заботы."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "and",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "thought",
-    "startOffset" : 2,
-    "endOffset" : 9,
+    "token" : "your",
+    "startOffset" : 4,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "his",
-    "startOffset" : 10,
-    "endOffset" : 13,
+    "token" : "condition",
+    "startOffset" : 9,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "condition",
-    "startOffset" : 14,
-    "endOffset" : 23,
+    "token" : "need",
+    "startOffset" : 19,
+    "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "was",
-    "startOffset" : 24,
-    "endOffset" : 27,
+    "token" : "nurture",
+    "startOffset" : 25,
+    "endOffset" : 34,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2PWdDTAu_IiLeTPz",
+  "text" : "This condition can be transient.",
+  "translations" : {
+    "russian" : "Это состояние может быть временным."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
-    "token" : "terminal",
-    "startOffset" : 28,
-    "endOffset" : 36,
-    "position" : 5
+    "token" : "condition",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "can",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "transient",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2XG4DTAu_IiLeTTc",
+  "text" : "This condition can be transient.",
+  "translations" : {
+    "russian" : "Это состояние может быть временным."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "condition",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "can",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "transient",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFF6WcDTAu_IiLfMW3",
+  "text" : "The Abbess has one condition.",
+  "translations" : {
+    "russian" : "У настоятельницы только одно условие."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "abbess",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "one",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "condition",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELwjpDTAu_IiLeiEJ",
+  "text" : "Pupils dilate under normal conditions.",
+  "translations" : {
+    "russian" : "Зрачки реагируют как положено."
+  },
+  "tokens" : [ {
+    "token" : "pupil",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dilate",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "under",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "normal",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "condition",
+    "startOffset" : 27,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9eD3DTAu_IiLeXP9",
+  "text" : "Neurological condition, 60 percent probability.",
+  "translations" : {
+    "russian" : "Неврологическое заболевание 60 вероятностью."
+  },
+  "tokens" : [ {
+    "token" : "neurological",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "condition",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "60",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "percent",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "probability",
+    "startOffset" : 35,
+    "endOffset" : 46,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELeYbDTAu_IiLeh1T",
+  "text" : "And your condition needs nurturing.",
+  "translations" : {
+    "russian" : "И твое состояние требует заботы."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "condition",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "need",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "nurture",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

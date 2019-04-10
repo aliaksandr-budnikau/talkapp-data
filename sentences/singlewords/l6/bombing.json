@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoEvWLMDTAu_IiLe8P8",
+  "text" : "You bombed Dresden.",
+  "translations" : {
+    "russian" : "Ты бомбил Дрезден."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bomb",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "dresden",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHkwPDTAu_IiLfNqW",
+  "text" : "Notify the bomb squad.",
+  "translations" : {
+    "russian" : "Оповестите саперов."
+  },
+  "tokens" : [ {
+    "token" : "notify",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "bomb",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "squad",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglYD6NEXFMlzHLCbc",
   "text" : "5 turbines, 5 bombs.",
   "translations" : {
@@ -24,6 +75,118 @@
     "startOffset" : 14,
     "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQwWSDTAu_IiLelze",
+  "text" : "You bombed Gabriel's aerie.",
+  "translations" : {
+    "russian" : "Ты разворошила орлиное гнездо Гавриила."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bomb",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "gabriel",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "aerie",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHVVKDTAu_IiLfNd-",
+  "text" : "Notify the bomb squad.",
+  "translations" : {
+    "russian" : "Оповестите саперов."
+  },
+  "tokens" : [ {
+    "token" : "notify",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "bomb",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "squad",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHaZQDTAu_IiLfNiL",
+  "text" : "Notify the bomb squad.",
+  "translations" : {
+    "russian" : "Оповестите саперов."
+  },
+  "tokens" : [ {
+    "token" : "notify",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "bomb",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "squad",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFa6x0DTAu_IiLfckf",
+  "text" : "Bomb-Making components.",
+  "translations" : {
+    "russian" : "Детали для создания бомбы."
+  },
+  "tokens" : [ {
+    "token" : "bomb",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "making",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "make",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "component",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -75,6 +238,133 @@
     "startOffset" : 17,
     "endOffset" : 22,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmKqPDTAu_IiLeKcF",
+  "text" : "They bombed us endlessly.",
+  "translations" : {
+    "russian" : "Они бомбили нас без конца."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bomb",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "us",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "endless",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4XzRDTAu_IiLfCny",
+  "text" : "I bombed that lumber mill.",
+  "translations" : {
+    "russian" : "Я подорвал ту лесопилку."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "bomb",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "that",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "lumber",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "mill",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFajcCDTAu_IiLfcRj",
+  "text" : "That bomb was small, compact.",
+  "translations" : {
+    "russian" : "Бомба была небольшой, компактной."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bomb",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "small",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "compact",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFanSBDTAu_IiLfcUq",
+  "text" : "That bomb was small, compact.",
+  "translations" : {
+    "russian" : "Бомба была небольшой, компактной."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bomb",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "small",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "compact",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -184,115 +474,6 @@
     "startOffset" : 25,
     "endOffset" : 28,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguylnNEXFMlzHLPyf",
-  "text" : "Where's the blue bomber ii?",
-  "translations" : {
-    "russian" : "А где голубой бомбардировщик дубль 2?"
-  },
-  "tokens" : [ {
-    "token" : "where",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "blue",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "bomber",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "bomb",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "ii",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglmU9NEXFMlzHLC0W",
-  "text" : "My stink bombs are biodegradable.",
-  "translations" : {
-    "russian" : "Мои бомбочки экологически чистые, сделанные из стопроцентно разлагающихся материалов."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "stink",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "bomb",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "are",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "biodegradable",
-    "startOffset" : 19,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglBrhNEXFMlzHLBzK",
-  "text" : "The bombs spread fire, destruction, death!",
-  "translations" : {
-    "russian" : "Бомбы приносили огонь, разрушение, гибель!"
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "bomb",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "spread",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "fire",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "destruction",
-    "startOffset" : 23,
-    "endOffset" : 34,
-    "position" : 4
-  }, {
-    "token" : "death",
-    "startOffset" : 36,
-    "endOffset" : 41,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

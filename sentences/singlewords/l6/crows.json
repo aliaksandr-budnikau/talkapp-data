@@ -1,41 +1,26 @@
 [ {
-  "id" : "AWbgvkJhNEXFMlzHLRLo",
-  "text" : "And crows hatch from it.",
+  "id" : "AWoFTSYtDTAu_IiLfWv3",
+  "text" : "Crow cawing.",
   "translations" : {
-    "russian" : "И ворон вылупится из него."
+    "russian" : "Карканье вороны."
   },
   "tokens" : [ {
-    "token" : "and",
+    "token" : "crow",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "crow",
-    "startOffset" : 4,
-    "endOffset" : 9,
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 11,
     "position" : 1
-  }, {
-    "token" : "hatch",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "from",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgw_QfNEXFMlzHLSvH",
-  "text" : "Crows can't fly above the clouds!",
+  "id" : "AWoFTR68DTAu_IiLfWvh",
+  "text" : "CROWS CAWING.",
   "translations" : {
-    "russian" : "Вороны не могут полететь выше облаков!"
+    "russian" : "КАРКАНЬЕ ВОРОН."
   },
   "tokens" : [ {
     "token" : "crow",
@@ -43,30 +28,277 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "can't",
+    "token" : "caw",
     "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTSZyDTAu_IiLfWv4",
+  "text" : "CROWS CAWING.",
+  "translations" : {
+    "russian" : "КАРКАНЬЕ ВОРОНОВ."
+  },
+  "tokens" : [ {
+    "token" : "crow",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTSD2DTAu_IiLfWvm",
+  "text" : "Crow cawing.",
+  "translations" : {
+    "russian" : "Каркает ворона."
+  },
+  "tokens" : [ {
+    "token" : "crow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTSgjDTAu_IiLfWv-",
+  "text" : "Crow cawing.",
+  "translations" : {
+    "russian" : "Каркает ворона."
+  },
+  "tokens" : [ {
+    "token" : "crow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTSFFDTAu_IiLfWvn",
+  "text" : "Crow caws.",
+  "translations" : {
+    "russian" : "Ворон каркает."
+  },
+  "tokens" : [ {
+    "token" : "crow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTR5nDTAu_IiLfWvg",
+  "text" : "CROWS CAWING.",
+  "translations" : {
+    "russian" : "КАРКАНЬЕ ВОРОНОВ."
+  },
+  "tokens" : [ {
+    "token" : "crow",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTScVDTAu_IiLfWv7",
+  "text" : "Crow cawing.",
+  "translations" : {
+    "russian" : "Карканье вороны."
+  },
+  "tokens" : [ {
+    "token" : "crow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTR4TDTAu_IiLfWvf",
+  "text" : "Crow cawing.",
+  "translations" : {
+    "russian" : "Карканье вороны."
+  },
+  "tokens" : [ {
+    "token" : "crow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTSJSDTAu_IiLfWvq",
+  "text" : "Crow cawing.",
+  "translations" : {
+    "russian" : "Ворон каркает."
+  },
+  "tokens" : [ {
+    "token" : "crow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTSm0DTAu_IiLfWwC",
+  "text" : "Crow cawing.",
+  "translations" : {
+    "russian" : "Ворон каркает."
+  },
+  "tokens" : [ {
+    "token" : "crow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTR91DTAu_IiLfWvj",
+  "text" : "Crow cawing.",
+  "translations" : {
+    "russian" : "Карканье вороны."
+  },
+  "tokens" : [ {
+    "token" : "crow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTSaxDTAu_IiLfWv5",
+  "text" : "CROWS CAWING.",
+  "translations" : {
+    "russian" : "КАРКАНЬЕ ВОРОН."
+  },
+  "tokens" : [ {
+    "token" : "crow",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTSh3DTAu_IiLfWv_",
+  "text" : "Crow caws.",
+  "translations" : {
+    "russian" : "Ворон каркает."
+  },
+  "tokens" : [ {
+    "token" : "crow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELDIbDTAu_IiLehfK",
+  "text" : "Raven, crow, and eagle.",
+  "translations" : {
+    "russian" : "Вороньи, ворона и орла."
+  },
+  "tokens" : [ {
+    "token" : "raven",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "crow",
+    "startOffset" : 7,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "fly",
-    "startOffset" : 12,
-    "endOffset" : 15,
+    "token" : "and",
+    "startOffset" : 13,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "above",
-    "startOffset" : 16,
-    "endOffset" : 21,
+    "token" : "eagle",
+    "startOffset" : 17,
+    "endOffset" : 22,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEB4YsDTAu_IiLeanH",
+  "text" : "Gibbets and crows?",
+  "translations" : {
+    "russian" : "Виселицы... Вороны?"
+  },
+  "tokens" : [ {
+    "token" : "gibbet",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
+    "token" : "and",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
   }, {
-    "token" : "cloud",
-    "startOffset" : 26,
-    "endOffset" : 32,
-    "position" : 5
+    "token" : "crow",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

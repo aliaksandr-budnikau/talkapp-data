@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoD1eMzDTAu_IiLeS55",
+  "text" : "I had never had a purse.",
+  "translations" : {
+    "russian" : "У меня никогда не было бумажника."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "never",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "had",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 4
+  }, {
+    "token" : "purse",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsYK2NEXFMlzHLMWx",
   "text" : "Kid had the stamp.",
   "translations" : {
@@ -55,343 +93,104 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcFkHNEXFMlzHK5sy",
-  "text" : "You had a child.",
+  "id" : "AWoDXtb_DTAu_IiLeCMt",
+  "text" : "We had an argument.",
   "translations" : {
-    "russian" : "У вас была дочь."
+    "russian" : "Мы поссорились."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "we",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 2,
     "position" : 0
   }, {
     "token" : "had",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "child",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcN5zNEXFMlzHK50U",
-  "text" : "I had an event.",
-  "translations" : {
-    "russian" : "У меня было происшествие."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "had",
-    "startOffset" : 2,
-    "endOffset" : 5,
+    "startOffset" : 3,
+    "endOffset" : 6,
     "position" : 1
   }, {
     "token" : "an",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 2
-  }, {
-    "token" : "event",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfT-jNEXFMlzHK8gW",
-  "text" : "You had that power.",
-  "translations" : {
-    "russian" : "У вас была такая возможность."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "had",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "power",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "pow",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWn5oBOJSHZo49ps8uEn",
-  "text" : "Had their lips slit.",
-  "translations" : {
-    "russian" : "Курильщиков пороли, им разрезали губы."
-  },
-  "tokens" : [ {
-    "token" : "had",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "their",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "lip",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "slit",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqOhVNEXFMlzHLJW9",
-  "text" : "You had no business.",
-  "translations" : {
-    "russian" : "У вас не было права."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "had",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "no",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "business",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "busy",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqOsENEXFMlzHLJXJ",
-  "text" : "You had no business...",
-  "translations" : {
-    "russian" : "Ты не имела права..."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "had",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "no",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "business",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "busy",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsbnANEXFMlzHLMbt",
-  "text" : "I had a friend...",
-  "translations" : {
-    "russian" : "У меня был товарищ..."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "had",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 2
-  }, {
-    "token" : "friend",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguZXfNEXFMlzHLPA-",
-  "text" : "I had two bars.",
-  "translations" : {
-    "russian" : "Только два такта послушал."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "had",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "two",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "bars",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "bar",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxUEQNEXFMlzHLTHs",
-  "text" : "We had... scheduling issues.",
-  "translations" : {
-    "russian" : "Только времени всё не было."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "had",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "schedule",
-    "startOffset" : 10,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "issues",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "issue",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfbKJNEXFMlzHK8mt",
-  "text" : "We had a deal.",
-  "translations" : {
-    "russian" : "У нас была сделка."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "had",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "a",
     "startOffset" : 7,
-    "endOffset" : 8,
+    "endOffset" : 9,
     "position" : 2
   }, {
-    "token" : "deal",
-    "startOffset" : 9,
-    "endOffset" : 13,
+    "token" : "argument",
+    "startOffset" : 10,
+    "endOffset" : 18,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgq7NuNEXFMlzHLKPo",
-  "text" : "She's had other episodes.",
+  "id" : "AWoD8qT3DTAu_IiLeWol",
+  "text" : "Heather had a baby?",
   "translations" : {
-    "russian" : "У нее было других эпизодов."
+    "russian" : "Хизер родила ребёнка?"
   },
   "tokens" : [ {
-    "token" : "she",
+    "token" : "heather",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "heath",
+    "startOffset" : 0,
+    "endOffset" : 7,
     "position" : 0
   }, {
     "token" : "had",
-    "startOffset" : 6,
-    "endOffset" : 9,
+    "startOffset" : 8,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "other",
-    "startOffset" : 10,
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "baby",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvrjyDTAu_IiLeP0-",
+  "text" : "I had wrestling practice.",
+  "translations" : {
+    "russian" : "У меня была тренировка по рестлингу."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "wrestling",
+    "startOffset" : 6,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "episode",
+    "token" : "wrestle",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "practice",
     "startOffset" : 16,
     "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxpQFNEXFMlzHLTlo",
-  "text" : "He had bookings.",
+  "id" : "AWoDsH1dDTAu_IiLeNq6",
+  "text" : "He had blond hair.",
   "translations" : {
-    "russian" : "У него были заказы."
+    "russian" : "У него были светлые волосы."
   },
   "tokens" : [ {
     "token" : "he",
@@ -404,75 +203,281 @@
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "book",
+    "token" : "blond",
     "startOffset" : 7,
-    "endOffset" : 15,
+    "endOffset" : 12,
     "position" : 2
+  }, {
+    "token" : "hair",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglS-iNEXFMlzHLCSP",
-  "text" : "You had that power.",
+  "id" : "AWoEIvYjDTAu_IiLefwf",
+  "text" : "I had no idea.",
   "translations" : {
-    "russian" : "У вас была такая возможность."
+    "russian" : "Я понятия не имел."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 2
+  }, {
+    "token" : "idea",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQEXyDTAu_IiLelT2",
+  "text" : "Had a premature ejaculation.",
+  "translations" : {
+    "russian" : "Мог неожиданно кончить."
+  },
+  "tokens" : [ {
+    "token" : "had",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "had",
+    "token" : "a",
     "startOffset" : 4,
-    "endOffset" : 7,
+    "endOffset" : 5,
     "position" : 1
   }, {
-    "token" : "that",
-    "startOffset" : 8,
-    "endOffset" : 12,
+    "token" : "premature",
+    "startOffset" : 6,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "power",
-    "startOffset" : 13,
-    "endOffset" : 18,
+    "token" : "ejaculation",
+    "startOffset" : 16,
+    "endOffset" : 27,
     "position" : 3
   }, {
-    "token" : "pow",
-    "startOffset" : 13,
-    "endOffset" : 18,
+    "token" : "ejaculate",
+    "startOffset" : 16,
+    "endOffset" : 27,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgm9BCNEXFMlzHLEwz",
-  "text" : "I've only had crushes.",
+  "id" : "AWoESweBDTAu_IiLenSA",
+  "text" : "I had a miscarriage.",
   "translations" : {
-    "russian" : "Мне доставались лишь засосы."
+    "russian" : "У меня был выкидыш."
   },
   "tokens" : [ {
-    "token" : "i've",
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 2
+  }, {
+    "token" : "miscarriage",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWfeXDTAu_IiLeqIz",
+  "text" : "I had it expunged.",
+  "translations" : {
+    "russian" : "Я и вычеркнула его."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 2
+  }, {
+    "token" : "expunge",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqzRZDTAu_IiLe5KO",
+  "text" : "We had an agreement.",
+  "translations" : {
+    "russian" : "У нас был уговор."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "agreement",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "agree",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqzYYDTAu_IiLe5KS",
+  "text" : "We had an agreement.",
+  "translations" : {
+    "russian" : "У нас бы уговор."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "agreement",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "agree",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsOdCDTAu_IiLe6IH",
+  "text" : "He had me dominated.",
+  "translations" : {
+    "russian" : "Он подавлял меня."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "dominate",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuR5qDTAu_IiLe7gf",
+  "text" : "This story had merit.",
+  "translations" : {
+    "russian" : "У этой истории есть достоинства."
+  },
+  "tokens" : [ {
+    "token" : "this",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "only",
+    "token" : "story",
     "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 10,
     "position" : 1
   }, {
     "token" : "had",
-    "startOffset" : 10,
-    "endOffset" : 13,
+    "startOffset" : 11,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "crush",
-    "startOffset" : 14,
-    "endOffset" : 21,
+    "token" : "merit",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE47daDTAu_IiLfC-H",
+  "text" : "Had a bowel obstruction?",
+  "translations" : {
+    "russian" : "С кишечной непроходимостью?"
+  },
+  "tokens" : [ {
+    "token" : "had",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "bowel",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "obstruction",
+    "startOffset" : 12,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null

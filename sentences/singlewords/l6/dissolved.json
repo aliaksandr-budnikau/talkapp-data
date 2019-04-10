@@ -37,41 +37,26 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsgnNNEXFMlzHLMi5",
-  "text" : "Well, running never solved anything!",
+  "id" : "AWoFistXDTAu_IiLfh_N",
+  "text" : "Crisis solved.",
   "translations" : {
-    "russian" : "Бег - это не выход!"
+    "russian" : "Проблема решена."
   },
   "tokens" : [ {
-    "token" : "well",
+    "token" : "crisis",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "running",
-    "startOffset" : 6,
+    "token" : "solved",
+    "startOffset" : 7,
     "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "never",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "solved",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
     "token" : "solve",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "anything",
-    "startOffset" : 27,
-    "endOffset" : 35,
-    "position" : 4
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
@@ -286,6 +271,120 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgsgnNNEXFMlzHLMi5",
+  "text" : "Well, running never solved anything!",
+  "translations" : {
+    "russian" : "Бег - это не выход!"
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "running",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "never",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "solved",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "solve",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "anything",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoJAnDTAu_IiLe3Np",
+  "text" : "So the dilemma is solved.",
+  "translations" : {
+    "russian" : "Дилемма разрешена!"
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "dilemma",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "solved",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "solve",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFiuwhDTAu_IiLfiAs",
+  "text" : "The crisis has been solved.",
+  "translations" : {
+    "russian" : "Кризис миновал."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "crisis",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "been",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "solved",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "solve",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfe4fNEXFMlzHK8qC",
   "text" : "Look, it's dissolving our evidence.",
   "translations" : {
@@ -424,115 +523,6 @@
     "token" : "partnership",
     "startOffset" : 31,
     "endOffset" : 42,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfewcNEXFMlzHK8p8",
-  "text" : "They're dissolving the blood vessels.",
-  "translations" : {
-    "russian" : "Они растворяют кровеносные сосуды."
-  },
-  "tokens" : [ {
-    "token" : "they're",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "solving",
-    "startOffset" : 8,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "dissolve",
-    "startOffset" : 8,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "blood",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "vessel",
-    "startOffset" : 29,
-    "endOffset" : 36,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgffomNEXFMlzHK8qt",
-  "text" : "Stand by to dissolve, Two.",
-  "translations" : {
-    "russian" : "Готовься к наплыву, Вторая."
-  },
-  "tokens" : [ {
-    "token" : "stand",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "by",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "dissolve",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "two",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmno6NEXFMlzHLEM3",
-  "text" : "Mix them, my world dissolves.",
-  "translations" : {
-    "russian" : "Смешай их мой мир исчезнет."
-  },
-  "tokens" : [ {
-    "token" : "mix",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "them",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "world",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "solves",
-    "startOffset" : 19,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "dissolve",
-    "startOffset" : 19,
-    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null

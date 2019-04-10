@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFCqWRDTAu_IiLfKB3",
+  "text" : "Codified Likeness Utility.",
+  "translations" : {
+    "russian" : "Копирующая личностная утилита."
+  },
+  "tokens" : [ {
+    "token" : "codify",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "likeness",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "like",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "utility",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfog0NEXFMlzHK8yl",
   "text" : "Can't track him through his utilities.",
   "translations" : {
@@ -185,6 +213,44 @@
     "token" : "utility",
     "startOffset" : 28,
     "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERNQNDTAu_IiLemH8",
+  "text" : "Color, style, comfort, utility and convenience.",
+  "translations" : {
+    "russian" : "Цвет, стиль, комфорт, практичность и удобство."
+  },
+  "tokens" : [ {
+    "token" : "color",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "style",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "comfort",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "utility",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 31,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "convenience",
+    "startOffset" : 35,
+    "endOffset" : 46,
     "position" : 5
   } ],
   "contentScore" : null

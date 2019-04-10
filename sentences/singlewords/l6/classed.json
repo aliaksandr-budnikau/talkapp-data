@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoFVagoDTAu_IiLfYQJ",
+  "text" : "Pottery class!",
+  "translations" : {
+    "russian" : "Гончарные курсы!"
+  },
+  "tokens" : [ {
+    "token" : "pottery",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "class",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgg3ANNEXFMlzHK91W",
   "text" : "Luke, extra class.",
   "translations" : {
@@ -74,6 +92,34 @@
     "token" : "struggle",
     "startOffset" : 22,
     "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwpGzDTAu_IiLe9OE",
+  "text" : "A first-class avuncular.",
+  "translations" : {
+    "russian" : "Первоклассный покровитель."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "first",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "class",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "avuncular",
+    "startOffset" : 14,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
@@ -223,6 +269,80 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDbtORDTAu_IiLeEjS",
+  "text" : "One aerobics class.",
+  "translations" : {
+    "russian" : "Ладно, одно занятие по аэробике."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "aerobic",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "class",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQW5aDTAu_IiLfUgA",
+  "text" : "All right class.",
+  "translations" : {
+    "russian" : "Today we're going to start with sumsХорошо класс, сегодня мы начнём с арифметики."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "right",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "class",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVaPvDTAu_IiLfYP6",
+  "text" : "Rich from pottery class.",
+  "translations" : {
+    "russian" : "Рич из гончарного класса."
+  },
+  "tokens" : [ {
+    "token" : "rich",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "from",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "pottery",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "class",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgetS_NEXFMlzHK7_G",
   "text" : "Or during swimming classes?",
   "translations" : {
@@ -309,156 +429,6 @@
     "startOffset" : 19,
     "endOffset" : 28,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt5vDNEXFMlzHLOII",
-  "text" : "Everybody back to class.",
-  "translations" : {
-    "russian" : "Все, вернитесь в класс."
-  },
-  "tokens" : [ {
-    "token" : "everybody",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "back",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "class",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt5xvNEXFMlzHLOIO",
-  "text" : "Time for my class.",
-  "translations" : {
-    "russian" : "Время идти на занятия."
-  },
-  "tokens" : [ {
-    "token" : "time",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "class",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt63INEXFMlzHLOJ_",
-  "text" : "Welcome, class of 2011.",
-  "translations" : {
-    "russian" : "Приветствую вас, выпуск 2011."
-  },
-  "tokens" : [ {
-    "token" : "welcome",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "class",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "2011",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt6kkNEXFMlzHLOJj",
-  "text" : "From the biology class...",
-  "translations" : {
-    "russian" : "Из биологической группы..."
-  },
-  "tokens" : [ {
-    "token" : "from",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "biology",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "class",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpFIzNEXFMlzHLHzE",
-  "text" : "Listen, astronomy class, page 47.",
-  "translations" : {
-    "russian" : "Лекция по астрономии, страница 47."
-  },
-  "tokens" : [ {
-    "token" : "listen",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "list",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "astronomy",
-    "startOffset" : 8,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "class",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "page",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "47",
-    "startOffset" : 30,
-    "endOffset" : 32,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

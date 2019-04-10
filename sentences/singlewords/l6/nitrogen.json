@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoEnFcKDTAu_IiLe2Yh",
+  "text" : "Um... nitrogen deficiency?",
+  "translations" : {
+    "russian" : "Нехватка азота?"
+  },
+  "tokens" : [ {
+    "token" : "um",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "nitrogen",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "deficiency",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgj3xINEXFMlzHLAYd",
   "text" : "We're using argon and nitrogen.",
   "translations" : {
@@ -37,6 +60,82 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEbEmwDTAu_IiLetR4",
+  "text" : "Hydraulics or nitrogen air bags?",
+  "translations" : {
+    "russian" : "Гидравлика, или газовые?"
+  },
+  "tokens" : [ {
+    "token" : "hydraulics",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "hydraulic",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "or",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "nitrogen",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "air",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "bag",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDx7AdDTAu_IiLeRDU",
+  "text" : "Zinc, argon, nitrogen, palladium, bromine, ruthenium...",
+  "translations" : {
+    "russian" : "Цинк, аргон, азот, палладий, бром, рутений..."
+  },
+  "tokens" : [ {
+    "token" : "zinc",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "argon",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "nitrogen",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "palladium",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "bromine",
+    "startOffset" : 34,
+    "endOffset" : 41,
+    "position" : 4
+  }, {
+    "token" : "ruthenium",
+    "startOffset" : 43,
+    "endOffset" : 52,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgj4P6NEXFMlzHLAYv",
   "text" : "Earth's atmosphere is 80 percent nitrogen.",
   "translations" : {
@@ -71,6 +170,44 @@
     "token" : "nitrogen",
     "startOffset" : 33,
     "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCwjqDTAu_IiLfKGX",
+  "text" : "Zinc, argon, nitrogen, palladium, bromine, ruthenium...",
+  "translations" : {
+    "russian" : "Цинк, аргон, азот, палладий, бром, рутений..."
+  },
+  "tokens" : [ {
+    "token" : "zinc",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "argon",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "nitrogen",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "palladium",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "bromine",
+    "startOffset" : 34,
+    "endOffset" : 41,
+    "position" : 4
+  }, {
+    "token" : "ruthenium",
+    "startOffset" : 43,
+    "endOffset" : 52,
     "position" : 5
   } ],
   "contentScore" : null

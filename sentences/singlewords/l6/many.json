@@ -55,6 +55,141 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEW2tIDTAu_IiLeqZl",
+  "text" : "Subtract how many?",
+  "translations" : {
+    "russian" : "Сколько вычитать?"
+  },
+  "tokens" : [ {
+    "token" : "subtract",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "how",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "many",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGnkpDTAu_IiLfM4R",
+  "text" : "God, many, ghost, evade.",
+  "translations" : {
+    "russian" : "Бог, много, призрак... ускользать."
+  },
+  "tokens" : [ {
+    "token" : "god",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "many",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "ghost",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "evade",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFR3mBDTAu_IiLfVr1",
+  "text" : "So many good applicants.",
+  "translations" : {
+    "russian" : "Так много хороших кандидатов."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "many",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "good",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "applicant",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdjrVDTAu_IiLfekm",
+  "text" : "How many cognacs ?",
+  "translations" : {
+    "russian" : "Сколько коньяк?"
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "many",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "cognac",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFduOLDTAu_IiLfesS",
+  "text" : "So many conflicting emotions.",
+  "translations" : {
+    "russian" : "Сколько конфликтных эмоций."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "many",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "conflicting",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "conflict",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "emote",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgp6oCNEXFMlzHLI7b",
   "text" : "Realize many orders...",
   "translations" : {
@@ -78,234 +213,41 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgheKhNEXFMlzHK-Xj",
-  "text" : "Many happy returns, love.",
+  "id" : "AWoDfWkeDTAu_IiLeGlW",
+  "text" : "Barcelona, so many Americans.",
   "translations" : {
-    "russian" : "Желаю долгих лет жизни, милая."
+    "russian" : "В Барселоне так много американцев."
   },
   "tokens" : [ {
-    "token" : "many",
+    "token" : "barcelona",
     "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "happy",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "turn",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "love",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoxUSNEXFMlzHLHYq",
-  "text" : "How many new subscribers?",
-  "translations" : {
-    "russian" : "Сколько новых подписчиков ?"
-  },
-  "tokens" : [ {
-    "token" : "how",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "many",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "new",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "subscriber",
-    "startOffset" : 13,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoJtyNEXFMlzHLGd6",
-  "text" : "Many agenda items left unchecked.",
-  "translations" : {
-    "russian" : "Мы много важных вопросов не обсудили."
-  },
-  "tokens" : [ {
-    "token" : "many",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "agenda",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "item",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "left",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "checked",
-    "startOffset" : 23,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgubyANEXFMlzHLPF1",
-  "text" : "Not many Hispanics in Pittsburgh.",
-  "translations" : {
-    "russian" : "Не много латиносов в Питтсбурге."
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "many",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "hispanic",
-    "startOffset" : 9,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "pittsburgh",
-    "startOffset" : 22,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtaa7NEXFMlzHLNg0",
-  "text" : "We've been through many hardships.",
-  "translations" : {
-    "russian" : "Разве мы не прошли через многие трудности?"
-  },
-  "tokens" : [ {
-    "token" : "we've",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "been",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "through",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "many",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "hardship",
-    "startOffset" : 24,
-    "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzECHNEXFMlzHLVr_",
-  "text" : "We've got too many carriages.",
-  "translations" : {
-    "russian" : "У нас слишком много вагонов."
-  },
-  "tokens" : [ {
-    "token" : "we've",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 6,
     "endOffset" : 9,
-    "position" : 1
+    "position" : 0
   }, {
-    "token" : "too",
-    "startOffset" : 10,
+    "token" : "so",
+    "startOffset" : 11,
     "endOffset" : 13,
-    "position" : 2
+    "position" : 1
   }, {
     "token" : "many",
     "startOffset" : 14,
     "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "carriage",
-    "startOffset" : 19,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgksh-NEXFMlzHLBTy",
-  "text" : "Extinction happens for many reasons.",
-  "translations" : {
-    "russian" : "Вымирание может произойти по многим причинам."
-  },
-  "tokens" : [ {
-    "token" : "extinction",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "happen",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 19,
-    "endOffset" : 22,
     "position" : 2
   }, {
-    "token" : "many",
-    "startOffset" : 23,
-    "endOffset" : 27,
+    "token" : "american",
+    "startOffset" : 19,
+    "endOffset" : 28,
     "position" : 3
-  }, {
-    "token" : "reasons",
-    "startOffset" : 28,
-    "endOffset" : 35,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgr9ezNEXFMlzHLLxK",
-  "text" : "Did many people view it?",
+  "id" : "AWoDtRHCDTAu_IiLeOWe",
+  "text" : "How many combat drops?",
   "translations" : {
-    "russian" : "Сколько людей осматривало дом?"
+    "russian" : "А боевых?"
   },
   "tokens" : [ {
-    "token" : "did",
+    "token" : "how",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
@@ -315,126 +257,50 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "people",
+    "token" : "combat",
     "startOffset" : 9,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "view",
+    "token" : "drop",
     "startOffset" : 16,
-    "endOffset" : 20,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxwYKNEXFMlzHLT01",
-  "text" : "How many syllables per line?",
+  "id" : "AWoEEXlyDTAu_IiLeclS",
+  "text" : "Satan... wears many guises.",
   "translations" : {
-    "russian" : "А сколько слогов в стихе?"
+    "russian" : "Сатана имеет много личин."
   },
   "tokens" : [ {
-    "token" : "how",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "many",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "syllable",
-    "startOffset" : 9,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "per",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "line",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiEgENEXFMlzHK-4u",
-  "text" : "How many syllables per line?",
-  "translations" : {
-    "russian" : "А сколько слогов в стихе?"
-  },
-  "tokens" : [ {
-    "token" : "how",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "many",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "syllable",
-    "startOffset" : 9,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "per",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "line",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoRXnNEXFMlzHLGqK",
-  "text" : "There aren't that many hearts.",
-  "translations" : {
-    "russian" : "Стольких червей не бывает."
-  },
-  "tokens" : [ {
-    "token" : "there",
+    "token" : "satan",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "aren't",
-    "startOffset" : 6,
-    "endOffset" : 12,
+    "token" : "wear",
+    "startOffset" : 9,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "that",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "token" : "many",
+    "startOffset" : 15,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "many",
-    "startOffset" : 18,
-    "endOffset" : 22,
+    "token" : "guise",
+    "startOffset" : 20,
+    "endOffset" : 26,
     "position" : 3
-  }, {
-    "token" : "heart",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguLoaNEXFMlzHLOmA",
-  "text" : "Too many Seekers out there.",
+  "id" : "AWoEeK7NDTAu_IiLeve2",
+  "text" : "Too many woes.",
   "translations" : {
-    "russian" : "Слишком много Ищеек."
+    "russian" : "Так много горя."
   },
   "tokens" : [ {
     "token" : "too",
@@ -447,58 +313,117 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "seek",
+    "token" : "woe",
     "startOffset" : 9,
-    "endOffset" : 16,
+    "endOffset" : 13,
     "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "there",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrlE0NEXFMlzHLLNb",
-  "text" : "We've run that picture many times.",
+  "id" : "AWoEf2apDTAu_IiLewzN",
+  "text" : "So many facets.",
   "translations" : {
-    "russian" : "Мы показывали эту картину много раз."
+    "russian" : "Так много граней."
   },
   "tokens" : [ {
-    "token" : "we've",
+    "token" : "so",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "run",
-    "startOffset" : 6,
-    "endOffset" : 9,
+    "token" : "many",
+    "startOffset" : 3,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "that",
-    "startOffset" : 10,
+    "token" : "facet",
+    "startOffset" : 8,
     "endOffset" : 14,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh35CDTAu_IiLeyZf",
+  "text" : "So many burdens.",
+  "translations" : {
+    "russian" : "Столько груза."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
   }, {
-    "token" : "picture",
-    "startOffset" : 15,
+    "token" : "many",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "burden",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFG_EeDTAu_IiLfNLd",
+  "text" : "You've undergone many procedures.",
+  "translations" : {
+    "russian" : "Вам сделали много операций."
+  },
+  "tokens" : [ {
+    "token" : "you've",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "undergone",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "many",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "procedure",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFOLscDTAu_IiLfSzq",
+  "text" : "How many in litigation?",
+  "translations" : {
+    "russian" : "Сколько судебных?"
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "many",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "litigation",
+    "startOffset" : 12,
     "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "many",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "time",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 5
+    "token" : "litigate",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

@@ -32,6 +32,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFPwQTDTAu_IiLfUAX",
+  "text" : "I gotta trace that cab.",
+  "translations" : {
+    "russian" : "Я должен найти этот кэб."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "gotta",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "trace",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "that",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "cab",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgw4YINEXFMlzHLSoJ",
   "text" : "Do you have cab fare?",
   "translations" : {
@@ -245,44 +278,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzDV3NEXFMlzHLVqh",
-  "text" : "You have money for a cab?",
-  "translations" : {
-    "russian" : "У тебя есть деньги на такси?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "have",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "money",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 19,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "cab",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgzDeaNEXFMlzHLVq0",
   "text" : "We can find a cab outside.",
   "translations" : {
@@ -317,6 +312,44 @@
     "token" : "outside",
     "startOffset" : 18,
     "endOffset" : 25,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgzDV3NEXFMlzHLVqh",
+  "text" : "You have money for a cab?",
+  "translations" : {
+    "russian" : "У тебя есть деньги на такси?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "money",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 19,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "cab",
+    "startOffset" : 21,
+    "endOffset" : 24,
     "position" : 5
   } ],
   "contentScore" : null

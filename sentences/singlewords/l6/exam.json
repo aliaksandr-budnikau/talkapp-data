@@ -1,4 +1,116 @@
 [ {
+  "id" : "AWoFMDsWDTAu_IiLfRPk",
+  "text" : "Our initial exam.",
+  "translations" : {
+    "russian" : "Аш первоначальный диагноз."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "initial",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "exam",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfHZlDTAu_IiLewNJ",
+  "text" : "Not on preliminary exam.",
+  "translations" : {
+    "russian" : "По предварительному осмотру нет."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "preliminary",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "exam",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_aneDTAu_IiLeYte",
+  "text" : "A breast exam pamphlet?",
+  "translations" : {
+    "russian" : "Брошюру по осмотру молочных желез?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "breast",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "exam",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "pamphlet",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFOXs3DTAu_IiLfS8N",
+  "text" : "I flunked every damn exam.",
+  "translations" : {
+    "russian" : "Я провалил все гребанные экзамены."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "flunk",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "every",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "damn",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "exam",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrEo-NEXFMlzHLKd2",
   "text" : "Don't worry about those repeat exams.",
   "translations" : {
@@ -33,6 +145,82 @@
     "token" : "exam",
     "startOffset" : 31,
     "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqDjuDTAu_IiLeMdr",
+  "text" : "The scourge of contemporary history exams.",
+  "translations" : {
+    "russian" : "Бич экзаменов по современной истории."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "scourge",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "temporary",
+    "startOffset" : 15,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "history",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "exam",
+    "startOffset" : 36,
+    "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRuMpDTAu_IiLd-tk",
+  "text" : "I just my second actuarial exam.",
+  "translations" : {
+    "russian" : "Я только что прошел мой второй актуарной экзамен."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "second",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "actuarial",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "exam",
+    "startOffset" : 27,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

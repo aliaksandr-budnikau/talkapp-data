@@ -1,4 +1,88 @@
 [ {
+  "id" : "AWoEmUWMDTAu_IiLe1z0",
+  "text" : "Not deafness, not dermatitis.",
+  "translations" : {
+    "russian" : "Не глухота, не дерматит."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "deafness",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "deaf",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "dermatitis",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE37yoDTAu_IiLfCU0",
+  "text" : "Deafen.",
+  "translations" : {
+    "russian" : "Оглушать."
+  },
+  "tokens" : [ {
+    "token" : "deafen",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "deaf",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHv2TDTAu_IiLfNzd",
+  "text" : "He's stone deaf, I apologize.",
+  "translations" : {
+    "russian" : "Глухой как пень, извините его."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "stone",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "deaf",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "i",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "apologize",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghYUfNEXFMlzHK-Sc",
   "text" : "A dialogue of the deaf.",
   "translations" : {
@@ -29,6 +113,44 @@
     "startOffset" : 18,
     "endOffset" : 22,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSmvxDTAu_IiLfWPZ",
+  "text" : "A gimp and a deaf girl.",
+  "translations" : {
+    "russian" : "Инвалид и глухая девушка."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "gimp",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 3
+  }, {
+    "token" : "deaf",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 4
+  }, {
+    "token" : "girl",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

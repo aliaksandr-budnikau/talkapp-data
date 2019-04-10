@@ -1,87 +1,136 @@
 [ {
-  "id" : "AWbgqXrUNEXFMlzHLJjk",
-  "text" : "It's dope... it's got great music.",
+  "id" : "AWoEwhd3DTAu_IiLe9IC",
+  "text" : "Dope fiend.",
   "translations" : {
-    "russian" : "Это как наркотик... потрясающая музыка."
+    "russian" : "Он наркоша."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "dope",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "dope",
+    "token" : "fiend",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 10,
     "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "got",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "great",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "music",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnEmUNEXFMlzHLE6Z",
-  "text" : "It's a pretty dope cut, right?",
+  "id" : "AWoEwhcpDTAu_IiLe9IB",
+  "text" : "Widow's a dope fiend.",
   "translations" : {
-    "russian" : "Довольно крутой покрой, да?"
+    "russian" : "Вдова наркоша."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "widow",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 7,
     "position" : 0
   }, {
     "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
+    "startOffset" : 8,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "pretty",
-    "startOffset" : 7,
-    "endOffset" : 13,
+    "token" : "dope",
+    "startOffset" : 10,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "dope",
-    "startOffset" : 14,
-    "endOffset" : 18,
+    "token" : "fiend",
+    "startOffset" : 15,
+    "endOffset" : 20,
     "position" : 3
-  }, {
-    "token" : "cut",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "right",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgi30INEXFMlzHK_id",
-  "text" : "It's dope... it's got great music.",
+  "id" : "AWoEwgasDTAu_IiLe9HJ",
+  "text" : "Know your dope fiend.",
   "translations" : {
-    "russian" : "Это как наркотик... потрясающая музыка."
+    "russian" : "Распознай наркомана."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "know",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "dope",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "fiend",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwhCBDTAu_IiLe9Hp",
+  "text" : "Where's the dope fiend?",
+  "translations" : {
+    "russian" : "Где торчок?"
+  },
+  "tokens" : [ {
+    "token" : "where",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "dope",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "fiend",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwhiRDTAu_IiLe9IG",
+  "text" : "A dope fiend.",
+  "translations" : {
+    "russian" : "Наркош."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "dope",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "fiend",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKmG_DTAu_IiLfQHm",
+  "text" : "This dope is tainted.",
+  "translations" : {
+    "russian" : "Этот наркотик заражен."
+  },
+  "tokens" : [ {
+    "token" : "this",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
@@ -91,25 +140,350 @@
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "it",
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "tainted",
     "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "taint",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEK22yDTAu_IiLehVc",
+  "text" : "Mir grabbed the dope.",
+  "translations" : {
+    "russian" : "Мир забрал пакет."
+  },
+  "tokens" : [ {
+    "token" : "mir",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "grabbed",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "dope",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwgjBDTAu_IiLe9HQ",
+  "text" : "Cause they dope fiends.",
+  "translations" : {
+    "russian" : "Потому, что они наркоманы."
+  },
+  "tokens" : [ {
+    "token" : "cause",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "they",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "dope",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "fiend",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMK23DTAu_IiLeiZr",
+  "text" : "Guns, dope, armed insurrection.",
+  "translations" : {
+    "russian" : "Оружие, дурь, вооружённое восстание."
+  },
+  "tokens" : [ {
+    "token" : "gun",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "dope",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "armed",
+    "startOffset" : 12,
     "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "got",
+    "token" : "arm",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "insurrection",
     "startOffset" : 18,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwgYgDTAu_IiLe9HH",
+  "text" : "Are you a dope fiend?",
+  "translations" : {
+    "russian" : "Ты наркоман?"
+  },
+  "tokens" : [ {
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "dope",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "fiend",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExHgYDTAu_IiLe9lG",
+  "text" : "It ain't like slinging dope.",
+  "translations" : {
+    "russian" : "Это тебе не дурь толкать."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "ain't",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "like",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "sling",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "dope",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSNgSDTAu_IiLfV8Z",
+  "text" : "That's the dope drip talking.",
+  "translations" : {
+    "russian" : "Это капельница с наркотой говорит."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "dope",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "drip",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "talk",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzCHCDTAu_IiLeRqk",
+  "text" : "It ain't like slinging dope.",
+  "translations" : {
+    "russian" : "Это тебе не дурь толкать."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "ain't",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "like",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "sling",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "dope",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwgQMDTAu_IiLe9HA",
+  "text" : "Vernon Bundy, a dope fiend?",
+  "translations" : {
+    "russian" : "А может наркоман Вернон Ванди? Шоу уважают."
+  },
+  "tokens" : [ {
+    "token" : "vernon",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "bundy",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "dope",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "fiend",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwhe2DTAu_IiLe9ID",
+  "text" : "Stoner, dope fiend, smoke monkey.",
+  "translations" : {
+    "russian" : "Курильщик, наркоша, любитель травки."
+  },
+  "tokens" : [ {
+    "token" : "stoner",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "stone",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dope",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "fiend",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "smoke",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "monkey",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwgf2DTAu_IiLe9HO",
+  "text" : "Made them dope fiends sing.",
+  "translations" : {
+    "russian" : "Заставил тех наркоманов мне спеть."
+  },
+  "tokens" : [ {
+    "token" : "made",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "them",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "dope",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "fiend",
+    "startOffset" : 15,
     "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "great",
+    "token" : "sing",
     "startOffset" : 22,
-    "endOffset" : 27,
+    "endOffset" : 26,
     "position" : 4
   }, {
-    "token" : "music",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 5
+    "token" : "s",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

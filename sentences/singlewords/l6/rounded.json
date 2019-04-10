@@ -1,4 +1,68 @@
 [ {
+  "id" : "AWoEfedZDTAu_IiLewgN",
+  "text" : "Gather round.",
+  "translations" : {
+    "russian" : "All the robbers Собирайтесь все, все разбойники."
+  },
+  "tokens" : [ {
+    "token" : "gather",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "round",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfG6jDTAu_IiLewMw",
+  "text" : "Preliminary Round.",
+  "translations" : {
+    "russian" : "Первый раунд домашняя птица."
+  },
+  "tokens" : [ {
+    "token" : "preliminary",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "round",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEP29CDTAu_IiLelKE",
+  "text" : "Twelfth-round knockout, C.J.!",
+  "translations" : {
+    "russian" : "12-раундный нокаут СиДжей!"
+  },
+  "tokens" : [ {
+    "token" : "twelfth",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "round",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "knockout",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "c.j",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcVPxNEXFMlzHK56-",
   "text" : "Everyone, uh, gather round.",
   "translations" : {
@@ -27,109 +91,178 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggSXaNEXFMlzHK9Vt",
-  "text" : "Over their heads, one round.",
+  "id" : "AWoDPYCKDTAu_IiLd9J4",
+  "text" : "9mm auto 6-round.",
   "translations" : {
-    "russian" : "Над их головами, в один снаряд."
+    "russian" : "9-ти миллиметровый автоматический 6-ти зарядный."
   },
   "tokens" : [ {
-    "token" : "over",
+    "token" : "9mm",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "their",
-    "startOffset" : 5,
-    "endOffset" : 10,
+    "token" : "auto",
+    "startOffset" : 4,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "head",
-    "startOffset" : 11,
-    "endOffset" : 16,
+    "token" : "6",
+    "startOffset" : 9,
+    "endOffset" : 10,
     "position" : 2
   }, {
-    "token" : "one",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
     "token" : "round",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgq3eeNEXFMlzHLKJ7",
-  "text" : "Double the odds, another round.",
+  "id" : "AWoFQ77MDTAu_IiLfU-G",
+  "text" : "Peyote all round.",
   "translations" : {
-    "russian" : "Удвоим шансы, еще один раунд."
+    "russian" : "Всем мескалина."
   },
   "tokens" : [ {
-    "token" : "double",
+    "token" : "peyote",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "the",
+    "token" : "all",
     "startOffset" : 7,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "odd",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "another",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
     "token" : "round",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgumleNEXFMlzHLPbe",
-  "text" : "Round, equal, reactive to light.",
+  "id" : "AWoFZ6gpDTAu_IiLfbvV",
+  "text" : "Square peg, round hole!",
   "translations" : {
-    "russian" : "Круглые, одинаковые, реагируют на свет."
+    "russian" : "Квадратный колышек в круглую дыру."
   },
   "tokens" : [ {
-    "token" : "round",
+    "token" : "square",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "equal",
+    "token" : "peg",
     "startOffset" : 7,
-    "endOffset" : 12,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "active",
-    "startOffset" : 14,
-    "endOffset" : 22,
+    "token" : "round",
+    "startOffset" : 12,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "to",
-    "startOffset" : 23,
-    "endOffset" : 25,
+    "token" : "hole",
+    "startOffset" : 18,
+    "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "light",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgeis2NEXFMlzHK71h",
-  "text" : "Round the porch of roses.",
+  "id" : "AWoFY8S9DTAu_IiLfa7I",
+  "text" : "Of flirting round them...",
   "translations" : {
-    "russian" : "Над розовой беседкой."
+    "russian" : "Что я заигрываю с ними..."
+  },
+  "tokens" : [ {
+    "token" : "of",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "flirt",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "round",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "them",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZ3YlDTAu_IiLfbsu",
+  "text" : "Square peg, round hole!",
+  "translations" : {
+    "russian" : "Квадратный колышек в круглую дыру."
+  },
+  "tokens" : [ {
+    "token" : "square",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "peg",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "round",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "hole",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDx_4PDTAu_IiLeRFv",
+  "text" : "Shotgun rounds, armor piercing.",
+  "translations" : {
+    "russian" : "Это пули от дробовика, они пробили бронежилет."
+  },
+  "tokens" : [ {
+    "token" : "shotgun",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "round",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "armor",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "piercing",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "pierce",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD0-bRDTAu_IiLeSrO",
+  "text" : "Round the turbulent quick.",
+  "translations" : {
+    "russian" : "Вокруг все бурно и быстро."
   },
   "tokens" : [ {
     "token" : "round",
@@ -142,238 +275,150 @@
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "porch",
+    "token" : "turbulent",
     "startOffset" : 10,
-    "endOffset" : 15,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "of",
-    "startOffset" : 16,
-    "endOffset" : 18,
+    "token" : "quick",
+    "startOffset" : 20,
+    "endOffset" : 25,
     "position" : 3
-  }, {
-    "token" : "rose",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsCejNEXFMlzHLL4Q",
-  "text" : "Turn it round, it's widescreen.",
+  "id" : "AWoEgj34DTAu_IiLexXI",
+  "text" : "Everybody's combing it round?",
   "translations" : {
-    "russian" : "Поверни, видео широкоформатное."
+    "russian" : "Все причесываются по окружности?"
   },
   "tokens" : [ {
-    "token" : "turn",
+    "token" : "everybody",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 11,
     "position" : 0
   }, {
-    "token" : "it",
-    "startOffset" : 5,
-    "endOffset" : 7,
+    "token" : "comb",
+    "startOffset" : 12,
+    "endOffset" : 19,
     "position" : 1
   }, {
-    "token" : "round",
-    "startOffset" : 8,
-    "endOffset" : 13,
+    "token" : "it",
+    "startOffset" : 20,
+    "endOffset" : 22,
     "position" : 2
   }, {
-    "token" : "it",
+    "token" : "round",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh_p0DTAu_IiLeyg-",
+  "text" : "Perfect, round fish breasts.",
+  "translations" : {
+    "russian" : "Идеальным округлым рыбьим бюстом."
+  },
+  "tokens" : [ {
+    "token" : "perfect",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "round",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "fish",
     "startOffset" : 15,
     "endOffset" : 19,
-    "position" : 3
+    "position" : 2
   }, {
-    "token" : "widescreen",
+    "token" : "breast",
     "startOffset" : 20,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggriDNEXFMlzHK9rW",
-  "text" : "Double the odds, another round.",
-  "translations" : {
-    "russian" : "Удвоим шансы, еще один раунд."
-  },
-  "tokens" : [ {
-    "token" : "double",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "odd",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "another",
-    "startOffset" : 17,
-    "endOffset" : 24,
+    "endOffset" : 27,
     "position" : 3
-  }, {
-    "token" : "round",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzDVINEXFMlzHLVqf",
-  "text" : "Usual round of lunches, meetings, cabs.",
+  "id" : "AWoDfMWJDTAu_IiLeGfY",
+  "text" : "Round and velvety shoulders...",
   "translations" : {
-    "russian" : "Всё те же ланчи, встречи, такси."
+    "russian" : "Округлые и бархатистые плечи..."
   },
   "tokens" : [ {
-    "token" : "usual",
+    "token" : "round",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "round",
+    "token" : "and",
     "startOffset" : 6,
-    "endOffset" : 11,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "of",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "lunch",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "meet",
-    "startOffset" : 24,
-    "endOffset" : 32,
-    "position" : 4
-  }, {
-    "token" : "cab",
-    "startOffset" : 34,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghVtLNEXFMlzHK-QL",
-  "text" : "His stories make the prison rounds.",
-  "translations" : {
-    "russian" : "Его байки знают во всех тюрьмах."
-  },
-  "tokens" : [ {
-    "token" : "his",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "story",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "make",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "prison",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "round",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoO_ZNEXFMlzHLGmh",
-  "text" : "His stories make the prison rounds.",
-  "translations" : {
-    "russian" : "Его байки знают во всех тюрьмах."
-  },
-  "tokens" : [ {
-    "token" : "his",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "story",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "make",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "prison",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "round",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpInBNEXFMlzHLH3e",
-  "text" : "Three rounds left in the magazine.",
-  "translations" : {
-    "russian" : "Три патрона остались в магазине."
-  },
-  "tokens" : [ {
-    "token" : "three",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "round",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "left",
-    "startOffset" : 13,
+    "token" : "velvety",
+    "startOffset" : 10,
     "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "in",
+    "token" : "should",
     "startOffset" : 18,
-    "endOffset" : 20,
+    "endOffset" : 27,
     "position" : 3
-  }, {
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuz1_DTAu_IiLe74L",
+  "text" : "The jar is round.",
+  "translations" : {
+    "russian" : "Кувшин круглый."
+  },
+  "tokens" : [ {
     "token" : "the",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
-    "token" : "magazine",
-    "startOffset" : 25,
-    "endOffset" : 33,
-    "position" : 5
+    "token" : "jar",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "round",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEP3Y3DTAu_IiLelKX",
+  "text" : "The knockout round.",
+  "translations" : {
+    "russian" : "Раунд нокаутов."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "knockout",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "round",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

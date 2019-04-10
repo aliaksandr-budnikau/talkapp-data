@@ -1,24 +1,464 @@
 [ {
-  "id" : "AWbgxOCENEXFMlzHLS9-",
-  "text" : "Well, land ho.",
+  "id" : "AWoE_UIFDTAu_IiLfHeU",
+  "text" : "Holy cow.",
   "translations" : {
-    "russian" : "Зато пристал к берегу."
+    "russian" : "Боже мой."
   },
   "tokens" : [ {
-    "token" : "well",
+    "token" : "holy",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "land",
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_UAvDTAu_IiLfHeM",
+  "text" : "Holy cow!",
+  "translations" : {
+    "russian" : "О боже!"
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_UDYDTAu_IiLfHeP",
+  "text" : "Holy cow...",
+  "translations" : {
+    "russian" : "Боже!"
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_UGwDTAu_IiLfHeT",
+  "text" : "Holy cow.",
+  "translations" : {
+    "russian" : "Боже."
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_UFyDTAu_IiLfHeS",
+  "text" : "Holy cow.",
+  "translations" : {
+    "russian" : "Господи Боже."
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_UCTDTAu_IiLfHeO",
+  "text" : "Holy cow.",
+  "translations" : {
+    "russian" : "Боже мой."
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0FdpDTAu_IiLe_t_",
+  "text" : "Holy mother lode!",
+  "translations" : {
+    "russian" : "Святая жила!"
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "mother",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "moth",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "lode",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELZxYDTAu_IiLehxd",
+  "text" : "The Sabbath is holy.",
+  "translations" : {
+    "russian" : "Суббота священна!"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sabbath",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "holy",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "ho",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE33fXDTAu_IiLfCRy",
+  "text" : "Holy sunburn, Dad!",
+  "translations" : {
+    "russian" : "Святой загар, папа!"
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "sunburn",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "dad",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE571EDTAu_IiLfDpP",
+  "text" : "Gasps holy crap!",
+  "translations" : {
+    "russian" : "Вот черт!"
+  },
+  "tokens" : [ {
+    "token" : "gasp",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "holy",
     "startOffset" : 6,
     "endOffset" : 10,
     "position" : 1
   }, {
     "token" : "ho",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "crap",
     "startOffset" : 11,
-    "endOffset" : 13,
+    "endOffset" : 15,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEC9cRDTAu_IiLebdN",
+  "text" : "You're the Holy Vagina!",
+  "translations" : {
+    "russian" : "Вы Святая Вагина!"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "holy",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "ho",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "vagina",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_UE9DTAu_IiLfHeR",
+  "text" : "Holy cow! Unbelievable!",
+  "translations" : {
+    "russian" : "Боже, я просто не могу в это поверить!"
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "believable",
+    "startOffset" : 10,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3077DTAu_IiLfCQD",
+  "text" : "Holy sunburn, Dad!",
+  "translations" : {
+    "russian" : "Святой загар, папа!"
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "sunburn",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "dad",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyQgTDTAu_IiLe-a7",
+  "text" : "The holy grail desires you.",
+  "translations" : {
+    "russian" : "Святой Грааль жаждет тебя."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "holy",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "ho",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "grail",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "sires",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "you",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_UJ5DTAu_IiLfHeV",
+  "text" : "Holy cow, what is this?",
+  "translations" : {
+    "russian" : "Боже мой, что это?"
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "what",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "this",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFW9zaDTAu_IiLfZU7",
+  "text" : "Holy ordination is for life.",
+  "translations" : {
+    "russian" : "Рукополагают на всю жизнь."
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ordination",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "life",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

@@ -1,34 +1,504 @@
 [ {
-  "id" : "AWbgrCqjNEXFMlzHLKa2",
-  "text" : "Defense contends it's a reality.",
+  "id" : "AWoFXcSjDTAu_IiLfZrj",
+  "text" : "Values, watchwords, tender years.",
   "translations" : {
-    "russian" : "Но защита утверждает, что такова действительность."
+    "russian" : "О ценностях, девизах, годах юности..."
   },
   "tokens" : [ {
-    "token" : "defense",
+    "token" : "values",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "value",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "watchword",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "tender",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "tend",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "year",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDkqk2DTAu_IiLeJns",
+  "text" : "Tender, warm, unconditional love.",
+  "translations" : {
+    "russian" : "Нежной, теплой, безусловной любви."
+  },
+  "tokens" : [ {
+    "token" : "tender",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "tend",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "warm",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "conditional",
+    "startOffset" : 14,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "love",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzfVfDTAu_IiLeR7J",
+  "text" : "Abdomen's rigid, extremely tender.",
+  "translations" : {
+    "russian" : "Живот напряжен, очень болезненный."
+  },
+  "tokens" : [ {
+    "token" : "abdomen",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "rigid",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "extreme",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "tender",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "tend",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRJ_DDTAu_IiLfVJQ",
+  "text" : "Several contenders were maimed.",
+  "translations" : {
+    "russian" : "Несколько участников получили увечья."
+  },
+  "tokens" : [ {
+    "token" : "several",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "tend",
+    "token" : "tender",
     "startOffset" : 8,
-    "endOffset" : 16,
+    "endOffset" : 18,
     "position" : 1
   }, {
-    "token" : "it",
-    "startOffset" : 17,
-    "endOffset" : 21,
+    "token" : "were",
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 2
   }, {
-    "token" : "a",
-    "startOffset" : 22,
-    "endOffset" : 23,
+    "token" : "maimed",
+    "startOffset" : 24,
+    "endOffset" : 30,
     "position" : 3
   }, {
-    "token" : "reality",
+    "token" : "maim",
     "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 4
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRHt0DTAu_IiLfVHe",
+  "text" : "Several contenders were maimed.",
+  "translations" : {
+    "russian" : "Несколько участников получили увечья."
+  },
+  "tokens" : [ {
+    "token" : "several",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tender",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "were",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "maimed",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "maim",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFROHmDTAu_IiLfVMf",
+  "text" : "Several contenders were maimed.",
+  "translations" : {
+    "russian" : "Несколько участников получили увечья."
+  },
+  "tokens" : [ {
+    "token" : "several",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tender",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "were",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "maimed",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "maim",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-ohDTAu_IiLfVAV",
+  "text" : "Pun intended.",
+  "translations" : {
+    "russian" : "Игра слов неслучайна."
+  },
+  "tokens" : [ {
+    "token" : "pun",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "intended",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tend",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-9-DTAu_IiLfVAj",
+  "text" : "Pun intended.",
+  "translations" : {
+    "russian" : "Это игра слов."
+  },
+  "tokens" : [ {
+    "token" : "pun",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "intended",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tend",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-niDTAu_IiLfVAU",
+  "text" : "Pun definitely intended.",
+  "translations" : {
+    "russian" : "Игра слов определенно была бы уместна."
+  },
+  "tokens" : [ {
+    "token" : "pun",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "finitely",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "definite",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "intended",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "tend",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-5wDTAu_IiLfVAg",
+  "text" : "Seriously, no pun intended.",
+  "translations" : {
+    "russian" : "Серьёзно, никакой игры слов."
+  },
+  "tokens" : [ {
+    "token" : "serious",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "no",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "pun",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "intended",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "tend",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-_SDTAu_IiLfVAk",
+  "text" : "No pun intended, huh?",
+  "translations" : {
+    "russian" : "Это игра слов, да?"
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "pun",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "intended",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "tend",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "huh",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbhVKDTAu_IiLetkw",
+  "text" : "It tends to dominate.",
+  "translations" : {
+    "russian" : "Это имеет тенденцию доминировать."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "tends",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "tend",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "dominate",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcaGODTAu_IiLeuLi",
+  "text" : "The gander tends to...",
+  "translations" : {
+    "russian" : "А глупый гусак..."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gander",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "tends",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "tend",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsgE1DTAu_IiLe6T-",
+  "text" : "It tends to dominate.",
+  "translations" : {
+    "russian" : "Это имеет тенденцию доминировать."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "tends",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "tend",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "dominate",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ_DpDTAu_IiLfVAp",
+  "text" : "No pun intended.",
+  "translations" : {
+    "russian" : "Без шуток."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "pun",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "intended",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "tend",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ_hKDTAu_IiLfVBC",
+  "text" : "No pun intended.",
+  "translations" : {
+    "russian" : "Игра слов непреднамеренная."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "pun",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "intended",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "tend",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

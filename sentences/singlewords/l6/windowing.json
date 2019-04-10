@@ -1,4 +1,83 @@
 [ {
+  "id" : "AWoFhHHPDTAu_IiLfhA-",
+  "text" : "Tinted windows.",
+  "translations" : {
+    "russian" : "Тонированные стёкла."
+  },
+  "tokens" : [ {
+    "token" : "tint",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "windows",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "window",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhIcsDTAu_IiLfhB0",
+  "text" : "Tinted windows?",
+  "translations" : {
+    "russian" : "Тонировка?"
+  },
+  "tokens" : [ {
+    "token" : "tint",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "windows",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "window",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhHeqDTAu_IiLfhBM",
+  "text" : "Dark sedan, tinted windows.",
+  "translations" : {
+    "russian" : "Тёмный седан, тонированный."
+  },
+  "tokens" : [ {
+    "token" : "dark",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "sedan",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "tint",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "windows",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "window",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmEY0NEXFMlzHLDQJ",
   "text" : "Dining room window?",
   "translations" : {
@@ -19,6 +98,199 @@
     "startOffset" : 12,
     "endOffset" : 18,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEj9L5DTAu_IiLe0Ev",
+  "text" : "Coal bin... courtyard... window!",
+  "translations" : {
+    "russian" : "Угольная... внутренний двор... окно!"
+  },
+  "tokens" : [ {
+    "token" : "coal",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bin",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "courtyard",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "window",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhIXFDTAu_IiLfhBv",
+  "text" : "The windows were tinted.",
+  "translations" : {
+    "russian" : "Стекла была затонированы."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "windows",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "window",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "were",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "tint",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8RafDTAu_IiLfFI3",
+  "text" : "Oh, shut the window!",
+  "translations" : {
+    "russian" : "Ой, закройте окно!"
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "shut",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "window",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhHPvDTAu_IiLfhBD",
+  "text" : "Couldn't see. Tinted windows.",
+  "translations" : {
+    "russian" : "Окна тонированные."
+  },
+  "tokens" : [ {
+    "token" : "couldn't",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "see",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tint",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "windows",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "window",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhHRhDTAu_IiLfhBE",
+  "text" : "The windows are tinted.",
+  "translations" : {
+    "russian" : "Стёкла тонированные."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "windows",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "window",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "tint",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1qkgDTAu_IiLfAzk",
+  "text" : "The lighted windows dim.",
+  "translations" : {
+    "russian" : "И окон тусклый свет..."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "lighted",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "light",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "windows",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "window",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "dim",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -55,264 +327,148 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxnx4NEXFMlzHLTio",
-  "text" : "Drive with the windows down.",
+  "id" : "AWoFBkedDTAu_IiLfJOE",
+  "text" : "For window shades?",
   "translations" : {
-    "russian" : "Едьте с опущенными окнами."
+    "russian" : "За шторами?"
   },
   "tokens" : [ {
-    "token" : "drive",
+    "token" : "for",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "with",
-    "startOffset" : 6,
+    "token" : "window",
+    "startOffset" : 4,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "the",
+    "token" : "shade",
     "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "windows",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "window",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "down",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxn1TNEXFMlzHLTis",
-  "text" : "Why was the window down?",
-  "translations" : {
-    "russian" : "Почему окно было опущено?"
-  },
-  "tokens" : [ {
-    "token" : "why",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "window",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "down",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoUI0NEXFMlzHLGuf",
-  "text" : "Why is this window open?",
-  "translations" : {
-    "russian" : "Почему окно открыто?"
-  },
-  "tokens" : [ {
-    "token" : "why",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "window",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "open",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "op",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr7XGNEXFMlzHLLt_",
-  "text" : "Lovely view out this window.",
-  "translations" : {
-    "russian" : "Прекрасный вид из окна."
-  },
-  "tokens" : [ {
-    "token" : "lovely",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "love",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "view",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "out",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "this",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "window",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgb_0HNEXFMlzHK5nl",
-  "text" : "Put a card in the window.",
-  "translations" : {
-    "russian" : "Оместите карту в окно."
-  },
-  "tokens" : [ {
-    "token" : "put",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 4,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "card",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 14,
     "endOffset" : 17,
-    "position" : 4
-  }, {
-    "token" : "window",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgphMTNEXFMlzHLIXz",
-  "text" : "Put a card in the window.",
-  "translations" : {
-    "russian" : "Оместите карту в окно."
-  },
-  "tokens" : [ {
-    "token" : "put",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 4,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "card",
-    "startOffset" : 6,
-    "endOffset" : 10,
     "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 4
-  }, {
-    "token" : "window",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgeVtGNEXFMlzHK7pw",
-  "text" : "A window to the outside world.",
+  "id" : "AWoFhHNfDTAu_IiLfhBC",
+  "text" : "I got tinted windows.",
   "translations" : {
-    "russian" : "Окно во внешний мир."
+    "russian" : "У меня тонированные стёкла."
   },
   "tokens" : [ {
-    "token" : "a",
+    "token" : "i",
     "startOffset" : 0,
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "window",
+    "token" : "got",
     "startOffset" : 2,
-    "endOffset" : 8,
+    "endOffset" : 5,
     "position" : 1
   }, {
-    "token" : "to",
-    "startOffset" : 9,
-    "endOffset" : 11,
+    "token" : "tint",
+    "startOffset" : 6,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
+    "token" : "windows",
+    "startOffset" : 13,
+    "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "outside",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 4
+    "token" : "window",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhIMiDTAu_IiLfhBn",
+  "text" : "Uh, tinted windows.",
+  "translations" : {
+    "russian" : "Тонированные стекла."
+  },
+  "tokens" : [ {
+    "token" : "uh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
   }, {
-    "token" : "world",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 5
+    "token" : "tint",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "windows",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "window",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhHX2DTAu_IiLfhBH",
+  "text" : "Windows are tinted.",
+  "translations" : {
+    "russian" : "Окна тонированы."
+  },
+  "tokens" : [ {
+    "token" : "windows",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "window",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "tint",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFRhMDTAu_IiLedRY",
+  "text" : "We'll make window installation history.",
+  "translations" : {
+    "russian" : "Мы войдем в историю установки окон."
+  },
+  "tokens" : [ {
+    "token" : "we'll",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "window",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "installation",
+    "startOffset" : 18,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "history",
+    "startOffset" : 31,
+    "endOffset" : 38,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

@@ -1,46 +1,270 @@
 [ {
-  "id" : "AWbgirQ4NEXFMlzHK_Xz",
-  "text" : "Lead, bronze, copper, iron, occasionally silver.",
+  "id" : "AWoE3BqqDTAu_IiLfBtz",
+  "text" : "Curling iron.",
   "translations" : {
-    "russian" : "Свинец, бронза, медь, железо, иногда серебро."
+    "russian" : "Плойка."
   },
   "tokens" : [ {
-    "token" : "lead",
+    "token" : "curling",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "curl",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "iron",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDme4BDTAu_IiLeKmt",
+  "text" : "Cordless iron.",
+  "translations" : {
+    "russian" : "Беспроводной утюг."
+  },
+  "tokens" : [ {
+    "token" : "cordless",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "iron",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZUgvDTAu_IiLeDD5",
+  "text" : "Reinforced steel, iron doors.",
+  "translations" : {
+    "russian" : "Усиленная сталь, железные двери."
+  },
+  "tokens" : [ {
+    "token" : "reinforced",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "reinforce",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "steel",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "iron",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "doors",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "door",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDo9B-DTAu_IiLeL4M",
+  "text" : "With an iron bat?",
+  "translations" : {
+    "russian" : "Железной битой?"
+  },
+  "tokens" : [ {
+    "token" : "with",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "bronze",
-    "startOffset" : 6,
-    "endOffset" : 12,
+    "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "copper",
-    "startOffset" : 14,
-    "endOffset" : 20,
+    "token" : "iron",
+    "startOffset" : 8,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "iron",
-    "startOffset" : 22,
-    "endOffset" : 26,
+    "token" : "bat",
+    "startOffset" : 13,
+    "endOffset" : 16,
     "position" : 3
-  }, {
-    "token" : "occasional",
-    "startOffset" : 28,
-    "endOffset" : 40,
-    "position" : 4
-  }, {
-    "token" : "silver",
-    "startOffset" : 41,
-    "endOffset" : 47,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzN2cNEXFMlzHLWAe",
-  "text" : "I missed... your delicious ironed toast.",
+  "id" : "AWoD5TMvDTAu_IiLeUpx",
+  "text" : "Hello, waffle iron. Hello.",
   "translations" : {
-    "russian" : "Я так соскучился... по твоим восхитительным глаженым тостам."
+    "russian" : "Привет, вафельница."
+  },
+  "tokens" : [ {
+    "token" : "hello",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "waffle",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "iron",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "hello",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5TX3DTAu_IiLeUp3",
+  "text" : "Heated blankets Waffle irons.",
+  "translations" : {
+    "russian" : "Одеяла с подогревом Вафельницы."
+  },
+  "tokens" : [ {
+    "token" : "heated",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "heat",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "blanket",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "waffle",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "iron",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5PDDDTAu_IiLeUnu",
+  "text" : "Heated blankets Waffle irons.",
+  "translations" : {
+    "russian" : "Одеяла с подогревом Вафельницы."
+  },
+  "tokens" : [ {
+    "token" : "heated",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "heat",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "blanket",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "waffle",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "iron",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5O4ZDTAu_IiLeUno",
+  "text" : "Hello, waffle iron. Hello.",
+  "translations" : {
+    "russian" : "Привет, вафельница."
+  },
+  "tokens" : [ {
+    "token" : "hello",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "waffle",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "iron",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "hello",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3BsnDTAu_IiLfBt1",
+  "text" : "Elena, the curling iron.",
+  "translations" : {
+    "russian" : "Елена, плойка."
+  },
+  "tokens" : [ {
+    "token" : "elena",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "curling",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "curl",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "iron",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3BwwDTAu_IiLfBt4",
+  "text" : "I love curling irons.",
+  "translations" : {
+    "russian" : "Я люблю плойки."
   },
   "tokens" : [ {
     "token" : "i",
@@ -48,68 +272,183 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "miss",
+    "token" : "love",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "curling",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "curl",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "iron",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNvGyDTAu_IiLfSet",
+  "text" : "Iron, nickel, iridium.",
+  "translations" : {
+    "russian" : "Железо, никель, иридий."
+  },
+  "tokens" : [ {
+    "token" : "iron",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "nickel",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "iridium",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3RJXDTAu_IiLfB4L",
+  "text" : "It's a curling iron.",
+  "translations" : {
+    "russian" : "Это щипцы для завивки волос."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "curling",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "curl",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "iron",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYP0XDTAu_IiLfaVd",
+  "text" : "The Iron Claw.",
+  "translations" : {
+    "russian" : "Железный Коготь."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "iron",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "claw",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5O26DTAu_IiLeUnn",
+  "text" : "It's a waffle iron.",
+  "translations" : {
+    "russian" : "Это вафельница."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "waffle",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "iron",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5O6EDTAu_IiLeUnp",
+  "text" : "A waffle iron.",
+  "translations" : {
+    "russian" : "Вафельница."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "waffle",
     "startOffset" : 2,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "your",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "delicious",
-    "startOffset" : 17,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
     "token" : "iron",
-    "startOffset" : 27,
-    "endOffset" : 33,
-    "position" : 4
-  }, {
-    "token" : "toast",
-    "startOffset" : 34,
-    "endOffset" : 39,
-    "position" : 5
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtnPwNEXFMlzHLNtz",
-  "text" : "These poor old-fashioned shooting irons.",
+  "id" : "AWoD5O7jDTAu_IiLeUnq",
+  "text" : "Where's your waffle iron?",
   "translations" : {
-    "russian" : "Этими жалкими старомодными стреляющими железяками."
+    "russian" : "А где вафельница?"
   },
   "tokens" : [ {
-    "token" : "these",
+    "token" : "where",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "poor",
-    "startOffset" : 6,
-    "endOffset" : 10,
+    "token" : "your",
+    "startOffset" : 8,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "old",
-    "startOffset" : 11,
-    "endOffset" : 14,
+    "token" : "waffle",
+    "startOffset" : 13,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "fashion",
-    "startOffset" : 15,
+    "token" : "iron",
+    "startOffset" : 20,
     "endOffset" : 24,
     "position" : 3
-  }, {
-    "token" : "shoot",
-    "startOffset" : 25,
-    "endOffset" : 33,
-    "position" : 4
-  }, {
-    "token" : "iron",
-    "startOffset" : 34,
-    "endOffset" : 39,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

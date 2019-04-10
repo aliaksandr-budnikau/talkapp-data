@@ -1,4 +1,116 @@
 [ {
+  "id" : "AWoDcDNsDTAu_IiLeEuk",
+  "text" : "Pushing mud?",
+  "translations" : {
+    "russian" : "Копать глину?"
+  },
+  "tokens" : [ {
+    "token" : "push",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "mud",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbfZwDTAu_IiLfdBM",
+  "text" : "I'm pushing the envelope.",
+  "translations" : {
+    "russian" : "Я толкаю оболочку."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "push",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "envelope",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPDmcDTAu_IiLd89Q",
+  "text" : "Don't push me, Augur.",
+  "translations" : {
+    "russian" : "Авгур, не наглей."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "push",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "augur",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEu5OGDTAu_IiLe772",
+  "text" : "Drifting or being pushed?",
+  "translations" : {
+    "russian" : "Плывут или их толкают?"
+  },
+  "tokens" : [ {
+    "token" : "drifting",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "drift",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "or",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "being",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "bee",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "push",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgthCmNEXFMlzHLNnX",
   "text" : "You're pushing him too hard!",
   "translations" : {
@@ -27,6 +139,105 @@
   }, {
     "token" : "hard",
     "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8LEODTAu_IiLeWPU",
+  "text" : "You pushed our cyclist out?",
+  "translations" : {
+    "russian" : "Вы отстранили нашего велосипедиста?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "push",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "our",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "cyclist",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "out",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQsK4DTAu_IiLelwf",
+  "text" : "Now push in the clutch.",
+  "translations" : {
+    "russian" : "Теперь выжми сцепление."
+  },
+  "tokens" : [ {
+    "token" : "now",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "push",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "clutch",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErAcGDTAu_IiLe5TM",
+  "text" : "To reload, push this button.",
+  "translations" : {
+    "russian" : "Перезаряжается вот этой кнопкой."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "reload",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "push",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "this",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "button",
+    "startOffset" : 21,
     "endOffset" : 27,
     "position" : 4
   } ],
@@ -136,6 +347,105 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDauJPDTAu_IiLeD8L",
+  "text" : "Okay, push 1 of atropine.",
+  "translations" : {
+    "russian" : "Хорошо, введи 1мг. атропина."
+  },
+  "tokens" : [ {
+    "token" : "okay",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "push",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "1",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "atropine",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoET2rADTAu_IiLeoHm",
+  "text" : "Push that with your thumb.",
+  "translations" : {
+    "russian" : "Надави на нее большим пальцем."
+  },
+  "tokens" : [ {
+    "token" : "push",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "thumb",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgCnMDTAu_IiLfgWK",
+  "text" : "The players push and shove.",
+  "translations" : {
+    "russian" : "Игроки толкаются и напирают."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "player",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "push",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "shove",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgw-eMNEXFMlzHLSuU",
   "text" : "And even pushed to fly.",
   "translations" : {
@@ -204,305 +514,6 @@
     "startOffset" : 23,
     "endOffset" : 29,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguBZXNEXFMlzHLOUd",
-  "text" : "Roots push into the soil!",
-  "translations" : {
-    "russian" : "Корешки в землю!"
-  },
-  "tokens" : [ {
-    "token" : "root",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "push",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "into",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "soil",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgf5c2NEXFMlzHK8_w",
-  "text" : "Turn the pull into a push.",
-  "translations" : {
-    "russian" : "Превратите натяжение в толкание."
-  },
-  "tokens" : [ {
-    "token" : "turn",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "pull",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "into",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 19,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "push",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmwu2NEXFMlzHLEci",
-  "text" : "That's what the push pins represent.",
-  "translations" : {
-    "russian" : "На карте это канцелярские кнопки."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "what",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "push",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "pin",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "represent",
-    "startOffset" : 26,
-    "endOffset" : 35,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyoNUNEXFMlzHLVBs",
-  "text" : "The wind pushes your eyes away.",
-  "translations" : {
-    "russian" : "Ветер увлекает твой взгляд далеко отсюда..."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "wind",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "push",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "eye",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "away",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkgJ_NEXFMlzHLBDK",
-  "text" : "Maybe I'm pushing you too fast.",
-  "translations" : {
-    "russian" : "Возможно, я слишком сильно на вас давлю."
-  },
-  "tokens" : [ {
-    "token" : "maybe",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "i'm",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "push",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "too",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "fast",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglYewNEXFMlzHLCcH",
-  "text" : "Right, if you wind, I'll push.",
-  "translations" : {
-    "russian" : "Итак, если ты поднимешь её, я дам газу."
-  },
-  "tokens" : [ {
-    "token" : "right",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "if",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "wind",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "i'll",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "push",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguuWINEXFMlzHLPqj",
-  "text" : "Pushing back against anti-Islamic prejudices.",
-  "translations" : {
-    "russian" : "Встав в оппозицию по отношению к антиисламским предрассудкам."
-  },
-  "tokens" : [ {
-    "token" : "push",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "back",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "against",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "anti",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "islamic",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 4
-  }, {
-    "token" : "prejudice",
-    "startOffset" : 34,
-    "endOffset" : 44,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyoFMNEXFMlzHLVBk",
-  "text" : "Turn the pull into a push.",
-  "translations" : {
-    "russian" : "Превратите натяжение в толкание."
-  },
-  "tokens" : [ {
-    "token" : "turn",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "pull",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "into",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 19,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "push",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

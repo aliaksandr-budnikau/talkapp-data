@@ -1,4 +1,73 @@
 [ {
+  "id" : "AWoFVfVSDTAu_IiLfYTU",
+  "text" : "Power beckons.",
+  "translations" : {
+    "russian" : "Власть манит."
+  },
+  "tokens" : [ {
+    "token" : "power",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pow",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "beckon",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFN9CUDTAu_IiLfSo8",
+  "text" : "Ion power.",
+  "translations" : {
+    "russian" : "Ионная энергия."
+  },
+  "tokens" : [ {
+    "token" : "ion",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "power",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "pow",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVgmhDTAu_IiLfYUJ",
+  "text" : "Power beckons.",
+  "translations" : {
+    "russian" : "Власть манит."
+  },
+  "tokens" : [ {
+    "token" : "power",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pow",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "beckon",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjJ1aNEXFMlzHK_yR",
   "text" : "People who lose power...",
   "translations" : {
@@ -169,6 +238,67 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD-gIfDTAu_IiLeYB3",
+  "text" : "I have veto power.",
+  "translations" : {
+    "russian" : "У меня есть право вето."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "veto",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "power",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "pow",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEppsoDTAu_IiLe4VF",
+  "text" : "Supplementary power on.",
+  "translations" : {
+    "russian" : "Добавочная мощьность включена."
+  },
+  "tokens" : [ {
+    "token" : "supplementary",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "power",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "pow",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfO-YNEXFMlzHK8cg",
   "text" : "About the elemental power...",
   "translations" : {
@@ -334,201 +464,31 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjJtWNEXFMlzHK_yK",
-  "text" : "About the elemental power...",
+  "id" : "AWoFZItsDTAu_IiLfbFe",
+  "text" : "Power output fluctuating.",
   "translations" : {
-    "russian" : "Насчет силы стихии.."
+    "russian" : "Колебания выходной мощности."
   },
   "tokens" : [ {
-    "token" : "about",
+    "token" : "power",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "the",
+    "token" : "pow",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "output",
     "startOffset" : 6,
-    "endOffset" : 9,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "elemental",
-    "startOffset" : 10,
-    "endOffset" : 19,
+    "token" : "fluctuate",
+    "startOffset" : 13,
+    "endOffset" : 24,
     "position" : 2
-  }, {
-    "token" : "power",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "pow",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjLQeNEXFMlzHK_zg",
-  "text" : "We need impulse power.",
-  "translations" : {
-    "russian" : "Нам нужна мощность на импульсные."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "need",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "impulse",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "power",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "pow",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfPE-NEXFMlzHK8cn",
-  "text" : "People who lose power...",
-  "translations" : {
-    "russian" : "Когда теряешь власть..."
-  },
-  "tokens" : [ {
-    "token" : "people",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "who",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "lose",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "power",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "pow",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfQ2jNEXFMlzHK8d2",
-  "text" : "We need impulse power.",
-  "translations" : {
-    "russian" : "Нам нужна мощность на импульсные."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "need",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "impulse",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "power",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "pow",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjK88NEXFMlzHK_zQ",
-  "text" : "So what's your power?",
-  "translations" : {
-    "russian" : "Так какая у тебя способность?"
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "what",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "power",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "pow",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjL1nNEXFMlzHK_0B",
-  "text" : "Power, like the sun.",
-  "translations" : {
-    "russian" : "Мощь, как Солнце."
-  },
-  "tokens" : [ {
-    "token" : "power",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "pow",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "sun",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEBW8PDTAu_IiLeaNO",
+  "text" : "Horns, pointed tail, pitchfork.",
+  "translations" : {
+    "russian" : "Рога, острый хвост, вилы."
+  },
+  "tokens" : [ {
+    "token" : "horn",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pointed",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "point",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "tail",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "pitchfork",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyAlUNEXFMlzHLUE6",
   "text" : "I pointed, got closer.",
   "translations" : {
@@ -37,6 +70,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEiKWODTAu_IiLeyrG",
+  "text" : "He also pointed out.",
+  "translations" : {
+    "russian" : "Let's show'em, gang!Ребята, покажем им!"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "also",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "pointed",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "point",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "out",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgx_6hNEXFMlzHLUEQ",
   "text" : "Pointed a gun at me.",
   "translations" : {
@@ -71,6 +137,44 @@
     "token" : "me",
     "startOffset" : 17,
     "endOffset" : 19,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtwabDTAu_IiLeOpW",
+  "text" : "You pointed to your boobies.",
+  "translations" : {
+    "russian" : "Ты показала на свои груди."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pointed",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "point",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "booby",
+    "startOffset" : 20,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null

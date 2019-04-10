@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoFQeRhDTAu_IiLfUl9",
+  "text" : "No going for yogurt?",
+  "translations" : {
+    "russian" : "Никто не сходит за йогуртом?"
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "going",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "go",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "yogurt",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyBzrDTAu_IiLe-QI",
+  "text" : "No. Please don't go!",
+  "translations" : {
+    "russian" : "Прошу вас."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "please",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "don't",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "go",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzJ0wNEXFMlzHLV4K",
   "text" : "No, don't stop, go on.",
   "translations" : {
@@ -28,6 +89,181 @@
     "token" : "on",
     "startOffset" : 19,
     "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdzieDTAu_IiLeFru",
+  "text" : "Did they go bankrupt? No.",
+  "translations" : {
+    "russian" : "Что, они обанкротились?"
+  },
+  "tokens" : [ {
+    "token" : "did",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "they",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "go",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "bankrupt",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "no",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDfW2yDTAu_IiLeGlh",
+  "text" : "No, I'm going to Barcelona.",
+  "translations" : {
+    "russian" : "Нет. Нет, я еду в Барселону."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "i'm",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "going",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "go",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "barcelona",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBM6LDTAu_IiLeaFp",
+  "text" : "No visitors allowed. Go back.",
+  "translations" : {
+    "russian" : "Никакие посещения не разрешены."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "visitor",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "allowed",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "allow",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "go",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "back",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFMzUDTAu_IiLedN6",
+  "text" : "No, go with your gut.",
+  "translations" : {
+    "russian" : "Нет, прислушайся к своей интуиции."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "go",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "gut",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFU63_DTAu_IiLfX5y",
+  "text" : "I ain't go no expertise.",
+  "translations" : {
+    "russian" : "Я не делал экспертизы."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "ain't",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "go",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "no",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 3
+  }, {
+    "token" : "expertise",
+    "startOffset" : 14,
+    "endOffset" : 23,
     "position" : 4
   } ],
   "contentScore" : null
@@ -66,6 +302,44 @@
     "token" : "schedule",
     "startOffset" : 21,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnrnLDTAu_IiLe22q",
+  "text" : "Actually, no, let's go to Georgetown.",
+  "translations" : {
+    "russian" : "Впрочем, нет, в Джорджтаун."
+  },
+  "tokens" : [ {
+    "token" : "actual",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "no",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "let",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "go",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "georgetown",
+    "startOffset" : 26,
+    "endOffset" : 36,
     "position" : 5
   } ],
   "contentScore" : null

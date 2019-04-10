@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoDRc5tDTAu_IiLd-hl",
+  "text" : "Particle accelerator.",
+  "translations" : {
+    "russian" : "Ускоритель частиц."
+  },
+  "tokens" : [ {
+    "token" : "particle",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "accelerator",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxtQlNEXFMlzHLTuM",
   "text" : "Particle gradient, 4 7.",
   "translations" : {
@@ -24,6 +42,90 @@
     "startOffset" : 21,
     "endOffset" : 22,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRimrDTAu_IiLd-lk",
+  "text" : "Another particle accelerator?",
+  "translations" : {
+    "russian" : "Другой ускоритель частиц?"
+  },
+  "tokens" : [ {
+    "token" : "another",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "particle",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "accelerator",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDUV9_DTAu_IiLeAcS",
+  "text" : "Particle scanners, circuit analyzers...",
+  "translations" : {
+    "russian" : "Сканеры частиц, анализаторы цепей..."
+  },
+  "tokens" : [ {
+    "token" : "particle",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "scanner",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "circuit",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "analyze",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRibkDTAu_IiLd-ld",
+  "text" : "No... but... particle accelerator will.",
+  "translations" : {
+    "russian" : "Нет... но... немного будет по ускорителям."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "but",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "particle",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "accelerator",
+    "startOffset" : 22,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "will",
+    "startOffset" : 34,
+    "endOffset" : 38,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -198,6 +300,82 @@
     "token" : "than",
     "startOffset" : 37,
     "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRbXWDTAu_IiLd-gi",
+  "text" : "She was near a particle accelerator.",
+  "translations" : {
+    "russian" : "Она была рядом с ускорителем частиц."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "near",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "particle",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "accelerator",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAwVKDTAu_IiLeZwF",
+  "text" : "Particle to vibrate the pond scum.",
+  "translations" : {
+    "russian" : "Частица, которая вибрирует на поверхности воды."
+  },
+  "tokens" : [ {
+    "token" : "particle",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "vibrate",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "pond",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "scum",
+    "startOffset" : 29,
+    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null

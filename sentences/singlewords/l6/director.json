@@ -172,6 +172,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEDqR_DTAu_IiLecBS",
+  "text" : "Much obliged, Director.",
+  "translations" : {
+    "russian" : "Премного благодарен, директор."
+  },
+  "tokens" : [ {
+    "token" : "much",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "obliged",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "oblige",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "director",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIsZODTAu_IiLefuW",
+  "text" : "Never contradict the director.",
+  "translations" : {
+    "russian" : "Никогда не возражай режиссеру."
+  },
+  "tokens" : [ {
+    "token" : "never",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "contradict",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "director",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggZ3UNEXFMlzHK9b8",
   "text" : "School director called me.",
   "translations" : {
@@ -201,6 +257,34 @@
     "token" : "me",
     "startOffset" : 23,
     "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIibyDTAu_IiLefnY",
+  "text" : "Never contradict the director.",
+  "translations" : {
+    "russian" : "Никогда не возражай режиссеру."
+  },
+  "tokens" : [ {
+    "token" : "never",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "contradict",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "director",
+    "startOffset" : 21,
+    "endOffset" : 29,
     "position" : 3
   } ],
   "contentScore" : null
@@ -289,211 +373,77 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggadbNEXFMlzHK9cY",
-  "text" : "Get me the director, now!",
+  "id" : "AWoEvLEqDTAu_IiLe8IK",
+  "text" : "Quake, Director Mace.",
   "translations" : {
-    "russian" : "Ызовите режиссера, немедленно!"
+    "russian" : "Дрожь, директор Мейс."
   },
   "tokens" : [ {
-    "token" : "get",
+    "token" : "quake",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "me",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "the",
+    "token" : "director",
     "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "director",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "now",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggbtaNEXFMlzHK9da",
-  "text" : "My dad's the funeral director.",
-  "translations" : {
-    "russian" : "Мой отец начальник похоронной службы."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "dad",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "funeral",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "director",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggbVPNEXFMlzHK9dG",
-  "text" : "I'm his new legislative director.",
-  "translations" : {
-    "russian" : "Я его новый законодательный начальник."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "his",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "new",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "legislative",
-    "startOffset" : 12,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "legislate",
-    "startOffset" : 12,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "director",
-    "startOffset" : 24,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggbBONEXFMlzHK9c0",
-  "text" : "Mr. Kraft, the artistic director.",
-  "translations" : {
-    "russian" : "М-р Крафт, художественный руководитель."
-  },
-  "tokens" : [ {
-    "token" : "mr",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "kraft",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "artistic",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "director",
-    "startOffset" : 24,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgga-CNEXFMlzHK9cx",
-  "text" : "I'm director of clandestine services.",
-  "translations" : {
-    "russian" : "Я руководитель нелегальных операций."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "director",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 13,
     "endOffset" : 15,
-    "position" : 2
+    "position" : 1
   }, {
-    "token" : "clandestine",
+    "token" : "mace",
     "startOffset" : 16,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "services",
-    "startOffset" : 28,
-    "endOffset" : 36,
-    "position" : 4
-  }, {
-    "token" : "service",
-    "startOffset" : 28,
-    "endOffset" : 36,
-    "position" : 4
+    "endOffset" : 20,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggaugNEXFMlzHK9cl",
-  "text" : "It needs a professional director.",
+  "id" : "AWoEvM8EDTAu_IiLe8Jf",
+  "text" : "Quake, Director Mace.",
   "translations" : {
-    "russian" : "Ему нужен профессиональный режиссер."
+    "russian" : "Дрожь, директор Мейс."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "quake",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "need",
-    "startOffset" : 3,
-    "endOffset" : 8,
+    "token" : "director",
+    "startOffset" : 7,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
+    "token" : "mace",
+    "startOffset" : 16,
+    "endOffset" : 20,
     "position" : 2
-  }, {
-    "token" : "professional",
-    "startOffset" : 11,
-    "endOffset" : 23,
-    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKVKzDTAu_IiLeg66",
+  "text" : "The director yelled cut.",
+  "translations" : {
+    "russian" : "Режиссёр крикнул снято!"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
     "token" : "director",
-    "startOffset" : 24,
-    "endOffset" : 32,
-    "position" : 4
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "yell",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "cut",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

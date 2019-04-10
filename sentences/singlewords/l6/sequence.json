@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoErBG1DTAu_IiLe5Tq",
+  "text" : "Reloading sequence.",
+  "translations" : {
+    "russian" : "Перезагрузка репортажа."
+  },
+  "tokens" : [ {
+    "token" : "reload",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "sequence",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgicRCNEXFMlzHK_LD",
   "text" : "That's the infertility sequence?",
   "translations" : {
@@ -27,6 +45,118 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD6lDfDTAu_IiLeVOe",
+  "text" : "Initiate female reaction sequence.",
+  "translations" : {
+    "russian" : "Начать тестовую проверку на женщин."
+  },
+  "tokens" : [ {
+    "token" : "initiate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "female",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "reaction",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "sequence",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEf661DTAu_IiLew2v",
+  "text" : "Initiating calibration sequence.",
+  "translations" : {
+    "russian" : "Запускаю процедуру калибровки."
+  },
+  "tokens" : [ {
+    "token" : "initiating",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "calibration",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "calibrate",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "sequence",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERWLjDTAu_IiLemOk",
+  "text" : "Preempt the launch sequence.",
+  "translations" : {
+    "russian" : "Ускорьте процедуру запуска."
+  },
+  "tokens" : [ {
+    "token" : "preempt",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "launch",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "sequence",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFF7ryDTAu_IiLfMXz",
+  "text" : "Portia Authentication sequence.",
+  "translations" : {
+    "russian" : "Команда авторизации."
+  },
+  "tokens" : [ {
+    "token" : "portia",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "authentication",
+    "startOffset" : 7,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "authenticate",
+    "startOffset" : 7,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "sequence",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguyvYNEXFMlzHLPy2",
   "text" : "Evasive maneuver sequence delta.",
   "translations" : {
@@ -52,6 +182,62 @@
     "startOffset" : 26,
     "endOffset" : 31,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDa414DTAu_IiLeECt",
+  "text" : "Portia Authentication sequence.",
+  "translations" : {
+    "russian" : "Команда авторизации."
+  },
+  "tokens" : [ {
+    "token" : "portia",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "authentication",
+    "startOffset" : 7,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "authenticate",
+    "startOffset" : 7,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "sequence",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRS7rDTAu_IiLfVQU",
+  "text" : "Initiating calibration sequence.",
+  "translations" : {
+    "russian" : "Запускаю процедуру калибровки."
+  },
+  "tokens" : [ {
+    "token" : "initiating",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "calibration",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "calibrate",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "sequence",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -126,6 +312,72 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD6mYKDTAu_IiLeVPE",
+  "text" : "Mechanical, initiate IPV closure sequence.",
+  "translations" : {
+    "russian" : "Механики, приступить к закрытию люков отсека."
+  },
+  "tokens" : [ {
+    "token" : "mechanical",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "initiate",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "ipv",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "closure",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "sequence",
+    "startOffset" : 33,
+    "endOffset" : 41,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8h6GDTAu_IiLfFTa",
+  "text" : "Mechanical, initiate IPV closure sequence.",
+  "translations" : {
+    "russian" : "Механики, приступить к закрытию люков отсека."
+  },
+  "tokens" : [ {
+    "token" : "mechanical",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "initiate",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "ipv",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "closure",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "sequence",
+    "startOffset" : 33,
+    "endOffset" : 41,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgicU8NEXFMlzHK_LH",
   "text" : "Why is this sequence not done?",
   "translations" : {
@@ -164,78 +416,78 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgicXINEXFMlzHK_LJ",
-  "text" : "You know, like the Fibonacci sequence?",
+  "id" : "AWoFYXkNDTAu_IiLfabr",
+  "text" : "Sequence in progress Chevron 6 encoded.",
   "translations" : {
-    "russian" : "Ну, знаешь, ряд Фибоначчи?"
+    "russian" : "Последовательность в прогрессе Шеврон шесть закодирован."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "sequence",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "know",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "in",
+    "startOffset" : 9,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "like",
-    "startOffset" : 10,
-    "endOffset" : 14,
+    "token" : "progress",
+    "startOffset" : 12,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "token" : "chevron",
+    "startOffset" : 21,
+    "endOffset" : 28,
     "position" : 3
   }, {
-    "token" : "fibonacci",
-    "startOffset" : 19,
-    "endOffset" : 28,
+    "token" : "6",
+    "startOffset" : 29,
+    "endOffset" : 30,
     "position" : 4
   }, {
-    "token" : "sequence",
-    "startOffset" : 29,
-    "endOffset" : 37,
+    "token" : "encode",
+    "startOffset" : 31,
+    "endOffset" : 38,
     "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgibztNEXFMlzHK_Ks",
-  "text" : "Yes, then we have the sequence.",
+  "id" : "AWoFYePuDTAu_IiLfahe",
+  "text" : "Sequence in progress Chevron 6 encoded.",
   "translations" : {
-    "russian" : "Да, тогда мы видим последовательность."
+    "russian" : "Последовательность в прогрессе Шеврон шесть закодирован."
   },
   "tokens" : [ {
-    "token" : "yes",
+    "token" : "sequence",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "th",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "token" : "in",
+    "startOffset" : 9,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "we",
-    "startOffset" : 10,
-    "endOffset" : 12,
+    "token" : "progress",
+    "startOffset" : 12,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "have",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "token" : "chevron",
+    "startOffset" : 21,
+    "endOffset" : 28,
     "position" : 3
   }, {
-    "token" : "the",
-    "startOffset" : 18,
-    "endOffset" : 21,
+    "token" : "6",
+    "startOffset" : 29,
+    "endOffset" : 30,
     "position" : 4
   }, {
-    "token" : "sequence",
-    "startOffset" : 22,
-    "endOffset" : 30,
+    "token" : "encode",
+    "startOffset" : 31,
+    "endOffset" : 38,
     "position" : 5
   } ],
   "contentScore" : null

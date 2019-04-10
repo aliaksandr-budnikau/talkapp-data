@@ -187,44 +187,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgv0yPNEXFMlzHLReR",
-  "text" : "They've hit our silly cloud stabilizers!",
-  "translations" : {
-    "russian" : "Они попали в наши стабилизаторы!"
-  },
-  "tokens" : [ {
-    "token" : "they've",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "hit",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "silly",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "cloud",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "stabilizer",
-    "startOffset" : 28,
-    "endOffset" : 39,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgv0h5NEXFMlzHLRdt",
   "text" : "R2, that stabilizer's broken loose again.",
   "translations" : {
@@ -259,6 +221,44 @@
     "token" : "again",
     "startOffset" : 35,
     "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgv0yPNEXFMlzHLReR",
+  "text" : "They've hit our silly cloud stabilizers!",
+  "translations" : {
+    "russian" : "Они попали в наши стабилизаторы!"
+  },
+  "tokens" : [ {
+    "token" : "they've",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "hit",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "our",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "silly",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "cloud",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "stabilizer",
+    "startOffset" : 28,
+    "endOffset" : 39,
     "position" : 5
   } ],
   "contentScore" : null

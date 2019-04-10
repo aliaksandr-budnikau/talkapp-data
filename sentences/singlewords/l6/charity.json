@@ -78,6 +78,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFdnudDTAu_IiLfenh",
+  "text" : "At a charity concert.",
+  "translations" : {
+    "russian" : "На благотворительном концерте."
+  },
+  "tokens" : [ {
+    "token" : "at",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 3,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "charity",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "concert",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "cert",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsKyuNEXFMlzHLMDy",
   "text" : "Humility, patience, kindness, charity.",
   "translations" : {
@@ -140,6 +173,34 @@
     "token" : "charity",
     "startOffset" : 17,
     "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESSSHDTAu_IiLem7F",
+  "text" : "Mr. Mercer's fictional charity.",
+  "translations" : {
+    "russian" : "Вымышленная благотворительность мистера Мерсера."
+  },
+  "tokens" : [ {
+    "token" : "mr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "mercer",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "fictional",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "charity",
+    "startOffset" : 23,
+    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null
@@ -272,6 +333,44 @@
     "token" : "comfort",
     "startOffset" : 20,
     "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrLv7DTAu_IiLeNGi",
+  "text" : "Prudence, Charity, Piety, and Discretion.",
+  "translations" : {
+    "russian" : "Благоразумие, Благодетель, Благочестие и Рассудительность."
+  },
+  "tokens" : [ {
+    "token" : "prudence",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "charity",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "piety",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "discretion",
+    "startOffset" : 30,
+    "endOffset" : 40,
+    "position" : 4
+  }, {
+    "token" : "discrete",
+    "startOffset" : 30,
+    "endOffset" : 40,
     "position" : 4
   } ],
   "contentScore" : null
@@ -415,110 +514,6 @@
     "startOffset" : 22,
     "endOffset" : 29,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsK4lNEXFMlzHLMD7",
-  "text" : "I don't need your charity.",
-  "translations" : {
-    "russian" : "Не нужна мне твоя милостыня."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "don't",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "need",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "charity",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsK2oNEXFMlzHLMD4",
-  "text" : "You are not a charity!",
-  "translations" : {
-    "russian" : "Это вовсе не милостыня!"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "not",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "charity",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsDmUNEXFMlzHLL5v",
-  "text" : "Appeal to your sense of charity?",
-  "translations" : {
-    "russian" : "Или взывала к твоему милосердию?"
-  },
-  "tokens" : [ {
-    "token" : "appeal",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "sense",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "of",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "charity",
-    "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

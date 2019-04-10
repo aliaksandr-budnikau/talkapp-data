@@ -1,4 +1,45 @@
 [ {
+  "id" : "AWoER6GODTAu_IiLempC",
+  "text" : "Hollow tubes.",
+  "translations" : {
+    "russian" : "Полые трубки."
+  },
+  "tokens" : [ {
+    "token" : "hollow",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "tube",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEO1dVDTAu_IiLekap",
+  "text" : "Insert the tube.",
+  "translations" : {
+    "russian" : "Вставляй трубку."
+  },
+  "tokens" : [ {
+    "token" : "insert",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "tube",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrRr-NEXFMlzHLKxF",
   "text" : "Tubes of potential danger.",
   "translations" : {
@@ -28,6 +69,164 @@
     "token" : "dang",
     "startOffset" : 19,
     "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWD77DTAu_IiLep1B",
+  "text" : "Don't dislodge the tubes.",
+  "translations" : {
+    "russian" : "Не смести трубки."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "dislodge",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "tube",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEy24uDTAu_IiLe-25",
+  "text" : "Gastric tube, tying, etc.",
+  "translations" : {
+    "russian" : "Что будут привязывать и кормить с помощью желудочного зонда."
+  },
+  "tokens" : [ {
+    "token" : "gastric",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tube",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tying",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "etc",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOrM1DTAu_IiLekTG",
+  "text" : "Insert the tube.",
+  "translations" : {
+    "russian" : "Вставляй трубку."
+  },
+  "tokens" : [ {
+    "token" : "insert",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "tube",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOxigDTAu_IiLekX4",
+  "text" : "Insert the tube.",
+  "translations" : {
+    "russian" : "Вставляй трубку."
+  },
+  "tokens" : [ {
+    "token" : "insert",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "tube",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWEoXDTAu_IiLep1f",
+  "text" : "Don't dislodge the tubes.",
+  "translations" : {
+    "russian" : "Не смести трубки."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "dislodge",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "tube",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFDIgDTAu_IiLedGv",
+  "text" : "Blade and ET tube.",
+  "translations" : {
+    "russian" : "Ларингоскоп и интубационную трубку."
+  },
+  "tokens" : [ {
+    "token" : "blade",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "et",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "tube",
+    "startOffset" : 13,
+    "endOffset" : 17,
     "position" : 3
   } ],
   "contentScore" : null
@@ -169,6 +368,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEOOMBDTAu_IiLej9d",
+  "text" : "It's puree of tube grubs.",
+  "translations" : {
+    "russian" : "Это пюре из трубчатых личинок."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "puree",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "tube",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "grub",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyHsiNEXFMlzHLUT5",
   "text" : "Dr. Montgomery didn't tie your tubes.",
   "translations" : {
@@ -207,230 +439,40 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmIyXNEXFMlzHLDXw",
-  "text" : "A plastic tube and a funnel.",
+  "id" : "AWoECbQ_DTAu_IiLebC-",
+  "text" : "To insert tubes into his genitals.",
   "translations" : {
-    "russian" : "Пластиковую трубку и воронку."
+    "russian" : "Чтобы вставить трубки в его гениталии."
   },
   "tokens" : [ {
-    "token" : "a",
+    "token" : "to",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "plastic",
-    "startOffset" : 2,
+    "token" : "insert",
+    "startOffset" : 3,
     "endOffset" : 9,
     "position" : 1
   }, {
     "token" : "tube",
     "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 19,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "funnel",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgp8dcNEXFMlzHLI9_",
-  "text" : "I didn't order an N.G. tube.",
-  "translations" : {
-    "russian" : "Я не назначала зонд."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "didn't",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "order",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "an",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "n.g",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "tube",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrRTkNEXFMlzHLKwb",
-  "text" : "One tube is all you need.",
-  "translations" : {
-    "russian" : "По-моему одной трубы вполне достаточно."
-  },
-  "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "tube",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "all",
-    "startOffset" : 12,
     "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "into",
+    "startOffset" : 16,
+    "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "you",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "need",
-    "startOffset" : 20,
+    "token" : "his",
+    "startOffset" : 21,
     "endOffset" : 24,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrRheNEXFMlzHLKw1",
-  "text" : "So I need the tube back.",
-  "translations" : {
-    "russian" : "Так что мне нужен тюбик обратно."
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 3,
-    "endOffset" : 4,
-    "position" : 1
-  }, {
-    "token" : "need",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "tube",
-    "startOffset" : 14,
-    "endOffset" : 18,
     "position" : 4
   }, {
-    "token" : "back",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrRVwNEXFMlzHLKwf",
-  "text" : "The poison's already in the tube.",
-  "translations" : {
-    "russian" : "Яд уже в трубе."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "poison",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "already",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "tube",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwS0XNEXFMlzHLSCo",
-  "text" : "Is there a Tube strike on?",
-  "translations" : {
-    "russian" : "В чем дело, забастовка работников метро?"
-  },
-  "tokens" : [ {
-    "token" : "is",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "there",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "tube",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "strike",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "on",
-    "startOffset" : 23,
-    "endOffset" : 25,
+    "token" : "genitals",
+    "startOffset" : 25,
+    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null

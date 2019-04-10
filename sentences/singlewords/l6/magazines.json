@@ -27,6 +27,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDZhyKDTAu_IiLeDMN",
+  "text" : "Ordnance Magazine calls it.",
+  "translations" : {
+    "russian" : "Журнал Артиллерия пишет о ней так."
+  },
+  "tokens" : [ {
+    "token" : "ordnance",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "magazine",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpICNNEXFMlzHLH2s",
   "text" : "These are really great magazines!",
   "translations" : {
@@ -89,6 +117,77 @@
     "token" : "article",
     "startOffset" : 25,
     "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsXgSDTAu_IiLeN0f",
+  "text" : "Seize books, notebooks, magazines, everything!",
+  "translations" : {
+    "russian" : "Изъять книги, тетради, журналы, всё!"
+  },
+  "tokens" : [ {
+    "token" : "seize",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "book",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "notebook",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "magazine",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "everything",
+    "startOffset" : 35,
+    "endOffset" : 45,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEG1S3DTAu_IiLeeaw",
+  "text" : "This is a dignified magazine.",
+  "translations" : {
+    "russian" : "Это действительно достойный журнал."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "dignified",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "dignify",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "magazine",
+    "startOffset" : 20,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null
@@ -159,6 +258,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDZR82DTAu_IiLeDCQ",
+  "text" : "Powder magazines and arsenals, Reggie.",
+  "translations" : {
+    "russian" : "Пороховые склады и арсеналы, Реджи."
+  },
+  "tokens" : [ {
+    "token" : "powder",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "magazine",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "arsenal",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "reggie",
+    "startOffset" : 31,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmLSPNEXFMlzHLDcF",
   "text" : "I made a magazine rack.",
   "translations" : {
@@ -188,6 +320,105 @@
     "token" : "rack",
     "startOffset" : 18,
     "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZDAMDTAu_IiLeC5r",
+  "text" : "Arsenal and powder magazine here.",
+  "translations" : {
+    "russian" : "Арсенал и пороховой склад тут."
+  },
+  "tokens" : [ {
+    "token" : "arsenal",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "powder",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "magazine",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "here",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDu2DEDTAu_IiLePUD",
+  "text" : "Generalities do not sell magazines.",
+  "translations" : {
+    "russian" : "Общие слова не продают журналы."
+  },
+  "tokens" : [ {
+    "token" : "generality",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "do",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "sell",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "magazine",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEONdmDTAu_IiLej85",
+  "text" : "Generalities do not sell magazines.",
+  "translations" : {
+    "russian" : "Общие слова не продают журналы."
+  },
+  "tokens" : [ {
+    "token" : "generality",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "do",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "sell",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "magazine",
+    "startOffset" : 25,
+    "endOffset" : 34,
     "position" : 4
   } ],
   "contentScore" : null
@@ -268,249 +499,41 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpIGHNEXFMlzHLH2w",
-  "text" : "Have you seen those Brazilian magazines?",
+  "id" : "AWoDfr4vDTAu_IiLeGxw",
+  "text" : "Phil subscribes to a trampoline magazine.",
   "translations" : {
-    "russian" : "Ты видела бразильские журналы?"
+    "russian" : "Фил подписался на журнал о батутах."
   },
   "tokens" : [ {
-    "token" : "have",
+    "token" : "phil",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "you",
+    "token" : "subscribe",
     "startOffset" : 5,
-    "endOffset" : 8,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "seen",
-    "startOffset" : 9,
-    "endOffset" : 13,
+    "token" : "to",
+    "startOffset" : 16,
+    "endOffset" : 18,
     "position" : 2
-  }, {
-    "token" : "those",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "brazilian",
-    "startOffset" : 20,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "magazine",
-    "startOffset" : 30,
-    "endOffset" : 39,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpIp8NEXFMlzHLH3h",
-  "text" : "Like a stupid fashion magazine, right?",
-  "translations" : {
-    "russian" : "Как в каком-нибудь дурацком магазине, да?"
-  },
-  "tokens" : [ {
-    "token" : "like",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
   }, {
     "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "stupid",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "fashion",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "magazine",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "right",
-    "startOffset" : 32,
-    "endOffset" : 37,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpInBNEXFMlzHLH3e",
-  "text" : "Three rounds left in the magazine.",
-  "translations" : {
-    "russian" : "Три патрона остались в магазине."
-  },
-  "tokens" : [ {
-    "token" : "three",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "round",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "left",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 18,
+    "startOffset" : 19,
     "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "the",
+    "token" : "trampoline",
     "startOffset" : 21,
-    "endOffset" : 24,
+    "endOffset" : 31,
     "position" : 4
   }, {
     "token" : "magazine",
-    "startOffset" : 25,
-    "endOffset" : 33,
+    "startOffset" : 32,
+    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null
-}, {
-  "id" : "AWbgpITSNEXFMlzHLH3D",
-  "text" : "Remove the magazine from your weapon.",
-  "translations" : {
-    "russian" : "Снять магазины с автоматов."
-  },
-  "tokens" : [ {
-    "token" : "move",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "magazine",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "from",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "your",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "weapon",
-    "startOffset" : 30,
-    "endOffset" : 36,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpIZGNEXFMlzHLH3N",
-  "text" : "Are those hand guns or magazines?",
-  "translations" : {
-    "russian" : "Это стволы или магазины?"
-  },
-  "tokens" : [ {
-    "token" : "are",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "those",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "hand",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "gun",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "or",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "magazine",
-    "startOffset" : 23,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpIj2NEXFMlzHLH3b",
-  "text" : "Just load the magazine like this.",
-  "translations" : {
-    "russian" : "Просто вставьте магазин, вот так."
-  },
-  "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "load",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "magazine",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "like",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "this",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpIYnNEXFMlzHLH3M",
-  "text" : "Steve, magazine!",
-  "translations" : {
-    "russian" : "Стив, магазин!"
-  },
-  "tokens" : [ {
-    "token" : "steve",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "magazine",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  } ],
-  "contentScore" : "POOR"
 } ]

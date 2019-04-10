@@ -1,340 +1,110 @@
 [ {
-  "id" : "AWbgmcK6NEXFMlzHLD5V",
-  "text" : "Bright lights fry your brain?",
+  "id" : "AWoECEEDDTAu_IiLeawj",
+  "text" : "Stupid brain grape.",
   "translations" : {
-    "russian" : "Яркий свет тебе мозги поджарил?"
+    "russian" : "Дурацкая виноградинка."
   },
   "tokens" : [ {
-    "token" : "bright",
+    "token" : "stupid",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "light",
+    "token" : "brain",
     "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "fry",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "brain",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmcPENEXFMlzHLD5c",
-  "text" : "You fried Mr. Martin's brain.",
-  "translations" : {
-    "russian" : "Ты поджарил мозг мистера Мартина."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "fried",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "fry",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "mr",
-    "startOffset" : 10,
     "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "martin",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "brain",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgncOGNEXFMlzHLFdC",
-  "text" : "They keep your brains warm?",
-  "translations" : {
-    "russian" : "Они что, греют тебе темечко?"
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "keep",
-    "startOffset" : 5,
-    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "your",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "brain",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "warm",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjz3HNEXFMlzHLAVZ",
-  "text" : "Like alcohol's effect on the brain?",
-  "translations" : {
-    "russian" : "Типа разрушительного действия алкоголя на мозг?"
-  },
-  "tokens" : [ {
-    "token" : "like",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "alcohol",
-    "startOffset" : 5,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "effect",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 22,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "brain",
-    "startOffset" : 29,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnhXMNEXFMlzHLFlh",
-  "text" : "You can't just fry her brain.",
-  "translations" : {
-    "russian" : "Вы не можете просто обжарить ее мозг."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "can't",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "just",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "fry",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "her",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "brain",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrE5lNEXFMlzHLKeN",
-  "text" : "Repeat seizures can cause brain damage.",
-  "translations" : {
-    "russian" : "Повторные приступы могут вызвать повреждение мозга."
-  },
-  "tokens" : [ {
-    "token" : "repeat",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "seizure",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "can",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "cause",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "brain",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "damage",
-    "startOffset" : 32,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgge4cNEXFMlzHK9gP",
-  "text" : "Same part of the brain, no?",
-  "translations" : {
-    "russian" : "Тот же участок мозга, так?"
-  },
-  "tokens" : [ {
-    "token" : "same",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "part",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "the",
+    "token" : "grape",
     "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "brain",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "no",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgi0m-NEXFMlzHK_fx",
-  "text" : "Like alcohol's effect on the brain?",
-  "translations" : {
-    "russian" : "Типа разрушительного действия алкоголя на мозг?"
-  },
-  "tokens" : [ {
-    "token" : "like",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "alcohol",
-    "startOffset" : 5,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "effect",
-    "startOffset" : 15,
-    "endOffset" : 21,
+    "endOffset" : 18,
     "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 22,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "brain",
-    "startOffset" : 29,
-    "endOffset" : 34,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgctfrNEXFMlzHK6Qu",
-  "text" : "You quartz-brained little cream puff!",
+  "id" : "AWoD9yz5DTAu_IiLeXf4",
+  "text" : "A superior brain...",
   "translations" : {
-    "russian" : "Ах ты кварцевомозгий маленький кремовый пуф!"
+    "russian" : "Превосходный разум...."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "a",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "quartz",
-    "startOffset" : 4,
+    "token" : "superior",
+    "startOffset" : 2,
     "endOffset" : 10,
     "position" : 1
   }, {
     "token" : "brain",
     "startOffset" : 11,
-    "endOffset" : 18,
+    "endOffset" : 16,
     "position" : 2
-  }, {
-    "token" : "little",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "cream",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "puff",
-    "startOffset" : 32,
-    "endOffset" : 36,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgfoZfNEXFMlzHK8yd",
-  "text" : "Brain damage through syphilis late stage.",
+  "id" : "AWoFFyo4DTAu_IiLfMRO",
+  "text" : "Disregard. Brain injury, okay?",
   "translations" : {
-    "russian" : "Повреждение мозга из-за сифилиса в последней стадии."
+    "russian" : "Не обращай внимания, у него сотрясение."
+  },
+  "tokens" : [ {
+    "token" : "regard",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "brain",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "jury",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "okay",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJnnWDTAu_IiLfPWa",
+  "text" : "My brain is frazzled.",
+  "translations" : {
+    "russian" : "Мой мозг измотан."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "brain",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "frazzle",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJK_IDTAu_IiLfO_O",
+  "text" : "Brain wave pattern altered.",
+  "translations" : {
+    "russian" : "Параметры программы изменены..."
   },
   "tokens" : [ {
     "token" : "brain",
@@ -342,37 +112,144 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "damage",
+    "token" : "wave",
     "startOffset" : 6,
-    "endOffset" : 12,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "through",
-    "startOffset" : 13,
-    "endOffset" : 20,
+    "token" : "pattern",
+    "startOffset" : 11,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "syphilis",
-    "startOffset" : 21,
-    "endOffset" : 29,
+    "token" : "altered",
+    "startOffset" : 19,
+    "endOffset" : 26,
     "position" : 3
   }, {
-    "token" : "late",
-    "startOffset" : 30,
-    "endOffset" : 34,
-    "position" : 4
-  }, {
-    "token" : "stage",
-    "startOffset" : 35,
-    "endOffset" : 40,
-    "position" : 5
+    "token" : "alter",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyTrQNEXFMlzHLUsw",
-  "text" : "His brain isn't getting enough blood.",
+  "id" : "AWoFUeLYDTAu_IiLfXmH",
+  "text" : "My brain is mush.",
   "translations" : {
-    "russian" : "Его мозг получает недостаточно крови."
+    "russian" : "В голове каша."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "brain",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "mush",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7BhdDTAu_IiLfEUr",
+  "text" : "Leaven, you beautiful brain.",
+  "translations" : {
+    "russian" : "Левен. У тебя чудесная головка."
+  },
+  "tokens" : [ {
+    "token" : "leaven",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "beautiful",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "brain",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJVnZDTAu_IiLfPH9",
+  "text" : "My brain is frazzled.",
+  "translations" : {
+    "russian" : "Мой мозг измотан."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "brain",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "frazzle",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDk1Z1DTAu_IiLeJtk",
+  "text" : "Disregard. Brain injury, okay?",
+  "translations" : {
+    "russian" : "Не обращай внимания, у него сотрясение."
+  },
+  "tokens" : [ {
+    "token" : "regard",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "brain",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "jury",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "okay",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEH8lQDTAu_IiLefNK",
+  "text" : "His brain is swelling!",
+  "translations" : {
+    "russian" : "У него опухает мозг!"
   },
   "tokens" : [ {
     "token" : "his",
@@ -385,177 +262,193 @@
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "isn't",
+    "token" : "is",
     "startOffset" : 10,
-    "endOffset" : 15,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "getting",
-    "startOffset" : 16,
-    "endOffset" : 23,
+    "token" : "swelling",
+    "startOffset" : 13,
+    "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "enough",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "blood",
-    "startOffset" : 31,
-    "endOffset" : 36,
-    "position" : 5
+    "token" : "swell",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgb4bsNEXFMlzHK5g4",
-  "text" : "I'll blow your brains out, huh?",
+  "id" : "AWoETe0nDTAu_IiLen1V",
+  "text" : "My brain is frazzled.",
   "translations" : {
-    "russian" : "Выпущу тебе мозги, а?"
+    "russian" : "Мой мозг измотан."
   },
   "tokens" : [ {
-    "token" : "i'll",
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "brain",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "frazzle",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyMb-DTAu_IiLe-YC",
+  "text" : "I'm making gelatin brains.",
+  "translations" : {
+    "russian" : "Я изготавливаю желатиновые мозги."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "making",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "make",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "gelatin",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "brain",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFvLXDTAu_IiLfMOm",
+  "text" : "Disregard. Brain injury, okay?",
+  "translations" : {
+    "russian" : "Не обращай внимания, у него сотрясение."
+  },
+  "tokens" : [ {
+    "token" : "regard",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "brain",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "jury",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "okay",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGz-HDTAu_IiLeeZz",
+  "text" : "His brain is swelling!",
+  "translations" : {
+    "russian" : "У него опухает мозг!"
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "brain",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "swelling",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "swell",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOSVdDTAu_IiLekAi",
+  "text" : "Dissect its brain.",
+  "translations" : {
+    "russian" : "Препарировать его мозг!"
+  },
+  "tokens" : [ {
+    "token" : "dissect",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "its",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "brain",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXnzpDTAu_IiLeq8z",
+  "text" : "Woof, baby brain.",
+  "translations" : {
+    "russian" : "Уф, вот я дурочка."
+  },
+  "tokens" : [ {
+    "token" : "woof",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "blow",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "brain",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "out",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "huh",
-    "startOffset" : 27,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcWqcNEXFMlzHK58P",
-  "text" : "His brain isn't getting enough blood.",
-  "translations" : {
-    "russian" : "Его мозг получает недостаточно крови."
-  },
-  "tokens" : [ {
-    "token" : "his",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "brain",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "isn't",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "getting",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "enough",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "blood",
-    "startOffset" : 31,
-    "endOffset" : 36,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjjvHNEXFMlzHLAHV",
-  "text" : "Clean, in the brain from here.",
-  "translations" : {
-    "russian" : "Точно в мозг, прямо отсюда."
-  },
-  "tokens" : [ {
-    "token" : "clean",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "brain",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "from",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "here",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy6UKNEXFMlzHLVYU",
-  "text" : "Brain damage through syphilis late stage.",
-  "translations" : {
-    "russian" : "Повреждение мозга из-за сифилиса в последней стадии."
-  },
-  "tokens" : [ {
-    "token" : "brain",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "damage",
+    "token" : "baby",
     "startOffset" : 6,
-    "endOffset" : 12,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "through",
-    "startOffset" : 13,
-    "endOffset" : 20,
+    "token" : "brain",
+    "startOffset" : 11,
+    "endOffset" : 16,
     "position" : 2
-  }, {
-    "token" : "syphilis",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "late",
-    "startOffset" : 30,
-    "endOffset" : 34,
-    "position" : 4
-  }, {
-    "token" : "stage",
-    "startOffset" : 35,
-    "endOffset" : 40,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

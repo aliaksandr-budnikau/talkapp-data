@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWoDo0njDTAu_IiLeLzh",
+  "text" : "Who vandalized Wilder's apartment?",
+  "translations" : {
+    "russian" : "Кто разрушил квартиру Уайлдера?"
+  },
+  "tokens" : [ {
+    "token" : "who",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "vandalize",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "wilder",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "apartment",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "apart",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDo0rkDTAu_IiLeLzi",
+  "text" : "I vandalized the construction site.",
+  "translations" : {
+    "russian" : "Я разрушила строительную площадку."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "vandalize",
+    "startOffset" : 2,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "construction",
+    "startOffset" : 17,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "site",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

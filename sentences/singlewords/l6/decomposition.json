@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEaClDDTAu_IiLesm8",
+  "text" : "Math, geography... composition...",
+  "translations" : {
+    "russian" : "Математика, география сочинение."
+  },
+  "tokens" : [ {
+    "token" : "math",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ma",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "geography",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "composition",
+    "startOffset" : 19,
+    "endOffset" : 30,
+    "position" : 2
+  }, {
+    "token" : "composite",
+    "startOffset" : 19,
+    "endOffset" : 30,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkMkzNEXFMlzHLApL",
   "text" : "Soil composition suggests a bog.",
   "translations" : {
@@ -33,6 +66,44 @@
     "token" : "bog",
     "startOffset" : 28,
     "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMYX3DTAu_IiLeikd",
+  "text" : "He was enthusiastically encouraging decomposition.",
+  "translations" : {
+    "russian" : "Он был с энтузиазмом поощрения разложения."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "enthusiastically",
+    "startOffset" : 7,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "encouraging",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "encourage",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "composition",
+    "startOffset" : 36,
+    "endOffset" : 49,
     "position" : 4
   } ],
   "contentScore" : null

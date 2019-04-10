@@ -1,4 +1,58 @@
 [ {
+  "id" : "AWoEL13VDTAu_IiLeiIq",
+  "text" : "THE ISLANDS.",
+  "translations" : {
+    "russian" : "PUSHER AND THE SHERIFF EDUCATORОСТРОВНОЙ ТОЛКАЛА И ШЕРИФ ВОСПИТАТЕЛЬ."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "island",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFISwVDTAu_IiLfOQe",
+  "text" : "Outcast island.",
+  "translations" : {
+    "russian" : "На острове Отверженных."
+  },
+  "tokens" : [ {
+    "token" : "outcast",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "island",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFISWSDTAu_IiLfOQJ",
+  "text" : "Outcast island?",
+  "translations" : {
+    "russian" : "Остров отбросов?"
+  },
+  "tokens" : [ {
+    "token" : "outcast",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "island",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu_WuNEXFMlzHLQMR",
   "text" : "This island tests us.",
   "translations" : {
@@ -32,123 +86,312 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkoAVNEXFMlzHLBNi",
-  "text" : "Out in Long Island City?",
+  "id" : "AWoEZUlHDTAu_IiLesIB",
+  "text" : "To safeguard the island.",
   "translations" : {
-    "russian" : "За пределами Лог Айленда?"
+    "russian" : "Ради безопасности этого острова."
   },
   "tokens" : [ {
-    "token" : "out",
+    "token" : "to",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "in",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "long",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "island",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "city",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgo09sNEXFMlzHLHeZ",
-  "text" : "Island bitch got control issues.",
-  "translations" : {
-    "russian" : "У этой отшельницы проблемы с самоконтролем."
-  },
-  "tokens" : [ {
-    "token" : "island",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "bitch",
-    "startOffset" : 7,
+    "token" : "safeguard",
+    "startOffset" : 3,
     "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "got",
+    "token" : "the",
     "startOffset" : 13,
     "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "control",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "issues",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "issue",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgf-tuNEXFMlzHK9EZ",
-  "text" : "Out in Long Island City?",
-  "translations" : {
-    "russian" : "За пределами Лог Айленда?"
-  },
-  "tokens" : [ {
-    "token" : "out",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "long",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
     "token" : "island",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "city",
-    "startOffset" : 19,
+    "startOffset" : 17,
     "endOffset" : 23,
-    "position" : 4
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglSWWNEXFMlzHLCRI",
-  "text" : "Sheer Wter Island, severe shock.",
+  "id" : "AWoFZkaxDTAu_IiLfbc8",
+  "text" : "Cocos Island negotiations...",
   "translations" : {
-    "russian" : "На острове Шируотер ощущаются мощные подземные толчки."
+    "russian" : "Переговоры о Кокосовом острове..."
   },
   "tokens" : [ {
-    "token" : "sheer",
+    "token" : "coco",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "wter",
+    "token" : "island",
     "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "negotiate",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFc_g-DTAu_IiLfeKN",
+  "text" : "It's from Coney Island.",
+  "translations" : {
+    "russian" : "Она с Кони-Айленда."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "from",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "coney",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "island",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFc-6XDTAu_IiLfeJw",
+  "text" : "I've got Coney Island!",
+  "translations" : {
+    "russian" : "Я нашёл Кони Айленд !"
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "coney",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "island",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSgfnDTAu_IiLd_PJ",
+  "text" : "The islands are alluvial.",
+  "translations" : {
+    "russian" : "Эти корабли направляются в южную часть Тихого океана."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "island",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "alluvial",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZ-gGDTAu_IiLeDe5",
+  "text" : "Previously on Harper's Island.",
+  "translations" : {
+    "russian" : "В ПРЕДЫДУЩИХ СЕРИЯХ..."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "harper",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "island",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZ-hvDTAu_IiLeDe6",
+  "text" : "Previously on Harper's Island.",
+  "translations" : {
+    "russian" : "В ПРЕДЫДУЩИХ СЕРИЯХ..."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "harper",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "island",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZ-lYDTAu_IiLeDe8",
+  "text" : "Previously on Harper's island.",
+  "translations" : {
+    "russian" : "В ПРЕДЫДУЩИХ СЕРИЯХ..."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "harper",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "island",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvQEGDTAu_IiLePkO",
+  "text" : "Boar head island.",
+  "translations" : {
+    "russian" : "Остров Кабаньей Головы."
+  },
+  "tokens" : [ {
+    "token" : "boar",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "head",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "island",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvQCIDTAu_IiLePkN",
+  "text" : "Boar head island.",
+  "translations" : {
+    "russian" : "Остров Кабаньей головы."
+  },
+  "tokens" : [ {
+    "token" : "boar",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "head",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "island",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEY54sDTAu_IiLer2A",
+  "text" : "To safeguard the island.",
+  "translations" : {
+    "russian" : "Ради безопасности этого острова."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "safeguard",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "island",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFISvHDTAu_IiLfOQd",
+  "text" : "To Outcast island.",
+  "translations" : {
+    "russian" : "На остров Отверженных."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "outcast",
+    "startOffset" : 3,
     "endOffset" : 10,
     "position" : 1
   }, {
@@ -156,158 +399,6 @@
     "startOffset" : 11,
     "endOffset" : 17,
     "position" : 2
-  }, {
-    "token" : "severe",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "shock",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrmjmNEXFMlzHLLPo",
-  "text" : "I was picturing Whore Island.",
-  "translations" : {
-    "russian" : "Прости, я представлял себе блядский остров."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "picture",
-    "startOffset" : 6,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "whore",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "island",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwPL7NEXFMlzHLR_Y",
-  "text" : "Out in Long Island City?",
-  "translations" : {
-    "russian" : "За пределами Лог Айленда?"
-  },
-  "tokens" : [ {
-    "token" : "out",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "long",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "island",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "city",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsr-6NEXFMlzHLMxw",
-  "text" : "Big philanthropists here on the island.",
-  "translations" : {
-    "russian" : "Знатные филантропы на острове."
-  },
-  "tokens" : [ {
-    "token" : "big",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "philanthropist",
-    "startOffset" : 4,
-    "endOffset" : 19,
-    "position" : 1
-  }, {
-    "token" : "here",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 25,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 28,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "island",
-    "startOffset" : 32,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgn6TjNEXFMlzHLGOq",
-  "text" : "Which carries provisions on the island?",
-  "translations" : {
-    "russian" : "Которые возит провизию на остров?"
-  },
-  "tokens" : [ {
-    "token" : "which",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "carry",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "vision",
-    "startOffset" : 14,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 25,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 28,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "island",
-    "startOffset" : 32,
-    "endOffset" : 38,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

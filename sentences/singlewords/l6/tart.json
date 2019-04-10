@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWbgzXs6NEXFMlzHLWU7",
+  "text" : "I've baked apple tarts.",
+  "translations" : {
+    "russian" : "Я испек яблочные пироги."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "baked",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "bake",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "apple",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "tart",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzX8lNEXFMlzHLWVg",
   "text" : "Want some... fruit tart?",
   "translations" : {
@@ -60,35 +93,53 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzXs6NEXFMlzHLWU7",
-  "text" : "I've baked apple tarts.",
+  "id" : "AWoEH1JIDTAu_IiLefH7",
+  "text" : "You outrageous tart.",
   "translations" : {
-    "russian" : "Я испек яблочные пироги."
+    "russian" : "Ты жестокая сучка."
   },
   "tokens" : [ {
-    "token" : "i've",
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "outrageous",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "tart",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaZr8DTAu_IiLfcJa",
+  "text" : "That little... Communist tart?",
+  "translations" : {
+    "russian" : "Та... коммунистическая потаскушка?"
+  },
+  "tokens" : [ {
+    "token" : "that",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "baked",
+    "token" : "little",
     "startOffset" : 5,
-    "endOffset" : 10,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "bake",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "apple",
-    "startOffset" : 11,
-    "endOffset" : 16,
+    "token" : "communist",
+    "startOffset" : 15,
+    "endOffset" : 24,
     "position" : 2
   }, {
     "token" : "tart",
-    "startOffset" : 17,
-    "endOffset" : 22,
+    "startOffset" : 25,
+    "endOffset" : 29,
     "position" : 3
   } ],
   "contentScore" : null
@@ -200,6 +251,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE5eAXDTAu_IiLfDU3",
+  "text" : "Tart and gamy.",
+  "translations" : {
+    "russian" : "Он кислый и с душком."
+  },
+  "tokens" : [ {
+    "token" : "tart",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "gamy",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgzX2uNEXFMlzHLWVU",
+  "text" : "We actually made apple tarts.",
+  "translations" : {
+    "russian" : "Мы даже приготовили яблочные пироги."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "actual",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "made",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "apple",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "tart",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzX55NEXFMlzHLWVa",
   "text" : "I can't make a tart!",
   "translations" : {
@@ -233,33 +340,33 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzX2uNEXFMlzHLWVU",
-  "text" : "We actually made apple tarts.",
+  "id" : "AWoE0xbXDTAu_IiLfAMU",
+  "text" : "Don't steal the tarts, Knave!",
   "translations" : {
-    "russian" : "Мы даже приготовили яблочные пироги."
+    "russian" : "Не трогай, девушек, негодяй!"
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "don't",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "actual",
-    "startOffset" : 3,
+    "token" : "steal",
+    "startOffset" : 6,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "made",
+    "token" : "the",
     "startOffset" : 12,
-    "endOffset" : 16,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "apple",
-    "startOffset" : 17,
-    "endOffset" : 22,
+    "token" : "tart",
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "tart",
+    "token" : "knave",
     "startOffset" : 23,
     "endOffset" : 28,
     "position" : 4
@@ -304,112 +411,69 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzYB8NEXFMlzHLWVo",
-  "text" : "To dress like a tart.",
+  "id" : "AWoDZRuQDTAu_IiLeDCJ",
+  "text" : "Tart, aggressive flavors, sublimated aggression.",
   "translations" : {
-    "russian" : "Чтобы одеваться как проститутка."
+    "russian" : "Кислота, агрессивный запах, сублимированная агрессия."
   },
   "tokens" : [ {
-    "token" : "to",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "dress",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "like",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
     "token" : "tart",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzX__NEXFMlzHLWVl",
-  "text" : "Come here, you curly-haired tart!",
-  "translations" : {
-    "russian" : "Вернись, ты, кудрявая проститутка!"
-  },
-  "tokens" : [ {
-    "token" : "come",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "here",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "token" : "aggressive",
+    "startOffset" : 6,
+    "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "you",
-    "startOffset" : 11,
-    "endOffset" : 14,
+    "token" : "flavor",
+    "startOffset" : 17,
+    "endOffset" : 24,
     "position" : 2
   }, {
-    "token" : "curly",
-    "startOffset" : 15,
-    "endOffset" : 20,
+    "token" : "sublimate",
+    "startOffset" : 26,
+    "endOffset" : 36,
     "position" : 3
   }, {
-    "token" : "hair",
-    "startOffset" : 21,
-    "endOffset" : 27,
+    "token" : "aggression",
+    "startOffset" : 37,
+    "endOffset" : 47,
     "position" : 4
-  }, {
-    "token" : "tart",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzX0RNEXFMlzHLWVN",
-  "text" : "Oh, er... treacle tart with custard.",
+  "id" : "AWoDZZo2DTAu_IiLeDHI",
+  "text" : "Tart, aggressive flavors, sublimated aggression.",
   "translations" : {
-    "russian" : "О, эм... пирог с патокой и кремом."
+    "russian" : "Кислота, агрессивный запах, сублимированная агрессия."
   },
   "tokens" : [ {
-    "token" : "oh",
+    "token" : "tart",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "er",
-    "startOffset" : 4,
-    "endOffset" : 6,
+    "token" : "aggressive",
+    "startOffset" : 6,
+    "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "treacle",
-    "startOffset" : 10,
-    "endOffset" : 17,
+    "token" : "flavor",
+    "startOffset" : 17,
+    "endOffset" : 24,
     "position" : 2
   }, {
-    "token" : "tart",
-    "startOffset" : 18,
-    "endOffset" : 22,
+    "token" : "sublimate",
+    "startOffset" : 26,
+    "endOffset" : 36,
     "position" : 3
   }, {
-    "token" : "with",
-    "startOffset" : 23,
-    "endOffset" : 27,
+    "token" : "aggression",
+    "startOffset" : 37,
+    "endOffset" : 47,
     "position" : 4
-  }, {
-    "token" : "custard",
-    "startOffset" : 28,
-    "endOffset" : 35,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

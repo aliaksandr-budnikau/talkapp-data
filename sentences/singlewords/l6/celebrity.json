@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEocQ6DTAu_IiLe3cF",
+  "text" : "We can try celebrity diplomacy.",
+  "translations" : {
+    "russian" : "Можно попытаться использовать знаменитость для дипломатии."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "try",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "celebrity",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "diplomacy",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnkfJNEXFMlzHLFq0",
   "text" : "I've never met a celebrity.",
   "translations" : {
@@ -29,6 +62,44 @@
     "startOffset" : 17,
     "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPJQCDTAu_IiLd9Aq",
+  "text" : "I write autobiographies for current celebrities.",
+  "translations" : {
+    "russian" : "Я пишу автобиографии для некоторых знаменитостей."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "write",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "autobiography",
+    "startOffset" : 8,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "current",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "celebrity",
+    "startOffset" : 36,
+    "endOffset" : 47,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

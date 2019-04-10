@@ -27,6 +27,90 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDR0fBDTAu_IiLd-xc",
+  "text" : "SURGERY OBSTETRICIAN AND GYNECOLOGIST.",
+  "translations" : {
+    "russian" : "ХИРУРГ, АКУШЕР-ГИНЕКОЛОГ."
+  },
+  "tokens" : [ {
+    "token" : "surgery",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "obstetrician",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "gynecologist",
+    "startOffset" : 25,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVcyoDTAu_IiLeBJu",
+  "text" : "I'm canceling the surgery.",
+  "translations" : {
+    "russian" : "Я отменяю операцию."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "cancel",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "surgery",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHNQVDTAu_IiLfNXM",
+  "text" : "Constituency surgery in Northampton.",
+  "translations" : {
+    "russian" : "Прием избирателей в Нортгемптоне."
+  },
+  "tokens" : [ {
+    "token" : "constituency",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "surgery",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "northampton",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggDZnNEXFMlzHK9Ii",
   "text" : "We schedule another surgery?",
   "translations" : {
@@ -51,6 +135,118 @@
     "token" : "surgery",
     "startOffset" : 20,
     "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHNFeDTAu_IiLfNXD",
+  "text" : "Our victim's undergone surgery.",
+  "translations" : {
+    "russian" : "Наша жертва перенесла хирургическое вмешательство."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "victim",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "undergone",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "surgery",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMPXDDTAu_IiLeidU",
+  "text" : "I need reconstructive surgery.",
+  "translations" : {
+    "russian" : "Мне нужна восстановительная операция."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "need",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "reconstructive",
+    "startOffset" : 7,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "surgery",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDXOpTDTAu_IiLeB_r",
+  "text" : "Approving the surgery.",
+  "translations" : {
+    "russian" : "За одобрение операции."
+  },
+  "tokens" : [ {
+    "token" : "approving",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "approve",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "surgery",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFG_cFDTAu_IiLfNLx",
+  "text" : "Has undergone surgery for.",
+  "translations" : {
+    "russian" : "Перенес операцию."
+  },
+  "tokens" : [ {
+    "token" : "has",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "undergone",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "surgery",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 22,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
@@ -84,6 +280,62 @@
     "token" : "tomorrow",
     "startOffset" : 24,
     "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFeNcDTAu_IiLeda2",
+  "text" : "No, it's cataract surgery.",
+  "translations" : {
+    "russian" : "Нет, это операция по поводу катаракты."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "cataract",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "surgery",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZbi1DTAu_IiLfbVl",
+  "text" : "Wizard of laparoscopic surgery...",
+  "translations" : {
+    "russian" : "Мастер лапароскопии."
+  },
+  "tokens" : [ {
+    "token" : "wizard",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "laparoscopic",
+    "startOffset" : 10,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "surgery",
+    "startOffset" : 23,
+    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null
@@ -126,117 +378,102 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbga6QwNEXFMlzHK4pW",
-  "text" : "So she could die in surgery.",
+  "id" : "AWoEMPZvDTAu_IiLeidX",
+  "text" : "He's had 9 reconstructive surgeries.",
   "translations" : {
-    "russian" : "Значит она может умереть во время операции."
+    "russian" : "Он перенес 9 восстановительных операций."
   },
   "tokens" : [ {
-    "token" : "so",
+    "token" : "he",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "she",
-    "startOffset" : 3,
-    "endOffset" : 6,
+    "token" : "had",
+    "startOffset" : 5,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "could",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "die",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "in",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "surgery",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr4WiNEXFMlzHLLpl",
-  "text" : "So she could die in surgery.",
-  "translations" : {
-    "russian" : "Значит она может умереть во время операции."
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "she",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "could",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "die",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "in",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "surgery",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiH83NEXFMlzHK-61",
-  "text" : "There's no proven method except surgery.",
-  "translations" : {
-    "russian" : "Кроме хирургии надежных способов нет."
-  },
-  "tokens" : [ {
-    "token" : "there",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "no",
-    "startOffset" : 8,
+    "token" : "9",
+    "startOffset" : 9,
     "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "proven",
-    "startOffset" : 11,
-    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "method",
-    "startOffset" : 18,
-    "endOffset" : 24,
+    "token" : "reconstructive",
+    "startOffset" : 11,
+    "endOffset" : 25,
     "position" : 3
   }, {
-    "token" : "except",
-    "startOffset" : 25,
-    "endOffset" : 31,
+    "token" : "surgery",
+    "startOffset" : 26,
+    "endOffset" : 35,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVc0TDTAu_IiLeBJv",
+  "text" : "That I'm canceling the surgery.",
+  "translations" : {
+    "russian" : "Что я отменяю операцию."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "i'm",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "cancel",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
   }, {
     "token" : "surgery",
-    "startOffset" : 32,
-    "endOffset" : 39,
-    "position" : 5
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFd_SDTAu_IiLedat",
+  "text" : "I'll postpone my cataract surgery.",
+  "translations" : {
+    "russian" : "Перенесу операцию по удалению катаракты на другую дату."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "postpone",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "cataract",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "surgery",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

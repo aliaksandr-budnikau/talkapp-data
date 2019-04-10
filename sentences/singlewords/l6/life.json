@@ -1,4 +1,94 @@
 [ {
+  "id" : "AWoD-ymJDTAu_IiLeYQE",
+  "text" : "Everlasting life?",
+  "translations" : {
+    "russian" : "Вечная жизнь?"
+  },
+  "tokens" : [ {
+    "token" : "everlasting",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "life",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfDMrDTAu_IiLewJx",
+  "text" : "Life prevails.",
+  "translations" : {
+    "russian" : "Жизнь преобладает."
+  },
+  "tokens" : [ {
+    "token" : "life",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "prevail",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1zN-DTAu_IiLfA4_",
+  "text" : "Life's tough.",
+  "translations" : {
+    "russian" : "Жизнь тяжелая."
+  },
+  "tokens" : [ {
+    "token" : "life",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "tough",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1zJyDTAu_IiLfA48",
+  "text" : "Tough life.",
+  "translations" : {
+    "russian" : "Жизнь тяжелая."
+  },
+  "tokens" : [ {
+    "token" : "tough",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "life",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE12n2DTAu_IiLfA7b",
+  "text" : "Life's tough.",
+  "translations" : {
+    "russian" : "Жизнь нелегка."
+  },
+  "tokens" : [ {
+    "token" : "life",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "tough",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeakcNEXFMlzHK7uJ",
   "text" : "Life is a picnic.",
   "translations" : {
@@ -55,10 +145,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgt0ArNEXFMlzHLN--",
-  "text" : "Life with hard labour.",
+  "id" : "AWoDanSUDTAu_IiLeD4J",
+  "text" : "Life insurance, abuse, infidelity...",
   "translations" : {
-    "russian" : "В жизнь через каторжные работы."
+    "russian" : "Страх, жестокое обращение неверность."
   },
   "tokens" : [ {
     "token" : "life",
@@ -66,337 +156,195 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "with",
+    "token" : "insurance",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "hard",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "labour",
-    "startOffset" : 15,
+    "token" : "abuse",
+    "startOffset" : 16,
     "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "fidelity",
+    "startOffset" : 23,
+    "endOffset" : 33,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwG0ENEXFMlzHLR14",
-  "text" : "Sentient life forms approaching.",
+  "id" : "AWoD-7MmDTAu_IiLeYV5",
+  "text" : "An interactive life history.",
   "translations" : {
-    "russian" : "Приближаются разумные формы жизни."
+    "russian" : "Интерактивная история жизни."
   },
   "tokens" : [ {
-    "token" : "sentient",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "life",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "form",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "approach",
-    "startOffset" : 20,
-    "endOffset" : 31,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfLAONEXFMlzHK8ZB",
-  "text" : "Sentient life forms approaching.",
-  "translations" : {
-    "russian" : "Приближаются разумные формы жизни."
-  },
-  "tokens" : [ {
-    "token" : "sentient",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "life",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "form",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "approach",
-    "startOffset" : 20,
-    "endOffset" : 31,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiEn4NEXFMlzHK-4z",
-  "text" : "Damn you, life line!",
-  "translations" : {
-    "russian" : "Удь прокл та, лини жизни!"
-  },
-  "tokens" : [ {
-    "token" : "damn",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "life",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "line",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzFAgNEXFMlzHLVt9",
-  "text" : "The life coach speaks!",
-  "translations" : {
-    "russian" : "И это говорит личностный инструктор!"
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "life",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "coach",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "speak",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxwaWNEXFMlzHLT06",
-  "text" : "Damn you, life line!",
-  "translations" : {
-    "russian" : "Удь прокл та, лини жизни!"
-  },
-  "tokens" : [ {
-    "token" : "damn",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "life",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "line",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwiNcNEXFMlzHLSR2",
-  "text" : "Life change, right.",
-  "translations" : {
-    "russian" : "Жизненных перемен, точно."
-  },
-  "tokens" : [ {
-    "token" : "life",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "change",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "right",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbga_XgNEXFMlzHK4ts",
-  "text" : "He lives a busy life.",
-  "translations" : {
-    "russian" : "У него очень насыщенная жизнь."
-  },
-  "tokens" : [ {
-    "token" : "he",
+    "token" : "an",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "lives",
+    "token" : "interactive",
     "startOffset" : 3,
-    "endOffset" : 8,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "live",
+    "token" : "interact",
     "startOffset" : 3,
-    "endOffset" : 8,
+    "endOffset" : 14,
     "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "busy",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 3
   }, {
     "token" : "life",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "history",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgslEDNEXFMlzHLMoJ",
-  "text" : "He's even given his life...",
+  "id" : "AWoEMOszDTAu_IiLeicv",
+  "text" : "Pimples, rebellion, life sucking.",
   "translations" : {
-    "russian" : "Она даже жертвовал своей жизнью..."
+    "russian" : "Прыщи, бунтарство, высасывание жизней."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "pimple",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "even",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "token" : "rebellion",
+    "startOffset" : 9,
+    "endOffset" : 18,
     "position" : 1
-  }, {
-    "token" : "ev",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "given",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "his",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
   }, {
     "token" : "life",
     "startOffset" : 20,
     "endOffset" : 24,
-    "position" : 4
+    "position" : 2
+  }, {
+    "token" : "suck",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguLfJNEXFMlzHLOlx",
-  "text" : "Long life to the seeker.",
+  "id" : "AWoEWzx0DTAu_IiLeqXf",
+  "text" : "Sometimes life subtracts.",
   "translations" : {
-    "russian" : "Долгих лет Искателю."
+    "russian" : "Иногда жизнь отнимает."
   },
   "tokens" : [ {
-    "token" : "long",
+    "token" : "sometime",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "life",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "subtract",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEW3BYDTAu_IiLeqZx",
+  "text" : "Sometimes life subtracts.",
+  "translations" : {
+    "russian" : "Иногда жизнь отнимает."
+  },
+  "tokens" : [ {
+    "token" : "sometime",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "life",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "subtract",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXFaGDTAu_IiLeqkT",
+  "text" : "Life is like embroidery.",
+  "translations" : {
+    "russian" : "Жизнь подобна вышивке."
+  },
+  "tokens" : [ {
+    "token" : "life",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "life",
+    "token" : "is",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "to",
-    "startOffset" : 10,
+    "token" : "like",
+    "startOffset" : 8,
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "the",
+    "token" : "embroidery",
     "startOffset" : 13,
-    "endOffset" : 16,
+    "endOffset" : 23,
     "position" : 3
-  }, {
-    "token" : "seeker",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "seek",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjwilNEXFMlzHLASe",
-  "text" : "Greenhouses could maintain plant life.",
+  "id" : "AWoFfIFjDTAu_IiLffs4",
+  "text" : "Offer nutrition, life-support.",
   "translations" : {
-    "russian" : "Оранжереи можно поддерживать жизнь растений."
+    "russian" : "Поддерживать питание и жизненно важные функции."
   },
   "tokens" : [ {
-    "token" : "greenhouse",
+    "token" : "offer",
     "startOffset" : 0,
-    "endOffset" : 11,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "could",
-    "startOffset" : 12,
-    "endOffset" : 17,
+    "token" : "off",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "nutrition",
+    "startOffset" : 6,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "maintain",
-    "startOffset" : 18,
-    "endOffset" : 26,
+    "token" : "life",
+    "startOffset" : 17,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "plant",
-    "startOffset" : 27,
-    "endOffset" : 32,
+    "token" : "support",
+    "startOffset" : 22,
+    "endOffset" : 29,
     "position" : 3
-  }, {
-    "token" : "life",
-    "startOffset" : 33,
-    "endOffset" : 37,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmAnmNEXFMlzHLDJw",
-  "text" : "I toyed with normal life.",
+  "id" : "AWoDliHqDTAu_IiLeKFT",
+  "text" : "I spared his life.",
   "translations" : {
-    "russian" : "Я играла в нормальную жизнь."
+    "russian" : "Я пощадил его."
   },
   "tokens" : [ {
     "token" : "i",
@@ -404,91 +352,48 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "toy",
+    "token" : "spar",
     "startOffset" : 2,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "with",
-    "startOffset" : 8,
+    "token" : "his",
+    "startOffset" : 9,
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "normal",
+    "token" : "life",
     "startOffset" : 13,
-    "endOffset" : 19,
+    "endOffset" : 17,
     "position" : 3
-  }, {
-    "token" : "life",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoMphNEXFMlzHLGiu",
-  "text" : "You really lead the life.",
+  "id" : "AWoEA388DTAu_IiLeZ11",
+  "text" : "Positive outlook on life.",
   "translations" : {
-    "russian" : "Ты действительно управляешь своей жизнью."
+    "russian" : "Позитивный взгляд на жизнь."
   },
   "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "ally",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "lead",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "life",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzNyyNEXFMlzHLWAa",
-  "text" : "Promised to a life that.",
-  "translations" : {
-    "russian" : "S never blandЖизнь становится приятной и ласковой."
-  },
-  "tokens" : [ {
-    "token" : "promise",
+    "token" : "positive",
     "startOffset" : 0,
     "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "to",
+    "token" : "outlook",
     "startOffset" : 9,
-    "endOffset" : 11,
+    "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
+    "token" : "on",
+    "startOffset" : 17,
+    "endOffset" : 19,
     "position" : 2
   }, {
     "token" : "life",
-    "startOffset" : 14,
-    "endOffset" : 18,
+    "startOffset" : 20,
+    "endOffset" : 24,
     "position" : 3
-  }, {
-    "token" : "that",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

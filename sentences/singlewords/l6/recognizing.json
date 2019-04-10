@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoD8yP9DTAu_IiLeWu7",
+  "text" : "Surely, you recognize it.",
+  "translations" : {
+    "russian" : "Конечно же ты узнал его."
+  },
+  "tokens" : [ {
+    "token" : "surely",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "recognize",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiSlkNEXFMlzHK_Cr",
   "text" : "You recognize those numbers?",
   "translations" : {
@@ -28,6 +56,118 @@
     "token" : "numb",
     "startOffset" : 20,
     "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEnqTDTAu_IiLecx7",
+  "text" : "I'd recognize the interiors.",
+  "translations" : {
+    "russian" : "Я бы узнал интерьер."
+  },
+  "tokens" : [ {
+    "token" : "i'd",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "recognize",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "interior",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8JG8DTAu_IiLeWNz",
+  "text" : "The floor recognizes Magnitude.",
+  "translations" : {
+    "russian" : "Пол одобрыет Магнитуду."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "floor",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "recognize",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "magnitude",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVC96DTAu_IiLfX_n",
+  "text" : "I recognize your cough.",
+  "translations" : {
+    "russian" : "Я узнал ваш кашель."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "recognize",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "cough",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDTtl7DTAu_IiLeADL",
+  "text" : "I recognize your amulet.",
+  "translations" : {
+    "russian" : "Я узнаю этот амулет."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "recognize",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "amulet",
+    "startOffset" : 17,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
@@ -65,6 +205,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD8rSYDTAu_IiLeWpZ",
+  "text" : "Do you recognize Heather, Kate?",
+  "translations" : {
+    "russian" : "Вы узнаёте Хитер, Кейт?"
+  },
+  "tokens" : [ {
+    "token" : "do",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "recognize",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "heather",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "heath",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "kate",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqU0CNEXFMlzHLJfh",
   "text" : "I don't recognize the stations.",
   "translations" : {
@@ -94,6 +272,191 @@
     "token" : "station",
     "startOffset" : 22,
     "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDXExODTAu_IiLeB7j",
+  "text" : "Does the arbiter recognize me?",
+  "translations" : {
+    "russian" : "Признает ли меня арбитр?"
+  },
+  "tokens" : [ {
+    "token" : "does",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "doe",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "arbiter",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "recognize",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "me",
+    "startOffset" : 27,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEg_QWDTAu_IiLexsr",
+  "text" : "Easily recognized by his mane.",
+  "translations" : {
+    "russian" : "Легко узнаваемый по своей гриве."
+  },
+  "tokens" : [ {
+    "token" : "easily",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "recognized",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "recognize",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "by",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "his",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "mane",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAwf0DTAu_IiLfInA",
+  "text" : "His Majesty recognized my merits.",
+  "translations" : {
+    "russian" : "Его Величество признал мои заслуги."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "majesty",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "recognized",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "recognize",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "merit",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFA-3TDTAu_IiLfIx5",
+  "text" : "His Majesty recognized my merits.",
+  "translations" : {
+    "russian" : "Его Величество признал мои заслуги."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "majesty",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "recognized",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "recognize",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "merit",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIfyQDTAu_IiLfObS",
+  "text" : "Recognize any specific crew's handiwork?",
+  "translations" : {
+    "russian" : "Узнаете какую-нибудь особую ручную работу?"
+  },
+  "tokens" : [ {
+    "token" : "recognize",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "any",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "specific",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "crew",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "handiwork",
+    "startOffset" : 30,
+    "endOffset" : 39,
     "position" : 4
   } ],
   "contentScore" : null

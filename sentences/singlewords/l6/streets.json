@@ -1,328 +1,404 @@
 [ {
-  "id" : "AWbghqUQNEXFMlzHK-iJ",
-  "text" : "Twist a street lamp or...",
+  "id" : "AWoEeY6sDTAu_IiLevpp",
+  "text" : "Mount Street.",
   "translations" : {
-    "russian" : "Скрутить уличный фонарь или..."
+    "russian" : "На Маунт Стрит."
   },
   "tokens" : [ {
-    "token" : "twist",
+    "token" : "mount",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "a",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
     "token" : "street",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "lamp",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "or",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 4
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghm3tNEXFMlzHK-fI",
-  "text" : "What about your street scenes?",
+  "id" : "AWoEHDMkDTAu_IiLeeko",
+  "text" : "Mount Street.",
   "translations" : {
-    "russian" : "Как насчёт твоих уличных пейзажей?"
+    "russian" : "На Маунт Стрит."
   },
   "tokens" : [ {
-    "token" : "what",
+    "token" : "mount",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "street",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEirWeDTAu_IiLezE_",
+  "text" : "Hudson street.",
+  "translations" : {
+    "russian" : "Улица Гудзон."
+  },
+  "tokens" : [ {
+    "token" : "hudson",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "street",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgwW0DTAu_IiLeHZa",
+  "text" : "Fleet Street.",
+  "translations" : {
+    "russian" : "На Флит-стрит."
+  },
+  "tokens" : [ {
+    "token" : "fleet",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "street",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMscCDTAu_IiLei0M",
+  "text" : "Mount Street.",
+  "translations" : {
+    "russian" : "На Маунт Стрит."
+  },
+  "tokens" : [ {
+    "token" : "mount",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "street",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDScAXDTAu_IiLd_MF",
+  "text" : "Mama Street, Papa Street, Chariot Alley...",
+  "translations" : {
+    "russian" : "Улица мамы, улица папы, тупик дяди Шарля."
+  },
+  "tokens" : [ {
+    "token" : "mama",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "about",
+    "token" : "street",
     "startOffset" : 5,
-    "endOffset" : 10,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "your",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "street",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "scene",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgx3QDNEXFMlzHLT7o",
-  "text" : "Through streets broad and narrow.",
-  "translations" : {
-    "russian" : "По улицам широким и узким."
-  },
-  "tokens" : [ {
-    "token" : "through",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "street",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "broad",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "narrow",
-    "startOffset" : 26,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqU6JNEXFMlzHLJfr",
-  "text" : "Train to 24th Street station departing...",
-  "translations" : {
-    "russian" : "Поезд до станции 24 улица отправляется..."
-  },
-  "tokens" : [ {
-    "token" : "train",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "24th",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "street",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "station",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "part",
-    "startOffset" : 29,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfHeyNEXFMlzHK8V4",
-  "text" : "Chickens and watermelons in the streets!",
-  "translations" : {
-    "russian" : "Цыплята и арбузы на улицах!"
-  },
-  "tokens" : [ {
-    "token" : "chick",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "and",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "watermelon",
+    "token" : "papa",
     "startOffset" : 13,
-    "endOffset" : 24,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "in",
-    "startOffset" : 25,
-    "endOffset" : 27,
+    "token" : "street",
+    "startOffset" : 18,
+    "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "the",
-    "startOffset" : 28,
-    "endOffset" : 31,
+    "token" : "chariot",
+    "startOffset" : 26,
+    "endOffset" : 33,
     "position" : 4
   }, {
-    "token" : "street",
-    "startOffset" : 32,
+    "token" : "alley",
+    "startOffset" : 34,
     "endOffset" : 39,
     "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpGvUNEXFMlzHLH1D",
-  "text" : "My street cred's in the gutter.",
+  "id" : "AWoDjgp2DTAu_IiLeI-z",
+  "text" : "The street's so desolate.",
   "translations" : {
-    "russian" : "Моя репутация на наших улицах была спущена в сточную канаву."
+    "russian" : "На улице так безлюдно."
   },
   "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "street",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "cred's",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
     "token" : "the",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "gutter",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglUFMNEXFMlzHLCUQ",
-  "text" : "Train to 24th Street station departing...",
-  "translations" : {
-    "russian" : "Поезд до станции 24 улица отправляется..."
-  },
-  "tokens" : [ {
-    "token" : "train",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "to",
-    "startOffset" : 6,
-    "endOffset" : 8,
+    "token" : "street",
+    "startOffset" : 4,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "24th",
-    "startOffset" : 9,
-    "endOffset" : 13,
+    "token" : "so",
+    "startOffset" : 13,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "street",
-    "startOffset" : 14,
-    "endOffset" : 20,
+    "token" : "desolate",
+    "startOffset" : 16,
+    "endOffset" : 24,
     "position" : 3
-  }, {
-    "token" : "station",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "part",
-    "startOffset" : 29,
-    "endOffset" : 38,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtuozNEXFMlzHLN2U",
-  "text" : "There's a hum across the street.",
+  "id" : "AWoDxqzEDTAu_IiLeQ7L",
+  "text" : "Wanders the streets alone.",
   "translations" : {
-    "russian" : "Жужжание исходит с того здания через дорогу."
+    "russian" : "Слоняюсь одна по улицам."
   },
   "tokens" : [ {
-    "token" : "there",
+    "token" : "wand",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "a",
+    "token" : "the",
     "startOffset" : 8,
-    "endOffset" : 9,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "hum",
-    "startOffset" : 10,
-    "endOffset" : 13,
+    "token" : "street",
+    "startOffset" : 12,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "across",
-    "startOffset" : 14,
-    "endOffset" : 20,
+    "token" : "alone",
+    "startOffset" : 20,
+    "endOffset" : 25,
     "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "street",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtu9TNEXFMlzHLN2u",
-  "text" : "With me, back on the streets.",
+  "id" : "AWoEvn5QDTAu_IiLe8cT",
+  "text" : "Boutique on Oak Street.",
   "translations" : {
-    "russian" : "Тем, что я вернулся на улицы города."
+    "russian" : "В бутике на Оак Стрит."
   },
   "tokens" : [ {
-    "token" : "with",
+    "token" : "boutique",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "oak",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "street",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYOtFDTAu_IiLeCc8",
+  "text" : "They're occupying Wall Street.",
+  "translations" : {
+    "russian" : "Оккупируют Уолл-Стрит."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "occupy",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "wall",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "street",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDhxcIDTAu_IiLeH_y",
+  "text" : "Near Calamity Street.",
+  "translations" : {
+    "russian" : "Около Каламити Стрит."
+  },
+  "tokens" : [ {
+    "token" : "near",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "me",
+    "token" : "calamity",
     "startOffset" : 5,
-    "endOffset" : 7,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "back",
+    "token" : "street",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD0vLPDTAu_IiLeSkb",
+  "text" : "From 317 Bunker Street?",
+  "translations" : {
+    "russian" : "С 317 Банкер Стрит?"
+  },
+  "tokens" : [ {
+    "token" : "from",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "317",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "bunker",
     "startOffset" : 9,
-    "endOffset" : 13,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "on",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
+    "token" : "bunk",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
   }, {
     "token" : "street",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 5
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEARbuDTAu_IiLeZX3",
+  "text" : "Arise, take the streets.",
+  "translations" : {
+    "russian" : "Восстаньте, захватите улицы."
+  },
+  "tokens" : [ {
+    "token" : "arise",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "take",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "street",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnsRdDTAu_IiLe23L",
+  "text" : "Georgetown. 8 Prospect Street.",
+  "translations" : {
+    "russian" : "Джоржтаун. Улица 8-ой перспективы."
+  },
+  "tokens" : [ {
+    "token" : "georgetown",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "8",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "prospect",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "street",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-JP8DTAu_IiLfGg6",
+  "text" : "Occupy Wall Street!",
+  "translations" : {
+    "russian" : "Захвати Уолл Стритт!"
+  },
+  "tokens" : [ {
+    "token" : "occupy",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wall",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "street",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXbdxDTAu_IiLeqz-",
+  "text" : "I'm on Elm street.",
+  "translations" : {
+    "russian" : "Я на элм стрит."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "elm",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "street",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

@@ -1,0 +1,75 @@
+[ {
+  "id" : "AWoEeWS7DTAu_IiLevnm",
+  "text" : "Foxy stoat ?",
+  "translations" : {
+    "russian" : "Исий горностай?"
+  },
+  "tokens" : [ {
+    "token" : "foxy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "stoat",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeWgmDTAu_IiLevnx",
+  "text" : "Foxy stoat seeks... Pig !",
+  "translations" : {
+    "russian" : "Исий горностай ищет... винью!"
+  },
+  "tokens" : [ {
+    "token" : "foxy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "stoat",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "seek",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "pig",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeWUZDTAu_IiLevnn",
+  "text" : "Foxy stoat seeks pig !",
+  "translations" : {
+    "russian" : "Исий горностай ищет свинью!"
+  },
+  "tokens" : [ {
+    "token" : "foxy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "stoat",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "seek",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "pig",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+} ]

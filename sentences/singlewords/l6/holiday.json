@@ -266,6 +266,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFiZWLDTAu_IiLfhyA",
+  "text" : "Holidays, family reunions, christenings, weddings.",
+  "translations" : {
+    "russian" : "Праздники, воссоединение семьи, крестины, свадьбы."
+  },
+  "tokens" : [ {
+    "token" : "holiday",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "family",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "union",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "christening",
+    "startOffset" : 27,
+    "endOffset" : 39,
+    "position" : 3
+  }, {
+    "token" : "wedding",
+    "startOffset" : 41,
+    "endOffset" : 49,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeM8KNEXFMlzHK7h4",
   "text" : "There's two weeks holiday left.",
   "translations" : {
@@ -418,6 +451,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDdSInDTAu_IiLeFZV",
+  "text" : "Happy holiday greetings the Baltic Sea.",
+  "translations" : {
+    "russian" : "Самые теплые поздравления с Балтийского моря."
+  },
+  "tokens" : [ {
+    "token" : "happy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "holiday",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "greet",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "baltic",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "sea",
+    "startOffset" : 35,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeMmrNEXFMlzHK7hj",
   "text" : "It was on my summer holidays.",
   "translations" : {
@@ -452,82 +523,6 @@
     "token" : "holiday",
     "startOffset" : 20,
     "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeMaONEXFMlzHK7hZ",
-  "text" : "He'll be at his holiday home.",
-  "translations" : {
-    "russian" : "Он будет в отпуске в своем доме."
-  },
-  "tokens" : [ {
-    "token" : "he'll",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "be",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "at",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "his",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "holiday",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "home",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcpALNEXFMlzHK6Mn",
-  "text" : "And a happy holiday to you.",
-  "translations" : {
-    "russian" : "И тобе весёлых Праздников."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 4,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "happy",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "holiday",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "to",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "you",
-    "startOffset" : 23,
-    "endOffset" : 26,
     "position" : 5
   } ],
   "contentScore" : null

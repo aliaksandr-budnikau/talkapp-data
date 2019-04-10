@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoFduHzDTAu_IiLfesP",
+  "text" : "Scheduling conflicts.",
+  "translations" : {
+    "russian" : "Вот и все. Проблема в расписании."
+  },
+  "tokens" : [ {
+    "token" : "schedule",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "conflict",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgp_dyNEXFMlzHLJCC",
   "text" : "We schedule another surgery?",
   "translations" : {
@@ -421,39 +439,6 @@
     "startOffset" : 10,
     "endOffset" : 18,
     "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggFM3NEXFMlzHK9KJ",
-  "text" : "TV schedules, lottery numbers.",
-  "translations" : {
-    "russian" : "Программа телевидения, выигрышные номера лотереи."
-  },
-  "tokens" : [ {
-    "token" : "tv",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "schedule",
-    "startOffset" : 3,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "lottery",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "numbers",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "numb",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

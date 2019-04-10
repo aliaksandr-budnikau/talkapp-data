@@ -1,4 +1,166 @@
 [ {
+  "id" : "AWoE-nH_DTAu_IiLfG5k",
+  "text" : "Company... halt!",
+  "translations" : {
+    "russian" : "Отделение Рота... стой!"
+  },
+  "tokens" : [ {
+    "token" : "company",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "halt",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-puUDTAu_IiLfG7s",
+  "text" : "Company halt!",
+  "translations" : {
+    "russian" : "На месте стой."
+  },
+  "tokens" : [ {
+    "token" : "company",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "halt",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-najDTAu_IiLfG51",
+  "text" : "Company... halt!",
+  "translations" : {
+    "russian" : "Друзья... Стойте!"
+  },
+  "tokens" : [ {
+    "token" : "company",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "halt",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-nj8DTAu_IiLfG59",
+  "text" : "Company, halt.",
+  "translations" : {
+    "russian" : "Стойте."
+  },
+  "tokens" : [ {
+    "token" : "company",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "halt",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-prLDTAu_IiLfG7p",
+  "text" : "Company, halt!",
+  "translations" : {
+    "russian" : "Рота, на месте стой!"
+  },
+  "tokens" : [ {
+    "token" : "company",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "halt",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-p16DTAu_IiLfG7x",
+  "text" : "Company halt!",
+  "translations" : {
+    "russian" : "Рота, на месте СТОЙ!"
+  },
+  "tokens" : [ {
+    "token" : "company",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "halt",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGV_aDTAu_IiLfMrJ",
+  "text" : "Company... shun.",
+  "translations" : {
+    "russian" : "Рота... смирно!"
+  },
+  "tokens" : [ {
+    "token" : "company",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "shun",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGqh5DTAu_IiLfM6p",
+  "text" : "Company... shun.",
+  "translations" : {
+    "russian" : "Рота... смирно!"
+  },
+  "tokens" : [ {
+    "token" : "company",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "shun",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-nKCDTAu_IiLfG5m",
+  "text" : "Company, halt!",
+  "translations" : {
+    "russian" : "Отряд, стой!"
+  },
+  "tokens" : [ {
+    "token" : "company",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "halt",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpvPDNEXFMlzHLIre",
   "text" : "Okay, present company excluded.",
   "translations" : {
@@ -27,462 +189,127 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdW2KNEXFMlzHK615",
-  "text" : "Okay, present company excluded.",
+  "id" : "AWoDTFOADTAu_IiLd_n3",
+  "text" : "Viola... We got company.",
   "translations" : {
-    "russian" : "Хорошо, за исключением присутствующих."
+    "russian" : "Виола, у нас гости."
   },
   "tokens" : [ {
-    "token" : "okay",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "present",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "company",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "exclude",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdYJdNEXFMlzHK63C",
-  "text" : "Present company obviously excluded.",
-  "translations" : {
-    "russian" : "Данная компания, очевидно, исключается."
-  },
-  "tokens" : [ {
-    "token" : "present",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "company",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "obvious",
-    "startOffset" : 16,
-    "endOffset" : 25,
-    "position" : 2
-  }, {
-    "token" : "exclude",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpu5FNEXFMlzHLIq-",
-  "text" : "Present company not excepted.",
-  "translations" : {
-    "russian" : "Не исключая присутствующую компанию."
-  },
-  "tokens" : [ {
-    "token" : "present",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "company",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "not",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "except",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdWU9NEXFMlzHK61Z",
-  "text" : "Present company not excepted.",
-  "translations" : {
-    "russian" : "Не исключая присутствующую компанию."
-  },
-  "tokens" : [ {
-    "token" : "present",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "company",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "not",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "except",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpwEwNEXFMlzHLIsn",
-  "text" : "Present company obviously excluded.",
-  "translations" : {
-    "russian" : "Данная компания, очевидно, исключается."
-  },
-  "tokens" : [ {
-    "token" : "present",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "company",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "obvious",
-    "startOffset" : 16,
-    "endOffset" : 25,
-    "position" : 2
-  }, {
-    "token" : "exclude",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgs3xPNEXFMlzHLNA3",
-  "text" : "Your company provides security, right?",
-  "translations" : {
-    "russian" : "Твоя компания предоставляет услуги безопасности, так?"
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "company",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "provide",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "security",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 3
-  }, {
-    "token" : "right",
-    "startOffset" : 32,
-    "endOffset" : 37,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdWTQNEXFMlzHK61X",
-  "text" : "Present company excluded, of course.",
-  "translations" : {
-    "russian" : "Присутствующие, разумеется, исключаются."
-  },
-  "tokens" : [ {
-    "token" : "present",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "company",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "exclude",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 26,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "course",
-    "startOffset" : 29,
-    "endOffset" : 35,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpu4HNEXFMlzHLIq8",
-  "text" : "Present company excluded, of course.",
-  "translations" : {
-    "russian" : "Присутствующие, разумеется, исключаются."
-  },
-  "tokens" : [ {
-    "token" : "present",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "company",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "exclude",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 26,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "course",
-    "startOffset" : 29,
-    "endOffset" : 35,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpExnNEXFMlzHLHyq",
-  "text" : "So it's a front company.",
-  "translations" : {
-    "russian" : "То есть это ширма."
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "front",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "company",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrNKENEXFMlzHLKqZ",
-  "text" : "Company of the overnight variety?",
-  "translations" : {
-    "russian" : "С компанией для ночного разнообразия?"
-  },
-  "tokens" : [ {
-    "token" : "company",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "of",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "overnight",
-    "startOffset" : 15,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "variety",
-    "startOffset" : 25,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzBqpNEXFMlzHLVm8",
-  "text" : "Actually, it's a company car.",
-  "translations" : {
-    "russian" : "На самом деле, это служебный автомобиль."
-  },
-  "tokens" : [ {
-    "token" : "actual",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 15,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "company",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "car",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpEuMNEXFMlzHLHyn",
-  "text" : "Hides behind some front company, right?",
-  "translations" : {
-    "russian" : "Прячется под ширмой некой компании, да?"
-  },
-  "tokens" : [ {
-    "token" : "hide",
+    "token" : "viola",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "behind",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "some",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "front",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "company",
-    "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "right",
-    "startOffset" : 33,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoxGINEXFMlzHLHYc",
-  "text" : "Our company has thousands of subscribers.",
-  "translations" : {
-    "russian" : "У моей компании тысячи подписчиков."
-  },
-  "tokens" : [ {
-    "token" : "our",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "company",
-    "startOffset" : 4,
+    "token" : "we",
+    "startOffset" : 9,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "has",
+    "token" : "got",
     "startOffset" : 12,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "thousand",
+    "token" : "company",
     "startOffset" : 16,
-    "endOffset" : 25,
+    "endOffset" : 23,
     "position" : 3
-  }, {
-    "token" : "of",
-    "startOffset" : 26,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "subscriber",
-    "startOffset" : 29,
-    "endOffset" : 40,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpvNGNEXFMlzHLIra",
-  "text" : "LSB- Laughs -RSB- Present company excluded.",
+  "id" : "AWoDT5nHDTAu_IiLeAKc",
+  "text" : "AMF Analysis Company Headquarters.",
   "translations" : {
-    "russian" : "О присутствующих речь не идет."
+    "russian" : "ШТАБ-КВАРИРА аналитического отдела АМСС."
   },
   "tokens" : [ {
-    "token" : "lsb",
+    "token" : "amf",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "laughs",
-    "startOffset" : 5,
-    "endOffset" : 11,
+    "token" : "analysis",
+    "startOffset" : 4,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "rsb",
+    "token" : "company",
     "startOffset" : 13,
-    "endOffset" : 16,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "present",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "company",
-    "startOffset" : 26,
+    "token" : "headquarter",
+    "startOffset" : 21,
     "endOffset" : 33,
-    "position" : 4
-  }, {
-    "token" : "exclude",
-    "startOffset" : 34,
-    "endOffset" : 42,
-    "position" : 5
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrbgGNEXFMlzHLK_d",
-  "text" : "The company's image was at stake.",
+  "id" : "AWoDXg9XDTAu_IiLeCHa",
+  "text" : "The Argentine Marine Company.",
   "translations" : {
-    "russian" : "Репутация компании под угрозой."
+    "russian" : "Аргентинской Морской Компании."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "argentine",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "marine",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "company",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_A3oDTAu_IiLeYaS",
+  "text" : "You're dangerous company, Soothsayer.",
+  "translations" : {
+    "russian" : "Вы опасный спутник, Предсказатель."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dangerous",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "company",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "soothsayer",
+    "startOffset" : 26,
+    "endOffset" : 36,
+    "position" : 3
+  }, {
+    "token" : "soothsay",
+    "startOffset" : 26,
+    "endOffset" : 36,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDx_JSDTAu_IiLeRFV",
+  "text" : "The Company's armored truck.",
+  "translations" : {
+    "russian" : "Бронированный грузовик Компании."
   },
   "tokens" : [ {
     "token" : "the",
@@ -495,25 +322,48 @@
     "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "image",
+    "token" : "armored",
     "startOffset" : 14,
-    "endOffset" : 19,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "was",
-    "startOffset" : 20,
-    "endOffset" : 23,
+    "token" : "armor",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "truck",
+    "startOffset" : 22,
+    "endOffset" : 27,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDUeVbDTAu_IiLeAhs",
+  "text" : "AMF Analysis Company Headquarters.",
+  "translations" : {
+    "russian" : "ШТАБ-КВАРИРА аналитического отдела АМСС."
+  },
+  "tokens" : [ {
+    "token" : "amf",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
-    "token" : "at",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 4
+    "token" : "analysis",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
   }, {
-    "token" : "stake",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 5
+    "token" : "company",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "headquarter",
+    "startOffset" : 21,
+    "endOffset" : 33,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

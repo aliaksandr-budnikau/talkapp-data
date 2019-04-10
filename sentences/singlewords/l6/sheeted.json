@@ -27,6 +27,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE8G98DTAu_IiLfFCB",
+  "text" : "Fasten your bed-sheets!",
+  "translations" : {
+    "russian" : "Пристегнулись простынями."
+  },
+  "tokens" : [ {
+    "token" : "fasten",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "bed",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "b",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "sheet",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmNZXNEXFMlzHLDf0",
   "text" : "I washed those sheets...",
   "translations" : {
@@ -60,6 +98,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE7VWTDTAu_IiLfEhe",
+  "text" : "Tip sheets have expired.",
+  "translations" : {
+    "russian" : "Они просрочены."
+  },
+  "tokens" : [ {
+    "token" : "tip",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sheet",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "expired",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "expire",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmN8hNEXFMlzHLDgt",
   "text" : "Slacken braces and sheets!",
   "translations" : {
@@ -89,6 +160,39 @@
     "token" : "sheet",
     "startOffset" : 19,
     "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7Qn2DTAu_IiLfEei",
+  "text" : "Tip sheets have expired.",
+  "translations" : {
+    "russian" : "Они просрочены."
+  },
+  "tokens" : [ {
+    "token" : "tip",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sheet",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "expired",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "expire",
+    "startOffset" : 16,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
@@ -179,6 +283,39 @@
     "startOffset" : 16,
     "endOffset" : 22,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7k4WDTAu_IiLfEq9",
+  "text" : "And then there's crib sheets.",
+  "translations" : {
+    "russian" : "Во-вторых, сами шпаргалки."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "th",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "there",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "crib",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "sheet",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -281,6 +418,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEb8CbDTAu_IiLet3F",
+  "text" : "Just staple some sheets together.",
+  "translations" : {
+    "russian" : "Просто скрепи вместе несколько простыней."
+  },
+  "tokens" : [ {
+    "token" : "just",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "staple",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "some",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "sheet",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "together",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmN4nNEXFMlzHLDgk",
   "text" : "You saw the ratings sheet.",
   "translations" : {
@@ -344,196 +514,6 @@
     "startOffset" : 26,
     "endOffset" : 32,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmNalNEXFMlzHLDf3",
-  "text" : "I can't sleep without those sheets!",
-  "translations" : {
-    "russian" : "Я не смогу заснуть без этих простыней!"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "can't",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "sleep",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "without",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "those",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "sheet",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmNSyNEXFMlzHLDfo",
-  "text" : "And who's that under the sheet?",
-  "translations" : {
-    "russian" : "А это кто под простыней?"
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "who",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "under",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "sheet",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmOAbNEXFMlzHLDg1",
-  "text" : "Paris seems draped in a sheet.",
-  "translations" : {
-    "russian" : "Париж, кажется, исчез в пелене."
-  },
-  "tokens" : [ {
-    "token" : "paris",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "seem",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "drape",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 22,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "sheet",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmN7iNEXFMlzHLDgr",
-  "text" : "Let go halyard, sheets, and braces.",
-  "translations" : {
-    "russian" : "Отпустить фал, шкоты и брасы."
-  },
-  "tokens" : [ {
-    "token" : "let",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "go",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "halyard",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "sheet",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "and",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "brace",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmNhLNEXFMlzHLDgE",
-  "text" : "Just get us our pink sheets.",
-  "translations" : {
-    "russian" : "Просто оставь нам розовые листы."
-  },
-  "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "get",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "us",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "our",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "pink",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "sheet",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

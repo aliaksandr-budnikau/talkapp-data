@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoD76nPDTAu_IiLeWDl",
+  "text" : "Not luxurious but decent.",
+  "translations" : {
+    "russian" : "Не роскошно, но вполне прилично."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "luxurious",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "but",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "decent",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEzlbADTAu_IiLe_Xf",
+  "text" : "Animal cruelty, indecent exposure.",
+  "translations" : {
+    "russian" : "Жестокой обращение с животными, непристойное обнажение."
+  },
+  "tokens" : [ {
+    "token" : "animal",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cruelty",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "decent",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "exposure",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCtbGDTAu_IiLfKEC",
+  "text" : "Put on decent clothes.",
+  "translations" : {
+    "russian" : "Оденься прилично."
+  },
+  "tokens" : [ {
+    "token" : "put",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "decent",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "clothe",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "cloth",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzJ29NEXFMlzHLV4P",
   "text" : "No decent train'd stop here.",
   "translations" : {
@@ -28,6 +117,115 @@
     "token" : "here",
     "startOffset" : 23,
     "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRn0xDTAu_IiLd-pH",
+  "text" : "Halfway decent solid-top acoustic.",
+  "translations" : {
+    "russian" : "Очень приличная акустическая гитара."
+  },
+  "tokens" : [ {
+    "token" : "halfway",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "decent",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "solid",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "top",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "acoustic",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEk2qRDTAu_IiLe0ue",
+  "text" : "It's decent rather than decadent.",
+  "translations" : {
+    "russian" : "Это является приличным, а не декадентским."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "decent",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "rather",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "than",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "decadent",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "cadent",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqB8hDTAu_IiLe4mn",
+  "text" : "A decent, reliable, righteous marine.",
+  "translations" : {
+    "russian" : "Порядочным, надежным, справедливым морпехом."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "decent",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "reliable",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "liable",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "righteous",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "marine",
+    "startOffset" : 30,
+    "endOffset" : 36,
     "position" : 4
   } ],
   "contentScore" : null
@@ -66,6 +264,120 @@
     "token" : "proposal",
     "startOffset" : 24,
     "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1jBEDTAu_IiLeS7-",
+  "text" : "And collect some decent takeout menus.",
+  "translations" : {
+    "russian" : "И подобрать несколько приличных меню на вынос."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "collect",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "some",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "decent",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "takeout",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "menu",
+    "startOffset" : 32,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPzqTDTAu_IiLelHo",
+  "text" : "All of these lice are decent!",
+  "translations" : {
+    "russian" : "Все эти вши, такие приличные!"
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "these",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "lice",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "are",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "decent",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDaZoDTAu_IiLfKk4",
+  "text" : "That's a decent chunk of change.",
+  "translations" : {
+    "russian" : "Немаленькая сумма."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "decent",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "chunk",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "change",
+    "startOffset" : 25,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

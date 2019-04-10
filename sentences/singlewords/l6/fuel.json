@@ -1,4 +1,117 @@
 [ {
+  "id" : "AWoETQcvDTAu_IiLenqK",
+  "text" : "Fuel gauge.",
+  "translations" : {
+    "russian" : "Топливный датчик."
+  },
+  "tokens" : [ {
+    "token" : "fuel",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "gauge",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeqq_DTAu_IiLev3J",
+  "text" : "Fuel pumps.",
+  "translations" : {
+    "russian" : "Топливные насосы."
+  },
+  "tokens" : [ {
+    "token" : "fuel",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "pump",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEepstDTAu_IiLev2c",
+  "text" : "Roger, fueling.",
+  "translations" : {
+    "russian" : "Понял, горючее."
+  },
+  "tokens" : [ {
+    "token" : "roger",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "rog",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fuel",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEepdkDTAu_IiLev2R",
+  "text" : "Fuel status?",
+  "translations" : {
+    "russian" : "Как с топливом?"
+  },
+  "tokens" : [ {
+    "token" : "fuel",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "status",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeqUgDTAu_IiLev26",
+  "text" : "Fuel pump.",
+  "translations" : {
+    "russian" : "Топливный насос."
+  },
+  "tokens" : [ {
+    "token" : "fuel",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "pump",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErO1oDTAu_IiLe5dK",
+  "text" : "Fuel gauge.",
+  "translations" : {
+    "russian" : "Топливный датчик."
+  },
+  "tokens" : [ {
+    "token" : "fuel",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "gauge",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkSr7NEXFMlzHLAyx",
   "text" : "Just fuel for survival.",
   "translations" : {
@@ -23,34 +136,6 @@
     "token" : "survival",
     "startOffset" : 14,
     "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxR07NEXFMlzHLTDN",
-  "text" : "It's landed and refueling.",
-  "translations" : {
-    "russian" : "Они заправляются?"
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "land",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "fuel",
-    "startOffset" : 16,
-    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
@@ -101,257 +186,99 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxRxQNEXFMlzHLTDH",
-  "text" : "Standing by to refuel.",
+  "id" : "AWbgxR07NEXFMlzHLTDN",
+  "text" : "It's landed and refueling.",
   "translations" : {
-    "russian" : "Он заправляется."
+    "russian" : "Они заправляются?"
   },
   "tokens" : [ {
-    "token" : "standing",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "stand",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "by",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "fuel",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxRvENEXFMlzHLTDC",
-  "text" : "They already refueled.",
-  "translations" : {
-    "russian" : "Их уже заправили."
-  },
-  "tokens" : [ {
-    "token" : "they",
+    "token" : "it",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "already",
+    "token" : "land",
     "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "fuel",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkSt4NEXFMlzHLAy1",
-  "text" : "There'll be fuel.",
-  "translations" : {
-    "russian" : "Там должно быть горючее."
-  },
-  "tokens" : [ {
-    "token" : "there'll",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "be",
-    "startOffset" : 9,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "fuel",
+    "token" : "and",
     "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxRMwNEXFMlzHLTCC",
-  "text" : "You're relieved to refuel.",
-  "translations" : {
-    "russian" : "Вам уходить на дозаправку."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "relieved",
-    "startOffset" : 7,
     "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "relieve",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 16,
-    "endOffset" : 18,
     "position" : 2
   }, {
     "token" : "fuel",
-    "startOffset" : 19,
+    "startOffset" : 16,
     "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxRulNEXFMlzHLTDB",
-  "text" : "Corporal! Refuel them immediately.",
+  "id" : "AWoEepqgDTAu_IiLev2b",
+  "text" : "Just fuel for survival.",
   "translations" : {
-    "russian" : "Капрал, заправь их."
+    "russian" : "Просто горючее для выживания."
   },
   "tokens" : [ {
-    "token" : "corporal",
+    "token" : "just",
     "startOffset" : 0,
-    "endOffset" : 8,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "fuel",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "them",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "immediate",
-    "startOffset" : 22,
-    "endOffset" : 33,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxRz8NEXFMlzHLTDL",
-  "text" : "Refuel in hell?",
-  "translations" : {
-    "russian" : "Заправляться в аду?"
-  },
-  "tokens" : [ {
-    "token" : "fuel",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 7,
+    "startOffset" : 5,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "hell",
+    "token" : "for",
     "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkSfCNEXFMlzHLAyc",
-  "text" : "Who wasted precious fuel?",
-  "translations" : {
-    "russian" : "Кто спалил драгоценное топливо?"
-  },
-  "tokens" : [ {
-    "token" : "who",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "wast",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "precious",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "fuel",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkTDHNEXFMlzHLAzU",
-  "text" : "It fuels me, too.",
-  "translations" : {
-    "russian" : "Она тоже возбуждает меня."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "fuel",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "too",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxRMBNEXFMlzHLTCA",
-  "text" : "Hot refuel in progress.",
-  "translations" : {
-    "russian" : "Дозаправка в процессе."
-  },
-  "tokens" : [ {
-    "token" : "hot",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "fuel",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 11,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "progress",
+    "token" : "survival",
     "startOffset" : 14,
     "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkSn0NEXFMlzHLAyq",
-  "text" : "Fuel lever on start.",
+  "id" : "AWoEep0wDTAu_IiLev2j",
+  "text" : "We're just burning fuel.",
   "translations" : {
-    "russian" : "Рычаг подачи топлива на запуск."
+    "russian" : "Даром тратим горючее."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "burning",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "burn",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "fuel",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEep-TDTAu_IiLev2r",
+  "text" : "Fuel temperature correct.",
+  "translations" : {
+    "russian" : "Температура горючего оптимальная."
   },
   "tokens" : [ {
     "token" : "fuel",
@@ -359,75 +286,93 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "lever",
+    "token" : "temperature",
     "startOffset" : 5,
-    "endOffset" : 10,
+    "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "on",
-    "startOffset" : 11,
-    "endOffset" : 13,
+    "token" : "correct",
+    "startOffset" : 17,
+    "endOffset" : 24,
     "position" : 2
-  }, {
-    "token" : "start",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxRXQNEXFMlzHLTCV",
-  "text" : "Let's go and refuel.",
+  "id" : "AWoEepykDTAu_IiLev2h",
+  "text" : "Watch fuel flow!",
   "translations" : {
-    "russian" : "Поехали и давай заправимся."
+    "russian" : "Проверь, как поступает горючее."
   },
   "tokens" : [ {
-    "token" : "let",
+    "token" : "watch",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "go",
+    "token" : "fuel",
     "startOffset" : 6,
-    "endOffset" : 8,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "and",
-    "startOffset" : 9,
+    "token" : "flow",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEep5aDTAu_IiLev2n",
+  "text" : "We're out of fuel!",
+  "translations" : {
+    "russian" : "У нас нет горючего!"
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "out",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 10,
     "endOffset" : 12,
     "position" : 2
   }, {
     "token" : "fuel",
     "startOffset" : 13,
-    "endOffset" : 19,
+    "endOffset" : 17,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxRlTNEXFMlzHLTCu",
-  "text" : "Refuel on the platform?",
+  "id" : "AWoEetKODTAu_IiLev44",
+  "text" : "I'm low on fuel.",
   "translations" : {
-    "russian" : "Заправка на площадке?"
+    "russian" : "Бак пустой."
   },
   "tokens" : [ {
-    "token" : "fuel",
+    "token" : "i'm",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "on",
-    "startOffset" : 7,
-    "endOffset" : 9,
+    "token" : "low",
+    "startOffset" : 4,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
+    "token" : "on",
+    "startOffset" : 8,
+    "endOffset" : 10,
     "position" : 2
   }, {
-    "token" : "platform",
-    "startOffset" : 14,
-    "endOffset" : 22,
+    "token" : "fuel",
+    "startOffset" : 11,
+    "endOffset" : 15,
     "position" : 3
   } ],
   "contentScore" : null

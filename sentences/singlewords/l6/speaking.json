@@ -1,346 +1,429 @@
 [ {
-  "id" : "AWbgzFAgNEXFMlzHLVt9",
-  "text" : "The life coach speaks!",
+  "id" : "AWoDZjA7DTAu_IiLeDM_",
+  "text" : "Artistically speaking?",
   "translations" : {
-    "russian" : "И это говорит личностный инструктор!"
+    "russian" : "Художественно выражаясь?"
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "artistically",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 12,
     "position" : 0
   }, {
-    "token" : "life",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "speaking",
+    "startOffset" : 13,
+    "endOffset" : 21,
     "position" : 1
   }, {
-    "token" : "coach",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
     "token" : "speak",
-    "startOffset" : 15,
+    "startOffset" : 13,
     "endOffset" : 21,
-    "position" : 3
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbga_cJNEXFMlzHK4tx",
-  "text" : "Do you speak English?",
+  "id" : "AWoEiW_8DTAu_IiLey10",
+  "text" : "Grimes speaking.",
   "translations" : {
-    "russian" : "Вы говорите по-английски?"
+    "russian" : "Граймс слушает."
   },
   "tokens" : [ {
-    "token" : "do",
+    "token" : "grimes",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "you",
-    "startOffset" : 3,
+    "token" : "grime",
+    "startOffset" : 0,
     "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "speaking",
+    "startOffset" : 7,
+    "endOffset" : 15,
     "position" : 1
   }, {
     "token" : "speak",
     "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoXGfDTAu_IiLe3YT",
+  "text" : "Diplomatically speaking.",
+  "translations" : {
+    "russian" : "Говоря дипломатически."
+  },
+  "tokens" : [ {
+    "token" : "diplomatically",
+    "startOffset" : 0,
+    "endOffset" : 14,
+    "position" : 0
+  }, {
+    "token" : "speaking",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 1
+  }, {
+    "token" : "speak",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDR60NDTAu_IiLd-11",
+  "text" : "Speaking Albanian.",
+  "translations" : {
+    "russian" : "Говорит по-албански."
+  },
+  "tokens" : [ {
+    "token" : "speaking",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "speak",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "albanian",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4JSUDTAu_IiLeUIl",
+  "text" : "Speaking Welsh.",
+  "translations" : {
+    "russian" : "Говорит по-уэльски."
+  },
+  "tokens" : [ {
+    "token" : "speaking",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "speak",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "welsh",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4JWkDTAu_IiLeUIn",
+  "text" : "Speaking Welsh.",
+  "translations" : {
+    "russian" : "Говорят по-уэльски."
+  },
+  "tokens" : [ {
+    "token" : "speaking",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "speak",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "welsh",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwJorDTAu_IiLe81Y",
+  "text" : "Scientifically speaking...",
+  "translations" : {
+    "russian" : "Ну, с научной точки зрения."
+  },
+  "tokens" : [ {
+    "token" : "scientifically",
+    "startOffset" : 0,
+    "endOffset" : 14,
+    "position" : 0
+  }, {
+    "token" : "speaking",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 1
+  }, {
+    "token" : "speak",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4JYiDTAu_IiLeUIo",
+  "text" : "Speaking Welsh.",
+  "translations" : {
+    "russian" : "Говорят по-уэльски."
+  },
+  "tokens" : [ {
+    "token" : "speaking",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "speak",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "welsh",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESK8pDTAu_IiLem1s",
+  "text" : "Captain Dent speaking.",
+  "translations" : {
+    "russian" : "Говорит капитан Дент."
+  },
+  "tokens" : [ {
+    "token" : "captain",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "dent",
+    "startOffset" : 8,
     "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "speaking",
+    "startOffset" : 13,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "english",
+    "token" : "speak",
     "startOffset" : 13,
-    "endOffset" : 20,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDW3CDTAu_IiLfKiX",
+  "text" : "And speaking of atrocities...",
+  "translations" : {
+    "russian" : "Кстати говоря о зверствах..."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "speaking",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "speak",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "atrocity",
+    "startOffset" : 16,
+    "endOffset" : 26,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpR0jNEXFMlzHLIB-",
-  "text" : "Actions speak louder than words.",
+  "id" : "AWoDOkWEDTAu_IiLd8ql",
+  "text" : "Why? Theoretically speaking.",
   "translations" : {
-    "russian" : "Поступки говорят громче слов."
+    "russian" : "Чисто теоретически, мадам."
   },
   "tokens" : [ {
-    "token" : "actions",
+    "token" : "why",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "action",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
+    "token" : "theoretical",
+    "startOffset" : 5,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "speaking",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 2
   }, {
     "token" : "speak",
-    "startOffset" : 8,
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRJDODTAu_IiLd-Ts",
+  "text" : "Academically speaking, anyway.",
+  "translations" : {
+    "russian" : "Академически говоря."
+  },
+  "tokens" : [ {
+    "token" : "academical",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "speaking",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "speak",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "anyway",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZcThDTAu_IiLeDIw",
+  "text" : "He's speaking Armenian.",
+  "translations" : {
+    "russian" : "Он говорит на армянском."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "speaking",
+    "startOffset" : 5,
     "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "loud",
+    "token" : "speak",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "armenian",
     "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "than",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "word",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbga3gnNEXFMlzHK4m0",
-  "text" : "LSB- SPEAKS IN ITALIAN -RSB.",
-  "translations" : {
-    "russian" : "Говорит по италиански."
-  },
-  "tokens" : [ {
-    "token" : "lsb",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "speak",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "italian",
-    "startOffset" : 15,
     "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "rsb",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr2oJNEXFMlzHLLnD",
-  "text" : "LSB- SPEAKS IN ITALIAN -RSB.",
-  "translations" : {
-    "russian" : "Говорит по италиански."
-  },
-  "tokens" : [ {
-    "token" : "lsb",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "speak",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 12,
-    "endOffset" : 14,
     "position" : 2
-  }, {
-    "token" : "italian",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "rsb",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglO0gNEXFMlzHLCKq",
-  "text" : "The gods speak through me.",
+  "id" : "AWoD6aytDTAu_IiLeVJ5",
+  "text" : "Captain Dent speaking.",
   "translations" : {
-    "russian" : "Боги говорят через меня."
+    "russian" : "Говорит капитан Дент."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "captain",
     "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "god",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "speak",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "through",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "me",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbga2VeNEXFMlzHK4l2",
-  "text" : "We'll speak in a few days.",
-  "translations" : {
-    "russian" : "Поговорим через несколько дней."
-  },
-  "tokens" : [ {
-    "token" : "we'll",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "speak",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 15,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "few",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "day",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr16RNEXFMlzHLLmF",
-  "text" : "We'll speak in a few days.",
-  "translations" : {
-    "russian" : "Поговорим через несколько дней."
-  },
-  "tokens" : [ {
-    "token" : "we'll",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "speak",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 15,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "few",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "day",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsbU8NEXFMlzHLMbO",
-  "text" : "I must speak to a friend.",
-  "translations" : {
-    "russian" : "Мне надо поговорить с одной знакомой."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "must",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "speak",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 16,
-    "endOffset" : 17,
-    "position" : 4
-  }, {
-    "token" : "friend",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoYnnNEXFMlzHLG1Y",
-  "text" : "I speak my piece, and you...",
-  "translations" : {
-    "russian" : "Я вам даю картину, а вы..."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "speak",
-    "startOffset" : 2,
     "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "dent",
+    "startOffset" : 8,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "my",
-    "startOffset" : 8,
-    "endOffset" : 10,
+    "token" : "speaking",
+    "startOffset" : 13,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "piece",
-    "startOffset" : 11,
-    "endOffset" : 16,
+    "token" : "speak",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhOHBDTAu_IiLex4N",
+  "text" : "Griffin residence, Peter's speaking.",
+  "translations" : {
+    "russian" : "Дом Гриффинов, Питер на аппарате!"
+  },
+  "tokens" : [ {
+    "token" : "griffin",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "residence",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "peter",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "speaking",
+    "startOffset" : 27,
+    "endOffset" : 35,
     "position" : 3
   }, {
-    "token" : "and",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
+    "token" : "speak",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEywbrDTAu_IiLe-yM",
+  "text" : "Speaking of strange bedfellows...",
+  "translations" : {
+    "russian" : "Говоря о странных любовниках..."
+  },
+  "tokens" : [ {
+    "token" : "speaking",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
   }, {
-    "token" : "you",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 5
+    "token" : "speak",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "strange",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "bedfellow",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

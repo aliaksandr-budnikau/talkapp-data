@@ -1,4 +1,108 @@
 [ {
+  "id" : "AWoDcmvdDTAu_IiLeFBr",
+  "text" : "Cleanup requested, Bacteriology...",
+  "translations" : {
+    "russian" : "Необходима стерилизация. Бактериологический кабинет."
+  },
+  "tokens" : [ {
+    "token" : "cleanup",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "requested",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "quested",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "bacteriology",
+    "startOffset" : 19,
+    "endOffset" : 31,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyCmaDTAu_IiLeRHT",
+  "text" : "10th Armored will supervise cleanup.",
+  "translations" : {
+    "russian" : "10-й танковый будет следить за этим."
+  },
+  "tokens" : [ {
+    "token" : "10th",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "armored",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "armor",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "will",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "supervise",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "cleanup",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcmtuDTAu_IiLeFBq",
+  "text" : "Cleanup requested, Bacteriology, Level 3.",
+  "translations" : {
+    "russian" : "Необходима стерилизация. Бактериологический кабинет. 3 уровень."
+  },
+  "tokens" : [ {
+    "token" : "cleanup",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "requested",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "quested",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "bacteriology",
+    "startOffset" : 19,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "level",
+    "startOffset" : 33,
+    "endOffset" : 38,
+    "position" : 3
+  }, {
+    "token" : "3",
+    "startOffset" : 39,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvcoyNEXFMlzHLQ7v",
   "text" : "Cleanup in aisle 8, tubby!",
   "translations" : {
@@ -28,6 +132,44 @@
     "token" : "tubby",
     "startOffset" : 20,
     "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdQmtDTAu_IiLfeWt",
+  "text" : "10th Armored will supervise cleanup.",
+  "translations" : {
+    "russian" : "10-й танковый будет следить за этим."
+  },
+  "tokens" : [ {
+    "token" : "10th",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "armored",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "armor",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "will",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "supervise",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "cleanup",
+    "startOffset" : 28,
+    "endOffset" : 35,
     "position" : 4
   } ],
   "contentScore" : null

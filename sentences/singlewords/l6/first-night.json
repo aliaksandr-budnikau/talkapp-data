@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoFKKgXDTAu_IiLfPyP",
+  "text" : "Your invention, that first night.",
+  "translations" : {
+    "russian" : "Ты их придумал, в наш первый вечер."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "invention",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "that",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "first",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "night",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxjlENEXFMlzHLTZ2",
   "text" : "This is my first night off.",
   "translations" : {
@@ -71,6 +104,44 @@
     "token" : "off",
     "startOffset" : 23,
     "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfKN2DTAu_IiLewPh",
+  "text" : "Quill's first night in our home.",
+  "translations" : {
+    "russian" : "Первая ночь Квила в нашем доме."
+  },
+  "tokens" : [ {
+    "token" : "quill",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "first",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "night",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "our",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "home",
+    "startOffset" : 27,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

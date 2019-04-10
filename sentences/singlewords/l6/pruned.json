@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFTDo_DTAu_IiLfWk-",
+  "text" : "Pencils down, prune-face.",
+  "translations" : {
+    "russian" : "Отложить карандаши, морщинистая морда."
+  },
+  "tokens" : [ {
+    "token" : "pencil",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "down",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "prune",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "face",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcwn5NEXFMlzHK6Ti",
   "text" : "Prune juice, extra large.",
   "translations" : {
@@ -23,6 +51,34 @@
     "token" : "large",
     "startOffset" : 19,
     "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEG2zTDTAu_IiLeeb2",
+  "text" : "Whoopee, veal with prunes!",
+  "translations" : {
+    "russian" : "Телятина с черносливом!"
+  },
+  "tokens" : [ {
+    "token" : "whoopee",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "veal",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "prune",
+    "startOffset" : 19,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null

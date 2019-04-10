@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEPfqgDTAu_IiLek4l",
+  "text" : "Juvenile intrusion!",
+  "translations" : {
+    "russian" : "Вторжение детей!"
+  },
+  "tokens" : [ {
+    "token" : "juvenile",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "intrusion",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguD04NEXFMlzHLOYa",
   "text" : "Juvenile delinquent reporting for duty.",
   "translations" : {
@@ -28,6 +46,105 @@
     "token" : "duty",
     "startOffset" : 34,
     "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDj5ZXDTAu_IiLeJMg",
+  "text" : "It's not juvenile and purposeless.",
+  "translations" : {
+    "russian" : "Оно не инфантильное, не бесцельное."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "juvenile",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "purposeless",
+    "startOffset" : 22,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQk1uDTAu_IiLd96O",
+  "text" : "Nick specializes in defending juveniles.",
+  "translations" : {
+    "russian" : "Да, Ник специализируется на защите несовершеннолетних."
+  },
+  "tokens" : [ {
+    "token" : "nick",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "specialize",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "fend",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "juvenile",
+    "startOffset" : 30,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFg8XBDTAu_IiLfg5p",
+  "text" : "Fifteen-year-old juvenile, burglary.",
+  "translations" : {
+    "russian" : "Значит, 15-летний парень проник к вам в дом."
+  },
+  "tokens" : [ {
+    "token" : "fifteen",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "year",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "old",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "juvenile",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "burglary",
+    "startOffset" : 27,
+    "endOffset" : 35,
     "position" : 4
   } ],
   "contentScore" : null

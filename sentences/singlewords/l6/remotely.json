@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoFdCk2DTAu_IiLfeMf",
+  "text" : "Remote control.",
+  "translations" : {
+    "russian" : "Пульт дистанционного управления."
+  },
+  "tokens" : [ {
+    "token" : "remote",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "mote",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "control",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVcu7DTAu_IiLeBJr",
+  "text" : "I'm canceling the remote.",
+  "translations" : {
+    "russian" : "Ладно, я отменяю эфир."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "cancel",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "remote",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "mote",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrqQXNEXFMlzHLLVG",
   "text" : "It's remote, it's secluded.",
   "translations" : {
@@ -478,64 +534,41 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrqzQNEXFMlzHLLWA",
-  "text" : "It's a pretty remote spot.",
+  "id" : "AWoEDlv2DTAu_IiLeb9j",
+  "text" : "My VCR remote won't work.",
   "translations" : {
-    "russian" : "Это находиться довольно далеко."
+    "russian" : "Мой магнитофон не работает."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "my",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "a",
-    "startOffset" : 5,
+    "token" : "vcr",
+    "startOffset" : 3,
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "pretty",
+    "token" : "remote",
     "startOffset" : 7,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "remote",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
     "token" : "mote",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "won't",
     "startOffset" : 14,
-    "endOffset" : 20,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "spot",
-    "startOffset" : 21,
-    "endOffset" : 25,
+    "token" : "work",
+    "startOffset" : 20,
+    "endOffset" : 24,
     "position" : 4
   } ],
   "contentScore" : null
-}, {
-  "id" : "AWbgrf9bNEXFMlzHLLF_",
-  "text" : "Remote control.",
-  "translations" : {
-    "russian" : "Пульт дистанционного управления."
-  },
-  "tokens" : [ {
-    "token" : "remote",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "mote",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "control",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  } ],
-  "contentScore" : "POOR"
 } ]

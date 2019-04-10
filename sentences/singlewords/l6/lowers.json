@@ -1,122 +1,36 @@
 [ {
-  "id" : "AWbgsgrXNEXFMlzHLMi_",
-  "text" : "So, a low contact run.",
+  "id" : "AWoDg29NDTAu_IiLeHdU",
+  "text" : "Low noise, low velocity.",
   "translations" : {
-    "russian" : "Так, бег с низким контактом."
+    "russian" : "Малый шум, малое ускорение."
   },
   "tokens" : [ {
-    "token" : "so",
+    "token" : "low",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "a",
+    "token" : "noise",
     "startOffset" : 4,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "low",
-    "startOffset" : 6,
     "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "contact",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "tact",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "run",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkKy0NEXFMlzHLAma",
-  "text" : "I was running low on smokes.",
-  "translations" : {
-    "russian" : "У меня как раз сигареты заканчивались."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 2,
-    "endOffset" : 5,
     "position" : 1
-  }, {
-    "token" : "running",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "low",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "on",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "smoke",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxt0dNEXFMlzHLTvV",
-  "text" : "Step one a low level warrant.",
-  "translations" : {
-    "russian" : "Шаг первый ордер низкого уровня."
-  },
-  "tokens" : [ {
-    "token" : "step",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "one",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
   }, {
     "token" : "low",
     "startOffset" : 11,
     "endOffset" : 14,
-    "position" : 3
+    "position" : 2
   }, {
-    "token" : "level",
+    "token" : "velocity",
     "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "warrant",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 5
+    "endOffset" : 23,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgb1c8NEXFMlzHK5eH",
-  "text" : "Low blow getting Claire's hopes up.",
+  "id" : "AWoDvNUEDTAu_IiLePic",
+  "text" : "LOW MURMURS.",
   "translations" : {
-    "russian" : "Это удар ниже пояса - зря обнадёживать Клэр."
+    "russian" : "Тихое бормотание."
   },
   "tokens" : [ {
     "token" : "low",
@@ -124,86 +38,362 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "blow",
+    "token" : "murmur",
     "startOffset" : 4,
-    "endOffset" : 8,
+    "endOffset" : 11,
     "position" : 1
-  }, {
-    "token" : "getting",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "claire",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "hope",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "up",
-    "startOffset" : 32,
-    "endOffset" : 34,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmKAONEXFMlzHLDZ0",
-  "text" : "It's a local low pressure front.",
+  "id" : "AWoEYQEpDTAu_IiLerZD",
+  "text" : "Lower galley.",
   "translations" : {
-    "russian" : "Это локальный фронт низкого давления."
+    "russian" : "Спустись на кухню."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "lower",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "low",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "galley",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1Ow_DTAu_IiLfAgW",
+  "text" : "LOW MURMURS.",
+  "translations" : {
+    "russian" : "Тихое бормотание."
+  },
+  "tokens" : [ {
+    "token" : "low",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "murmur",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJGxoDTAu_IiLfO7y",
+  "text" : "Variably low.",
+  "translations" : {
+    "russian" : "Переменно низкая."
+  },
+  "tokens" : [ {
+    "token" : "variably",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "low",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZuUBDTAu_IiLfblT",
+  "text" : "Low quantity.",
+  "translations" : {
+    "russian" : "В небольшом объеме."
+  },
+  "tokens" : [ {
+    "token" : "low",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "quantity",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSzOuDTAu_IiLd_b2",
+  "text" : "Albumin's low at 2.",
+  "translations" : {
+    "russian" : "Альбумин упал до 2."
+  },
+  "tokens" : [ {
+    "token" : "albumin",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "low",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "2",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEetKODTAu_IiLev44",
+  "text" : "I'm low on fuel.",
+  "translations" : {
+    "russian" : "Бак пустой."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "low",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "fuel",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDTzsUDTAu_IiLeAG3",
+  "text" : "Anaconda, high-low.",
+  "translations" : {
+    "russian" : "Анаконда, хай-лоу."
+  },
+  "tokens" : [ {
+    "token" : "anaconda",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "high",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "low",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYACWDTAu_IiLerOD",
+  "text" : "Getting low on gas.",
+  "translations" : {
+    "russian" : "У нас мало топлива."
+  },
+  "tokens" : [ {
+    "token" : "getting",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "low",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "gas",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZjRHDTAu_IiLesR5",
+  "text" : "Lower your harpoons.",
+  "translations" : {
+    "russian" : "Опустите гарпуны."
+  },
+  "tokens" : [ {
+    "token" : "lower",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "low",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "harpoon",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-iVXDTAu_IiLfG1m",
+  "text" : "A very low occupation.",
+  "translations" : {
+    "russian" : "Грязное занятие."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "very",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "low",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "occupation",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMqSTDTAu_IiLfRsF",
+  "text" : "Low frequency, high intensity.",
+  "translations" : {
+    "russian" : "Чем ниже частота, тем выше напряжение."
+  },
+  "tokens" : [ {
+    "token" : "low",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "frequency",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "high",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "tensity",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYG9qDTAu_IiLfaOQ",
+  "text" : "Your holster's too low.",
+  "translations" : {
+    "russian" : "Твоя кобура висит слишком низко."
+  },
+  "tokens" : [ {
+    "token" : "your",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "a",
+    "token" : "holster",
     "startOffset" : 5,
-    "endOffset" : 6,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "local",
-    "startOffset" : 7,
-    "endOffset" : 12,
+    "token" : "too",
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 2
   }, {
     "token" : "low",
-    "startOffset" : 13,
-    "endOffset" : 16,
+    "startOffset" : 19,
+    "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "pressure",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "front",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwCBtNEXFMlzHLRvi",
-  "text" : "Low airfares.",
+  "id" : "AWoD7tE0DTAu_IiLeV6U",
+  "text" : "Vector 105 degrees, low.",
   "translations" : {
-    "russian" : "Дешёвые авиабилеты."
+    "russian" : "Вектор 105 градусов, низко."
   },
   "tokens" : [ {
-    "token" : "low",
+    "token" : "vector",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "airfare",
-    "startOffset" : 4,
-    "endOffset" : 12,
+    "token" : "105",
+    "startOffset" : 7,
+    "endOffset" : 10,
     "position" : 1
+  }, {
+    "token" : "degree",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "low",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
   } ],
-  "contentScore" : "POOR"
+  "contentScore" : null
+}, {
+  "id" : "AWoEcRJLDTAu_IiLeuFc",
+  "text" : "High intensity low beam.",
+  "translations" : {
+    "russian" : "Высокая интенсивность ближнего спектра."
+  },
+  "tokens" : [ {
+    "token" : "high",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "tensity",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "low",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "beam",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
 } ]

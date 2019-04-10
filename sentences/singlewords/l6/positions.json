@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoEKelwDTAu_IiLehCW",
+  "text" : "Subpoenas, requests for depositions, interrogatories.",
+  "translations" : {
+    "russian" : "Повестки в суд, запрос о дачи показаний, допросов."
+  },
+  "tokens" : [ {
+    "token" : "subpoena",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "quests",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "positions",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "interrogatory",
+    "startOffset" : 37,
+    "endOffset" : 52,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuf25DTAu_IiLe7qe",
+  "text" : "Pole position.",
+  "translations" : {
+    "russian" : "Поул-позиция."
+  },
+  "tokens" : [ {
+    "token" : "pole",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "position",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghDnXNEXFMlzHK-AY",
   "text" : "That's our key position.",
   "translations" : {
@@ -27,10 +78,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvdEXNEXFMlzHLQ8j",
-  "text" : "Position automatic weapons here.",
+  "id" : "AWoEdCWWDTAu_IiLeunh",
+  "text" : "Position is serviceable.",
   "translations" : {
-    "russian" : "Рассположите здесь автоматическое оружие."
+    "russian" : "Позиция подходящая."
   },
   "tokens" : [ {
     "token" : "position",
@@ -38,167 +89,336 @@
     "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "automatic",
+    "token" : "is",
     "startOffset" : 9,
-    "endOffset" : 18,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "weapon",
-    "startOffset" : 19,
-    "endOffset" : 26,
+    "token" : "serviceable",
+    "startOffset" : 12,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBuqDDTAu_IiLfJVc",
+  "text" : "One position swamped.",
+  "translations" : {
+    "russian" : "Один проход завален."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "position",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "swamp",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFY7CzDTAu_IiLfa6G",
+  "text" : "Goat, what's your position?",
+  "translations" : {
+    "russian" : "Грешник, доложи о позиции?"
+  },
+  "tokens" : [ {
+    "token" : "goat",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "what",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 13,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "here",
-    "startOffset" : 27,
+    "token" : "position",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD26kTDTAu_IiLeTkI",
+  "text" : "Metro position, Virginia bureau.",
+  "translations" : {
+    "russian" : "В новостной отдел в Вирджинии."
+  },
+  "tokens" : [ {
+    "token" : "metro",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "position",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "virginia",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "bureau",
+    "startOffset" : 25,
     "endOffset" : 31,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgb_4wNEXFMlzHK5np",
-  "text" : "High card for dealer position.",
+  "id" : "AWoEWZPTDTAu_IiLeqEU",
+  "text" : "What's the initial position?",
   "translations" : {
-    "russian" : "По старшей карте место дилера."
+    "russian" : "Что за исходная позиция?"
   },
   "tokens" : [ {
-    "token" : "high",
+    "token" : "what",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "card",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "dealer",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "deal",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "position",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjtM1NEXFMlzHLAPh",
-  "text" : "Tango, that's a friendly position.",
-  "translations" : {
-    "russian" : "Танго, это дружественные позиции."
-  },
-  "tokens" : [ {
-    "token" : "tango",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "that",
+    "token" : "the",
     "startOffset" : 7,
-    "endOffset" : 13,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "friendly",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "friend",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "position",
-    "startOffset" : 25,
-    "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdGqRNEXFMlzHK6na",
-  "text" : "All right, plate's in position.",
-  "translations" : {
-    "russian" : "Так, пластинки на месте."
-  },
-  "tokens" : [ {
-    "token" : "all",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "right",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "plate",
+    "token" : "initial",
     "startOffset" : 11,
     "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "in",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
     "token" : "position",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 4
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgphOANEXFMlzHLIX3",
-  "text" : "High card for dealer position.",
+  "id" : "AWoD9ioBDTAu_IiLeXTk",
+  "text" : "In the upright position!",
   "translations" : {
-    "russian" : "По старшей карте место дилера."
+    "russian" : "Стоя!"
   },
   "tokens" : [ {
-    "token" : "high",
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "upright",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "position",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8_xtDTAu_IiLfFni",
+  "text" : "Tempting proposition, Tom, but...",
+  "translations" : {
+    "russian" : "Заманчивое предложение, Том, но."
+  },
+  "tokens" : [ {
+    "token" : "tempting",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "position",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "tom",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "but",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJ3WGDTAu_IiLfPjD",
+  "text" : "I've isolated Seven's position.",
+  "translations" : {
+    "russian" : "Я выделил позицию Седьмой."
+  },
+  "tokens" : [ {
+    "token" : "i've",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "card",
+    "token" : "isolate",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "for",
-    "startOffset" : 10,
-    "endOffset" : 13,
+    "token" : "seven",
+    "startOffset" : 14,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "dealer",
-    "startOffset" : 14,
-    "endOffset" : 20,
+    "token" : "position",
+    "startOffset" : 22,
+    "endOffset" : 30,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKND5DTAu_IiLfP0P",
+  "text" : "I've isolated Seven's position.",
+  "translations" : {
+    "russian" : "Я выделил позицию Седьмой."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
-    "token" : "deal",
+    "token" : "isolate",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "seven",
     "startOffset" : 14,
-    "endOffset" : 20,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "position",
+    "startOffset" : 22,
+    "endOffset" : 30,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDUU9EDTAu_IiLeAbr",
+  "text" : "They're analyzing my proposition.",
+  "translations" : {
+    "russian" : "Они изучают мое предложение."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "analyze",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
   }, {
     "token" : "position",
     "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 4
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDUjRIDTAu_IiLeAkz",
+  "text" : "They're analyzing my proposition.",
+  "translations" : {
+    "russian" : "Они изучают мое предложение."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "analyze",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "position",
+    "startOffset" : 21,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXrmYDTAu_IiLeq_b",
+  "text" : "Vipers in position.",
+  "translations" : {
+    "russian" : "Вайперы на позиции."
+  },
+  "tokens" : [ {
+    "token" : "viper",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "position",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBydZDTAu_IiLfJYT",
+  "text" : "One position swamped.",
+  "translations" : {
+    "russian" : "Один проход завален."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "position",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "swamp",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

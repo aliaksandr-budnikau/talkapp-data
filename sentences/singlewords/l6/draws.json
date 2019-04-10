@@ -1,110 +1,404 @@
 [ {
-  "id" : "AWbgmSHgNEXFMlzHLDoC",
-  "text" : "Back to the drawing board.",
+  "id" : "AWoEUWpxDTAu_IiLeogc",
+  "text" : "Which drawing?",
   "translations" : {
-    "russian" : "Вернусь к чертежной доске."
+    "russian" : "Какой рисунок?"
   },
   "tokens" : [ {
-    "token" : "back",
+    "token" : "which",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "drawing",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "draw",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUWRmDTAu_IiLeogH",
+  "text" : "I draw.",
+  "translations" : {
+    "russian" : "Я рисую."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "draw",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUZCpDTAu_IiLeoiG",
+  "text" : "Draw one.",
+  "translations" : {
+    "russian" : "Тяни."
+  },
+  "tokens" : [ {
+    "token" : "draw",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "to",
+    "token" : "one",
     "startOffset" : 5,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUWPaDTAu_IiLeogF",
+  "text" : "I'm drawing.",
+  "translations" : {
+    "russian" : "Рисую."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
     "token" : "drawing",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
   }, {
     "token" : "draw",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUWQoDTAu_IiLeogG",
+  "text" : "I draw.",
+  "translations" : {
+    "russian" : "А я рисую."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
   }, {
-    "token" : "board",
-    "startOffset" : 20,
+    "token" : "draw",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUYtKDTAu_IiLeoh0",
+  "text" : "Let's draw.",
+  "translations" : {
+    "russian" : "Давайте тянуть."
+  },
+  "tokens" : [ {
+    "token" : "let",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "draw",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUWSlDTAu_IiLeogI",
+  "text" : "I'm drawing too.",
+  "translations" : {
+    "russian" : "Я тоже рисую."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "drawing",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "draw",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "too",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4c81DTAu_IiLfCrn",
+  "text" : "Downloading the drawing.",
+  "translations" : {
+    "russian" : "Загружаю рисунок."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "drawing",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "draw",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4nzWDTAu_IiLfCyT",
+  "text" : "Downloading the drawing.",
+  "translations" : {
+    "russian" : "Загружаю рисунок."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "drawing",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "draw",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4uq8DTAu_IiLfC2c",
+  "text" : "Downloading the drawing.",
+  "translations" : {
+    "russian" : "Загружаю рисунок."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "drawing",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "draw",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUXewDTAu_IiLeohE",
+  "text" : "Draw something resembling anything!",
+  "translations" : {
+    "russian" : "Нарисуй хоть что-то похожее!"
+  },
+  "tokens" : [ {
+    "token" : "draw",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "something",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "resemble",
+    "startOffset" : 15,
     "endOffset" : 25,
-    "position" : 4
+    "position" : 2
+  }, {
+    "token" : "anything",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgr9T0NEXFMlzHLLw4",
-  "text" : "He's drawing the same view.",
+  "id" : "AWoEUXbWDTAu_IiLeohB",
+  "text" : "Draw something, write.",
   "translations" : {
-    "russian" : "Он рисует один и тот же пейзаж."
+    "russian" : "Нарисуй что-нибудь, напиши."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "draw",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "drawing",
+    "token" : "something",
     "startOffset" : 5,
-    "endOffset" : 12,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "draw",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "same",
-    "startOffset" : 17,
+    "token" : "write",
+    "startOffset" : 16,
     "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "view",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsH3HNEXFMlzHLL_n",
-  "text" : "So they can draw benefit.",
+  "id" : "AWoEUWJyDTAu_IiLeogC",
+  "text" : "I draw does.",
   "translations" : {
-    "russian" : "Они по ним пособия получают."
+    "russian" : "Я рисую ланей."
   },
   "tokens" : [ {
-    "token" : "so",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "they",
-    "startOffset" : 3,
-    "endOffset" : 7,
+    "token" : "draw",
+    "startOffset" : 2,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "can",
-    "startOffset" : 8,
+    "token" : "does",
+    "startOffset" : 7,
     "endOffset" : 11,
     "position" : 2
   }, {
+    "token" : "doe",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUYTRDTAu_IiLeohe",
+  "text" : "Outside of drawing room.",
+  "translations" : {
+    "russian" : "Снаружи гостиной."
+  },
+  "tokens" : [ {
+    "token" : "outside",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "drawing",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
     "token" : "draw",
-    "startOffset" : 12,
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "room",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUXVfDTAu_IiLeog9",
+  "text" : "Draw an elephant.",
+  "translations" : {
+    "russian" : "Ну, нарисуй слона."
+  },
+  "tokens" : [ {
+    "token" : "draw",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "elephant",
+    "startOffset" : 8,
     "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUaZmDTAu_IiLeojJ",
+  "text" : "I prefer study drawing.",
+  "translations" : {
+    "russian" : "Я лучше изучу этот чертеж!"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "prefer",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pref",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "study",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "drawing",
+    "startOffset" : 15,
+    "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "benefit",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 4
+    "token" : "draw",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

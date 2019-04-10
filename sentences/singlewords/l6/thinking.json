@@ -1,4 +1,169 @@
 [ {
+  "id" : "AWoDSwTqDTAu_IiLd_Z1",
+  "text" : "I'm thinking damask.",
+  "translations" : {
+    "russian" : "Хочу дамАстовые."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "thinking",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "think",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "damask",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcXndDTAu_IiLeE5P",
+  "text" : "I'm thinking bachelor pad.",
+  "translations" : {
+    "russian" : "Думаю, устроить здесь холостяцкую берлогу."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "thinking",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "think",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "bachelor",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "pad",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9bAoDTAu_IiLeXNo",
+  "text" : "I'm thinking probable cause.",
+  "translations" : {
+    "russian" : "Я думаю о возможной причине."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "thinking",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "think",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "probable",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "prob",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "cause",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOcheDTAu_IiLekIM",
+  "text" : "Um, I'm... thinking aloud.",
+  "translations" : {
+    "russian" : "Я... размышляю вслух."
+  },
+  "tokens" : [ {
+    "token" : "um",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "i'm",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "thinking",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "think",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "aloud",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmj82DTAu_IiLe1_Y",
+  "text" : "I'm thinking genetic defect.",
+  "translations" : {
+    "russian" : "Думаю, врождённый порок."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "thinking",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "think",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "genetic",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "defect",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgivnINEXFMlzHK_bd",
   "text" : "Sounds like wishful thinking.",
   "translations" : {
@@ -65,51 +230,102 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgk8EBNEXFMlzHLBo2",
-  "text" : "You-you act without thinking.",
+  "id" : "AWoEOcKxDTAu_IiLekH8",
+  "text" : "I'm thinking aloud now.",
   "translations" : {
-    "russian" : "Ты... ты действуешь, не подумав."
+    "russian" : "Я размышляю вслух..."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "i'm",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "you",
+    "token" : "thinking",
     "startOffset" : 4,
-    "endOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "act",
-    "startOffset" : 8,
-    "endOffset" : 11,
+    "token" : "think",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "aloud",
+    "startOffset" : 13,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "without",
-    "startOffset" : 12,
-    "endOffset" : 19,
+    "token" : "now",
+    "startOffset" : 19,
+    "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "thinking",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "think",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdfEZNEXFMlzHK67Z",
-  "text" : "Stop thinking about the notes.",
+  "id" : "AWoE-Nk7DTAu_IiLfGkU",
+  "text" : "I'm thinking thin.",
   "translations" : {
-    "russian" : "Перестань думать о нотах."
+    "russian" : "Я хочу похудеть."
   },
   "tokens" : [ {
-    "token" : "stop",
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "thinking",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "think",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "thin",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSdpvDTAu_IiLfWIk",
+  "text" : "Quick thinking, candidate.",
+  "translations" : {
+    "russian" : "Быстро соображаешь, стажёр."
+  },
+  "tokens" : [ {
+    "token" : "quick",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "thinking",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "think",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "candidate",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOb-TDTAu_IiLekHz",
+  "text" : "Just thinking aloud.",
+  "translations" : {
+    "russian" : "Просто думаю вслух."
+  },
+  "tokens" : [ {
+    "token" : "just",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
@@ -124,20 +340,170 @@
     "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "about",
+    "token" : "aloud",
     "startOffset" : 14,
     "endOffset" : 19,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-Nj9DTAu_IiLfGkT",
+  "text" : "She's thinking thin.",
+  "translations" : {
+    "russian" : "Она собирается похудеть."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 20,
-    "endOffset" : 23,
+    "token" : "thinking",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "think",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "thin",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFc9nVDTAu_IiLfeIw",
+  "text" : "I'm thinking cardiac contusion.",
+  "translations" : {
+    "russian" : "Я думаю, контузия сердца."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "thinking",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "think",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "cardiac",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "contusion",
+    "startOffset" : 21,
+    "endOffset" : 30,
     "position" : 3
   }, {
-    "token" : "note",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 4
+    "token" : "contuse",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdh4SDTAu_IiLfejQ",
+  "text" : "I'm thinking the Ridge.",
+  "translations" : {
+    "russian" : "Я думаю об утёсе."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "thinking",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "think",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "ridge",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDt2upDTAu_IiLeOtS",
+  "text" : "That's just morbid thinking.",
+  "translations" : {
+    "russian" : "Это ж мысли нездоровые."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "morbid",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "thinking",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "think",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-Ni4DTAu_IiLfGkS",
+  "text" : "L'm thinking thin.",
+  "translations" : {
+    "russian" : "Я собираюсь похудеть."
+  },
+  "tokens" : [ {
+    "token" : "l'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "thinking",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "think",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "thin",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

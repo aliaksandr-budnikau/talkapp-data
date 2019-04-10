@@ -26,4 +26,27 @@
     "position" : 3
   } ],
   "contentScore" : null
+}, {
+  "id" : "AWoFg9-PDTAu_IiLfg6y",
+  "text" : "Vandalism. Bicycle theft.",
+  "translations" : {
+    "russian" : "Вандализм. Угон велосипедов."
+  },
+  "tokens" : [ {
+    "token" : "vandalism",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "bicycle",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "theft",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
 } ]

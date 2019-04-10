@@ -1,104 +1,498 @@
 [ {
-  "id" : "AWbgeLn7NEXFMlzHK7gt",
-  "text" : "There's hiking, rock climbing, caving.",
+  "id" : "AWoDPgUcDTAu_IiLd9Or",
+  "text" : "I'm Austrian ! I'm a climber!",
   "translations" : {
-    "russian" : "Там походы, скалолазание, спуск в пещеры."
+    "russian" : "Я австриец, альпинист!"
   },
   "tokens" : [ {
-    "token" : "there",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "hike",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "rock",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "climb",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "caving",
-    "startOffset" : 31,
-    "endOffset" : 37,
-    "position" : 4
-  }, {
-    "token" : "cave",
-    "startOffset" : 31,
-    "endOffset" : 37,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbge--qNEXFMlzHK8Ob",
-  "text" : "Can you climb that trunk.",
-  "translations" : {
-    "russian" : "Сможешь подняться по стволу."
-  },
-  "tokens" : [ {
-    "token" : "can",
+    "token" : "i'm",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "you",
+    "token" : "austrian",
     "startOffset" : 4,
-    "endOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "climb",
-    "startOffset" : 8,
-    "endOffset" : 13,
+    "token" : "i'm",
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "that",
-    "startOffset" : 14,
-    "endOffset" : 18,
+    "token" : "a",
+    "startOffset" : 19,
+    "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "trunk",
-    "startOffset" : 19,
-    "endOffset" : 24,
+    "token" : "climber",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "climb",
+    "startOffset" : 21,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyq-kNEXFMlzHLVET",
-  "text" : "Request permission to climb another.",
+  "id" : "AWoEubQnDTAu_IiLe7nS",
+  "text" : "Climb pole!",
   "translations" : {
-    "russian" : "Запрашиваем разрешение на набор высоты."
+    "russian" : "Влезь на шест!"
   },
   "tokens" : [ {
-    "token" : "request",
+    "token" : "climb",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pole",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvk9kDTAu_IiLePxC",
+  "text" : "Grapple gloves, for climbing.",
+  "translations" : {
+    "russian" : "И рукавицы с крюками."
+  },
+  "tokens" : [ {
+    "token" : "grapple",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "permission",
+    "token" : "glove",
     "startOffset" : 8,
-    "endOffset" : 18,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "to",
-    "startOffset" : 19,
-    "endOffset" : 21,
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
     "position" : 2
   }, {
     "token" : "climb",
-    "startOffset" : 22,
-    "endOffset" : 27,
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcOqpDTAu_IiLeuDs",
+  "text" : "Climbing buildings, slugging people?",
+  "translations" : {
+    "russian" : "Лазишь по зданиям, бьешь людей?"
+  },
+  "tokens" : [ {
+    "token" : "climb",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "building",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "slugging",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "people",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHDjRDTAu_IiLeek5",
+  "text" : "I climbed Mount Everest.",
+  "translations" : {
+    "russian" : "Я покорил Эверест."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "climbed",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "climb",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "mount",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "everest",
+    "startOffset" : 16,
+    "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "another",
-    "startOffset" : 28,
+    "token" : "ever",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeZSJDTAu_IiLevp6",
+  "text" : "I climbed Mount Everest.",
+  "translations" : {
+    "russian" : "Я покорил Эверест."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "climbed",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "climb",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "mount",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "everest",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "ever",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMsxSDTAu_IiLei0d",
+  "text" : "I climbed Mount Everest.",
+  "translations" : {
+    "russian" : "Я покорил Эверест."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "climbed",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "climb",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "mount",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "everest",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "ever",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcFFQDTAu_IiLet9q",
+  "text" : "Climbing buildings, slugging people?",
+  "translations" : {
+    "russian" : "Лазишь по зданиям, бьешь людей?"
+  },
+  "tokens" : [ {
+    "token" : "climb",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "building",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "slugging",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "people",
+    "startOffset" : 29,
     "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvm0KDTAu_IiLePyI",
+  "text" : "Grapple gloves, for climbing.",
+  "translations" : {
+    "russian" : "И рукавицы с крюками."
+  },
+  "tokens" : [ {
+    "token" : "grapple",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "glove",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "climb",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcKz4DTAu_IiLeuBI",
+  "text" : "Climbing buildings, slugging people?",
+  "translations" : {
+    "russian" : "Лазишь по зданиям, бьешь людей?"
+  },
+  "tokens" : [ {
+    "token" : "climb",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "building",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "slugging",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "people",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRrZTDTAu_IiLfVjG",
+  "text" : "Camouflage climbing pegs.",
+  "translations" : {
+    "russian" : "Замаскированный скальный крюк."
+  },
+  "tokens" : [ {
+    "token" : "camouflage",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "climb",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "peg",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvkP4DTAu_IiLePwl",
+  "text" : "Grapple gloves, for climbing.",
+  "translations" : {
+    "russian" : "И рукавицы с крюками."
+  },
+  "tokens" : [ {
+    "token" : "grapple",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "glove",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "climb",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvn-CDTAu_IiLePy2",
+  "text" : "Grapple gloves, for climbing.",
+  "translations" : {
+    "russian" : "И рукавицы с крюками."
+  },
+  "tokens" : [ {
+    "token" : "grapple",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "glove",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "climb",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEubPYDTAu_IiLe7nR",
+  "text" : "Yeah, he can't climb poles.",
+  "translations" : {
+    "russian" : "Да, он не залезет на шест."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "he",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "can't",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "climb",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "pole",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFF2U4DTAu_IiLfMT9",
+  "text" : "She climbed down this trellis?",
+  "translations" : {
+    "russian" : "Она спустилась по этой решетке?"
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "climbed",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "climb",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "down",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "this",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "trellis",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzvPpDTAu_IiLeSD9",
+  "text" : "Moses, climb the mount alone.",
+  "translations" : {
+    "russian" : "Моисей, взойди на гору, один."
+  },
+  "tokens" : [ {
+    "token" : "mose",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "mos",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "climb",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "mount",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "alone",
+    "startOffset" : 23,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null

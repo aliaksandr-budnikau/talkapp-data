@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWoEh_XgDTAu_IiLeygq",
+  "text" : "Single chicken breast, please.",
+  "translations" : {
+    "russian" : "Одну куриную грудинку, пожалуйста."
+  },
+  "tokens" : [ {
+    "token" : "single",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "chicken",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "chick",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "breast",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "please",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkCAWDTAu_IiLe0IJ",
+  "text" : "Double-breasted or single, sir?",
+  "translations" : {
+    "russian" : "Двубортный или однобортный, сэр?"
+  },
+  "tokens" : [ {
+    "token" : "double",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "breast",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "or",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "single",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "sir",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

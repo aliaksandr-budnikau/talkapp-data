@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoE8cHQDTAu_IiLfFPu",
+  "text" : "Muffled conversation.",
+  "translations" : {
+    "russian" : "Приглушённый разговор."
+  },
+  "tokens" : [ {
+    "token" : "muffle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "conversation",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8cjNDTAu_IiLfFQB",
+  "text" : "Conversation muffled.",
+  "translations" : {
+    "russian" : "Разговор приглушен."
+  },
+  "tokens" : [ {
+    "token" : "conversation",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "muffle",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqkawNEXFMlzHLJxd",
   "text" : "You engineered that conversation.",
   "translations" : {
@@ -23,6 +59,85 @@
     "token" : "conversation",
     "startOffset" : 20,
     "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmH-3DTAu_IiLeKak",
+  "text" : "Bye, unending conversation!",
+  "translations" : {
+    "russian" : "Пока, нескончаемые разговоры!"
+  },
+  "tokens" : [ {
+    "token" : "bye",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "unending",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "conversation",
+    "startOffset" : 14,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmOg2DTAu_IiLeKeC",
+  "text" : "Bye, unending conversation!",
+  "translations" : {
+    "russian" : "Пока, нескончаемые разговоры!"
+  },
+  "tokens" : [ {
+    "token" : "bye",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "unending",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "conversation",
+    "startOffset" : 14,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqpqFDTAu_IiLeMzY",
+  "text" : "More conducive to conversation.",
+  "translations" : {
+    "russian" : "Более благоприятному для разговора."
+  },
+  "tokens" : [ {
+    "token" : "more",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "conducive",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "conduce",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "conversation",
+    "startOffset" : 18,
+    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null
@@ -57,6 +172,303 @@
     "startOffset" : 21,
     "endOffset" : 33,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDijgwDTAu_IiLeIcR",
+  "text" : "But idle conversation.",
+  "translations" : {
+    "russian" : "Пустой разговор."
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "idle",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "conversation",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7v6RDTAu_IiLfEyq",
+  "text" : "This is a fascinating conversation.",
+  "translations" : {
+    "russian" : "Какая увлекательная беседа."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "fascinating",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "fascinate",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "conversation",
+    "startOffset" : 22,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPbdoDTAu_IiLek1h",
+  "text" : "And intrude on adult conversations.",
+  "translations" : {
+    "russian" : "И нужно вмешиваться во взрослые разговоры."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "intrude",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "adult",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "conversation",
+    "startOffset" : 21,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUpwWDTAu_IiLeovX",
+  "text" : "I could flatten any conversation.",
+  "translations" : {
+    "russian" : "Я могу сравнять с землей любой разговор."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "could",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "flatten",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "any",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "conversation",
+    "startOffset" : 20,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6zGjDTAu_IiLeVUl",
+  "text" : "Yes, a very animated conversation.",
+  "translations" : {
+    "russian" : "Да, очень оживленный разговор."
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "very",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "animated",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "animate",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "conversation",
+    "startOffset" : 21,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPSFVDTAu_IiLekvD",
+  "text" : "And intrude on adult conversations.",
+  "translations" : {
+    "russian" : "И нужно вмешиваться во взрослые разговоры."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "intrude",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "adult",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "conversation",
+    "startOffset" : 21,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoElJyHDTAu_IiLe08m",
+  "text" : "I could flatten any conversation.",
+  "translations" : {
+    "russian" : "Я могу сравнять с землей любой разговор."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "could",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "flatten",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "any",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "conversation",
+    "startOffset" : 20,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPWxeDTAu_IiLekyH",
+  "text" : "And intrude on adult conversations.",
+  "translations" : {
+    "russian" : "И нужно вмешиваться во взрослые разговоры."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "intrude",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "adult",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "conversation",
+    "startOffset" : 21,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEU6rRDTAu_IiLeo82",
+  "text" : "I could flatten any conversation.",
+  "translations" : {
+    "russian" : "Я могу сравнять с землей любой разговор."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "could",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "flatten",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "any",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "conversation",
+    "startOffset" : 20,
+    "endOffset" : 32,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

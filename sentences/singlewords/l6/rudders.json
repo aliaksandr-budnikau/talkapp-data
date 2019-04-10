@@ -135,4 +135,42 @@
     "position" : 5
   } ],
   "contentScore" : null
+}, {
+  "id" : "AWoDtfF3DTAu_IiLeOev",
+  "text" : "Right full rudder all ahead flank.",
+  "translations" : {
+    "russian" : "Направо! Полный вперёд!"
+  },
+  "tokens" : [ {
+    "token" : "right",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "full",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "rudder",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "all",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "ahead",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "flank",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
 } ]

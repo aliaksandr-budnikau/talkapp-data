@@ -32,6 +32,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoENTomDTAu_IiLejSO",
+  "text" : "Nah, you're fully baked.",
+  "translations" : {
+    "russian" : "Нет, ты вполне готова."
+  },
+  "tokens" : [ {
+    "token" : "nah",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you're",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fully",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "baked",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "bake",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgk4X_NEXFMlzHLBis",
   "text" : "Baked brie and raspberry preserves.",
   "translations" : {
@@ -121,6 +154,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDtd8SDTAu_IiLeOd_",
+  "text" : "Baker, flank the side.",
+  "translations" : {
+    "russian" : "Бэйкер с фланга."
+  },
+  "tokens" : [ {
+    "token" : "baker",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bake",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "flank",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "side",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgndHNNEXFMlzHLFeh",
   "text" : "No, baking for real.",
   "translations" : {
@@ -174,6 +240,44 @@
     "startOffset" : 11,
     "endOffset" : 20,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqsdbDTAu_IiLe5Fb",
+  "text" : "Baker travels for his conventions.",
+  "translations" : {
+    "russian" : "Бэйкер бывает на съездах."
+  },
+  "tokens" : [ {
+    "token" : "baker",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bake",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "travel",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "his",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "conventions",
+    "startOffset" : 22,
+    "endOffset" : 33,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -277,6 +381,44 @@
     "token" : "cake",
     "startOffset" : 22,
     "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwfnKDTAu_IiLe9Gf",
+  "text" : "A baker...and a fiend.",
+  "translations" : {
+    "russian" : "Пекарь...и дьявол."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "baker",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "bake",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "fiend",
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 4
   } ],
   "contentScore" : null
@@ -391,44 +533,6 @@
     "token" : "anything",
     "startOffset" : 24,
     "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgndV2NEXFMlzHLFe8",
-  "text" : "I have some cakes to bake.",
-  "translations" : {
-    "russian" : "Я должна испечь несколько тортов."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "have",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "some",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "cake",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "to",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "bake",
-    "startOffset" : 21,
-    "endOffset" : 25,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,0 +1,85 @@
+[ {
+  "id" : "AWoDpCuGDTAu_IiLeL6o",
+  "text" : "You're batting for Henze.",
+  "translations" : {
+    "russian" : "Ты отбиваешь за Хенца."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "batting",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "henze",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDpCwaDTAu_IiLeL6p",
+  "text" : "Batting for Henze!",
+  "translations" : {
+    "russian" : "Отбиваешь за Хенца!"
+  },
+  "tokens" : [ {
+    "token" : "batting",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "henze",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLEyDDTAu_IiLfQfI",
+  "text" : "LRB- mimics guitar batting -RRB.",
+  "translations" : {
+    "russian" : "Подражает стуку по гитаре."
+  },
+  "tokens" : [ {
+    "token" : "lrb",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "mimic",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "guitar",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "batting",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "rrb",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

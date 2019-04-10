@@ -1,0 +1,57 @@
+[ {
+  "id" : "AWoFc9eSDTAu_IiLfeIp",
+  "text" : "Contusions, multiple lacerations.",
+  "translations" : {
+    "russian" : "Контузии, множественные разрывы тканей."
+  },
+  "tokens" : [ {
+    "token" : "contuse",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "multiple",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "lacerate",
+    "startOffset" : 21,
+    "endOffset" : 32,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1GaqDTAu_IiLfAag",
+  "text" : "Cortex appears to be lacerated.",
+  "translations" : {
+    "russian" : "Кора головного мозга повреждена."
+  },
+  "tokens" : [ {
+    "token" : "cortex",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "appear",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "lacerate",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

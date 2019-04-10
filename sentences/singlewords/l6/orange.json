@@ -1,4 +1,83 @@
 [ {
+  "id" : "AWoE0jkADTAu_IiLfACp",
+  "text" : "Orange beetle?",
+  "translations" : {
+    "russian" : "Оранжевый жук?"
+  },
+  "tokens" : [ {
+    "token" : "orange",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "beetle",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDxaODTAu_IiLfK1U",
+  "text" : "Where does Orange bounce?",
+  "translations" : {
+    "russian" : "Где скачет Оранский?"
+  },
+  "tokens" : [ {
+    "token" : "where",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "does",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "doe",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "orange",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "bounce",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdiq1DTAu_IiLfej4",
+  "text" : "Cognac in orange juice.",
+  "translations" : {
+    "russian" : "Коньяк с апельсиновым соком."
+  },
+  "tokens" : [ {
+    "token" : "cognac",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "orange",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "juice",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmls3NEXFMlzHLEJW",
   "text" : "It's an orange juicer.",
   "translations" : {
@@ -32,6 +111,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFdjvPDTAu_IiLfekp",
+  "text" : "Cognac in orange juice.",
+  "translations" : {
+    "russian" : "Коньяк с апельсиновым соком."
+  },
+  "tokens" : [ {
+    "token" : "cognac",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "orange",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "juice",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoqxNNEXFMlzHLHQs",
   "text" : "Orange, yellow, red, black.",
   "translations" : {
@@ -56,6 +163,80 @@
     "token" : "black",
     "startOffset" : 21,
     "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSm31DTAu_IiLd_TS",
+  "text" : "The orange Allegro?",
+  "translations" : {
+    "russian" : "Оранжевая Аллегро ?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "orange",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "allegro",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDUmoBDTAu_IiLeAm9",
+  "text" : "Pineapple certainly. Orange.",
+  "translations" : {
+    "russian" : "Ананас, конечно... апельсин."
+  },
+  "tokens" : [ {
+    "token" : "pineapple",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "certain",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "orange",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ9jVDTAu_IiLfU_d",
+  "text" : "California oranges, Texas cactus.",
+  "translations" : {
+    "russian" : "Калифорнийские апельсины, техасские кактусы."
+  },
+  "tokens" : [ {
+    "token" : "california",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "orange",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "texas",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "cactus",
+    "startOffset" : 26,
+    "endOffset" : 32,
     "position" : 3
   } ],
   "contentScore" : null
@@ -131,6 +312,148 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDxy9EDTAu_IiLeQ_N",
+  "text" : "Yeah, the orange, fermented liqueur?",
+  "translations" : {
+    "russian" : "Оранжевый, забродивший ликёр?"
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "orange",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "fermented",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "liqueur",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE44cuDTAu_IiLfC8X",
+  "text" : "Same with tan, orange, yellow.",
+  "translations" : {
+    "russian" : "То же самое с коричневым, оранжевым, желтым."
+  },
+  "tokens" : [ {
+    "token" : "same",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "tan",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "orange",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "yellow",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhuyvDTAu_IiLeyRl",
+  "text" : "An orange blossom in her bosom.",
+  "translations" : {
+    "russian" : "Оранжевый цветок на грудь."
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "orange",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "blossom",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "her",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "bosom",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFews_DTAu_IiLffb5",
+  "text" : "You think oranges are poop pellets?",
+  "translations" : {
+    "russian" : "Ты думаешь, апельсины - это кусочки дерьма?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "think",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "orange",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "poop",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "pellet",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu2L-NEXFMlzHLP5n",
   "text" : "One jumbo orange, hold the ice.",
   "translations" : {
@@ -163,82 +486,6 @@
     "position" : 4
   }, {
     "token" : "ice",
-    "startOffset" : 27,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnPtkNEXFMlzHLFIm",
-  "text" : "Time to peel that orange, Chapman.",
-  "translations" : {
-    "russian" : "Пора снять оранжевую кожуру, Чапмэн."
-  },
-  "tokens" : [ {
-    "token" : "time",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "peel",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "that",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "orange",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "chapman",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu4AnNEXFMlzHLP9J",
-  "text" : "It hasn't jumped to orange yet.",
-  "translations" : {
-    "russian" : "Он пока не подскочил до оранжевого."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "hasn't",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "jump",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "orange",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "yet",
     "startOffset" : 27,
     "endOffset" : 30,
     "position" : 5

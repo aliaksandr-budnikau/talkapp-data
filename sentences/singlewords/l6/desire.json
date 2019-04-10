@@ -1,34 +1,434 @@
 [ {
-  "id" : "AWbgtCRnNEXFMlzHLNPn",
-  "text" : "Now, state your desire, owl.",
+  "id" : "AWoEyJlPDTAu_IiLe-V9",
+  "text" : "Whatever you desire!",
   "translations" : {
-    "russian" : "А теперь изложи свое желание."
+    "russian" : "Всё, что пожелаете."
   },
   "tokens" : [ {
-    "token" : "now",
+    "token" : "whatever",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "desire",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyOSaDTAu_IiLe-ZZ",
+  "text" : "Need or desire?",
+  "translations" : {
+    "russian" : "Думаешь или очень хочешь?"
+  },
+  "tokens" : [ {
+    "token" : "need",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "or",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "desire",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyQFrDTAu_IiLe-aq",
+  "text" : "What do you desire?",
+  "translations" : {
+    "russian" : "ТЫ ЧТО ПОЖЕЛАЕШЬ? ЧТОБ У НАС ТУТ БЫЛО НАСТОЯЩЕЕ САФАРИ."
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "do",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "desire",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyP3CDTAu_IiLe-af",
+  "text" : "Whatever you desire.",
+  "translations" : {
+    "russian" : "Всё, что пожелаете."
+  },
+  "tokens" : [ {
+    "token" : "whatever",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "desire",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyQ4uDTAu_IiLe-bM",
+  "text" : "A desire for death.",
+  "translations" : {
+    "russian" : "Стремление к смерти."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "desire",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "death",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyVewDTAu_IiLe-et",
+  "text" : "And I desire him!",
+  "translations" : {
+    "russian" : "И я желаю его!"
+  },
+  "tokens" : [ {
+    "token" : "and",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "state",
-    "startOffset" : 5,
+    "token" : "i",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "desire",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "him",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyV_RDTAu_IiLe-fD",
+  "text" : "Almost too late... desire.",
+  "translations" : {
+    "russian" : "Почти поздно. Страсть."
+  },
+  "tokens" : [ {
+    "token" : "almost",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "too",
+    "startOffset" : 7,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "your",
+    "token" : "late",
     "startOffset" : 11,
     "endOffset" : 15,
     "position" : 2
   }, {
     "token" : "desire",
-    "startOffset" : 16,
-    "endOffset" : 22,
+    "startOffset" : 19,
+    "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE20aYDTAu_IiLfBlP",
+  "text" : "Hatred, desire, envy, pity.",
+  "translations" : {
+    "russian" : "Ненависть, желание, зависть, жалость."
+  },
+  "tokens" : [ {
+    "token" : "hatred",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
   }, {
-    "token" : "owl",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
+    "token" : "desire",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "envy",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "pity",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFASEeDTAu_IiLfIPg",
+  "text" : "Hatred, desire, envy, pity.",
+  "translations" : {
+    "russian" : "Ненависть, желание, зависть, жалость."
+  },
+  "tokens" : [ {
+    "token" : "hatred",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "desire",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "envy",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "pity",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtTCCDTAu_IiLe62M",
+  "text" : "Then we attain desire.",
+  "translations" : {
+    "russian" : "Затем мы достигаем желания."
+  },
+  "tokens" : [ {
+    "token" : "th",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "we",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "attain",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "desire",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtVmqDTAu_IiLe631",
+  "text" : "Then we attain desire.",
+  "translations" : {
+    "russian" : "Затем мы достигаем желания."
+  },
+  "tokens" : [ {
+    "token" : "th",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "we",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "attain",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "desire",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyIrCDTAu_IiLe-VN",
+  "text" : "I desire you.",
+  "translations" : {
+    "russian" : "Я желаю, чтобы вы."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "desire",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyKjGDTAu_IiLe-Wr",
+  "text" : "A desire for death.",
+  "translations" : {
+    "russian" : "Стремление к смерти."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "desire",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "death",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyKxADTAu_IiLe-W1",
+  "text" : "Desire, devotion and discipline.",
+  "translations" : {
+    "russian" : "Стремления, воля и дисциплина."
+  },
+  "tokens" : [ {
+    "token" : "desire",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "devotion",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "devote",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "discipline",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyNLGDTAu_IiLe-Yk",
+  "text" : "Longing and desire....",
+  "translations" : {
+    "russian" : "Тоска и желание...."
+  },
+  "tokens" : [ {
+    "token" : "longing",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "long",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "desire",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyOOBDTAu_IiLe-ZV",
+  "text" : "Well, if you desire.",
+  "translations" : {
+    "russian" : "Хорошо, если ты хочешь."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "if",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "desire",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

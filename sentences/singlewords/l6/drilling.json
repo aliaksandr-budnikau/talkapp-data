@@ -70,6 +70,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFTjltDTAu_IiLfW8p",
+  "text" : "You're drilling a burr hole?",
+  "translations" : {
+    "russian" : "Будешь сверлить?"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "drilling",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "drill",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "burr",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "hole",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkbo_NEXFMlzHLA_-",
   "text" : "I know the drill.",
   "translations" : {
@@ -126,6 +164,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEO2MuDTAu_IiLekbN",
+  "text" : "I'm inserting the drill.",
+  "translations" : {
+    "russian" : "Ввожу дрель."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "insert",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "drill",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkazyNEXFMlzHLA_D",
   "text" : "One... two... three... drill.",
   "translations" : {
@@ -150,6 +216,62 @@
     "token" : "drill",
     "startOffset" : 23,
     "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOr6vDTAu_IiLekTq",
+  "text" : "I'm inserting the drill.",
+  "translations" : {
+    "russian" : "Ввожу дрель."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "insert",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "drill",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOyTnDTAu_IiLekYc",
+  "text" : "I'm inserting the drill.",
+  "translations" : {
+    "russian" : "Ввожу дрель."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "insert",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "drill",
+    "startOffset" : 18,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
@@ -216,6 +338,44 @@
     "token" : "right",
     "startOffset" : 23,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEciDhDTAu_IiLeuQu",
+  "text" : "Drill depth on fourth bore?",
+  "translations" : {
+    "russian" : "Глубины бурения на четвертой скважене?"
+  },
+  "tokens" : [ {
+    "token" : "drill",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "depth",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "fourth",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "four",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "bore",
+    "startOffset" : 22,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null
@@ -334,230 +494,40 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkbFHNEXFMlzHLA_Y",
-  "text" : "Get a drill and a tap.",
+  "id" : "AWoE9BZHDTAu_IiLfFos",
+  "text" : "And now we'll have camouflage drill.",
   "translations" : {
-    "russian" : "Получить сверло и кран."
+    "russian" : "А сейчас - упражнения по маскировке."
   },
   "tokens" : [ {
-    "token" : "get",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 4,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "drill",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
     "token" : "and",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 16,
-    "endOffset" : 17,
-    "position" : 4
-  }, {
-    "token" : "tap",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgka54NEXFMlzHLA_L",
-  "text" : "I'm gonna have to drill it.",
-  "translations" : {
-    "russian" : "Мне придется его сверлить."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "gonna",
+    "token" : "now",
     "startOffset" : 4,
-    "endOffset" : 9,
+    "endOffset" : 7,
     "position" : 1
+  }, {
+    "token" : "we'll",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
   }, {
     "token" : "have",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "drill",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "it",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkbQWNEXFMlzHLA_h",
-  "text" : "Think I'm gonna buy this drill.",
-  "translations" : {
-    "russian" : "Думаю, мне стоит купить это сверло."
-  },
-  "tokens" : [ {
-    "token" : "think",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "i'm",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "gonna",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "buy",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "this",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "drill",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkawINEXFMlzHLA-_",
-  "text" : "You're gonna drill into my skull?",
-  "translations" : {
-    "russian" : "Вы собираетесь сверлить мой череп?"
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "gonna",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "drill",
-    "startOffset" : 13,
+    "startOffset" : 14,
     "endOffset" : 18,
-    "position" : 2
+    "position" : 3
   }, {
-    "token" : "into",
+    "token" : "camouflage",
     "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "my",
-    "startOffset" : 24,
-    "endOffset" : 26,
+    "endOffset" : 29,
     "position" : 4
-  }, {
-    "token" : "skull",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkbmzNEXFMlzHLA_8",
-  "text" : "This is not a drill, soldier.",
-  "translations" : {
-    "russian" : "Это не тренировка, солдат."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "not",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 3
   }, {
     "token" : "drill",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "soldier",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkbKuNEXFMlzHLA_b",
-  "text" : "Put the drill in the hole.",
-  "translations" : {
-    "russian" : "Вставь сверло в отверстие."
-  },
-  "tokens" : [ {
-    "token" : "put",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "drill",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "hole",
-    "startOffset" : 21,
-    "endOffset" : 25,
+    "startOffset" : 30,
+    "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFWMSuDTAu_IiLfYxu",
+  "text" : "No clerks, no storekeepers.",
+  "translations" : {
+    "russian" : "Никаких клерков или владельцев магазинов."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "clerk",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "storekeep",
+    "startOffset" : 14,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgusi1NEXFMlzHLPnG",
   "text" : "I clerk for justice Garza.",
   "translations" : {
@@ -28,6 +56,39 @@
     "token" : "garza",
     "startOffset" : 20,
     "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmUt9DTAu_IiLeKhW",
+  "text" : "Uh, yes, the kiosk clerk.",
+  "translations" : {
+    "russian" : "Так, тот продавец из киоска."
+  },
+  "tokens" : [ {
+    "token" : "uh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "yes",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "kiosk",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "clerk",
+    "startOffset" : 19,
+    "endOffset" : 24,
     "position" : 4
   } ],
   "contentScore" : null
@@ -104,6 +165,82 @@
     "token" : "clerk",
     "startOffset" : 29,
     "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEj4KBDTAu_IiLe0BP",
+  "text" : "10,000 waiters, maids, bellhops, janitors, clerks.",
+  "translations" : {
+    "russian" : "10 тыс. официантов, горничных, носильщиков, привратников, клерков."
+  },
+  "tokens" : [ {
+    "token" : "10,000",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wait",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "maid",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "bellhop",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "janitor",
+    "startOffset" : 33,
+    "endOffset" : 41,
+    "position" : 4
+  }, {
+    "token" : "clerk",
+    "startOffset" : 43,
+    "endOffset" : 49,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWWEbDTAu_IiLfY4c",
+  "text" : "The clerk lay down beside me.",
+  "translations" : {
+    "russian" : "Он лёг возле меня."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "clerk",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "lay",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "down",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "beside",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "me",
+    "startOffset" : 26,
+    "endOffset" : 28,
     "position" : 5
   } ],
   "contentScore" : null

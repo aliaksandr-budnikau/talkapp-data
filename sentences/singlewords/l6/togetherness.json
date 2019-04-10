@@ -1,17 +1,83 @@
 [ {
-  "id" : "AWbgzGVJNEXFMlzHLVwv",
-  "text" : "We'll dine together.",
+  "id" : "AWoFWTaODTAu_IiLfY2l",
+  "text" : "Watch together, lie together.",
   "translations" : {
-    "russian" : "Поедем ужинать."
+    "russian" : "Вместе смотреть, вместе обманывать."
   },
   "tokens" : [ {
-    "token" : "we'll",
+    "token" : "watch",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "dine",
+    "token" : "together",
     "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "lie",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "together",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEADJ_DTAu_IiLeZNB",
+  "text" : "We heave together, we ho together.",
+  "translations" : {
+    "russian" : "Вместе тянем тросы."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "heave",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "together",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "we",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "ho",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "together",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXPlaDTAu_IiLfZh8",
+  "text" : "We breathe together we climax together.",
+  "translations" : {
+    "russian" : "Мы дышим вместе и кончаем вместе."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "breathe",
+    "startOffset" : 3,
     "endOffset" : 10,
     "position" : 1
   }, {
@@ -19,6 +85,21 @@
     "startOffset" : 11,
     "endOffset" : 19,
     "position" : 2
+  }, {
+    "token" : "we",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "climax",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "together",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -46,6 +127,113 @@
     "token" : "tomorrow",
     "startOffset" : 20,
     "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgzGVJNEXFMlzHLVwv",
+  "text" : "We'll dine together.",
+  "translations" : {
+    "russian" : "Поедем ужинать."
+  },
+  "tokens" : [ {
+    "token" : "we'll",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "dine",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "together",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdNPwDTAu_IiLfeUS",
+  "text" : "We won comptroller together.",
+  "translations" : {
+    "russian" : "Ты была рядом, когда я стал инспектором."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "won",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "comptroller",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "together",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFd9a7DTAu_IiLfe2t",
+  "text" : "We shovel snow together?",
+  "translations" : {
+    "russian" : "Снег принято убирать сообща?"
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "shovel",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "snow",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "together",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeAMdDTAu_IiLfe4r",
+  "text" : "We shovel snow together?",
+  "translations" : {
+    "russian" : "Снег принято убирать сообща?"
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "shovel",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "snow",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "together",
+    "startOffset" : 15,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
@@ -78,10 +266,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzHQ8NEXFMlzHLVyv",
-  "text" : "Let's dine together.",
+  "id" : "AWoD8uBRDTAu_IiLeWrn",
+  "text" : "Let's shriek together.",
   "translations" : {
-    "russian" : "Здравствуйте. Вот и хорошо, вместе пообедаем."
+    "russian" : "Вместе визжите!"
   },
   "tokens" : [ {
     "token" : "let",
@@ -89,415 +277,73 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "dine",
+    "token" : "shriek",
     "startOffset" : 6,
-    "endOffset" : 10,
+    "endOffset" : 12,
     "position" : 1
   }, {
     "token" : "together",
-    "startOffset" : 11,
-    "endOffset" : 19,
+    "startOffset" : 13,
+    "endOffset" : 21,
     "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgf1NDNEXFMlzHK87_",
-  "text" : "They wrote grant proposals together.",
+  "id" : "AWoEDVQWDTAu_IiLebwM",
+  "text" : "Heave together now!",
   "translations" : {
-    "russian" : "Они писали заявки на гранты вместе."
+    "russian" : "Поднимаем!"
   },
   "tokens" : [ {
-    "token" : "they",
+    "token" : "heave",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "together",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "now",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExYINDTAu_IiLe9xe",
+  "text" : "Frog and Toad together.",
+  "translations" : {
+    "russian" : "Квак и Жаб круглый год."
+  },
+  "tokens" : [ {
+    "token" : "frog",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "wrote",
+    "token" : "and",
     "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "grant",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "proposal",
-    "startOffset" : 17,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "together",
-    "startOffset" : 27,
-    "endOffset" : 35,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk_BoNEXFMlzHLBuV",
-  "text" : "Get your act together, Brown.",
-  "translations" : {
-    "russian" : "Начните работать серьёзно, Браун."
-  },
-  "tokens" : [ {
-    "token" : "get",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "act",
+    "token" : "toad",
     "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "together",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "brown",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsvQ0NEXFMlzHLM1b",
-  "text" : "Seymour, we don't work together.",
-  "translations" : {
-    "russian" : "Сеймур, мы не работаем в паре."
-  },
-  "tokens" : [ {
-    "token" : "seymour",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "we",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "don't",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "work",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "together",
-    "startOffset" : 23,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvmC3NEXFMlzHLRPq",
-  "text" : "But we're holding it together.",
-  "translations" : {
-    "russian" : "Но вместе мы всё выдержим."
-  },
-  "tokens" : [ {
-    "token" : "but",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "we're",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "holding",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "hold",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "it",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "together",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxclINEXFMlzHLTPs",
-  "text" : "They took the drugs together.",
-  "translations" : {
-    "russian" : "Они вместе приняли наркотик."
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "took",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "drug",
+    "token" : "together",
     "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "together",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbge5KSNEXFMlzHK8Jq",
-  "text" : "Traveling together will increase efficiency.",
-  "translations" : {
-    "russian" : "Передвигаясь вместе, мы повышаем эффективность работы."
-  },
-  "tokens" : [ {
-    "token" : "travel",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "together",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "will",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "increase",
-    "startOffset" : 24,
-    "endOffset" : 32,
-    "position" : 3
-  }, {
-    "token" : "crease",
-    "startOffset" : 24,
-    "endOffset" : 32,
-    "position" : 3
-  }, {
-    "token" : "efficiency",
-    "startOffset" : 33,
-    "endOffset" : 43,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkw4-NEXFMlzHLBYJ",
-  "text" : "We reserved our seats together.",
-  "translations" : {
-    "russian" : "Мы же зарезервировали места рядом друг с другом."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "reserved",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "serve",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "seat",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "together",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgseLfNEXFMlzHLMfU",
-  "text" : "I'm putting together a fundraiser.",
-  "translations" : {
-    "russian" : "Я занимаюсь сбором пожертвований."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "putting",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "putt",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "together",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 21,
     "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "fundraiser",
-    "startOffset" : 23,
-    "endOffset" : 33,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvXDMNEXFMlzHLQv-",
-  "text" : "He's called his generals together.",
+  "id" : "AWoFgP10DTAu_IiLfgeI",
+  "text" : "We're nomads together.",
   "translations" : {
-    "russian" : "Он созвал к себе всех генералов."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "called",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "call",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "his",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "general",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "together",
-    "startOffset" : 25,
-    "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggIB5NEXFMlzHK9Mp",
-  "text" : "They took the drugs together.",
-  "translations" : {
-    "russian" : "Они вместе приняли наркотик."
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "took",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "drug",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "together",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkaruNEXFMlzHLA-7",
-  "text" : "The one that we drill together!",
-  "translations" : {
-    "russian" : "И мы будем бурить её вместе!"
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "one",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "we",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "drill",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "together",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoYwpNEXFMlzHLG1n",
-  "text" : "We're still piecing that together, so...",
-  "translations" : {
-    "russian" : "Мы всё ещё собираем общую картину..."
+    "russian" : "Мы бродяги."
   },
   "tokens" : [ {
     "token" : "we're",
@@ -505,30 +351,89 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "still",
+    "token" : "nomad",
     "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "together",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-4QzDTAu_IiLeYTu",
+  "text" : "To eternity together.",
+  "translations" : {
+    "russian" : "Вместе в бесконечности."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "eternity",
+    "startOffset" : 3,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "piece",
+    "token" : "together",
     "startOffset" : 12,
-    "endOffset" : 19,
+    "endOffset" : 20,
     "position" : 2
-  }, {
-    "token" : "that",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDTnzDTAu_IiLebu2",
+  "text" : "Heave together now!",
+  "translations" : {
+    "russian" : "Поднимаем!"
+  },
+  "tokens" : [ {
+    "token" : "heave",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
     "token" : "together",
-    "startOffset" : 25,
-    "endOffset" : 33,
-    "position" : 4
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
   }, {
-    "token" : "so",
-    "startOffset" : 35,
-    "endOffset" : 37,
-    "position" : 5
+    "token" : "now",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfCl3DTAu_IiLewJP",
+  "text" : "Together that we prevail !",
+  "translations" : {
+    "russian" : "И вместе мы одержим победу!"
+  },
+  "tokens" : [ {
+    "token" : "together",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "we",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "prevail",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

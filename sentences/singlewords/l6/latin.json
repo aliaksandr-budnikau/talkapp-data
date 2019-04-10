@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoEaCt2DTAu_IiLesnC",
+  "text" : "Latin, geography...",
+  "translations" : {
+    "russian" : "Латинский, география..."
+  },
+  "tokens" : [ {
+    "token" : "latin",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "geography",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-DKDTAu_IiLfU_1",
+  "text" : "That's a Latin pun.",
+  "translations" : {
+    "russian" : "Это латинский каламбур."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "latin",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "pun",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcp2LNEXFMlzHK6NX",
   "text" : "My Latin quarter hat.",
   "translations" : {
@@ -28,6 +74,34 @@
     "token" : "hat",
     "startOffset" : 17,
     "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFOXuxDTAu_IiLfS8P",
+  "text" : "I flunked Latin too.",
+  "translations" : {
+    "russian" : "Латынь я тоже провалил."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "flunk",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "latin",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "too",
+    "startOffset" : 16,
+    "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null
@@ -65,6 +139,120 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD55VZDTAu_IiLeU7J",
+  "text" : "You entrusted the Latin to me.",
+  "translations" : {
+    "russian" : "Вы доверили латина мне."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "entrust",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "latin",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "me",
+    "startOffset" : 27,
+    "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaCcQDTAu_IiLesm3",
+  "text" : "Italian. Latin. History, geography, other things.",
+  "translations" : {
+    "russian" : "Итальянскому, латинскому, истории, географии и прочему."
+  },
+  "tokens" : [ {
+    "token" : "italian",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "latin",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "history",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "geography",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "other",
+    "startOffset" : 36,
+    "endOffset" : 41,
+    "position" : 4
+  }, {
+    "token" : "th",
+    "startOffset" : 42,
+    "endOffset" : 48,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZ3eKDTAu_IiLesfL",
+  "text" : "Latin hexameters in under three minutes.",
+  "translations" : {
+    "russian" : "Латинские гекзаметры, меньше чем за три минуты."
+  },
+  "tokens" : [ {
+    "token" : "latin",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "hexameter",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "under",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "three",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "minute",
+    "startOffset" : 32,
+    "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsp6ONEXFMlzHLMux",
   "text" : "How goes the Latin's construction project?",
   "translations" : {
@@ -99,6 +287,44 @@
     "token" : "project",
     "startOffset" : 34,
     "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFKnpDTAu_IiLfLzk",
+  "text" : "Our school's insignia is in Latin.",
+  "translations" : {
+    "russian" : "Эмблема нашего колледжа на латыни."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "school",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "insignia",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "in",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "latin",
+    "startOffset" : 28,
+    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null

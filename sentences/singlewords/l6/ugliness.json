@@ -1,38 +1,488 @@
 [ {
-  "id" : "AWbga0xlNEXFMlzHK4kY",
-  "text" : "It can not be so ugly?",
+  "id" : "AWoEd-3-DTAu_IiLevVO",
+  "text" : "My ugliness, my sorrow.",
   "translations" : {
-    "russian" : "Неужели оно столь безобразно?"
+    "russian" : "Мое горе!"
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "my",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "can",
+    "token" : "ugliness",
     "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "ugly",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "sorrow",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6gInDTAu_IiLfEAQ",
+  "text" : "Ugly concubines.",
+  "translations" : {
+    "russian" : "Уродливые наложницы."
+  },
+  "tokens" : [ {
+    "token" : "ugly",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "concubine",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTZR9DTAu_IiLfW1I",
+  "text" : "Go away, ugly dwarf!",
+  "translations" : {
+    "russian" : "Пошел отсюда, гадкий карлик!"
+  },
+  "tokens" : [ {
+    "token" : "go",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "away",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "ugly",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "dwarf",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFiTWVDTAu_IiLfht8",
+  "text" : "Ugly peasant bastard!",
+  "translations" : {
+    "russian" : "Ах ты уродливый крестьянский ублюдок!"
+  },
+  "tokens" : [ {
+    "token" : "ugly",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "peasant",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "bastard",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDk2veDTAu_IiLeJuT",
+  "text" : "COMPLETE DISREGARD, MONSTRISITIES UGLY.",
+  "translations" : {
+    "russian" : "Полное неуважение Безобразие."
+  },
+  "tokens" : [ {
+    "token" : "complete",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "regard",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "monstrisities",
+    "startOffset" : 20,
+    "endOffset" : 33,
+    "position" : 2
+  }, {
+    "token" : "ugly",
+    "startOffset" : 34,
+    "endOffset" : 38,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFzpIDTAu_IiLfMR9",
+  "text" : "COMPLETE DISREGARD, MONSTRISITIES UGLY.",
+  "translations" : {
+    "russian" : "Полное неуважение Безобразие."
+  },
+  "tokens" : [ {
+    "token" : "complete",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "regard",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "monstrisities",
+    "startOffset" : 20,
+    "endOffset" : 33,
+    "position" : 2
+  }, {
+    "token" : "ugly",
+    "startOffset" : 34,
+    "endOffset" : 38,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFwOQDTAu_IiLfMPV",
+  "text" : "COMPLETE DISREGARD, MONSTRISITIES UGLY.",
+  "translations" : {
+    "russian" : "Полное неуважение Безобразие."
+  },
+  "tokens" : [ {
+    "token" : "complete",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "regard",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "monstrisities",
+    "startOffset" : 20,
+    "endOffset" : 33,
+    "position" : 2
+  }, {
+    "token" : "ugly",
+    "startOffset" : 34,
+    "endOffset" : 38,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTXBlDTAu_IiLfWzg",
+  "text" : "Go away, ugly dwarf!",
+  "translations" : {
+    "russian" : "Пошел отсюда, гадкий карлик!"
+  },
+  "tokens" : [ {
+    "token" : "go",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "away",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "ugly",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "dwarf",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDb22FDTAu_IiLeEpA",
+  "text" : "I'm an ugly old hag.",
+  "translations" : {
+    "russian" : "Я уродливая старая карга."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 4,
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "not",
+    "token" : "ugly",
     "startOffset" : 7,
-    "endOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "old",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "hag",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwuNIDTAu_IiLeQcU",
+  "text" : "Custody disputes can be ugly.",
+  "translations" : {
+    "russian" : "Споры об опеке могут быть неприглядны."
+  },
+  "tokens" : [ {
+    "token" : "custody",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "dispute",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "can",
+    "startOffset" : 17,
+    "endOffset" : 20,
     "position" : 2
   }, {
     "token" : "be",
-    "startOffset" : 11,
-    "endOffset" : 13,
+    "startOffset" : 21,
+    "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "so",
-    "startOffset" : 14,
-    "endOffset" : 16,
+    "token" : "ugly",
+    "startOffset" : 24,
+    "endOffset" : 28,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEy1SSDTAu_IiLe-1u",
+  "text" : "This Bluebeard is so ugly.",
+  "translations" : {
+    "russian" : "Этот Синяя Борода такой отвратительный."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bluebeard",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "so",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
   }, {
     "token" : "ugly",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdZYqDTAu_IiLfedI",
+  "text" : "Everywhere there are ugly confrontations...",
+  "translations" : {
+    "russian" : "Повсюду жестокие столкновения."
+  },
+  "tokens" : [ {
+    "token" : "everywhere",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "there",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "are",
     "startOffset" : 17,
-    "endOffset" : 21,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "ugly",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "confrontation",
+    "startOffset" : 26,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwu0tDTAu_IiLe9Sd",
+  "text" : "Shut your ugly mug, huntsman.",
+  "translations" : {
+    "russian" : "Заткни свою мерзкую пасть, охотник."
+  },
+  "tokens" : [ {
+    "token" : "shut",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "ugly",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "mug",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "huntsman",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAufGDTAu_IiLfIle",
+  "text" : "Spotted... one ugly duckling exiled.",
+  "translations" : {
+    "russian" : "Замечено... Один гадкий утенок сослан."
+  },
+  "tokens" : [ {
+    "token" : "spotted",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "one",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "ugly",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "duckling",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "exile",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjsJ5DTAu_IiLeJFL",
+  "text" : "Man, what a hideous, ugly place.",
+  "translations" : {
+    "russian" : "Чувак, какое страшное уродливое место."
+  },
+  "tokens" : [ {
+    "token" : "man",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "what",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "hideous",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "ugly",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "place",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDpwmnDTAu_IiLeMTF",
+  "text" : "All told, quite an ugly tale.",
+  "translations" : {
+    "russian" : "В общем, очень скверная история."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "told",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "quite",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "an",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "ugly",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "tale",
+    "startOffset" : 24,
+    "endOffset" : 28,
     "position" : 5
   } ],
   "contentScore" : null

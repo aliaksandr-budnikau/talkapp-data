@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEJ501DTAu_IiLegmG",
+  "text" : "Volt meter just spiked.",
+  "translations" : {
+    "russian" : "Вольтметр только что подал сигнал."
+  },
+  "tokens" : [ {
+    "token" : "volt",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "meter",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "mete",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "just",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "spike",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxAK5NEXFMlzHLSwC",
   "text" : "His flying distance is... 135 meters!",
   "translations" : {
@@ -71,6 +104,82 @@
     "token" : "peseta",
     "startOffset" : 27,
     "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEclTfDTAu_IiLeuSz",
+  "text" : "Set torpedo depth at 5 meters.",
+  "translations" : {
+    "russian" : "Скорость прежняя, торпеды на пять метров."
+  },
+  "tokens" : [ {
+    "token" : "set",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "torpedo",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "depth",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "at",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "5",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "mete",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpWY3DTAu_IiLe4HA",
+  "text" : "Approximately five meters in length, sir.",
+  "translations" : {
+    "russian" : "Около 5 метров в длину, сэр."
+  },
+  "tokens" : [ {
+    "token" : "approximate",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "five",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "mete",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "length",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "sir",
+    "startOffset" : 37,
+    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null

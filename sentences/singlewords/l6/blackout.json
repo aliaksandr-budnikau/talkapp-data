@@ -135,4 +135,42 @@
     "position" : 5
   } ],
   "contentScore" : null
+}, {
+  "id" : "AWoDm2SMDTAu_IiLeK0D",
+  "text" : "Blackouts, electrical disturbances, things like that?",
+  "translations" : {
+    "russian" : "Отключение, электрические нарушения, что-то, вроде этого?"
+  },
+  "tokens" : [ {
+    "token" : "blackout",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "electrical",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "disturbance",
+    "startOffset" : 22,
+    "endOffset" : 34,
+    "position" : 2
+  }, {
+    "token" : "th",
+    "startOffset" : 36,
+    "endOffset" : 42,
+    "position" : 3
+  }, {
+    "token" : "like",
+    "startOffset" : 43,
+    "endOffset" : 47,
+    "position" : 4
+  }, {
+    "token" : "that",
+    "startOffset" : 48,
+    "endOffset" : 52,
+    "position" : 5
+  } ],
+  "contentScore" : null
 } ]

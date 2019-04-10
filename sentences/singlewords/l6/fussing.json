@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDm8vGDTAu_IiLeK3i",
+  "text" : "No fuss, no muss...",
+  "translations" : {
+    "russian" : "Никакой суеты, беспорядка..."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "fuss",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "muss",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgazaXNEXFMlzHK4jH",
   "text" : "I'm fine, he just fusses.",
   "translations" : {
@@ -62,6 +90,82 @@
     "startOffset" : 24,
     "endOffset" : 28,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKIlPDTAu_IiLegxP",
+  "text" : "Stop your fussing, Fancy. I'm fine.",
+  "translations" : {
+    "russian" : "Перестань суетиться, Фэнси."
+  },
+  "tokens" : [ {
+    "token" : "stop",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "fuss",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "fancy",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "i'm",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "fine",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFFMSDTAu_IiLfLvo",
+  "text" : "Stop your fussing, Fancy. I'm fine.",
+  "translations" : {
+    "russian" : "Перестань суетиться, Фэнси."
+  },
+  "tokens" : [ {
+    "token" : "stop",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "fuss",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "fancy",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "i'm",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "fine",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,96 @@
 [ {
+  "id" : "AWoDpXDkDTAu_IiLeMFW",
+  "text" : "Pull, Dancer. Pull, Dasher.",
+  "translations" : {
+    "russian" : "Выше, давайте выше, олени!"
+  },
+  "tokens" : [ {
+    "token" : "pull",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "dancer",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "dance",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "pull",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "dasher",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "dash",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDUwXDTAu_IiLebvw",
+  "text" : "Pull. Heave.",
+  "translations" : {
+    "russian" : "Тяни."
+  },
+  "tokens" : [ {
+    "token" : "pull",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "heave",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDTEJDTAu_IiLebua",
+  "text" : "Pull. Heave.",
+  "translations" : {
+    "russian" : "Тяни."
+  },
+  "tokens" : [ {
+    "token" : "pull",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "heave",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyU-9DTAu_IiLeRR0",
+  "text" : "Pull. Heave.",
+  "translations" : {
+    "russian" : "Тяни."
+  },
+  "tokens" : [ {
+    "token" : "pull",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "heave",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgf2jPNEXFMlzHK89N",
   "text" : "Quinn's pulling them now.",
   "translations" : {
@@ -83,6 +175,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgyn3hNEXFMlzHLVBY",
+  "text" : "Guy's got some pull.",
+  "translations" : {
+    "russian" : "У этого парня есть рычаги влияния."
+  },
+  "tokens" : [ {
+    "token" : "guy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "some",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "pull",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyk94NEXFMlzHLU_B",
   "text" : "Quinn's pulling them now.",
   "translations" : {
@@ -139,30 +259,30 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyn3hNEXFMlzHLVBY",
-  "text" : "Guy's got some pull.",
+  "id" : "AWoE1d3cDTAu_IiLfAqr",
+  "text" : "Pull back the hammer.",
   "translations" : {
-    "russian" : "У этого парня есть рычаги влияния."
+    "russian" : "Взведи курок."
   },
   "tokens" : [ {
-    "token" : "guy",
+    "token" : "pull",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "got",
-    "startOffset" : 6,
+    "token" : "back",
+    "startOffset" : 5,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "some",
+    "token" : "the",
     "startOffset" : 10,
-    "endOffset" : 14,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "pull",
-    "startOffset" : 15,
-    "endOffset" : 19,
+    "token" : "hammer",
+    "startOffset" : 14,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
@@ -279,175 +399,30 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgf2DBNEXFMlzHK88w",
-  "text" : "Just squeeze and pull.",
+  "id" : "AWoD5cwwDTAu_IiLeUuI",
+  "text" : "The prank you pulled.",
   "translations" : {
-    "russian" : "Просто сожми и тяни."
+    "russian" : "Шутка, которую вы устроили."
   },
   "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "squeeze",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "pull",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmHbLNEXFMlzHLDVW",
-  "text" : "Pull over here, driver.",
-  "translations" : {
-    "russian" : "Паркуйся, шофёр."
-  },
-  "tokens" : [ {
-    "token" : "pull",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "over",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "here",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "driver",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "drive",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgykZqNEXFMlzHLU-c",
-  "text" : "We pull the hook.",
-  "translations" : {
-    "russian" : "Мы будем тянуть за крюк."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "pull",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
     "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "hook",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgf1gGNEXFMlzHK88R",
-  "text" : "Pull him out now.",
-  "translations" : {
-    "russian" : "Теперь вытаскивайте его от туда."
-  },
-  "tokens" : [ {
-    "token" : "pull",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "him",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "out",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "now",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgf2FdNEXFMlzHK88y",
-  "text" : "Seriously, pull harder, dude!",
-  "translations" : {
-    "russian" : "Тяни сильнее, чувак!"
-  },
-  "tokens" : [ {
-    "token" : "serious",
-    "startOffset" : 0,
+    "token" : "prank",
+    "startOffset" : 4,
     "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "pull",
-    "startOffset" : 11,
-    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "hard",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "dude",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgf4cKNEXFMlzHK8-4",
-  "text" : "I pulled some strings.",
-  "translations" : {
-    "russian" : "Я подергал за кое-какие ниточки."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "pull",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "some",
-    "startOffset" : 9,
+    "token" : "you",
+    "startOffset" : 10,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "string",
+    "token" : "pull",
     "startOffset" : 14,
-    "endOffset" : 21,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null

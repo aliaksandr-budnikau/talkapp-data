@@ -1,4 +1,117 @@
 [ {
+  "id" : "AWoDVsx7DTAu_IiLeBUB",
+  "text" : "Threat nullified.",
+  "translations" : {
+    "russian" : "Угроза аннулирована."
+  },
+  "tokens" : [ {
+    "token" : "threat",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "nullify",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9a00DTAu_IiLfF74",
+  "text" : "Threat perceived.",
+  "translations" : {
+    "russian" : "Угроза воспринята."
+  },
+  "tokens" : [ {
+    "token" : "threat",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "perceived",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "perceive",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVS__DTAu_IiLeBDc",
+  "text" : "Threat nullified.",
+  "translations" : {
+    "russian" : "Угроза аннулирована."
+  },
+  "tokens" : [ {
+    "token" : "threat",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "nullify",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3esMDTAu_IiLfCBa",
+  "text" : "Veiled threats.",
+  "translations" : {
+    "russian" : "Завуалированные угрозы."
+  },
+  "tokens" : [ {
+    "token" : "veil",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "threat",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPmujDTAu_IiLek90",
+  "text" : "Veiled threats.",
+  "translations" : {
+    "russian" : "Завуалированные угрозы."
+  },
+  "tokens" : [ {
+    "token" : "veil",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "threat",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVplpDTAu_IiLeBR9",
+  "text" : "Threat nullified.",
+  "translations" : {
+    "russian" : "Угроза аннулирована."
+  },
+  "tokens" : [ {
+    "token" : "threat",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "nullify",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeW_INEXFMlzHK7q5",
   "text" : "What about outside threats?",
   "translations" : {
@@ -24,6 +137,113 @@
     "startOffset" : 19,
     "endOffset" : 26,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDijvODTAu_IiLeIcc",
+  "text" : "Not an idle threat.",
+  "translations" : {
+    "russian" : "Не пустая угроза."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "idle",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "threat",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPoPfDTAu_IiLek-6",
+  "text" : "Probably a veiled threat.",
+  "translations" : {
+    "russian" : "Возможно, скрытая угроза."
+  },
+  "tokens" : [ {
+    "token" : "probably",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "veil",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "threat",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3et6DTAu_IiLfCBb",
+  "text" : "Those were veiled threats.",
+  "translations" : {
+    "russian" : "Это были завуалированные угрозы."
+  },
+  "tokens" : [ {
+    "token" : "those",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "were",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "veil",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "threat",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFOgj0DTAu_IiLfTC7",
+  "text" : "Any threat eradicated.",
+  "translations" : {
+    "russian" : "Все угрозы ликвидированы."
+  },
+  "tokens" : [ {
+    "token" : "any",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "threat",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "eradicate",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -126,36 +346,64 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglBqSNEXFMlzHLBzH",
-  "text" : "Albeit under threat of death.",
+  "id" : "AWoEPoDDDTAu_IiLek-x",
+  "text" : "Lies, secrets, veiled threats.",
   "translations" : {
-    "russian" : "Хотя и под угрозой смерти."
+    "russian" : "Ложь, секреты, скрытые угрозы."
   },
   "tokens" : [ {
-    "token" : "albeit",
+    "token" : "lies",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "under",
-    "startOffset" : 7,
-    "endOffset" : 12,
+    "token" : "lie",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "secret",
+    "startOffset" : 6,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "threat",
-    "startOffset" : 13,
-    "endOffset" : 19,
+    "token" : "veil",
+    "startOffset" : 15,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "of",
-    "startOffset" : 20,
-    "endOffset" : 22,
+    "token" : "threat",
+    "startOffset" : 22,
+    "endOffset" : 29,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3gdDDTAu_IiLfCCg",
+  "text" : "Probably a veiled threat.",
+  "translations" : {
+    "russian" : "Возможно, скрытая угроза."
+  },
+  "tokens" : [ {
+    "token" : "probably",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
   }, {
-    "token" : "death",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "veil",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "threat",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

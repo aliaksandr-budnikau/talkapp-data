@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoDgQbKDTAu_IiLeHHN",
+  "text" : "BRIE, PATE, FRENCH BREAD...",
+  "translations" : {
+    "russian" : "Бри, пате, французский хлеб..."
+  },
+  "tokens" : [ {
+    "token" : "brie",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "pate",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "french",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "bread",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXrkgDTAu_IiLfZ3z",
+  "text" : "Psych! It's gag bread!",
+  "translations" : {
+    "russian" : "Это хлеб для розыгрышей!"
+  },
+  "tokens" : [ {
+    "token" : "psych",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "gag",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "bread",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgg-g0NEXFMlzHK978",
   "text" : "It's bread, ham, cheese...",
   "translations" : {
@@ -24,6 +80,62 @@
     "startOffset" : 17,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEQvKDTAu_IiLfLLq",
+  "text" : "Grab bread and cereal.",
+  "translations" : {
+    "russian" : "Возьмите хлеб и крупы."
+  },
+  "tokens" : [ {
+    "token" : "grab",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bread",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "cereal",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVcMQDTAu_IiLfYRS",
+  "text" : "Matches, kerosene, bread.",
+  "translations" : {
+    "russian" : "Спички, керосин, хлеб."
+  },
+  "tokens" : [ {
+    "token" : "matches",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "match",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "kerosene",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "bread",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -55,78 +167,327 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtnH4NEXFMlzHLNto",
-  "text" : "The poor of Rome have bread.",
+  "id" : "AWoDlG7BDTAu_IiLeJ3M",
+  "text" : "Squirrels love the bread.",
   "translations" : {
-    "russian" : "У бедняков Рима есть хлеб."
+    "russian" : "Белки обожают хлеб."
   },
   "tokens" : [ {
+    "token" : "squirrel",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "love",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
     "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "bread",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrG1mDTAu_IiLeNDu",
+  "text" : "Wholesome as fresh bread.",
+  "translations" : {
+    "russian" : "Здоровый, как свежий хлеб."
+  },
+  "tokens" : [ {
+    "token" : "wholesome",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "as",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "fresh",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "bread",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9tGiDTAu_IiLfGKL",
+  "text" : "It's perfect for dunking bread.",
+  "translations" : {
+    "russian" : "Будете макать туда хлеб."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "perfect",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "dunk",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "bread",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjlHPDTAu_IiLfiif",
+  "text" : "Here's your hunk of bread.",
+  "translations" : {
+    "russian" : "Вот твой кусочек хлеба."
+  },
+  "tokens" : [ {
+    "token" : "here's",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "hunk",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "bread",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFTx4DTAu_IiLfL6e",
+  "text" : "NOW, WHERE'S THE BREAD PLATE?",
+  "translations" : {
+    "russian" : "Теперь, где блюдо для хлеба?"
+  },
+  "tokens" : [ {
+    "token" : "now",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "poor",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "where",
+    "startOffset" : 5,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "of",
-    "startOffset" : 9,
-    "endOffset" : 11,
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "rome",
-    "startOffset" : 12,
-    "endOffset" : 16,
+    "token" : "bread",
+    "startOffset" : 17,
+    "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "have",
-    "startOffset" : 17,
-    "endOffset" : 21,
+    "token" : "plate",
+    "startOffset" : 23,
+    "endOffset" : 28,
     "position" : 4
-  }, {
-    "token" : "bread",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnRptNEXFMlzHLFLZ",
-  "text" : "Or the recipe for brown bread.",
+  "id" : "AWoDzb_dDTAu_IiLeR5N",
+  "text" : "Buy coarse rye bread, then.",
   "translations" : {
-    "russian" : "Или рецепт хлеба Браунов."
+    "russian" : "Тогда купите грубый ржаной хлеб."
   },
   "tokens" : [ {
-    "token" : "or",
+    "token" : "buy",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 3,
-    "endOffset" : 6,
+    "token" : "coarse",
+    "startOffset" : 4,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "recipe",
+    "token" : "rye",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "bread",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "th",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhi9jDTAu_IiLeyIj",
+  "text" : "Buy coarse rye bread, then.",
+  "translations" : {
+    "russian" : "Тогда купите грубый ржаной хлеб."
+  },
+  "tokens" : [ {
+    "token" : "buy",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "coarse",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "rye",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "bread",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "th",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7BU_DTAu_IiLfEUl",
+  "text" : "You've had my sourdough bread.",
+  "translations" : {
+    "russian" : "Ты пробовала мой хлеб."
+  },
+  "tokens" : [ {
+    "token" : "you've",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "had",
     "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 11,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "for",
+    "token" : "sourdough",
     "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "brown",
-    "startOffset" : 18,
     "endOffset" : 23,
-    "position" : 4
+    "position" : 3
   }, {
     "token" : "bread",
     "startOffset" : 24,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEO3mDTAu_IiLfLKW",
+  "text" : "Milk, juice... cereal and bread.",
+  "translations" : {
+    "russian" : "Молоко, сок, каша и хлеб, хлеб. Итак, Хэйзл, с тебя 23,85."
+  },
+  "tokens" : [ {
+    "token" : "milk",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "juice",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "cereal",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "bread",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDb-sQDTAu_IiLeEsb",
+  "text" : "Just regular bread today? No baguette?",
+  "translations" : {
+    "russian" : "Простой хлеб сегодня, не батон?"
+  },
+  "tokens" : [ {
+    "token" : "just",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "regular",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "bread",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "today",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "no",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "baguette",
+    "startOffset" : 29,
+    "endOffset" : 37,
     "position" : 5
   } ],
   "contentScore" : null

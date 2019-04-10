@@ -1,4 +1,136 @@
 [ {
+  "id" : "AWoEfOTaDTAu_IiLewS6",
+  "text" : "You killed, pillaged, burned.",
+  "translations" : {
+    "russian" : "Вы убивали, грабили, сжигали."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "kill",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pillage",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "burned",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "burn",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7jr6DTAu_IiLeVzn",
+  "text" : "Burned her eyelids off.",
+  "translations" : {
+    "russian" : "Нахер сожгла ей веки."
+  },
+  "tokens" : [ {
+    "token" : "burned",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "burn",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "her",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "eyelid",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "off",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfPDhDTAu_IiLewTi",
+  "text" : "You killed, pillaged, burned.",
+  "translations" : {
+    "russian" : "Вы убивали, грабили, сжигали."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "kill",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pillage",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "burned",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "burn",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEySghDTAu_IiLe-cZ",
+  "text" : "They burned the harvest...",
+  "translations" : {
+    "russian" : "Они сожгли урожай..."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "burned",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "burn",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "harvest",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjTTeNEXFMlzHK_52",
   "text" : "Bridge burned, Typhoon.",
   "translations" : {
@@ -24,6 +156,120 @@
     "startOffset" : 15,
     "endOffset" : 22,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdsYzDTAu_IiLevG4",
+  "text" : "Jangles burned the house down.",
+  "translations" : {
+    "russian" : "Ключник сжег дом."
+  },
+  "tokens" : [ {
+    "token" : "jangle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "burned",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "burn",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "house",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "down",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJyGjDTAu_IiLfPe2",
+  "text" : "Beau was burned in effigy.",
+  "translations" : {
+    "russian" : "Сожжено чучело Бо."
+  },
+  "tokens" : [ {
+    "token" : "beau",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "burned",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "burn",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "effigy",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJx7PDTAu_IiLfPet",
+  "text" : "She burned me in effigy.",
+  "translations" : {
+    "russian" : "Она сожгла моё чучело!"
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "burned",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "burn",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "effigy",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

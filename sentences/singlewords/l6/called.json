@@ -1,4 +1,73 @@
 [ {
+  "id" : "AWoFFezsDTAu_IiLfMCk",
+  "text" : "Tine called.",
+  "translations" : {
+    "russian" : "Тина звонила."
+  },
+  "tokens" : [ {
+    "token" : "tine",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "called",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWAxPDTAu_IiLfYqJ",
+  "text" : "Bubbles called.",
+  "translations" : {
+    "russian" : "Бабблс звонил."
+  },
+  "tokens" : [ {
+    "token" : "bubble",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "called",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFgmbDTAu_IiLfMD3",
+  "text" : "Tine called.",
+  "translations" : {
+    "russian" : "Тина звонила."
+  },
+  "tokens" : [ {
+    "token" : "tine",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "called",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiMfQNEXFMlzHK--N",
   "text" : "It's called a plot.",
   "translations" : {
@@ -65,6 +134,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgvW65NEXFMlzHLQvt",
+  "text" : "I called this conference.",
+  "translations" : {
+    "russian" : "Я созвала эту конференцию."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "called",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "conference",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvWCvNEXFMlzHLQt5",
   "text" : "He called twice yesterday.",
   "translations" : {
@@ -126,284 +228,71 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvW65NEXFMlzHLQvt",
-  "text" : "I called this conference.",
+  "id" : "AWoD5lvPDTAu_IiLeUyT",
+  "text" : "Bill Watts just called.",
   "translations" : {
-    "russian" : "Я созвала эту конференцию."
+    "russian" : "Звонил Билл Уотс."
   },
   "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "called",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "call",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "conference",
-    "startOffset" : 14,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfwT4NEXFMlzHK84O",
-  "text" : "It's called negotiations, detective.",
-  "translations" : {
-    "russian" : "Это называется переговоры, детектив."
-  },
-  "tokens" : [ {
-    "token" : "it",
+    "token" : "bill",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "called",
+    "token" : "watt",
     "startOffset" : 5,
-    "endOffset" : 11,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "call",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "negotiate",
-    "startOffset" : 12,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "detective",
-    "startOffset" : 26,
-    "endOffset" : 35,
-    "position" : 3
-  }, {
-    "token" : "detect",
-    "startOffset" : 26,
-    "endOffset" : 35,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiqj2NEXFMlzHK_XT",
-  "text" : "I called my shot.",
-  "translations" : {
-    "russian" : "Я распоряжусь на счёт этого."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "called",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "call",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "shot",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglK3INEXFMlzHLCD0",
-  "text" : "I should've called first.",
-  "translations" : {
-    "russian" : "Я должен был позвонить сперва."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "should've",
-    "startOffset" : 2,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "called",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "call",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "first",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvYW1NEXFMlzHLQyv",
-  "text" : "A police officer called.",
-  "translations" : {
-    "russian" : "Зашел офицер полиции."
-  },
-  "tokens" : [ {
-    "token" : "a",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "police",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "officer",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "office",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "called",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "call",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw7BaNEXFMlzHLSqy",
-  "text" : "I should've called first.",
-  "translations" : {
-    "russian" : "Я должен был позвонить сперва."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "should've",
-    "startOffset" : 2,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "called",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "call",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "first",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbaD9NEXFMlzHK5Fn",
-  "text" : "It's called security, people!",
-  "translations" : {
-    "russian" : "Народ, это называется охрана!"
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "called",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "call",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "security",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "people",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggZ3UNEXFMlzHK9b8",
-  "text" : "School director called me.",
-  "translations" : {
-    "russian" : "Мне звонил директор колледжа."
-  },
-  "tokens" : [ {
-    "token" : "school",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "director",
-    "startOffset" : 7,
+    "token" : "just",
+    "startOffset" : 11,
     "endOffset" : 15,
-    "position" : 1
+    "position" : 2
   }, {
     "token" : "called",
     "startOffset" : 16,
     "endOffset" : 22,
-    "position" : 2
+    "position" : 3
   }, {
     "token" : "call",
     "startOffset" : 16,
     "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "me",
-    "startOffset" : 23,
-    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggzWQNEXFMlzHK9yH",
-  "text" : "It's called character, Joe.",
+  "id" : "AWoD8fiHDTAu_IiLeWf4",
+  "text" : "I called Venezuela.",
   "translations" : {
-    "russian" : "Это называется образ, Джо."
+    "russian" : "Я звонил в Венесуэлу."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "called",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "venezuela",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4H1aDTAu_IiLeUH8",
+  "text" : "It's called Welsh.",
+  "translations" : {
+    "russian" : "Называется Уэльский."
   },
   "tokens" : [ {
     "token" : "it",
@@ -421,118 +310,164 @@
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "character",
+    "token" : "welsh",
     "startOffset" : 12,
-    "endOffset" : 21,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoENNuEDTAu_IiLejNv",
+  "text" : "It's called animus.",
+  "translations" : {
+    "russian" : "Оно называется анимус."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "called",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "animus",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbG6_DTAu_IiLetTY",
+  "text" : "It's called the guillotine.",
+  "translations" : {
+    "russian" : "Оно называется гильотина."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "called",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "joe",
-    "startOffset" : 23,
+    "token" : "guillotine",
+    "startOffset" : 16,
     "endOffset" : 26,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvWPrNEXFMlzHLQuX",
-  "text" : "You called me, Grandpa?",
+  "id" : "AWoElTWJDTAu_IiLe1Dk",
+  "text" : "It's called delegating.",
   "translations" : {
-    "russian" : "Ты звал меня, дедушка?"
+    "russian" : "Это называется уполномочить."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "called",
-    "startOffset" : 4,
-    "endOffset" : 10,
+    "startOffset" : 5,
+    "endOffset" : 11,
     "position" : 1
   }, {
     "token" : "call",
-    "startOffset" : 4,
-    "endOffset" : 10,
+    "startOffset" : 5,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "me",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "grandpa",
-    "startOffset" : 15,
+    "token" : "legate",
+    "startOffset" : 12,
     "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEni-PDTAu_IiLe2v4",
+  "text" : "They called from Geneva.",
+  "translations" : {
+    "russian" : "Звонили из Женевы."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "called",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "from",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "geneva",
+    "startOffset" : 17,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvW57NEXFMlzHLQvr",
-  "text" : "Who called the reporters?",
+  "id" : "AWoEo-nCDTAu_IiLe31o",
+  "text" : "It's called cognitive dissonance.",
   "translations" : {
-    "russian" : "Кто созвал репортёров?"
+    "russian" : "Это называется когнитивный диссонанс."
   },
   "tokens" : [ {
-    "token" : "who",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "called",
-    "startOffset" : 4,
-    "endOffset" : 10,
+    "startOffset" : 5,
+    "endOffset" : 11,
     "position" : 1
   }, {
     "token" : "call",
-    "startOffset" : 4,
-    "endOffset" : 10,
+    "startOffset" : 5,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
+    "token" : "cognitive",
+    "startOffset" : 12,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "port",
-    "startOffset" : 15,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvW9GNEXFMlzHLQvy",
-  "text" : "Who called this meeting?",
-  "translations" : {
-    "russian" : "Кто созвал это собрание?"
-  },
-  "tokens" : [ {
-    "token" : "who",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "called",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "call",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "meeting",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "meet",
-    "startOffset" : 16,
-    "endOffset" : 23,
+    "token" : "dissonance",
+    "startOffset" : 22,
+    "endOffset" : 32,
     "position" : 3
   } ],
   "contentScore" : null

@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoEgTvwDTAu_IiLexKB",
+  "text" : "Seasoned with basil and rosemary.",
+  "translations" : {
+    "russian" : "Приправленного базиликом и розмарином."
+  },
+  "tokens" : [ {
+    "token" : "seasoned",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "season",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "basil",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "rosemary",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyPKmNEXFMlzHLUjU",
   "text" : "Single season passing yards.",
   "translations" : {
@@ -500,39 +538,6 @@
     "token" : "dream",
     "startOffset" : 22,
     "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglwVmNEXFMlzHLC6w",
-  "text" : "Are we talking swimsuit season?",
-  "translations" : {
-    "russian" : "Мы говорим о купальном сезоне?"
-  },
-  "tokens" : [ {
-    "token" : "are",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "we",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "talk",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "swimsuit",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "season",
-    "startOffset" : 24,
-    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null

@@ -1,4 +1,151 @@
 [ {
+  "id" : "AWoD8kzJDTAu_IiLeWkC",
+  "text" : "Mr Venus, your opinion.",
+  "translations" : {
+    "russian" : "Мистер Винус, что скажете."
+  },
+  "tokens" : [ {
+    "token" : "mr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "venus",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "opinion",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "opine",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8BS3DTAu_IiLfE-K",
+  "text" : "Opinion is justifiably varied.",
+  "translations" : {
+    "russian" : "Мнения могут меняться."
+  },
+  "tokens" : [ {
+    "token" : "opinion",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "opine",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "justifiably",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "varied",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "vary",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPCihDTAu_IiLekkK",
+  "text" : "Excerpt from the psychiatric opinion.",
+  "translations" : {
+    "russian" : "Выдержка из заключения психиатра."
+  },
+  "tokens" : [ {
+    "token" : "excerpt",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "from",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "psychiatric",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "opinion",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 4
+  }, {
+    "token" : "opine",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJjoTDTAu_IiLfPTK",
+  "text" : "Public opinion can demolish him.",
+  "translations" : {
+    "russian" : "Общественное мнение может уничтожить его."
+  },
+  "tokens" : [ {
+    "token" : "public",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "opinion",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "opine",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "can",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "demolish",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "him",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgy1b1NEXFMlzHLVOa",
   "text" : "I'm getting a second opinion.",
   "translations" : {
@@ -37,35 +184,40 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzVMhNEXFMlzHLWPq",
-  "text" : "Hey, I have strong opinions.",
+  "id" : "AWoFJfrcDTAu_IiLfPQE",
+  "text" : "Public opinion can demolish him.",
   "translations" : {
-    "russian" : "Эй, у меня твёрдые убеждения."
+    "russian" : "Общественное мнение может уничтожить его."
   },
   "tokens" : [ {
-    "token" : "hey",
+    "token" : "public",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "i",
-    "startOffset" : 5,
-    "endOffset" : 6,
+    "token" : "opinion",
+    "startOffset" : 7,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "have",
+    "token" : "opine",
     "startOffset" : 7,
-    "endOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "can",
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "strong",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "opine",
+    "token" : "demolish",
     "startOffset" : 19,
     "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "him",
+    "startOffset" : 28,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null

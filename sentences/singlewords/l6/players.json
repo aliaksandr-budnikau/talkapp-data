@@ -1,4 +1,45 @@
 [ {
+  "id" : "AWoDS3Y3DTAu_IiLd_eq",
+  "text" : "Player's Almanac?",
+  "translations" : {
+    "russian" : "В календаре?"
+  },
+  "tokens" : [ {
+    "token" : "player's",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "player",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "almanac",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-oWkDTAu_IiLfG6k",
+  "text" : "Halt, players!",
+  "translations" : {
+    "russian" : "Остановитесь, игроки!"
+  },
+  "tokens" : [ {
+    "token" : "halt",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "player",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggmgINEXFMlzHK9m8",
   "text" : "I'm a player, Shawn.",
   "translations" : {
@@ -32,6 +73,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDROqNDTAu_IiLd-Xs",
+  "text" : "Accordion players, people.",
+  "translations" : {
+    "russian" : "Всё из-за аккордеона."
+  },
+  "tokens" : [ {
+    "token" : "accordion",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "player",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "people",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvaZHNEXFMlzHLQ3A",
   "text" : "Players' lounge, Brian.",
   "translations" : {
@@ -51,6 +115,34 @@
     "token" : "brian",
     "startOffset" : 17,
     "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBG_JDTAu_IiLfI4E",
+  "text" : "Retired basketball player.",
+  "translations" : {
+    "russian" : "Отставной игрок."
+  },
+  "tokens" : [ {
+    "token" : "tired",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "basketball",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "player",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "play",
+    "startOffset" : 19,
+    "endOffset" : 25,
     "position" : 2
   } ],
   "contentScore" : null
@@ -122,6 +214,39 @@
     "token" : "mine",
     "startOffset" : 20,
     "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGfWeDTAu_IiLeeK8",
+  "text" : "The players will be reimbursed?",
+  "translations" : {
+    "russian" : "Возместите расходы игрокам?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "player",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "will",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "reimburse",
+    "startOffset" : 20,
+    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null
@@ -240,6 +365,110 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoExcEPDTAu_IiLe90b",
+  "text" : "And an avid lotto player.",
+  "translations" : {
+    "russian" : "И заядлым игроком в лотерею."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "avid",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "lotto",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "player",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "play",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQRdlDTAu_IiLd9sY",
+  "text" : "Look, football players need aggression.",
+  "translations" : {
+    "russian" : "Слушай, футбольные игроки нуждаются в агрессии."
+  },
+  "tokens" : [ {
+    "token" : "look",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "football",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "player",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "need",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "aggression",
+    "startOffset" : 28,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgCnMDTAu_IiLfgWK",
+  "text" : "The players push and shove.",
+  "translations" : {
+    "russian" : "Игроки толкаются и напирают."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "player",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "push",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "shove",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggnkZNEXFMlzHK9n3",
   "text" : "A national player for Korea.",
   "translations" : {
@@ -277,212 +506,4 @@
     "position" : 4
   } ],
   "contentScore" : null
-}, {
-  "id" : "AWbggnlnNEXFMlzHK9n4",
-  "text" : "Sports players, artists and performers...",
-  "translations" : {
-    "russian" : "Спортсмены, художники и артисты..."
-  },
-  "tokens" : [ {
-    "token" : "sport",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "player",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "artist",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "perform",
-    "startOffset" : 28,
-    "endOffset" : 38,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguIA-NEXFMlzHLOe5",
-  "text" : "With a senior football player.",
-  "translations" : {
-    "russian" : "Со старшекурсником, футболистом."
-  },
-  "tokens" : [ {
-    "token" : "with",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "senior",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "football",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "player",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "play",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggmqnNEXFMlzHK9nD",
-  "text" : "Well, that's typical of tennis players.",
-  "translations" : {
-    "russian" : "Что ж, это нормально для игроков тенниса."
-  },
-  "tokens" : [ {
-    "token" : "well",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "typical",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "tennis",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "player",
-    "startOffset" : 31,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggnFgNEXFMlzHK9nd",
-  "text" : "We are merely humble itinerant players.",
-  "translations" : {
-    "russian" : "Мы лишь скромные заезжие музыканты."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "mere",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "humble",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "itinerant",
-    "startOffset" : 21,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "player",
-    "startOffset" : 31,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggmhGNEXFMlzHK9m9",
-  "text" : "Congratulations to players five and 11.",
-  "translations" : {
-    "russian" : "Поздравляю для игроков пяти до 11."
-  },
-  "tokens" : [ {
-    "token" : "congratulate",
-    "startOffset" : 0,
-    "endOffset" : 15,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "player",
-    "startOffset" : 19,
-    "endOffset" : 26,
-    "position" : 2
-  }, {
-    "token" : "five",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 3
-  }, {
-    "token" : "and",
-    "startOffset" : 32,
-    "endOffset" : 35,
-    "position" : 4
-  }, {
-    "token" : "11",
-    "startOffset" : 36,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmyPgNEXFMlzHLEe9",
-  "text" : "Slots player?",
-  "translations" : {
-    "russian" : "Игровые автоматы, значит..."
-  },
-  "tokens" : [ {
-    "token" : "slot",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "player",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "play",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  } ],
-  "contentScore" : "POOR"
 } ]

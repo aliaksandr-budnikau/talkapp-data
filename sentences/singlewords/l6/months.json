@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoEAVF7DTAu_IiLeZa8",
+  "text" : "My three months' wages.",
+  "translations" : {
+    "russian" : "Это моё жалованье за три месяца."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "three",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "months",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "wage",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfo1bDTAu_IiLfgEb",
+  "text" : "First shag in months.",
+  "translations" : {
+    "russian" : "Первый трах за месяцы."
+  },
+  "tokens" : [ {
+    "token" : "first",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "shag",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "months",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsHzsNEXFMlzHLL_i",
   "text" : "Nine months, benefit fraud.",
   "translations" : {
@@ -23,6 +79,72 @@
     "token" : "fraud",
     "startOffset" : 21,
     "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFU-W-DTAu_IiLfX8a",
+  "text" : "Been qualified six months.",
+  "translations" : {
+    "russian" : "Проходила квалификацию 6 месяцев."
+  },
+  "tokens" : [ {
+    "token" : "been",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "qualified",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "qualify",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "six",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "months",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVGrbDTAu_IiLfYCW",
+  "text" : "Been qualified six months.",
+  "translations" : {
+    "russian" : "Проходила квалификацию 6 месяцев."
+  },
+  "tokens" : [ {
+    "token" : "been",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "qualified",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "qualify",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "six",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "months",
+    "startOffset" : 19,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
@@ -55,79 +177,348 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtIVdNEXFMlzHLNWY",
-  "text" : "I've been begging you for months.",
+  "id" : "AWoDh1FqDTAu_IiLeIBz",
+  "text" : "18 months misery.",
   "translations" : {
-    "russian" : "Я тебя не один месяц упрашивала."
+    "russian" : "Полтора года мучений."
   },
   "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "been",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "begging",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "for",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "months",
-    "startOffset" : 26,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglaT0NEXFMlzHLCfc",
-  "text" : "Go backpacking for a couple months.",
-  "translations" : {
-    "russian" : "Ходить в поход на пару мес цев."
-  },
-  "tokens" : [ {
-    "token" : "go",
+    "token" : "18",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "backpack",
+    "token" : "months",
     "startOffset" : 3,
-    "endOffset" : 14,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "for",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "token" : "misery",
+    "startOffset" : 10,
+    "endOffset" : 16,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnWn6DTAu_IiLe2mS",
+  "text" : "Alzheimer's diagnosed eight months ago.",
+  "translations" : {
+    "russian" : "Альцгеймер диагностирован 8 месяцев назад."
+  },
+  "tokens" : [ {
+    "token" : "alzheimer",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
   }, {
-    "token" : "a",
-    "startOffset" : 19,
-    "endOffset" : 20,
-    "position" : 3
+    "token" : "diagnosed",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 1
   }, {
-    "token" : "couple",
-    "startOffset" : 21,
+    "token" : "diagnose",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "eight",
+    "startOffset" : 22,
     "endOffset" : 27,
-    "position" : 4
+    "position" : 2
   }, {
     "token" : "months",
     "startOffset" : 28,
     "endOffset" : 34,
-    "position" : 5
+    "position" : 3
+  }, {
+    "token" : "ago",
+    "startOffset" : 35,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAsDfDTAu_IiLfIjj",
+  "text" : "Three months of Vulcan exile.",
+  "translations" : {
+    "russian" : "Идет уже третий месяц нашего вулканского изгнания."
+  },
+  "tokens" : [ {
+    "token" : "three",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "months",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "vulcan",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "exile",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDkG_PDTAu_IiLeJUL",
+  "text" : "He's unemployed for six months.",
+  "translations" : {
+    "russian" : "Он безработный на протяжении 6-ти месяцев."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "unemployed",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "employed",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "six",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "months",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVzcMDTAu_IiLepox",
+  "text" : "My exhibition in three months?",
+  "translations" : {
+    "russian" : "Моя выставка через три месяца?"
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "exhibition",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "three",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "months",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_PAnDTAu_IiLfHaI",
+  "text" : "Eight months without a dame.",
+  "translations" : {
+    "russian" : "Восемь месяцев без девушек."
+  },
+  "tokens" : [ {
+    "token" : "eight",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "months",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "without",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "dame",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFi6aXDTAu_IiLfiIb",
+  "text" : "And nine months later, whoops.",
+  "translations" : {
+    "russian" : "И девять месяцев спустя, упс."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "nine",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "months",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "later",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "lat",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "whoop",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnSIsDTAu_IiLe2ir",
+  "text" : "Alzheimer's diagnosed eight months ago.",
+  "translations" : {
+    "russian" : "Альцгеймер диагностирован 8 месяцев назад."
+  },
+  "tokens" : [ {
+    "token" : "alzheimer",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "diagnosed",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "diagnose",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "eight",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "months",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "ago",
+    "startOffset" : 35,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGlDgDTAu_IiLfM2S",
+  "text" : "Months of avoidance and awkwardness.",
+  "translations" : {
+    "russian" : "Месяцы избегания и неловкости."
+  },
+  "tokens" : [ {
+    "token" : "months",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "avoidance",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "awkwardness",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "awkward",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdrDdDTAu_IiLeFm6",
+  "text" : "In barracks for six months !",
+  "translations" : {
+    "russian" : "В бараках в течение шести месяцев!"
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "barrack",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "six",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "months",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

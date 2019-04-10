@@ -32,6 +32,82 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE-qGpDTAu_IiLfG7_",
+  "text" : "Halting production on that jet.",
+  "translations" : {
+    "russian" : "Остановка производства этого истребителя."
+  },
+  "tokens" : [ {
+    "token" : "halting",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "halt",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "production",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "that",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "jet",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEleAiDTAu_IiLe1Lr",
+  "text" : "We control production and distribution.",
+  "translations" : {
+    "russian" : "Мы будем управлять производством и распространением."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "control",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "production",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "distribution",
+    "startOffset" : 26,
+    "endOffset" : 38,
+    "position" : 4
+  }, {
+    "token" : "distribute",
+    "startOffset" : 26,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkdUKNEXFMlzHLBBG",
   "text" : "Alternative carbon-neutral energy production.",
   "translations" : {
@@ -256,6 +332,44 @@
     "token" : "dreadful",
     "startOffset" : 30,
     "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdPS8DTAu_IiLfeVu",
+  "text" : "They're here to supervise the production.",
+  "translations" : {
+    "russian" : "Они приехали, чтобы наблюдать за постановкой."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "here",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "supervise",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "production",
+    "startOffset" : 30,
+    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null

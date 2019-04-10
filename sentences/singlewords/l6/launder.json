@@ -1,0 +1,105 @@
+[ {
+  "id" : "AWoE4JdmDTAu_IiLfCeO",
+  "text" : "Money laundering, wire fraud, conspiracy.",
+  "translations" : {
+    "russian" : "Отмывание денег, телефонное мошенничество, преступный сговор."
+  },
+  "tokens" : [ {
+    "token" : "money",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "launder",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "wire",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "fraud",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "conspiracy",
+    "startOffset" : 30,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcVzzDTAu_IiLfdrf",
+  "text" : "Bank fraud, smuggling, money laundering.",
+  "translations" : {
+    "russian" : "Ой, банковская афера, контрабанда, отмывание денег..."
+  },
+  "tokens" : [ {
+    "token" : "bank",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fraud",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "smuggle",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "money",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "launder",
+    "startOffset" : 29,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFacq2DTAu_IiLfcLz",
+  "text" : "Uh, the communiques, the money laundering...",
+  "translations" : {
+    "russian" : "Коммюнике отмывание денег..."
+  },
+  "tokens" : [ {
+    "token" : "uh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "communique",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "money",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "launder",
+    "startOffset" : 31,
+    "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

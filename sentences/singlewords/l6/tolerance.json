@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFCCS6DTAu_IiLfJkH",
+  "text" : "Ammo consumption within tolerance.",
+  "translations" : {
+    "russian" : "Расход боеприпасов в пределах нормы."
+  },
+  "tokens" : [ {
+    "token" : "ammo",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "consumption",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "within",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "tolerance",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguvb2NEXFMlzHLPsv",
   "text" : "It's about tolerance.",
   "translations" : {
@@ -302,6 +330,44 @@
     "token" : "tolerance",
     "startOffset" : 20,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_HdLDTAu_IiLeYfR",
+  "text" : "And tolerance, which must be reciprocal.",
+  "translations" : {
+    "russian" : "И толерантности, которая должна быть взаимной."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "tolerance",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "which",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "must",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "be",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "reciprocal",
+    "startOffset" : 29,
+    "endOffset" : 39,
     "position" : 5
   } ],
   "contentScore" : null

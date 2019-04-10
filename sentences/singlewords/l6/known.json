@@ -1,4 +1,70 @@
 [ {
+  "id" : "AWoEf8HwDTAu_IiLew3q",
+  "text" : "Real name unknown, nationality unknown.",
+  "translations" : {
+    "russian" : "Настоящее имя неизвестно, национальность неизвестна."
+  },
+  "tokens" : [ {
+    "token" : "real",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "name",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "known",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "nationality",
+    "startOffset" : 19,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "known",
+    "startOffset" : 31,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdv__DTAu_IiLfetg",
+  "text" : "One ship, unknown configuration.",
+  "translations" : {
+    "russian" : "Один корабль, неизвестной конфигурации."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ship",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "known",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "configuration",
+    "startOffset" : 18,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "figuration",
+    "startOffset" : 18,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoTp0NEXFMlzHLGtq",
   "text" : "Any obituaries, known relatives?",
   "translations" : {
@@ -27,127 +93,196 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqE9BNEXFMlzHLJJs",
-  "text" : "Better known to you as Set?",
+  "id" : "AWoFPz8aDTAu_IiLfUDY",
+  "text" : "Unknown investigatory techniques.",
   "translations" : {
-    "russian" : "Тебе он больше известен как Сет?"
+    "russian" : "Неизвестная техника исследования."
   },
   "tokens" : [ {
-    "token" : "better",
+    "token" : "known",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "known",
-    "startOffset" : 7,
-    "endOffset" : 12,
+    "token" : "investigatory",
+    "startOffset" : 8,
+    "endOffset" : 21,
     "position" : 1
   }, {
-    "token" : "to",
-    "startOffset" : 13,
-    "endOffset" : 15,
+    "token" : "technique",
+    "startOffset" : 22,
+    "endOffset" : 32,
     "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "as",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "set",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgih7-NEXFMlzHK_P-",
-  "text" : "Better known to you as Set?",
+  "id" : "AWoFIPNJDTAu_IiLfONg",
+  "text" : "You are known outlaws.",
   "translations" : {
-    "russian" : "Тебе он больше известен как Сет?"
+    "russian" : "Вы известные преступники."
   },
   "tokens" : [ {
-    "token" : "better",
+    "token" : "you",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 3,
     "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
   }, {
     "token" : "known",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "as",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "set",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsxe4NEXFMlzHLM4J",
-  "text" : "It's his most well-known work.",
-  "translations" : {
-    "russian" : "Это его самое известное произведение."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "his",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "most",
-    "startOffset" : 9,
+    "startOffset" : 8,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "well",
+    "token" : "outlaw",
     "startOffset" : 14,
-    "endOffset" : 18,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "known",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "work",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtasQNEXFMlzHLNg6",
-  "text" : "He's known more hardship than you.",
+  "id" : "AWoEGUrZDTAu_IiLeeC6",
+  "text" : "Excitement of the unknown.",
   "translations" : {
-    "russian" : "Он пережил больше трудностей, чем ты."
+    "russian" : "Восторг неизвестности."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "excitement",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "excite",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "known",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDhqo_DTAu_IiLeH8H",
+  "text" : "We've known nothing but misfortune.",
+  "translations" : {
+    "russian" : "Мы познали столько горя!"
+  },
+  "tokens" : [ {
+    "token" : "we've",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "known",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "nothing",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "but",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "misfortune",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDXyP9DTAu_IiLeCOu",
+  "text" : "I might've known you'd argue.",
+  "translations" : {
+    "russian" : "Я подозревал, что ты начнёшь спорить."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "might've",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "known",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "you'd",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "argue",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI96NDTAu_IiLef7B",
+  "text" : "Red dots are known militants.",
+  "translations" : {
+    "russian" : "Круто. Красными точками отмечены известные ополченцы."
+  },
+  "tokens" : [ {
+    "token" : "red",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dot",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "known",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "militant",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPH68DTAu_IiLfTg8",
+  "text" : "I've known too many Spaniards.",
+  "translations" : {
+    "russian" : "Я знал слишком много испанцев."
+  },
+  "tokens" : [ {
+    "token" : "i've",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
@@ -157,25 +292,223 @@
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "more",
+    "token" : "too",
     "startOffset" : 11,
-    "endOffset" : 15,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "hardship",
-    "startOffset" : 16,
-    "endOffset" : 24,
+    "token" : "many",
+    "startOffset" : 15,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "than",
-    "startOffset" : 25,
+    "token" : "spaniard",
+    "startOffset" : 20,
     "endOffset" : 29,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYZL3DTAu_IiLfadE",
+  "text" : "The artist formerly known as...",
+  "translations" : {
+    "russian" : "Артист, прежде известный как..."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
-    "token" : "you",
-    "startOffset" : 30,
-    "endOffset" : 33,
-    "position" : 5
+    "token" : "artist",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "formerly",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "known",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "as",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbPQZDTAu_IiLeEQf",
+  "text" : "A little-known Athenian soldier.",
+  "translations" : {
+    "russian" : "Малоизвестный афинский воин."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "little",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "known",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "athenian",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "soldier",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZ1gqDTAu_IiLesd7",
+  "text" : "Give him last known whereabouts.",
+  "translations" : {
+    "russian" : "И сообщите ему их последнее местонахождение."
+  },
+  "tokens" : [ {
+    "token" : "give",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "g",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "last",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "known",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "whereabout",
+    "startOffset" : 20,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhk_gDTAu_IiLeyKF",
+  "text" : "I've never known such impertinence!",
+  "translations" : {
+    "russian" : "В жизни не слышал подобной наглости!"
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "never",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "known",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "such",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "impertinence",
+    "startOffset" : 22,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI778DTAu_IiLef5e",
+  "text" : "Red dots are known militants.",
+  "translations" : {
+    "russian" : "Круто. Красными точками отмечены известные ополченцы."
+  },
+  "tokens" : [ {
+    "token" : "red",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dot",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "known",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "militant",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNLHZDTAu_IiLfSEX",
+  "text" : "I've known him more intimately.",
+  "translations" : {
+    "russian" : "Я знала его ближе."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "known",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "him",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "more",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "intimate",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

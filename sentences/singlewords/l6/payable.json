@@ -1,4 +1,78 @@
 [ {
+  "id" : "AWoFhp8HDTAu_IiLfhVg",
+  "text" : "Accounts payable.",
+  "translations" : {
+    "russian" : "Счета к оплате."
+  },
+  "tokens" : [ {
+    "token" : "account",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "payable",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "pay",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhqAPDTAu_IiLfhVi",
+  "text" : "Payable upon delivery.",
+  "translations" : {
+    "russian" : "Оплата после доставки."
+  },
+  "tokens" : [ {
+    "token" : "payable",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "pay",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "upon",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "delivery",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "livery",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjNZSDTAu_IiLezeo",
+  "text" : "Pay tribute?",
+  "translations" : {
+    "russian" : "Отдавать должное?"
+  },
+  "tokens" : [ {
+    "token" : "pay",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "tribute",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgayn4NEXFMlzHK4ib",
   "text" : "We'll pay you handsome.",
   "translations" : {
@@ -167,6 +241,151 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEAjMcDTAu_IiLeZl_",
+  "text" : "Pay off those hackles.",
+  "translations" : {
+    "russian" : "Заплати тем таксистам."
+  },
+  "tokens" : [ {
+    "token" : "pay",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "off",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "those",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "hackle",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBlabDTAu_IiLeaYZ",
+  "text" : "What's owed, I'll pay.",
+  "translations" : {
+    "russian" : "Я заплачу долг."
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "ow",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "i'll",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "pay",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmJASDTAu_IiLe1rR",
+  "text" : "To pay what's necessary.",
+  "translations" : {
+    "russian" : "Заплатить сколько потребуется."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "pay",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "what",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "necessary",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmxIFDTAu_IiLe2JK",
+  "text" : "I'm paying the nursery.",
+  "translations" : {
+    "russian" : "Я плачу за ясли."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pay",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "nursery",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8uB8DTAu_IiLfFbW",
+  "text" : "That's my mortgage payment.",
+  "translations" : {
+    "russian" : "Это вся моя ипотека!"
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "mortgage",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "payment",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "pay",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgq4sINEXFMlzHLKLt",
   "text" : "Liars pay double.",
   "translations" : {
@@ -190,275 +409,31 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgq4hZNEXFMlzHLKLe",
-  "text" : "I'll pay you double...",
+  "id" : "AWoDX_5FDTAu_IiLeCVQ",
+  "text" : "Farms, tenants paying rent!",
   "translations" : {
-    "russian" : "Я заплачу вдвойне..."
+    "russian" : "Фермы, владельцы платят ренту!"
   },
   "tokens" : [ {
-    "token" : "i'll",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "pay",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "double",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrkhpNEXFMlzHLLMo",
-  "text" : "We'll pay the damages.",
-  "translations" : {
-    "russian" : "Мы возместим убытки."
-  },
-  "tokens" : [ {
-    "token" : "we'll",
+    "token" : "farm",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "pay",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "damage",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw3h3NEXFMlzHLSnU",
-  "text" : "You're paying excess.",
-  "translations" : {
-    "russian" : "Ты оплачиваешь лишний вес багажа."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "pay",
+    "token" : "tenant",
     "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "excess",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggtU0NEXFMlzHK9s5",
-  "text" : "I'll pay you double...",
-  "translations" : {
-    "russian" : "Я заплачу вдвойне..."
-  },
-  "tokens" : [ {
-    "token" : "i'll",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "pay",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "double",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggtn4NEXFMlzHK9tI",
-  "text" : "Liars pay double.",
-  "translations" : {
-    "russian" : "Лжецам удвоенная ставка."
-  },
-  "tokens" : [ {
-    "token" : "liar",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "pay",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "double",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrh8JNEXFMlzHLLI5",
-  "text" : "You will pay, Merlin.",
-  "translations" : {
-    "russian" : "Ты за всё заплатишь, Мерлин."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "will",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "pay",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "merlin",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgq4P0NEXFMlzHLKLF",
-  "text" : "That means you'll pay double.",
-  "translations" : {
-    "russian" : "Это значит, что вы заплатите вдвойне."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "means",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "mean",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "you'll",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "pay",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "double",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrh-1NEXFMlzHLLI8",
-  "text" : "You wanted him to pay.",
-  "translations" : {
-    "russian" : "Ты хотела, чтобы он заплатил."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "wanted",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "want",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 11,
     "endOffset" : 14,
-    "position" : 2
+    "position" : 1
   }, {
-    "token" : "to",
+    "token" : "pay",
     "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "pay",
-    "startOffset" : 18,
     "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrkuHNEXFMlzHLLM7",
-  "text" : "Fingers crossed it keeps paying.",
-  "translations" : {
-    "russian" : "Будем держать кулаки, чтобы это окупилось."
-  },
-  "tokens" : [ {
-    "token" : "finger",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "crossed",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "cross",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 16,
-    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "keep",
-    "startOffset" : 19,
-    "endOffset" : 24,
+    "token" : "rent",
+    "startOffset" : 22,
+    "endOffset" : 26,
     "position" : 3
-  }, {
-    "token" : "pay",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

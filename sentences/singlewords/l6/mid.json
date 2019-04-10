@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoDvNu8DTAu_IiLePiz",
+  "text" : "Mid-systolic murmur.",
+  "translations" : {
+    "russian" : "Систолические шумы в сердце."
+  },
+  "tokens" : [ {
+    "token" : "mid",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "systolic",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "murmur",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1PYTDTAu_IiLfAgt",
+  "text" : "Mid-systolic murmur.",
+  "translations" : {
+    "russian" : "Систолические шумы в сердце."
+  },
+  "tokens" : [ {
+    "token" : "mid",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "systolic",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "murmur",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtkKMNEXFMlzHLNqd",
   "text" : "Mid-50s I'd say. Malnourished.",
   "translations" : {
@@ -29,6 +75,77 @@
     "startOffset" : 17,
     "endOffset" : 29,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyiMqDTAu_IiLe-n9",
+  "text" : "Mid-brain, like pituitary gland?",
+  "translations" : {
+    "russian" : "Среднего мозга? То есть, гипофиз?"
+  },
+  "tokens" : [ {
+    "token" : "mid",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "brain",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "like",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "pituitary",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "gland",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbeSdDTAu_IiLeEZ9",
+  "text" : "I don't take auditors mid-semester.",
+  "translations" : {
+    "russian" : "Я не принимаю аудиторов по средине семестра."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "don't",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "take",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "auditor",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "mid",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "semester",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

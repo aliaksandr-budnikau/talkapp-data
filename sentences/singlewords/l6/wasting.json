@@ -372,6 +372,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEyzryDTAu_IiLe-0m",
+  "text" : "Your fiances wasted again?",
+  "translations" : {
+    "russian" : "Твоя невеста опять пьяная?"
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fiances",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "wast",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "again",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkRWDNEXFMlzHLAwl",
   "text" : "I was really wasted.",
   "translations" : {
@@ -456,10 +484,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgeSACNEXFMlzHK7ma",
-  "text" : "I've clearly had a wasted journey.",
+  "id" : "AWoEerHFDTAu_IiLev3d",
+  "text" : "I've wasted enough fuel.",
   "translations" : {
-    "russian" : "Я явно впустую путешествовал."
+    "russian" : "Хватит жечь бензин."
   },
   "tokens" : [ {
     "token" : "i've",
@@ -467,68 +495,20 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "clearly",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "had",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 17,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
     "token" : "wast",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "journey",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkPUYNEXFMlzHLAth",
-  "text" : "Either way, you've wasted your time.",
-  "translations" : {
-    "russian" : "В любом случае вы зря потратили время."
-  },
-  "tokens" : [ {
-    "token" : "either",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "way",
-    "startOffset" : 7,
-    "endOffset" : 10,
+    "startOffset" : 5,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "you've",
+    "token" : "enough",
     "startOffset" : 12,
     "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "wast",
+    "token" : "fuel",
     "startOffset" : 19,
-    "endOffset" : 25,
+    "endOffset" : 23,
     "position" : 3
-  }, {
-    "token" : "your",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "time",
-    "startOffset" : 31,
-    "endOffset" : 35,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

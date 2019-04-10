@@ -32,146 +32,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgm1VtNEXFMlzHLEkL",
-  "text" : "Go plan, are slow.",
-  "translations" : {
-    "russian" : "Они идут вяло и неторопливо."
-  },
-  "tokens" : [ {
-    "token" : "go",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "plan",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "slow",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqPPONEXFMlzHLJX6",
-  "text" : "Nick's plan sounds fair.",
-  "translations" : {
-    "russian" : "А вот план Ника звучит справедливо."
-  },
-  "tokens" : [ {
-    "token" : "nick",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "plan",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "sounds",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "fair",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgisMeNEXFMlzHK_Yl",
-  "text" : "Nick's plan sounds fair.",
-  "translations" : {
-    "russian" : "А вот план Ника звучит справедливо."
-  },
-  "tokens" : [ {
-    "token" : "nick",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "plan",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "sounds",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "fair",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglh1vNEXFMlzHLCsh",
-  "text" : "Plans, permits, environmental reports.",
-  "translations" : {
-    "russian" : "Планы, разрешения. Экологические отчеты."
-  },
-  "tokens" : [ {
-    "token" : "plan",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "permit",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "environmental",
-    "startOffset" : 16,
-    "endOffset" : 29,
-    "position" : 2
-  }, {
-    "token" : "port",
-    "startOffset" : 30,
-    "endOffset" : 37,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglmc1NEXFMlzHLC0j",
-  "text" : "Plans, permits, environmental reports.",
-  "translations" : {
-    "russian" : "Планы, разрешения. Экологические отчеты."
-  },
-  "tokens" : [ {
-    "token" : "plan",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "permit",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "environmental",
-    "startOffset" : 16,
-    "endOffset" : 29,
-    "position" : 2
-  }, {
-    "token" : "port",
-    "startOffset" : 30,
-    "endOffset" : 37,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgu7xrNEXFMlzHLQEp",
   "text" : "When's your plane, Saul?",
   "translations" : {
@@ -196,6 +56,62 @@
     "token" : "saul",
     "startOffset" : 19,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPWAqDTAu_IiLd9Iu",
+  "text" : "Plane, train, automobile, whatever.",
+  "translations" : {
+    "russian" : "Самолет, поезд, автомобиль, что угодно."
+  },
+  "tokens" : [ {
+    "token" : "plane",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "train",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "automobile",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "whatever",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEssNWDTAu_IiLe6cA",
+  "text" : "It's plane, Quixote said...",
+  "translations" : {
+    "russian" : "Это понятно, сказал Кихот..."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "plane",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "quixote",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "said",
+    "startOffset" : 20,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
@@ -256,76 +172,43 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbsUXNEXFMlzHK5V2",
-  "text" : "It's not my birth plan.",
+  "id" : "AWoEaawaDTAu_IiLes2p",
+  "text" : "The plane is pressurized.",
   "translations" : {
-    "russian" : "У меня был другой план родов."
+    "russian" : "У нас стабильное давление."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "the",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "not",
-    "startOffset" : 5,
-    "endOffset" : 8,
+    "token" : "plane",
+    "startOffset" : 4,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "my",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "birth",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "plan",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyOhDNEXFMlzHLUh9",
-  "text" : "Europe plans to pass Japan.",
-  "translations" : {
-    "russian" : "Европа планирует обогнать Японию."
-  },
-  "tokens" : [ {
-    "token" : "europe",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "plan",
-    "startOffset" : 7,
+    "token" : "is",
+    "startOffset" : 10,
     "endOffset" : 12,
-    "position" : 1
+    "position" : 2
   }, {
-    "token" : "to",
+    "token" : "pressurized",
     "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "pass",
-    "startOffset" : 16,
-    "endOffset" : 20,
+    "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "japan",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
+    "token" : "pressurize",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpBKXNEXFMlzHLHtr",
-  "text" : "The plan doesn't cover cosmetic.",
+  "id" : "AWoEmgT3DTAu_IiLe18l",
+  "text" : "The plane spotter.",
   "translations" : {
-    "russian" : "Страховка не распространяется на косметику."
+    "russian" : "Наблюдатель."
   },
   "tokens" : [ {
     "token" : "the",
@@ -333,63 +216,15 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "plan",
+    "token" : "plane",
     "startOffset" : 4,
-    "endOffset" : 8,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "doesn't",
-    "startOffset" : 9,
-    "endOffset" : 16,
+    "token" : "spotter",
+    "startOffset" : 10,
+    "endOffset" : 17,
     "position" : 2
-  }, {
-    "token" : "cover",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "cove",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "cosmetic",
-    "startOffset" : 23,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghcYbNEXFMlzHK-WA",
-  "text" : "The plan's still good, love.",
-  "translations" : {
-    "russian" : "План всё равно хороший, дорогая."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "plan",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "still",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "good",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "love",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -459,6 +294,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDPugwDTAu_IiLd9W-",
+  "text" : "The plane is on autopilot.",
+  "translations" : {
+    "russian" : "Самолет летит на автопилоте."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "plane",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "autopilot",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrCUCNEXFMlzHLKaT",
   "text" : "Then who's piloting that plane?",
   "translations" : {
@@ -494,6 +362,138 @@
     "startOffset" : 25,
     "endOffset" : 30,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgu7p_NEXFMlzHLQEV",
+  "text" : "And us in our plane.",
+  "translations" : {
+    "russian" : "И кроме нас, в нашем самолёте."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "us",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "our",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 3
+  }, {
+    "token" : "plane",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgwmkQNEXFMlzHLSWS",
+  "text" : "I can charter a plane.",
+  "translations" : {
+    "russian" : "Я могу нанять самолет."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "charter",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "chart",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "plane",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgxRx_NEXFMlzHLTDI",
+  "text" : "Roger, the plane is refueling.",
+  "translations" : {
+    "russian" : "Роджер, самолёт заправляется."
+  },
+  "tokens" : [ {
+    "token" : "roger",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "rog",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "plane",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "fuel",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQTMNDTAu_IiLd9tt",
+  "text" : "Some plan, Adagio.",
+  "translations" : {
+    "russian" : "Адажио."
+  },
+  "tokens" : [ {
+    "token" : "some",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "plan",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "adagio",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

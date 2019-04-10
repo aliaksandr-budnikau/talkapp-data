@@ -126,6 +126,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFeZjRDTAu_IiLffK1",
+  "text" : "All ships coordinate homing beacons.",
+  "translations" : {
+    "russian" : "Всем кораблям согласовать свои приводные маяки."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ship",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "coordinate",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "homing",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "home",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "beacon",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwP8TNEXFMlzHLSAG",
   "text" : "The beacon is still sending.",
   "translations" : {
@@ -155,6 +193,82 @@
     "token" : "send",
     "startOffset" : 20,
     "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFePhRDTAu_IiLffDp",
+  "text" : "All ships coordinate homing beacons.",
+  "translations" : {
+    "russian" : "Всем кораблям согласовать свои приводные маяки."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ship",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "coordinate",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "homing",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "home",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "beacon",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeUAuDTAu_IiLffG0",
+  "text" : "All ships coordinate homing beacons.",
+  "translations" : {
+    "russian" : "Всем кораблям согласовать свои приводные маяки."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ship",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "coordinate",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "homing",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "home",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "beacon",
+    "startOffset" : 28,
+    "endOffset" : 35,
     "position" : 4
   } ],
   "contentScore" : null

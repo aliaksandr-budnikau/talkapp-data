@@ -271,44 +271,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzL57NEXFMlzHLV8d",
-  "text" : "Prepare a wagon for my treasure.",
-  "translations" : {
-    "russian" : "Подготовьте тележку для моего сокровища."
-  },
-  "tokens" : [ {
-    "token" : "prepare",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "wagon",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "my",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "treasure",
-    "startOffset" : 23,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgzLVjNEXFMlzHLV7S",
   "text" : "She's out yonder in the wagon.",
   "translations" : {
@@ -343,6 +305,44 @@
     "token" : "wagon",
     "startOffset" : 24,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgzL57NEXFMlzHLV8d",
+  "text" : "Prepare a wagon for my treasure.",
+  "translations" : {
+    "russian" : "Подготовьте тележку для моего сокровища."
+  },
+  "tokens" : [ {
+    "token" : "prepare",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "wagon",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "my",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "treasure",
+    "startOffset" : 23,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

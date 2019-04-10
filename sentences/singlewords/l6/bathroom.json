@@ -1,4 +1,88 @@
 [ {
+  "id" : "AWoEpQ-UDTAu_IiLe4DE",
+  "text" : "Bathroom visits and duration.",
+  "translations" : {
+    "russian" : "Посещения ванной... и продолжительность."
+  },
+  "tokens" : [ {
+    "token" : "bathroom",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "visit",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "duration",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1vxVDTAu_IiLeTBl",
+  "text" : "In the bathroom's cupboard...",
+  "translations" : {
+    "russian" : "В ванной комнате, в шкафу..."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "bathroom",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "cupboard",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSMpMDTAu_IiLfV7w",
+  "text" : "The tap dripping bathroom.",
+  "translations" : {
+    "russian" : "Да это из крана капает."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "tap",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "dripping",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "bathroom",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzLDvNEXFMlzHLV6u",
   "text" : "A vestibule and a bathroom.",
   "translations" : {
@@ -29,6 +113,115 @@
     "startOffset" : 18,
     "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEct4uDTAu_IiLeuY7",
+  "text" : "Oppression is in the bathroom.",
+  "translations" : {
+    "russian" : "Притеснение в туалете."
+  },
+  "tokens" : [ {
+    "token" : "oppression",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "bathroom",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFB50MDTAu_IiLfJd0",
+  "text" : "It's the bathroom drains that leak.",
+  "translations" : {
+    "russian" : "Это стоки в ванной протекают."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "bathroom",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "drain",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "that",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "leak",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEY2YADTAu_IiLerzq",
+  "text" : "Guaranteed our bathroom is still messier.",
+  "translations" : {
+    "russian" : "Даю гарантию, наша ванна все еще грязная."
+  },
+  "tokens" : [ {
+    "token" : "guarantee",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "our",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "bathroom",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "still",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "messy",
+    "startOffset" : 33,
+    "endOffset" : 40,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -66,6 +259,44 @@
     "token" : "bathroom",
     "startOffset" : 20,
     "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPk0lDTAu_IiLfT2s",
+  "text" : "Put a stool in the bathroom.",
+  "translations" : {
+    "russian" : "Поставь табурет в туалете."
+  },
+  "tokens" : [ {
+    "token" : "put",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "stool",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 4
+  }, {
+    "token" : "bathroom",
+    "startOffset" : 19,
+    "endOffset" : 27,
     "position" : 5
   } ],
   "contentScore" : null

@@ -32,6 +32,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD4e9LDTAu_IiLeUSo",
+  "text" : "Volunteering at the VA.",
+  "translations" : {
+    "russian" : "Волонтерствую у ветеранов."
+  },
+  "tokens" : [ {
+    "token" : "volunteer",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "at",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "va",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgs_CJNEXFMlzHLNLL",
   "text" : "I didn't actually volunteer.",
   "translations" : {
@@ -228,6 +256,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDTY9BDTAu_IiLd_1V",
+  "text" : "This clinic I volunteer at.",
+  "translations" : {
+    "russian" : "В этой клинике я работаю добровольцем."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "clinic",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "i",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "volunteer",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "at",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgs-mFNEXFMlzHLNKr",
   "text" : "We ran employees and volunteers.",
   "translations" : {
@@ -290,6 +351,39 @@
     "token" : "volunteer",
     "startOffset" : 16,
     "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEf4E5DTAu_IiLew0j",
+  "text" : "Literacy Volunteer of the Year.",
+  "translations" : {
+    "russian" : "Добровольный помощник грамотности года."
+  },
+  "tokens" : [ {
+    "token" : "literacy",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "volunteer",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "year",
+    "startOffset" : 26,
+    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null
@@ -404,120 +498,6 @@
     "token" : "volunteer",
     "startOffset" : 30,
     "endOffset" : 41,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgs-0uNEXFMlzHLNK-",
-  "text" : "Volunteers don't usually stay this late.",
-  "translations" : {
-    "russian" : "Волонтеры обычно не остаются допоздна."
-  },
-  "tokens" : [ {
-    "token" : "volunteer",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "don't",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "usual",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "stay",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "this",
-    "startOffset" : 30,
-    "endOffset" : 34,
-    "position" : 4
-  }, {
-    "token" : "late",
-    "startOffset" : 35,
-    "endOffset" : 39,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgs_VbNEXFMlzHLNLn",
-  "text" : "I volunteered to bring the ice.",
-  "translations" : {
-    "russian" : "Я предложил доставить лёд."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "volunteer",
-    "startOffset" : 2,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "bring",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "ice",
-    "startOffset" : 27,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgs_HRNEXFMlzHLNLT",
-  "text" : "We volunteered because we hate ourselves.",
-  "translations" : {
-    "russian" : "Мы вызвались, потому что ненавидим себя."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "volunteer",
-    "startOffset" : 3,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "because",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "we",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "hate",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "ourselves",
-    "startOffset" : 31,
-    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null

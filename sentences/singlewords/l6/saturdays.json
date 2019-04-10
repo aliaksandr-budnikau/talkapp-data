@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoDhjVmDTAu_IiLeH3x",
+  "text" : "West Ham, every Saturday.",
+  "translations" : {
+    "russian" : "Матчи Вест Хэм каждую субботу."
+  },
+  "tokens" : [ {
+    "token" : "west",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "w",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ham",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "every",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "saturday",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEINS_DTAu_IiLefYv",
+  "text" : "All occurring on Saturdays.",
+  "translations" : {
+    "russian" : "Все происходит по субботам."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "occurring",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "saturday",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJTS-DTAu_IiLegJ_",
+  "text" : "Saturday's my volleyball night.",
+  "translations" : {
+    "russian" : "В субботу у меня волейбольный вечер."
+  },
+  "tokens" : [ {
+    "token" : "saturday",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "volleyball",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "night",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmDbLNEXFMlzHLDOa",
   "text" : "One Saturday in June.",
   "translations" : {
@@ -61,6 +150,77 @@
     "token" : "saturday",
     "startOffset" : 21,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFP4-1DTAu_IiLfUHU",
+  "text" : "Supervised visitation every other Saturday?",
+  "translations" : {
+    "russian" : "Встречи под наблюдение раз в две субботы?"
+  },
+  "tokens" : [ {
+    "token" : "supervised",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "supervise",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "visitation",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "every",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "other",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "saturday",
+    "startOffset" : 34,
+    "endOffset" : 42,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFiZmaDTAu_IiLfhyI",
+  "text" : "Uh, baby's christening's on Saturday.",
+  "translations" : {
+    "russian" : "В субботу будут крестины малыша."
+  },
+  "tokens" : [ {
+    "token" : "uh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "baby",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "christening",
+    "startOffset" : 11,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "saturday",
+    "startOffset" : 28,
+    "endOffset" : 36,
     "position" : 4
   } ],
   "contentScore" : null
@@ -141,6 +301,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFSiySDTAu_IiLfWMb",
+  "text" : "Sorry, son, capitalism knows no Saturday.",
+  "translations" : {
+    "russian" : "Извини сын, капитализм не признает субботу."
+  },
+  "tokens" : [ {
+    "token" : "sorry",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "son",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "capitalism",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "know",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "no",
+    "startOffset" : 29,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "saturday",
+    "startOffset" : 32,
+    "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqEdiNEXFMlzHLJI8",
   "text" : "The funeral is set for Saturday.",
   "translations" : {
@@ -175,6 +373,44 @@
     "token" : "saturday",
     "startOffset" : 23,
     "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsoRsDTAu_IiLe6Zh",
+  "text" : "Hill Valley weather this Saturday night.",
+  "translations" : {
+    "russian" : "Сводка погоды на вечер субботы в Хилл Велли."
+  },
+  "tokens" : [ {
+    "token" : "hill",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "valley",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "weather",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "this",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "saturday",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "night",
+    "startOffset" : 34,
+    "endOffset" : 39,
     "position" : 5
   } ],
   "contentScore" : null

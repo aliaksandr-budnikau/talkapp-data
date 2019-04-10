@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoElABlDTAu_IiLe01a",
+  "text" : "Recite the herb list.",
+  "translations" : {
+    "russian" : "Повторяй список трав."
+  },
+  "tokens" : [ {
+    "token" : "recite",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cite",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "herb",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "list",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgv7vUNEXFMlzHLRqS",
   "text" : "It's herbs ground into paste.",
   "translations" : {
@@ -28,6 +61,39 @@
     "token" : "paste",
     "startOffset" : 23,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeN4cDTAu_IiLevhD",
+  "text" : "Wormwood, the herb of oblivion.",
+  "translations" : {
+    "russian" : "Это полынь трава забвения."
+  },
+  "tokens" : [ {
+    "token" : "wormwood",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "herb",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "oblivion",
+    "startOffset" : 22,
+    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null

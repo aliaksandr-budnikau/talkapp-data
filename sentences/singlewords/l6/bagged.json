@@ -27,6 +27,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE1mAoDTAu_IiLfAwV",
+  "text" : "Bagged anything... err, George?",
+  "translations" : {
+    "russian" : "Подстрелил что-нибудь, эээ... Джордж?"
+  },
+  "tokens" : [ {
+    "token" : "bagged",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "anything",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "err",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "george",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgd0SfNEXFMlzHK7MS",
   "text" : "Get what they bagged.",
   "translations" : {
@@ -51,6 +79,34 @@
     "token" : "bagged",
     "startOffset" : 14,
     "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1kHRDTAu_IiLfAvD",
+  "text" : "Bagged anything... err, George?",
+  "translations" : {
+    "russian" : "Подстрелил что-нибудь, эээ... Джордж?"
+  },
+  "tokens" : [ {
+    "token" : "bagged",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "anything",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "err",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "george",
+    "startOffset" : 24,
+    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null
@@ -165,6 +221,44 @@
     "token" : "effect",
     "startOffset" : 32,
     "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXx0gDTAu_IiLerD4",
+  "text" : "Congratulations, you bagged a weakened gazelle.",
+  "translations" : {
+    "russian" : "Поздравляю, поймал раненную газель!"
+  },
+  "tokens" : [ {
+    "token" : "congratulate",
+    "startOffset" : 0,
+    "endOffset" : 15,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "bagged",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 28,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "weaken",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 4
+  }, {
+    "token" : "gazelle",
+    "startOffset" : 39,
+    "endOffset" : 46,
     "position" : 5
   } ],
   "contentScore" : null

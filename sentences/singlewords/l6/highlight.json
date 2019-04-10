@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDscWZDTAu_IiLeN3h",
+  "text" : "Muscle guy. Blonde highlights?",
+  "translations" : {
+    "russian" : "Мускулистый, со светлыми прядями?"
+  },
+  "tokens" : [ {
+    "token" : "muscle",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "guy",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "blonde",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "highlight",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgge2ANEXFMlzHK9gM",
   "text" : "You do the highlighted parts.",
   "translations" : {
@@ -99,6 +127,44 @@
     "token" : "highlight",
     "startOffset" : 27,
     "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDam_CDTAu_IiLeD39",
+  "text" : "The section on infidelity is highlighted.",
+  "translations" : {
+    "russian" : "В нем есть раздел, посвященный неверности."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "section",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "fidelity",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "is",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "highlight",
+    "startOffset" : 29,
+    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null

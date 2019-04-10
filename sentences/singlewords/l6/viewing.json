@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoFA-uZDTAu_IiLfIxx",
+  "text" : "To the outdated viewing device!",
+  "translations" : {
+    "russian" : "К устарелому средству визуализации!"
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "outdated",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "viewing",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "view",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "vice",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgr7TcNEXFMlzHLLt5",
   "text" : "Corner, river view.",
   "translations" : {
@@ -122,6 +160,44 @@
     "token" : "view",
     "startOffset" : 23,
     "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrcncDTAu_IiLeNQk",
+  "text" : "Obstructed view. -Signal's fading.",
+  "translations" : {
+    "russian" : "Обзор затруднен, сигнал пропадает."
+  },
+  "tokens" : [ {
+    "token" : "obstructed",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "obstruct",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "view",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "signal's",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "fading",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "fad",
+    "startOffset" : 27,
+    "endOffset" : 33,
     "position" : 3
   } ],
   "contentScore" : null
@@ -362,6 +438,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDsbWWDTAu_IiLeN24",
+  "text" : "Blonde who opens a view.",
+  "translations" : {
+    "russian" : "Блондинкой, которая открывает представление."
+  },
+  "tokens" : [ {
+    "token" : "blonde",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "who",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "opens",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "op",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "view",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgr9RoNEXFMlzHLLwz",
   "text" : "But what about the view?",
   "translations" : {
@@ -395,154 +509,35 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgr8GdNEXFMlzHLLvD",
-  "text" : "Your views are not important.",
+  "id" : "AWoEGzeGDTAu_IiLeeZe",
+  "text" : "And the view is swell.",
   "translations" : {
-    "russian" : "Ваши мнения не важны."
+    "russian" : "Да и вид из окна шикарный."
   },
   "tokens" : [ {
-    "token" : "your",
+    "token" : "and",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
-  }, {
-    "token" : "views",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "view",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "not",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "important",
-    "startOffset" : 19,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr893NEXFMlzHLLwT",
-  "text" : "I've always loved this view.",
-  "translations" : {
-    "russian" : "L' ve всегда любил эту точку зрения."
-  },
-  "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "alway",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "loved",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "love",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "this",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "view",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr7MmNEXFMlzHLLtt",
-  "text" : "Darla always loved a view.",
-  "translations" : {
-    "russian" : "Дарле всегда нравилось все с красивым видом."
-  },
-  "tokens" : [ {
-    "token" : "darla",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "alway",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "loved",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "love",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 19,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "view",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr9T0NEXFMlzHLLw4",
-  "text" : "He's drawing the same view.",
-  "translations" : {
-    "russian" : "Он рисует один и тот же пейзаж."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "drawing",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "draw",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
   }, {
     "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "same",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
   }, {
     "token" : "view",
-    "startOffset" : 22,
-    "endOffset" : 26,
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "swell",
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 4
   } ],
   "contentScore" : null

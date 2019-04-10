@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoFKqUtDTAu_IiLfQKl",
+  "text" : "Dressy casual.",
+  "translations" : {
+    "russian" : "Одежда повседневная."
+  },
+  "tokens" : [ {
+    "token" : "dressy",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "casual",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyUouDTAu_IiLeRRl",
+  "text" : "Former fiance, casual fling...",
+  "translations" : {
+    "russian" : "Может, он рассказывал о какой-нибудь женщине? Бывшая невеста, мимолетное увлечение..."
+  },
+  "tokens" : [ {
+    "token" : "former",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fiance",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "casual",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "fling",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "fl",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgk8RsNEXFMlzHLBpO",
   "text" : "Say nothing, act casual.",
   "translations" : {
@@ -24,6 +75,270 @@
     "startOffset" : 17,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEwHTDTAu_IiLfLhV",
+  "text" : "Sonny's casual acquaintances, eh?",
+  "translations" : {
+    "russian" : "Лучайные знакомства -- улана, да!"
+  },
+  "tokens" : [ {
+    "token" : "sonny",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "casual",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "acquaintance",
+    "startOffset" : 15,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "eh",
+    "startOffset" : 30,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDy-maDTAu_IiLeRok",
+  "text" : "Former fiance, casual fling...",
+  "translations" : {
+    "russian" : "Может, он рассказывал о какой-нибудь женщине? Бывшая невеста, мимолетное увлечение..."
+  },
+  "tokens" : [ {
+    "token" : "former",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fiance",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "casual",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "fling",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "fl",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETjxkDTAu_IiLen5M",
+  "text" : "I'm only casual labour.",
+  "translations" : {
+    "russian" : "Я временный рабочий."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "only",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "casual",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "labour",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKqVyDTAu_IiLfQKm",
+  "text" : "It's my dressy casual.",
+  "translations" : {
+    "russian" : "Это моя повседневная одежда."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "dressy",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "casual",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEwxmDTAu_IiLfLhw",
+  "text" : "This is no casual acquaintance.",
+  "translations" : {
+    "russian" : "Это не случайное знакомство."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "casual",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "acquaintance",
+    "startOffset" : 18,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDi8eLDTAu_IiLeIqa",
+  "text" : "We have a casual vacancy.",
+  "translations" : {
+    "russian" : "У нас случайная вакансия."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "casual",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "vacancy",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDySk2DTAu_IiLeRQM",
+  "text" : "Neither. Just a few casual flings.",
+  "translations" : {
+    "russian" : "Только мимолетные романы."
+  },
+  "tokens" : [ {
+    "token" : "neither",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "few",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "casual",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "fl",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDy8G6DTAu_IiLeRnL",
+  "text" : "Neither. Just a few casual flings.",
+  "translations" : {
+    "russian" : "Только мимолетные романы."
+  },
+  "tokens" : [ {
+    "token" : "neither",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "few",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "casual",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "fl",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -61,6 +376,44 @@
     "token" : "chat",
     "startOffset" : 25,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdWG9DTAu_IiLeFbg",
+  "text" : "Maybe for banal, stupid, casual life.",
+  "translations" : {
+    "russian" : "Может быть, по банальной, глупой, обыкновенной жизни."
+  },
+  "tokens" : [ {
+    "token" : "maybe",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "banal",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "stupid",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "casual",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "life",
+    "startOffset" : 32,
+    "endOffset" : 36,
     "position" : 5
   } ],
   "contentScore" : null

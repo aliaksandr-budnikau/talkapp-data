@@ -1,4 +1,68 @@
 [ {
+  "id" : "AWoFUhzTDTAu_IiLfXos",
+  "text" : "Grandpa's coughing.",
+  "translations" : {
+    "russian" : "Дед кашляет, а зачем?"
+  },
+  "tokens" : [ {
+    "token" : "grandpa",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "cough",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUmcKDTAu_IiLfXr7",
+  "text" : "Grandpa's coughing.",
+  "translations" : {
+    "russian" : "Дед кашляет, а зачем?"
+  },
+  "tokens" : [ {
+    "token" : "grandpa",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "cough",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBTh6DTAu_IiLeaKo",
+  "text" : "Good-bye, grandpa crotch.",
+  "translations" : {
+    "russian" : "Прощай, пердунский пах."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bye",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "grandpa",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "crotch",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvWPrNEXFMlzHLQuX",
   "text" : "You called me, Grandpa?",
   "translations" : {
@@ -32,6 +96,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEBVT9DTAu_IiLeaMD",
+  "text" : "Good-bye, grandpa crotch.",
+  "translations" : {
+    "russian" : "Прощай, пердунский пах."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bye",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "grandpa",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "crotch",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxkFUNEXFMlzHLTa_",
   "text" : "Grandpa was nodding off.",
   "translations" : {
@@ -57,6 +149,29 @@
     "startOffset" : 20,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhTq6DTAu_IiLex8g",
+  "text" : "Psychedelic mushrooms, Grandpa.",
+  "translations" : {
+    "russian" : "Галлюциногенные грибочки, Дед."
+  },
+  "tokens" : [ {
+    "token" : "psychedelic",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "mushroom",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "grandpa",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -90,6 +205,77 @@
     "startOffset" : 28,
     "endOffset" : 35,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjUMcDTAu_IiLfiYz",
+  "text" : "Look, crocodile, your Grandpa's here!",
+  "translations" : {
+    "russian" : "Смотри, крокодильчик, пришел твой дедушка!"
+  },
+  "tokens" : [ {
+    "token" : "look",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "crocodile",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "grandpa",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "here",
+    "startOffset" : 32,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoET64JDTAu_IiLeoK0",
+  "text" : "Grandma and grandpa's Jag is here.",
+  "translations" : {
+    "russian" : "Ягуар бабушки с дедушкой подъехал."
+  },
+  "tokens" : [ {
+    "token" : "grandma",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "grandpa",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "jag",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "is",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "here",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

@@ -1,0 +1,77 @@
+[ {
+  "id" : "AWoDmU-_DTAu_IiLeKhf",
+  "text" : "Debit card, wedding kiosk, Niagara Falls.",
+  "translations" : {
+    "russian" : "Кредитная карта, свадебный киоск, Ниагарский водопад."
+  },
+  "tokens" : [ {
+    "token" : "debit",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "card",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "wedding",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "kiosk",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "niagara",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "fall",
+    "startOffset" : 35,
+    "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkbwmDTAu_IiLe0aL",
+  "text" : "One of credit, one of debit.",
+  "translations" : {
+    "russian" : "Одна для кредита, одну для дебета."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "credit",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "one",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "debit",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

@@ -1,4 +1,146 @@
 [ {
+  "id" : "AWoEFwOlDTAu_IiLedoS",
+  "text" : "Who held you captive?",
+  "translations" : {
+    "russian" : "Кто вас удерживал?"
+  },
+  "tokens" : [ {
+    "token" : "who",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "held",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "captive",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "capt",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFwzdDTAu_IiLedos",
+  "text" : "She's held captive... for you.",
+  "translations" : {
+    "russian" : "Ее держат... для тебя."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "held",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "captive",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "capt",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "you",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-hkjDTAu_IiLfG1A",
+  "text" : "Suffer defeat, held under occupation.",
+  "translations" : {
+    "russian" : "Терпит поражение, оккупацию."
+  },
+  "tokens" : [ {
+    "token" : "suffer",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "defeat",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "held",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "under",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "occupation",
+    "startOffset" : 26,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGwKBDTAu_IiLfM_L",
+  "text" : "Held up by constituency business.",
+  "translations" : {
+    "russian" : "Задержали дела с избирателями."
+  },
+  "tokens" : [ {
+    "token" : "held",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "by",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "constituency",
+    "startOffset" : 11,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "business",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "busy",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnetPNEXFMlzHLFhP",
   "text" : "Not held today we braise.",
   "translations" : {
@@ -28,6 +170,44 @@
     "token" : "braise",
     "startOffset" : 18,
     "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFtKrDTAu_IiLedmA",
+  "text" : "It's said he's held captive.",
+  "translations" : {
+    "russian" : "Говорят, что его взяли в плен."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "said",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "he",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "held",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "captive",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "capt",
+    "startOffset" : 20,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
@@ -66,6 +246,120 @@
     "token" : "time",
     "startOffset" : 23,
     "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDP7YnDTAu_IiLd9d0",
+  "text" : "Writers are held by professional confidentiality.",
+  "translations" : {
+    "russian" : "Писатели умеют хранить профессиональные тайны."
+  },
+  "tokens" : [ {
+    "token" : "writ",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "held",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "by",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "professional",
+    "startOffset" : 20,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "confidentiality",
+    "startOffset" : 33,
+    "endOffset" : 48,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDeCl7DTAu_IiLeF0O",
+  "text" : "The last tree held nine drums.",
+  "translations" : {
+    "russian" : "В предыдущее дерево вошло 9 бочек."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "last",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "tree",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "held",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "nine",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "drum",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfSynDTAu_IiLewWk",
+  "text" : "I'VE BEEN HELD UP AND ROBBED.",
+  "translations" : {
+    "russian" : "Меня связали и ограбили."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "been",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "held",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "up",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "robbed",
+    "startOffset" : 22,
+    "endOffset" : 28,
     "position" : 5
   } ],
   "contentScore" : null

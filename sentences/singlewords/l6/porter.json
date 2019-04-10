@@ -98,6 +98,77 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEdkY5DTAu_IiLevAu",
+  "text" : "Porter loves his puzzles.",
+  "translations" : {
+    "russian" : "Потер обожает паззлы."
+  },
+  "tokens" : [ {
+    "token" : "porter",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "port",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "love",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "puzzle",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFS28SDTAu_IiLfWbW",
+  "text" : "Love For Sale, Cole Porter...",
+  "translations" : {
+    "russian" : "Продажная любовь Коула Портера..."
+  },
+  "tokens" : [ {
+    "token" : "love",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "sale",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "cole",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "porter",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "port",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyhzENEXFMlzHLU8I",
   "text" : "Again, I'm porter's.",
   "translations" : {
@@ -199,6 +270,65 @@
     "startOffset" : 25,
     "endOffset" : 29,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdrpgDTAu_IiLfeqX",
+  "text" : "Conflicting reports.",
+  "translations" : {
+    "russian" : "Противоречивые данные."
+  },
+  "tokens" : [ {
+    "token" : "conflicting",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "conflict",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "port",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMDjMDTAu_IiLfRPd",
+  "text" : "INITIAL REPORT.",
+  "translations" : {
+    "russian" : "Первоначальный доклад."
+  },
+  "tokens" : [ {
+    "token" : "initial",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "port",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUv-XDTAu_IiLfXyu",
+  "text" : "Quadrant report.",
+  "translations" : {
+    "russian" : "Сектора, докладывайте."
+  },
+  "tokens" : [ {
+    "token" : "quadrant",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "port",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
@@ -333,151 +463,6 @@
     "token" : "port",
     "startOffset" : 27,
     "endOffset" : 34,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglkQhNEXFMlzHLCwq",
-  "text" : "No reports for DC.",
-  "translations" : {
-    "russian" : "Никаких сообщений из Вашингтона."
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "port",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "dc",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgln4pNEXFMlzHLC19",
-  "text" : "An environmental impact report?",
-  "translations" : {
-    "russian" : "Тчет о вли нии на экологию?"
-  },
-  "tokens" : [ {
-    "token" : "an",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "environmental",
-    "startOffset" : 3,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "impact",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "port",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguD4jNEXFMlzHLOYe",
-  "text" : "Reporting for duty, sir.",
-  "translations" : {
-    "russian" : "Готов к службе, сэр."
-  },
-  "tokens" : [ {
-    "token" : "port",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "duty",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "sir",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglipPNEXFMlzHLCt7",
-  "text" : "An environmental impact report?",
-  "translations" : {
-    "russian" : "Тчет о вли нии на экологию?"
-  },
-  "tokens" : [ {
-    "token" : "an",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "environmental",
-    "startOffset" : 3,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "impact",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "port",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgohARNEXFMlzHLHCX",
-  "text" : "She never reported it.",
-  "translations" : {
-    "russian" : "Она никогда не сообщала о побоях."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "never",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "reported",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "port",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "it",
-    "startOffset" : 19,
-    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null

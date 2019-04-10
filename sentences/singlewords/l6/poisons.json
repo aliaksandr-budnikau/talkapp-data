@@ -1,84 +1,349 @@
 [ {
-  "id" : "AWbgj1k_NEXFMlzHLAW6",
-  "text" : "That gas isn't poison, it's food!",
+  "id" : "AWoDyOpRDTAu_IiLeRNY",
+  "text" : "Poison darts!",
   "translations" : {
-    "russian" : "Газ это не яд, это еда!"
+    "russian" : "Отравленные дротики!"
   },
   "tokens" : [ {
-    "token" : "that",
+    "token" : "poison",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dart",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDauUxDTAu_IiLeD8S",
+  "text" : "Atropine poisoning.",
+  "translations" : {
+    "russian" : "Отравление атропином."
+  },
+  "tokens" : [ {
+    "token" : "atropine",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "poisoning",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "poison",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyOKZDTAu_IiLeRNF",
+  "text" : "Poison dart?",
+  "translations" : {
+    "russian" : "Отравленный дротик?"
+  },
+  "tokens" : [ {
+    "token" : "poison",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dart",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQNOQDTAu_IiLfUX9",
+  "text" : "Only poison can exterminate poison.",
+  "translations" : {
+    "russian" : "Яд уничтожает яд."
+  },
+  "tokens" : [ {
+    "token" : "only",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "gas",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "isn't",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "poison",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "food",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmf4XNEXFMlzHLD_X",
-  "text" : "That gas isn't poison, it's food!",
-  "translations" : {
-    "russian" : "Газ это не яд, это еда!"
-  },
-  "tokens" : [ {
-    "token" : "that",
+    "token" : "on",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "gas",
+    "token" : "poison",
     "startOffset" : 5,
-    "endOffset" : 8,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "isn't",
-    "startOffset" : 9,
-    "endOffset" : 14,
+    "token" : "can",
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "poison",
-    "startOffset" : 15,
-    "endOffset" : 21,
+    "token" : "exterminate",
+    "startOffset" : 16,
+    "endOffset" : 27,
     "position" : 3
   }, {
-    "token" : "it",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "food",
+    "token" : "poison",
     "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
+    "endOffset" : 34,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmZi_NEXFMlzHLD0w",
-  "text" : "She poured poison into the cup!",
+  "id" : "AWoFHB14DTAu_IiLfNNt",
+  "text" : "Only poison can exterminate poison.",
   "translations" : {
-    "russian" : "Она яду всыпала в кубок!"
+    "russian" : "Яд уничтожает яд."
+  },
+  "tokens" : [ {
+    "token" : "only",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "poison",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "can",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "exterminate",
+    "startOffset" : 16,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "poison",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQIglDTAu_IiLfUUE",
+  "text" : "Only poison can exterminate poison.",
+  "translations" : {
+    "russian" : "Яд уничтожает яд."
+  },
+  "tokens" : [ {
+    "token" : "only",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "poison",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "can",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "exterminate",
+    "startOffset" : 16,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "poison",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwOoXDTAu_IiLe85V",
+  "text" : "Smothered, stabbed and poisoned!",
+  "translations" : {
+    "russian" : "Задушен, зарезан и отравлен!"
+  },
+  "tokens" : [ {
+    "token" : "smother",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "stabbed",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "poison",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnfLVDTAu_IiLeLKX",
+  "text" : "The poison will dissipate.",
+  "translations" : {
+    "russian" : "Яд рассосётся."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "poison",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "will",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "dissipate",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvoPODTAu_IiLe8ci",
+  "text" : "I have poison oak.",
+  "translations" : {
+    "russian" : "У меня сумах."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "poison",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "oak",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvoMyDTAu_IiLe8cg",
+  "text" : "You have poison oak...",
+  "translations" : {
+    "russian" : "У тебя сумах..."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "poison",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "oak",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvoRcDTAu_IiLe8ck",
+  "text" : "It's poison oak.",
+  "translations" : {
+    "russian" : "Это сумах!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "poison",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "oak",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7uTqDTAu_IiLfExe",
+  "text" : "He was poisoned, not bewitched.",
+  "translations" : {
+    "russian" : "Он был отравлен, а не околдован."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "poison",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "not",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "bewitch",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDaudDDTAu_IiLeD8Y",
+  "text" : "She died of atropine poisoning.",
+  "translations" : {
+    "russian" : "Она умерла от отравления атропином."
   },
   "tokens" : [ {
     "token" : "she",
@@ -86,37 +351,103 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "pour",
+    "token" : "die",
     "startOffset" : 4,
-    "endOffset" : 10,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "poison",
-    "startOffset" : 11,
-    "endOffset" : 17,
+    "token" : "of",
+    "startOffset" : 9,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "into",
-    "startOffset" : 18,
-    "endOffset" : 22,
+    "token" : "atropine",
+    "startOffset" : 12,
+    "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "the",
-    "startOffset" : 23,
-    "endOffset" : 26,
+    "token" : "poisoning",
+    "startOffset" : 21,
+    "endOffset" : 30,
     "position" : 4
   }, {
-    "token" : "cup",
-    "startOffset" : 27,
+    "token" : "poison",
+    "startOffset" : 21,
     "endOffset" : 30,
-    "position" : 5
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrRVwNEXFMlzHLKwf",
-  "text" : "The poison's already in the tube.",
+  "id" : "AWoEqEZzDTAu_IiLe4oZ",
+  "text" : "Didn't you extract the poison?",
   "translations" : {
-    "russian" : "Яд уже в трубе."
+    "russian" : "Ты не извлек яд?"
+  },
+  "tokens" : [ {
+    "token" : "didn't",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "extract",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "poison",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgyp0DTAu_IiLfgzo",
+  "text" : "Poison brimming in your soul.",
+  "translations" : {
+    "russian" : "Переполненная своим ядом!"
+  },
+  "tokens" : [ {
+    "token" : "poison",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "brimming",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "soul",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5RcZDTAu_IiLeUo5",
+  "text" : "The wine and wafers are poisoned?",
+  "translations" : {
+    "russian" : "Значит вино и вафли были отравлены?"
   },
   "tokens" : [ {
     "token" : "the",
@@ -124,28 +455,28 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "poison",
+    "token" : "wine",
     "startOffset" : 4,
-    "endOffset" : 12,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "already",
-    "startOffset" : 13,
-    "endOffset" : 20,
+    "token" : "and",
+    "startOffset" : 9,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "in",
-    "startOffset" : 21,
-    "endOffset" : 23,
+    "token" : "wafer",
+    "startOffset" : 13,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "the",
-    "startOffset" : 24,
-    "endOffset" : 27,
+    "token" : "are",
+    "startOffset" : 20,
+    "endOffset" : 23,
     "position" : 4
   }, {
-    "token" : "tube",
-    "startOffset" : 28,
+    "token" : "poison",
+    "startOffset" : 24,
     "endOffset" : 32,
     "position" : 5
   } ],

@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoERG2YDTAu_IiLemDd",
+  "text" : "Between your plaque removal.",
+  "translations" : {
+    "russian" : "Занимаясь удалением зубного налета."
+  },
+  "tokens" : [ {
+    "token" : "between",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "plaque",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "removal",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeG8RNEXFMlzHK7cp",
   "text" : "Plaques level with the grass.",
   "translations" : {
@@ -28,6 +56,39 @@
     "token" : "grass",
     "startOffset" : 23,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEM1ZdDTAu_IiLei7M",
+  "text" : "Plaque, cavities, fake-looking veneers.",
+  "translations" : {
+    "russian" : "Зубной налет, кариес, ненатурально выглядящие коронки."
+  },
+  "tokens" : [ {
+    "token" : "plaque",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cavity",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "fake",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "look",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "veneer",
+    "startOffset" : 31,
+    "endOffset" : 38,
     "position" : 4
   } ],
   "contentScore" : null

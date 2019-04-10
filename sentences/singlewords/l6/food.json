@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoE0j6ADTAu_IiLfAC-",
+  "text" : "Beetle food.",
+  "translations" : {
+    "russian" : "Еда для жуков."
+  },
+  "tokens" : [ {
+    "token" : "beetle",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "food",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcQz_NEXFMlzHK52-",
   "text" : "Or turned to food.",
   "translations" : {
@@ -177,6 +195,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgyU5UNEXFMlzHLUvT",
+  "text" : "I can get food.",
+  "translations" : {
+    "russian" : "Я могу добыть еду."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "get",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "food",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxt34NEXFMlzHLTva",
   "text" : "Food court, ground level.",
   "translations" : {
@@ -205,31 +251,87 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyU5UNEXFMlzHLUvT",
-  "text" : "I can get food.",
+  "id" : "AWoDQnR9DTAu_IiLd97_",
+  "text" : "Food and Drug Administration.",
   "translations" : {
-    "russian" : "Я могу добыть еду."
+    "russian" : "Управление по санитарному надзору за качеством пищевых продуктов и медикаментов."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "food",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "can",
-    "startOffset" : 2,
-    "endOffset" : 5,
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "get",
-    "startOffset" : 6,
-    "endOffset" : 9,
+    "token" : "drug",
+    "startOffset" : 9,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "food",
-    "startOffset" : 10,
-    "endOffset" : 14,
+    "token" : "administration",
+    "startOffset" : 14,
+    "endOffset" : 28,
     "position" : 3
+  }, {
+    "token" : "administrate",
+    "startOffset" : 14,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlnm2DTAu_IiLeKIQ",
+  "text" : "No food to spare.",
+  "translations" : {
+    "russian" : "Нет лишнего продовольствия."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "food",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "spare",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtMxIDTAu_IiLeOT4",
+  "text" : "Water, food, ammunition.",
+  "translations" : {
+    "russian" : "Вода, еда, боеприпасы."
+  },
+  "tokens" : [ {
+    "token" : "water",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "food",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "ammunition",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -336,113 +438,6 @@
     "token" : "truck",
     "startOffset" : 20,
     "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyUUvNEXFMlzHLUuJ",
-  "text" : "We've just... got food.",
-  "translations" : {
-    "russian" : "Нам же только принесли еду."
-  },
-  "tokens" : [ {
-    "token" : "we've",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "just",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "got",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "food",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgniN3NEXFMlzHLFm-",
-  "text" : "Favorite food, roast Eagle.",
-  "translations" : {
-    "russian" : "Любимая еда -- жаренный Орел."
-  },
-  "tokens" : [ {
-    "token" : "favorite",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "food",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "roast",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "eagle",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgs0k7NEXFMlzHLM8X",
-  "text" : "Food, water, shelter...",
-  "translations" : {
-    "russian" : "Пища, вода, укрытие..."
-  },
-  "tokens" : [ {
-    "token" : "food",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "water",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "shelter",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzPgyNEXFMlzHLWEE",
-  "text" : "Hot, fat, blood, food.",
-  "translations" : {
-    "russian" : "Горячее, жирное. кровь, еда."
-  },
-  "tokens" : [ {
-    "token" : "hot",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "fat",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "blood",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "food",
-    "startOffset" : 17,
-    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null

@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEEYwBDTAu_IiLecmM",
+  "text" : "There's an external staircase.",
+  "translations" : {
+    "russian" : "Потом иди по наружной лестнице."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "external",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "staircase",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwBp4NEXFMlzHLRvH",
   "text" : "There's a staircase off that corridor.",
   "translations" : {
@@ -33,6 +61,44 @@
     "token" : "corridor",
     "startOffset" : 29,
     "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEm2LMDTAu_IiLe2M6",
+  "text" : "Rickety staircases, faulty wiring, gay poltergeists.",
+  "translations" : {
+    "russian" : "Шаткие лестницы, неисправная проводка, призраки-геи."
+  },
+  "tokens" : [ {
+    "token" : "rickety",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "staircase",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "faulty",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "wiring",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "gay",
+    "startOffset" : 35,
+    "endOffset" : 38,
+    "position" : 4
+  }, {
+    "token" : "poltergeist",
+    "startOffset" : 39,
+    "endOffset" : 51,
     "position" : 5
   } ],
   "contentScore" : null

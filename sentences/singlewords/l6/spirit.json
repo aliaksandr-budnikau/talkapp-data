@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoFEk_vDTAu_IiLfLZ0",
+  "text" : "Malevolent spirits.",
+  "translations" : {
+    "russian" : "Злые духи."
+  },
+  "tokens" : [ {
+    "token" : "malevolent",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "spirits",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "spirit",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFK1UODTAu_IiLfQTM",
+  "text" : "There's that pioneer spirit!",
+  "translations" : {
+    "russian" : "Где твой дух первооткрывателя?"
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "pioneer",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "spirit",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgm9_CNEXFMlzHLEyC",
   "text" : "Crush his spirit, Randy.",
   "translations" : {
@@ -24,6 +75,62 @@
     "startOffset" : 18,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDxjyEDTAu_IiLeQ3u",
+  "text" : "Her spirit wanders everywhere.",
+  "translations" : {
+    "russian" : "Её дух блуждает повсюду."
+  },
+  "tokens" : [ {
+    "token" : "her",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "spirit",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "wand",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "everywhere",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJ9aZDTAu_IiLego2",
+  "text" : "Begone, foolish spirits!",
+  "translations" : {
+    "russian" : "Прочь, глупые духи!"
+  },
+  "tokens" : [ {
+    "token" : "begone",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "foolish",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "spirits",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "spirit",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -56,6 +163,39 @@
     "token" : "heat",
     "startOffset" : 20,
     "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFElDXDTAu_IiLfLZ3",
+  "text" : "Malevolent spirits can't stand'em.",
+  "translations" : {
+    "russian" : "Злые духи терпеть его не могут."
+  },
+  "tokens" : [ {
+    "token" : "malevolent",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "spirits",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "spirit",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "can't",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "stand'em",
+    "startOffset" : 25,
+    "endOffset" : 33,
     "position" : 3
   } ],
   "contentScore" : null
@@ -93,25 +233,147 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmWtGNEXFMlzHLDv6",
-  "text" : "Oh, it's a... spirit stick.",
+  "id" : "AWoDxm_PDTAu_IiLeQ5U",
+  "text" : "And a wandering spirit.",
   "translations" : {
-    "russian" : "А, это... духовный посох."
+    "russian" : "И блуждающий дух."
   },
   "tokens" : [ {
-    "token" : "oh",
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "wander",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "spirit",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7p-IDTAu_IiLfEuP",
+  "text" : "I conjured your spirit.",
+  "translations" : {
+    "russian" : "Я вызвала твой дух."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "conjure",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "spirit",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7qjvDTAu_IiLfEup",
+  "text" : "We never conjured spirits.",
+  "translations" : {
+    "russian" : "Мы никогда не вызывали духов."
+  },
+  "tokens" : [ {
+    "token" : "we",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "it",
+    "token" : "never",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "conjure",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "spirits",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "spirit",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_UIrDTAu_IiLeYor",
+  "text" : "You talk about teamwork, spirit?",
+  "translations" : {
+    "russian" : "Вы вот говорите о команде, командном духе."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "talk",
     "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "a",
+    "token" : "about",
     "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "teamwork",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "spirit",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz0AtDTAu_IiLeSGV",
+  "text" : "Where will my spirit awake?",
+  "translations" : {
+    "russian" : "И где пробудится дух?"
+  },
+  "tokens" : [ {
+    "token" : "where",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 6,
     "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 11,
+    "endOffset" : 13,
     "position" : 2
   }, {
     "token" : "spirit",
@@ -119,314 +381,124 @@
     "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "stick",
+    "token" : "awake",
     "startOffset" : 21,
     "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgknYyNEXFMlzHLBMv",
-  "text" : "I cast you out, unclean spirit!",
+  "id" : "AWoEqIEQDTAu_IiLe4q9",
+  "text" : "Uh, open lid, extract spirit.",
   "translations" : {
-    "russian" : "Изгоняю тебя, нечистый дух!"
+    "russian" : "Открыть, достать дух."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "uh",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "cast",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "clean",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "spirit",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwObDNEXFMlzHLR-r",
-  "text" : "I cast you out, unclean spirit!",
-  "translations" : {
-    "russian" : "Я изгоняю тебя, нечистый дух!"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "cast",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "clean",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "spirit",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgf985NEXFMlzHK9Ds",
-  "text" : "I cast you out, unclean spirit!",
-  "translations" : {
-    "russian" : "Я изгоняю тебя, нечистый дух!"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "cast",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "clean",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "spirit",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgf93RNEXFMlzHK9Dm",
-  "text" : "I cast you out, unclean spirit!",
-  "translations" : {
-    "russian" : "Изгоняю тебя, нечистый дух!"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "cast",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "clean",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "spirit",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgknd6NEXFMlzHLBM1",
-  "text" : "I cast you out, unclean spirit!",
-  "translations" : {
-    "russian" : "Я изгоняю тебя, нечистый дух!"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "cast",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "clean",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "spirit",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxW6eNEXFMlzHLTKC",
-  "text" : "Let your spirit start to soar.",
-  "translations" : {
-    "russian" : "Пусть твой дух начнёт парить."
-  },
-  "tokens" : [ {
-    "token" : "let",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "your",
+    "token" : "open",
     "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "spirit",
+    "token" : "op",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "lid",
     "startOffset" : 9,
-    "endOffset" : 15,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "start",
-    "startOffset" : 16,
+    "token" : "extract",
+    "startOffset" : 14,
     "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "to",
+    "token" : "spirit",
     "startOffset" : 22,
-    "endOffset" : 24,
+    "endOffset" : 28,
     "position" : 4
-  }, {
-    "token" : "soar",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsKnQNEXFMlzHLMDf",
-  "text" : "Nothing like the spirit of charity.",
+  "id" : "AWoEvFXfDTAu_IiLe8EK",
+  "text" : "Wood nymphs, tree spirits... dryads.",
   "translations" : {
-    "russian" : "Никто иной как дух милосердия."
+    "russian" : "Лесные нимфы, духи деревьев... дриады."
   },
   "tokens" : [ {
-    "token" : "nothing",
+    "token" : "wood",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "like",
-    "startOffset" : 8,
+    "token" : "nymphs",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "tree",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "spirits",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "spirit",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "dryad",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdGyZDTAu_IiLeuqv",
+  "text" : "Your spirits shine through you.",
+  "translations" : {
+    "russian" : "Ваш дух блестит в глазах!"
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "spirits",
+    "startOffset" : 5,
     "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
     "token" : "spirit",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "of",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "charity",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwOVMNEXFMlzHLR-l",
-  "text" : "I cast you out, unclean spirit!",
-  "translations" : {
-    "russian" : "Изгоняю тебя, нечистый дух!"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "cast",
-    "startOffset" : 2,
-    "endOffset" : 6,
+    "startOffset" : 5,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "you",
-    "startOffset" : 7,
-    "endOffset" : 10,
+    "token" : "shine",
+    "startOffset" : 13,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "out",
-    "startOffset" : 11,
-    "endOffset" : 14,
+    "token" : "through",
+    "startOffset" : 19,
+    "endOffset" : 26,
     "position" : 3
   }, {
-    "token" : "clean",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "spirit",
-    "startOffset" : 24,
+    "token" : "you",
+    "startOffset" : 27,
     "endOffset" : 30,
-    "position" : 5
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

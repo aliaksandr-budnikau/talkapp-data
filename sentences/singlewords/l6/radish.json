@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEOd8mDTAu_IiLekJQ",
+  "text" : "Great, big, peppery radish.",
+  "translations" : {
+    "russian" : "Большая сочная редиска."
+  },
+  "tokens" : [ {
+    "token" : "great",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "big",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "peppery",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "radish",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmlOXNEXFMlzHLEIh",
   "text" : "You don't grill radishes.",
   "translations" : {
@@ -24,6 +52,39 @@
     "startOffset" : 16,
     "endOffset" : 24,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELEJ4DTAu_IiLehf-",
+  "text" : "There were cabbages, turnips, radishes.",
+  "translations" : {
+    "russian" : "Привезли капусту, репу, редиску."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "were",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "cabbage",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "turnip",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "radish",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

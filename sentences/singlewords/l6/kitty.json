@@ -1,4 +1,68 @@
 [ {
+  "id" : "AWoEXlxPDTAu_IiLeq7Y",
+  "text" : "Happy kitty, sleepy kitty.",
+  "translations" : {
+    "russian" : "Счастливый котенок, Сонный котенок."
+  },
+  "tokens" : [ {
+    "token" : "happy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "kitty",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "sleepy",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "kitty",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9wpvDTAu_IiLfGNG",
+  "text" : "Kitty litter.",
+  "translations" : {
+    "russian" : "Кошачий наполнитель."
+  },
+  "tokens" : [ {
+    "token" : "kitty",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "litter",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9wjIDTAu_IiLfGNA",
+  "text" : "Kitty litter.",
+  "translations" : {
+    "russian" : "Наполнителем для кошачьих туалетов."
+  },
+  "tokens" : [ {
+    "token" : "kitty",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "litter",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiwZqNEXFMlzHK_cI",
   "text" : "Soda sounds great, Kitty.",
   "translations" : {
@@ -24,6 +88,164 @@
     "startOffset" : 19,
     "endOffset" : 24,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRs5CDTAu_IiLd-so",
+  "text" : "Poor Acoustic Kitty.",
+  "translations" : {
+    "russian" : "Бедный акустический котёнок."
+  },
+  "tokens" : [ {
+    "token" : "poor",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "acoustic",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "kitty",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9wmQDTAu_IiLfGND",
+  "text" : "Is that kitty litter?",
+  "translations" : {
+    "russian" : "Это что, кошачий наполнитель?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "kitty",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "litter",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDccagDTAu_IiLeE75",
+  "text" : "I want kitty whiskers!",
+  "translations" : {
+    "russian" : "Хочу усы, как у котенка!"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "want",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "kitty",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "whisk",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDj3BoDTAu_IiLeJLN",
+  "text" : "Kitty, you are importunate.",
+  "translations" : {
+    "russian" : "Китти, ты назойлива."
+  },
+  "tokens" : [ {
+    "token" : "kitty",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "importunate",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD42dBDTAu_IiLeUc8",
+  "text" : "This kitty is Mittens.",
+  "translations" : {
+    "russian" : "Этого котенка зовут Миттенс."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "kitty",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "mitt",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9u6-DTAu_IiLfGLr",
+  "text" : "Kitty litter box.",
+  "translations" : {
+    "russian" : "Кошачий лоток."
+  },
+  "tokens" : [ {
+    "token" : "kitty",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "litter",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "box",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -55,104 +277,38 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqR5WNEXFMlzHLJbd",
-  "text" : "Soda sounds great, Kitty.",
+  "id" : "AWoDRs34DTAu_IiLd-sn",
+  "text" : "That's right, Acoustic Kitty.",
   "translations" : {
-    "russian" : "Содовая это здорово, Китти."
+    "russian" : "Верно, акустический котёнок."
   },
   "tokens" : [ {
-    "token" : "soda",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "sounds",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "great",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "kitty",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzXgeNEXFMlzHLWUn",
-  "text" : "Derek wasn't sweet on Kitty.",
-  "translations" : {
-    "russian" : "Дерек не был влюблён в Китти."
-  },
-  "tokens" : [ {
-    "token" : "derek",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "wasn't",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "sweet",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "kitty",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgspoKNEXFMlzHLMuY",
-  "text" : "You're projecting Kitty onto me.",
-  "translations" : {
-    "russian" : "Ты проецируешь Китти на меня."
-  },
-  "tokens" : [ {
-    "token" : "you're",
+    "token" : "that",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "project",
+    "token" : "right",
     "startOffset" : 7,
-    "endOffset" : 17,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "kitty",
-    "startOffset" : 18,
-    "endOffset" : 23,
+    "token" : "acoustic",
+    "startOffset" : 14,
+    "endOffset" : 22,
     "position" : 2
   }, {
-    "token" : "onto",
-    "startOffset" : 24,
+    "token" : "kitty",
+    "startOffset" : 23,
     "endOffset" : 28,
     "position" : 3
-  }, {
-    "token" : "me",
-    "startOffset" : 29,
-    "endOffset" : 31,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzVMCNEXFMlzHLWPp",
-  "text" : "Kitty is her strong preference, so...",
+  "id" : "AWoDuqSrDTAu_IiLePNA",
+  "text" : "Kitty was a flibbertigibbet.",
   "translations" : {
-    "russian" : "Китти это ее твердое предпочтение, так что..."
+    "russian" : "Китти была легкомысленной."
   },
   "tokens" : [ {
     "token" : "kitty",
@@ -160,30 +316,104 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "is",
+    "token" : "was",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "flibbertigibbet",
+    "startOffset" : 12,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9vn7DTAu_IiLfGMQ",
+  "text" : "Saved by Kitty Litter.",
+  "translations" : {
+    "russian" : "Спас Кошачий Туалет."
+  },
+  "tokens" : [ {
+    "token" : "saved",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "save",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "by",
     "startOffset" : 6,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "her",
+    "token" : "kitty",
     "startOffset" : 9,
-    "endOffset" : 12,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "strong",
-    "startOffset" : 13,
-    "endOffset" : 19,
+    "token" : "litter",
+    "startOffset" : 15,
+    "endOffset" : 21,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9ws4DTAu_IiLfGNJ",
+  "text" : "It's kitty litter.",
+  "translations" : {
+    "russian" : "Кошачий наполнитель."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
-    "token" : "preference",
-    "startOffset" : 20,
-    "endOffset" : 30,
-    "position" : 4
+    "token" : "kitty",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
   }, {
-    "token" : "so",
-    "startOffset" : 32,
-    "endOffset" : 34,
-    "position" : 5
+    "token" : "litter",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhxBtDTAu_IiLfhZp",
+  "text" : "Oh, look. Kitty's heel.",
+  "translations" : {
+    "russian" : "Это каблук Китти."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "look",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "kitty",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "heel",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

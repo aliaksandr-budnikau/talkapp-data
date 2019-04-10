@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDPYalDTAu_IiLd9KE",
+  "text" : "Auto self-destruct aborted.",
+  "translations" : {
+    "russian" : "Автоматическое самоуничтожение отменено."
+  },
+  "tokens" : [ {
+    "token" : "auto",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "self",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "destruct",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "abort",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxbXYNEXFMlzHLTOf",
   "text" : "Standby for abort and clean.",
   "translations" : {

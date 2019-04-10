@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoDf1TJDTAu_IiLeG3T",
+  "text" : "Corporal Muller.",
+  "translations" : {
+    "russian" : "Капрал Мюллер."
+  },
+  "tokens" : [ {
+    "token" : "corporal",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "muller",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "mull",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDf1UnDTAu_IiLeG3U",
+  "text" : "Corporal Muller ?",
+  "translations" : {
+    "russian" : "Капрал Мюллер?"
+  },
+  "tokens" : [ {
+    "token" : "corporal",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "muller",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "mull",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxRulNEXFMlzHLTDB",
   "text" : "Corporal! Refuel them immediately.",
   "translations" : {
@@ -24,6 +70,77 @@
     "startOffset" : 22,
     "endOffset" : 33,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-frbDTAu_IiLeYBf",
+  "text" : "But the corporal can veto.",
+  "translations" : {
+    "russian" : "Но капрал может наложить вето."
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "corporal",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "can",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "veto",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZIVnDTAu_IiLeC87",
+  "text" : "Corporal Hayden from the ordnance division.",
+  "translations" : {
+    "russian" : "Капрал Хейден из артиллерийской дивизии."
+  },
+  "tokens" : [ {
+    "token" : "corporal",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "hayden",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "from",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "ordnance",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "division",
+    "startOffset" : 34,
+    "endOffset" : 42,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoEXoNSDTAu_IiLeq9F",
+  "text" : "So, jetty, swimming pool.",
+  "translations" : {
+    "russian" : "Итак, пристань, бассейн."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "jetty",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "swimming",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "pool",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi5ECDTAu_IiLezPd",
+  "text" : "Water and geese swimming.",
+  "translations" : {
+    "russian" : "Воду, уток в воде... Да, верно."
+  },
+  "tokens" : [ {
+    "token" : "water",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "geese",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "swimming",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeuO0NEXFMlzHK7_6",
   "text" : "My head is swimming.",
   "translations" : {
@@ -23,6 +79,62 @@
     "token" : "swimming",
     "startOffset" : 11,
     "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFe6IDTAu_IiLedbX",
+  "text" : "Swimming near the waterfall.",
+  "translations" : {
+    "russian" : "Купание около водопада."
+  },
+  "tokens" : [ {
+    "token" : "swimming",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "near",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "waterfall",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi89ZDTAu_IiLezSX",
+  "text" : "Water and geese swimming.",
+  "translations" : {
+    "russian" : "Воду, уток в воде... Да, верно."
+  },
+  "tokens" : [ {
+    "token" : "water",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "geese",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "swimming",
+    "startOffset" : 16,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
@@ -112,6 +224,105 @@
     "token" : "swimming",
     "startOffset" : 21,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWQMLDTAu_IiLeBmM",
+  "text" : "Her blood's swimming in antibodies.",
+  "translations" : {
+    "russian" : "Ее кровь наполнена антителами."
+  },
+  "tokens" : [ {
+    "token" : "her",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "blood",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "swimming",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "antibody",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqtoSDTAu_IiLeM1b",
+  "text" : "I am swimming in goodwill.",
+  "translations" : {
+    "russian" : "Я просто сама доброжелательность."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "swimming",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "goodwill",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWO8fDTAu_IiLeBli",
+  "text" : "Her blood's swimming in antibodies.",
+  "translations" : {
+    "russian" : "Ее кровь наполнена антителами."
+  },
+  "tokens" : [ {
+    "token" : "her",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "blood",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "swimming",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "antibody",
+    "startOffset" : 24,
+    "endOffset" : 34,
     "position" : 4
   } ],
   "contentScore" : null

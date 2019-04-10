@@ -1,4 +1,113 @@
 [ {
+  "id" : "AWoFFXWJDTAu_IiLfL9G",
+  "text" : "Throw in a parasol, too.",
+  "translations" : {
+    "russian" : "Дайте ещё и зонтик от солнца."
+  },
+  "tokens" : [ {
+    "token" : "throw",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "parasol",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "too",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvqFvDTAu_IiLeP0D",
+  "text" : "To throw, as in wrestling.",
+  "translations" : {
+    "russian" : "Кидать, как в борьбе."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "throw",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "as",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "wrestling",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "wrestle",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDfw72DTAu_IiLeG0q",
+  "text" : "Throw your piece in the pond.",
+  "translations" : {
+    "russian" : "Брось пистолет в пруд."
+  },
+  "tokens" : [ {
+    "token" : "throw",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "piece",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "pond",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdnisNEXFMlzHK7Bl",
   "text" : "I'll throw you in the dungeon!",
   "translations" : {
@@ -37,6 +146,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDScnlDTAu_IiLd_Mi",
+  "text" : "You're throwing up in the alley.",
+  "translations" : {
+    "russian" : "Блюющий в подворотне."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "throw",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "up",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "alley",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdonDNEXFMlzHK7CZ",
   "text" : "Throw it aside, in the meantime.",
   "translations" : {
@@ -71,6 +218,44 @@
     "token" : "meantime",
     "startOffset" : 23,
     "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5npNDTAu_IiLfDbC",
+  "text" : "They'll throw me back in Reverie.",
+  "translations" : {
+    "russian" : "Они бросят меня обратно в Ревери."
+  },
+  "tokens" : [ {
+    "token" : "they'll",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "throw",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "back",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "in",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "reverie",
+    "startOffset" : 25,
+    "endOffset" : 32,
     "position" : 5
   } ],
   "contentScore" : null

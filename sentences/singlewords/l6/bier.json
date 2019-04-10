@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEPBG3DTAu_IiLekjJ",
+  "text" : "By eloping.",
+  "translations" : {
+    "russian" : "Поженившись."
+  },
+  "tokens" : [ {
+    "token" : "by",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "elope",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyWNKNEXFMlzHLUx6",
   "text" : "By hail or by thunder.",
   "translations" : {
@@ -29,6 +47,44 @@
     "startOffset" : 14,
     "endOffset" : 21,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSilKDTAu_IiLfWMT",
+  "text" : "By their husbands and by Capitalism.",
+  "translations" : {
+    "russian" : "Своими мужьями и Капитализмом."
+  },
+  "tokens" : [ {
+    "token" : "by",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "their",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "husband",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "by",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "capitalism",
+    "startOffset" : 25,
+    "endOffset" : 35,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -121,211 +177,150 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjidUNEXFMlzHLAGN",
-  "text" : "Start by cleaning house.",
+  "id" : "AWoDUNkbDTAu_IiLeAW6",
+  "text" : "Except by analyzing it?",
   "translations" : {
-    "russian" : "Начните с чистки кадров."
+    "russian" : "Без анализа?"
   },
   "tokens" : [ {
-    "token" : "start",
+    "token" : "except",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 6,
     "position" : 0
   }, {
     "token" : "by",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "cleaning",
-    "startOffset" : 9,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "house",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglk-5NEXFMlzHLCx_",
-  "text" : "Stand by, DC Skelton.",
-  "translations" : {
-    "russian" : "Оставайтесь на связи, детектив-констебль Скелтон."
-  },
-  "tokens" : [ {
-    "token" : "stand",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "by",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "dc",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "skelton",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxRxQNEXFMlzHLTDH",
-  "text" : "Standing by to refuel.",
-  "translations" : {
-    "russian" : "Он заправляется."
-  },
-  "tokens" : [ {
-    "token" : "standing",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "stand",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "by",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "fuel",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjoFuNEXFMlzHLALH",
-  "text" : "Bulls up by eight.",
-  "translations" : {
-    "russian" : "Буллз впереди на восемь очков."
-  },
-  "tokens" : [ {
-    "token" : "bull",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "up",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "by",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "eight",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxADkNEXFMlzHLSv7",
-  "text" : "Something just flew by!",
-  "translations" : {
-    "russian" : "Что-то только что пролетело мимо!"
-  },
-  "tokens" : [ {
-    "token" : "something",
-    "startOffset" : 0,
+    "startOffset" : 7,
     "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "just",
-    "startOffset" : 10,
-    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "flew",
-    "startOffset" : 15,
+    "token" : "analyze",
+    "startOffset" : 10,
     "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "by",
+    "token" : "it",
     "startOffset" : 20,
     "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgf_itNEXFMlzHK9FH",
-  "text" : "Rejected by society, huh?",
+  "id" : "AWoDfcmcDTAu_IiLeGo_",
+  "text" : "Warranted by extraordinary circumstances.",
   "translations" : {
-    "russian" : "Отвергнуты обществом, значит?"
+    "russian" : "Обусловленная чрезвычайными обстоятельствами."
   },
   "tokens" : [ {
-    "token" : "reject",
+    "token" : "warranted",
     "startOffset" : 0,
-    "endOffset" : 8,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "warrant",
+    "startOffset" : 0,
+    "endOffset" : 9,
     "position" : 0
   }, {
     "token" : "by",
-    "startOffset" : 9,
-    "endOffset" : 11,
+    "startOffset" : 10,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "society",
-    "startOffset" : 12,
-    "endOffset" : 19,
+    "token" : "extraordinary",
+    "startOffset" : 13,
+    "endOffset" : 26,
     "position" : 2
   }, {
-    "token" : "huh",
-    "startOffset" : 21,
-    "endOffset" : 24,
+    "token" : "circumstance",
+    "startOffset" : 27,
+    "endOffset" : 40,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnLtiNEXFMlzHLFDk",
-  "text" : "Indiana up by two.",
+  "id" : "AWoDhnijDTAu_IiLeH59",
+  "text" : "Anyway, death by misadventure.",
   "translations" : {
-    "russian" : "Индиана впереди на 2 очка."
+    "russian" : "В любом случае, смерть из-за несчастного случая."
   },
   "tokens" : [ {
-    "token" : "indiana",
+    "token" : "anyway",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "up",
+    "token" : "death",
     "startOffset" : 8,
-    "endOffset" : 10,
+    "endOffset" : 13,
     "position" : 1
   }, {
     "token" : "by",
-    "startOffset" : 11,
-    "endOffset" : 13,
+    "startOffset" : 14,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "two",
-    "startOffset" : 14,
-    "endOffset" : 17,
+    "token" : "misadventure",
+    "startOffset" : 17,
+    "endOffset" : 29,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrbK3NEXFMlzHLK_D",
-  "text" : "By the way, image.",
+  "id" : "AWoDhngmDTAu_IiLeH58",
+  "text" : "Death by misadventure.",
   "translations" : {
-    "russian" : "Кстати, об имидже."
+    "russian" : "Смерть от несчастного случая."
+  },
+  "tokens" : [ {
+    "token" : "death",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "by",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "misadventure",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqA2FDTAu_IiLeMcM",
+  "text" : "Choreography... by Bob Fosse.",
+  "translations" : {
+    "russian" : "Хореография... Боба Фосса."
+  },
+  "tokens" : [ {
+    "token" : "choreography",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "by",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "bob",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "fosse",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8Wk5DTAu_IiLeWYh",
+  "text" : "By the ventilator!",
+  "translations" : {
+    "russian" : "У вентиляции."
   },
   "tokens" : [ {
     "token" : "by",
@@ -338,30 +333,76 @@
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "way",
+    "token" : "ventilator",
     "startOffset" : 7,
-    "endOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEChEeDTAu_IiLebHi",
+  "text" : "Slain by his queen.",
+  "translations" : {
+    "russian" : "Убит его королевой."
+  },
+  "tokens" : [ {
+    "token" : "slain",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "by",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 9,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "image",
-    "startOffset" : 12,
-    "endOffset" : 17,
+    "token" : "queen",
+    "startOffset" : 13,
+    "endOffset" : 18,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjoMjNEXFMlzHLALO",
-  "text" : "Indiana up by two.",
+  "id" : "AWoDtU4TDTAu_IiLeOYt",
+  "text" : "Trial by combat.",
   "translations" : {
-    "russian" : "Индиана впереди на 2 очка."
+    "russian" : "Суд поединком."
   },
   "tokens" : [ {
-    "token" : "indiana",
+    "token" : "trial",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "by",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "combat",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvr53DTAu_IiLeP1M",
+  "text" : "Wrestle or by sword?",
+  "translations" : {
+    "russian" : "Будем драться мечами или поборемся?"
+  },
+  "tokens" : [ {
+    "token" : "wrestle",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "up",
+    "token" : "or",
     "startOffset" : 8,
     "endOffset" : 10,
     "position" : 1
@@ -371,109 +412,38 @@
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "two",
+    "token" : "sword",
     "startOffset" : 14,
-    "endOffset" : 17,
+    "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgm369NEXFMlzHLEoc",
-  "text" : "Unit two, standing by.",
+  "id" : "AWoEM9mTDTAu_IiLejBh",
+  "text" : "I'm astounded by that.",
   "translations" : {
-    "russian" : "Подразделение 2, страхуйте."
+    "russian" : "Я поражен."
   },
   "tokens" : [ {
-    "token" : "unit",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "two",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "standing",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "stand",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "by",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgx78oNEXFMlzHLUAY",
-  "text" : "Down by two points.",
-  "translations" : {
-    "russian" : "Отстаем на два пункта."
-  },
-  "tokens" : [ {
-    "token" : "down",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "by",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "two",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "point",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbge22FNEXFMlzHK8Hs",
-  "text" : "Who travels by train anymore?",
-  "translations" : {
-    "russian" : "Кто-то еще ездит на поездах?"
-  },
-  "tokens" : [ {
-    "token" : "who",
+    "token" : "i'm",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "travel",
+    "token" : "astound",
     "startOffset" : 4,
-    "endOffset" : 11,
+    "endOffset" : 13,
     "position" : 1
   }, {
     "token" : "by",
-    "startOffset" : 12,
-    "endOffset" : 14,
+    "startOffset" : 14,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "train",
-    "startOffset" : 15,
-    "endOffset" : 20,
+    "token" : "that",
+    "startOffset" : 17,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "anymore",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoEFJOBDTAu_IiLedLL",
+  "text" : "I'll cut your guts out!",
+  "translations" : {
+    "russian" : "Я вырежу тебе кишки!"
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cut",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "guts",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "gut",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "out",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglEmwNEXFMlzHLB4j",
   "text" : "They cut out during storms.",
   "translations" : {
@@ -29,6 +67,44 @@
     "startOffset" : 20,
     "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsf1hDTAu_IiLeN5l",
+  "text" : "Cut it out, you blonde flamethrower.",
+  "translations" : {
+    "russian" : "Прекрати, светловолосый огнемет."
+  },
+  "tokens" : [ {
+    "token" : "cut",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "out",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "you",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "blonde",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "flamethrower",
+    "startOffset" : 23,
+    "endOffset" : 35,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -104,6 +180,44 @@
     "token" : "out",
     "startOffset" : 23,
     "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRSftDTAu_IiLd-aZ",
+  "text" : "You're not cut out for academia.",
+  "translations" : {
+    "russian" : "Ты для академии не подходишь."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "cut",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "out",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "for",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "academia",
+    "startOffset" : 23,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

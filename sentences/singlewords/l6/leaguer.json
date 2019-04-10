@@ -1,4 +1,98 @@
 [ {
+  "id" : "AWoD-VceDTAu_IiLeX6B",
+  "text" : "The League of Doom.",
+  "translations" : {
+    "russian" : "Лига Смерти."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "league",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "doom",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdhbNDTAu_IiLfei-",
+  "text" : "Seventy leagues over that ridge.",
+  "translations" : {
+    "russian" : "Семьдесят лиг по тому горному хребту."
+  },
+  "tokens" : [ {
+    "token" : "seventy",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "league",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "over",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "that",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "ridge",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYllhDTAu_IiLfany",
+  "text" : "I'm his Kiddie League coach.",
+  "translations" : {
+    "russian" : "Я тренер его Детской Лиги."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "his",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "kiddie",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "league",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "coach",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrLkSNEXFMlzHLKoA",
   "text" : "Catholic League ladies might talk.",
   "translations" : {
@@ -29,6 +123,120 @@
     "startOffset" : 29,
     "endOffset" : 33,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfBG3DTAu_IiLewH_",
+  "text" : "There's an inn three leagues on.",
+  "translations" : {
+    "russian" : "Милях в семи отсюда есть постоялый двор."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "inn",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "three",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "league",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "on",
+    "startOffset" : 29,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAdG4DTAu_IiLfIYD",
+  "text" : "Any backroom dealings with the league...",
+  "translations" : {
+    "russian" : "Закулисные сделки с лигой..."
+  },
+  "tokens" : [ {
+    "token" : "any",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "backroom",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "deal",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "league",
+    "startOffset" : 31,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHE4aDTAu_IiLfNQK",
+  "text" : "League of Women Voters, sir. Hmm?",
+  "translations" : {
+    "russian" : "Ига женщин избирателей, сэр."
+  },
+  "tokens" : [ {
+    "token" : "league",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "women",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "voter",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "sir",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "hmm",
+    "startOffset" : 29,
+    "endOffset" : 32,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

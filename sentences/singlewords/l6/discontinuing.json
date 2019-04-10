@@ -1,308 +1,344 @@
 [ {
-  "id" : "AWbgh_c8NEXFMlzHK-0e",
-  "text" : "To continue our line.",
+  "id" : "AWoDzlQsDTAu_IiLeR-g",
+  "text" : "CLANKING CONTINUES.",
   "translations" : {
-    "russian" : "Чтобы продолжить нашу линию."
+    "russian" : "ЗВОН ПРОДОЛЖАЕТСЯ."
   },
   "tokens" : [ {
-    "token" : "to",
+    "token" : "clanking",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "clank",
+    "startOffset" : 0,
+    "endOffset" : 8,
     "position" : 0
   }, {
     "token" : "continue",
-    "startOffset" : 3,
-    "endOffset" : 11,
+    "startOffset" : 9,
+    "endOffset" : 18,
     "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "line",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguQxbNEXFMlzHLOv7",
-  "text" : "The human migration continues...",
+  "id" : "AWoEKS5BDTAu_IiLeg5O",
+  "text" : "Yelling Continues.",
   "translations" : {
-    "russian" : "Продолжается миграция населения..."
+    "russian" : "Вопли продолжаются."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "yell",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "continue",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKTXjDTAu_IiLeg5j",
+  "text" : "Yelling Continues.",
+  "translations" : {
+    "russian" : "Крики продолжаются."
+  },
+  "tokens" : [ {
+    "token" : "yell",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "continue",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3ne6DTAu_IiLfCG_",
+  "text" : "Continues wailing.",
+  "translations" : {
+    "russian" : "Продолжает причитать."
+  },
+  "tokens" : [ {
+    "token" : "continue",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "wail",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzkcXDTAu_IiLeR-D",
+  "text" : "CLANKING CONTINUES.",
+  "translations" : {
+    "russian" : "ЗВОН ПРОДОЛЖАЕТСЯ."
+  },
+  "tokens" : [ {
+    "token" : "clanking",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "clank",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "continue",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE58BBDTAu_IiLfDpZ",
+  "text" : "Gasping Continues.",
+  "translations" : {
+    "russian" : "Затрудненное дыхание."
+  },
+  "tokens" : [ {
+    "token" : "gasping",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "gasp",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "continue",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvNcVDTAu_IiLePij",
+  "text" : "Murmuring Continues.",
+  "translations" : {
+    "russian" : "Бормотанье продолжается."
+  },
+  "tokens" : [ {
+    "token" : "murmuring",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "murmur",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "continue",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKS4CDTAu_IiLeg5N",
+  "text" : "Yelling Continues.",
+  "translations" : {
+    "russian" : "Вопли."
+  },
+  "tokens" : [ {
+    "token" : "yell",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "continue",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3sOVDTAu_IiLfCKM",
+  "text" : "Continues wailing.",
+  "translations" : {
+    "russian" : "Продолжает причитать."
+  },
+  "tokens" : [ {
+    "token" : "continue",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "wail",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUFbwDTAu_IiLfXUu",
+  "text" : "Continue swaying.",
+  "translations" : {
+    "russian" : "Продолжай раскачиваться."
+  },
+  "tokens" : [ {
+    "token" : "continue",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "sway",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE25p8DTAu_IiLfBow",
+  "text" : "Continues wailing.",
+  "translations" : {
+    "russian" : "Продолжает причитать."
+  },
+  "tokens" : [ {
+    "token" : "continue",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "wail",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKPq5DTAu_IiLeg22",
+  "text" : "Continues screeching.",
+  "translations" : {
+    "russian" : "Продолжает визжать."
+  },
+  "tokens" : [ {
+    "token" : "continue",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "screech",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKS6PDTAu_IiLeg5P",
+  "text" : "Yelling Continues.",
+  "translations" : {
+    "russian" : "Вопли продолжаются."
+  },
+  "tokens" : [ {
+    "token" : "yell",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "continue",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1O8tDTAu_IiLfAgd",
+  "text" : "Murmuring Continues.",
+  "translations" : {
+    "russian" : "Бормотанье продолжается."
+  },
+  "tokens" : [ {
+    "token" : "murmuring",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "murmur",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "continue",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKTV1DTAu_IiLeg5i",
+  "text" : "Ringing Continues Yelling, Shouting Continue.",
+  "translations" : {
+    "russian" : "Звонки продолжаются Крики продолжаются."
+  },
+  "tokens" : [ {
+    "token" : "ringing",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "ring",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "continue",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "yell",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "shout",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "continue",
+    "startOffset" : 36,
+    "endOffset" : 44,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoENLTADTAu_IiLejL1",
+  "text" : "Our enmity still continues.",
+  "translations" : {
+    "russian" : "С тех пор продолжается наша вражда."
+  },
+  "tokens" : [ {
+    "token" : "our",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "human",
+    "token" : "enmity",
     "startOffset" : 4,
-    "endOffset" : 9,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "migration",
-    "startOffset" : 10,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "continue",
-    "startOffset" : 20,
-    "endOffset" : 29,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxuY1NEXFMlzHLTwl",
-  "text" : "To continue our line.",
-  "translations" : {
-    "russian" : "Чтобы продолжить нашу линию."
-  },
-  "tokens" : [ {
-    "token" : "to",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "continue",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "line",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghBxKNEXFMlzHK9-v",
-  "text" : "Press any key to continue.",
-  "translations" : {
-    "russian" : "Нажми любую клавишу, чтобы продолжить."
-  },
-  "tokens" : [ {
-    "token" : "press",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "any",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "key",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 14,
+    "token" : "still",
+    "startOffset" : 11,
     "endOffset" : 16,
-    "position" : 3
+    "position" : 2
   }, {
     "token" : "continue",
     "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguMEGNEXFMlzHLOm5",
-  "text" : "Press on, Seekers. Continue to explore.",
-  "translations" : {
-    "russian" : "Кто ищет, тот найдет."
-  },
-  "tokens" : [ {
-    "token" : "press",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "on",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "seek",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "continue",
-    "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "to",
-    "startOffset" : 28,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "explore",
-    "startOffset" : 31,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwEGcNEXFMlzHLRx3",
-  "text" : "Commercial airlines have discontinued altogether today.",
-  "translations" : {
-    "russian" : "Коммерческие авиалинии распродали билеты."
-  },
-  "tokens" : [ {
-    "token" : "commercial",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "airline",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "continue",
-    "startOffset" : 25,
-    "endOffset" : 37,
-    "position" : 3
-  }, {
-    "token" : "altogether",
-    "startOffset" : 38,
-    "endOffset" : 48,
-    "position" : 4
-  }, {
-    "token" : "today",
-    "startOffset" : 49,
-    "endOffset" : 54,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgveHQNEXFMlzHLQ-x",
-  "text" : "LRB- Helicopter blades continue whirring -RRB.",
-  "translations" : {
-    "russian" : "Лопасти вертолета, продолжающие трещать."
-  },
-  "tokens" : [ {
-    "token" : "lrb",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "helicopter",
-    "startOffset" : 5,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "blade",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "continue",
-    "startOffset" : 23,
-    "endOffset" : 31,
-    "position" : 3
-  }, {
-    "token" : "whirring",
-    "startOffset" : 32,
-    "endOffset" : 40,
-    "position" : 4
-  }, {
-    "token" : "rrb",
-    "startOffset" : 42,
-    "endOffset" : 45,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWn5n75uSHZo49ps8uDr",
-  "text" : "LSB- Continues -RSB-- -LSB- Yawns -RSB.",
-  "translations" : {
-    "russian" : "Играет классическая музыка - Зевает."
-  },
-  "tokens" : [ {
-    "token" : "lsb",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "continue",
-    "startOffset" : 5,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "rsb",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "lsb",
-    "startOffset" : 23,
     "endOffset" : 26,
     "position" : 3
-  }, {
-    "token" : "yawn",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 4
-  }, {
-    "token" : "rsb",
-    "startOffset" : 35,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoiKtNEXFMlzHLHEP",
-  "text" : "Watch as we continue our report.",
-  "translations" : {
-    "russian" : "Мы продолжим наш репортаж через несколыко секунд."
-  },
-  "tokens" : [ {
-    "token" : "watch",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "as",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "we",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "continue",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "our",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "port",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

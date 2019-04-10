@@ -225,6 +225,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFBHK9DTAu_IiLfI4O",
+  "text" : "Retired NASA-trained monkeys.",
+  "translations" : {
+    "russian" : "Отставных обезьян, прошедших подготовку НАСА."
+  },
+  "tokens" : [ {
+    "token" : "tired",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "nasa",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "trained",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "train",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "monkey",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgy9axNEXFMlzHLVex",
   "text" : "I trained her myself.",
   "translations" : {
@@ -372,6 +405,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEo5nxDTAu_IiLe3x_",
+  "text" : "I'm a classically trained soprano.",
+  "translations" : {
+    "russian" : "Я - сопрано с классическим образованием."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "classical",
+    "startOffset" : 6,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "trained",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "train",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "soprano",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgy8k0NEXFMlzHLVc9",
   "text" : "We have trained for this.",
   "translations" : {
@@ -448,40 +519,40 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgy7tRNEXFMlzHLVbL",
-  "text" : "You've trained him well, Michael.",
+  "id" : "AWoEInUJDTAu_IiLefqw",
+  "text" : "David wasn't trained in restoration.",
   "translations" : {
-    "russian" : "Ты хорошо тренировал его, Михаил."
+    "russian" : "Дэвид не учился реставрации."
   },
   "tokens" : [ {
-    "token" : "you've",
+    "token" : "david",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 5,
     "position" : 0
   }, {
+    "token" : "wasn't",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
     "token" : "trained",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "train",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "startOffset" : 13,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "well",
-    "startOffset" : 19,
+    "token" : "train",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 21,
     "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "michael",
-    "startOffset" : 25,
-    "endOffset" : 32,
+    "token" : "restoration",
+    "startOffset" : 24,
+    "endOffset" : 35,
     "position" : 4
   } ],
   "contentScore" : null

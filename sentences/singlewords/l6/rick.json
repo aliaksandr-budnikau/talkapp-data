@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoD7qPQDTAu_IiLeV4S",
+  "text" : "Rick, Britain!",
+  "translations" : {
+    "russian" : "Рик, Великобритания!"
+  },
+  "tokens" : [ {
+    "token" : "rick",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "britain",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyEOSDTAu_IiLe-R-",
+  "text" : "Rick, please.",
+  "translations" : {
+    "russian" : "Рик, я тебя умоляю."
+  },
+  "tokens" : [ {
+    "token" : "rick",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "please",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggbnyNEXFMlzHK9dV",
   "text" : "Facility director, Rick Esposito.",
   "translations" : {
@@ -27,6 +63,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFWTwqDTAu_IiLfY2y",
+  "text" : "Papers lie, Rick.",
+  "translations" : {
+    "russian" : "Газеты всех обманывали."
+  },
+  "tokens" : [ {
+    "token" : "pap",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "lie",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "rick",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrAftNEXFMlzHLKXf",
   "text" : "Big f ricking newsflash.",
   "translations" : {
@@ -52,6 +111,72 @@
     "startOffset" : 14,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPbOyDTAu_IiLd9Ln",
+  "text" : "Rick was an auto mechanic.",
+  "translations" : {
+    "russian" : "Рик был автомехаником."
+  },
+  "tokens" : [ {
+    "token" : "rick",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "auto",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "mechanic",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwn4LDTAu_IiLe9NG",
+  "text" : "I heard about Rick Deacon.",
+  "translations" : {
+    "russian" : "Я слышала о Рике Диконе."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "heard",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "about",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "rick",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "deacon",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -93,6 +218,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFZmsPDTAu_IiLfbe3",
+  "text" : "It's got no steeple, Rick.",
+  "translations" : {
+    "russian" : "Колокольни нет, Рик."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "steeple",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "rick",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoNOINEXFMlzHLGjq",
   "text" : "Suicide squad, led by Rick Flag.",
   "translations" : {
@@ -127,6 +285,82 @@
     "token" : "flag",
     "startOffset" : 27,
     "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9XJpDTAu_IiLeXKt",
+  "text" : "We're all liable for this, Rick.",
+  "translations" : {
+    "russian" : "Мы все ответственны за это, Рик."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "all",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "liable",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "this",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "rick",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEG4ozDTAu_IiLeedL",
+  "text" : "What do you say to'em Rick?",
+  "translations" : {
+    "russian" : "Что ты им сказал, Рик?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "do",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "say",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "to'em",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "rick",
+    "startOffset" : 22,
+    "endOffset" : 26,
     "position" : 5
   } ],
   "contentScore" : null

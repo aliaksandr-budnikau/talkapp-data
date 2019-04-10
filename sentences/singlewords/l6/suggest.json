@@ -22,43 +22,112 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwH6DNEXFMlzHLR4R",
-  "text" : "You suggested a posterior approach?",
+  "id" : "AWoDv-mHDTAu_IiLeQAd",
+  "text" : "I suggest kegs...",
   "translations" : {
-    "russian" : "Вы предлагаете задний доступ?"
+    "russian" : "Предлагаю бочонки..."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "suggest",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "keg",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFafpLDTAu_IiLfcOR",
+  "text" : "YOU'RE SUGGESTING POT?",
+  "translations" : {
+    "russian" : "Ты предлагаешь мне Марихуану?"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "suggest",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "pot",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsy0pDTAu_IiLe6gj",
+  "text" : "And the suggested supplements.",
+  "translations" : {
+    "russian" : "И все приложения."
+  },
+  "tokens" : [ {
+    "token" : "and",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "suggest",
+    "token" : "the",
     "startOffset" : 4,
-    "endOffset" : 13,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
+    "token" : "suggest",
+    "startOffset" : 8,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "posterior",
-    "startOffset" : 16,
-    "endOffset" : 25,
+    "token" : "supplement",
+    "startOffset" : 18,
+    "endOffset" : 29,
     "position" : 3
-  }, {
-    "token" : "approach",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguQrVNEXFMlzHLOvv",
-  "text" : "Are you suggesting coconuts migrate?",
+  "id" : "AWoEs4w7DTAu_IiLe6ke",
+  "text" : "And the suggested supplements.",
   "translations" : {
-    "russian" : "Вы полагаете, кокосы совершают перелёты?"
+    "russian" : "И все приложения."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "suggest",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "supplement",
+    "startOffset" : 18,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJyvWDTAu_IiLeggp",
+  "text" : "Are you suggesting sorcery?",
+  "translations" : {
+    "russian" : "Ты говоришь о колдовстве?"
   },
   "tokens" : [ {
     "token" : "are",
@@ -76,124 +145,285 @@
     "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "coconut",
+    "token" : "sorcery",
     "startOffset" : 19,
-    "endOffset" : 27,
+    "endOffset" : 26,
     "position" : 3
-  }, {
-    "token" : "migrate",
-    "startOffset" : 28,
-    "endOffset" : 35,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkMkzNEXFMlzHLApL",
-  "text" : "Soil composition suggests a bog.",
+  "id" : "AWoFEFfPDTAu_IiLfLDy",
+  "text" : "I SUGGEST NEW ZEALAND.",
   "translations" : {
-    "russian" : "Состав грунта предполагает болотистую местность."
+    "russian" : "Советую Новую Зеландию."
   },
   "tokens" : [ {
-    "token" : "soil",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "composition",
-    "startOffset" : 5,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "composite",
-    "startOffset" : 5,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "suggest",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 26,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "bog",
-    "startOffset" : 28,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfNwvNEXFMlzHK8ba",
-  "text" : "You suggested a posterior approach?",
-  "translations" : {
-    "russian" : "Вы предлагаете задний доступ?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 1,
     "position" : 0
   }, {
     "token" : "suggest",
-    "startOffset" : 4,
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "new",
+    "startOffset" : 10,
     "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "posterior",
-    "startOffset" : 16,
-    "endOffset" : 25,
+    "token" : "zealand",
+    "startOffset" : 14,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "approach",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggBeTNEXFMlzHK9G2",
-  "text" : "Reject the first place they suggest.",
+  "id" : "AWoFbozKDTAu_IiLfdIa",
+  "text" : "YOU'RE SUGGESTING POT?",
   "translations" : {
-    "russian" : "Отклони первое место, предложенное ими."
+    "russian" : "Ты предлагаешь мне Марихуану?"
   },
   "tokens" : [ {
-    "token" : "reject",
+    "token" : "you're",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "the",
+    "token" : "suggest",
     "startOffset" : 7,
-    "endOffset" : 10,
+    "endOffset" : 17,
     "position" : 1
   }, {
-    "token" : "first",
-    "startOffset" : 11,
-    "endOffset" : 16,
+    "token" : "pot",
+    "startOffset" : 18,
+    "endOffset" : 21,
     "position" : 2
-  }, {
-    "token" : "place",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "they",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgElcDTAu_IiLfgXS",
+  "text" : "I suggest you Roebuck.",
+  "translations" : {
+    "russian" : "Попробуй сходить в Робак."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
   }, {
     "token" : "suggest",
-    "startOffset" : 28,
-    "endOffset" : 35,
-    "position" : 5
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "roebuck",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFL99uDTAu_IiLfRLD",
+  "text" : "It suggests sealing figs!",
+  "translations" : {
+    "russian" : "Это значит заполненный инжир!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "suggest",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "seal",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "fig",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKiVqDTAu_IiLehFS",
+  "text" : "I suggest you inquire.",
+  "translations" : {
+    "russian" : "Советую тебе разузнать это."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "suggest",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "inquire",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9ebEDTAu_IiLeXQQ",
+  "text" : "Well, conditional probability suggests...",
+  "translations" : {
+    "russian" : "Ну, согласно теории вероятностей..."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "conditional",
+    "startOffset" : 6,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "probability",
+    "startOffset" : 18,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "suggest",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJxe-DTAu_IiLegf0",
+  "text" : "Are you suggesting sorcery?",
+  "translations" : {
+    "russian" : "Ты говоришь о колдовстве?"
+  },
+  "tokens" : [ {
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "suggest",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "sorcery",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJyuIDTAu_IiLeggo",
+  "text" : "Are you suggesting sorcery?",
+  "translations" : {
+    "russian" : "Ты думаешь, это колдовство?"
+  },
+  "tokens" : [ {
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "suggest",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "sorcery",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMGFqDTAu_IiLfRRX",
+  "text" : "Initial report suggested suicide.",
+  "translations" : {
+    "russian" : "Первичный рапорт гласил о суициде."
+  },
+  "tokens" : [ {
+    "token" : "initial",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "port",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "suggest",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "suicide",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSmohDTAu_IiLfWPU",
+  "text" : "I suggested the gimp.",
+  "translations" : {
+    "russian" : "Я предложил хромую."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "suggest",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "gimp",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoETwy5DTAu_IiLeoC-",
+  "text" : "I won't tolerate any interference.",
+  "translations" : {
+    "russian" : "Я не допущу никакого вмешательства."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "won't",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "tolerate",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "any",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "interference",
+    "startOffset" : 21,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeXuRNEXFMlzHK7rl",
   "text" : "But outside interference is a possibility.",
   "translations" : {
@@ -33,6 +66,44 @@
     "token" : "possibility",
     "startOffset" : 30,
     "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqrJZDTAu_IiLe5Eg",
+  "text" : "It involves interference with contractual relations.",
+  "translations" : {
+    "russian" : "Оно касается вмешательства в договорные отношения."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "involve",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "interference",
+    "startOffset" : 12,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "contractual",
+    "startOffset" : 30,
+    "endOffset" : 41,
+    "position" : 4
+  }, {
+    "token" : "relate",
+    "startOffset" : 42,
+    "endOffset" : 51,
     "position" : 5
   } ],
   "contentScore" : null

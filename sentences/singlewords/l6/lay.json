@@ -1,39 +1,128 @@
 [ {
-  "id" : "AWbgj-gPNEXFMlzHLAeK",
-  "text" : "We need multiple layers.",
+  "id" : "AWoE5ML8DTAu_IiLfDJD",
+  "text" : "Or we delay it.",
   "translations" : {
-    "russian" : "Нам нужно несколько уровней."
+    "russian" : "Или отложим."
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "or",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "need",
+    "token" : "we",
     "startOffset" : 3,
-    "endOffset" : 7,
+    "endOffset" : 5,
     "position" : 1
   }, {
-    "token" : "multiple",
-    "startOffset" : 8,
-    "endOffset" : 16,
+    "token" : "delay",
+    "startOffset" : 6,
+    "endOffset" : 11,
     "position" : 2
   }, {
     "token" : "lay",
-    "startOffset" : 17,
-    "endOffset" : 23,
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 12,
+    "endOffset" : 14,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgebnXNEXFMlzHK7vF",
-  "text" : "Let's lay down and relax...",
+  "id" : "AWoE5MJ_DTAu_IiLfDJC",
+  "text" : "We'll delay it.",
   "translations" : {
-    "russian" : "Давай ляжем и расслабимся..."
+    "russian" : "Мы отложим это."
   },
   "tokens" : [ {
-    "token" : "let",
+    "token" : "we'll",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "delay",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "lay",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5NVFDTAu_IiLfDJ1",
+  "text" : "They mustn't delay.",
+  "translations" : {
+    "russian" : "Им нельзя задерживаться."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "mustn't",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "delay",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "lay",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5Pq1DTAu_IiLfDLM",
+  "text" : "It's a delay.",
+  "translations" : {
+    "russian" : "Это отсрочка."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "delay",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "lay",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWQesDTAu_IiLfY01",
+  "text" : "Don't lay there.",
+  "translations" : {
+    "russian" : "Хватит лежать."
+  },
+  "tokens" : [ {
+    "token" : "don't",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
@@ -43,108 +132,271 @@
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "down",
+    "token" : "there",
     "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5KR1DTAu_IiLfDHx",
+  "text" : "There'll be a delay.",
+  "translations" : {
+    "russian" : "Будет задержка."
+  },
+  "tokens" : [ {
+    "token" : "there'll",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "be",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "delay",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "lay",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5O9JDTAu_IiLfDKy",
+  "text" : "Delaying things? Making excuses?",
+  "translations" : {
+    "russian" : "Все задерживает, находит оправдания?"
+  },
+  "tokens" : [ {
+    "token" : "lay",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "th",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "making",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "make",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "excuse",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5N3xDTAu_IiLfDKK",
+  "text" : "Delaying things, making excuses.",
+  "translations" : {
+    "russian" : "Откладывает, придумывает отговорки."
+  },
+  "tokens" : [ {
+    "token" : "lay",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "th",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "making",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "make",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "excuse",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5PmcDTAu_IiLfDLJ",
+  "text" : "A slight delay maybe.",
+  "translations" : {
+    "russian" : "Небольшая отсрочка. Но я не могу..."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "slight",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "delay",
+    "startOffset" : 9,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "and",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
+    "token" : "lay",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
   }, {
-    "token" : "relax",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
+    "token" : "maybe",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgj-X7NEXFMlzHLAeC",
-  "text" : "Little extra layer of security.",
+  "id" : "AWoFQqMVDTAu_IiLfUvv",
+  "text" : "Lay off, Hem.",
   "translations" : {
-    "russian" : "Немного выше уровень безопасности."
+    "russian" : "Отвали, Хем."
   },
   "tokens" : [ {
-    "token" : "little",
+    "token" : "lay",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "extra",
-    "startOffset" : 7,
-    "endOffset" : 12,
+    "token" : "off",
+    "startOffset" : 4,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "layer",
-    "startOffset" : 13,
-    "endOffset" : 18,
+    "token" : "hem",
+    "startOffset" : 9,
+    "endOffset" : 12,
     "position" : 2
-  }, {
-    "token" : "lay",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "security",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyKLCNEXFMlzHLUZA",
-  "text" : "We can start laying down tracks.",
+  "id" : "AWoD-Cj6DTAu_IiLeXr1",
+  "text" : "Lay on those oars!",
   "translations" : {
-    "russian" : "Мы можем начать запись музыкальных дорожек."
+    "russian" : "Налечь на весла!"
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "lay",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "those",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "oar",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXLlBDTAu_IiLeqo0",
+  "text" : "So many computational layers.",
+  "translations" : {
+    "russian" : "Так много вычислительных слоёв."
+  },
+  "tokens" : [ {
+    "token" : "so",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "can",
+    "token" : "many",
     "startOffset" : 3,
-    "endOffset" : 6,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "start",
-    "startOffset" : 7,
-    "endOffset" : 12,
+    "token" : "computational",
+    "startOffset" : 8,
+    "endOffset" : 21,
     "position" : 2
   }, {
     "token" : "lay",
-    "startOffset" : 13,
-    "endOffset" : 19,
+    "startOffset" : 22,
+    "endOffset" : 28,
     "position" : 3
-  }, {
-    "token" : "down",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "track",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgj9kZNEXFMlzHLAdU",
-  "text" : "Here, for example, are four layers.",
+  "id" : "AWoE5KY6DTAu_IiLfDH2",
+  "text" : "Any reasonable delay granted.",
   "translations" : {
-    "russian" : "Здесь, к примеру, имеется четыре слоя."
+    "russian" : "Разрешена задержка в разумных пределах."
   },
   "tokens" : [ {
-    "token" : "here",
+    "token" : "any",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "reasonable",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "reason",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "delay",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "lay",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "grant",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5MefDTAu_IiLfDJQ",
+  "text" : "Sorry for the delay.",
+  "translations" : {
+    "russian" : "Простите, задержался."
+  },
+  "tokens" : [ {
+    "token" : "sorry",
+    "startOffset" : 0,
+    "endOffset" : 5,
     "position" : 0
   }, {
     "token" : "for",
@@ -152,63 +404,76 @@
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "example",
+    "token" : "the",
     "startOffset" : 10,
-    "endOffset" : 17,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "are",
-    "startOffset" : 19,
-    "endOffset" : 22,
+    "token" : "delay",
+    "startOffset" : 14,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "four",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
     "token" : "lay",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtq4oNEXFMlzHLNxg",
-  "text" : "Think we should lay a trap?",
+  "id" : "AWoE5N5eDTAu_IiLfDKL",
+  "text" : "Keeps delaying rascally.",
   "translations" : {
-    "russian" : "Может, установить капкан?"
+    "russian" : "Он постоянно откладывает оплату."
   },
   "tokens" : [ {
-    "token" : "think",
+    "token" : "keep",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "we",
+    "token" : "lay",
     "startOffset" : 6,
-    "endOffset" : 8,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "should",
-    "startOffset" : 9,
-    "endOffset" : 15,
+    "token" : "rascal",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5QsxDTAu_IiLfDL1",
+  "text" : "This could delay everything.",
+  "translations" : {
+    "russian" : "Это может всё отсрочить."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "could",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "delay",
+    "startOffset" : 11,
+    "endOffset" : 16,
     "position" : 2
   }, {
     "token" : "lay",
-    "startOffset" : 16,
-    "endOffset" : 19,
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "everything",
+    "startOffset" : 17,
+    "endOffset" : 27,
     "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 20,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "trap",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

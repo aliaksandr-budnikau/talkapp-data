@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoE0unIDTAu_IiLfAKc",
+  "text" : "Chef Wen?",
+  "translations" : {
+    "russian" : "Мастер Вэнь?"
+  },
+  "tokens" : [ {
+    "token" : "chef",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "wen",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdkr0DTAu_IiLfelU",
+  "text" : "Chef ostler?",
+  "translations" : {
+    "russian" : "Шеф-повар Остлер?"
+  },
+  "tokens" : [ {
+    "token" : "chef",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ostler",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnGXFNEXFMlzHLE8p",
   "text" : "Chef, garnish for lamb.",
   "translations" : {
@@ -27,6 +63,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDaGBQDTAu_IiLeDj6",
+  "text" : "The asparagus salad, chef.",
+  "translations" : {
+    "russian" : "Салат из спаржи, шеф."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "asparagus",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "salad",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "chef",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmdvaNEXFMlzHLD70",
   "text" : "Hot pan, chef.",
   "translations" : {
@@ -47,6 +111,153 @@
     "startOffset" : 9,
     "endOffset" : 13,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVQQnDTAu_IiLepNr",
+  "text" : "She's a topflight chef, Steven.",
+  "translations" : {
+    "russian" : "Она первоклассный шеф-повар, Стивен."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "topflight",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "chef",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "steven",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJGgwDTAu_IiLegBA",
+  "text" : "Chefs are the new renaissance men.",
+  "translations" : {
+    "russian" : "Повара - новые люди эпохи возрождения."
+  },
+  "tokens" : [ {
+    "token" : "chef",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "new",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "renaissance",
+    "startOffset" : 18,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "men",
+    "startOffset" : 30,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgEKKDTAu_IiLfgXD",
+  "text" : "But the chef recommends shad roe.",
+  "translations" : {
+    "russian" : "Но шеф-повар рекомендует икру алозы."
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "chef",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "commend",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "shad",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "roe",
+    "startOffset" : 29,
+    "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuXtdDTAu_IiLe7k1",
+  "text" : "Keep your dignity as a chef.",
+  "translations" : {
+    "russian" : "Сохрани свое достоинство, как повар."
+  },
+  "tokens" : [ {
+    "token" : "keep",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "dignity",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "as",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "chef",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

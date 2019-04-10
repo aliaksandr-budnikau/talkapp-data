@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEnzUTDTAu_IiLe280",
+  "text" : "Published author, tap prodigy.",
+  "translations" : {
+    "russian" : "Мало того, что у нее книжка вышла, так еще и гений в чечетке."
+  },
+  "tokens" : [ {
+    "token" : "published",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "publish",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "author",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "tap",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "prodigy",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgobUhNEXFMlzHLG5f",
   "text" : "Tabloid published some photos.",
   "translations" : {
@@ -67,6 +100,82 @@
     "startOffset" : 15,
     "endOffset" : 24,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPH7JDTAu_IiLekn8",
+  "text" : "My introduction got it published.",
+  "translations" : {
+    "russian" : "Её опубликовали лишь из-за моего вступления."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "introduction",
+    "startOffset" : 3,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "got",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "published",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "publish",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzWweDTAu_IiLeR2M",
+  "text" : "Here recently Republished a wonderful brochure.",
+  "translations" : {
+    "russian" : "Тут недавно переиздали замечательную брошюрку."
+  },
+  "tokens" : [ {
+    "token" : "here",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "recent",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "published",
+    "startOffset" : 14,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 26,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "wonderful",
+    "startOffset" : 28,
+    "endOffset" : 37,
+    "position" : 4
+  }, {
+    "token" : "brochure",
+    "startOffset" : 38,
+    "endOffset" : 46,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

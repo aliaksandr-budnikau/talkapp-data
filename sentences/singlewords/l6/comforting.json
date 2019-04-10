@@ -1,4 +1,83 @@
 [ {
+  "id" : "AWoFY6-8DTAu_IiLfa6C",
+  "text" : "That's real comforting, Goat.",
+  "translations" : {
+    "russian" : "Ну это правда звучит успокаивающе, Грешник."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "real",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "comforting",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "comfort",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "goat",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGRxUDTAu_IiLfMoG",
+  "text" : "I eschew discomfort?",
+  "translations" : {
+    "russian" : "Я избегаю неудобств?"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "eschew",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "comfort",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGlo3DTAu_IiLfM2u",
+  "text" : "I eschew discomfort?",
+  "translations" : {
+    "russian" : "Я избегаю неудобств?"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "eschew",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "comfort",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsKYHNEXFMlzHLMDJ",
   "text" : "And charity is cold comfort.",
   "translations" : {
@@ -62,6 +141,115 @@
     "startOffset" : 24,
     "endOffset" : 29,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZpt6DTAu_IiLesWF",
+  "text" : "Protein, vegetable, grain and comfort.",
+  "translations" : {
+    "russian" : "Белок, овощи, злаки и удовольствие."
+  },
+  "tokens" : [ {
+    "token" : "protein",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "vegetable",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "grain",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "comfort",
+    "startOffset" : 30,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERNQNDTAu_IiLemH8",
+  "text" : "Color, style, comfort, utility and convenience.",
+  "translations" : {
+    "russian" : "Цвет, стиль, комфорт, практичность и удобство."
+  },
+  "tokens" : [ {
+    "token" : "color",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "style",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "comfort",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "utility",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 31,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "convenience",
+    "startOffset" : 35,
+    "endOffset" : 46,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4iDhDTAu_IiLeUUQ",
+  "text" : "Don't wallow in your discomfort, Eli.",
+  "translations" : {
+    "russian" : "Смотри не погрязни в своём беспокойстве, Илай."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "wallow",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "comfort",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "eli",
+    "startOffset" : 33,
+    "endOffset" : 36,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

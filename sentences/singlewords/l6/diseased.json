@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoDugODDTAu_IiLePGu",
+  "text" : "I'm diseased. What?",
+  "translations" : {
+    "russian" : "Я же больна."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "eased",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "what",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDugS6DTAu_IiLePGx",
+  "text" : "My pod is diseased.",
+  "translations" : {
+    "russian" : "Моя консоль больна."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "pod",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "eased",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeA4qNEXFMlzHK7Xh",
   "text" : "That's what eased her pain.",
   "translations" : {
@@ -34,6 +85,77 @@
     "startOffset" : 22,
     "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFPnwDTAu_IiLfL3c",
+  "text" : "50 diseased and scrofulous pigs.",
+  "translations" : {
+    "russian" : "Пятьдесят полумертвых и хилых свиней."
+  },
+  "tokens" : [ {
+    "token" : "50",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "eased",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "scrofulous",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "pig",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuiniDTAu_IiLePIT",
+  "text" : "Why's that, Doctor, are you diseased?",
+  "translations" : {
+    "russian" : "Почему, доктор? Вы заболели?"
+  },
+  "tokens" : [ {
+    "token" : "why's",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "doctor",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "you",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "eased",
+    "startOffset" : 28,
+    "endOffset" : 36,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

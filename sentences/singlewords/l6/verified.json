@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoErNg4DTAu_IiLe5cR",
+  "text" : "Verify dosage, then sign.",
+  "translations" : {
+    "russian" : "Сверь дозы и подпиши."
+  },
+  "tokens" : [ {
+    "token" : "verify",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dosage",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "th",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "sign",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgq6fWNEXFMlzHLKOf",
   "text" : "Tracking shipping containers, verifying way bills.",
   "translations" : {

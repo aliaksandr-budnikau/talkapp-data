@@ -1,4 +1,148 @@
 [ {
+  "id" : "AWoEP4-hDTAu_IiLelLf",
+  "text" : "Knockout drugs.",
+  "translations" : {
+    "russian" : "Снотворное."
+  },
+  "tokens" : [ {
+    "token" : "knockout",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "drug",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFK9tpDTAu_IiLfQZs",
+  "text" : "Drug mule.",
+  "translations" : {
+    "russian" : "Наркокурьер."
+  },
+  "tokens" : [ {
+    "token" : "drug",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "mule",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFK-U0DTAu_IiLfQaK",
+  "text" : "Drug mules!",
+  "translations" : {
+    "russian" : "Курьеры. Нарко курьеры."
+  },
+  "tokens" : [ {
+    "token" : "drug",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "mule",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDFVLDTAu_IiLfKVm",
+  "text" : "Star Drug?",
+  "translations" : {
+    "russian" : "Аптека Звезда ?"
+  },
+  "tokens" : [ {
+    "token" : "star",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "drug",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFK-SRDTAu_IiLfQaI",
+  "text" : "Drug mule.",
+  "translations" : {
+    "russian" : "Курьер."
+  },
+  "tokens" : [ {
+    "token" : "drug",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "mule",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRrW6DTAu_IiLfVjE",
+  "text" : "Camouflaged drugs?",
+  "translations" : {
+    "russian" : "Замаскированные наркотики?"
+  },
+  "tokens" : [ {
+    "token" : "camouflage",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "drug",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEijyqDTAu_IiLey_a",
+  "text" : "Drug binge?",
+  "translations" : {
+    "russian" : "Наркотический марафон?"
+  },
+  "tokens" : [ {
+    "token" : "drug",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "binge",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFK-qwDTAu_IiLfQaY",
+  "text" : "Drug mule.",
+  "translations" : {
+    "russian" : "Перевозчик наркотиков."
+  },
+  "tokens" : [ {
+    "token" : "drug",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "mule",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgq3_eNEXFMlzHLKKq",
   "text" : "Double... the drugs, the drugs.",
   "translations" : {
@@ -65,358 +209,186 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnOSSNEXFMlzHLFGy",
-  "text" : "You shouldn't mix drugs.",
+  "id" : "AWoDO4hRDTAu_IiLd82f",
+  "text" : "Drug distribution, prostitution, gambling...",
   "translations" : {
-    "russian" : "Тебе не следует мешать наркотики."
+    "russian" : "Продажа наркотиков, Проституция, азартные игры..."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "drug",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "shouldn't",
-    "startOffset" : 4,
-    "endOffset" : 13,
+    "token" : "distribution",
+    "startOffset" : 5,
+    "endOffset" : 17,
     "position" : 1
   }, {
-    "token" : "mix",
-    "startOffset" : 14,
+    "token" : "distribute",
+    "startOffset" : 5,
     "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "prostitution",
+    "startOffset" : 19,
+    "endOffset" : 31,
     "position" : 2
   }, {
-    "token" : "drug",
-    "startOffset" : 18,
-    "endOffset" : 23,
+    "token" : "prostitute",
+    "startOffset" : 19,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "gamble",
+    "startOffset" : 33,
+    "endOffset" : 41,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgfc5CNEXFMlzHK8oP",
-  "text" : "So this guy's dealing drugs?",
+  "id" : "AWoDQnR9DTAu_IiLd97_",
+  "text" : "Food and Drug Administration.",
   "translations" : {
-    "russian" : "Так значит это парень торгует наркотиками?"
+    "russian" : "Управление по санитарному надзору за качеством пищевых продуктов и медикаментов."
   },
   "tokens" : [ {
-    "token" : "so",
+    "token" : "food",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "drug",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "administration",
+    "startOffset" : 14,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "administrate",
+    "startOffset" : 14,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDXK55DTAu_IiLeB-H",
+  "text" : "The drug is approved.",
+  "translations" : {
+    "russian" : "Лекарство одобрено."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "drug",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "approved",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "approve",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEP5C6DTAu_IiLelLi",
+  "text" : "Powerful knockout drug.",
+  "translations" : {
+    "russian" : "Сильное снотворное."
+  },
+  "tokens" : [ {
+    "token" : "powerful",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "knockout",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "drug",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcXe1DTAu_IiLfds0",
+  "text" : "No, we're drug smugglers.",
+  "translations" : {
+    "russian" : "Нет, мы контрабандой наркотиков."
+  },
+  "tokens" : [ {
+    "token" : "no",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "this",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "guy",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "dealing",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "deal",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "drug",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpfKsNEXFMlzHLIU_",
-  "text" : "You credit the drugs here?",
-  "translations" : {
-    "russian" : "Вы берете здесь наркотики в долг?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "credit",
+    "token" : "we're",
     "startOffset" : 4,
-    "endOffset" : 10,
+    "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
   }, {
     "token" : "drug",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "here",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxclINEXFMlzHLTPs",
-  "text" : "They took the drugs together.",
-  "translations" : {
-    "russian" : "Они вместе приняли наркотик."
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "took",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "drug",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "together",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgp6QXNEXFMlzHLI61",
-  "text" : "I ordered that drug, Meg.",
-  "translations" : {
-    "russian" : "Я заказал медикаменты, Мег."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "ordered",
-    "startOffset" : 2,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "order",
-    "startOffset" : 2,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "that",
     "startOffset" : 10,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "drug",
+    "token" : "smuggle",
     "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "meg",
-    "startOffset" : 21,
     "endOffset" : 24,
-    "position" : 4
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggIB5NEXFMlzHK9Mp",
-  "text" : "They took the drugs together.",
+  "id" : "AWoFcYotDTAu_IiLfdty",
+  "text" : "No drugs, no contraband.",
   "translations" : {
-    "russian" : "Они вместе приняли наркотик."
+    "russian" : "Ни наркотиков, ни контрабанды."
   },
   "tokens" : [ {
-    "token" : "they",
+    "token" : "no",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "took",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "token" : "drug",
+    "startOffset" : 3,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "the",
+    "token" : "no",
     "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "drug",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "together",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgto_yNEXFMlzHLNvl",
-  "text" : "Make poverty history, cheaper drugs now!",
-  "translations" : {
-    "russian" : "В историю бедность, дешёвую дурь!"
-  },
-  "tokens" : [ {
-    "token" : "make",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "poverty",
-    "startOffset" : 5,
     "endOffset" : 12,
-    "position" : 1
+    "position" : 2
   }, {
-    "token" : "history",
+    "token" : "contraband",
     "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "cheap",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "drug",
-    "startOffset" : 30,
-    "endOffset" : 35,
-    "position" : 4
-  }, {
-    "token" : "now",
-    "startOffset" : 36,
-    "endOffset" : 39,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgto9mNEXFMlzHLNvk",
-  "text" : "Make poverty history, cheaper drugs now!",
-  "translations" : {
-    "russian" : "В историю бедность, дешевую дурь!"
-  },
-  "tokens" : [ {
-    "token" : "make",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "poverty",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "history",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "cheap",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "drug",
-    "startOffset" : 30,
-    "endOffset" : 35,
-    "position" : 4
-  }, {
-    "token" : "now",
-    "startOffset" : 36,
-    "endOffset" : 39,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdAVzNEXFMlzHK6hw",
-  "text" : "Well, maybe the package wasn't drugs.",
-  "translations" : {
-    "russian" : "Ну, возможно в пакете были не наркотики."
-  },
-  "tokens" : [ {
-    "token" : "well",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "maybe",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "package",
-    "startOffset" : 16,
     "endOffset" : 23,
     "position" : 3
-  }, {
-    "token" : "wasn't",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "drug",
-    "startOffset" : 31,
-    "endOffset" : 36,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgevQQNEXFMlzHK8A2",
-  "text" : "Tomorrow's put a cap on drugs.",
-  "translations" : {
-    "russian" : "А завтра из моды выйдут кепки."
-  },
-  "tokens" : [ {
-    "token" : "tomorrow",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "put",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 15,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "cap",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "on",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "drug",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

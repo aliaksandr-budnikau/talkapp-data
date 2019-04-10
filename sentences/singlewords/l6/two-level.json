@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEUs7TDTAu_IiLeox0",
+  "text" : "Benson, security level two.",
+  "translations" : {
+    "russian" : "Бенсон, служба безопасности второго уровня."
+  },
+  "tokens" : [ {
+    "token" : "benson",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "security",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "level",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "two",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxt8hNEXFMlzHLTvm",
   "text" : "It's downstairs two levels.",
   "translations" : {
@@ -24,6 +52,67 @@
     "startOffset" : 20,
     "endOffset" : 26,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUtAqDTAu_IiLeox5",
+  "text" : "On level two?",
+  "translations" : {
+    "russian" : "На втором уровне?"
+  },
+  "tokens" : [ {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "level",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "two",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUs9fDTAu_IiLeox2",
+  "text" : "Initiating counterinsurgency program level two.",
+  "translations" : {
+    "russian" : "Проводится карательная операция второго уровня."
+  },
+  "tokens" : [ {
+    "token" : "initiating",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "counterinsurgency",
+    "startOffset" : 11,
+    "endOffset" : 28,
+    "position" : 1
+  }, {
+    "token" : "program",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 2
+  }, {
+    "token" : "gram",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 2
+  }, {
+    "token" : "level",
+    "startOffset" : 37,
+    "endOffset" : 42,
+    "position" : 3
+  }, {
+    "token" : "two",
+    "startOffset" : 43,
+    "endOffset" : 46,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

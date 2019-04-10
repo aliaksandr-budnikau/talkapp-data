@@ -32,6 +32,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFQA3-DTAu_IiLfUNs",
+  "text" : "The exterminator was booked.",
+  "translations" : {
+    "russian" : "Дезинсектор был занят."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "exterminator",
+    "startOffset" : 4,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "booked",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "book",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwWekNEXFMlzHLSGD",
   "text" : "You said you booked it.",
   "translations" : {
@@ -146,6 +179,98 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFHMakDTAu_IiLfNWf",
+  "text" : "Book statue.",
+  "translations" : {
+    "russian" : "Статуя в виде книг."
+  },
+  "tokens" : [ {
+    "token" : "book",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "statue",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEe4ahDTAu_IiLewBK",
+  "text" : "Predominantly books.",
+  "translations" : {
+    "russian" : "Преимущественно книгами."
+  },
+  "tokens" : [ {
+    "token" : "predominant",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "book",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDR-JODTAu_IiLd-4F",
+  "text" : "Yeah, books, notebooks, algebra books.",
+  "translations" : {
+    "russian" : "Книги, тетради, учебник алгебры."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "book",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "notebook",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "algebra",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "book",
+    "startOffset" : 32,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgwVaWNEXFMlzHLSE9",
+  "text" : "Mortimer, my books!",
+  "translations" : {
+    "russian" : "Мортимер, мои книги!"
+  },
+  "tokens" : [ {
+    "token" : "mortimer",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "book",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxpRyNEXFMlzHLTls",
   "text" : "I made the booking.",
   "translations" : {
@@ -179,26 +304,87 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwVaWNEXFMlzHLSE9",
-  "text" : "Mortimer, my books!",
+  "id" : "AWoECVcADTAu_IiLea-V",
+  "text" : "Gotham City Book Depository.",
   "translations" : {
-    "russian" : "Мортимер, мои книги!"
+    "russian" : "Книгохранилище Готэма."
   },
   "tokens" : [ {
-    "token" : "mortimer",
+    "token" : "gotham",
     "startOffset" : 0,
-    "endOffset" : 8,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "my",
-    "startOffset" : 10,
-    "endOffset" : 12,
+    "token" : "city",
+    "startOffset" : 7,
+    "endOffset" : 11,
     "position" : 1
   }, {
     "token" : "book",
-    "startOffset" : 13,
-    "endOffset" : 18,
+    "startOffset" : 12,
+    "endOffset" : 16,
     "position" : 2
+  }, {
+    "token" : "depository",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECVUsDTAu_IiLea-O",
+  "text" : "It's a book depository.",
+  "translations" : {
+    "russian" : "Это книгохранилище."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "book",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "depository",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEia9CDTAu_IiLey47",
+  "text" : "My book on pears?",
+  "translations" : {
+    "russian" : "Моей книге о грушах?"
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "book",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "pear",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -230,38 +416,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwVphNEXFMlzHLSFN",
-  "text" : "Author of a book...",
+  "id" : "AWoDP-KBDTAu_IiLd9fK",
+  "text" : "The book writer.",
   "translations" : {
-    "russian" : "Автор книги..."
-  },
-  "tokens" : [ {
-    "token" : "author",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "of",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 10,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "book",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxSSKNEXFMlzHLTEM",
-  "text" : "The Book of Reservations.",
-  "translations" : {
-    "russian" : "Резервирование Мест."
+    "russian" : "Писательницу."
   },
   "tokens" : [ {
     "token" : "the",
@@ -274,241 +432,48 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "of",
+    "token" : "writer",
     "startOffset" : 9,
-    "endOffset" : 11,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "reservation",
-    "startOffset" : 12,
-    "endOffset" : 24,
-    "position" : 3
+    "token" : "write",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "writ",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxpQFNEXFMlzHLTlo",
-  "text" : "He had bookings.",
+  "id" : "AWoDSsqTDTAu_IiLd_XU",
+  "text" : "Here's the alphabet book.",
   "translations" : {
-    "russian" : "У него были заказы."
+    "russian" : "Вот азбука."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "here's",
     "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "had",
-    "startOffset" : 3,
     "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "book",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwXVzNEXFMlzHLSG6",
-  "text" : "Nobody's gonna book him.",
-  "translations" : {
-    "russian" : "Никто его не пригласит."
-  },
-  "tokens" : [ {
-    "token" : "nobody",
-    "startOffset" : 0,
-    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "gonna",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "book",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "him",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggYXDNEXFMlzHK9aw",
-  "text" : "You told Nina's book agent?",
-  "translations" : {
-    "russian" : "Ты сказала представителю Нины Ховард?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "told",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "nina",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "book",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "agent",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpio8NEXFMlzHLIZ4",
-  "text" : "The first book I edited.",
-  "translations" : {
-    "russian" : "Первая книга, которую я редактировала и издавала."
-  },
-  "tokens" : [ {
     "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "first",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "book",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "i",
-    "startOffset" : 15,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "edited",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "edit",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrwwgNEXFMlzHLLen",
-  "text" : "Square as Golden Books, Pop.",
-  "translations" : {
-    "russian" : "Рассчитались еще как, пап."
-  },
-  "tokens" : [ {
-    "token" : "square",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "as",
     "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "golden",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "gold",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "book",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "pop",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwWWCNEXFMlzHLSF6",
-  "text" : "Let's go book a flight.",
-  "translations" : {
-    "russian" : "Давай закажем билеты на самолет."
-  },
-  "tokens" : [ {
-    "token" : "let",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "go",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "book",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "flight",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgowasNEXFMlzHLHXt",
-  "text" : "My readers love the book.",
-  "translations" : {
-    "russian" : "Мои читатели любят книги."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "read",
-    "startOffset" : 3,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "love",
+    "token" : "alphabet",
     "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 16,
     "endOffset" : 19,
-    "position" : 3
+    "position" : 2
   }, {
     "token" : "book",
     "startOffset" : 20,
     "endOffset" : 24,
-    "position" : 4
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

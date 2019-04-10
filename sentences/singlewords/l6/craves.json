@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoFFc-LDTAu_IiLfMBM",
+  "text" : "Lone wolves crave spectacle.",
+  "translations" : {
+    "russian" : "Одинокие волки жаждут зрелищ."
+  },
+  "tokens" : [ {
+    "token" : "lone",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "wolves",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "crave",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "spectacle",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDkqKuDTAu_IiLeJnf",
+  "text" : "Bad parents crave unconditional love.",
+  "translations" : {
+    "russian" : "Плохим родителям нужна безоговорочная любовь."
+  },
+  "tokens" : [ {
+    "token" : "bad",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "parent",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "crave",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "conditional",
+    "startOffset" : 18,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "love",
+    "startOffset" : 32,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpmgNNEXFMlzHLIfS",
   "text" : "And craving dark, leafy greens.",
   "translations" : {
@@ -70,6 +131,72 @@
   }, {
     "token" : "green",
     "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFE6egDTAu_IiLfLoI",
+  "text" : "A man who craves notoriety.",
+  "translations" : {
+    "russian" : "Человек, который жаждет известности."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "man",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "who",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "crave",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "notoriety",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNOKKDTAu_IiLfSGq",
+  "text" : "Tally craves some intimacy. Ow!",
+  "translations" : {
+    "russian" : "Талли жаждет интима."
+  },
+  "tokens" : [ {
+    "token" : "tally",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "crave",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "some",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "intimacy",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "ow",
+    "startOffset" : 28,
     "endOffset" : 30,
     "position" : 4
   } ],

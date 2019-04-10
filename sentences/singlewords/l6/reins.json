@@ -1,97 +1,54 @@
 [ {
-  "id" : "AWbga19WNEXFMlzHK4le",
-  "text" : "Especially in the face!",
+  "id" : "AWoEcXUYDTAu_IiLeuJg",
+  "text" : "In daylights, in sunsets.",
   "translations" : {
-    "russian" : "Особенно на такую близкую!"
+    "russian" : "В рассветах, в закатах."
   },
   "tokens" : [ {
-    "token" : "especial",
+    "token" : "in",
     "startOffset" : 0,
-    "endOffset" : 10,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "in",
-    "startOffset" : 11,
-    "endOffset" : 13,
+    "token" : "daylight",
+    "startOffset" : 3,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "the",
+    "token" : "in",
     "startOffset" : 14,
-    "endOffset" : 17,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "face",
-    "startOffset" : 18,
-    "endOffset" : 22,
+    "token" : "sunset",
+    "startOffset" : 17,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbga7tONEXFMlzHK4qj",
-  "text" : "You're inviting him in?",
+  "id" : "AWoDfm7eDTAu_IiLeGu6",
+  "text" : "Lido's in.",
   "translations" : {
-    "russian" : "Ты пригласил его внутрь?"
+    "russian" : "Лидокаин внутрь."
   },
   "tokens" : [ {
-    "token" : "you're",
+    "token" : "lido",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "inviting",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "invite",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
     "token" : "in",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbga7X-NEXFMlzHK4qR",
-  "text" : "He's still in me?",
+  "id" : "AWoEElnKDTAu_IiLecwZ",
+  "text" : "COME IN.",
   "translations" : {
-    "russian" : "Он все ещё внутри меня?"
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "still",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "me",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbga8EpNEXFMlzHK4q6",
-  "text" : "Come on, you in?",
-  "translations" : {
-    "russian" : "Ну что, согласна?"
+    "russian" : "Войдите."
   },
   "tokens" : [ {
     "token" : "come",
@@ -99,376 +56,249 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "on",
+    "token" : "in",
     "startOffset" : 5,
     "endOffset" : 7,
     "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbga-_ANEXFMlzHK4tZ",
-  "text" : "We live in London.",
+  "id" : "AWoEa-y9DTAu_IiLetN_",
+  "text" : "In puberty.",
   "translations" : {
-    "russian" : "Мы проживаем в Лондоне."
+    "russian" : "S ambush, maidens bloom, all unaware of impending doomДевушки не подозревают об ожидающей их судьбе."
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "in",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "live",
+    "token" : "puberty",
     "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "l",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 8,
     "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "london",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbQLtNEXFMlzHK48w",
-  "text" : "Not in their year.",
-  "translations" : {
-    "russian" : "В их возрасте..."
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 4,
-    "endOffset" : 6,
     "position" : 1
-  }, {
-    "token" : "their",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "year",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgefQlNEXFMlzHK7yX",
-  "text" : "Rest in peace, grandma.",
+  "id" : "AWoEw2EQDTAu_IiLe9X8",
+  "text" : "In Hebrew?",
   "translations" : {
-    "russian" : "Ну, покойся с миром, бабушка."
+    "russian" : "На иврите?"
   },
   "tokens" : [ {
-    "token" : "rest",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "r",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
     "token" : "in",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "peace",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "grandma",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfe3hNEXFMlzHK8qB",
-  "text" : "It dissolves in seawater.",
-  "translations" : {
-    "russian" : "Растворим в морской воде."
-  },
-  "tokens" : [ {
-    "token" : "it",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "solves",
+    "token" : "hebrew",
     "startOffset" : 3,
-    "endOffset" : 12,
+    "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "dissolve",
-    "startOffset" : 3,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "seawater",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgfq8zNEXFMlzHK80f",
-  "text" : "We're in hostile territory.",
+  "id" : "AWoFXPFpDTAu_IiLfZhh",
+  "text" : "In Climax.",
   "translations" : {
-    "russian" : "Мы на вражеской территории."
+    "russian" : "Климакс."
   },
   "tokens" : [ {
-    "token" : "we're",
+    "token" : "in",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 2,
     "position" : 0
   }, {
+    "token" : "climax",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbb_HDTAu_IiLeEYi",
+  "text" : "In Athens?",
+  "translations" : {
+    "russian" : "В Афинах?"
+  },
+  "tokens" : [ {
     "token" : "in",
-    "startOffset" : 6,
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "athens",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDub2RDTAu_IiLePEB",
+  "text" : "In Slough.",
+  "translations" : {
+    "russian" : "В Слау."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "slough",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD14gvDTAu_IiLeTFU",
+  "text" : "In Bukhara?",
+  "translations" : {
+    "russian" : "В Бухаре?"
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "bukhara",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEmZODTAu_IiLecw_",
+  "text" : "In spots.",
+  "translations" : {
+    "russian" : "Временами."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "spot",
+    "startOffset" : 3,
     "endOffset" : 8,
     "position" : 1
-  }, {
-    "token" : "hostile",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "territory",
-    "startOffset" : 17,
-    "endOffset" : 26,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggjIsNEXFMlzHK9j-",
-  "text" : "Lonely in these parts.",
+  "id" : "AWoEaBnmDTAu_IiLesmP",
+  "text" : "In Genoa?",
   "translations" : {
-    "russian" : "Одиноко в этих краях."
+    "russian" : "В Генуе?"
   },
   "tokens" : [ {
-    "token" : "lonely",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "lone",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
     "token" : "in",
-    "startOffset" : 7,
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "genoa",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDk3gDTAu_IiLfKsY",
+  "text" : "In health.",
+  "translations" : {
+    "russian" : "Во здравие."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "health",
+    "startOffset" : 3,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "these",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "part",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghUq_NEXFMlzHK-PT",
-  "text" : "Yes, in the story.",
-  "translations" : {
-    "russian" : "Да, в сказке."
-  },
-  "tokens" : [ {
-    "token" : "yes",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "story",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj49kNEXFMlzHLAZU",
-  "text" : "Locked in a cycle.",
-  "translations" : {
-    "russian" : "Ходите по замкнутому кругу."
-  },
-  "tokens" : [ {
-    "token" : "locked",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "lock",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 7,
+    "token" : "heal",
+    "startOffset" : 3,
     "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 10,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "cycle",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglDzSNEXFMlzHLB3C",
-  "text" : "Lost in the dust.",
+  "id" : "AWoDV7nHDTAu_IiLeBb8",
+  "text" : "In Antwerp?",
   "translations" : {
-    "russian" : "Проигрался в пух и прах."
+    "russian" : "В Антверпене?"
   },
   "tokens" : [ {
-    "token" : "lost",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
     "token" : "in",
-    "startOffset" : 5,
-    "endOffset" : 7,
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "antwerp",
+    "startOffset" : 3,
+    "endOffset" : 10,
     "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "dust",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglDwmNEXFMlzHLB29",
-  "text" : "I'm covered in dust.",
+  "id" : "AWoDlzvmDTAu_IiLeKO1",
+  "text" : "In berets.",
   "translations" : {
-    "russian" : "Я весь в пыльце."
+    "russian" : "Береты."
   },
   "tokens" : [ {
-    "token" : "i'm",
+    "token" : "in",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "cover",
-    "startOffset" : 4,
+    "token" : "beret",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDfJXDTAu_IiLfKoR",
+  "text" : "In Bluebell?",
+  "translations" : {
+    "russian" : "В Блюбелле?"
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "bluebell",
+    "startOffset" : 3,
     "endOffset" : 11,
     "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "dust",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmRvsNEXFMlzHLDna",
-  "text" : "We're chopping in rhythm.",
+  "id" : "AWoDSJrqDTAu_IiLd-_0",
+  "text" : "In Algiers.",
   "translations" : {
-    "russian" : "Мы нарезаем их в едином ритме."
+    "russian" : "В Алжире."
   },
   "tokens" : [ {
-    "token" : "we're",
+    "token" : "in",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "chopping",
-    "startOffset" : 6,
-    "endOffset" : 14,
+    "token" : "algiers",
+    "startOffset" : 3,
+    "endOffset" : 10,
     "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "rhythm",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmuCnNEXFMlzHLEX8",
-  "text" : "We're in range.",
-  "translations" : {
-    "russian" : "Мы в пределах видимости."
-  },
-  "tokens" : [ {
-    "token" : "we're",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "range",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoERhEyDTAu_IiLemWa",
+  "text" : "There's no extradition treaty.",
+  "translations" : {
+    "russian" : "Там нет договора об экстрадиции."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "no",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "extradition",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "extradite",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "treaty",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcCJVNEXFMlzHK5pr",
   "text" : "They're celebrating the treaty, sir.",
   "translations" : {
@@ -28,6 +61,44 @@
     "token" : "sir",
     "startOffset" : 32,
     "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERhOkDTAu_IiLemWj",
+  "text" : "No extradition treaty in Argentina.",
+  "translations" : {
+    "russian" : "Без договора о выдаче в Аргентине."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "extradition",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "extradite",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "treaty",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "argentina",
+    "startOffset" : 25,
+    "endOffset" : 34,
     "position" : 4
   } ],
   "contentScore" : null

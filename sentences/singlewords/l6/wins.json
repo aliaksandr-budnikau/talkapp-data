@@ -1,4 +1,58 @@
 [ {
+  "id" : "AWoEAByzDTAu_IiLeZL_",
+  "text" : "Highland wins!",
+  "translations" : {
+    "russian" : "Хайланд вьIигрьIвает!"
+  },
+  "tokens" : [ {
+    "token" : "highland",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "win",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGPUJDTAu_IiLfMmU",
+  "text" : "We win.",
+  "translations" : {
+    "russian" : "Forfeit.Проиграли."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "win",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESp_ADTAu_IiLenNL",
+  "text" : "You win.",
+  "translations" : {
+    "russian" : "Вы победили."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "win",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoQcjNEXFMlzHLGoz",
   "text" : "Win her heart.",
   "translations" : {
@@ -18,6 +72,57 @@
     "token" : "heart",
     "startOffset" : 8,
     "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8zURDTAu_IiLeWvw",
+  "text" : "Sir, I'll surely win.",
+  "translations" : {
+    "russian" : "Сэр, я обязательно выиграю."
+  },
+  "tokens" : [ {
+    "token" : "sir",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "i'll",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "surely",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "win",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESp2ODTAu_IiLenNF",
+  "text" : "Father will win.",
+  "translations" : {
+    "russian" : "Мой отец победит."
+  },
+  "tokens" : [ {
+    "token" : "father",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "win",
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   } ],
   "contentScore" : null
@@ -78,213 +183,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvW1CNEXFMlzHLQvf",
-  "text" : "I call that a win.",
+  "id" : "AWoEeVPDDTAu_IiLevmy",
+  "text" : "You win, manhole!",
   "translations" : {
-    "russian" : "Я считаю это победой."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "call",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "win",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgob0_NEXFMlzHLG6R",
-  "text" : "And you'll win the Pulitzer.",
-  "translations" : {
-    "russian" : "И тебе дадут Пулитцера?"
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you'll",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "win",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "pulitzer",
-    "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzHhFNEXFMlzHLVzT",
-  "text" : "It's called wining and dining.",
-  "translations" : {
-    "russian" : "Вот вам деловые коктейли и обеды."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "called",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "call",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "win",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "din",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgh0pLNEXFMlzHK-rH",
-  "text" : "I will win him over.",
-  "translations" : {
-    "russian" : "Я завоюю его вновь."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "will",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "win",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "him",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "over",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgf5NONEXFMlzHK8_h",
-  "text" : "She wins, his pull evaporates.",
-  "translations" : {
-    "russian" : "Она выигрывает, его влияние испаряется."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "win",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "his",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "pull",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "evaporate",
-    "startOffset" : 19,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgocHDNEXFMlzHLG6v",
-  "text" : "Maybe you'll win another Pulitzer.",
-  "translations" : {
-    "russian" : "Возможно, тебя наградят ещё одной Пулитцеровской премией."
-  },
-  "tokens" : [ {
-    "token" : "maybe",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "you'll",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "win",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "another",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "pulitzer",
-    "startOffset" : 25,
-    "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglPTANEXFMlzHLCLj",
-  "text" : "You win by a landslide.",
-  "translations" : {
-    "russian" : "Это будет полная победа."
+    "russian" : "Твоя взяла, люк!"
   },
   "tokens" : [ {
     "token" : "you",
@@ -297,136 +199,17 @@
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "by",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 3
-  }, {
-    "token" : "landslide",
-    "startOffset" : 13,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyn0GNEXFMlzHLVBV",
-  "text" : "She wins, his pull evaporates.",
-  "translations" : {
-    "russian" : "Она выигрывает, его влияние испаряется."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "win",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "his",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "pull",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "evaporate",
-    "startOffset" : 19,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgb__VNEXFMlzHK5nu",
-  "text" : "One with a higher card wins.",
-  "translations" : {
-    "russian" : "Выигрывает тот, чья карта старше."
-  },
-  "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "with",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "a",
+    "token" : "manhole",
     "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "high",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "card",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "win",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgocD3NEXFMlzHLG6o",
-  "text" : "You're gonna win a Pulitzer Prize.",
-  "translations" : {
-    "russian" : "И получишь Пулитцеровскую премию."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "gonna",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "win",
-    "startOffset" : 13,
     "endOffset" : 16,
     "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 17,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "pulitzer",
-    "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "prize",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgx680NEXFMlzHLT_Z",
-  "text" : "The point is, I would win.",
+  "id" : "AWoESrd2DTAu_IiLenOW",
+  "text" : "The house wins, gentlemen.",
   "translations" : {
-    "russian" : "Дело в том, то я бы выиграла."
+    "russian" : "Казино выигрывает, господа."
   },
   "tokens" : [ {
     "token" : "the",
@@ -434,75 +217,167 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "point",
+    "token" : "house",
     "startOffset" : 4,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "is",
+    "token" : "win",
     "startOffset" : 10,
-    "endOffset" : 12,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "i",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "would",
+    "token" : "gentlemen",
     "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "win",
-    "startOffset" : 22,
     "endOffset" : 25,
-    "position" : 5
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgocCpNEXFMlzHLG6m",
-  "text" : "Maybe you'll win a Pulitzer Prize.",
+  "id" : "AWoEIJBKDTAu_IiLefV2",
+  "text" : "Seminole Uprising to win.",
   "translations" : {
-    "russian" : "Может, получишь Пулитцеровскую премию."
+    "russian" : "Семя Мятежа на победу."
   },
   "tokens" : [ {
-    "token" : "maybe",
+    "token" : "seminole",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "uprising",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "uprise",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "win",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESr2hDTAu_IiLenOp",
+  "text" : "Because beginners always win!",
+  "translations" : {
+    "russian" : "Новички всегда выигрывают."
+  },
+  "tokens" : [ {
+    "token" : "because",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "beginner",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "alway",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "win",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWt3eDTAu_IiLfZJF",
+  "text" : "We can't win defamation.",
+  "translations" : {
+    "russian" : "Мы не можем выиграть, обвинив в клевете."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "can't",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "win",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "defamation",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD0ZM4DTAu_IiLeSZf",
+  "text" : "Quasi wins again!",
+  "translations" : {
+    "russian" : "Квази опять победил!"
+  },
+  "tokens" : [ {
+    "token" : "quasi",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "you'll",
+    "token" : "win",
     "startOffset" : 6,
-    "endOffset" : 12,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "win",
-    "startOffset" : 13,
+    "token" : "again",
+    "startOffset" : 11,
     "endOffset" : 16,
     "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 17,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "pulitzer",
-    "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "prize",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgocTANEXFMlzHLG7E",
-  "text" : "You win the grand prize, Bob!",
+  "id" : "AWoESoPLDTAu_IiLenL2",
+  "text" : "All right, you win.",
   "translations" : {
-    "russian" : "Ты выиграл супер приз, Боб!"
+    "russian" : "Ну ладно, ты выиграла."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "right",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "win",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESp4qDTAu_IiLenNH",
+  "text" : "You all win.",
+  "translations" : {
+    "russian" : "Вы все победили."
   },
   "tokens" : [ {
     "token" : "you",
@@ -510,30 +385,15 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "win",
+    "token" : "all",
     "startOffset" : 4,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "the",
+    "token" : "win",
     "startOffset" : 8,
     "endOffset" : 11,
     "position" : 2
-  }, {
-    "token" : "grand",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "prize",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "bob",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

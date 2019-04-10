@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoDjO2MDTAu_IiLeI0y",
+  "text" : "Ruthless villain?",
+  "translations" : {
+    "russian" : "Беспощадный злодей?"
+  },
+  "tokens" : [ {
+    "token" : "ruthless",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "villain",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOpwwDTAu_IiLekR9",
+  "text" : "Encountering these dastardly villains.",
+  "translations" : {
+    "russian" : "От стычек с этими подлыми негодяями."
+  },
+  "tokens" : [ {
+    "token" : "encounter",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "these",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "dastardly",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "dastard",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "villain",
+    "startOffset" : 29,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghr5LNEXFMlzHK-jf",
   "text" : "You have no villains?",
   "translations" : {
@@ -24,6 +75,29 @@
     "startOffset" : 12,
     "endOffset" : 20,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJD3bDTAu_IiLfO5Y",
+  "text" : "Despicable traitor, Villain!",
+  "translations" : {
+    "russian" : "Презренная изменница, злодейка!"
+  },
+  "tokens" : [ {
+    "token" : "despicable",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "traitor",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "villain",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {

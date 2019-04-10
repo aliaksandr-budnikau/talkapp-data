@@ -37,145 +37,333 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtxrnNEXFMlzHLN7O",
-  "text" : "I'm sweating like a pig.",
+  "id" : "AWoEBFlPDTAu_IiLeaAM",
+  "text" : "Pig squeals.",
   "translations" : {
-    "russian" : "Я вспотел как свинья."
+    "russian" : "Визги свиньи."
   },
   "tokens" : [ {
-    "token" : "i'm",
+    "token" : "pig",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "sweat",
+    "token" : "squeal",
     "startOffset" : 4,
-    "endOffset" : 12,
+    "endOffset" : 11,
     "position" : 1
-  }, {
-    "token" : "like",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 18,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "pig",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdtYANEXFMlzHK7GG",
-  "text" : "Pigs treat us as equals!",
+  "id" : "AWoEKP9MDTAu_IiLeg3B",
+  "text" : "PIG SCREECHES.",
   "translations" : {
-    "russian" : "Только свиньи обращаются с нами, как с равными!"
+    "russian" : "КАБАН ВИЗЖИТ."
   },
   "tokens" : [ {
     "token" : "pig",
     "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "screech",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjdukDTAu_IiLezrG",
+  "text" : "Wild pig!",
+  "translations" : {
+    "russian" : "Кабан!"
+  },
+  "tokens" : [ {
+    "token" : "wild",
+    "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "treat",
+    "token" : "pig",
     "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDb6TrDTAu_IiLeEqm",
+  "text" : "Bavarian pig!",
+  "translations" : {
+    "russian" : "Баварская свинья!"
+  },
+  "tokens" : [ {
+    "token" : "bavarian",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "pig",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpLDTDTAu_IiLe3-z",
+  "text" : "Wild pig!",
+  "translations" : {
+    "russian" : "Кабан!"
+  },
+  "tokens" : [ {
+    "token" : "wild",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "pig",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0bJnDTAu_IiLe_8p",
+  "text" : "Porky Pig.",
+  "translations" : {
+    "russian" : "Каддафи, поросёнок Порки!"
+  },
+  "tokens" : [ {
+    "token" : "porky",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pig",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBIPtDTAu_IiLeaCI",
+  "text" : "Pig squeals.",
+  "translations" : {
+    "russian" : "Визги свиньи."
+  },
+  "tokens" : [ {
+    "token" : "pig",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "squeal",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBE-YDTAu_IiLeZ_s",
+  "text" : "Squeal like a pig.",
+  "translations" : {
+    "russian" : "Визжит как свинья."
+  },
+  "tokens" : [ {
+    "token" : "squeal",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "like",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "pig",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBFAlDTAu_IiLeZ_u",
+  "text" : "GRUNTS PIG SQUEALS.",
+  "translations" : {
+    "russian" : "GRUNTS СВИНЬИ визжит ,en."
+  },
+  "tokens" : [ {
+    "token" : "grunt",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "pig",
+    "startOffset" : 7,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "us",
+    "token" : "squeal",
     "startOffset" : 11,
-    "endOffset" : 13,
+    "endOffset" : 18,
     "position" : 2
-  }, {
-    "token" : "as",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "equal",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmzYfNEXFMlzHLEgx",
-  "text" : "Well, slotted pig, they're standard issue.",
+  "id" : "AWoEUDuSDTAu_IiLeoRn",
+  "text" : "I smell pig.",
   "translations" : {
-    "russian" : "Ну, свинья с прорезью, это стандартная комплектация."
+    "russian" : "Я чую свинью."
   },
   "tokens" : [ {
-    "token" : "well",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "slotted",
-    "startOffset" : 6,
-    "endOffset" : 13,
+    "token" : "smell",
+    "startOffset" : 2,
+    "endOffset" : 7,
     "position" : 1
   }, {
     "token" : "pig",
-    "startOffset" : 14,
-    "endOffset" : 17,
+    "startOffset" : 8,
+    "endOffset" : 11,
     "position" : 2
-  }, {
-    "token" : "they're",
-    "startOffset" : 19,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "standard",
-    "startOffset" : 27,
-    "endOffset" : 35,
-    "position" : 4
-  }, {
-    "token" : "issue",
-    "startOffset" : 36,
-    "endOffset" : 41,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgm76vNEXFMlzHLEvK",
-  "text" : "Who wants to carve the pig?",
+  "id" : "AWoFKTXpDTAu_IiLfP5N",
+  "text" : "Adorning the pig.",
   "translations" : {
-    "russian" : "Кто хочет разделать свинью."
+    "russian" : "Я украшаю свинью."
   },
   "tokens" : [ {
-    "token" : "who",
+    "token" : "adorn",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "pig",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSX0wDTAu_IiLfWEQ",
+  "text" : "You decadent, capitalist pig!",
+  "translations" : {
+    "russian" : "Х ты загнивающий капиталист!"
+  },
+  "tokens" : [ {
+    "token" : "you",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "want",
+    "token" : "decadent",
     "startOffset" : 4,
-    "endOffset" : 9,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "to",
-    "startOffset" : 10,
+    "token" : "cadent",
+    "startOffset" : 4,
     "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "capitalist",
+    "startOffset" : 14,
+    "endOffset" : 24,
     "position" : 2
   }, {
-    "token" : "carve",
-    "startOffset" : 13,
-    "endOffset" : 18,
+    "token" : "pig",
+    "startOffset" : 25,
+    "endOffset" : 28,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSYrWDTAu_IiLfWE4",
+  "text" : "Attention, capitalist pigs.",
+  "translations" : {
+    "russian" : "Внимание, капиталистические свиньи."
+  },
+  "tokens" : [ {
+    "token" : "attention",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
+    "token" : "capitalist",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
   }, {
     "token" : "pig",
-    "startOffset" : 23,
+    "startOffset" : 22,
     "endOffset" : 26,
-    "position" : 5
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBHiyDTAu_IiLeaBo",
+  "text" : "Squeal like a pig.",
+  "translations" : {
+    "russian" : "Визжит как свинья."
+  },
+  "tokens" : [ {
+    "token" : "squeal",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "like",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "pig",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBHlODTAu_IiLeaBq",
+  "text" : "GRUNTS PIG SQUEALS.",
+  "translations" : {
+    "russian" : "GRUNTS СВИНЬИ визжит ,en."
+  },
+  "tokens" : [ {
+    "token" : "grunt",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "pig",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "squeal",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

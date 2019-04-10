@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoEXoNSDTAu_IiLeq9F",
+  "text" : "So, jetty, swimming pool.",
+  "translations" : {
+    "russian" : "Итак, пристань, бассейн."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "jetty",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "swimming",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "pool",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPXvFDTAu_IiLfTsg",
+  "text" : "The pool, so tempting.",
+  "translations" : {
+    "russian" : "Бассейн, какой соблазн."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pool",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "so",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "tempting",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpgZiNEXFMlzHLIWo",
   "text" : "I want a pool cue.",
   "translations" : {
@@ -32,6 +88,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEAdzVDTAu_IiLeZh0",
+  "text" : "These are the breeding pools.",
+  "translations" : {
+    "russian" : "Это пруды для разведения."
+  },
+  "tokens" : [ {
+    "token" : "these",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "breeding",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "breed",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "pool",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgodb1NEXFMlzHLG8x",
   "text" : "1.6 million dollar prize pool!",
   "translations" : {
@@ -61,6 +155,110 @@
     "token" : "pool",
     "startOffset" : 25,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFGBFDTAu_IiLfLwN",
+  "text" : "Maids, a pool, fancy sweaters.",
+  "translations" : {
+    "russian" : "Прислуга, бассейн, красивые вещи."
+  },
+  "tokens" : [ {
+    "token" : "maid",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pool",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "fancy",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "sweat",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKJVGDTAu_IiLegx0",
+  "text" : "Maids, a pool, fancy sweaters.",
+  "translations" : {
+    "russian" : "Прислуга, бассейн, красивые вещи."
+  },
+  "tokens" : [ {
+    "token" : "maid",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pool",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "fancy",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "sweat",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdoIWDTAu_IiLfenz",
+  "text" : "Hotel, pool, concert venues, restaurants.",
+  "translations" : {
+    "russian" : "Отель, бассейн, концертные площадки, рестораны."
+  },
+  "tokens" : [ {
+    "token" : "hotel",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pool",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "concert",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "cert",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "venue",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "restaurant",
+    "startOffset" : 29,
+    "endOffset" : 40,
     "position" : 4
   } ],
   "contentScore" : null
@@ -132,6 +330,44 @@
     "token" : "mate",
     "startOffset" : 30,
     "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETBWlDTAu_IiLenev",
+  "text" : "You will drain the pool, yes?",
+  "translations" : {
+    "russian" : "Ты же осушишь бассейн, да?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "drain",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "pool",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "yes",
+    "startOffset" : 25,
+    "endOffset" : 28,
     "position" : 5
   } ],
   "contentScore" : null
@@ -208,6 +444,120 @@
     "token" : "cue",
     "startOffset" : 22,
     "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEb-raDTAu_IiLet44",
+  "text" : "Found it in the pool skimmer.",
+  "translations" : {
+    "russian" : "Я нашел это в скиммере бассейна."
+  },
+  "tokens" : [ {
+    "token" : "found",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "pool",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "skimmer",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsP0yDTAu_IiLe6JE",
+  "text" : "I let them play pool, dominoes.",
+  "translations" : {
+    "russian" : "Они играли в пул, в домино."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "let",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "them",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "play",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "pool",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "dominoes",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1oIKDTAu_IiLfAxr",
+  "text" : "He stumbled off into the pool.",
+  "translations" : {
+    "russian" : "Он споткнулся и упал в бассейн."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "stumble",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "off",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "into",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "pool",
+    "startOffset" : 25,
+    "endOffset" : 29,
     "position" : 5
   } ],
   "contentScore" : null

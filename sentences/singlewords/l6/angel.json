@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEEgPQDTAu_IiLecsH",
+  "text" : "Hark the herald angels.",
+  "translations" : {
+    "russian" : "Внемли ангельской вести."
+  },
+  "tokens" : [ {
+    "token" : "hark",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "herald",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "angel",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvd1UNEXFMlzHLQ-O",
   "text" : "The angel blade works.",
   "translations" : {
@@ -32,6 +60,57 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDsIhnDTAu_IiLeNrX",
+  "text" : "A little blond angel.",
+  "translations" : {
+    "russian" : "Маленький светловолосый ангел."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "little",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "blond",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "angel",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEM3bJDTAu_IiLei8r",
+  "text" : "Angel cavity search.",
+  "translations" : {
+    "russian" : "Ангельский обыск."
+  },
+  "tokens" : [ {
+    "token" : "angel",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "cavity",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "search",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglIq8NEXFMlzHLB_p",
   "text" : "Bye-bye, angel eyes.",
   "translations" : {
@@ -57,6 +136,52 @@
     "startOffset" : 15,
     "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDQIWDTAu_IiLebsA",
+  "text" : "The weeping angel.",
+  "translations" : {
+    "russian" : "Плачущий ангел."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "weep",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "angel",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2OlWDTAu_IiLeTPc",
+  "text" : "Angel of yore.",
+  "translations" : {
+    "russian" : "Былого Ангела."
+  },
+  "tokens" : [ {
+    "token" : "angel",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "yore",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -88,6 +213,77 @@
   }, {
     "token" : "angel",
     "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEN_6kDTAu_IiLejyz",
+  "text" : "I'm a little tense, Angel.",
+  "translations" : {
+    "russian" : "Я немного нервничаю, Анхель."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "little",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "tense",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "angel",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDQUEDTAu_IiLebsJ",
+  "text" : "Fascinating race, the weeping angels.",
+  "translations" : {
+    "russian" : "Потрясающая раса плачущие ангелы."
+  },
+  "tokens" : [ {
+    "token" : "fascinating",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "fascinate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "race",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "weep",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "angel",
+    "startOffset" : 30,
     "endOffset" : 36,
     "position" : 4
   } ],
@@ -159,6 +355,72 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEsC0_DTAu_IiLe6Ah",
+  "text" : "Essence of violet, cloves. Angel?",
+  "translations" : {
+    "russian" : "Эссенция фиалок, гвоздики... Ангел?"
+  },
+  "tokens" : [ {
+    "token" : "essence",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "violet",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "clove",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "angel",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExB_KDTAu_IiLe9g8",
+  "text" : "Let's make scalding asphalt angels.",
+  "translations" : {
+    "russian" : "Давайте сделаем обжигающих ангелов на асфальте."
+  },
+  "tokens" : [ {
+    "token" : "let",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "scald",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "asphalt",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "angel",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwQ19NEXFMlzHLSA6",
   "text" : "Angel rabbits fly like birds.",
   "translations" : {
@@ -192,117 +454,36 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguNzTNEXFMlzHLOqM",
-  "text" : "Angel's not the person you knew.",
+  "id" : "AWoD_1p6DTAu_IiLeZCf",
+  "text" : "I'm a little tense, Angel.",
   "translations" : {
-    "russian" : "Ангел не та личность, которую ты знала."
+    "russian" : "Я немного нервничаю, Анхель."
   },
   "tokens" : [ {
-    "token" : "angel",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "person",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "you",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "knew",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglIbONEXFMlzHLB_U",
-  "text" : "Hey, Blondie, isn't that Angel Eyes?",
-  "translations" : {
-    "russian" : "Эй, Блондинчик, это же Ангельские Глазки."
-  },
-  "tokens" : [ {
-    "token" : "hey",
+    "token" : "i'm",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "blondie",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "isn't",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "that",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "angel",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "eye",
-    "startOffset" : 31,
-    "endOffset" : 35,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsizUNEXFMlzHLMlg",
-  "text" : "The Angels are scared and running.",
-  "translations" : {
-    "russian" : "Ангелы напуганы и спасаются бегством."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "angel",
+    "token" : "a",
     "startOffset" : 4,
-    "endOffset" : 10,
+    "endOffset" : 5,
     "position" : 1
   }, {
-    "token" : "are",
-    "startOffset" : 11,
-    "endOffset" : 14,
+    "token" : "little",
+    "startOffset" : 6,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "scar",
-    "startOffset" : 15,
-    "endOffset" : 21,
+    "token" : "tense",
+    "startOffset" : 13,
+    "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "and",
-    "startOffset" : 22,
+    "token" : "angel",
+    "startOffset" : 20,
     "endOffset" : 25,
     "position" : 4
-  }, {
-    "token" : "running",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

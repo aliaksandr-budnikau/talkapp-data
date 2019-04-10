@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoFWateDTAu_IiLfY7q",
+  "text" : "Bring...tribe.",
+  "translations" : {
+    "russian" : "Донеси... в свой племя."
+  },
+  "tokens" : [ {
+    "token" : "bring",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "tribe",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgm3HsNEXFMlzHLEnH",
   "text" : "Bring the tin animal.",
   "translations" : {
@@ -83,6 +101,105 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDx9PsDTAu_IiLeREX",
+  "text" : "Bring me my armor.",
+  "translations" : {
+    "russian" : "Принеси мои доспехи."
+  },
+  "tokens" : [ {
+    "token" : "bring",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "armor",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpODvDTAu_IiLe4BA",
+  "text" : "Bring forth the fowl.",
+  "translations" : {
+    "russian" : "Просит дать ей птицу."
+  },
+  "tokens" : [ {
+    "token" : "bring",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "forth",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "fowl",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQRndDTAu_IiLfUbi",
+  "text" : "The bringer of torment.",
+  "translations" : {
+    "russian" : "Приносит пытки..."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bringer",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "bring",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "torment",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "tor",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgl6HTNEXFMlzHLDBO",
   "text" : "Bringing him spiked cupcakes.",
   "translations" : {
@@ -111,150 +228,61 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgl4kdNEXFMlzHLDAG",
-  "text" : "Bring it, cupcake.",
+  "id" : "AWoDcEiJDTAu_IiLeEvU",
+  "text" : "I'll bring Mud along.",
   "translations" : {
-    "russian" : "Принято, кексик!"
+    "russian" : "Я захвачу Мада с собой."
   },
   "tokens" : [ {
-    "token" : "bring",
+    "token" : "i'll",
     "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "cupcake",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgn7M6NEXFMlzHLGQJ",
-  "text" : "Bring a chequebook.",
-  "translations" : {
-    "russian" : "Принеси чековую книжку."
-  },
-  "tokens" : [ {
-    "token" : "bring",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "chequebook",
-    "startOffset" : 8,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkyniNEXFMlzHLBaB",
-  "text" : "And bring something green.",
-  "translations" : {
-    "russian" : "И принесите какую-нибудь зелень."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "bring",
-    "startOffset" : 4,
-    "endOffset" : 9,
+    "startOffset" : 5,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "something",
-    "startOffset" : 10,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "green",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgluIENEXFMlzHLC5Z",
-  "text" : "I didn't bring my swimsuit.",
-  "translations" : {
-    "russian" : "Я не взяла купальник."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "didn't",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "bring",
-    "startOffset" : 9,
+    "token" : "mud",
+    "startOffset" : 11,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "my",
+    "token" : "along",
     "startOffset" : 15,
-    "endOffset" : 17,
+    "endOffset" : 20,
     "position" : 3
-  }, {
-    "token" : "swimsuit",
-    "startOffset" : 18,
-    "endOffset" : 26,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoi8wNEXFMlzHLHFi",
-  "text" : "Bring me no more reports.",
+  "id" : "AWoDhp3ADTAu_IiLeH7g",
+  "text" : "Starting brings misfortune.",
   "translations" : {
-    "russian" : "Не доносите больше ничего."
+    "russian" : "Начинания приносят неудачи."
   },
   "tokens" : [ {
-    "token" : "bring",
+    "token" : "start",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "me",
-    "startOffset" : 6,
-    "endOffset" : 8,
+    "token" : "bring",
+    "startOffset" : 9,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "no",
-    "startOffset" : 9,
-    "endOffset" : 11,
+    "token" : "misfortune",
+    "startOffset" : 16,
+    "endOffset" : 26,
     "position" : 2
-  }, {
-    "token" : "more",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "port",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgs5mJNEXFMlzHLNDe",
-  "text" : "Bring on the voluntary witnesses.",
+  "id" : "AWoDlNDkDTAu_IiLeJ6j",
+  "text" : "Bring back Whitey!",
   "translations" : {
-    "russian" : "Вперед, добровольный свидетель!"
+    "russian" : "Верни мне Пэкку!"
   },
   "tokens" : [ {
     "token" : "bring",
@@ -262,7 +290,30 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "on",
+    "token" : "back",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "whitey",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgx-GDTAu_IiLexiU",
+  "text" : "Bring in the sinner!",
+  "translations" : {
+    "russian" : "Приведите негодяя!"
+  },
+  "tokens" : [ {
+    "token" : "bring",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "in",
     "startOffset" : 6,
     "endOffset" : 8,
     "position" : 1
@@ -272,213 +323,117 @@
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "voluntary",
+    "token" : "sinner",
     "startOffset" : 13,
-    "endOffset" : 22,
+    "endOffset" : 19,
     "position" : 3
-  }, {
-    "token" : "witness",
-    "startOffset" : 23,
-    "endOffset" : 32,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxKP_NEXFMlzHLS6K",
-  "text" : "Most people bring less luggage.",
+  "id" : "AWoEpR9UDTAu_IiLe4Dx",
+  "text" : "Let's bring back duration.",
   "translations" : {
-    "russian" : "Большинство людей берут с собой меньше багажа."
+    "russian" : "Введём понятие длительности."
   },
   "tokens" : [ {
-    "token" : "most",
+    "token" : "let",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "people",
-    "startOffset" : 5,
+    "token" : "bring",
+    "startOffset" : 6,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "bring",
+    "token" : "back",
     "startOffset" : 12,
-    "endOffset" : 17,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "less",
-    "startOffset" : 18,
-    "endOffset" : 22,
+    "token" : "duration",
+    "startOffset" : 17,
+    "endOffset" : 25,
     "position" : 3
-  }, {
-    "token" : "luggage",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbImyNEXFMlzHK415",
-  "text" : "Why did you bring Pepito?",
+  "id" : "AWoEUB5EDTAu_IiLeoQR",
+  "text" : "It brings smell ?",
   "translations" : {
-    "russian" : "Зачем ты привёл Пепито?"
+    "russian" : "Воняет?"
   },
   "tokens" : [ {
-    "token" : "why",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "did",
-    "startOffset" : 4,
+    "token" : "bring",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "smell",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeBOaDTAu_IiLfe5b",
+  "text" : "Bring your shovel. Mommy!",
+  "translations" : {
+    "russian" : "Бери лопатку."
+  },
+  "tokens" : [ {
+    "token" : "bring",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "shovel",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "mommy",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFebUkDTAu_IiLffMP",
+  "text" : "I bring manifold gifts.",
+  "translations" : {
+    "russian" : "Я принес разнообразные дары."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "bring",
+    "startOffset" : 2,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "you",
+    "token" : "manifold",
     "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "bring",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "pepito",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdfHVNEXFMlzHK67c",
-  "text" : "Did Note bring his trumpet?",
-  "translations" : {
-    "russian" : "Нот со своей трубой?"
-  },
-  "tokens" : [ {
-    "token" : "did",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "note",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "bring",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "his",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "trumpet",
-    "startOffset" : 19,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkUVINEXFMlzHLA1W",
-  "text" : "Why didn't she bring charges?",
-  "translations" : {
-    "russian" : "Почему она не выдвинула обвинения?"
-  },
-  "tokens" : [ {
-    "token" : "why",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "didn't",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "she",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "bring",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "charge",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbIftNEXFMlzHK41z",
-  "text" : "And what did you bring?",
-  "translations" : {
-    "russian" : "Ну а ты нам кого привела?"
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "what",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "did",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 13,
     "endOffset" : 16,
-    "position" : 3
+    "position" : 2
   }, {
-    "token" : "bring",
+    "token" : "gift",
     "startOffset" : 17,
     "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcHbxNEXFMlzHK5ug",
-  "text" : "You always bring chocolate here?",
-  "translations" : {
-    "russian" : "Ты всегда приносишь сюда шоколад?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "alway",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "bring",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "chocolate",
-    "startOffset" : 17,
-    "endOffset" : 26,
     "position" : 3
-  }, {
-    "token" : "here",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

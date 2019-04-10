@@ -1,4 +1,73 @@
 [ {
+  "id" : "AWoEL-aMDTAu_IiLeiPj",
+  "text" : "Reading forbidden?",
+  "translations" : {
+    "russian" : "Чтение под запретом?"
+  },
+  "tokens" : [ {
+    "token" : "reading",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "read",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "forbidden",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExb86DTAu_IiLe90U",
+  "text" : "Avid reader.",
+  "translations" : {
+    "russian" : "Заядлый читатель."
+  },
+  "tokens" : [ {
+    "token" : "avid",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "reader",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "read",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESFVADTAu_IiLemxc",
+  "text" : "Reading fiction?",
+  "translations" : {
+    "russian" : "Читаешь роман?"
+  },
+  "tokens" : [ {
+    "token" : "reading",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "read",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "fiction",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdgCKNEXFMlzHK68J",
   "text" : "I read your notes.",
   "translations" : {
@@ -131,198 +200,183 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdDaYNEXFMlzHK6kg",
-  "text" : "I read your paper.",
+  "id" : "AWoDPI55DTAu_IiLd9Ac",
+  "text" : "He's reading my autobiography.",
   "translations" : {
-    "russian" : "Я прочитал твою статью."
+    "russian" : "Он читает мою автобиографию."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "he",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 4,
     "position" : 0
-  }, {
-    "token" : "read",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "ad",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "paper",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "pap",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmjsZNEXFMlzHLEF5",
-  "text" : "I read your paper.",
-  "translations" : {
-    "russian" : "Я прочитал твою статью."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "read",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "ad",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "paper",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "pap",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmkxeNEXFMlzHLEHw",
-  "text" : "I read the paper.",
-  "translations" : {
-    "russian" : "Я читала меморандум."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "read",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "ad",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "paper",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "pap",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgreeuNEXFMlzHLLDz",
-  "text" : "No, monitoring reading habits.",
-  "translations" : {
-    "russian" : "Нет, контролируют читательские пристрастия."
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "monitor",
-    "startOffset" : 4,
-    "endOffset" : 14,
-    "position" : 1
   }, {
     "token" : "reading",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 2
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
   }, {
     "token" : "read",
-    "startOffset" : 15,
-    "endOffset" : 22,
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 13,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "habit",
-    "startOffset" : 23,
+    "token" : "autobiography",
+    "startOffset" : 16,
     "endOffset" : 29,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdFeRNEXFMlzHK6mX",
-  "text" : "I read the paper.",
+  "id" : "AWoDVR9MDTAu_IiLeBCy",
+  "text" : "Read your annotated code.",
   "translations" : {
-    "russian" : "Я читала меморандум."
+    "russian" : "Почитайте Свод законов."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "read",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "read",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
     "token" : "ad",
-    "startOffset" : 2,
-    "endOffset" : 6,
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
+    "token" : "annotated",
+    "startOffset" : 10,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "paper",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
+    "token" : "annotate",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
   }, {
-    "token" : "pap",
-    "startOffset" : 11,
+    "token" : "code",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDpO-DDTAu_IiLeMBL",
+  "text" : "He can read now.",
+  "translations" : {
+    "russian" : "Теперь уже умеет."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "read",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "ad",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "now",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDQuMDTAu_IiLebsd",
+  "text" : "Read it and weep.",
+  "translations" : {
+    "russian" : "Рочти и прослезись."
+  },
+  "tokens" : [ {
+    "token" : "read",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ad",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "weep",
+    "startOffset" : 12,
     "endOffset" : 16,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrureNEXFMlzHLLbn",
-  "text" : "You read signal flags?",
+  "id" : "AWoEkm1ADTAu_IiLe0jS",
+  "text" : "They read like Sentinels.",
   "translations" : {
-    "russian" : "Ты что, умеешь читать сигнальные флаги?"
+    "russian" : "Они опознаны как стражи..."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "read",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "ad",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "like",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "sentinel",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEot3uDTAu_IiLe3pH",
+  "text" : "And read the directions.",
+  "translations" : {
+    "russian" : "Обязательно прочтите инструкцию."
+  },
+  "tokens" : [ {
+    "token" : "and",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
@@ -337,22 +391,60 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "signal",
+    "token" : "the",
     "startOffset" : 9,
-    "endOffset" : 15,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "flag",
-    "startOffset" : 16,
-    "endOffset" : 21,
+    "token" : "directions",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "direction",
+    "startOffset" : 13,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsOZoNEXFMlzHLMI5",
-  "text" : "Reading your deeds again?",
+  "id" : "AWoE12hADTAu_IiLfA7X",
+  "text" : "Yep, tough to read!",
   "translations" : {
-    "russian" : "Опять перечитываете свои документы?"
+    "russian" : "Да, это нелёгкое чтиво."
+  },
+  "tokens" : [ {
+    "token" : "yep",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "tough",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "read",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "ad",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9giXDTAu_IiLfGAI",
+  "text" : "Reading can't substitute experience.",
+  "translations" : {
+    "russian" : "Чтение не заменит опыта."
   },
   "tokens" : [ {
     "token" : "reading",
@@ -365,200 +457,53 @@
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "your",
+    "token" : "can't",
     "startOffset" : 8,
-    "endOffset" : 12,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "ed",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "deed",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "again",
-    "startOffset" : 19,
+    "token" : "substitute",
+    "startOffset" : 14,
     "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "experience",
+    "startOffset" : 25,
+    "endOffset" : 35,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgde8VNEXFMlzHK67X",
-  "text" : "Can you read notes?",
+  "id" : "AWoE-4ywDTAu_IiLfHIJ",
+  "text" : "Read it and weep.",
   "translations" : {
-    "russian" : "Умеешь читать ноты?"
+    "russian" : "Читайте и плачьте."
   },
   "tokens" : [ {
-    "token" : "can",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
     "token" : "read",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "ad",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "note",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgowfkNEXFMlzHLHX0",
-  "text" : "You know my reader.",
-  "translations" : {
-    "russian" : "Да, вот мой чтец."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "know",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "reader",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "read",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpHc3NEXFMlzHLH2B",
-  "text" : "You read her journal?",
-  "translations" : {
-    "russian" : "Ты читала её дневник?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "read",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "ad",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "her",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "journal",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpHhvNEXFMlzHLH2I",
-  "text" : "Okay, I've read Jacob's journals.",
-  "translations" : {
-    "russian" : "Я читала дневники Иакова."
-  },
-  "tokens" : [ {
-    "token" : "okay",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "i've",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "read",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
     "token" : "ad",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "jacob",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "journal",
-    "startOffset" : 24,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgf05QNEXFMlzHK87u",
-  "text" : "I read your grant proposal.",
-  "translations" : {
-    "russian" : "Я прочел вашу заявку на грант."
-  },
-  "tokens" : [ {
-    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "read",
-    "startOffset" : 2,
-    "endOffset" : 6,
+    "token" : "it",
+    "startOffset" : 5,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "ad",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 7,
+    "token" : "and",
+    "startOffset" : 8,
     "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "grant",
+    "token" : "weep",
     "startOffset" : 12,
-    "endOffset" : 17,
+    "endOffset" : 16,
     "position" : 3
-  }, {
-    "token" : "proposal",
-    "startOffset" : 18,
-    "endOffset" : 26,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

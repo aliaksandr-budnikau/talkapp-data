@@ -32,73 +32,447 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvaCGNEXFMlzHLQ2O",
-  "text" : "Last call Virginia-bound passengers.",
+  "id" : "AWoDrdYYDTAu_IiLeNRB",
+  "text" : "No rebound on the sea.",
   "translations" : {
-    "russian" : "Последнее объявления для пассажиров в Вирджинию."
+    "russian" : "S glassy sheenНичего не видно в ровном блеске моря."
   },
   "tokens" : [ {
-    "token" : "last",
+    "token" : "no",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "call",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "token" : "rebound",
+    "startOffset" : 3,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "virginia",
-    "startOffset" : 10,
-    "endOffset" : 18,
+    "token" : "bound",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "bound",
-    "startOffset" : 19,
-    "endOffset" : 24,
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
     "position" : 3
   }, {
-    "token" : "passenger",
-    "startOffset" : 25,
-    "endOffset" : 35,
+    "token" : "sea",
+    "startOffset" : 18,
+    "endOffset" : 21,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyPLVNEXFMlzHLUjW",
-  "text" : "Faces passing, I'm home bound.",
+  "id" : "AWoEgPfMDTAu_IiLexGh",
+  "text" : "He's bound unto Octavia.",
   "translations" : {
-    "russian" : "Лица мелькают, я привязана к дому."
+    "russian" : "С Октавией он связан."
   },
   "tokens" : [ {
-    "token" : "face",
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bound",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "unto",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "octavia",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgSb9DTAu_IiLexI6",
+  "text" : "Something's bound to happen.",
+  "translations" : {
+    "russian" : "Что-то должно случиться."
+  },
+  "tokens" : [ {
+    "token" : "something's",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "bound",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "happen",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDV73yDTAu_IiLeBcD",
+  "text" : "Yes, bound for Antwerp!",
+  "translations" : {
+    "russian" : "Да, пункт назначения Антверпен!"
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bound",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "antwerp",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgPRQDTAu_IiLexGV",
+  "text" : "Oh, it's bound to.",
+  "translations" : {
+    "russian" : "Все вещи связаны."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "bound",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgQnuDTAu_IiLexHc",
+  "text" : "Why are you bound?",
+  "translations" : {
+    "russian" : "Ну почему они вас связали?"
+  },
+  "tokens" : [ {
+    "token" : "why",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "bound",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgTM1DTAu_IiLexJj",
+  "text" : "She's bound to help.",
+  "translations" : {
+    "russian" : "Она должна нам помочь."
+  },
+  "tokens" : [ {
+    "token" : "she",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "passing",
+    "token" : "bound",
     "startOffset" : 6,
-    "endOffset" : 13,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "pass",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "i'm",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "token" : "to",
+    "startOffset" : 12,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "home",
-    "startOffset" : 19,
-    "endOffset" : 23,
+    "token" : "help",
+    "startOffset" : 15,
+    "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgSn7DTAu_IiLexJF",
+  "text" : "Still, bound to be.",
+  "translations" : {
+    "russian" : "Да его и не должно быть."
+  },
+  "tokens" : [ {
+    "token" : "still",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
     "token" : "bound",
-    "startOffset" : 24,
-    "endOffset" : 29,
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEu21NDTAu_IiLe76O",
+  "text" : "She's bound to drift.",
+  "translations" : {
+    "russian" : "Он обречен дрейфовать."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bound",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "drift",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-14aDTAu_IiLeYSZ",
+  "text" : "Friends bound for eternity.",
+  "translations" : {
+    "russian" : "Друзья на веки вечные."
+  },
+  "tokens" : [ {
+    "token" : "friend",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "bound",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "eternity",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgPTtDTAu_IiLexGX",
+  "text" : "Why were you bound?",
+  "translations" : {
+    "russian" : "Почему Вы были связаны?"
+  },
+  "tokens" : [ {
+    "token" : "why",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "were",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bound",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgPVKDTAu_IiLexGY",
+  "text" : "My hand are bound!",
+  "translations" : {
+    "russian" : "Мои руки связаны!"
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "hand",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "bound",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgP2JDTAu_IiLexG0",
+  "text" : "Sure, we're bound to have.",
+  "translations" : {
+    "russian" : "Конечно, мы обязаны иметь."
+  },
+  "tokens" : [ {
+    "token" : "sure",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "we're",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "bound",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "have",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgQt0DTAu_IiLexHi",
+  "text" : "Have you bound your circle?",
+  "translations" : {
+    "russian" : "Вы связали свой Круг?"
+  },
+  "tokens" : [ {
+    "token" : "have",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "bound",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "circle",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgRA3DTAu_IiLexHy",
+  "text" : "You're bound to cut yourself.",
+  "translations" : {
+    "russian" : "Ты обязательно порежешься."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "bound",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "cut",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "yourself",
+    "startOffset" : 20,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null

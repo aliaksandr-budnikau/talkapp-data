@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEHJxHDTAu_IiLeeph",
+  "text" : "United Kingdom abstained.",
+  "translations" : {
+    "russian" : "Британия воздержалась."
+  },
+  "tokens" : [ {
+    "token" : "united",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "unite",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "unit",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "kingdom",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "abstain",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgusEuNEXFMlzHLPmE",
   "text" : "Citizens United, social inequality.",
   "translations" : {
@@ -37,246 +70,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgm465NEXFMlzHLEqF",
-  "text" : "One unit, one body.",
+  "id" : "AWoFLPpEDTAu_IiLfQnl",
+  "text" : "A united family, exemplary.",
   "translations" : {
-    "russian" : "Одно целое, одно тело."
-  },
-  "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "unit",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "one",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "body",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm4-FNEXFMlzHLEqL",
-  "text" : "The entire unit, commissioner.",
-  "translations" : {
-    "russian" : "Целый отряд, комиссар."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "entire",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "unit",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "it",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "commissioner",
-    "startOffset" : 17,
-    "endOffset" : 29,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm44dNEXFMlzHLEqC",
-  "text" : "How was your unit?",
-  "translations" : {
-    "russian" : "Из какой вы части?"
-  },
-  "tokens" : [ {
-    "token" : "how",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "unit",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm4n3NEXFMlzHLEpp",
-  "text" : "Your unit, private?",
-  "translations" : {
-    "russian" : "Ваша часть, рядовой?"
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "unit",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "private",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm369NEXFMlzHLEoc",
-  "text" : "Unit two, standing by.",
-  "translations" : {
-    "russian" : "Подразделение 2, страхуйте."
-  },
-  "tokens" : [ {
-    "token" : "unit",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "two",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "standing",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "stand",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "by",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm4WxNEXFMlzHLEpN",
-  "text" : "Where's the com unit?",
-  "translations" : {
-    "russian" : "А где ком блок?"
-  },
-  "tokens" : [ {
-    "token" : "where",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "com",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "unit",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcFQGNEXFMlzHK5se",
-  "text" : "And be reunited with your child.",
-  "translations" : {
-    "russian" : "И воссоединишься со своим сыном."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "be",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "unite",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "with",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "your",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "child",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm4ZtNEXFMlzHLEpT",
-  "text" : "A robot free will unit?",
-  "translations" : {
-    "russian" : "Блок свободной воли для робота?"
+    "russian" : "Дружной семьи, образцовой."
   },
   "tokens" : [ {
     "token" : "a",
@@ -284,296 +81,172 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "robot",
+    "token" : "united",
     "startOffset" : 2,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "free",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "will",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "unit",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "it",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm4iQNEXFMlzHLEpe",
-  "text" : "216 Bakersfield Way, unit 4E.",
-  "translations" : {
-    "russian" : "Бэйкерсфилд Вэй 216, блок 4Е."
-  },
-  "tokens" : [ {
-    "token" : "216",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "bakersfield",
-    "startOffset" : 4,
-    "endOffset" : 15,
+    "token" : "unite",
+    "startOffset" : 2,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "way",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
     "token" : "unit",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "4e",
-    "startOffset" : 26,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm4uNNEXFMlzHLEp1",
-  "text" : "Unit five-three, ten-four.",
-  "translations" : {
-    "russian" : "Части 5-3, 10-4."
-  },
-  "tokens" : [ {
-    "token" : "unit",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "five",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "startOffset" : 2,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "three",
-    "startOffset" : 10,
+    "token" : "family",
+    "startOffset" : 9,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "ten",
+    "token" : "exemplary",
     "startOffset" : 17,
-    "endOffset" : 20,
+    "endOffset" : 26,
     "position" : 3
-  }, {
-    "token" : "four",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrCBGNEXFMlzHLKZz",
-  "text" : "I will pilot Unit 01.",
+  "id" : "AWoFQ1KCDTAu_IiLfU4p",
+  "text" : "United States Treasury.",
   "translations" : {
-    "russian" : "Я буду пилотировать Еву-01."
+    "russian" : "Министерство финансов США."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "united",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "will",
-    "startOffset" : 2,
+    "token" : "unite",
+    "startOffset" : 0,
     "endOffset" : 6,
-    "position" : 1
+    "position" : 0
   }, {
-    "token" : "pilot",
+    "token" : "unit",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "states",
     "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "unit",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "01",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm40jNEXFMlzHLEp9",
-  "text" : "Guys in the unit, mostly.",
-  "translations" : {
-    "russian" : "Парни из части, в основном."
-  },
-  "tokens" : [ {
-    "token" : "guy",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "unit",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "most",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm4giNEXFMlzHLEpc",
-  "text" : "Which unit are you in?",
-  "translations" : {
-    "russian" : "В каком блоке вы живете?"
-  },
-  "tokens" : [ {
-    "token" : "which",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "unit",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "in",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm4nYNEXFMlzHLEpo",
-  "text" : "What unit are you from?",
-  "translations" : {
-    "russian" : "З какой ты части?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "unit",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 10,
     "endOffset" : 13,
-    "position" : 2
+    "position" : 1
   }, {
-    "token" : "you",
+    "token" : "state",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "treasury",
     "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "from",
-    "startOffset" : 18,
     "endOffset" : 22,
-    "position" : 4
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgm42RNEXFMlzHLEp_",
-  "text" : "Please, don't tell my unit.",
+  "id" : "AWoEHIcIDTAu_IiLeeog",
+  "text" : "United Kingdom abstained.",
   "translations" : {
-    "russian" : "Пожалуйста, не рассказывайте моей части."
+    "russian" : "Британия воздержалась."
   },
   "tokens" : [ {
-    "token" : "please",
+    "token" : "united",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "don't",
-    "startOffset" : 8,
+    "token" : "unite",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "unit",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "kingdom",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "abstain",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHLR9DTAu_IiLeeqi",
+  "text" : "United Kingdom abstained.",
+  "translations" : {
+    "russian" : "Британия воздержалась."
+  },
+  "tokens" : [ {
+    "token" : "united",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "unite",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "unit",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "kingdom",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "abstain",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDpmpDTAu_IiLfKvw",
+  "text" : "United States Capitol.",
+  "translations" : {
+    "russian" : "Столица Соединенных Штатов."
+  },
+  "tokens" : [ {
+    "token" : "united",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "unite",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "unit",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "states",
+    "startOffset" : 7,
     "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "tell",
+    "token" : "state",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "capitol",
     "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 19,
     "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "unit",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "it",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

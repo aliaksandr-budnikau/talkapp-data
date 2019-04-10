@@ -26,4 +26,70 @@
     "position" : 3
   } ],
   "contentScore" : null
+}, {
+  "id" : "AWoDrm5ADTAu_IiLeNWy",
+  "text" : "Dynamite, TNT, mercury fulminate.",
+  "translations" : {
+    "russian" : "Динамит, тротил, гремучая ртуть."
+  },
+  "tokens" : [ {
+    "token" : "dynamite",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "tnt",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "mercury",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "fulminate",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhHicDTAu_IiLfhBP",
+  "text" : "Mercury has a golden tint!",
+  "translations" : {
+    "russian" : "Ртуть имеет золотистый оттенок!"
+  },
+  "tokens" : [ {
+    "token" : "mercury",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "has",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "golden",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "gold",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "tint",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
 } ]

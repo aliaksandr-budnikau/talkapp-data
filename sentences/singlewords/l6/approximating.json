@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoFZmWjDTAu_IiLfbeg",
+  "text" : "They're approximately the right circumference.",
+  "translations" : {
+    "russian" : "Они расположены почти по правильной окружности."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "approximate",
+    "startOffset" : 8,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "right",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "circumference",
+    "startOffset" : 32,
+    "endOffset" : 45,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyL8bNEXFMlzHLUcp",
   "text" : "Approximately 325,000 years have passed here.",
   "translations" : {
@@ -33,6 +66,44 @@
     "token" : "here",
     "startOffset" : 40,
     "endOffset" : 44,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpWY3DTAu_IiLe4HA",
+  "text" : "Approximately five meters in length, sir.",
+  "translations" : {
+    "russian" : "Около 5 метров в длину, сэр."
+  },
+  "tokens" : [ {
+    "token" : "approximate",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "five",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "mete",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "length",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "sir",
+    "startOffset" : 37,
+    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null

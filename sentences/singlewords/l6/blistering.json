@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoD-5BZDTAu_IiLeYUR",
+  "text" : "An eternity of blistering agony.",
+  "translations" : {
+    "russian" : "Мучительная агония на веки вечные."
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "eternity",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "blistering",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "blister",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "agony",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnerCNEXFMlzHLFhL",
   "text" : "Bleed, boil, blister, sweat.",
   "translations" : {
@@ -24,6 +62,39 @@
     "startOffset" : 22,
     "endOffset" : 27,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWBECDTAu_IiLfYqY",
+  "text" : "I feel a blister bubbling.",
+  "translations" : {
+    "russian" : "Я как будто вся пузырюсь."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "feel",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 2
+  }, {
+    "token" : "blister",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "bubble",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

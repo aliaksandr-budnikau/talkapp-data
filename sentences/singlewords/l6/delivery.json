@@ -1,4 +1,144 @@
 [ {
+  "id" : "AWoE4Wb1DTAu_IiLfCm8",
+  "text" : "Lumber delivery.",
+  "translations" : {
+    "russian" : "Доставка пиломатериалов."
+  },
+  "tokens" : [ {
+    "token" : "lumber",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "delivery",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "livery",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhVfKDTAu_IiLex96",
+  "text" : "Lumber delivery.",
+  "translations" : {
+    "russian" : "Доставка пиломатериалов."
+  },
+  "tokens" : [ {
+    "token" : "lumber",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "delivery",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "livery",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhqAPDTAu_IiLfhVi",
+  "text" : "Payable upon delivery.",
+  "translations" : {
+    "russian" : "Оплата после доставки."
+  },
+  "tokens" : [ {
+    "token" : "payable",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "pay",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "upon",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "delivery",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "livery",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_uIGDTAu_IiLfHzK",
+  "text" : "Prompt delivery of goods.",
+  "translations" : {
+    "russian" : "Быстрая доставка товара."
+  },
+  "tokens" : [ {
+    "token" : "prompt",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "delivery",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "livery",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "good",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcJVoDTAu_IiLeEyI",
+  "text" : "Delivery dates, benchmarks.",
+  "translations" : {
+    "russian" : "Сроки, этапы."
+  },
+  "tokens" : [ {
+    "token" : "delivery",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "livery",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "date",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "benchmark",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglQ6QNEXFMlzHLCOd",
   "text" : "Trophy delivery, salvage tour service.",
   "translations" : {
@@ -32,6 +172,44 @@
   }, {
     "token" : "service",
     "startOffset" : 30,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh6i_DTAu_IiLeycB",
+  "text" : "Consignment, delivery or handing over.",
+  "translations" : {
+    "russian" : "Накладная, доставка товара или передача."
+  },
+  "tokens" : [ {
+    "token" : "consignment",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "delivery",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "livery",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "or",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "hand",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "over",
+    "startOffset" : 33,
     "endOffset" : 37,
     "position" : 4
   } ],
@@ -71,6 +249,44 @@
     "token" : "schedule",
     "startOffset" : 20,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh6kNDTAu_IiLeycC",
+  "text" : "Consignment, delivery, or handing over.",
+  "translations" : {
+    "russian" : "Накладная, доставка товара или передача товара."
+  },
+  "tokens" : [ {
+    "token" : "consignment",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "delivery",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "livery",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "or",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "hand",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "over",
+    "startOffset" : 34,
+    "endOffset" : 38,
     "position" : 4
   } ],
   "contentScore" : null

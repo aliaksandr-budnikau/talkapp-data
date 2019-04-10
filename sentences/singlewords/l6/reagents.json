@@ -1,4 +1,86 @@
 [ {
+  "id" : "AWoE62otDTAu_IiLfENl",
+  "text" : "Agent Hare.",
+  "translations" : {
+    "russian" : "Агент Хэйр."
+  },
+  "tokens" : [ {
+    "token" : "agent",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "hare",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEff01DTAu_IiLewhY",
+  "text" : "Agent Burgle.",
+  "translations" : {
+    "russian" : "Агент Баргл."
+  },
+  "tokens" : [ {
+    "token" : "agent",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "burgle",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFS3jODTAu_IiLfWb1",
+  "text" : "Agent collier?",
+  "translations" : {
+    "russian" : "Агент Колье?"
+  },
+  "tokens" : [ {
+    "token" : "agent",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "collier",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "collie",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "colly",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRhQCDTAu_IiLfVbY",
+  "text" : "Agent Chamberlain ?",
+  "translations" : {
+    "russian" : "Агент Чемберлейн ?"
+  },
+  "tokens" : [ {
+    "token" : "agent",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "chamberlain",
+    "startOffset" : 6,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgf7cbNEXFMlzHK9Bi",
   "text" : "Agent, show him out.",
   "translations" : {
@@ -79,6 +161,57 @@
     "token" : "out",
     "startOffset" : 16,
     "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEm4bwDTAu_IiLe2Oj",
+  "text" : "Defoliant agents, Samson.",
+  "translations" : {
+    "russian" : "Дефолиантными реактивами, Самсон."
+  },
+  "tokens" : [ {
+    "token" : "defoliant",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "agent",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "samson",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRhRmDTAu_IiLfVbZ",
+  "text" : "Excuse me, Agent Chamberlain?",
+  "translations" : {
+    "russian" : "Прошу прощения, Агент Чемберлейн?"
+  },
+  "tokens" : [ {
+    "token" : "excuse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "agent",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "chamberlain",
+    "startOffset" : 17,
+    "endOffset" : 28,
     "position" : 3
   } ],
   "contentScore" : null
@@ -190,226 +323,66 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyD_0NEXFMlzHLUML",
-  "text" : "A rogue CIA agent.",
+  "id" : "AWoDgG8fDTAu_IiLeHBs",
+  "text" : "Agent Lee, fringe division.",
   "translations" : {
-    "russian" : "Двойной агент в ЦРУ."
+    "russian" : "Агент Ли, подразделение Грань."
   },
   "tokens" : [ {
-    "token" : "a",
+    "token" : "agent",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "rogue",
-    "startOffset" : 2,
-    "endOffset" : 7,
+    "token" : "lee",
+    "startOffset" : 6,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "cia",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "agent",
-    "startOffset" : 12,
+    "token" : "fringe",
+    "startOffset" : 11,
     "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggXCBNEXFMlzHK9Zt",
-  "text" : "A rogue CIA agent.",
-  "translations" : {
-    "russian" : "Двойной агент в ЦРУ."
-  },
-  "tokens" : [ {
-    "token" : "a",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "rogue",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "cia",
-    "startOffset" : 8,
-    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "agent",
-    "startOffset" : 12,
-    "endOffset" : 17,
+    "token" : "division",
+    "startOffset" : 18,
+    "endOffset" : 26,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzY4ONEXFMlzHLWXZ",
-  "text" : "I'm weak, Agent Booth.",
+  "id" : "AWoEK-JdDTAu_IiLehbT",
+  "text" : "Trumps testy f.b.i. agent.",
   "translations" : {
-    "russian" : "Я слабовольный, агент Бут."
+    "russian" : "Важнее раздражительного агента ФБР."
   },
   "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "weak",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "agent",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "booth",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "boo",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyEXMNEXFMlzHLUM9",
-  "text" : "Jackie Chrome, talent agent.",
-  "translations" : {
-    "russian" : "Джеки Хром, представитель талантов."
-  },
-  "tokens" : [ {
-    "token" : "jackie",
+    "token" : "trump",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "chrome",
+    "token" : "testy",
     "startOffset" : 7,
-    "endOffset" : 13,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "talent",
-    "startOffset" : 15,
-    "endOffset" : 21,
+    "token" : "f.b.i",
+    "startOffset" : 13,
+    "endOffset" : 18,
     "position" : 2
-  }, {
-    "token" : "agent",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggXDPNEXFMlzHK9Zu",
-  "text" : "I'm Mitch Cavanaugh, Gabriel's agent.",
-  "translations" : {
-    "russian" : "Меня зовут Митч Кевена, агент Гэбриела."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "mitch",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "cavanaugh",
-    "startOffset" : 10,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "gabriel",
-    "startOffset" : 21,
-    "endOffset" : 30,
-    "position" : 3
-  }, {
-    "token" : "agent",
-    "startOffset" : 31,
-    "endOffset" : 36,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggXT2NEXFMlzHK9Z7",
-  "text" : "Hang on a second... agent.",
-  "translations" : {
-    "russian" : "Подожди секунду... агент."
-  },
-  "tokens" : [ {
-    "token" : "hang",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "on",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "second",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 3
   }, {
     "token" : "agent",
     "startOffset" : 20,
     "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggYXDNEXFMlzHK9aw",
-  "text" : "You told Nina's book agent?",
-  "translations" : {
-    "russian" : "Ты сказала представителю Нины Ховард?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "told",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "nina",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "book",
-    "startOffset" : 16,
-    "endOffset" : 20,
     "position" : 3
-  }, {
-    "token" : "agent",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguGyxNEXFMlzHLOcy",
-  "text" : "You're the senior field agent.",
+  "id" : "AWoFLPx_DTAu_IiLfQnt",
+  "text" : "You're an exemplary agent.",
   "translations" : {
-    "russian" : "Ты - старший полевой агент."
+    "russian" : "Ты - образцовый агент."
   },
   "tokens" : [ {
     "token" : "you're",
@@ -417,58 +390,20 @@
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "the",
+    "token" : "an",
     "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "senior",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "field",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "agent",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyEAjNEXFMlzHLUMM",
-  "text" : "I'm Mitch Cavanaugh, Gabriel's agent.",
-  "translations" : {
-    "russian" : "Меня зовут Митч Кевена, агент Гэбриела."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "mitch",
-    "startOffset" : 4,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "cavanaugh",
+    "token" : "exemplary",
     "startOffset" : 10,
     "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "gabriel",
-    "startOffset" : 21,
-    "endOffset" : 30,
-    "position" : 3
-  }, {
     "token" : "agent",
-    "startOffset" : 31,
-    "endOffset" : 36,
-    "position" : 4
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

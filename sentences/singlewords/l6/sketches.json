@@ -50,6 +50,85 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEfjhODTAu_IiLewkX",
+  "text" : "Remember Etch a Sketch?",
+  "translations" : {
+    "russian" : "Помнишь Волшебный экран ?"
+  },
+  "tokens" : [ {
+    "token" : "remember",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "etch",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "sketch",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfjkZDTAu_IiLewkZ",
+  "text" : "Etch A Sketch!",
+  "translations" : {
+    "russian" : "Волшебным экраном."
+  },
+  "tokens" : [ {
+    "token" : "etch",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "sketch",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUWUDDTAu_IiLeogJ",
+  "text" : "Any sketches or drawings?",
+  "translations" : {
+    "russian" : "Эскизы, рисунки?"
+  },
+  "tokens" : [ {
+    "token" : "any",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sketch",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "or",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "drawing",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrHVjNEXFMlzHLKhv",
   "text" : "Sketch and shoot, McGee.",
   "translations" : {
@@ -408,120 +487,6 @@
   }, {
     "token" : "fantastic",
     "startOffset" : 30,
-    "endOffset" : 39,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsXS8NEXFMlzHLMVl",
-  "text" : "Carl sketched us from the bank.",
-  "translations" : {
-    "russian" : "А Карл, сидя на берегу, нарисовал с нас этюд."
-  },
-  "tokens" : [ {
-    "token" : "carl",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "sketch",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "us",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "from",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "bank",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjdSfNEXFMlzHLABs",
-  "text" : "Carl sketched us from the bank.",
-  "translations" : {
-    "russian" : "А Карл, сидя на берегу, нарисовал с нас этюд."
-  },
-  "tokens" : [ {
-    "token" : "carl",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "sketch",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "us",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "from",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "bank",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrHR4NEXFMlzHLKhr",
-  "text" : "The sketches that Leticia Clifford made.",
-  "translations" : {
-    "russian" : "Те наброски, что сделала Летиция Клиффорд..."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "sketch",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "leticia",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "clifford",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 4
-  }, {
-    "token" : "made",
-    "startOffset" : 35,
     "endOffset" : 39,
     "position" : 5
   } ],

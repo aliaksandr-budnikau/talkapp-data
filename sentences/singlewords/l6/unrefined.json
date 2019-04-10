@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEvFyGDTAu_IiLe8Eh",
+  "text" : "It's pulverized, unrefined coal.",
+  "translations" : {
+    "russian" : "Это измельченный неочищенный уголь."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "pulverized",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "pulverize",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "refined",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "coal",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglVYHNEXFMlzHLCWm",
   "text" : "I've refined your detection method.",
   "translations" : {
@@ -33,6 +66,44 @@
     "token" : "method",
     "startOffset" : 28,
     "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_O22DTAu_IiLeYky",
+  "text" : "An intellectual and refined interaction.",
+  "translations" : {
+    "russian" : "Физический контакт отделен от духа."
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "intellectual",
+    "startOffset" : 3,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "refined",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "fine",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "interaction",
+    "startOffset" : 28,
+    "endOffset" : 39,
     "position" : 4
   } ],
   "contentScore" : null

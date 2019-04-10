@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoFdq2eDTAu_IiLfepu",
+  "text" : "The Vietnam conflict.",
+  "translations" : {
+    "russian" : "Вьетнамского конфликта."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "vietnam",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "conflict",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguKRPNEXFMlzHLOjd",
   "text" : "Those aliens could be Vietnam.",
   "translations" : {
@@ -29,6 +52,44 @@
     "startOffset" : 22,
     "endOffset" : 29,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMKOkDTAu_IiLeiZN",
+  "text" : "Insurgencies in Malaysia, Indonesia and Vietnam.",
+  "translations" : {
+    "russian" : "Восстания в Малазии, Индонезии и Вьетнаме."
+  },
+  "tokens" : [ {
+    "token" : "insurgency",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "malaysia",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "indonesia",
+    "startOffset" : 26,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 36,
+    "endOffset" : 39,
+    "position" : 4
+  }, {
+    "token" : "vietnam",
+    "startOffset" : 40,
+    "endOffset" : 47,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoFIL0rDTAu_IiLfOKr",
+  "text" : "Smooth on all sides.",
+  "translations" : {
+    "russian" : "Ровный со всех боков."
+  },
+  "tokens" : [ {
+    "token" : "smooth",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "all",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "sides",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "side",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgx3rfNEXFMlzHLT8D",
   "text" : "Road narrows on both sides?",
   "translations" : {
@@ -37,311 +70,100 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjod4NEXFMlzHLALc",
-  "text" : "Inside, outside, up?",
+  "id" : "AWoDXnd8DTAu_IiLeCKR",
+  "text" : "Both sides make compelling arguments.",
   "translations" : {
-    "russian" : "Внутри, снаружи, вверху?"
+    "russian" : "Обе стороны приводят убедительные доводы."
   },
   "tokens" : [ {
-    "token" : "inside",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "side",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "outside",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "up",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwGDfNEXFMlzHLR0o",
-  "text" : "Four ball, side pocket.",
-  "translations" : {
-    "russian" : "4-й шар, боковая луза."
-  },
-  "tokens" : [ {
-    "token" : "four",
+    "token" : "both",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "ball",
+    "token" : "sides",
     "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "side",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "pocket",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwGInNEXFMlzHLR0u",
-  "text" : "8 ball, side pocket.",
-  "translations" : {
-    "russian" : "И 8-й шар в боковую лузу!"
-  },
-  "tokens" : [ {
-    "token" : "8",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "ball",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "side",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "pocket",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmQDkNEXFMlzHLDkZ",
-  "text" : "Chopping wood inside?",
-  "translations" : {
-    "russian" : "Рубил дома дрова?"
-  },
-  "tokens" : [ {
-    "token" : "chopping",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "wood",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "inside",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "side",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwneJNEXFMlzHLSXM",
-  "text" : "From deep inside.",
-  "translations" : {
-    "russian" : "Из глубин моей души."
-  },
-  "tokens" : [ {
-    "token" : "from",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "deep",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "inside",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "side",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwGCxNEXFMlzHLR0n",
-  "text" : "Nine ball... side pocket.",
-  "translations" : {
-    "russian" : "Девятый шар... боковая луза."
-  },
-  "tokens" : [ {
-    "token" : "nine",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "ball",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "side",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "pocket",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgknK4NEXFMlzHLBMf",
-  "text" : "Inside the Agency and out.",
-  "translations" : {
-    "russian" : "В Агентстве и вне его."
-  },
-  "tokens" : [ {
-    "token" : "inside",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "side",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "agency",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "out",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeU7xNEXFMlzHK7pE",
-  "text" : "Inside, outside - Leave me alone.",
-  "translations" : {
-    "russian" : "Внутрь, наружу Оставьте меня в покое."
-  },
-  "tokens" : [ {
-    "token" : "inside",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
     "token" : "side",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "outside",
-    "startOffset" : 8,
-    "endOffset" : 15,
+    "startOffset" : 5,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "leave",
-    "startOffset" : 18,
-    "endOffset" : 23,
+    "token" : "make",
+    "startOffset" : 11,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "me",
-    "startOffset" : 24,
+    "token" : "compelling",
+    "startOffset" : 16,
     "endOffset" : 26,
     "position" : 3
   }, {
-    "token" : "alone",
+    "token" : "argument",
     "startOffset" : 27,
-    "endOffset" : 32,
+    "endOffset" : 36,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcsf3NEXFMlzHK6P1",
-  "text" : "Ice everyone inside this ship.",
+  "id" : "AWoE8nXKDTAu_IiLfFXC",
+  "text" : "Plug the holes both sides.",
   "translations" : {
-    "russian" : "Заморозь всех внутри этого корабля."
+    "russian" : "Заткните им отверстия с обеих сторон."
   },
   "tokens" : [ {
-    "token" : "ice",
+    "token" : "plug",
     "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "everyone",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "inside",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "side",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "this",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "ship",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwOF0NEXFMlzHLR-V",
-  "text" : "Inside the Agency and out.",
-  "translations" : {
-    "russian" : "В Агентстве и вне его."
-  },
-  "tokens" : [ {
-    "token" : "inside",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "side",
-    "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
+    "startOffset" : 5,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "agency",
-    "startOffset" : 11,
+    "token" : "hole",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "both",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "sides",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "side",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhPRKDTAu_IiLfhGP",
+  "text" : "Same margins, top and sides.",
+  "translations" : {
+    "russian" : "Те же поля, сверху и сбоку."
+  },
+  "tokens" : [ {
+    "token" : "same",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "margin",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "top",
+    "startOffset" : 14,
     "endOffset" : 17,
     "position" : 2
   }, {
@@ -350,200 +172,373 @@
     "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "out",
+    "token" : "sides",
     "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbCBBNEXFMlzHK4wD",
-  "text" : "Your new identities are inside.",
-  "translations" : {
-    "russian" : "Внутри находятся ваши новые документы."
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "new",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "identity",
-    "startOffset" : 9,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "are",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "inside",
-    "startOffset" : 24,
-    "endOffset" : 30,
+    "endOffset" : 27,
     "position" : 4
   }, {
     "token" : "side",
-    "startOffset" : 24,
-    "endOffset" : 30,
+    "startOffset" : 22,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbge-hGNEXFMlzHK8OE",
-  "text" : "Let's get this trunk inside.",
+  "id" : "AWoDzmbODTAu_IiLeR_K",
+  "text" : "Sides, I got to tinkle.",
   "translations" : {
-    "russian" : "Давай вытащим этот чемодан."
+    "russian" : "К тому же, мне нужно пи-пи."
   },
   "tokens" : [ {
-    "token" : "let",
+    "token" : "sides",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "get",
-    "startOffset" : 6,
-    "endOffset" : 9,
+    "token" : "side",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 7,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "this",
-    "startOffset" : 10,
-    "endOffset" : 14,
+    "token" : "got",
+    "startOffset" : 9,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "trunk",
-    "startOffset" : 15,
-    "endOffset" : 20,
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
     "position" : 3
   }, {
-    "token" : "inside",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "side",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeYZ_NEXFMlzHK7sM",
-  "text" : "Inside and outside the world.",
-  "translations" : {
-    "russian" : "Внутри и вовне мира."
-  },
-  "tokens" : [ {
-    "token" : "inside",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "side",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "and",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "outside",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 19,
+    "token" : "tinkle",
+    "startOffset" : 16,
     "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "world",
-    "startOffset" : 23,
-    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgf9iSNEXFMlzHK9DW",
-  "text" : "Inside the Agency and out.",
+  "id" : "AWoE0qdKDTAu_IiLfAHo",
+  "text" : "It resides in my personal safe...",
   "translations" : {
-    "russian" : "В Агентстве и вне его."
+    "russian" : "Он находится в моем личном сейфе..."
   },
   "tokens" : [ {
-    "token" : "inside",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "side",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
+    "token" : "sides",
+    "startOffset" : 3,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "agency",
+    "token" : "in",
     "startOffset" : 11,
-    "endOffset" : 17,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "and",
-    "startOffset" : 18,
-    "endOffset" : 21,
+    "token" : "my",
+    "startOffset" : 14,
+    "endOffset" : 16,
     "position" : 3
   }, {
-    "token" : "out",
-    "startOffset" : 22,
+    "token" : "personal",
+    "startOffset" : 17,
     "endOffset" : 25,
     "position" : 4
+  }, {
+    "token" : "safe",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwnOxNEXFMlzHLSW6",
-  "text" : "Deep down inside, I mean.",
+  "id" : "AWoDVIKkDTAu_IiLeA8k",
+  "text" : "Side Annex.",
   "translations" : {
-    "russian" : "Имею в виду до самой глубины души?"
+    "russian" : "Какая-то пристройка."
   },
   "tokens" : [ {
-    "token" : "deep",
+    "token" : "side",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "down",
+    "token" : "annex",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdyXYDTAu_IiLfevE",
+  "text" : "Mew, inside.",
+  "translations" : {
+    "russian" : "Мяу, в дом!"
+  },
+  "tokens" : [ {
+    "token" : "mew",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "inside",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "side",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh_HoDTAu_IiLeygb",
+  "text" : "Left side, inside breast pocket.",
+  "translations" : {
+    "russian" : "С левой стороны, во внутреннем нагрудном кармане."
+  },
+  "tokens" : [ {
+    "token" : "left",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "side",
     "startOffset" : 5,
     "endOffset" : 9,
     "position" : 1
   }, {
     "token" : "inside",
-    "startOffset" : 10,
-    "endOffset" : 16,
+    "startOffset" : 11,
+    "endOffset" : 17,
     "position" : 2
   }, {
     "token" : "side",
-    "startOffset" : 10,
-    "endOffset" : 16,
+    "startOffset" : 11,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "i",
+    "token" : "breast",
     "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "pocket",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaSwMDTAu_IiLesxW",
+  "text" : "Inside the flux generator.",
+  "translations" : {
+    "russian" : "Внутри генератора плотности потока."
+  },
+  "tokens" : [ {
+    "token" : "inside",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "side",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "flux",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "generator",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_2IdDTAu_IiLfH5i",
+  "text" : "Supervisor Tang is inside.",
+  "translations" : {
+    "russian" : "Надзиратель Тан внутри."
+  },
+  "tokens" : [ {
+    "token" : "supervisor",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "tang",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "inside",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "side",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-EBPDTAu_IiLeXs5",
+  "text" : "The oars are inside.",
+  "translations" : {
+    "russian" : "Весла - на месте."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "oar",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "inside",
+    "startOffset" : 13,
     "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "mean",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
+    "token" : "side",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoET3KgDTAu_IiLeoH_",
+  "text" : "Lock hand. Thumb inside.",
+  "translations" : {
+    "russian" : "Держи руку большим пальцем внутрь."
+  },
+  "tokens" : [ {
+    "token" : "lock",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hand",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "thumb",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "inside",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "side",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDPwZDTAu_IiLfKdT",
+  "text" : "Supervisor Tang is inside.",
+  "translations" : {
+    "russian" : "Надзиратель Тан внутри."
+  },
+  "tokens" : [ {
+    "token" : "supervisor",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "tang",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "inside",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "side",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYIXsDTAu_IiLfaPX",
+  "text" : "Master Lam is inside.",
+  "translations" : {
+    "russian" : "Мастер Лам сейчас дома."
+  },
+  "tokens" : [ {
+    "token" : "master",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "mast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "lam",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "inside",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "side",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

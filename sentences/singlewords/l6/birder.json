@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoFTSlADTAu_IiLfWwB",
+  "text" : "Bird caws.",
+  "translations" : {
+    "russian" : "Птица каркает."
+  },
+  "tokens" : [ {
+    "token" : "bird",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTSHuDTAu_IiLfWvp",
+  "text" : "Bird caws.",
+  "translations" : {
+    "russian" : "Птица каркает."
+  },
+  "tokens" : [ {
+    "token" : "bird",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu6SHNEXFMlzHLQBr",
   "text" : "Sunshine lit bird peck.",
   "translations" : {
@@ -23,6 +59,39 @@
     "token" : "peck",
     "startOffset" : 18,
     "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdIEeDTAu_IiLeurk",
+  "text" : "The birds are shining.",
+  "translations" : {
+    "russian" : "Птички поют."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bird",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "shining",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "shin",
+    "startOffset" : 14,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
@@ -55,6 +124,169 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEhBSVDTAu_IiLexuP",
+  "text" : "Vultures are birds.",
+  "translations" : {
+    "russian" : "Грифы - это птицы."
+  },
+  "tokens" : [ {
+    "token" : "vulture",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "bird",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhCqFDTAu_IiLexvT",
+  "text" : "We got birds, vultures.",
+  "translations" : {
+    "russian" : "Птицы, грифы."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "bird",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "vulture",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTR_ZDTAu_IiLfWvk",
+  "text" : "BIRD CAWING MAN COUGHING.",
+  "translations" : {
+    "russian" : "Карканье кашель."
+  },
+  "tokens" : [ {
+    "token" : "bird",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "man",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "cough",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTSGZDTAu_IiLfWvo",
+  "text" : "Bird caws, horse splutters.",
+  "translations" : {
+    "russian" : "Птица каркает, лошадь задыхается."
+  },
+  "tokens" : [ {
+    "token" : "bird",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "horse",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "splutter",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTSdqDTAu_IiLfWv8",
+  "text" : "BIRD CAWING MAN COUGHING.",
+  "translations" : {
+    "russian" : "Карканье кашель."
+  },
+  "tokens" : [ {
+    "token" : "bird",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "man",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "cough",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTSjcDTAu_IiLfWwA",
+  "text" : "Bird caws, horse splutters.",
+  "translations" : {
+    "russian" : "Птица каркает, лошадь задыхается."
+  },
+  "tokens" : [ {
+    "token" : "bird",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caw",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "horse",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "splutter",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwQ8TNEXFMlzHLSBB",
   "text" : "Eh, Big Bird?",
   "translations" : {
@@ -74,6 +306,57 @@
     "token" : "bird",
     "startOffset" : 8,
     "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyeEnDTAu_IiLe-k3",
+  "text" : "Jelly Bird. Exactly.",
+  "translations" : {
+    "russian" : "Желейная птичка. Точно."
+  },
+  "tokens" : [ {
+    "token" : "jelly",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bird",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "exactly",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "exact",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWFaKDTAu_IiLeBg1",
+  "text" : "Antarctic bird flu!",
+  "translations" : {
+    "russian" : "Антарктический птичий грипп!"
+  },
+  "tokens" : [ {
+    "token" : "antarctic",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "bird",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "flu",
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 2
   } ],
   "contentScore" : null
@@ -106,419 +389,26 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnmeKNEXFMlzHLFuF",
-  "text" : "They're little birds and stars.",
+  "id" : "AWoEhC0lDTAu_IiLexvb",
+  "text" : "Vultures are birds.",
   "translations" : {
-    "russian" : "Маленькие птички и звёздочки."
+    "russian" : "Грифы это птицы."
   },
   "tokens" : [ {
-    "token" : "they're",
+    "token" : "vulture",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "little",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "bird",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "star",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwRq-NEXFMlzHLSBo",
-  "text" : "Booze, birds, and the Spurs.",
-  "translations" : {
-    "russian" : "Попойки, девчонки и Шпоры."
-  },
-  "tokens" : [ {
-    "token" : "booze",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "bird",
-    "startOffset" : 7,
+    "token" : "are",
+    "startOffset" : 9,
     "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "and",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "spur",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpjvvNEXFMlzHLIbc",
-  "text" : "Like a bird to feed.",
-  "translations" : {
-    "russian" : "Как птичка на корм."
-  },
-  "tokens" : [ {
-    "token" : "like",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
     "token" : "bird",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "feed",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "fee",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwRUtNEXFMlzHLSBW",
-  "text" : "She's a nervous little bird.",
-  "translations" : {
-    "russian" : "Она как беспокойная маленькая пташка."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "nervous",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "little",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "bird",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgg631NEXFMlzHK94w",
-  "text" : "They're little birds and stars.",
-  "translations" : {
-    "russian" : "Маленькие птички и звёздочки."
-  },
-  "tokens" : [ {
-    "token" : "they're",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "little",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "bird",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "star",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwQ19NEXFMlzHLSA6",
-  "text" : "Angel rabbits fly like birds.",
-  "translations" : {
-    "russian" : "Ангелы-кролики летают подобно пташкам."
-  },
-  "tokens" : [ {
-    "token" : "angel",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "rabbit",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "fly",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "like",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "bird",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwRoCNEXFMlzHLSBl",
-  "text" : "That's because you're a bird.",
-  "translations" : {
-    "russian" : "Потому что ты девчонка."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "because",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "you're",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 22,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "bird",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwQ_PNEXFMlzHLSBE",
-  "text" : "Been stinging some fit bird.",
-  "translations" : {
-    "russian" : "Отжигал с горячей пташкой."
-  },
-  "tokens" : [ {
-    "token" : "been",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "stinging",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "sting",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "some",
-    "startOffset" : 14,
+    "startOffset" : 13,
     "endOffset" : 18,
     "position" : 2
-  }, {
-    "token" : "fit",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "bird",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwRKtNEXFMlzHLSBN",
-  "text" : "Balance yourself like a bird...",
-  "translations" : {
-    "russian" : "Балансируя, словно пташка..."
-  },
-  "tokens" : [ {
-    "token" : "balance",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "yourself",
-    "startOffset" : 8,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "like",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 22,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "bird",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwQnCNEXFMlzHLSAu",
-  "text" : "Our state bird is peach.",
-  "translations" : {
-    "russian" : "Птица нашего штата - персик."
-  },
-  "tokens" : [ {
-    "token" : "our",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "state",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "bird",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "peach",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgflMJNEXFMlzHK8vn",
-  "text" : "The birds return as dusk falls.",
-  "translations" : {
-    "russian" : "Птицы возвращаются на закате."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "bird",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "turn",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "as",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "dusk",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "fall",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwQqcNEXFMlzHLSAx",
-  "text" : "Half a million birds a year.",
-  "translations" : {
-    "russian" : "Полмиллиона птиц в год."
-  },
-  "tokens" : [ {
-    "token" : "half",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "million",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "bird",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 21,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "year",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

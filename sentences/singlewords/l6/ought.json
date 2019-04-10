@@ -32,6 +32,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEAlt3DTAu_IiLeZoA",
+  "text" : "I really ought to reprimand you.",
+  "translations" : {
+    "russian" : "Я реально должен сделать вам выговор."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "ally",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "ought",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "reprimand",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "you",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdpcRNEXFMlzHK7C5",
   "text" : "We ought to throw a grand!",
   "translations" : {
@@ -66,6 +104,82 @@
     "token" : "grand",
     "startOffset" : 20,
     "endOffset" : 25,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdDFVDTAu_IiLfeMz",
+  "text" : "You ought to control those instincts.",
+  "translations" : {
+    "russian" : "Тебе не мешало бы контролировать эти инстинкты."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ought",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "control",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "those",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "instinct",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8TeHDTAu_IiLfFKJ",
+  "text" : "Maybe you ought to shut up.",
+  "translations" : {
+    "russian" : "А может тебе помолчать."
+  },
+  "tokens" : [ {
+    "token" : "maybe",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "ought",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "shut",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "up",
+    "startOffset" : 24,
+    "endOffset" : 26,
     "position" : 5
   } ],
   "contentScore" : null

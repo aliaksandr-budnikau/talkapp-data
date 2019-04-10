@@ -1,4 +1,111 @@
 [ {
+  "id" : "AWoDdznmDTAu_IiLeFrx",
+  "text" : "And you went bankrupt.",
+  "translations" : {
+    "russian" : "И вы обанкротились."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "went",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bankrupt",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjdOFDTAu_IiLezqp",
+  "text" : "The house went wild.",
+  "translations" : {
+    "russian" : "Весь театр сходил с ума."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "house",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "went",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "wild",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyZcwDTAu_IiLeRU7",
+  "text" : "We went sledding.",
+  "translations" : {
+    "russian" : "Мы катались на санках."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "went",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "sledding",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaTjfDTAu_IiLesx7",
+  "text" : "The generator went off.",
+  "translations" : {
+    "russian" : "Генератор сдох."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "generator",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "went",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "off",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjjyiNEXFMlzHLAHY",
   "text" : "Some went clean through.",
   "translations" : {
@@ -23,6 +130,62 @@
     "token" : "through",
     "startOffset" : 16,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcwI-DTAu_IiLeFGb",
+  "text" : "He went for groceries.",
+  "translations" : {
+    "russian" : "Он пошёл за продуктами."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "went",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "grocery",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnrhjDTAu_IiLe22m",
+  "text" : "I went to Georgetown.",
+  "translations" : {
+    "russian" : "Я учился в Джорджтауне."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "went",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "georgetown",
+    "startOffset" : 10,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
@@ -55,10 +218,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkH63NEXFMlzHLAjd",
-  "text" : "She went through my rubbish.",
+  "id" : "AWoDcwG_DTAu_IiLeFGa",
+  "text" : "She went for groceries.",
   "translations" : {
-    "russian" : "Она копалась в моём мусоре."
+    "russian" : "Она ушла за продуктами."
   },
   "tokens" : [ {
     "token" : "she",
@@ -71,68 +234,104 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "through",
+    "token" : "for",
     "startOffset" : 9,
-    "endOffset" : 16,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "my",
-    "startOffset" : 17,
-    "endOffset" : 19,
+    "token" : "grocery",
+    "startOffset" : 13,
+    "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "rubbish",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqNTtNEXFMlzHLJVT",
-  "text" : "I went to business school.",
+  "id" : "AWoDdzT_DTAu_IiLeFrm",
+  "text" : "She went bankrupt.",
   "translations" : {
-    "russian" : "Пошел в школу бизнеса."
+    "russian" : "Вследствие чего она обанкротилась."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "she",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 3,
     "position" : 0
   }, {
     "token" : "went",
-    "startOffset" : 2,
-    "endOffset" : 6,
+    "startOffset" : 4,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "to",
-    "startOffset" : 7,
-    "endOffset" : 9,
+    "token" : "bankrupt",
+    "startOffset" : 9,
+    "endOffset" : 17,
     "position" : 2
-  }, {
-    "token" : "business",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "busy",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "school",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbg3jNEXFMlzHK5Ly",
-  "text" : "He went the right way.",
+  "id" : "AWoDd29QDTAu_IiLeFti",
+  "text" : "The place went bankrupt.",
   "translations" : {
-    "russian" : "Он двигается в правильном направлении."
+    "russian" : "Ваша ферма разорилась."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "place",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "went",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "bankrupt",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDhAjJDTAu_IiLeHi2",
+  "text" : "The getaway... went perfect.",
+  "translations" : {
+    "russian" : "Побег... прошёл идеально."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "getaway",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "went",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "perfect",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExF4iDTAu_IiLe9j4",
+  "text" : "We went sledding.",
+  "translations" : {
+    "russian" : "Мы катались на санках."
+  },
+  "tokens" : [ {
+    "token" : "we",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
@@ -142,27 +341,17 @@
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "the",
+    "token" : "sledding",
     "startOffset" : 8,
-    "endOffset" : 11,
+    "endOffset" : 16,
     "position" : 2
-  }, {
-    "token" : "right",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "way",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdONuNEXFMlzHK6uN",
-  "text" : "You went to see Avery play?",
+  "id" : "AWoFVmpgDTAu_IiLfYYX",
+  "text" : "You went to Cambridge?",
   "translations" : {
-    "russian" : "Ты ходила на выступление Эйвери?"
+    "russian" : "Вы окончили Кэмбридж?"
   },
   "tokens" : [ {
     "token" : "you",
@@ -180,27 +369,17 @@
     "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "see",
+    "token" : "cambridge",
     "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "avery",
-    "startOffset" : 16,
     "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "play",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 5
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkWZJNEXFMlzHLA4b",
-  "text" : "I went for the highest charge.",
+  "id" : "AWoDcwFFDTAu_IiLeFGZ",
+  "text" : "I went for groceries.",
   "translations" : {
-    "russian" : "Я требовал высшей меры."
+    "russian" : "Скажи, что я ушла за продуктами."
   },
   "tokens" : [ {
     "token" : "i",
@@ -218,362 +397,38 @@
     "endOffset" : 10,
     "position" : 2
   }, {
-    "token" : "the",
+    "token" : "grocery",
     "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "high",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "charge",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmGbDNEXFMlzHLDTp",
-  "text" : "Bump, bump, bump went the brakes.",
-  "translations" : {
-    "russian" : "Тормоза скрипели."
-  },
-  "tokens" : [ {
-    "token" : "bump",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "bump",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "bump",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "went",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "brake",
-    "startOffset" : 26,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrZmeNEXFMlzHLK8o",
-  "text" : "I went to the cinema tonight.",
-  "translations" : {
-    "russian" : "Я ездил сегодня к кинотеатру."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "went",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "cinema",
-    "startOffset" : 14,
     "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "tonight",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguSX2NEXFMlzHLOzJ",
-  "text" : "We went to a refugee camp.",
-  "translations" : {
-    "russian" : "Мы тогда пришли в лагерь для беженцев."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "went",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
     "position" : 3
-  }, {
-    "token" : "refugee",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "camp",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzBCQNEXFMlzHLVlp",
-  "text" : "Went underground about 20 years ago...",
+  "id" : "AWoDdzB3DTAu_IiLeFrb",
+  "text" : "Whose store went bankrupt?",
   "translations" : {
-    "russian" : "Ушел в подполье около 20 лет назад..."
+    "russian" : "Чей магазин обанкротился?"
   },
   "tokens" : [ {
-    "token" : "went",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "underground",
-    "startOffset" : 5,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "about",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "20",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "year",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "ago",
-    "startOffset" : 32,
-    "endOffset" : 35,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpDzcNEXFMlzHLHxO",
-  "text" : "I think she went out front.",
-  "translations" : {
-    "russian" : "Думаю, она перед домом."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "think",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "she",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "went",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "out",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "front",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgydFQNEXFMlzHLU4C",
-  "text" : "He went on a bike ride.",
-  "translations" : {
-    "russian" : "Поехал кататься на велосипеде."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "went",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 3
-  }, {
-    "token" : "bike",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 4
-  }, {
-    "token" : "ride",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzBSmNEXFMlzHLVmL",
-  "text" : "You went to an underground prison?",
-  "translations" : {
-    "russian" : "Ты отправился в нелегальную тюрьму?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "went",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "an",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "underground",
-    "startOffset" : 15,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "prison",
-    "startOffset" : 27,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv-T1NEXFMlzHLRsO",
-  "text" : "Agent steward went off the grid.",
-  "translations" : {
-    "russian" : "Агент Стюард не появлялся на работе."
-  },
-  "tokens" : [ {
-    "token" : "agent",
+    "token" : "whose",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "steward",
+    "token" : "store",
     "startOffset" : 6,
-    "endOffset" : 13,
+    "endOffset" : 11,
     "position" : 1
   }, {
     "token" : "went",
-    "startOffset" : 14,
-    "endOffset" : 18,
+    "startOffset" : 12,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "off",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "grid",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwzD9NEXFMlzHLSi0",
-  "text" : "I went to the drop myself.",
-  "translations" : {
-    "russian" : "Я сама ходила к тайнику."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "went",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "drop",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 4
-  }, {
-    "token" : "myself",
-    "startOffset" : 19,
+    "token" : "bankrupt",
+    "startOffset" : 17,
     "endOffset" : 25,
-    "position" : 5
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

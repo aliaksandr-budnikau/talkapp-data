@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoDfXiYDTAu_IiLeGl5",
+  "text" : "Heroin dealer, Barcelona?",
+  "translations" : {
+    "russian" : "Дельца героина, Барселона?"
+  },
+  "tokens" : [ {
+    "token" : "heroin",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dealer",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "deal",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "barcelona",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDpWP5DTAu_IiLeME7",
+  "text" : "Businessman, drug dealer.",
+  "translations" : {
+    "russian" : "Бизнессмен, наркоторговец."
+  },
+  "tokens" : [ {
+    "token" : "businessman",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "drug",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "dealer",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "deal",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgb_4wNEXFMlzHK5np",
   "text" : "High card for dealer position.",
   "translations" : {
@@ -33,6 +89,44 @@
     "token" : "position",
     "startOffset" : 21,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDt-weDTAu_IiLeOyJ",
+  "text" : "Pimp and a drug dealer.",
+  "translations" : {
+    "russian" : "Сутенёрша и наркоторговка."
+  },
+  "tokens" : [ {
+    "token" : "pimp",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "drug",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "dealer",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "deal",
+    "startOffset" : 16,
+    "endOffset" : 22,
     "position" : 4
   } ],
   "contentScore" : null
@@ -72,6 +166,52 @@
     "startOffset" : 21,
     "endOffset" : 29,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECq-MDTAu_IiLebOT",
+  "text" : "Dealing smack.",
+  "translations" : {
+    "russian" : "Торговал героином."
+  },
+  "tokens" : [ {
+    "token" : "dealing",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "deal",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "smack",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECvkPDTAu_IiLebR_",
+  "text" : "Dealing smack.",
+  "translations" : {
+    "russian" : "Торговал героином."
+  },
+  "tokens" : [ {
+    "token" : "dealing",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "deal",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "smack",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
@@ -182,6 +322,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDdl1wDTAu_IiLeFkB",
+  "text" : "Bandits and slave dealers?",
+  "translations" : {
+    "russian" : "Разбойники? Работорговцы?"
+  },
+  "tokens" : [ {
+    "token" : "bandit",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "slave",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "deal",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfbyLNEXFMlzHK8nQ",
   "text" : "Here's the deal.",
   "translations" : {
@@ -202,6 +370,34 @@
     "startOffset" : 11,
     "endOffset" : 15,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0j6-DTAu_IiLfAC_",
+  "text" : "Good deal. A beetle.",
+  "translations" : {
+    "russian" : "Договорились жучок."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "deal",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "beetle",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -257,212 +453,6 @@
     "token" : "deal",
     "startOffset" : 15,
     "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfdL1NEXFMlzHK8oh",
-  "text" : "Okay, here's the deal.",
-  "translations" : {
-    "russian" : "Ладно, вот как мы поступим."
-  },
-  "tokens" : [ {
-    "token" : "okay",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "here's",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "deal",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfdbtNEXFMlzHK8ou",
-  "text" : "Well, deal the cards.",
-  "translations" : {
-    "russian" : "Ну тогда сдавайте карты."
-  },
-  "tokens" : [ {
-    "token" : "well",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "deal",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "card",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfIcFNEXFMlzHK8Ww",
-  "text" : "I accepted the deal!",
-  "translations" : {
-    "russian" : "Я согласился на соглашение."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "accepted",
-    "startOffset" : 2,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "accept",
-    "startOffset" : 2,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "deal",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfbKJNEXFMlzHK8mt",
-  "text" : "We had a deal.",
-  "translations" : {
-    "russian" : "У нас была сделка."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "had",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 7,
-    "endOffset" : 8,
-    "position" : 2
-  }, {
-    "token" : "deal",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfcHNNEXFMlzHK8nj",
-  "text" : "Let's take the deal.",
-  "translations" : {
-    "russian" : "Давай, примем соглашение."
-  },
-  "tokens" : [ {
-    "token" : "let",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "take",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "deal",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfb-oNEXFMlzHK8nb",
-  "text" : "I accepted the deal!",
-  "translations" : {
-    "russian" : "Я согласился на соглашение."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "accepted",
-    "startOffset" : 2,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "accept",
-    "startOffset" : 2,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "deal",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfcJ5NEXFMlzHK8nm",
-  "text" : "We have a deal.",
-  "translations" : {
-    "russian" : "У нас есть соглашение."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "have",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "deal",
-    "startOffset" : 10,
-    "endOffset" : 14,
     "position" : 3
   } ],
   "contentScore" : null

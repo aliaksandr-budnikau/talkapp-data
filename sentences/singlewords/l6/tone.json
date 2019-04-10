@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoFEgrhDTAu_IiLfLXA",
+  "text" : "Just dark, ominous tones.",
+  "translations" : {
+    "russian" : "Всего лишь мрачные, зловещие тона."
+  },
+  "tokens" : [ {
+    "token" : "just",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "dark",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "ominous",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "tone",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE41PMDTAu_IiLfC6R",
+  "text" : "Tanned, toned up.",
+  "translations" : {
+    "russian" : "Загорел, подтянулся."
+  },
+  "tokens" : [ {
+    "token" : "tanned",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "tone",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "up",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgijb8NEXFMlzHK_RQ",
   "text" : "Martinis set the proper tone.",
   "translations" : {
@@ -66,6 +117,72 @@
     "token" : "tone",
     "startOffset" : 21,
     "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSHg_DTAu_IiLd--U",
+  "text" : "Blaine, tone down the blush.",
+  "translations" : {
+    "russian" : "Блейн, замажь румянец."
+  },
+  "tokens" : [ {
+    "token" : "blaine",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "tone",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "down",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "blush",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsv-MDTAu_IiLe6ej",
+  "text" : "Cool tones complement her skin.",
+  "translations" : {
+    "russian" : "Холодные оттенки подходят к её коже."
+  },
+  "tokens" : [ {
+    "token" : "cool",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "tone",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "complement",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "her",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "skin",
+    "startOffset" : 26,
+    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null
@@ -207,21 +324,226 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgb2AJNEXFMlzHK5eo",
-  "text" : "Blows tone.",
+  "id" : "AWoEhq3aDTAu_IiLeyOo",
+  "text" : "Your tone is often acerbic.",
   "translations" : {
-    "russian" : "Дует тон."
+    "russian" : "Ты часто используешь сарказм."
   },
   "tokens" : [ {
-    "token" : "blow",
+    "token" : "your",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "tone",
-    "startOffset" : 6,
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "often",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "oft",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "acerbic",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfro-DTAu_IiLewq3",
+  "text" : "The dial tone is ringing...",
+  "translations" : {
+    "russian" : "Звоню уже..."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dial",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "tone",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "ringing",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "ring",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgAPCDTAu_IiLew6w",
+  "text" : "The dial tone is ringing...",
+  "translations" : {
+    "russian" : "Звоню уже..."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dial",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "tone",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "ringing",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "ring",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsxgmDTAu_IiLe6fm",
+  "text" : "Cool tones complement her skin.",
+  "translations" : {
+    "russian" : "Холодные оттенки подходят к её коже."
+  },
+  "tokens" : [ {
+    "token" : "cool",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "tone",
+    "startOffset" : 5,
     "endOffset" : 10,
     "position" : 1
+  }, {
+    "token" : "complement",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "her",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "skin",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
   } ],
-  "contentScore" : "POOR"
+  "contentScore" : null
+}, {
+  "id" : "AWoEgATMDTAu_IiLew60",
+  "text" : "Oh, by the way... Dial Tone.",
+  "translations" : {
+    "russian" : "Да, но времени позвонить отцу с матерью у него всё равно не остаётся."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "by",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "way",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "dial",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "tone",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaQvgDTAu_IiLeswF",
+  "text" : "Geographical coordinates encoded In five tones.",
+  "translations" : {
+    "russian" : "Географические координаты были закодированы... в пяти звуках."
+  },
+  "tokens" : [ {
+    "token" : "geographical",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "coordinate",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 1
+  }, {
+    "token" : "encode",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 33,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "five",
+    "startOffset" : 36,
+    "endOffset" : 40,
+    "position" : 4
+  }, {
+    "token" : "tone",
+    "startOffset" : 41,
+    "endOffset" : 46,
+    "position" : 5
+  } ],
+  "contentScore" : null
 } ]

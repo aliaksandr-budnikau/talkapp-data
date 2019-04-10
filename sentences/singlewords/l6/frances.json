@@ -1,8 +1,26 @@
 [ {
-  "id" : "AWbgncXXNEXFMlzHLFdU",
-  "text" : "You kept me warm in France.",
+  "id" : "AWoEymeNDTAu_IiLe-q-",
+  "text" : "France Gall?",
   "translations" : {
-    "russian" : "Воспоминание о вас грело мою душу во Франции."
+    "russian" : "Франс Галль?"
+  },
+  "tokens" : [ {
+    "token" : "france",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "gall",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0qHbDTAu_IiLfAHX",
+  "text" : "You reside in France?",
+  "translations" : {
+    "russian" : "Вы живёте во Франции?"
   },
   "tokens" : [ {
     "token" : "you",
@@ -10,67 +28,496 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "kept",
+    "token" : "reside",
     "startOffset" : 4,
-    "endOffset" : 8,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "me",
-    "startOffset" : 9,
-    "endOffset" : 11,
+    "token" : "in",
+    "startOffset" : 11,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "warm",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "in",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
     "token" : "france",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 5
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvJ4KNEXFMlzHLQiD",
-  "text" : "Well, it's a custom in France.",
+  "id" : "AWoE9zw-DTAu_IiLfGPp",
+  "text" : "All France was occupied !",
   "translations" : {
-    "russian" : "Во Франции так принято."
+    "russian" : "Да вся Франция была оккупирована!"
   },
   "tokens" : [ {
-    "token" : "well",
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "france",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "occupied",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "occupy",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExM1VDTAu_IiLe9pF",
+  "text" : "The heretics in France.",
+  "translations" : {
+    "russian" : "Еретики во Франции!"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "heretic",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "france",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7oujDTAu_IiLeV3M",
+  "text" : "Russia, France, Britain.",
+  "translations" : {
+    "russian" : "Россия, Франция, Британия."
+  },
+  "tokens" : [ {
+    "token" : "russia",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "france",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "britain",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-H2oDTAu_IiLfGfy",
+  "text" : "All France was occupied !",
+  "translations" : {
+    "russian" : "Да вся Франция была оккупирована!"
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "france",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "occupied",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "occupy",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSjidDTAu_IiLd_RB",
+  "text" : "Should France stay in Algeria?",
+  "translations" : {
+    "russian" : "Должна ли Франция остаться в Алжире?"
+  },
+  "tokens" : [ {
+    "token" : "should",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "france",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "stay",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "algeria",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnis5DTAu_IiLe2vq",
+  "text" : "England, France, Australia, Geneva, others.",
+  "translations" : {
+    "russian" : "Англия, Франция, Австралия, Женева и все остальное."
+  },
+  "tokens" : [ {
+    "token" : "england",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "france",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "australia",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "geneva",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "other",
+    "startOffset" : 36,
+    "endOffset" : 42,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjSXwDTAu_IiLeziZ",
+  "text" : "What a lovely tribute, Frances.",
+  "translations" : {
+    "russian" : "Какая славная награда, Фрэнсис."
+  },
+  "tokens" : [ {
+    "token" : "what",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "it",
-    "startOffset" : 6,
-    "endOffset" : 10,
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
+    "token" : "lovely",
+    "startOffset" : 7,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "custom",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
+    "token" : "love",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
   }, {
-    "token" : "in",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 4
+    "token" : "tribute",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
   }, {
     "token" : "france",
     "startOffset" : 23,
-    "endOffset" : 29,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAoElDTAu_IiLeZpx",
+  "text" : "Hey, sugarplum, how was France?",
+  "translations" : {
+    "russian" : "Привет,сладенькая ,как Франция?"
+  },
+  "tokens" : [ {
+    "token" : "hey",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sugarplum",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "how",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "was",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "france",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFflHDTAu_IiLedb2",
+  "text" : "There's no plumber in France.",
+  "translations" : {
+    "russian" : "Во Франции нет водопроводчиков."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "no",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "plumber",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "plumb",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "france",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERhV5DTAu_IiLemWq",
+  "text" : "France must demand his extradition.",
+  "translations" : {
+    "russian" : "Франция должна потребовать его выдачи."
+  },
+  "tokens" : [ {
+    "token" : "france",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "must",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "demand",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "his",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "extradition",
+    "startOffset" : 23,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "extradite",
+    "startOffset" : 23,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPf9fDTAu_IiLd9Od",
+  "text" : "Austrian spies are in France.",
+  "translations" : {
+    "russian" : "Австрийские шпионы напали на наш след."
+  },
+  "tokens" : [ {
+    "token" : "austrian",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "spy",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "france",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwypJDTAu_IiLe9VZ",
+  "text" : "Egyptian born, no family in France.",
+  "translations" : {
+    "russian" : "Родилась в Египте, нет родных во Франции."
+  },
+  "tokens" : [ {
+    "token" : "egyptian",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "born",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "family",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "in",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "france",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXupRDTAu_IiLerBq",
+  "text" : "Daughter of Stephen and Frances Groves.",
+  "translations" : {
+    "russian" : "Дочь Стивена и Франсис Гровз."
+  },
+  "tokens" : [ {
+    "token" : "daughter",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "stephen",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "france",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "grove",
+    "startOffset" : 32,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7owQDTAu_IiLeV3N",
+  "text" : "By whom? Russia, France and Britain.",
+  "translations" : {
+    "russian" : "Россия, Франция и Британия."
+  },
+  "tokens" : [ {
+    "token" : "by",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "whom",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "russia",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "france",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "britain",
+    "startOffset" : 28,
+    "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null

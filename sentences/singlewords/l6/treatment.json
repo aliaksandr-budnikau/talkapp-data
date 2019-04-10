@@ -1,4 +1,45 @@
 [ {
+  "id" : "AWoFhSIXDTAu_IiLfhIP",
+  "text" : "Treatment Coefficient.",
+  "translations" : {
+    "russian" : "Коэффициент лечения."
+  },
+  "tokens" : [ {
+    "token" : "treatment",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "coefficient",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMr1QDTAu_IiLfRtR",
+  "text" : "Intensify the treatment.",
+  "translations" : {
+    "russian" : "Усильте обработку."
+  },
+  "tokens" : [ {
+    "token" : "intensify",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "treatment",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxMw5NEXFMlzHLS8r",
   "text" : "Landed you in treatment.",
   "translations" : {
@@ -23,6 +64,67 @@
     "token" : "treatment",
     "startOffset" : 14,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEneeiDTAu_IiLe2si",
+  "text" : "Wants treatment for diabetes.",
+  "translations" : {
+    "russian" : "Ему нужно лечение от диабета."
+  },
+  "tokens" : [ {
+    "token" : "want",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "treatment",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "diabetes",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKXnsDTAu_IiLfP8k",
+  "text" : "Her treatment is astonishing.",
+  "translations" : {
+    "russian" : "Ее лечение изумительно."
+  },
+  "tokens" : [ {
+    "token" : "her",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "treatment",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "astonishing",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "astonish",
+    "startOffset" : 17,
+    "endOffset" : 28,
     "position" : 3
   } ],
   "contentScore" : null
@@ -56,6 +158,115 @@
     "token" : "treatment",
     "startOffset" : 19,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXRiODTAu_IiLfZji",
+  "text" : "Admissions to clinic, treatment records.",
+  "translations" : {
+    "russian" : "Прием в больницу, запись о лечении."
+  },
+  "tokens" : [ {
+    "token" : "admission",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "clinic",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "treatment",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "records",
+    "startOffset" : 32,
+    "endOffset" : 39,
+    "position" : 4
+  }, {
+    "token" : "cord",
+    "startOffset" : 32,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcERvDTAu_IiLeEvK",
+  "text" : "127 showers and mud treatments.",
+  "translations" : {
+    "russian" : "Сущая ложь. 127 душ и грязевая ванна."
+  },
+  "tokens" : [ {
+    "token" : "127",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "show",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "mud",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "treatment",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjkT7DTAu_IiLezwh",
+  "text" : "Yes! The colon irrigation treatment.",
+  "translations" : {
+    "russian" : "Промывание прямой кишки!"
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "colon",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "irrigation",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "irrigate",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "treatment",
+    "startOffset" : 26,
+    "endOffset" : 35,
     "position" : 4
   } ],
   "contentScore" : null
@@ -98,6 +309,158 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDj25hDTAu_IiLeJLH",
+  "text" : "Characterization of preferential treatment is unsupported.",
+  "translations" : {
+    "russian" : "Данные обстоятельства не имеют отношения к делу."
+  },
+  "tokens" : [ {
+    "token" : "characterization",
+    "startOffset" : 0,
+    "endOffset" : 16,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "preferential",
+    "startOffset" : 20,
+    "endOffset" : 32,
+    "position" : 2
+  }, {
+    "token" : "treatment",
+    "startOffset" : 33,
+    "endOffset" : 42,
+    "position" : 3
+  }, {
+    "token" : "is",
+    "startOffset" : 43,
+    "endOffset" : 45,
+    "position" : 4
+  }, {
+    "token" : "supported",
+    "startOffset" : 46,
+    "endOffset" : 57,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2mqcDTAu_IiLfBcE",
+  "text" : "Have you devised a new treatment?",
+  "translations" : {
+    "russian" : "Вы изобрели новый вид лечения?"
+  },
+  "tokens" : [ {
+    "token" : "have",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "vise",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "new",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "treatment",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDht3CDTAu_IiLeH9z",
+  "text" : "A treatment for this affliction exists.",
+  "translations" : {
+    "russian" : "Лечение от этой болезни существует."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "treatment",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "this",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "affliction",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "exist",
+    "startOffset" : 32,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQ1NLDTAu_IiLel23",
+  "text" : "Have you devised a new treatment?",
+  "translations" : {
+    "russian" : "Вы изобрели новый вид лечения?"
+  },
+  "tokens" : [ {
+    "token" : "have",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "vise",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "new",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "treatment",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoo6FNEXFMlzHLHOK",
   "text" : "So no regrets about stopping treatment?",
   "translations" : {
@@ -136,40 +499,40 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtE0qNEXFMlzHLNS2",
-  "text" : "I hate this Lady Bountiful treatment.",
+  "id" : "AWoDhPa3DTAu_IiLeHr0",
+  "text" : "A treatment for this affliction exists.",
   "translations" : {
-    "russian" : "Ненавижу это поведение а-ля Леди Благотворительность."
+    "russian" : "Лечение от этой болезни существует."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "a",
     "startOffset" : 0,
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "hate",
+    "token" : "treatment",
     "startOffset" : 2,
-    "endOffset" : 6,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "this",
-    "startOffset" : 7,
-    "endOffset" : 11,
+    "token" : "for",
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "lady",
-    "startOffset" : 12,
-    "endOffset" : 16,
+    "token" : "this",
+    "startOffset" : 16,
+    "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "bountiful",
-    "startOffset" : 17,
-    "endOffset" : 26,
+    "token" : "affliction",
+    "startOffset" : 21,
+    "endOffset" : 31,
     "position" : 4
   }, {
-    "token" : "treatment",
-    "startOffset" : 27,
-    "endOffset" : 36,
+    "token" : "exist",
+    "startOffset" : 32,
+    "endOffset" : 38,
     "position" : 5
   } ],
   "contentScore" : null

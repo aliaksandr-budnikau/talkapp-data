@@ -37,34 +37,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwGHKNEXFMlzHLR0s",
-  "text" : "DNA, corner pocket.",
-  "translations" : {
-    "russian" : "ДНК в угловой лузе."
-  },
-  "tokens" : [ {
-    "token" : "dna",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "corner",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "corn",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "pocket",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgwGBiNEXFMlzHLR0l",
   "text" : "Eight ball, corner pocket.",
   "translations" : {
@@ -95,6 +67,34 @@
     "startOffset" : 19,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgwGHKNEXFMlzHLR0s",
+  "text" : "DNA, corner pocket.",
+  "translations" : {
+    "russian" : "ДНК в угловой лузе."
+  },
+  "tokens" : [ {
+    "token" : "dna",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "corner",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "corn",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "pocket",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -197,6 +197,82 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEAAjbDTAu_IiLeZK-",
+  "text" : "At the corner with Highland?",
+  "translations" : {
+    "russian" : "На углу с Хайленд?"
+  },
+  "tokens" : [ {
+    "token" : "at",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "corner",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "corn",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "highland",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1xxvDTAu_IiLeTCe",
+  "text" : "A nice little corner cupboard.",
+  "translations" : {
+    "russian" : "Милый угловой шкафчик."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "nice",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "little",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "corner",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "corn",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "cupboard",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwGCCNEXFMlzHLR0m",
   "text" : "Little eight ball, corner pocket?",
   "translations" : {
@@ -231,6 +307,44 @@
     "token" : "pocket",
     "startOffset" : 26,
     "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZxjVDTAu_IiLesbR",
+  "text" : "Dovetail's off on the corner.",
+  "translations" : {
+    "russian" : "Углы нe подогнaны."
+  },
+  "tokens" : [ {
+    "token" : "dovetail",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "off",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "corner",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "corn",
+    "startOffset" : 22,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null
@@ -311,259 +425,95 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgndvPNEXFMlzHLFfm",
-  "text" : "Corn, did you boil the corn?",
+  "id" : "AWoDSbgkDTAu_IiLd_Lv",
+  "text" : "First alley around the corner.",
   "translations" : {
-    "russian" : "Нго, ты сварила кукурузу."
+    "russian" : "Первый проулок за углом."
   },
   "tokens" : [ {
-    "token" : "corn",
+    "token" : "first",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "did",
+    "token" : "alley",
     "startOffset" : 6,
-    "endOffset" : 9,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "you",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "boil",
-    "startOffset" : 14,
+    "token" : "around",
+    "startOffset" : 12,
     "endOffset" : 18,
-    "position" : 3
+    "position" : 2
   }, {
     "token" : "the",
     "startOffset" : 19,
     "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "corn",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnBMmNEXFMlzHLE2N",
-  "text" : "I cut some corners.",
-  "translations" : {
-    "russian" : "Я срезал пару углов."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "cut",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "some",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "corn",
-    "startOffset" : 11,
-    "endOffset" : 18,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmaJENEXFMlzHLD1u",
-  "text" : "I've been cornered by some cutlery.",
-  "translations" : {
-    "russian" : "Я загнан в угол столовыми приборами."
-  },
-  "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "been",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
   }, {
     "token" : "corner",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "by",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "some",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "cutlery",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnBIMNEXFMlzHLE2H",
-  "text" : "I don't try to cut corners.",
-  "translations" : {
-    "russian" : "Я не пытаюсь срезать углы."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "don't",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "try",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "cut",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 4
-  }, {
-    "token" : "corn",
-    "startOffset" : 19,
-    "endOffset" : 26,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnDWQNEXFMlzHLE4y",
-  "text" : "Not shortcuts and no cutting corners.",
-  "translations" : {
-    "russian" : "Так что никакой работы спустя рукава и никаких легких путей."
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "shortcut",
-    "startOffset" : 4,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "no",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "cutting",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "corn",
-    "startOffset" : 29,
-    "endOffset" : 36,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnBV3NEXFMlzHLE2Y",
-  "text" : "All right, I cut some corners.",
-  "translations" : {
-    "russian" : "Признаюсь, я срезал парочку углов."
-  },
-  "tokens" : [ {
-    "token" : "all",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "right",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "i",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "cut",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "some",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "corn",
-    "startOffset" : 22,
+    "startOffset" : 23,
     "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrw14NEXFMlzHLLex",
-  "text" : "Can you get the square corners?",
-  "translations" : {
-    "russian" : "А можешь найти прямоугольные?"
-  },
-  "tokens" : [ {
-    "token" : "can",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "get",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "square",
-    "startOffset" : 16,
-    "endOffset" : 22,
     "position" : 4
   }, {
     "token" : "corn",
     "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 5
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEc7ThDTAu_IiLeuib",
+  "text" : "Corned beef.",
+  "translations" : {
+    "russian" : "Солонина."
+  },
+  "tokens" : [ {
+    "token" : "corn",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "beef",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEc7scDTAu_IiLeuiu",
+  "text" : "Corned beef.",
+  "translations" : {
+    "russian" : "Солонину."
+  },
+  "tokens" : [ {
+    "token" : "corn",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "beef",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhcf6DTAu_IiLfhNq",
+  "text" : "Corn starch.",
+  "translations" : {
+    "russian" : "Кукурузный крахмал."
+  },
+  "tokens" : [ {
+    "token" : "corn",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "starch",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

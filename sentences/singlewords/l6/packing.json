@@ -283,6 +283,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEv0aCDTAu_IiLe8le",
+  "text" : "I'm packing the four quadrants.",
+  "translations" : {
+    "russian" : "Я в четвертом квадранте."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "packing",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "pack",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "four",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "quadrant",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnu6MNEXFMlzHLF8S",
   "text" : "But those are packing peanuts.",
   "translations" : {
@@ -318,6 +356,90 @@
     "startOffset" : 22,
     "endOffset" : 29,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKkDEDTAu_IiLehGo",
+  "text" : "Stop blubbering and start packing.",
+  "translations" : {
+    "russian" : "Прекрати ныть и собирайся."
+  },
+  "tokens" : [ {
+    "token" : "stop",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "blubber",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "start",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "packing",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "pack",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcBQlDTAu_IiLeEti",
+  "text" : "Mud packs.",
+  "translations" : {
+    "russian" : "Грязевые повязки."
+  },
+  "tokens" : [ {
+    "token" : "mud",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "packs",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "pack",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhgxsDTAu_IiLfhQJ",
+  "text" : "Dye packs.",
+  "translations" : {
+    "russian" : "Пакеты с краской."
+  },
+  "tokens" : [ {
+    "token" : "dye",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "packs",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "pack",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
@@ -406,108 +528,6 @@
     "token" : "fast",
     "startOffset" : 14,
     "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnucMNEXFMlzHLF7i",
-  "text" : "Pack your bags.",
-  "translations" : {
-    "russian" : "Пакуй чемоданы."
-  },
-  "tokens" : [ {
-    "token" : "pack",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "bag",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgluq0NEXFMlzHLC5v",
-  "text" : "Pack your swimsuit.",
-  "translations" : {
-    "russian" : "Можете паковать купальники."
-  },
-  "tokens" : [ {
-    "token" : "pack",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "swimsuit",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnuTMNEXFMlzHLF7S",
-  "text" : "Pack of B's, please.",
-  "translations" : {
-    "russian" : "Пачку B' s , пожалуйста."
-  },
-  "tokens" : [ {
-    "token" : "pack",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "of",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "b's",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "please",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnvIXNEXFMlzHLF8s",
-  "text" : "Dye pack blew up.",
-  "translations" : {
-    "russian" : "Пакет с краской сработал."
-  },
-  "tokens" : [ {
-    "token" : "dye",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "pack",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "blew",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "up",
-    "startOffset" : 14,
-    "endOffset" : 16,
     "position" : 3
   } ],
   "contentScore" : null

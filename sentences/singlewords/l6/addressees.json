@@ -1,0 +1,85 @@
+[ {
+  "id" : "AWoDQsJzDTAu_IiLd9_W",
+  "text" : "Who is the addressee?",
+  "translations" : {
+    "russian" : "Кто адресат?"
+  },
+  "tokens" : [ {
+    "token" : "who",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "addressee",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQsGMDTAu_IiLd9_T",
+  "text" : "To the addressee.",
+  "translations" : {
+    "russian" : "Адресату."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "addressee",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQsHUDTAu_IiLd9_U",
+  "text" : "To the likely addressee.",
+  "translations" : {
+    "russian" : "Нужному адресату."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "likely",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "like",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "addressee",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+} ]

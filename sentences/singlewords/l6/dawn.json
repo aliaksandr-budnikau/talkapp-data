@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoEMBD8DTAu_IiLeiRs",
+  "text" : "Dawn Is it chafing.",
+  "translations" : {
+    "russian" : "Натирает."
+  },
+  "tokens" : [ {
+    "token" : "dawn",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "chafe",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDidszDTAu_IiLeIZD",
+  "text" : "We'll drift till dawn.",
+  "translations" : {
+    "russian" : "Будем дрейфовать до рассвета."
+  },
+  "tokens" : [ {
+    "token" : "we'll",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "drift",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "till",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "dawn",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8pBjDTAu_IiLeWnm",
+  "text" : "Willow's Clearing, back to Dawn.",
+  "translations" : {
+    "russian" : "На Ивовую Поляну, к Дон."
+  },
+  "tokens" : [ {
+    "token" : "willow",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "clearing",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "back",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "dawn",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgboOnNEXFMlzHK5SM",
   "text" : "The dawn of a new age.",
   "translations" : {
@@ -33,6 +122,44 @@
     "token" : "age",
     "startOffset" : 18,
     "endOffset" : 21,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEviaiDTAu_IiLe8Yp",
+  "text" : "The symbol of New Dawn druidism.",
+  "translations" : {
+    "russian" : "Символ друидов Новой Зари."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "symbol",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "new",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "dawn",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "druidism",
+    "startOffset" : 23,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

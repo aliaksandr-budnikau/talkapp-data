@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoEBByZDTAu_IiLeZ9Q",
+  "text" : "Oh, it's the new Byzantine calendar!",
+  "translations" : {
+    "russian" : "Так это Новый Византийский календарь!"
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "new",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "byzantine",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "calendar",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgq3VcNEXFMlzHLKJt",
   "text" : "Word-a-day calendar, double insult.",
   "translations" : {
@@ -71,6 +109,44 @@
     "token" : "insult",
     "startOffset" : 28,
     "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEa3d_DTAu_IiLetJJ",
+  "text" : "I mean the calendar is flexible.",
+  "translations" : {
+    "russian" : "Я имею в виду, что график гибкий."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "mean",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "calendar",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "is",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "flexible",
+    "startOffset" : 23,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

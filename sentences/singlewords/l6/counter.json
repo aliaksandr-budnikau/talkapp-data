@@ -32,6 +32,77 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD0GLbDTAu_IiLeSPb",
+  "text" : "Booth or counter?",
+  "translations" : {
+    "russian" : "Вам столик или за стойкой?"
+  },
+  "tokens" : [ {
+    "token" : "booth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "boo",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "or",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "counter",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "count",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFacG0DTAu_IiLfcLW",
+  "text" : "Telephone switchboard. Information counter.",
+  "translations" : {
+    "russian" : "Телефонный коммутатор, справочное бюро."
+  },
+  "tokens" : [ {
+    "token" : "telephone",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "switchboard",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "information",
+    "startOffset" : 23,
+    "endOffset" : 34,
+    "position" : 2
+  }, {
+    "token" : "formation",
+    "startOffset" : 23,
+    "endOffset" : 34,
+    "position" : 2
+  }, {
+    "token" : "counter",
+    "startOffset" : 35,
+    "endOffset" : 42,
+    "position" : 3
+  }, {
+    "token" : "count",
+    "startOffset" : 35,
+    "endOffset" : 42,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmYOmNEXFMlzHLDya",
   "text" : "Steering wheel, mirror, counter...",
   "translations" : {
@@ -198,6 +269,44 @@
     "token" : "count",
     "startOffset" : 17,
     "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLprIDTAu_IiLfQ7n",
+  "text" : "Use his momentum to counter.",
+  "translations" : {
+    "russian" : "Воспользоваться его инерцией для ответного удара."
+  },
+  "tokens" : [ {
+    "token" : "use",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "his",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "momentum",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "counter",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "count",
+    "startOffset" : 20,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
@@ -392,178 +501,39 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdjmtNEXFMlzHK6-u",
-  "text" : "He counted every note.",
+  "id" : "AWoD4kkNDTAu_IiLeUVW",
+  "text" : "Count Dracula? !",
   "translations" : {
-    "russian" : "Он посчитал каждую купюру."
+    "russian" : "Граф Дракула?"
   },
   "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "counted",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
     "token" : "count",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "every",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "note",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrC4NNEXFMlzHLKbJ",
-  "text" : "Like reality doesn't count.",
-  "translations" : {
-    "russian" : "Не считаясь с действительностью."
-  },
-  "tokens" : [ {
-    "token" : "like",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "reality",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "doesn't",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "count",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmYwSNEXFMlzHLDzU",
-  "text" : "I take my own counters!",
-  "translations" : {
-    "russian" : "Я сам уберу свои фишки!"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "take",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "own",
-    "startOffset" : 10,
+    "token" : "dracula",
+    "startOffset" : 6,
     "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "counters",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "counter",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 4
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmYXYNEXFMlzHLDyq",
-  "text" : "Geiger counter's off the scale.",
+  "id" : "AWoD4khKDTAu_IiLeUVU",
+  "text" : "Count Dracula.",
   "translations" : {
-    "russian" : "Счетчик Гейгера выключенном шкале."
+    "russian" : "Граф Дракула."
   },
   "tokens" : [ {
-    "token" : "geiger",
+    "token" : "count",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "counter's",
-    "startOffset" : 7,
-    "endOffset" : 16,
+    "token" : "dracula",
+    "startOffset" : 6,
+    "endOffset" : 13,
     "position" : 1
-  }, {
-    "token" : "counter",
-    "startOffset" : 7,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "off",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "scale",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxkXrNEXFMlzHLTbg",
-  "text" : "Geiger counter's off the scale.",
-  "translations" : {
-    "russian" : "Счетчик Гейгера выключенном шкале."
-  },
-  "tokens" : [ {
-    "token" : "geiger",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "counter's",
-    "startOffset" : 7,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "counter",
-    "startOffset" : 7,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "off",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "scale",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,139 @@
 [ {
+  "id" : "AWoFDA4vDTAu_IiLfKSS",
+  "text" : "Alleged chance.",
+  "translations" : {
+    "russian" : "Мнимый шанс."
+  },
+  "tokens" : [ {
+    "token" : "alleged",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "allege",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "chance",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOo5kDTAu_IiLekRW",
+  "text" : "A chance encounter. A chance remark.",
+  "translations" : {
+    "russian" : "Случайная встреча, случайное наблюдение."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "chance",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "encounter",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 20,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "chance",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "remark",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEVySDTAu_IiLecj7",
+  "text" : "Chance and Guise!",
+  "translations" : {
+    "russian" : "Олучайность и Гиз!"
+  },
+  "tokens" : [ {
+    "token" : "chance",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "guise",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOo33DTAu_IiLekRV",
+  "text" : "A moment's chance encounter.",
+  "translations" : {
+    "russian" : "Минутная случайная встреча."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "moment",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "chance",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "encounter",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOpN1DTAu_IiLekRl",
+  "text" : "To... chance encounters.",
+  "translations" : {
+    "russian" : "За... случайные встречи."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "chance",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "encounter",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbga4VhNEXFMlzHK4nl",
   "text" : "One chance in 1000.",
   "translations" : {
@@ -83,6 +218,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEOpPDDTAu_IiLekRm",
+  "text" : "To chance encounters.",
+  "translations" : {
+    "russian" : "За случайные встречи."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "chance",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "encounter",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDfOpDDTAu_IiLeGgr",
+  "text" : "It's the Last Chance Saloon!",
+  "translations" : {
+    "russian" : "Это Бар Последнего Шанса!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "last",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "chance",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "saloon",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgy1A4NEXFMlzHLVNf",
   "text" : "Doctors give people second chances.",
   "translations" : {
@@ -121,192 +312,172 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgy1U_NEXFMlzHLVOK",
-  "text" : "I'm grateful for the second chance.",
+  "id" : "AWoDTknoDTAu_IiLd_9O",
+  "text" : "It's a chance for redemption.",
   "translations" : {
-    "russian" : "Я благодарна, что получила еще один шанс."
+    "russian" : "Это шанс на искупление вины."
   },
   "tokens" : [ {
-    "token" : "i'm",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "grateful",
-    "startOffset" : 4,
-    "endOffset" : 12,
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "for",
-    "startOffset" : 13,
-    "endOffset" : 16,
+    "token" : "chance",
+    "startOffset" : 7,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
+    "token" : "for",
+    "startOffset" : 14,
+    "endOffset" : 17,
     "position" : 3
   }, {
-    "token" : "second",
-    "startOffset" : 21,
-    "endOffset" : 27,
+    "token" : "redemption",
+    "startOffset" : 18,
+    "endOffset" : 28,
     "position" : 4
-  }, {
-    "token" : "chance",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgy1IjNEXFMlzHLVNv",
-  "text" : "He gave me a second chance.",
+  "id" : "AWoDfO6hDTAu_IiLeGg1",
+  "text" : "In the Last Chance Saloon!",
   "translations" : {
-    "russian" : "Он дал мне второй шанс."
+    "russian" : "В Баре последнего шанса! Их было двое, Эрп."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "in",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "gave",
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "last",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "chance",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "saloon",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEab0TDTAu_IiLes3T",
+  "text" : "Well, here's your chance, heroes.",
+  "translations" : {
+    "russian" : "Ну, вот оно ваше счастье, герои."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "here's",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "chance",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "heroes",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_v8DDTAu_IiLeY-F",
+  "text" : "We must weigh our chances.",
+  "translations" : {
+    "russian" : "Мы должны взвесить наши шансы."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "must",
     "startOffset" : 3,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "me",
+    "token" : "weigh",
     "startOffset" : 8,
-    "endOffset" : 10,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
+    "token" : "our",
+    "startOffset" : 14,
+    "endOffset" : 17,
     "position" : 3
   }, {
-    "token" : "second",
-    "startOffset" : 13,
+    "token" : "chance",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGtEUDTAu_IiLeeU2",
+  "text" : "My last chance at a comeback.",
+  "translations" : {
+    "russian" : "Это мой последний шанс на возвращение."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "last",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "chance",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "at",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 18,
     "endOffset" : 19,
     "position" : 4
   }, {
-    "token" : "chance",
+    "token" : "comeback",
     "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggL3SNEXFMlzHK9QB",
-  "text" : "We shouldn't have taken the chance.",
-  "translations" : {
-    "russian" : "Мы не должны были использовать этот шанс."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "shouldn't",
-    "startOffset" : 3,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "taken",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "chance",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgujhmNEXFMlzHLPVQ",
-  "text" : "Any chance he's a white supremacist?",
-  "translations" : {
-    "russian" : "Есть ли шанс,что он расист?"
-  },
-  "tokens" : [ {
-    "token" : "any",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "chance",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "he",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 16,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "white",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "supremacist",
-    "startOffset" : 24,
-    "endOffset" : 35,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxeZRNEXFMlzHLTTE",
-  "text" : "We shouldn't have taken the chance.",
-  "translations" : {
-    "russian" : "Мы не должны были использовать этот шанс."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "shouldn't",
-    "startOffset" : 3,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "taken",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "chance",
-    "startOffset" : 28,
-    "endOffset" : 34,
+    "endOffset" : 28,
     "position" : 5
   } ],
   "contentScore" : null

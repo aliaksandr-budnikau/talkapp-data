@@ -55,6 +55,113 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFcclzDTAu_IiLfdw1",
+  "text" : "Consultants get hot coffee.",
+  "translations" : {
+    "russian" : "Старшему врачу нужен только горячий кофе."
+  },
+  "tokens" : [ {
+    "token" : "consultant",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "get",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "hot",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "coffee",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEK3hBDTAu_IiLehWA",
+  "text" : "Yeah, grab a coffee.",
+  "translations" : {
+    "russian" : "Да, принеси кофе."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "grab",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "coffee",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEK1N_DTAu_IiLehUG",
+  "text" : "Grab your coffee.",
+  "translations" : {
+    "russian" : "Захвати свой кофе."
+  },
+  "tokens" : [ {
+    "token" : "grab",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "coffee",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdj-ZDTAu_IiLfekz",
+  "text" : "Two coffees, two cognacs.",
+  "translations" : {
+    "russian" : "Два кофе и два коньяка."
+  },
+  "tokens" : [ {
+    "token" : "two",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "coffee",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "two",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "cognac",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzN6mNEXFMlzHLWAm",
   "text" : "He makes delicious coffee.",
   "translations" : {
@@ -79,6 +186,62 @@
     "token" : "coffee",
     "startOffset" : 19,
     "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8f7BDTAu_IiLeWgK",
+  "text" : "It's coffee from Venezuela.",
+  "translations" : {
+    "russian" : "Это кофе из Венесуэлы."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "coffee",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "from",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "venezuela",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFc10xDTAu_IiLfeDL",
+  "text" : "Mulattoes, millionaires, export coffee!",
+  "translations" : {
+    "russian" : "Мулаты, миллионеры, экспорт кофе!"
+  },
+  "tokens" : [ {
+    "token" : "mulattoes",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "millionaire",
+    "startOffset" : 11,
+    "endOffset" : 23,
+    "position" : 1
+  }, {
+    "token" : "export",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "coffee",
+    "startOffset" : 32,
+    "endOffset" : 38,
     "position" : 3
   } ],
   "contentScore" : null
@@ -144,81 +307,142 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzUAzNEXFMlzHLWNV",
-  "text" : "Burned coffee and stale doughnuts.",
+  "id" : "AWoEcCU5DTAu_IiLet7a",
+  "text" : "One last gulp of coffee.",
   "translations" : {
-    "russian" : "Горячее кофе и пончики черствые."
+    "russian" : "Один последний глоток кофе."
   },
   "tokens" : [ {
-    "token" : "burned",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "burn",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "coffee",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "stale",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "doughnuts",
-    "startOffset" : 24,
-    "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzWQVNEXFMlzHLWR6",
-  "text" : "And sweets for the coffee.",
-  "translations" : {
-    "russian" : "И сладости для кофе."
-  },
-  "tokens" : [ {
-    "token" : "and",
+    "token" : "one",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "sweet",
+    "token" : "last",
     "startOffset" : 4,
-    "endOffset" : 10,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "for",
-    "startOffset" : 11,
-    "endOffset" : 14,
+    "token" : "gulp",
+    "startOffset" : 9,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "token" : "of",
+    "startOffset" : 14,
+    "endOffset" : 16,
     "position" : 3
   }, {
     "token" : "coffee",
-    "startOffset" : 19,
-    "endOffset" : 25,
+    "startOffset" : 17,
+    "endOffset" : 23,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcw7cNEXFMlzHK6T1",
-  "text" : "There's coffee and juice over there.",
+  "id" : "AWoEcHHaDTAu_IiLet-q",
+  "text" : "One last gulp of coffee.",
   "translations" : {
-    "russian" : "Можете взять кофе или сок."
+    "russian" : "Один последний глоток кофе."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "last",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "gulp",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "coffee",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjAgSDTAu_IiLezVB",
+  "text" : "One last gulp of coffee.",
+  "translations" : {
+    "russian" : "Один последний глоток кофе."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "last",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "gulp",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "coffee",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFahaVDTAu_IiLfcPy",
+  "text" : "The coffee's in the pot.",
+  "translations" : {
+    "russian" : "Да, кофе уже в кофейнике."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "coffee",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "pot",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbqquDTAu_IiLfdJ1",
+  "text" : "There's coffee in the pot.",
+  "translations" : {
+    "russian" : "В кофейнике есть кофе."
   },
   "tokens" : [ {
     "token" : "there",
@@ -231,253 +455,20 @@
     "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "and",
+    "token" : "in",
     "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "juice",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "over",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "there",
-    "startOffset" : 30,
-    "endOffset" : 35,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghDxXNEXFMlzHK-Ag",
-  "text" : "I spilled coffee on the keys.",
-  "translations" : {
-    "russian" : "Я залил клавиатуру кофе."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "spill",
-    "startOffset" : 2,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "coffee",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "key",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnGNUNEXFMlzHLE8b",
-  "text" : "The coffee usually hides the flavour.",
-  "translations" : {
-    "russian" : "Кофе обычно перебивает другие ароматы."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "coffee",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "usual",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "hide",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "flavour",
-    "startOffset" : 29,
-    "endOffset" : 36,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgneWiNEXFMlzHLFgo",
-  "text" : "Excuse me, my coffee is boiling.",
-  "translations" : {
-    "russian" : "Простите, у меня кипит кофе."
-  },
-  "tokens" : [ {
-    "token" : "excuse",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "coffee",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "is",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "boil",
-    "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgneMxNEXFMlzHLFgY",
-  "text" : "My God, the coffee is boiling.",
-  "translations" : {
-    "russian" : "Боже, кофе кипит."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "god",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "coffee",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "is",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "boil",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnQwsNEXFMlzHLFJ_",
-  "text" : "I will go and prepare coffee.",
-  "translations" : {
-    "russian" : "Пойду, приготовлю кофе."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "will",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "go",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "prepare",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "coffee",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvaj2NEXFMlzHLQ3S",
-  "text" : "Coffee and donuts in the lounge.",
-  "translations" : {
-    "russian" : "Кофе и пончики в комнате отдыха."
-  },
-  "tokens" : [ {
-    "token" : "coffee",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "and",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "donut",
-    "startOffset" : 11,
     "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "in",
+    "token" : "the",
     "startOffset" : 18,
-    "endOffset" : 20,
+    "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "the",
-    "startOffset" : 21,
-    "endOffset" : 24,
+    "token" : "pot",
+    "startOffset" : 22,
+    "endOffset" : 25,
     "position" : 4
-  }, {
-    "token" : "lounge",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

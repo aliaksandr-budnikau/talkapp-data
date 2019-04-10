@@ -22,6 +22,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEu1QGDTAu_IiLe75G",
+  "text" : "The cookie jar?",
+  "translations" : {
+    "russian" : "В его копилку?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "cookie",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "jar",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcJPANEXFMlzHK5wG",
   "text" : "Cookies, caramels, sweets...",
   "translations" : {
@@ -42,6 +65,34 @@
     "startOffset" : 19,
     "endOffset" : 25,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqG2HDTAu_IiLe4qG",
+  "text" : "Preparing to extract cookie.",
+  "translations" : {
+    "russian" : "Начинаем извлечение куки."
+  },
+  "tokens" : [ {
+    "token" : "prepare",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "extract",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "cookie",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -129,6 +180,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEWIpDDTAu_IiLep4Z",
+  "text" : "I earned my cookie.",
+  "translations" : {
+    "russian" : "Я заработал мое печенье."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "earned",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "earn",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "cookie",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcJkvNEXFMlzHK5wa",
   "text" : "I'll trade you this cookie.",
   "translations" : {
@@ -191,6 +275,105 @@
     "token" : "cupcake",
     "startOffset" : 23,
     "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEC-98DTAu_IiLebeZ",
+  "text" : "Jell-o, some yummy cookies.",
+  "translations" : {
+    "russian" : "Желе и вкусных печенек."
+  },
+  "tokens" : [ {
+    "token" : "jell",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "o",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "some",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "yummy",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "cookie",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESHHGDTAu_IiLemyv",
+  "text" : "Are those dog poop cookies?",
+  "translations" : {
+    "russian" : "Это печенье на основе собачьего корма?"
+  },
+  "tokens" : [ {
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "those",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "dog",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "poop",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "cookie",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE10oVDTAu_IiLfA58",
+  "text" : "Well, he's a tough cookie.",
+  "translations" : {
+    "russian" : "Ну, он крепкий орешек."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "he",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "tough",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "cookie",
+    "startOffset" : 19,
+    "endOffset" : 25,
     "position" : 4
   } ],
   "contentScore" : null
@@ -291,77 +474,6 @@
     "startOffset" : 18,
     "endOffset" : 24,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnzZdNEXFMlzHLGDo",
-  "text" : "I love girl scout cookies.",
-  "translations" : {
-    "russian" : "Мне нравятся печенье скаутов."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "love",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "girl",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "scout",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "cookie",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgctJsNEXFMlzHK6Qa",
-  "text" : "That's like cookies and cream, or...",
-  "translations" : {
-    "russian" : "Как печенье и сливки или..."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "cookie",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "cream",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "or",
-    "startOffset" : 31,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

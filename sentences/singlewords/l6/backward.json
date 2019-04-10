@@ -1,4 +1,121 @@
 [ {
+  "id" : "AWoDQ8-1DTAu_IiLd-LT",
+  "text" : "Say the alphabet backwards.",
+  "translations" : {
+    "russian" : "Назови все буквы алфавита с конца до начала."
+  },
+  "tokens" : [ {
+    "token" : "say",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "alphabet",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "backward",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFS-sfDTAu_IiLfWhL",
+  "text" : "A backwards baseball cap?",
+  "translations" : {
+    "russian" : "Носить бейсболку задом неперед? Что?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "backward",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "baseball",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "cap",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQ8fuDTAu_IiLd-K9",
+  "text" : "Recite the alphabet backwards.",
+  "translations" : {
+    "russian" : "Алфавит в обратном порядке."
+  },
+  "tokens" : [ {
+    "token" : "recite",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cite",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "alphabet",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "backward",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSs7EDTAu_IiLd_Xh",
+  "text" : "Say the alphabet backwards.",
+  "translations" : {
+    "russian" : "Назови все буквы алфавита с конца до начала."
+  },
+  "tokens" : [ {
+    "token" : "say",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "alphabet",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "backward",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgr0e-NEXFMlzHLLkC",
   "text" : "Hale, Siren the tune backwards.",
   "translations" : {
@@ -103,6 +220,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEJnfYDTAu_IiLegYt",
+  "text" : "He starts dragging her backwards.",
+  "translations" : {
+    "russian" : "Он начинает тянуть ее назад."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "start",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "dragging",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "her",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "backward",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgevODNEXFMlzHK8A0",
   "text" : "Baseball cap on backward, baggy pants.",
   "translations" : {
@@ -137,6 +287,82 @@
     "token" : "pant",
     "startOffset" : 32,
     "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDw41DTAu_IiLfK06",
+  "text" : "But the ball did bounce backwards.",
+  "translations" : {
+    "russian" : "Но мяч отскочил назад."
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "ball",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "did",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "bounce",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "backward",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSrJWDTAu_IiLd_WQ",
+  "text" : "Say the alphabet backwards, come on.",
+  "translations" : {
+    "russian" : "Давай, начинай повторять алфавит с конца."
+  },
+  "tokens" : [ {
+    "token" : "say",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "alphabet",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "backward",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "come",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "on",
+    "startOffset" : 33,
+    "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null

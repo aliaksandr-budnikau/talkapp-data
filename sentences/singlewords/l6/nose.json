@@ -1,29 +1,19 @@
 [ {
-  "id" : "AWbgvulSNEXFMlzHLRYZ",
-  "text" : "Her mousy little nose?",
+  "id" : "AWoD7936DTAu_IiLeWF5",
+  "text" : "Superb nose.",
   "translations" : {
-    "russian" : "Её маленький мышиный нос."
+    "russian" : "Прекрасно."
   },
   "tokens" : [ {
-    "token" : "her",
+    "token" : "superb",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "mousy",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "little",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
     "token" : "nose",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
@@ -83,6 +73,85 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgvulSNEXFMlzHLRYZ",
+  "text" : "Her mousy little nose?",
+  "translations" : {
+    "russian" : "Её маленький мышиный нос."
+  },
+  "tokens" : [ {
+    "token" : "her",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "mousy",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "little",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "nose",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDptCtDTAu_IiLeMRI",
+  "text" : "A bionic nose.",
+  "translations" : {
+    "russian" : "Бионический нос."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "bionic",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "nose",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIEU-DTAu_IiLfOEd",
+  "text" : "Nose too crooked.",
+  "translations" : {
+    "russian" : "Нос слишком кривой."
+  },
+  "tokens" : [ {
+    "token" : "nose",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "too",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "crooked",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "crook",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvvlANEXFMlzHLRZK",
   "text" : "Confuses the dog's nose.",
   "translations" : {
@@ -139,30 +208,30 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvuimNEXFMlzHLRYX",
-  "text" : "My nose is stuffy.",
+  "id" : "AWoD8HYiDTAu_IiLeWMj",
+  "text" : "Your nose is sublime.",
   "translations" : {
-    "russian" : "У меня заложен нос."
+    "russian" : "Твой нос превосходен."
   },
   "tokens" : [ {
-    "token" : "my",
+    "token" : "your",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "nose",
-    "startOffset" : 3,
-    "endOffset" : 7,
+    "startOffset" : 5,
+    "endOffset" : 9,
     "position" : 1
   }, {
     "token" : "is",
-    "startOffset" : 8,
-    "endOffset" : 10,
+    "startOffset" : 10,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "stuffy",
-    "startOffset" : 11,
-    "endOffset" : 17,
+    "token" : "sublime",
+    "startOffset" : 13,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
@@ -191,6 +260,34 @@
     "token" : "bleed",
     "startOffset" : 11,
     "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvuimNEXFMlzHLRYX",
+  "text" : "My nose is stuffy.",
+  "translations" : {
+    "russian" : "У меня заложен нос."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "nose",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "stuffy",
+    "startOffset" : 11,
+    "endOffset" : 17,
     "position" : 3
   } ],
   "contentScore" : null
@@ -294,205 +391,68 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqv43NEXFMlzHLJ_W",
-  "text" : "She nearly broke her nose.",
+  "id" : "AWoE32WBDTAu_IiLfCQ6",
+  "text" : "My nose is getting sunburned...",
   "translations" : {
-    "russian" : "Чуть не сломала ей нос."
+    "russian" : "У меня нос сгорит."
   },
   "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "nearly",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "near",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "broke",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "her",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "nose",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvvL3NEXFMlzHLRY2",
-  "text" : "Oh, who's got your nose?",
-  "translations" : {
-    "russian" : "О, а где твой носик?"
-  },
-  "tokens" : [ {
-    "token" : "oh",
+    "token" : "my",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "who",
-    "startOffset" : 4,
-    "endOffset" : 9,
+    "token" : "nose",
+    "startOffset" : 3,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "got",
-    "startOffset" : 10,
-    "endOffset" : 13,
+    "token" : "is",
+    "startOffset" : 8,
+    "endOffset" : 10,
     "position" : 2
   }, {
-    "token" : "your",
-    "startOffset" : 14,
+    "token" : "getting",
+    "startOffset" : 11,
     "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "nose",
+    "token" : "sunburn",
     "startOffset" : 19,
-    "endOffset" : 23,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvu23NEXFMlzHLRYl",
-  "text" : "Want to powder your nose?",
+  "id" : "AWoE34q1DTAu_IiLfCSp",
+  "text" : "My nose is getting sunburned...",
   "translations" : {
-    "russian" : "Не хочешь припудрить носик?"
+    "russian" : "У меня нос сгорит."
   },
   "tokens" : [ {
-    "token" : "want",
+    "token" : "my",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "to",
-    "startOffset" : 5,
+    "token" : "nose",
+    "startOffset" : 3,
     "endOffset" : 7,
     "position" : 1
-  }, {
-    "token" : "powder",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "nose",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvuoONEXFMlzHLRYb",
-  "text" : "Sis, is your nose bleeding?",
-  "translations" : {
-    "russian" : "У тебя из носа кровь идет?"
-  },
-  "tokens" : [ {
-    "token" : "sis",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
   }, {
     "token" : "is",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "your",
     "startOffset" : 8,
-    "endOffset" : 12,
+    "endOffset" : 10,
     "position" : 2
   }, {
-    "token" : "nose",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "token" : "getting",
+    "startOffset" : 11,
+    "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "bleed",
-    "startOffset" : 18,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvvIsNEXFMlzHLRY0",
-  "text" : "Look, she's powdering his nose.",
-  "translations" : {
-    "russian" : "Смоти, она пудрит ему носик."
-  },
-  "tokens" : [ {
-    "token" : "look",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "she",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "powder",
-    "startOffset" : 12,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "his",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "nose",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvu0qNEXFMlzHLRYj",
-  "text" : "And breathe out your nose.",
-  "translations" : {
-    "russian" : "И выдыхай носом."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "breathe",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "out",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "nose",
-    "startOffset" : 21,
-    "endOffset" : 25,
+    "token" : "sunburn",
+    "startOffset" : 19,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null

@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoEYzt0DTAu_IiLerx2",
+  "text" : "Enlightenment GUARANTEED.",
+  "translations" : {
+    "russian" : "ПРОСВЕТЛЕНИЕ ГАРАНТИРОВАНО."
+  },
+  "tokens" : [ {
+    "token" : "enlightenment",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "enlighten",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "guarantee",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguk93NEXFMlzHLPYN",
   "text" : "I am enlightened without bias.",
   "translations" : {
@@ -34,6 +57,44 @@
     "startOffset" : 25,
     "endOffset" : 29,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSSwaDTAu_IiLfWAf",
+  "text" : "Would the Chaplain please enlighten me?",
+  "translations" : {
+    "russian" : "Прошу Наставника просветить, как быть?"
+  },
+  "tokens" : [ {
+    "token" : "would",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "chaplain",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "please",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "enlighten",
+    "startOffset" : 26,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "me",
+    "startOffset" : 36,
+    "endOffset" : 38,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

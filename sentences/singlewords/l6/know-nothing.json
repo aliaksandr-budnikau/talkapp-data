@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoEmcxbDTAu_IiLe16D",
+  "text" : "I know nothing about an Orb.",
+  "translations" : {
+    "russian" : "Я ничего не знаю о Сфере."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "know",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "nothing",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "about",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "an",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "orb",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkzRxNEXFMlzHLBbC",
   "text" : "Nothing corporate, something green, you know?",
   "translations" : {
@@ -109,6 +147,44 @@
     "token" : "world",
     "startOffset" : 23,
     "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaCh3DTAu_IiLesm6",
+  "text" : "We French know nothing about geography.",
+  "translations" : {
+    "russian" : "Конечно. Мы, французы, всегда путаемся в географии."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "french",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "know",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "nothing",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "about",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "geography",
+    "startOffset" : 29,
+    "endOffset" : 38,
     "position" : 5
   } ],
   "contentScore" : null

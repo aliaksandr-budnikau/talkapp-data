@@ -1,4 +1,94 @@
 [ {
+  "id" : "AWoD4-o-DTAu_IiLeUgY",
+  "text" : "Turkish bath!",
+  "translations" : {
+    "russian" : "В турецкие бани."
+  },
+  "tokens" : [ {
+    "token" : "turkish",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "bath",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4_SXDTAu_IiLeUgr",
+  "text" : "Bath time.",
+  "translations" : {
+    "russian" : "Баня. Чего?"
+  },
+  "tokens" : [ {
+    "token" : "bath",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "time",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5FEvDTAu_IiLeUjK",
+  "text" : "I've bathed.",
+  "translations" : {
+    "russian" : "Я искупался."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bath",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcB7kDTAu_IiLeEt4",
+  "text" : "Mud bath.",
+  "translations" : {
+    "russian" : "Грязевая ванная."
+  },
+  "tokens" : [ {
+    "token" : "mud",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bath",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5BFNDTAu_IiLeUhZ",
+  "text" : "A bath.",
+  "translations" : {
+    "russian" : "Мыться."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "bath",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqfsmNEXFMlzHLJuk",
   "text" : "Well, hosts, bath, food...",
   "translations" : {
@@ -27,191 +117,278 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgd54uNEXFMlzHK7RU",
-  "text" : "Midnight bathing is therapeutic.",
+  "id" : "AWoD4_VNDTAu_IiLeUgs",
+  "text" : "I said, bath time.",
   "translations" : {
-    "russian" : "Полночные купания это как терапия."
+    "russian" : "Сказано, баня."
   },
   "tokens" : [ {
-    "token" : "midnight",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 8,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "bath",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "therapeutic",
-    "startOffset" : 20,
-    "endOffset" : 31,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmm2lNEXFMlzHLELa",
-  "text" : "We're bathed in microwaves.",
-  "translations" : {
-    "russian" : "Мы буквально купаемся в микроволнах."
-  },
-  "tokens" : [ {
-    "token" : "we're",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "bath",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "microwave",
-    "startOffset" : 16,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmnvANEXFMlzHLEM-",
-  "text" : "What about mixed bathing?",
-  "translations" : {
-    "russian" : "А смешанные бани?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "about",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "mixed",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "mix",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "bath",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfyeWNEXFMlzHK85z",
-  "text" : "And... spare bath plugs.",
-  "translations" : {
-    "russian" : "И запасная затычка для ванной."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "spare",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "bath",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "plug",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgd56LNEXFMlzHK7RV",
-  "text" : "Real midnight bathing is naked.",
-  "translations" : {
-    "russian" : "Устроим полночное купание голышом."
-  },
-  "tokens" : [ {
-    "token" : "real",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "midnight",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "bath",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 22,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "naked",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgd5u9NEXFMlzHK7RM",
-  "text" : "I'm not bathing, the water's cold.",
-  "translations" : {
-    "russian" : "Я без купаний, вода холодная."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 4,
-    "endOffset" : 7,
+    "token" : "said",
+    "startOffset" : 2,
+    "endOffset" : 6,
     "position" : 1
   }, {
     "token" : "bath",
     "startOffset" : 8,
-    "endOffset" : 15,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
+    "token" : "time",
+    "startOffset" : 13,
+    "endOffset" : 17,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4_fVDTAu_IiLeUgw",
+  "text" : "The bath house?",
+  "translations" : {
+    "russian" : "Баня?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
-    "token" : "water",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
+    "token" : "bath",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
   }, {
-    "token" : "cold",
-    "startOffset" : 29,
-    "endOffset" : 33,
-    "position" : 5
+    "token" : "house",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5BTeDTAu_IiLeUhf",
+  "text" : "I've never bathed much.",
+  "translations" : {
+    "russian" : "А я и не мылся."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "never",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "bath",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "much",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5EOcDTAu_IiLeUix",
+  "text" : "Go, take a bath.",
+  "translations" : {
+    "russian" : "Ты пока иди, помойся."
+  },
+  "tokens" : [ {
+    "token" : "go",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "take",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "bath",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5ELxDTAu_IiLeUiw",
+  "text" : "Go take a bath.",
+  "translations" : {
+    "russian" : "Сходи сам помойся."
+  },
+  "tokens" : [ {
+    "token" : "go",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "take",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "bath",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5FU3DTAu_IiLeUjR",
+  "text" : "Let's make a bath.",
+  "translations" : {
+    "russian" : "Может, искупаемся?"
+  },
+  "tokens" : [ {
+    "token" : "let",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bath",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFV-VSDTAu_IiLfYoQ",
+  "text" : "Yeah. Ooh, Bubble Bath !",
+  "translations" : {
+    "russian" : "О, Ванна с Пеной."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ooh",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "bubble",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "bath",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD49w2DTAu_IiLeUgB",
+  "text" : "Is the bath ready?",
+  "translations" : {
+    "russian" : "Ванна готова?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "bath",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "ready",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5EI9DTAu_IiLeUiv",
+  "text" : "Go take your bath.",
+  "translations" : {
+    "russian" : "Иди, помойся."
+  },
+  "tokens" : [ {
+    "token" : "go",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "take",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bath",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5FWaDTAu_IiLeUjS",
+  "text" : "A bath? What? -Douche?",
+  "translations" : {
+    "russian" : "Искупаемся?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "bath",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "what",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "douche",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

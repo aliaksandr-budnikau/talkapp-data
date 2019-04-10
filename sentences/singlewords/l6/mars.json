@@ -1,8 +1,8 @@
 [ {
-  "id" : "AWbgq6sxNEXFMlzHLKO5",
-  "text" : "Mars bills at 10 million.",
+  "id" : "AWoFH164DTAu_IiLfN4i",
+  "text" : "Mars University.",
   "translations" : {
-    "russian" : "Марс тратит на рекламу 10 миллионов."
+    "russian" : "Марсианский университет."
   },
   "tokens" : [ {
     "token" : "mar",
@@ -10,63 +10,395 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "bill",
+    "token" : "university",
     "startOffset" : 5,
-    "endOffset" : 10,
+    "endOffset" : 15,
     "position" : 1
-  }, {
-    "token" : "at",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "10",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "million",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxNbYNEXFMlzHLS9V",
-  "text" : "We could land people on Mars.",
+  "id" : "AWoFH2PQDTAu_IiLfN4w",
+  "text" : "Uh, Mar?",
   "translations" : {
-    "russian" : "Мы могли бы приземлить людей на Марсе."
+    "russian" : "Мэри? Да, Тед?"
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "uh",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "could",
-    "startOffset" : 3,
+    "token" : "mar",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFH3e4DTAu_IiLfN5m",
+  "text" : "No, Mar...",
+  "translations" : {
+    "russian" : "Нет, Мэр...."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "mar",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFH0UTDTAu_IiLfN3M",
+  "text" : "First missionary on Mars!",
+  "translations" : {
+    "russian" : "Первый миссионер на Марсе!"
+  },
+  "tokens" : [ {
+    "token" : "first",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "missionary",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "mar",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHz9DDTAu_IiLfN24",
+  "text" : "Mr. Mars around?",
+  "translations" : {
+    "russian" : "Мистер Марс здесь?"
+  },
+  "tokens" : [ {
+    "token" : "mr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "mar",
+    "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "land",
+    "token" : "around",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbPCgDTAu_IiLfc0J",
+  "text" : "The Senate, Mars conglomerate.",
+  "translations" : {
+    "russian" : "Сенат, Марсианский Конгломерат."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "senate",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "mar",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "conglomerate",
+    "startOffset" : 17,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhKJCDTAu_IiLfhC3",
+  "text" : "You blabbed about Mars!",
+  "translations" : {
+    "russian" : "Проболтался о Марсе!"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "blabbed",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "about",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "mar",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFH0BvDTAu_IiLfN28",
+  "text" : "Well, from Eddie Mars.",
+  "translations" : {
+    "russian" : "Ну, у Эдди Марса."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "from",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "eddie",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "mar",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHz4WDTAu_IiLfN21",
+  "text" : "Was it Eddie Mars?",
+  "translations" : {
+    "russian" : "Эдди Марс?"
+  },
+  "tokens" : [ {
+    "token" : "was",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "eddie",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "mar",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHz7PDTAu_IiLfN23",
+  "text" : "This is Mars.",
+  "translations" : {
+    "russian" : "Это Марс."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "mar",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFH3aiDTAu_IiLfN5i",
+  "text" : "It's for Mar...",
+  "translations" : {
+    "russian" : "Это все для Мэр..."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "mar",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHz1dDTAu_IiLfN2y",
+  "text" : "Don't you, Mr. Mars?",
+  "translations" : {
+    "russian" : "Не понимаете, мистер Марс?"
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "mr",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "mar",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFH1G7DTAu_IiLfN32",
+  "text" : "Are you and Mar...",
+  "translations" : {
+    "russian" : "А ты и Мар... Т-с-с!"
+  },
+  "tokens" : [ {
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "mar",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFH2UTDTAu_IiLfN41",
+  "text" : "Open the door, Mar!",
+  "translations" : {
+    "russian" : "Открой дверь, Мэри!"
+  },
+  "tokens" : [ {
+    "token" : "open",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "op",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "door",
     "startOffset" : 9,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "people",
-    "startOffset" : 14,
-    "endOffset" : 20,
+    "token" : "mar",
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 3
-  }, {
-    "token" : "on",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFH2OCDTAu_IiLfN4v",
+  "text" : "From Mars University?",
+  "translations" : {
+    "russian" : "Из марсианского университета?"
+  },
+  "tokens" : [ {
+    "token" : "from",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
     "token" : "mar",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 5
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "university",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFH2QFDTAu_IiLfN4x",
+  "text" : "How about you, Mar?",
+  "translations" : {
+    "russian" : "А ты, Мэри?"
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "about",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "mar",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

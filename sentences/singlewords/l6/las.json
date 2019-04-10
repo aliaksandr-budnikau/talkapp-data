@@ -1,4 +1,106 @@
 [ {
+  "id" : "AWoFN86ADTAu_IiLfSo2",
+  "text" : "Ion lasers.",
+  "translations" : {
+    "russian" : "Ионные лазеры."
+  },
+  "tokens" : [ {
+    "token" : "ion",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "las",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUXFPDTAu_IiLfXg-",
+  "text" : "Laser cutter!",
+  "translations" : {
+    "russian" : "Лазерный резак!"
+  },
+  "tokens" : [ {
+    "token" : "laser",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "las",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "cutter",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUXDrDTAu_IiLfXg9",
+  "text" : "Laser cutter.",
+  "translations" : {
+    "russian" : "Лазерный резак."
+  },
+  "tokens" : [ {
+    "token" : "laser",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "las",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "cutter",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgT6RDTAu_IiLexKM",
+  "text" : "They got laser scopes.",
+  "translations" : {
+    "russian" : "У них лазерный прицел."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "laser",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "las",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "scopes",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "scope",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglaGZNEXFMlzHLCfC",
   "text" : "With a laser backpack.",
   "translations" : {
@@ -29,6 +131,82 @@
     "startOffset" : 13,
     "endOffset" : 21,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgUPwDTAu_IiLexKb",
+  "text" : "Full auto, laser scopes.",
+  "translations" : {
+    "russian" : "Полностью автоматика, лазерные прицелы."
+  },
+  "tokens" : [ {
+    "token" : "full",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "auto",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "laser",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "las",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "scopes",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "scope",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBDCxDTAu_IiLeZ-M",
+  "text" : "LASER FIRE CONTINUES, CLARA YELPS.",
+  "translations" : {
+    "russian" : "Лазерным огнем продолжается, CLARA визжит."
+  },
+  "tokens" : [ {
+    "token" : "laser",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "las",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fire",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "continue",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "clara",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "yelp",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

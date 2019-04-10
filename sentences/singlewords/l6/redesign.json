@@ -1,38 +1,513 @@
 [ {
-  "id" : "AWbgu0VpNEXFMlzHLP1-",
-  "text" : "So you design the boats.",
+  "id" : "AWoE70HTDTAu_IiLfE1W",
+  "text" : "Fascinating design.",
   "translations" : {
-    "russian" : "Так, значит, вы проектируете корабли."
+    "russian" : "Удивительный дизайн."
   },
   "tokens" : [ {
-    "token" : "so",
+    "token" : "fascinating",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 11,
     "position" : 0
   }, {
-    "token" : "you",
-    "startOffset" : 3,
+    "token" : "fascinate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "design",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "sign",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZ2bXDTAu_IiLeDZm",
+  "text" : "Female anthropomorphic architectural design...",
+  "translations" : {
+    "russian" : "Женщина, антропоморфический архитектурный дизайн."
+  },
+  "tokens" : [ {
+    "token" : "female",
+    "startOffset" : 0,
     "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "anthropomorphic",
+    "startOffset" : 7,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "architectural",
+    "startOffset" : 23,
+    "endOffset" : 36,
+    "position" : 2
+  }, {
+    "token" : "design",
+    "startOffset" : 37,
+    "endOffset" : 43,
+    "position" : 3
+  }, {
+    "token" : "sign",
+    "startOffset" : 37,
+    "endOffset" : 43,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDSKhDTAu_IiLebtp",
+  "text" : "Exquisitely designed, masterfully crafted.",
+  "translations" : {
+    "russian" : "Изящно разработан, мастерски создан."
+  },
+  "tokens" : [ {
+    "token" : "exquisite",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "designed",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "sign",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "design",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "masterful",
+    "startOffset" : 22,
+    "endOffset" : 33,
+    "position" : 2
+  }, {
+    "token" : "craft",
+    "startOffset" : 34,
+    "endOffset" : 41,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoENGDcDTAu_IiLejH3",
+  "text" : "That's designed to stun.",
+  "translations" : {
+    "russian" : "Предполагалось, что это оглушит жертву."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "designed",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "sign",
+    "startOffset" : 7,
+    "endOffset" : 15,
     "position" : 1
   }, {
     "token" : "design",
     "startOffset" : 7,
-    "endOffset" : 13,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "stun",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0thCDTAu_IiLfAJq",
+  "text" : "Firefly's a good design.",
+  "translations" : {
+    "russian" : "Светлячок хорошая конструкция."
+  },
+  "tokens" : [ {
+    "token" : "firefly",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "good",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "design",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "sign",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZzjBDTAu_IiLeDXv",
+  "text" : "Female anthropomorphic architectural design...",
+  "translations" : {
+    "russian" : "Женщина, антропоморфический архитектурный дизайн."
+  },
+  "tokens" : [ {
+    "token" : "female",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "anthropomorphic",
+    "startOffset" : 7,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "architectural",
+    "startOffset" : 23,
+    "endOffset" : 36,
+    "position" : 2
+  }, {
+    "token" : "design",
+    "startOffset" : 37,
+    "endOffset" : 43,
+    "position" : 3
+  }, {
+    "token" : "sign",
+    "startOffset" : 37,
+    "endOffset" : 43,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4upODTAu_IiLfC2b",
+  "text" : "Kill code downloading. Redesigning.",
+  "translations" : {
+    "russian" : "Загружаю код отмены!"
+  },
+  "tokens" : [ {
+    "token" : "kill",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "code",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "download",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "design",
+    "startOffset" : 23,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKyNODTAu_IiLfQQ1",
+  "text" : "I design, I survey.",
+  "translations" : {
+    "russian" : "Я разрабатываю, я исследую."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "design",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "sign",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "i",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "survey",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFehPlDTAu_IiLffQq",
+  "text" : "Shipbuilding, fashion design.",
+  "translations" : {
+    "russian" : "Судостроение, дизайн одежды."
+  },
+  "tokens" : [ {
+    "token" : "shipbuild",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "fashion",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "design",
+    "startOffset" : 22,
+    "endOffset" : 28,
     "position" : 2
   }, {
     "token" : "sign",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWXadDTAu_IiLeBpn",
+  "text" : "Female anthropomorphic architectural design...",
+  "translations" : {
+    "russian" : "Женщина, антропоморфический архитектурный дизайн."
+  },
+  "tokens" : [ {
+    "token" : "female",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "anthropomorphic",
     "startOffset" : 7,
-    "endOffset" : 13,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "architectural",
+    "startOffset" : 23,
+    "endOffset" : 36,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
+    "token" : "design",
+    "startOffset" : 37,
+    "endOffset" : 43,
     "position" : 3
   }, {
-    "token" : "boat",
-    "startOffset" : 18,
-    "endOffset" : 23,
+    "token" : "sign",
+    "startOffset" : 37,
+    "endOffset" : 43,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4c7IDTAu_IiLfCrm",
+  "text" : "Kill code downloading. Redesigning.",
+  "translations" : {
+    "russian" : "Загружаю код отмены!"
+  },
+  "tokens" : [ {
+    "token" : "kill",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "code",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "download",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "design",
+    "startOffset" : 23,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbEn4DTAu_IiLfcr3",
+  "text" : "Dragon book, compiler design.",
+  "translations" : {
+    "russian" : "Драконовская книга, дизайн компилятора."
+  },
+  "tokens" : [ {
+    "token" : "dragon",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "book",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "compiler",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "design",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "sign",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaUVkDTAu_IiLesyc",
+  "text" : "I want geometric designs.",
+  "translations" : {
+    "russian" : "Хотелось бы геометрического дизайна."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "want",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "geometric",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "sign",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "design",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4hM8DTAu_IiLfCuL",
+  "text" : "You design ships.",
+  "translations" : {
+    "russian" : "Вы конструируете корабли."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "design",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "sign",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ship",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4nxoDTAu_IiLfCyS",
+  "text" : "Kill code downloading. Redesigning.",
+  "translations" : {
+    "russian" : "Загружаю код отмены!"
+  },
+  "tokens" : [ {
+    "token" : "kill",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "code",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "download",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "design",
+    "startOffset" : 23,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnGAzDTAu_IiLe2Y9",
+  "text" : "Must be a design flaw.",
+  "translations" : {
+    "russian" : "Должен быть конструктивный недостаток."
+  },
+  "tokens" : [ {
+    "token" : "must",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "be",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "design",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "sign",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "flaw",
+    "startOffset" : 17,
+    "endOffset" : 21,
     "position" : 4
   } ],
   "contentScore" : null

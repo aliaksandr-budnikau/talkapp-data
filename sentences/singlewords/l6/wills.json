@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoEhjtsDTAu_IiLeyJH",
+  "text" : "Gruffly will.",
+  "translations" : {
+    "russian" : "Уилл."
+  },
+  "tokens" : [ {
+    "token" : "gruff",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaBfyDTAu_IiLesmI",
+  "text" : "Will Genoa.",
+  "translations" : {
+    "russian" : "Генуя."
+  },
+  "tokens" : [ {
+    "token" : "will",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "genoa",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbnj1NEXFMlzHK5Rk",
   "text" : "This will never age.",
   "translations" : {
@@ -172,186 +208,130 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgl_f1NEXFMlzHLDHy",
-  "text" : "The reeve will live.",
+  "id" : "AWoDaQ4oDTAu_IiLeDq5",
+  "text" : "You will be assimilated.",
   "translations" : {
-    "russian" : "Судья будет жить."
+    "russian" : "Подлежит ассимиляции."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "you",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "reeve",
+    "token" : "will",
     "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "will",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "live",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "l",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm7z5NEXFMlzHLEvB",
-  "text" : "Will you carve, Jules?",
-  "translations" : {
-    "russian" : "Будешь резать, Джулс?"
-  },
-  "tokens" : [ {
-    "token" : "will",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 5,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "carve",
+    "token" : "be",
     "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "assimilate",
+    "startOffset" : 12,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdEgVDTAu_IiLeFRy",
+  "text" : "We will pamper you.",
+  "translations" : {
+    "russian" : "Мы побалуем тебя."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "pamper",
+    "startOffset" : 8,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "jule",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtxPDNEXFMlzHLN6h",
-  "text" : "Victory will demand sweat.",
-  "translations" : {
-    "russian" : "Победа требует пота."
-  },
-  "tokens" : [ {
-    "token" : "victory",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "will",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "demand",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "sweat",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglvImNEXFMlzHLC6B",
-  "text" : "Will in a swimsuit.",
-  "translations" : {
-    "russian" : "Уилл в плавках."
-  },
-  "tokens" : [ {
-    "token" : "will",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "swimsuit",
-    "startOffset" : 10,
+    "token" : "you",
+    "startOffset" : 15,
     "endOffset" : 18,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgm-HVNEXFMlzHLEyO",
-  "text" : "We will crush you!",
+  "id" : "AWoDfLrwDTAu_IiLeGe_",
+  "text" : "I'm willing to barter.",
   "translations" : {
-    "russian" : "Мы сокрушим тебя!"
+    "russian" : "Я согласна на бартер."
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "i'm",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "will",
-    "startOffset" : 3,
-    "endOffset" : 7,
+    "token" : "willing",
+    "startOffset" : 4,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "crush",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnuh-NEXFMlzHLF7t",
-  "text" : "Pack a suitcase, Will.",
-  "translations" : {
-    "russian" : "Пакуй чемоданы, Уилл."
-  },
-  "tokens" : [ {
-    "token" : "pack",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
+    "token" : "will",
+    "startOffset" : 4,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "suitcase",
-    "startOffset" : 7,
-    "endOffset" : 15,
+    "token" : "to",
+    "startOffset" : 12,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "will",
-    "startOffset" : 17,
+    "token" : "barter",
+    "startOffset" : 15,
     "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqw_1NEXFMlzHLKA5",
-  "text" : "He will break, okay?",
+  "id" : "AWoDfgUbDTAu_IiLeGrM",
+  "text" : "I will look fabulous.",
   "translations" : {
-    "russian" : "Он сломается, ясно?"
+    "russian" : "Я буду выглядеть невероятно."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "look",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "fabulous",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnRudDTAu_IiLeLC_",
+  "text" : "It will sound crazy.",
+  "translations" : {
+    "russian" : "Это будет звучать бредово."
+  },
+  "tokens" : [ {
+    "token" : "it",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
@@ -361,94 +341,94 @@
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "break",
+    "token" : "sound",
     "startOffset" : 8,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "okay",
-    "startOffset" : 15,
+    "token" : "crazy",
+    "startOffset" : 14,
     "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtpseNEXFMlzHLNwT",
-  "text" : "It's a trap, Will.",
+  "id" : "AWoD_M4QDTAu_IiLeYjV",
+  "text" : "Social interaction will cease.",
   "translations" : {
-    "russian" : "Это ловушка, Уилл."
+    "russian" : "Прекратить социальное взаимодействие!"
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "social",
     "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
     "endOffset" : 6,
-    "position" : 1
+    "position" : 0
   }, {
-    "token" : "trap",
+    "token" : "interaction",
     "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
+    "endOffset" : 18,
+    "position" : 1
   }, {
     "token" : "will",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "cease",
+    "startOffset" : 24,
+    "endOffset" : 29,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzJUFNEXFMlzHLV3E",
-  "text" : "Stop it, will you?",
+  "id" : "AWoEAD5nDTAu_IiLeZNp",
+  "text" : "That's poppycock, Will.",
   "translations" : {
-    "russian" : "Хватит уже?"
+    "russian" : "Это ерунда, Уилл."
   },
   "tokens" : [ {
-    "token" : "stop",
+    "token" : "that",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "it",
-    "startOffset" : 5,
-    "endOffset" : 7,
+    "token" : "poppycock",
+    "startOffset" : 7,
+    "endOffset" : 16,
     "position" : 1
   }, {
     "token" : "will",
-    "startOffset" : 9,
-    "endOffset" : 13,
+    "startOffset" : 18,
+    "endOffset" : 22,
     "position" : 2
-  }, {
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2l2rDTAu_IiLeTaS",
+  "text" : "You will be flogged.",
+  "translations" : {
+    "russian" : "Вас выпорют."
+  },
+  "tokens" : [ {
     "token" : "you",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw_mwNEXFMlzHLSve",
-  "text" : "We will fly.",
-  "translations" : {
-    "russian" : "Мы полетим."
-  },
-  "tokens" : [ {
-    "token" : "we",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
     "token" : "will",
-    "startOffset" : 3,
-    "endOffset" : 7,
+    "startOffset" : 4,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "fly",
-    "startOffset" : 8,
+    "token" : "be",
+    "startOffset" : 9,
     "endOffset" : 11,
     "position" : 2
+  }, {
+    "token" : "flogged",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

@@ -1,72 +1,269 @@
 [ {
-  "id" : "AWbgwU2UNEXFMlzHLSEd",
-  "text" : "How's that strike your fancy?",
+  "id" : "AWoFFHLdDTAu_IiLfLxE",
+  "text" : "FANCY.",
   "translations" : {
-    "russian" : "Как это тебе пришло в голову?"
+    "russian" : "Фантазия."
   },
   "tokens" : [ {
-    "token" : "how",
+    "token" : "fancy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFGFbDTAu_IiLfLwQ",
+  "text" : "Fancy.",
+  "translations" : {
+    "russian" : "Хороший район, красивый."
+  },
+  "tokens" : [ {
+    "token" : "fancy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKJZfDTAu_IiLegx3",
+  "text" : "Fancy.",
+  "translations" : {
+    "russian" : "Хороший район, красивый."
+  },
+  "tokens" : [ {
+    "token" : "fancy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKKbsDTAu_IiLegyr",
+  "text" : "FANCY.",
+  "translations" : {
+    "russian" : "Фантазия."
+  },
+  "tokens" : [ {
+    "token" : "fancy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKIV2DTAu_IiLegxG",
+  "text" : "Lieutenant Fancy.",
+  "translations" : {
+    "russian" : "Лейтенант Фэнси."
+  },
+  "tokens" : [ {
+    "token" : "lieutenant",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "fancy",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFF7iDTAu_IiLfLwJ",
+  "text" : "Fancy Swordplay.",
+  "translations" : {
+    "russian" : "Красиво мечом играешь."
+  },
+  "tokens" : [ {
+    "token" : "fancy",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "that",
+    "token" : "swordplay",
     "startOffset" : 6,
-    "endOffset" : 10,
+    "endOffset" : 15,
     "position" : 1
-  }, {
-    "token" : "strike",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "fancy",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglyRgNEXFMlzHLC7q",
-  "text" : "Hey, pretty girl, fancy a popsicle?",
+  "id" : "AWoEKH4jDTAu_IiLegwt",
+  "text" : "Fancy hotel.",
   "translations" : {
-    "russian" : "Эй, красавица, угощайся фруктовым мороженым?"
+    "russian" : "В шикарный отель."
   },
   "tokens" : [ {
-    "token" : "hey",
+    "token" : "fancy",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "pretty",
-    "startOffset" : 5,
+    "token" : "hotel",
+    "startOffset" : 6,
     "endOffset" : 11,
     "position" : 1
-  }, {
-    "token" : "girl",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKHi0DTAu_IiLegwc",
+  "text" : "She's fancy.",
+  "translations" : {
+    "russian" : "Она модная."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
     "token" : "fancy",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKIq2DTAu_IiLegxS",
+  "text" : "Fancy house...",
+  "translations" : {
+    "russian" : "Причудливый дом..."
+  },
+  "tokens" : [ {
+    "token" : "fancy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
-    "token" : "a",
-    "startOffset" : 24,
-    "endOffset" : 25,
-    "position" : 4
+    "token" : "house",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKIfnDTAu_IiLegxM",
+  "text" : "Fancy Dan.",
+  "translations" : {
+    "russian" : "Фэнси Дэн."
+  },
+  "tokens" : [ {
+    "token" : "fancy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
-    "token" : "popsicle",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 5
+    "token" : "dan",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFD3cDTAu_IiLfLux",
+  "text" : "Real fancy.",
+  "translations" : {
+    "russian" : "Модная."
+  },
+  "tokens" : [ {
+    "token" : "real",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fancy",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFEWSDTAu_IiLfLvG",
+  "text" : "Fancy hotel.",
+  "translations" : {
+    "russian" : "В шикарный отель."
+  },
+  "tokens" : [ {
+    "token" : "fancy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "hotel",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFD9HDTAu_IiLfLu1",
+  "text" : "She's fancy.",
+  "translations" : {
+    "russian" : "Она модная."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fancy",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGkjtDTAu_IiLeeOw",
+  "text" : "Fancy frames.",
+  "translations" : {
+    "russian" : "Рамы."
+  },
+  "tokens" : [ {
+    "token" : "fancy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "frame",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKJOQDTAu_IiLegxw",
+  "text" : "Fancy Swordplay.",
+  "translations" : {
+    "russian" : "Красиво мечом играешь."
+  },
+  "tokens" : [ {
+    "token" : "fancy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "swordplay",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFFQgDTAu_IiLfLvr",
+  "text" : "Fancy house...",
+  "translations" : {
+    "russian" : "Причудливый дом..."
+  },
+  "tokens" : [ {
+    "token" : "fancy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "house",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

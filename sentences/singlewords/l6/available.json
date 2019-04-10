@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEqrDiDTAu_IiLe5Ec",
+  "text" : "Contractually I'm not available.",
+  "translations" : {
+    "russian" : "Мой контракт мне это запрещает."
+  },
+  "tokens" : [ {
+    "token" : "contractual",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "i'm",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "available",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "avail",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgg3pPNEXFMlzHK918",
   "text" : "Have any extra shifts available?",
   "translations" : {
@@ -33,6 +66,44 @@
     "token" : "avail",
     "startOffset" : 22,
     "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoElCXEDTAu_IiLe03H",
+  "text" : "The crew manifest is available.",
+  "translations" : {
+    "russian" : "Доступен список экипажа."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "crew",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "manifest",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "available",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "avail",
+    "startOffset" : 21,
+    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null
@@ -137,6 +208,77 @@
     "token" : "flight",
     "startOffset" : 19,
     "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIwv9DTAu_IiLefxb",
+  "text" : "Unavailable witness exception, Your Honor.",
+  "translations" : {
+    "russian" : "Незаконный отвод свидетеля, ваша честь."
+  },
+  "tokens" : [ {
+    "token" : "available",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "witness",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "wit",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "exception",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 31,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "honor",
+    "startOffset" : 36,
+    "endOffset" : 41,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcmq4DTAu_IiLfd4p",
+  "text" : "You were unavailable for consultation.",
+  "translations" : {
+    "russian" : "С тобой невозможно было посоветоваться."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "were",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "available",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "consultation",
+    "startOffset" : 25,
+    "endOffset" : 37,
     "position" : 4
   } ],
   "contentScore" : null

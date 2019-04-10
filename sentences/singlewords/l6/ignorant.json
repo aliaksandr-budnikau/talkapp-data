@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoEhxaTDTAu_IiLeyTm",
+  "text" : "Ignorant clods.",
+  "translations" : {
+    "russian" : "Невежды."
+  },
+  "tokens" : [ {
+    "token" : "ignorant",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "clod",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFiT8MDTAu_IiLfhuX",
+  "text" : "Ignorant peasants.",
+  "translations" : {
+    "russian" : "Дремучие деревенщины."
+  },
+  "tokens" : [ {
+    "token" : "ignorant",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "peasant",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguWOzNEXFMlzHLO63",
   "text" : "Totally ignorant and bigoted.",
   "translations" : {
@@ -29,6 +65,72 @@
     "startOffset" : 21,
     "endOffset" : 28,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEd4V6DTAu_IiLevQQ",
+  "text" : "You, ignorant crook, a deadbeat!",
+  "translations" : {
+    "russian" : "Ну что понимаешь ты, невежда, плут, голодранец?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ignorant",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "crook",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "deadbeat",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIHroDTAu_IiLfOHP",
+  "text" : "You, ignorant crook, a deadbeat!",
+  "translations" : {
+    "russian" : "Ну что понимаешь ты, невежда, плут, голодранец?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ignorant",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "crook",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "deadbeat",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

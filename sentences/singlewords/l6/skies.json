@@ -1,4 +1,116 @@
 [ {
+  "id" : "AWoFQ5Y3DTAu_IiLfU8I",
+  "text" : "Qua sky.",
+  "translations" : {
+    "russian" : "Небо как небо."
+  },
+  "tokens" : [ {
+    "token" : "qua",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sky",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDFSCDTAu_IiLfKVj",
+  "text" : "Wood fires, starry skies.",
+  "translations" : {
+    "russian" : "Костёр, звёздное небо."
+  },
+  "tokens" : [ {
+    "token" : "wood",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fire",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "starry",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "sky",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtdBNDTAu_IiLe68o",
+  "text" : "Reached into the sky?",
+  "translations" : {
+    "russian" : "ДОтянуться до небес?"
+  },
+  "tokens" : [ {
+    "token" : "reached",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "ached",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "into",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "sky",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtdCLDTAu_IiLe68p",
+  "text" : "Reached to the sky?",
+  "translations" : {
+    "russian" : "Дотянуться до небес?"
+  },
+  "tokens" : [ {
+    "token" : "reached",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "ached",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "sky",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggSSDNEXFMlzHK9Vp",
   "text" : "The sky over Tokyo.",
   "translations" : {
@@ -24,6 +136,105 @@
     "startOffset" : 13,
     "endOffset" : 18,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtdAODTAu_IiLe68n",
+  "text" : "Reached into the sky?",
+  "translations" : {
+    "russian" : "Дотянуться до небес?"
+  },
+  "tokens" : [ {
+    "token" : "reached",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "ached",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "into",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "sky",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjpwiDTAu_IiLeJD0",
+  "text" : "Sapphire blue ocean, cloudless sky...",
+  "translations" : {
+    "russian" : "Сапфирово-голубой океан, безоблачное небо..."
+  },
+  "tokens" : [ {
+    "token" : "sapphire",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "blue",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "ocean",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "cloudless",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "sky",
+    "startOffset" : 31,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbiU7DTAu_IiLetlf",
+  "text" : "Our ships dominate their skies.",
+  "translations" : {
+    "russian" : "Наши корабли господствуют в их небе."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ship",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "dominate",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "their",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "sky",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -56,6 +267,143 @@
     "token" : "sky",
     "startOffset" : 16,
     "endOffset" : 19,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDflrDTAu_IiLeb4m",
+  "text" : "Our ships dominate their skies.",
+  "translations" : {
+    "russian" : "Наши корабли господствуют в их небе."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ship",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "dominate",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "their",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "sky",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEshJfDTAu_IiLe6Ut",
+  "text" : "Our ships dominate their skies.",
+  "translations" : {
+    "russian" : "Наши корабли господствуют в их небе."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ship",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "dominate",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "their",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "sky",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtdIyDTAu_IiLe68v",
+  "text" : "I reached into the sky?",
+  "translations" : {
+    "russian" : "Я дотянусь до небес?"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "reached",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "ached",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "into",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "sky",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAHsZDTAu_IiLeZQf",
+  "text" : "Stop sighing at the sky.",
+  "translations" : {
+    "russian" : "Хватит вздыхать в небо!"
+  },
+  "tokens" : [ {
+    "token" : "stop",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "sigh",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "sky",
+    "startOffset" : 20,
+    "endOffset" : 23,
     "position" : 4
   } ],
   "contentScore" : null
@@ -131,79 +479,36 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgu5vKNEXFMlzHLQAg",
-  "text" : "Light it up in the sky.",
+  "id" : "AWoEsNPnDTAu_IiLe6HS",
+  "text" : "Our ships dominate their skies.",
   "translations" : {
-    "russian" : "И осветить небеса."
+    "russian" : "Наши корабли господствуют в их небе."
   },
   "tokens" : [ {
-    "token" : "light",
+    "token" : "our",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "it",
-    "startOffset" : 6,
-    "endOffset" : 8,
+    "token" : "ship",
+    "startOffset" : 4,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "up",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 4
-  }, {
-    "token" : "sky",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjXSKNEXFMlzHK_8o",
-  "text" : "Terror rained down from the skies.",
-  "translations" : {
-    "russian" : "Ужас сыпался с небес."
-  },
-  "tokens" : [ {
-    "token" : "terror",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "rain",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "down",
-    "startOffset" : 14,
+    "token" : "dominate",
+    "startOffset" : 10,
     "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "from",
+    "token" : "their",
     "startOffset" : 19,
-    "endOffset" : 23,
+    "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "the",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
     "token" : "sky",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 5
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

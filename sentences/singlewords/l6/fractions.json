@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoElkjDDTAu_IiLe1Qi",
+  "text" : "We're dividing fractions.",
+  "translations" : {
+    "russian" : "Мы делим дроби."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "divide",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "fraction",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFhpPDTAu_IiLeddb",
+  "text" : "We're dividing fractions.",
+  "translations" : {
+    "russian" : "Мы делим дроби."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "divide",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "fraction",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglKp9NEXFMlzHLCDd",
   "text" : "First, the Springfield Elementary Action Fractions!",
   "translations" : {
@@ -33,6 +79,44 @@
     "token" : "fraction",
     "startOffset" : 41,
     "endOffset" : 50,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESl9HDTAu_IiLenKG",
+  "text" : "I'm looking for Don's infraction citation.",
+  "translations" : {
+    "russian" : "Я ищу неправильную цитату Дона."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "look",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "don",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "fraction",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "citation",
+    "startOffset" : 33,
+    "endOffset" : 41,
     "position" : 5
   } ],
   "contentScore" : null

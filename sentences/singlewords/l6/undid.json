@@ -83,34 +83,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWn5n-LCSHZo49ps8uEO",
-  "text" : "Did you just yawn?",
-  "translations" : {
-    "russian" : "Ты только что зевнул?"
-  },
-  "tokens" : [ {
-    "token" : "did",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "just",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "yawn",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgw4oBNEXFMlzHLSoZ",
   "text" : "How did he fare?",
   "translations" : {
@@ -139,71 +111,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcvnsNEXFMlzHK6Sp",
-  "text" : "Who did you invite?",
+  "id" : "AWn5n-LCSHZo49ps8uEO",
+  "text" : "Did you just yawn?",
   "translations" : {
-    "russian" : "И кого же ты вызвала?"
-  },
-  "tokens" : [ {
-    "token" : "who",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "did",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "invite",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk65FNEXFMlzHLBmv",
-  "text" : "Who did she threaten?",
-  "translations" : {
-    "russian" : "Кем же она угрожает?"
-  },
-  "tokens" : [ {
-    "token" : "who",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "did",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "she",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "threaten",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "threat",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbJIeNEXFMlzHK42Z",
-  "text" : "Did you just sidle?",
-  "translations" : {
-    "russian" : "Ты только что робко подошёл?"
+    "russian" : "Ты только что зевнул?"
   },
   "tokens" : [ {
     "token" : "did",
@@ -221,17 +132,73 @@
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "sidle",
+    "token" : "yawn",
     "startOffset" : 13,
-    "endOffset" : 18,
+    "endOffset" : 17,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbHWsNEXFMlzHK40z",
-  "text" : "I did not audition.",
+  "id" : "AWoDTBFrDTAu_IiLd_lC",
+  "text" : "What did Alma do?",
   "translations" : {
-    "russian" : "Я не проходила прослушивание."
+    "russian" : "Что Элма сделала?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "did",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "alma",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "do",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDW8CCDTAu_IiLeB4T",
+  "text" : "Applause, she did it!",
+  "translations" : {
+    "russian" : "Аплодисменты, она сделала это!"
+  },
+  "tokens" : [ {
+    "token" : "applause",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "she",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "did",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDelaEDTAu_IiLeGI4",
+  "text" : "I did not barge!",
+  "translations" : {
+    "russian" : "Я не вламывался!"
   },
   "tokens" : [ {
     "token" : "i",
@@ -249,17 +216,101 @@
     "endOffset" : 9,
     "position" : 2
   }, {
-    "token" : "audition",
+    "token" : "barge",
     "startOffset" : 10,
-    "endOffset" : 18,
+    "endOffset" : 15,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbMCiNEXFMlzHK45D",
-  "text" : "How did you get on?",
+  "id" : "AWoDf8x2DTAu_IiLeG7s",
+  "text" : "And you did brag.",
   "translations" : {
-    "russian" : "А как твои успехи?"
+    "russian" : "Но ты похвастался."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "did",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "brag",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-glDDTAu_IiLeYCL",
+  "text" : "When did he veto?",
+  "translations" : {
+    "russian" : "Когда запретил?"
+  },
+  "tokens" : [ {
+    "token" : "when",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "did",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "he",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "veto",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9NEiDTAu_IiLeXDD",
+  "text" : "I swear I did.",
+  "translations" : {
+    "russian" : "Честное слово, сбил!"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "swear",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "i",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "did",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1PtADTAu_IiLeSzO",
+  "text" : "How did you rebel?",
+  "translations" : {
+    "russian" : "Как ты бунтуешь?"
   },
   "tokens" : [ {
     "token" : "how",
@@ -277,154 +328,45 @@
     "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "get",
+    "token" : "rebel",
     "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "on",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfMlQNEXFMlzHK8ac",
-  "text" : "He did not approach you.",
-  "translations" : {
-    "russian" : "Он не обращался к тебе."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "did",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "not",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "approach",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "you",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggBJjNEXFMlzHK9Gk",
-  "text" : "Did he reject her son?",
-  "translations" : {
-    "russian" : "Он отклонил прошение её сына?"
-  },
-  "tokens" : [ {
-    "token" : "did",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "he",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "reject",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "her",
-    "startOffset" : 14,
     "endOffset" : 17,
     "position" : 3
-  }, {
-    "token" : "son",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgl-WZNEXFMlzHLDFo",
-  "text" : "You did me a favor.",
+  "id" : "AWoEGXz6DTAu_IiLeeFK",
+  "text" : "Did you transgress, Eddie?",
   "translations" : {
-    "russian" : "Ы мне услугу оказал."
+    "russian" : "Ты согрешил, Эдди? Что?"
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "did",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "did",
+    "token" : "you",
     "startOffset" : 4,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "me",
+    "token" : "transgress",
     "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 3
-  }, {
-    "token" : "favor",
-    "startOffset" : 13,
     "endOffset" : 18,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpS_uNEXFMlzHLIDs",
-  "text" : "Did you see any action?",
-  "translations" : {
-    "russian" : "Ты бывал в бою?"
-  },
-  "tokens" : [ {
-    "token" : "did",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "see",
-    "startOffset" : 8,
-    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "any",
-    "startOffset" : 12,
-    "endOffset" : 15,
+    "token" : "eddie",
+    "startOffset" : 20,
+    "endOffset" : 25,
     "position" : 3
-  }, {
-    "token" : "action",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpmCbNEXFMlzHLIep",
-  "text" : "Did you like the green?",
+  "id" : "AWoEH3yoDTAu_IiLefJy",
+  "text" : "Did they, Raze?",
   "translations" : {
-    "russian" : "Тебе нравился зелёный цвет?"
+    "russian" : "А, Рэйз?"
   },
   "tokens" : [ {
     "token" : "did",
@@ -432,58 +374,71 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "you",
+    "token" : "they",
     "startOffset" : 4,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "like",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "green",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpqwANEXFMlzHLIlK",
-  "text" : "The police did brief interviews.",
-  "translations" : {
-    "russian" : "Полиция провела несколько кратких бесед."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "police",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "did",
-    "startOffset" : 11,
+    "token" : "raze",
+    "startOffset" : 10,
     "endOffset" : 14,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWQW2DTAu_IiLep96",
+  "text" : "I did something rash.",
+  "translations" : {
+    "russian" : "Я сделала нечто опрометчивое."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
   }, {
-    "token" : "brief",
-    "startOffset" : 15,
+    "token" : "did",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "something",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "rash",
+    "startOffset" : 16,
     "endOffset" : 20,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjW8VDTAu_IiLezl3",
+  "text" : "Why did he yield?",
+  "translations" : {
+    "russian" : "Почему он поддался?"
+  },
+  "tokens" : [ {
+    "token" : "why",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
-    "token" : "interviews",
-    "startOffset" : 21,
-    "endOffset" : 31,
-    "position" : 4
+    "token" : "did",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "he",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "yield",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

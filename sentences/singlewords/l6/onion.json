@@ -27,6 +27,82 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD16ieDTAu_IiLeTGO",
+  "text" : "Is this onion from Bucharest?",
+  "translations" : {
+    "russian" : "Эй, этот лук из Бухареста?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "this",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "onion",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "one",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "from",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "bucharest",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDaFg-DTAu_IiLeDjl",
+  "text" : "Onion soup, and canned asparagus.",
+  "translations" : {
+    "russian" : "Луковый суп, и консервированная спаржа..."
+  },
+  "tokens" : [ {
+    "token" : "onion",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "soup",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "canned",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "asparagus",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgm465NEXFMlzHLEqF",
   "text" : "One unit, one body.",
   "translations" : {
@@ -60,6 +136,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEB-uHDTAu_IiLeasL",
+  "text" : "One rifle, one pint.",
+  "translations" : {
+    "russian" : "Одно ружьё - одна пинта."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "rifle",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "one",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "pint",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWPTtDTAu_IiLfY0D",
+  "text" : "One clan, one people.",
+  "translations" : {
+    "russian" : "Единый клан. Единый народ."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "clan",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "one",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "people",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiqs-NEXFMlzHK_XY",
   "text" : "One pistol, one shot.",
   "translations" : {
@@ -88,10 +220,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgumTpNEXFMlzHLPa7",
-  "text" : "One plus one equals three.",
+  "id" : "AWoEiOyQDTAu_IiLeyvQ",
+  "text" : "One apple, one pear.",
   "translations" : {
-    "russian" : "Один плюс один равняется трем."
+    "russian" : "Один яблочный, другой грушевый."
   },
   "tokens" : [ {
     "token" : "one",
@@ -99,222 +231,27 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "plus",
+    "token" : "apple",
     "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "one",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "equal",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "three",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkmDXNEXFMlzHLBLM",
-  "text" : "One door in, one door out.",
-  "translations" : {
-    "russian" : "Одна дверь внутрь, одна наружу."
-  },
-  "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "door",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "one",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "door",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "out",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgf8CyNEXFMlzHK9CD",
-  "text" : "One door in, one door out.",
-  "translations" : {
-    "russian" : "Одна дверь внутрь, одна наружу."
-  },
-  "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "door",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "one",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "door",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "out",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwMvGNEXFMlzHLR9C",
-  "text" : "One door in, one door out.",
-  "translations" : {
-    "russian" : "Одна дверь внутрь, одна наружу."
-  },
-  "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "door",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "one",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "door",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "out",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbFXONEXFMlzHK4y_",
-  "text" : "One plus one is still two!",
-  "translations" : {
-    "russian" : "Один плюс один все е ще равняется двум!"
-  },
-  "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "plus",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "one",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "still",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "two",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgumTaNEXFMlzHLPa6",
-  "text" : "Sometimes, one plus one equals three.",
-  "translations" : {
-    "russian" : "Иногда, один плюс один равняется трем."
-  },
-  "tokens" : [ {
-    "token" : "sometime",
-    "startOffset" : 0,
     "endOffset" : 9,
-    "position" : 0
+    "position" : 1
   }, {
     "token" : "one",
     "startOffset" : 11,
     "endOffset" : 14,
-    "position" : 1
+    "position" : 2
   }, {
-    "token" : "plus",
+    "token" : "pear",
     "startOffset" : 15,
     "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "one",
-    "startOffset" : 20,
-    "endOffset" : 23,
     "position" : 3
-  }, {
-    "token" : "equal",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "three",
-    "startOffset" : 31,
-    "endOffset" : 36,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsSEbNEXFMlzHLMOK",
-  "text" : "One for sponsorship, one for donations.",
+  "id" : "AWoDfJZJDTAu_IiLeGdq",
+  "text" : "One thermometer, One hygrometer, One barometer.",
   "translations" : {
-    "russian" : "Один на спонсорство, другой для пожертвований."
+    "russian" : "Термометр, гигрометр, барометр."
   },
   "tokens" : [ {
     "token" : "one",
@@ -322,193 +259,156 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "for",
+    "token" : "thermometer",
     "startOffset" : 4,
-    "endOffset" : 7,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "sponsorship",
-    "startOffset" : 8,
-    "endOffset" : 19,
+    "token" : "one",
+    "startOffset" : 17,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "one",
+    "token" : "hygrometer",
     "startOffset" : 21,
-    "endOffset" : 24,
+    "endOffset" : 31,
     "position" : 3
   }, {
-    "token" : "for",
-    "startOffset" : 25,
-    "endOffset" : 28,
+    "token" : "one",
+    "startOffset" : 33,
+    "endOffset" : 36,
     "position" : 4
   }, {
-    "token" : "donate",
-    "startOffset" : 29,
-    "endOffset" : 38,
+    "token" : "barometer",
+    "startOffset" : 37,
+    "endOffset" : 46,
     "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdWYoNEXFMlzHK61d",
-  "text" : "And present ones.",
+  "id" : "AWoDnklZDTAu_IiLeLNf",
+  "text" : "Heartless one!",
   "translations" : {
-    "russian" : "И за присутствующих."
+    "russian" : "Бессердечный!"
   },
   "tokens" : [ {
-    "token" : "and",
+    "token" : "heartless",
     "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "present",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "one",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgh2i4NEXFMlzHK-sx",
-  "text" : "Yes, a big one.",
-  "translations" : {
-    "russian" : "Да, ищи большой."
-  },
-  "tokens" : [ {
-    "token" : "yes",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "big",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "one",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkmPUNEXFMlzHLBLb",
-  "text" : "One drink and out!",
-  "translations" : {
-    "russian" : "Один бокал - и вон!"
-  },
-  "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "drink",
-    "startOffset" : 4,
     "endOffset" : 9,
-    "position" : 1
+    "position" : 0
   }, {
-    "token" : "and",
+    "token" : "one",
     "startOffset" : 10,
     "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgk75hNEXFMlzHLBoe",
-  "text" : "Start acting like one.",
+  "id" : "AWoEuocpDTAu_IiLe7wZ",
+  "text" : "One dram?",
   "translations" : {
-    "russian" : "Начни вести себя как лидер."
+    "russian" : "Одну драхму?"
   },
   "tokens" : [ {
-    "token" : "start",
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dram",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcHVkDTAu_IiLet-5",
+  "text" : "One gulp.",
+  "translations" : {
+    "russian" : "Одним глотком."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gulp",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZxDFDTAu_IiLesa7",
+  "text" : "One's Guatemalan.",
+  "translations" : {
+    "russian" : "Один из Гватемалы."
+  },
+  "tokens" : [ {
+    "token" : "one",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "acting",
+    "token" : "guatemalan",
     "startOffset" : 6,
-    "endOffset" : 12,
+    "endOffset" : 16,
     "position" : 1
-  }, {
-    "token" : "act",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "like",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "one",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglmTvNEXFMlzHLC0U",
-  "text" : "Take a biodegradable one.",
+  "id" : "AWoFM87nDTAu_IiLfR6H",
+  "text" : "Stage one.",
   "translations" : {
-    "russian" : "Возьми биоразлагаемое."
+    "russian" : "Стадия первая."
   },
   "tokens" : [ {
-    "token" : "take",
+    "token" : "stage",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 5,
     "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "biodegradable",
-    "startOffset" : 7,
-    "endOffset" : 20,
-    "position" : 2
   }, {
     "token" : "one",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmRrjNEXFMlzHLDnS",
-  "text" : "I chopped onions.",
-  "translations" : {
-    "russian" : "Я нарезал лук."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "chopped",
-    "startOffset" : 2,
+    "startOffset" : 6,
     "endOffset" : 9,
     "position" : 1
-  }, {
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9TfrDTAu_IiLeXH7",
+  "text" : "One workbench.",
+  "translations" : {
+    "russian" : "Один верстак."
+  },
+  "tokens" : [ {
     "token" : "one",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "workbench",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjA0jDTAu_IiLezVQ",
+  "text" : "One gulp.",
+  "translations" : {
+    "russian" : "Одним глотком."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gulp",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

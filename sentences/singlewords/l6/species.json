@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoE70VDDTAu_IiLfE1f",
+  "text" : "Fascinating species.",
+  "translations" : {
+    "russian" : "Удивительные создания."
+  },
+  "tokens" : [ {
+    "token" : "fascinating",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "fascinate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "specie",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfe3SDTAu_IiLewgi",
+  "text" : "We're a predatory species.",
+  "translations" : {
+    "russian" : "Мы - хищный вид."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "predatory",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "specie",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgk6OXNEXFMlzHLBlj",
   "text" : "Original offshoot of the species.",
   "translations" : {
@@ -32,6 +83,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDQQ21DTAu_IiLd9r8",
+  "text" : "100 most invasive species list.",
+  "translations" : {
+    "russian" : "Список 100 самых агрессивных."
+  },
+  "tokens" : [ {
+    "token" : "100",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "most",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "invasive",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "specie",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "list",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgk1CyNEXFMlzHLBdp",
   "text" : "Indigenous species, the human race.",
   "translations" : {
@@ -61,6 +145,105 @@
     "token" : "race",
     "startOffset" : 30,
     "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-WwQDTAu_IiLeX7E",
+  "text" : "You have doomed our species!",
+  "translations" : {
+    "russian" : "Ты обрек нашу расу на гибель!"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "doom",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "our",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "specie",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwFaDDTAu_IiLeQEc",
+  "text" : "One of several hawthorn species.",
+  "translations" : {
+    "russian" : "Один из видов боярышника, который я раздобыл."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "several",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "hawthorn",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "specie",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE93GFDTAu_IiLfGSQ",
+  "text" : "Your species has great curiosity.",
+  "translations" : {
+    "russian" : "Ваш вид очень любопытен. Мы знали это."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "specie",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "great",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "curiosity",
+    "startOffset" : 23,
+    "endOffset" : 32,
     "position" : 4
   } ],
   "contentScore" : null
@@ -141,48 +324,48 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgk6mxNEXFMlzHLBmP",
-  "text" : "What is wrong with your species?",
+  "id" : "AWoEe4gYDTAu_IiLewBQ",
+  "text" : "That his species is predominantly subterranean.",
   "translations" : {
-    "russian" : "Что же за странность с твоим родом?"
+    "russian" : "И что обитает оно преимущественно под землей."
   },
   "tokens" : [ {
-    "token" : "what",
+    "token" : "that",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "is",
+    "token" : "his",
     "startOffset" : 5,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "wrong",
-    "startOffset" : 8,
-    "endOffset" : 13,
+    "token" : "specie",
+    "startOffset" : 9,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "with",
-    "startOffset" : 14,
-    "endOffset" : 18,
+    "token" : "is",
+    "startOffset" : 17,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "your",
-    "startOffset" : 19,
-    "endOffset" : 23,
+    "token" : "predominant",
+    "startOffset" : 20,
+    "endOffset" : 33,
     "position" : 4
   }, {
-    "token" : "specie",
-    "startOffset" : 24,
-    "endOffset" : 31,
+    "token" : "subterranean",
+    "startOffset" : 34,
+    "endOffset" : 46,
     "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgk6TvNEXFMlzHLBlt",
-  "text" : "We sold out our entire species.",
+  "id" : "AWoEIF8kDTAu_IiLefTn",
+  "text" : "We all originated from lesser species.",
   "translations" : {
-    "russian" : "Мы продали весь наш вид."
+    "russian" : "Мы все произошли от низших видов."
   },
   "tokens" : [ {
     "token" : "we",
@@ -190,181 +373,181 @@
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "sold",
+    "token" : "all",
     "startOffset" : 3,
-    "endOffset" : 7,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "out",
-    "startOffset" : 8,
-    "endOffset" : 11,
+    "token" : "originate",
+    "startOffset" : 7,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "our",
-    "startOffset" : 12,
-    "endOffset" : 15,
+    "token" : "from",
+    "startOffset" : 18,
+    "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "entire",
-    "startOffset" : 16,
-    "endOffset" : 22,
+    "token" : "lesser",
+    "startOffset" : 23,
+    "endOffset" : 29,
     "position" : 4
   }, {
     "token" : "specie",
-    "startOffset" : 23,
-    "endOffset" : 30,
+    "startOffset" : 30,
+    "endOffset" : 37,
     "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgk6uWNEXFMlzHLBmb",
-  "text" : "This is a different species, Counselor.",
+  "id" : "AWoFQMhzDTAu_IiLfUXX",
+  "text" : "You can't exterminate a whole species.",
   "translations" : {
-    "russian" : "Это люди другой породы, адвокат."
+    "russian" : "Вы не можете истребить целый вид."
   },
   "tokens" : [ {
-    "token" : "this",
+    "token" : "you",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "is",
-    "startOffset" : 5,
-    "endOffset" : 7,
+    "token" : "can't",
+    "startOffset" : 4,
+    "endOffset" : 9,
     "position" : 1
+  }, {
+    "token" : "exterminate",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
   }, {
     "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "different",
-    "startOffset" : 10,
-    "endOffset" : 19,
+    "startOffset" : 22,
+    "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "specie",
-    "startOffset" : 20,
-    "endOffset" : 27,
+    "token" : "whole",
+    "startOffset" : 24,
+    "endOffset" : 29,
     "position" : 4
   }, {
-    "token" : "counselor",
-    "startOffset" : 29,
-    "endOffset" : 38,
+    "token" : "specie",
+    "startOffset" : 30,
+    "endOffset" : 37,
     "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgk6sJNEXFMlzHLBmY",
-  "text" : "That's an endangered species at most.",
+  "id" : "AWoDVLADDTAu_IiLeA-Y",
+  "text" : "A species that could annihilate them.",
   "translations" : {
-    "russian" : "Это же редчайшая порода."
+    "russian" : "Виды, которые могут их уничтожить."
   },
   "tokens" : [ {
-    "token" : "that",
+    "token" : "a",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "an",
-    "startOffset" : 7,
+    "token" : "specie",
+    "startOffset" : 2,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "endanger",
+    "token" : "that",
     "startOffset" : 10,
-    "endOffset" : 20,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "specie",
-    "startOffset" : 21,
-    "endOffset" : 28,
+    "token" : "could",
+    "startOffset" : 15,
+    "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "at",
-    "startOffset" : 29,
+    "token" : "annihilate",
+    "startOffset" : 21,
     "endOffset" : 31,
     "position" : 4
   }, {
-    "token" : "most",
+    "token" : "them",
     "startOffset" : 32,
     "endOffset" : 36,
     "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgk6ljNEXFMlzHLBmM",
-  "text" : "I want to perpetuate my species.",
+  "id" : "AWoEOmP3DTAu_IiLekPY",
+  "text" : "Not a species we've encountered before.",
   "translations" : {
-    "russian" : "Я хочу увековечить свой род."
+    "russian" : "Не похоже ни на один из видов, что мы встречали раньше."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "not",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "want",
-    "startOffset" : 2,
-    "endOffset" : 6,
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
     "position" : 1
   }, {
-    "token" : "to",
-    "startOffset" : 7,
-    "endOffset" : 9,
+    "token" : "specie",
+    "startOffset" : 6,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "perpetuate",
-    "startOffset" : 10,
-    "endOffset" : 20,
+    "token" : "we've",
+    "startOffset" : 14,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "my",
-    "startOffset" : 21,
-    "endOffset" : 23,
+    "token" : "encounter",
+    "startOffset" : 20,
+    "endOffset" : 31,
     "position" : 4
   }, {
-    "token" : "specie",
-    "startOffset" : 24,
-    "endOffset" : 31,
+    "token" : "before",
+    "startOffset" : 32,
+    "endOffset" : 38,
     "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgksRRNEXFMlzHLBTW",
-  "text" : "Species has been extinct since 1883.",
+  "id" : "AWoFHBGSDTAu_IiLfNNH",
+  "text" : "You can't exterminate a whole species.",
   "translations" : {
-    "russian" : "Вид считается вымершим с 1883 года."
+    "russian" : "Вы не можете истребить целый вид."
   },
   "tokens" : [ {
-    "token" : "specie",
+    "token" : "you",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "has",
-    "startOffset" : 8,
-    "endOffset" : 11,
+    "token" : "can't",
+    "startOffset" : 4,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "been",
-    "startOffset" : 12,
-    "endOffset" : 16,
+    "token" : "exterminate",
+    "startOffset" : 10,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "extinct",
-    "startOffset" : 17,
-    "endOffset" : 24,
+    "token" : "a",
+    "startOffset" : 22,
+    "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "since",
-    "startOffset" : 25,
-    "endOffset" : 30,
+    "token" : "whole",
+    "startOffset" : 24,
+    "endOffset" : 29,
     "position" : 4
   }, {
-    "token" : "1883",
-    "startOffset" : 31,
-    "endOffset" : 35,
+    "token" : "specie",
+    "startOffset" : 30,
+    "endOffset" : 37,
     "position" : 5
   } ],
   "contentScore" : null

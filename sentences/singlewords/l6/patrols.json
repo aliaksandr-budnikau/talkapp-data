@@ -1,39 +1,449 @@
 [ {
-  "id" : "AWbgoNWLNEXFMlzHLGj4",
-  "text" : "All right, I'm leading this patrol.",
+  "id" : "AWoEgMgMDTAu_IiLexEe",
+  "text" : "Border patrol!",
   "translations" : {
-    "russian" : "Я буду командовать вылазкой."
+    "russian" : "Это пограничники!"
   },
   "tokens" : [ {
-    "token" : "all",
+    "token" : "border",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "patrol",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgLtJDTAu_IiLexD0",
+  "text" : "Border patrol.",
+  "translations" : {
+    "russian" : "Пограничной?"
+  },
+  "tokens" : [ {
+    "token" : "border",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "patrol",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgLZXDTAu_IiLexDl",
+  "text" : "Border patrol.",
+  "translations" : {
+    "russian" : "Граница купола Пограничный патруль."
+  },
+  "tokens" : [ {
+    "token" : "border",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "patrol",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgt-8DTAu_IiLeHX-",
+  "text" : "Patrol to fleet!",
+  "translations" : {
+    "russian" : "Патруль флоту!"
+  },
+  "tokens" : [ {
+    "token" : "patrol",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "fleet",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECk8XDTAu_IiLebJ3",
+  "text" : "You patrol, you slay.",
+  "translations" : {
+    "russian" : "Ты патрулируешь, истребляешь."
+  },
+  "tokens" : [ {
+    "token" : "you",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "right",
+    "token" : "patrol",
     "startOffset" : 4,
-    "endOffset" : 9,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "i'm",
-    "startOffset" : 11,
+    "token" : "you",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "slay",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgLVsDTAu_IiLexDj",
+  "text" : "This is Border Patrol.",
+  "translations" : {
+    "russian" : "Говорит пограничный патруль."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "border",
+    "startOffset" : 8,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "lead",
+    "token" : "patrol",
     "startOffset" : 15,
-    "endOffset" : 22,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "this",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwwQRDTAu_IiLe9Tl",
+  "text" : "Egyptian patrol open fire.",
+  "translations" : {
+    "russian" : "Египетский патруль открыл огонь."
+  },
+  "tokens" : [ {
+    "token" : "egyptian",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
   }, {
     "token" : "patrol",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "open",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "op",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "fire",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERMVWDTAu_IiLemHR",
+  "text" : "What about Boon's patrol?",
+  "translations" : {
+    "russian" : "Что там с вылазкой Буна?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "about",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "boon",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "patrol",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAZQJDTAu_IiLfIVE",
+  "text" : "The patrol is ambushed.",
+  "translations" : {
+    "russian" : "Патруль попал в засаду."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "patrol",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "ambush",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgLrsDTAu_IiLexDz",
+  "text" : "I'm border patrol.",
+  "translations" : {
+    "russian" : "Я из пограничной службы."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "border",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "patrol",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2aaLDTAu_IiLeTU5",
+  "text" : "On patrol, rattling swords.",
+  "translations" : {
+    "russian" : "На заставе. Мечами гремит."
+  },
+  "tokens" : [ {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "patrol",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "rattling",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "rattle",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "sword",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAZO0DTAu_IiLfIVD",
+  "text" : "The patrol is ambushed.",
+  "translations" : {
+    "russian" : "Наш патруль попал в засаду."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "patrol",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "ambush",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAZRtDTAu_IiLfIVF",
+  "text" : "The patrol is ambushed.",
+  "translations" : {
+    "russian" : "Наш патруль попал в засаду."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "patrol",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "ambush",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMuB4DTAu_IiLei1c",
+  "text" : "Mounted patrol's on the way.",
+  "translations" : {
+    "russian" : "Конный патруль уже едет."
+  },
+  "tokens" : [ {
+    "token" : "mounted",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "mount",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "patrol",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "way",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHE7sDTAu_IiLeel4",
+  "text" : "Mounted patrol's on the way.",
+  "translations" : {
+    "russian" : "Конный патруль уже едет."
+  },
+  "tokens" : [ {
+    "token" : "mounted",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "mount",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "patrol",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "way",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEealLDTAu_IiLevq5",
+  "text" : "Mounted patrol's on the way.",
+  "translations" : {
+    "russian" : "Конный патруль уже едет."
+  },
+  "tokens" : [ {
+    "token" : "mounted",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "mount",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "patrol",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "way",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

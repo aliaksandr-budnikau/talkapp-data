@@ -1,0 +1,39 @@
+[ {
+  "id" : "AWoFFTXvDTAu_IiLfL6N",
+  "text" : "Last two digits of the plate.",
+  "translations" : {
+    "russian" : "Последние две цифры номера машины."
+  },
+  "tokens" : [ {
+    "token" : "last",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "two",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "digit",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "plate",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

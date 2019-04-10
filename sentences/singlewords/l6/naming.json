@@ -70,6 +70,24 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFNwTFDTAu_IiLfSfs",
+  "text" : "Irishman's name?",
+  "translations" : {
+    "russian" : "Имя ирландца."
+  },
+  "tokens" : [ {
+    "token" : "irishman",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "name",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbga-6INEXFMlzHK4tU",
   "text" : "What's your name?",
   "translations" : {
@@ -149,10 +167,66 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbga-7GNEXFMlzHK4tV",
-  "text" : "My name is John.",
+  "id" : "AWoD5ledDTAu_IiLeUyK",
+  "text" : "His name is Watts.",
   "translations" : {
-    "russian" : "Меня зовут Джон."
+    "russian" : "Его зовут Уоттс."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "name",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "watt",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDznxYDTAu_IiLeR_5",
+  "text" : "Name of Quintus Bubo.",
+  "translations" : {
+    "russian" : "Его зовут Квинт БУбо."
+  },
+  "tokens" : [ {
+    "token" : "name",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "quintus",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "bubo",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEalUIDTAu_IiLes9d",
+  "text" : "My name is Gibbons.",
+  "translations" : {
+    "russian" : "Меня зовут Гиббонс."
   },
   "tokens" : [ {
     "token" : "my",
@@ -170,17 +244,73 @@
     "endOffset" : 10,
     "position" : 2
   }, {
-    "token" : "john",
+    "token" : "gibbon",
     "startOffset" : 11,
-    "endOffset" : 15,
+    "endOffset" : 18,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghcRWNEXFMlzHK-V7",
-  "text" : "What's your name, love?",
+  "id" : "AWoEuyABDTAu_IiLe728",
+  "text" : "His name is Jared.",
   "translations" : {
-    "russian" : "Как тебя зовут, дорогая?"
+    "russian" : "Его зовут Джаред."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "name",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "jared",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEw2c7DTAu_IiLe9YR",
+  "text" : "That's his Hebrew name.",
+  "translations" : {
+    "russian" : "Ави Мелех. Это его еврейское имя."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "his",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "hebrew",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "name",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyycZDTAu_IiLe-zu",
+  "text" : "What's your fiance's name?",
+  "translations" : {
+    "russian" : "Как зовут вашего жениха?"
   },
   "tokens" : [ {
     "token" : "what",
@@ -193,60 +323,106 @@
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "name",
+    "token" : "fiance's",
     "startOffset" : 12,
-    "endOffset" : 16,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "love",
-    "startOffset" : 18,
-    "endOffset" : 22,
+    "token" : "name",
+    "startOffset" : 21,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnnwINEXFMlzHLFwV",
-  "text" : "I named it Peter.",
+  "id" : "AWoE9VsnDTAu_IiLfF4C",
+  "text" : "Also, substituting your name.",
   "translations" : {
-    "russian" : "Я назвала его Питером."
+    "russian" : "Также, не заменяй свое имя."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "also",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "named",
-    "startOffset" : 2,
-    "endOffset" : 7,
+    "token" : "substitute",
+    "startOffset" : 6,
+    "endOffset" : 18,
     "position" : 1
   }, {
-    "token" : "name",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 8,
-    "endOffset" : 10,
+    "token" : "your",
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 2
   }, {
-    "token" : "peter",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "pet",
-    "startOffset" : 11,
-    "endOffset" : 16,
+    "token" : "name",
+    "startOffset" : 24,
+    "endOffset" : 28,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguE6MNEXFMlzHLOZ6",
-  "text" : "That's your middle name?",
+  "id" : "AWoE9nXTDTAu_IiLfGFd",
+  "text" : "Also, substituting your name.",
   "translations" : {
-    "russian" : "Это твое среднее имя?"
+    "russian" : "Также, не заменяй свое имя."
+  },
+  "tokens" : [ {
+    "token" : "also",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "substitute",
+    "startOffset" : 6,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "name",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-jZVDTAu_IiLfG2f",
+  "text" : "New names. New occupation.",
+  "translations" : {
+    "russian" : "Новые имена, новая работа."
+  },
+  "tokens" : [ {
+    "token" : "new",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "name",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "new",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "occupation",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFM-hzDTAu_IiLfR7R",
+  "text" : "That's his stage name.",
+  "translations" : {
+    "russian" : "Это его сценическое имя."
   },
   "tokens" : [ {
     "token" : "that",
@@ -254,120 +430,13 @@
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "your",
+    "token" : "his",
     "startOffset" : 7,
-    "endOffset" : 11,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "middle",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "name",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnnoaNEXFMlzHLFwK",
-  "text" : "Don't dishonor our name.",
-  "translations" : {
-    "russian" : "Не позорь наше имя."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "honor",
-    "startOffset" : 6,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "name",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguXFgNEXFMlzHLO8i",
-  "text" : "It's a black name.",
-  "translations" : {
-    "russian" : "Это имя для негров."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "black",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "name",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnnj_NEXFMlzHLFwA",
-  "text" : "Name, address, phone.",
-  "translations" : {
-    "russian" : "Имя, адрес, телефон."
-  },
-  "tokens" : [ {
-    "token" : "name",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "address",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "phone",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguEwMNEXFMlzHLOZq",
-  "text" : "Thin's my middle name.",
-  "translations" : {
-    "russian" : "Худой - моё среднее имя."
-  },
-  "tokens" : [ {
-    "token" : "thin's",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "middle",
-    "startOffset" : 10,
+    "token" : "stage",
+    "startOffset" : 11,
     "endOffset" : 16,
     "position" : 2
   }, {
@@ -375,105 +444,6 @@
     "startOffset" : 17,
     "endOffset" : 21,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnnlRNEXFMlzHLFwD",
-  "text" : "No trap in my name.",
-  "translations" : {
-    "russian" : "В моём имени никаких заковырок."
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "trap",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "name",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguE5ONEXFMlzHLOZ5",
-  "text" : "But that's her middle name.",
-  "translations" : {
-    "russian" : "Но это ее среднее имя."
-  },
-  "tokens" : [ {
-    "token" : "but",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "her",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "middle",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "name",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguUzRNEXFMlzHLO4E",
-  "text" : "An American, name of Latimer.",
-  "translations" : {
-    "russian" : "Американец, зовут Латимер."
-  },
-  "tokens" : [ {
-    "token" : "an",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "american",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "name",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "latimer",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

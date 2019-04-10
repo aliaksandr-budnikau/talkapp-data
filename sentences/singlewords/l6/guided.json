@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoFjhBDDTAu_IiLfigS",
+  "text" : "I gently guided him.",
+  "translations" : {
+    "russian" : "Я мягко подтолкнул его к этой мысли."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "gently",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "guided",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "guide",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "him",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPK52DTAu_IiLd9Bs",
+  "text" : "About bus guides.",
+  "translations" : {
+    "russian" : "Насчет автобусных экскурсий."
+  },
+  "tokens" : [ {
+    "token" : "about",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bus",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "guide",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECJpWDTAu_IiLea08",
+  "text" : "Guide us through the vortex.",
+  "translations" : {
+    "russian" : "Проведите нас через воронку."
+  },
+  "tokens" : [ {
+    "token" : "guide",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "us",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "through",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "vortex",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguh8iNEXFMlzHLPSR",
   "text" : "A racist, telepathic guide dog.",
   "translations" : {
@@ -66,6 +155,44 @@
     "token" : "refuge",
     "startOffset" : 24,
     "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmvQmDTAu_IiLeKwf",
+  "text" : "I am naught but a guide.",
+  "translations" : {
+    "russian" : "Я - ничто, кроме как гид для тебя."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "naught",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "but",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 4
+  }, {
+    "token" : "guide",
+    "startOffset" : 18,
+    "endOffset" : 23,
     "position" : 5
   } ],
   "contentScore" : null

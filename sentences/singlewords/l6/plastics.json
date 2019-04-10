@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoEvFwZDTAu_IiLe8Eg",
+  "text" : "This is pulverized plastic.",
+  "translations" : {
+    "russian" : "Это измельченный пластик."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "pulverized",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "pulverize",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "plastic",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSbnsDTAu_IiLfWHJ",
+  "text" : "It's a plastic blob.",
+  "translations" : {
+    "russian" : "Это сгусток пластика."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "plastic",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "blob",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkB8FNEXFMlzHLAhC",
   "text" : "They are plastic teaspoons.",
   "translations" : {
@@ -177,6 +238,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFeJUnDTAu_IiLfe_K",
+  "text" : "It's plastic. Toxic fumes.",
+  "translations" : {
+    "russian" : "Это пластик, токсические испарения."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "plastic",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "toxic",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "fume",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkB-iNEXFMlzHLAhE",
   "text" : "What kind of plastic, man?",
   "translations" : {
@@ -206,6 +295,39 @@
     "token" : "man",
     "startOffset" : 22,
     "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEg8ErDTAu_IiLexqQ",
+  "text" : "One pocket comb, black plastic.",
+  "translations" : {
+    "russian" : "Одна расчёска, чёрная пластиковая."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pocket",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "comb",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "black",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "plastic",
+    "startOffset" : 23,
+    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null
@@ -272,6 +394,39 @@
     "token" : "plastic",
     "startOffset" : 15,
     "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEggCbDTAu_IiLexUA",
+  "text" : "One pocket comb, black plastic.",
+  "translations" : {
+    "russian" : "Одна расчёска, чёрная пластиковая."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pocket",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "comb",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "black",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "plastic",
+    "startOffset" : 23,
+    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null
@@ -348,158 +503,6 @@
     "token" : "pen",
     "startOffset" : 24,
     "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkBKhNEXFMlzHLAgb",
-  "text" : "Kiss my flat plastic butt, reality.",
-  "translations" : {
-    "russian" : "Реальность, поцелуй мою плоскую пластиковую задницу!"
-  },
-  "tokens" : [ {
-    "token" : "kiss",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "flat",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "plastic",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "butt",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "reality",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrCi7NEXFMlzHLKao",
-  "text" : "Kiss my flat plastic butt, reality.",
-  "translations" : {
-    "russian" : "Реальность, поцелуй мою плоскую пластиковую задницу!"
-  },
-  "tokens" : [ {
-    "token" : "kiss",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "flat",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "plastic",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "butt",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "reality",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmIyXNEXFMlzHLDXw",
-  "text" : "A plastic tube and a funnel.",
-  "translations" : {
-    "russian" : "Пластиковую трубку и воронку."
-  },
-  "tokens" : [ {
-    "token" : "a",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "plastic",
-    "startOffset" : 2,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "tube",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 19,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "funnel",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiPwyNEXFMlzHK_Al",
-  "text" : "Any, uh, plastics production around here?",
-  "translations" : {
-    "russian" : "Есть производство пластика в районе?"
-  },
-  "tokens" : [ {
-    "token" : "any",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "uh",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "plastic",
-    "startOffset" : 9,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "production",
-    "startOffset" : 18,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "around",
-    "startOffset" : 29,
-    "endOffset" : 35,
-    "position" : 4
-  }, {
-    "token" : "here",
-    "startOffset" : 36,
-    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null

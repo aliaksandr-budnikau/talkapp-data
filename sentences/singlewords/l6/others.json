@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoFatClDTAu_IiLfcZS",
+  "text" : "Other comments?",
+  "translations" : {
+    "russian" : "Ещё мнения? Простите."
+  },
+  "tokens" : [ {
+    "token" : "other",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "comment",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFatBADTAu_IiLfcZR",
+  "text" : "Other comments?",
+  "translations" : {
+    "russian" : "Ещё мнения?"
+  },
+  "tokens" : [ {
+    "token" : "other",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "comment",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgb7ylNEXFMlzHK5j8",
   "text" : "Face each other, bow.",
   "translations" : {
@@ -96,325 +132,38 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoJnNNEXFMlzHLGdw",
-  "text" : "One other item, sir.",
+  "id" : "AWoDTyxTDTAu_IiLeAGT",
+  "text" : "Other times it's anagrams.",
   "translations" : {
-    "russian" : "Еще один вопрос, сэр."
+    "russian" : "В других случаях это анаграммы."
   },
   "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
     "token" : "other",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "item",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "sir",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgd7KVNEXFMlzHK7Sb",
-  "text" : "You suit each other.",
-  "translations" : {
-    "russian" : "Вы подходите друг другу."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "suit",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "each",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "other",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgujU6NEXFMlzHLPU4",
-  "text" : "And the other reversed.",
-  "translations" : {
-    "russian" : "А вторая - противоположная."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "other",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "verse",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl7z2NEXFMlzHLDCb",
-  "text" : "There's that other favor.",
-  "translations" : {
-    "russian" : "Еще второе одолжение."
-  },
-  "tokens" : [ {
-    "token" : "there",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "other",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "favor",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgq7NuNEXFMlzHLKPo",
-  "text" : "She's had other episodes.",
-  "translations" : {
-    "russian" : "У нее было других эпизодов."
-  },
-  "tokens" : [ {
-    "token" : "she",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "had",
+    "token" : "time",
     "startOffset" : 6,
-    "endOffset" : 9,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "other",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "episode",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv8frNEXFMlzHLRq1",
-  "text" : "Except my other navigators.",
-  "translations" : {
-    "russian" : "Кроме моих штурманов."
-  },
-  "tokens" : [ {
-    "token" : "except",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "other",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "navigator",
-    "startOffset" : 16,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgd7QcNEXFMlzHK7Sg",
-  "text" : "So suited for each other.",
-  "translations" : {
-    "russian" : "Так подходили друг другу."
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "suited",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "suit",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "each",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "other",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghkbxNEXFMlzHK-dB",
-  "text" : "Tried to imagine other scenarios?",
-  "translations" : {
-    "russian" : "Пыталась представлять другие сценарии?"
-  },
-  "tokens" : [ {
-    "token" : "tried",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "try",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "imagine",
-    "startOffset" : 9,
+    "token" : "it",
+    "startOffset" : 12,
     "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "other",
+    "token" : "anagram",
     "startOffset" : 17,
-    "endOffset" : 22,
+    "endOffset" : 25,
     "position" : 3
-  }, {
-    "token" : "scenario",
-    "startOffset" : 23,
-    "endOffset" : 32,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmFniNEXFMlzHLDSS",
-  "text" : "At handling other people's emergencies.",
+  "id" : "AWoDaJFjDTAu_IiLeDl5",
+  "text" : "Others have loftier aspirations...",
   "translations" : {
-    "russian" : "В решении непредвиденных ситуаций других людей."
-  },
-  "tokens" : [ {
-    "token" : "at",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "handling",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "handle",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "other",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "people",
-    "startOffset" : 18,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "emergency",
-    "startOffset" : 27,
-    "endOffset" : 38,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgn65ZNEXFMlzHLGPo",
-  "text" : "We stopped carrying some others.",
-  "translations" : {
-    "russian" : "Мы перестали торговать другими."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "stopped",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "carry",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "some",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "other",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrjcUNEXFMlzHLLLC",
-  "text" : "Others have paid the price.",
-  "translations" : {
-    "russian" : "Другие поплатились за это."
+    "russian" : "Другие обладают более высокими стремлениями..."
   },
   "tokens" : [ {
     "token" : "other",
@@ -427,53 +176,219 @@
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "paid",
+    "token" : "lofty",
     "startOffset" : 12,
-    "endOffset" : 16,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
+    "token" : "aspirate",
+    "startOffset" : 20,
+    "endOffset" : 31,
     "position" : 3
-  }, {
-    "token" : "price",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguIuYNEXFMlzHLOgJ",
-  "text" : "What about our other contract?",
+  "id" : "AWoDhp8-DTAu_IiLeH7m",
+  "text" : "Other people's misfortune.",
   "translations" : {
-    "russian" : "А как же другое соглашение?"
+    "russian" : "Неудачи других людей."
   },
   "tokens" : [ {
-    "token" : "what",
+    "token" : "other",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "people",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "misfortune",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_I3DDTAu_IiLeYgV",
+  "text" : "Interacting with others.",
+  "translations" : {
+    "russian" : "Общается с остальными."
+  },
+  "tokens" : [ {
+    "token" : "interact",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "other",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHIh_DTAu_IiLeeok",
+  "text" : "Some. Others abstaining.",
+  "translations" : {
+    "russian" : "Остальные воздержались."
+  },
+  "tokens" : [ {
+    "token" : "some",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "about",
+    "token" : "other",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "abstain",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEehX4DTAu_IiLevwD",
+  "text" : "The other miner's dead.",
+  "translations" : {
+    "russian" : "Другой шахтер мертв."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "other",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "miner",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "dead",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmeMgDTAu_IiLe17F",
+  "text" : "Any other descriptors?",
+  "translations" : {
+    "russian" : "Ещё приметы?"
+  },
+  "tokens" : [ {
+    "token" : "any",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "other",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "descriptor",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEswtEDTAu_IiLe6fF",
+  "text" : "They complemented each other.",
+  "translations" : {
+    "russian" : "Они дополняли друг друга."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "complement",
+    "startOffset" : 5,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "each",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "other",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEswrmDTAu_IiLe6fE",
+  "text" : "We complemented each other.",
+  "translations" : {
+    "russian" : "Мы дополняли друг друга."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "complement",
+    "startOffset" : 3,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "each",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "other",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZXLsDTAu_IiLfbRu",
+  "text" : "Your other knee here.",
+  "translations" : {
+    "russian" : "Эту ногу вот так. Поднимитесь, нужно подняться."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "other",
     "startOffset" : 5,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "our",
+    "token" : "knee",
     "startOffset" : 11,
-    "endOffset" : 14,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "other",
-    "startOffset" : 15,
+    "token" : "here",
+    "startOffset" : 16,
     "endOffset" : 20,
     "position" : 3
-  }, {
-    "token" : "contract",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

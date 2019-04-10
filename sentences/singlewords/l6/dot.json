@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoEjyMSDTAu_IiLez9A",
+  "text" : "Dot, telephone Mr Butler.",
+  "translations" : {
+    "russian" : "Дот, звони мистеру Батлеру."
+  },
+  "tokens" : [ {
+    "token" : "dot",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "telephone",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "mr",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "butler",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRbDJDTAu_IiLfVWn",
+  "text" : "Check Camellia's room, Dot.",
+  "translations" : {
+    "russian" : "Проверь комнату Камелии, Дот."
+  },
+  "tokens" : [ {
+    "token" : "check",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "camellia",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "room",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "dot",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI96NDTAu_IiLef7B",
+  "text" : "Red dots are known militants.",
+  "translations" : {
+    "russian" : "Круто. Красными точками отмечены известные ополченцы."
+  },
+  "tokens" : [ {
+    "token" : "red",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dot",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "known",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "militant",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrthCNEXFMlzHLLaB",
   "text" : "All those dots are satellites.",
   "translations" : {
@@ -28,6 +117,39 @@
     "token" : "satellite",
     "startOffset" : 19,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI778DTAu_IiLef5e",
+  "text" : "Red dots are known militants.",
+  "translations" : {
+    "russian" : "Круто. Красными точками отмечены известные ополченцы."
+  },
+  "tokens" : [ {
+    "token" : "red",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dot",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "known",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "militant",
+    "startOffset" : 19,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null

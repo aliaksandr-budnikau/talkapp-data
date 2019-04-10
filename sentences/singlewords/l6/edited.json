@@ -37,6 +37,24 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoECb0KDTAu_IiLebDc",
+  "text" : "Film editing.",
+  "translations" : {
+    "russian" : "Music editing and sound, all TV production tools all the tools we use to produce magazine ads, newspaper insertsМонтаж и редактирование фильмов, музыки, звука, вся технологическая оснастка, связанная с телевидением, всё что мы используем для производства рекламы в журналах и печатных вставок."
+  },
+  "tokens" : [ {
+    "token" : "film",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "edit",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpih3NEXFMlzHLIZu",
   "text" : "You can edit later.",
   "translations" : {
@@ -67,6 +85,39 @@
     "startOffset" : 13,
     "endOffset" : 18,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMDmFDTAu_IiLfRPf",
+  "text" : "Edit out the initial shock.",
+  "translations" : {
+    "russian" : "Отбрось первоначальный шок."
+  },
+  "tokens" : [ {
+    "token" : "edit",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "out",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "initial",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "shock",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

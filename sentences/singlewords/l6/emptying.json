@@ -27,10 +27,66 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgd6ZMNEXFMlzHK7Ry",
-  "text" : "It's just an empty suit.",
+  "id" : "AWoEGjKUDTAu_IiLeeNq",
+  "text" : "You collect empty frames?",
   "translations" : {
-    "russian" : "Это просто пустой костюм."
+    "russian" : "Вы собираете пустые рамки?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "collect",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "empty",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "frame",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkR4DDTAu_IiLe0TH",
+  "text" : "Galley wench, we're empty!",
+  "translations" : {
+    "russian" : "Девушка с камбуза, мы все выпили!"
+  },
+  "tokens" : [ {
+    "token" : "galley",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wench",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "we're",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "empty",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRc4aDTAu_IiLfVYB",
+  "text" : "It's empty calories.",
+  "translations" : {
+    "russian" : "Только лишние калории."
   },
   "tokens" : [ {
     "token" : "it",
@@ -38,12 +94,91 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "just",
+    "token" : "empty",
     "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "calorie",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgXP0DTAu_IiLfgi9",
+  "text" : "You collect empty frames?",
+  "translations" : {
+    "russian" : "Вы собираете пустые рамки?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "collect",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "empty",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "frame",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRKxRDTAu_IiLd-U7",
+  "text" : "The aquarium is empty.",
+  "translations" : {
+    "russian" : "Аквариум пустой."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "aquarium",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "empty",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXstNDTAu_IiLerAO",
+  "text" : "The grove is empty.",
+  "translations" : {
+    "russian" : "Роща пуста."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "grove",
+    "startOffset" : 4,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "an",
+    "token" : "is",
     "startOffset" : 10,
     "endOffset" : 12,
     "position" : 2
@@ -52,18 +187,41 @@
     "startOffset" : 13,
     "endOffset" : 18,
     "position" : 3
-  }, {
-    "token" : "suit",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgm2pLNEXFMlzHLEma",
-  "text" : "The other tin is empty.",
+  "id" : "AWoEYPOJDTAu_IiLerYh",
+  "text" : "Galley wench, we're empty!",
   "translations" : {
-    "russian" : "Ещё одна банка пуста."
+    "russian" : "Девушка с камбуза, мы все выпили!"
+  },
+  "tokens" : [ {
+    "token" : "galley",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wench",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "we're",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "empty",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuzr9DTAu_IiLe74F",
+  "text" : "The jar is empty!",
+  "translations" : {
+    "russian" : "Кувшин пустой!"
   },
   "tokens" : [ {
     "token" : "the",
@@ -71,18 +229,186 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "other",
+    "token" : "jar",
     "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "empty",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQzJzDTAu_IiLfU3D",
+  "text" : "Coffers are empty, pal.",
+  "translations" : {
+    "russian" : "Казна пуста, приятель."
+  },
+  "tokens" : [ {
+    "token" : "coffer",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "empty",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "pal",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFagi5DTAu_IiLfcPE",
+  "text" : "Empty pot, rinse out...",
+  "translations" : {
+    "russian" : "Опустошить чайник, сполоснуть..."
+  },
+  "tokens" : [ {
+    "token" : "empty",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pot",
+    "startOffset" : 6,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "tin",
-    "startOffset" : 10,
-    "endOffset" : 13,
+    "token" : "rinse",
+    "startOffset" : 11,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "is",
+    "token" : "out",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDc6ufDTAu_IiLeFMT",
+  "text" : "Ballast tanks emptying.",
+  "translations" : {
+    "russian" : "Балласт танкеров освобождается."
+  },
+  "tokens" : [ {
+    "token" : "ballast",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tank",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "empty",
     "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbp2iDTAu_IiLfdJN",
+  "text" : "Empty pot, rinse out...",
+  "translations" : {
+    "russian" : "Опустошить чайник, сполоснуть..."
+  },
+  "tokens" : [ {
+    "token" : "empty",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pot",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "rinse",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "out",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoER4_KDTAu_IiLemoN",
+  "text" : "They're all empty, hollow, words.",
+  "translations" : {
+    "russian" : "Все это пустые слова."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "all",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "empty",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "hollow",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "word",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7jZWDTAu_IiLfEp7",
+  "text" : "No. The crib was empty.",
+  "translations" : {
+    "russian" : "Нет, колыбелька была пустая."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "crib",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "was",
+    "startOffset" : 13,
     "endOffset" : 16,
     "position" : 3
   }, {
@@ -93,43 +419,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmmOENEXFMlzHLEKS",
-  "text" : "Signore, that jug is empty.",
+  "id" : "AWoE-fDqDTAu_IiLfGy-",
+  "text" : "No. The crib was empty.",
   "translations" : {
-    "russian" : "Синьор, этот кувшин пуст."
-  },
-  "tokens" : [ {
-    "token" : "signore",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "jug",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "empty",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm2n9NEXFMlzHLEmY",
-  "text" : "No tin can be empty.",
-  "translations" : {
-    "russian" : "Ни одна банка не может быть пустой."
+    "russian" : "Нет, колыбелька была пустая."
   },
   "tokens" : [ {
     "token" : "no",
@@ -137,215 +430,25 @@
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "tin",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "can",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "be",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "empty",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglW3RNEXFMlzHLCZR",
-  "text" : "I got ta empty the tank.",
-  "translations" : {
-    "russian" : "Мне нужно опустошить бак."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "ta",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 2
-  }, {
-    "token" : "empty",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
     "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 4
-  }, {
-    "token" : "tank",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmLmvNEXFMlzHLDcp",
-  "text" : "Empty spot in the knife rack.",
-  "translations" : {
-    "russian" : "Пустая ячейка в подставке для ножей."
-  },
-  "tokens" : [ {
-    "token" : "empty",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "spot",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "knife",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "rack",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglZlnNEXFMlzHLCeL",
-  "text" : "Her backpack's always clinking with empties.",
-  "translations" : {
-    "russian" : "В её сумке всегда звенят пустые бутылки."
-  },
-  "tokens" : [ {
-    "token" : "her",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "backpack",
     "startOffset" : 4,
-    "endOffset" : 14,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "alway",
-    "startOffset" : 15,
-    "endOffset" : 21,
+    "token" : "crib",
+    "startOffset" : 8,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "clink",
-    "startOffset" : 22,
-    "endOffset" : 30,
+    "token" : "was",
+    "startOffset" : 13,
+    "endOffset" : 16,
     "position" : 3
   }, {
-    "token" : "with",
-    "startOffset" : 31,
-    "endOffset" : 35,
-    "position" : 4
-  }, {
     "token" : "empty",
-    "startOffset" : 36,
-    "endOffset" : 43,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgma9DNEXFMlzHLD3H",
-  "text" : "Walnut and raisin, dishes are empty.",
-  "translations" : {
-    "russian" : "Тарелки для орехов и изюма пустые."
-  },
-  "tokens" : [ {
-    "token" : "walnut",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "and",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "raisin",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "h",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "are",
-    "startOffset" : 26,
-    "endOffset" : 29,
+    "startOffset" : 17,
+    "endOffset" : 22,
     "position" : 4
-  }, {
-    "token" : "empty",
-    "startOffset" : 30,
-    "endOffset" : 35,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmyERNEXFMlzHLEeq",
-  "text" : "His free will slot is empty.",
-  "translations" : {
-    "russian" : "Слот его свободы воли пуст."
-  },
-  "tokens" : [ {
-    "token" : "his",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "free",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "will",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "slot",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "is",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "empty",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

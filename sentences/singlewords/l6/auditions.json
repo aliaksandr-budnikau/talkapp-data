@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoDx3WDDTAu_IiLeRBV",
+  "text" : "Broadway audition?",
+  "translations" : {
+    "russian" : "Бродвейское прослушивание?"
+  },
+  "tokens" : [ {
+    "token" : "broadway",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "audition",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbHWsNEXFMlzHK40z",
   "text" : "I did not audition.",
   "translations" : {
@@ -60,6 +78,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEGslSDTAu_IiLeeUd",
+  "text" : "Auditions are Monday. Callbacks are Tuesday.",
+  "translations" : {
+    "russian" : "Пробы в понедельник, перезвонят вам во вторник."
+  },
+  "tokens" : [ {
+    "token" : "audition",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "monday",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "callback",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "are",
+    "startOffset" : 32,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "tuesday",
+    "startOffset" : 36,
+    "endOffset" : 43,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggzGoNEXFMlzHK9x5",
   "text" : "Which character are you auditioning for?",
   "translations" : {
@@ -94,6 +150,44 @@
     "token" : "for",
     "startOffset" : 36,
     "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGbwLDTAu_IiLeeIb",
+  "text" : "Auditions are Monday. Callbacks are Tuesday.",
+  "translations" : {
+    "russian" : "Пробы в понедельник, перезвонят вам во вторник."
+  },
+  "tokens" : [ {
+    "token" : "audition",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "monday",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "callback",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "are",
+    "startOffset" : 32,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "tuesday",
+    "startOffset" : 36,
+    "endOffset" : 43,
     "position" : 5
   } ],
   "contentScore" : null

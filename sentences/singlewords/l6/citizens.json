@@ -98,6 +98,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD9i-9DTAu_IiLeXT1",
+  "text" : "An innocent, upright citizen?",
+  "translations" : {
+    "russian" : "Честный и порядочный?"
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "innocent",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "upright",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "citizen",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgt3v3NEXFMlzHLOE2",
   "text" : "Prominent citizen, lawyer, corpse.",
   "translations" : {
@@ -122,6 +150,34 @@
     "token" : "corpse",
     "startOffset" : 27,
     "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKb3WDTAu_IiLfP_2",
+  "text" : "Citizens of Emerald City.",
+  "translations" : {
+    "russian" : "Граждане Изумрудного Города."
+  },
+  "tokens" : [ {
+    "token" : "citizen",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "emerald",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "city",
+    "startOffset" : 20,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
@@ -291,6 +347,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDV8hWDTAu_IiLeBcY",
+  "text" : "I'm a citizen of Antwerp.",
+  "translations" : {
+    "russian" : "Я житель Антверпена."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "citizen",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "antwerp",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgn7alNEXFMlzHLGQj",
   "text" : "This is citizen journalism, Ian.",
   "translations" : {
@@ -395,40 +484,40 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgt3oDNEXFMlzHLOEo",
-  "text" : "I spoke with citizens who say.",
+  "id" : "AWoE4bajDTAu_IiLfCqc",
+  "text" : "You downloaded senior citizen lesbian porn.",
   "translations" : {
-    "russian" : "Я поговорил с горожанами которые говорят."
+    "russian" : "Ты загрузила порно лесбиянок-пенсионерок."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "you",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "spoke",
-    "startOffset" : 2,
-    "endOffset" : 7,
+    "token" : "download",
+    "startOffset" : 4,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "with",
-    "startOffset" : 8,
-    "endOffset" : 12,
+    "token" : "senior",
+    "startOffset" : 15,
+    "endOffset" : 21,
     "position" : 2
   }, {
     "token" : "citizen",
-    "startOffset" : 13,
-    "endOffset" : 21,
+    "startOffset" : 22,
+    "endOffset" : 29,
     "position" : 3
   }, {
-    "token" : "who",
-    "startOffset" : 22,
-    "endOffset" : 25,
+    "token" : "lesbian",
+    "startOffset" : 30,
+    "endOffset" : 37,
     "position" : 4
   }, {
-    "token" : "say",
-    "startOffset" : 26,
-    "endOffset" : 29,
+    "token" : "porn",
+    "startOffset" : 38,
+    "endOffset" : 42,
     "position" : 5
   } ],
   "contentScore" : null

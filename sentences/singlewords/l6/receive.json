@@ -32,6 +32,72 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoENgdgDTAu_IiLejbJ",
+  "text" : "You'll receive medication.",
+  "translations" : {
+    "russian" : "Ты получишь лечение."
+  },
+  "tokens" : [ {
+    "token" : "you'll",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "receive",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "medication",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "medicate",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEs0nbDTAu_IiLe6hv",
+  "text" : "I've received another notification.",
+  "translations" : {
+    "russian" : "Я опять получила уведомление."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "received",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "receive",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "another",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "notification",
+    "startOffset" : 22,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "notify",
+    "startOffset" : 22,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoDdONEXFMlzHLGUj",
   "text" : "Ozzie, received your dispatch.",
   "translations" : {
@@ -105,6 +171,29 @@
     "startOffset" : 15,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKzmiDTAu_IiLfQR3",
+  "text" : "Receiving you, Survey.",
+  "translations" : {
+    "russian" : "Мы на связи, Разведчик."
+  },
+  "tokens" : [ {
+    "token" : "receive",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "survey",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -255,6 +344,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEZjZaDTAu_IiLesR_",
+  "text" : "Whale shown receives a harpoon.",
+  "translations" : {
+    "russian" : "Фонтанирующих китов гарпунят!"
+  },
+  "tokens" : [ {
+    "token" : "whale",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "shown",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "receive",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "harpoon",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqYAENEXFMlzHLJj_",
   "text" : "Commander, we're receiving a transmission.",
   "translations" : {
@@ -289,6 +411,72 @@
     "token" : "transmission",
     "startOffset" : 29,
     "endOffset" : 41,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwtdyDTAu_IiLeQb1",
+  "text" : "Shankara receives initiation into Brahmanism.",
+  "translations" : {
+    "russian" : "Шанкара получает инициацию в Брамины."
+  },
+  "tokens" : [ {
+    "token" : "shankara",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "receive",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "initiation",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "into",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "brahmanism",
+    "startOffset" : 34,
+    "endOffset" : 44,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBPHUDTAu_IiLeaHX",
+  "text" : "He's not receiving visitors today.",
+  "translations" : {
+    "russian" : "Сегодня к нему никаких визитов."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "receive",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "visitor",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "today",
+    "startOffset" : 28,
+    "endOffset" : 33,
     "position" : 4
   } ],
   "contentScore" : null
@@ -366,120 +554,6 @@
     "startOffset" : 20,
     "endOffset" : 28,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdaG9NEXFMlzHK64F",
-  "text" : "I didn't receive any more letters.",
-  "translations" : {
-    "russian" : "С тех пор, я не получала больше писем."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "didn't",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "receive",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "any",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "more",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "letter",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgda4xNEXFMlzHK64a",
-  "text" : "Just ask and ye shall receive.",
-  "translations" : {
-    "russian" : "Просто просите, и получите."
-  },
-  "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "ask",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "ye",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "shall",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "receive",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdbKHNEXFMlzHK64n",
-  "text" : "O Lord... receive my sinful soul.",
-  "translations" : {
-    "russian" : "Господи... прими душу мою грешную."
-  },
-  "tokens" : [ {
-    "token" : "o",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "lord",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "receive",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "sinful",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "soul",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

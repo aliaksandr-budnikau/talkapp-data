@@ -1,8 +1,44 @@
 [ {
-  "id" : "AWbgt_W0NEXFMlzHLORH",
-  "text" : "Michael doesn't have dead grass.",
+  "id" : "AWoFCnMJDTAu_IiLfJ_m",
+  "text" : "Needle, Michael.",
   "translations" : {
-    "russian" : "У Майкла трава живая."
+    "russian" : "Укол, Майкл."
+  },
+  "tokens" : [ {
+    "token" : "needle",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "michael",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFF_01DTAu_IiLfMa-",
+  "text" : "Needle, Michael.",
+  "translations" : {
+    "russian" : "Укол, Майкл."
+  },
+  "tokens" : [ {
+    "token" : "needle",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "michael",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7uv2DTAu_IiLeV7e",
+  "text" : "Michael Vector.",
+  "translations" : {
+    "russian" : "Бейтоя."
   },
   "tokens" : [ {
     "token" : "michael",
@@ -10,51 +46,362 @@
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "doesn't",
+    "token" : "vector",
     "startOffset" : 8,
-    "endOffset" : 15,
+    "endOffset" : 14,
     "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "dead",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "grass",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgx7GFNEXFMlzHLT_g",
-  "text" : "He's got a point, Michael.",
+  "id" : "AWoEKqDqDTAu_IiLehLd",
+  "text" : "Michael Rowan.",
   "translations" : {
-    "russian" : "Майкл, а он дело говорит."
+    "russian" : "Майкл Роуэн."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "michael",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "rowan",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErh8lDTAu_IiLe5qY",
+  "text" : "Father Michael molested him.",
+  "translations" : {
+    "russian" : "Отец Майкл растлил его."
+  },
+  "tokens" : [ {
+    "token" : "father",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "michael",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "molested",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "molest",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "him",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFB0HsDTAu_IiLfJZh",
+  "text" : "I'm swamped, Michael.",
+  "translations" : {
+    "russian" : "У меня дел по горло, Майкл."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "swamp",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "michael",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHtZnDTAu_IiLfNxa",
+  "text" : "I apologize, Michael.",
+  "translations" : {
+    "russian" : "Я извиняюсь, Майкл."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "apologize",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "michael",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWd-GDTAu_IiLfY99",
+  "text" : "Sir Michael Pritchett QC.",
+  "translations" : {
+    "russian" : "Сэр Майкл Притчетт, королевский адвокат."
+  },
+  "tokens" : [ {
+    "token" : "sir",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "michael",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "pritchett",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "qc",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4KD0DTAu_IiLeUI_",
+  "text" : "Michael... Vacancy's been filled.",
+  "translations" : {
+    "russian" : "Майкл..... вакансия уже занята."
+  },
+  "tokens" : [ {
+    "token" : "michael",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "vacancy",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "been",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "filled",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "fill",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELJphDTAu_IiLehkR",
+  "text" : "Michael Raven, entertainer.",
+  "translations" : {
+    "russian" : "Майкл Рэйвен, эстрадный певец."
+  },
+  "tokens" : [ {
+    "token" : "michael",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "raven",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "entertainer",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "entertain",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEr10HDTAu_IiLe531",
+  "text" : "Father Michael molested him.",
+  "translations" : {
+    "russian" : "Отец Майкл растлил его."
+  },
+  "tokens" : [ {
+    "token" : "father",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "michael",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "molested",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "molest",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "him",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuV0RDTAu_IiLePAS",
+  "text" : "I'm swamped, Michael.",
+  "translations" : {
+    "russian" : "У меня дел по горло, Майкл."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "swamp",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "michael",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDkFCwDTAu_IiLeJTF",
+  "text" : "Play it lightly, Michael.",
+  "translations" : {
+    "russian" : "Играйте легче, Майкл."
+  },
+  "tokens" : [ {
+    "token" : "play",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "got",
+    "token" : "it",
     "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "lightly",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "michael",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBwQYDTAu_IiLfJWq",
+  "text" : "I'm swamped, Michael.",
+  "translations" : {
+    "russian" : "У меня дел по горло, Майкл."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "swamp",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "michael",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3tGvDTAu_IiLfCKx",
+  "text" : "Michael Scott can't be overstated.",
+  "translations" : {
+    "russian" : "Майклом Скоттом нельзя преувеличивать."
+  },
+  "tokens" : [ {
+    "token" : "michael",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "scott",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "can't",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "overstate",
+    "startOffset" : 23,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWPx_DTAu_IiLep9c",
+  "text" : "The rash is back, Michael.",
+  "translations" : {
+    "russian" : "Сыпь вернулась, Майкл."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "rash",
+    "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "a",
+    "token" : "is",
     "startOffset" : 9,
-    "endOffset" : 10,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "point",
-    "startOffset" : 11,
+    "token" : "back",
+    "startOffset" : 12,
     "endOffset" : 16,
     "position" : 3
   }, {
@@ -62,318 +409,6 @@
     "startOffset" : 18,
     "endOffset" : 25,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeHZzNEXFMlzHK7c9",
-  "text" : "Michael doesn't have dead grass.",
-  "translations" : {
-    "russian" : "У Майкла трава живая."
-  },
-  "tokens" : [ {
-    "token" : "michael",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "doesn't",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "dead",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "grass",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiOSxNEXFMlzHK-_l",
-  "text" : "Oh, the plot thickens, Michael.",
-  "translations" : {
-    "russian" : "О, интрига растет, Михаил."
-  },
-  "tokens" : [ {
-    "token" : "oh",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "plot",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "thick",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "michael",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkuo9NEXFMlzHLBW5",
-  "text" : "Michael, this isn't a game.",
-  "translations" : {
-    "russian" : "Майкл, это уже не шутки."
-  },
-  "tokens" : [ {
-    "token" : "michael",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "this",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "isn't",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 20,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "game",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgq-hTNEXFMlzHLKUj",
-  "text" : "Michael, this isn't a game.",
-  "translations" : {
-    "russian" : "Майкл, это уже не шутки."
-  },
-  "tokens" : [ {
-    "token" : "michael",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "this",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "isn't",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 20,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "game",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmEgYNEXFMlzHLDQV",
-  "text" : "In the dining room, Michael.",
-  "translations" : {
-    "russian" : "Зайди в гостиную, Майкл. Живо."
-  },
-  "tokens" : [ {
-    "token" : "in",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "din",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "room",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "michael",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgooWNNEXFMlzHLHNX",
-  "text" : "Michael, when's this gonna stop?",
-  "translations" : {
-    "russian" : "Майкл, когда же это кончится?"
-  },
-  "tokens" : [ {
-    "token" : "michael",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "when's",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "gonna",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "stop",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy7tRNEXFMlzHLVbL",
-  "text" : "You've trained him well, Michael.",
-  "translations" : {
-    "russian" : "Ты хорошо тренировал его, Михаил."
-  },
-  "tokens" : [ {
-    "token" : "you've",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "trained",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "train",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "well",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "michael",
-    "startOffset" : 25,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtp9zNEXFMlzHLNwl",
-  "text" : "Michael Fassbender's trapped in a well!",
-  "translations" : {
-    "russian" : "Майкл Фассбендер тоже в ловушке!"
-  },
-  "tokens" : [ {
-    "token" : "michael",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "fassbender's",
-    "startOffset" : 8,
-    "endOffset" : 20,
-    "position" : 1
-  }, {
-    "token" : "trapped",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 29,
-    "endOffset" : 31,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 32,
-    "endOffset" : 33,
-    "position" : 4
-  }, {
-    "token" : "well",
-    "startOffset" : 34,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzKZPNEXFMlzHLV5S",
-  "text" : "Michael Pope's still on the subway.",
-  "translations" : {
-    "russian" : "Майкл Поуп все еще в метро."
-  },
-  "tokens" : [ {
-    "token" : "michael",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "pope",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "still",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "subway",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -26,4 +26,65 @@
     "position" : 3
   } ],
   "contentScore" : null
+}, {
+  "id" : "AWoE9QN4DTAu_IiLfFz0",
+  "text" : "I'm freezing, Randy.",
+  "translations" : {
+    "russian" : "Я замерзаю, Рэнди. Не могу больше..."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "freezing",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "freeze",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "randy",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfwKIDTAu_IiLewuc",
+  "text" : "Randy, I'm defusing a grenade!",
+  "translations" : {
+    "russian" : "Рэнди, я тут гранату обезвреживаю!"
+  },
+  "tokens" : [ {
+    "token" : "randy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "i'm",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "fuse",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 20,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "grenade",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
 } ]

@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoFdBkmDTAu_IiLfeLu",
+  "text" : "Duck comfit?",
+  "translations" : {
+    "russian" : "Утку по-французски?"
+  },
+  "tokens" : [ {
+    "token" : "duck",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "comfit",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoJTjNEXFMlzHLGdR",
   "text" : "Item one duck!",
   "translations" : {
@@ -18,6 +36,85 @@
     "token" : "duck",
     "startOffset" : 9,
     "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDaF5sDTAu_IiLeDj1",
+  "text" : "Lobster, duck or asparagus?",
+  "translations" : {
+    "russian" : "Лобстер, утка или спаржа?"
+  },
+  "tokens" : [ {
+    "token" : "lobster",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "duck",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "or",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "asparagus",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEF5rhDTAu_IiLedvP",
+  "text" : "It's a duck pond.",
+  "translations" : {
+    "russian" : "Что это? Это прудик для уток."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "duck",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "pond",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXZmNDTAu_IiLfZpg",
+  "text" : "Duck... feint... clinch!",
+  "translations" : {
+    "russian" : "Нырок... финт... захват!"
+  },
+  "tokens" : [ {
+    "token" : "duck",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "feint",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "clinch",
+    "startOffset" : 17,
+    "endOffset" : 23,
     "position" : 2
   } ],
   "contentScore" : null
@@ -51,6 +148,336 @@
     "token" : "duck",
     "startOffset" : 21,
     "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh-01DTAu_IiLeygI",
+  "text" : "A pan-seared duck breast.",
+  "translations" : {
+    "russian" : "Жареная утиная грудка."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "pan",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "sear",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "duck",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "breast",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLSzsDTAu_IiLfQp-",
+  "text" : "Next, I'll mimic a duck.",
+  "translations" : {
+    "russian" : "А теперь я изображу утку."
+  },
+  "tokens" : [ {
+    "token" : "next",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "i'll",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "mimic",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "duck",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuj-0DTAu_IiLePJJ",
+  "text" : "Any little duck can quack...",
+  "translations" : {
+    "russian" : "Если ты утенок - крякай."
+  },
+  "tokens" : [ {
+    "token" : "any",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "little",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "duck",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "can",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "quack",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEc2ZYDTAu_IiLeuer",
+  "text" : "The duck was an oboe?",
+  "translations" : {
+    "russian" : "Уткой был гобой?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "duck",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "an",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "oboe",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLZNtDTAu_IiLfQu2",
+  "text" : "Next, I'll mimic a duck.",
+  "translations" : {
+    "russian" : "А теперь я изображу утку."
+  },
+  "tokens" : [ {
+    "token" : "next",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "i'll",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "mimic",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "duck",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXfaCDTAu_IiLfZtx",
+  "text" : "It's a slippery slope, Duck.",
+  "translations" : {
+    "russian" : "Это скользкий путь, Даки."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "slippery",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "slope",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "duck",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnbmqDTAu_IiLeLId",
+  "text" : "It's a slippery slope, Duck.",
+  "translations" : {
+    "russian" : "Это скользкий путь, Даки."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "slippery",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "slope",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "duck",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXoDCDTAu_IiLeq8-",
+  "text" : "Eider ducks break the silence.",
+  "translations" : {
+    "russian" : "Утки Eider нарушают тишину."
+  },
+  "tokens" : [ {
+    "token" : "eider",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "duck",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "break",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "silence",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLHT7DTAu_IiLfQhC",
+  "text" : "Next, I'll mimic a duck.",
+  "translations" : {
+    "russian" : "А теперь я изображу утку."
+  },
+  "tokens" : [ {
+    "token" : "next",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "i'll",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "mimic",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "duck",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_SFyDTAu_IiLfHco",
+  "text" : "Cows and rabbits and ducks.",
+  "translations" : {
+    "russian" : "Коровы, кролики и утки."
+  },
+  "tokens" : [ {
+    "token" : "cow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "rabbit",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "duck",
+    "startOffset" : 21,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null

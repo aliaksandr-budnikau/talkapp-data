@@ -1,4 +1,88 @@
 [ {
+  "id" : "AWoFb1bDDTAu_IiLfdSV",
+  "text" : "Console's jammed!",
+  "translations" : {
+    "russian" : "Консоль заблокировалась!"
+  },
+  "tokens" : [ {
+    "token" : "console's",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "jammed",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEB-60DTAu_IiLeasX",
+  "text" : "But his rifle jammed!",
+  "translations" : {
+    "russian" : "Но его ружьё заклинило!"
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "his",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "rifle",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "jammed",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGz5wDTAu_IiLfNCY",
+  "text" : "Communication channels are jammed, captain.",
+  "translations" : {
+    "russian" : "Коммуникационные каналы забиты, капитан."
+  },
+  "tokens" : [ {
+    "token" : "communication",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "communicate",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "channel",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "jammed",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "captain",
+    "startOffset" : 35,
+    "endOffset" : 42,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmy4_NEXFMlzHLEf9",
   "text" : "But the coin slot's jammed.",
   "translations" : {
@@ -29,6 +113,44 @@
     "startOffset" : 20,
     "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGz7EDTAu_IiLfNCZ",
+  "text" : "All channels are totally jammed, captain.",
+  "translations" : {
+    "russian" : "Все каналы полностью блокированы, капитан."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "channel",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "total",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "jammed",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "captain",
+    "startOffset" : 33,
+    "endOffset" : 40,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

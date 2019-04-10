@@ -1,0 +1,80 @@
+[ {
+  "id" : "AWoFeLXhDTAu_IiLffAo",
+  "text" : "Petrol fumes?",
+  "translations" : {
+    "russian" : "Бензиновых выхлопов?"
+  },
+  "tokens" : [ {
+    "token" : "petrol",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fume",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeLVkDTAu_IiLffAn",
+  "text" : "End of petrol fumes.",
+  "translations" : {
+    "russian" : "Никаких бензиновых выхлопов."
+  },
+  "tokens" : [ {
+    "token" : "end",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "petrol",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "fume",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZuY3DTAu_IiLesZJ",
+  "text" : "I've doused it in petrol.",
+  "translations" : {
+    "russian" : "Я облила все бензином."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "douse",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "petrol",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

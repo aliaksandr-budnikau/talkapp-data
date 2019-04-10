@@ -1,77 +1,369 @@
 [ {
-  "id" : "AWbgmG23NEXFMlzHLDUW",
-  "text" : "I spilled brake fluid on myself.",
+  "id" : "AWoDdJESDTAu_IiLeFUP",
+  "text" : "Embalming fluid.",
   "translations" : {
-    "russian" : "Я пролил на себя тормозную жидкость."
+    "russian" : "Бальзамирующий состав."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "embalm",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 9,
     "position" : 0
   }, {
-    "token" : "spill",
-    "startOffset" : 2,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "brake",
+    "token" : "fluid",
     "startOffset" : 10,
     "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "fluid",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "on",
-    "startOffset" : 22,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "myself",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 5
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgw3yeNEXFMlzHLSnk",
-  "text" : "Then I removed excess amniotic fluid.",
+  "id" : "AWoDdJW0DTAu_IiLeFUZ",
+  "text" : "Embalming fluid?",
   "translations" : {
-    "russian" : "Затем я удалила излишки амниотической жидкости."
+    "russian" : "В формалине?"
   },
   "tokens" : [ {
-    "token" : "th",
+    "token" : "embalm",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "fluid",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdMMaDTAu_IiLeFV8",
+  "text" : "Embalming fluid.",
+  "translations" : {
+    "russian" : "Бальзамирующий состав."
+  },
+  "tokens" : [ {
+    "token" : "embalm",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "fluid",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdJC4DTAu_IiLeFUO",
+  "text" : "Embalming fluid?",
+  "translations" : {
+    "russian" : "Бальзамирующий состав?"
+  },
+  "tokens" : [ {
+    "token" : "embalm",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "fluid",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdMdsDTAu_IiLeFWG",
+  "text" : "Embalming fluid?",
+  "translations" : {
+    "russian" : "В формалине?"
+  },
+  "tokens" : [ {
+    "token" : "embalm",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "fluid",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdMKqDTAu_IiLeFV7",
+  "text" : "Embalming fluid?",
+  "translations" : {
+    "russian" : "Бальзамирующий состав?"
+  },
+  "tokens" : [ {
+    "token" : "embalm",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "fluid",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdHPfDTAu_IiLeFTQ",
+  "text" : "It's embalming fluid.",
+  "translations" : {
+    "russian" : "Это жидкость для бальзамирования."
+  },
+  "tokens" : [ {
+    "token" : "it",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "i",
+    "token" : "embalm",
     "startOffset" : 5,
-    "endOffset" : 6,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "move",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "excess",
+    "token" : "fluid",
     "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdHCkDTAu_IiLeFTK",
+  "text" : "Yeah, embalming fluid.",
+  "translations" : {
+    "russian" : "Ага, жидкость для бальзамирования."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
-    "token" : "amniotic",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 4
+    "token" : "embalm",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
   }, {
     "token" : "fluid",
-    "startOffset" : 31,
-    "endOffset" : 36,
-    "position" : 5
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdHF0DTAu_IiLeFTM",
+  "text" : "That's embalming fluid.",
+  "translations" : {
+    "russian" : "Это жидкость для бальзамирования."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "embalm",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "fluid",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJIstDTAu_IiLegCi",
+  "text" : "They're fluid-filled cysts.",
+  "translations" : {
+    "russian" : "Это цисты, заполненные жидкостью."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "fluid",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "filled",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "fill",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "cyst",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdKOSDTAu_IiLeFU3",
+  "text" : "Yeah, embalming fluid.",
+  "translations" : {
+    "russian" : "Ага, жидкость для бальзамирования."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "embalm",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "fluid",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdKXiDTAu_IiLeFU9",
+  "text" : "It's embalming fluid.",
+  "translations" : {
+    "russian" : "Это жидкость для бальзамирования."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "embalm",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "fluid",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoENX-DDTAu_IiLejVp",
+  "text" : "Bodily fluid storage facility?",
+  "translations" : {
+    "russian" : "Целиком жидкое средство хранения?"
+  },
+  "tokens" : [ {
+    "token" : "bodily",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fluid",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "storage",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "facility",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdKR5DTAu_IiLeFU5",
+  "text" : "That's embalming fluid.",
+  "translations" : {
+    "russian" : "Это жидкость для бальзамирования."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "embalm",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "fluid",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJ-UaDTAu_IiLfPoo",
+  "text" : "The fluid insulates them.",
+  "translations" : {
+    "russian" : "Жидкость их изолирует."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "fluid",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "insulate",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "them",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdMV-DTAu_IiLeFWC",
+  "text" : "Disinfectant, burnt coffee, embalming fluid.",
+  "translations" : {
+    "russian" : "Дезинфицирующее средство, горелый кофе, формалин."
+  },
+  "tokens" : [ {
+    "token" : "disinfectant",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "burnt",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "coffee",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "embalm",
+    "startOffset" : 28,
+    "endOffset" : 37,
+    "position" : 3
+  }, {
+    "token" : "fluid",
+    "startOffset" : 38,
+    "endOffset" : 43,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

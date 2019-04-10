@@ -106,6 +106,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFjtYjDTAu_IiLfinL",
+  "text" : "I'm begging you, Ken.",
+  "translations" : {
+    "russian" : "Кен-сан."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "begging",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "ken",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtMEqNEXFMlzHLNaJ",
   "text" : "Begging is prohibited.",
   "translations" : {
@@ -435,44 +463,6 @@
     "token" : "months",
     "startOffset" : 26,
     "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtHNdNEXFMlzHLNVQ",
-  "text" : "You're not begging to come upstairs?",
-  "translations" : {
-    "russian" : "Ты не умоляешь, чтобы подняться наверх?"
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "begging",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "come",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "upstairs",
-    "startOffset" : 27,
-    "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null

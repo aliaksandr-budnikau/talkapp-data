@@ -1,4 +1,75 @@
 [ {
+  "id" : "AWoEKZyvDTAu_IiLeg-m",
+  "text" : "Alone with my demanding imaginations.",
+  "translations" : {
+    "russian" : "Один с моими требовательными фантазиями."
+  },
+  "tokens" : [ {
+    "token" : "alone",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "demanding",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "demand",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "imagination",
+    "startOffset" : 24,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKntpDTAu_IiLfQIl",
+  "text" : "Otis, I demand explication!",
+  "translations" : {
+    "russian" : "Отис, я требую объяснений."
+  },
+  "tokens" : [ {
+    "token" : "otis",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "demand",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "explication",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "explicate",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtxPDNEXFMlzHLN6h",
   "text" : "Victory will demand sweat.",
   "translations" : {
@@ -27,209 +98,174 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgunloNEXFMlzHLPdk",
-  "text" : "Your innermost feminist demanded satisfaction.",
+  "id" : "AWoEB6-SDTAu_IiLeapI",
+  "text" : "Will hover on demand.",
   "translations" : {
-    "russian" : "Твоя сокровенная феминистка потребовала удовлетворения."
+    "russian" : "Витаю по заказу."
   },
   "tokens" : [ {
-    "token" : "your",
+    "token" : "will",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "innermost",
+    "token" : "hover",
     "startOffset" : 5,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "feminist",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "demand",
-    "startOffset" : 24,
-    "endOffset" : 32,
-    "position" : 3
-  }, {
-    "token" : "satisfaction",
-    "startOffset" : 33,
-    "endOffset" : 45,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcRGyNEXFMlzHK53P",
-  "text" : "This puts pressure on food demand.",
-  "translations" : {
-    "russian" : "Это вызывает проблему нехватки продовольствия."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "put",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "pressure",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "food",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "demand",
-    "startOffset" : 27,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxIkqNEXFMlzHLS4f",
-  "text" : "They demand to hand you over.",
-  "translations" : {
-    "russian" : "На станциях бунтуют рабочие, требуют выдать Вас."
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "demand",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "hand",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "you",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "over",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgffTWNEXFMlzHK8qZ",
-  "text" : "He demands that I dissolve it.",
-  "translations" : {
-    "russian" : "Он требует, чтобы я расторг его."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "demand",
-    "startOffset" : 3,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "that",
+    "token" : "hove",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "on",
     "startOffset" : 11,
-    "endOffset" : 15,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "i",
-    "startOffset" : 16,
-    "endOffset" : 17,
+    "token" : "demand",
+    "startOffset" : 14,
+    "endOffset" : 20,
     "position" : 3
-  }, {
-    "token" : "dissolve",
-    "startOffset" : 18,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "it",
-    "startOffset" : 27,
-    "endOffset" : 29,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsWR0NEXFMlzHLMUO",
-  "text" : "This puts pressure on food demand.",
+  "id" : "AWoFKnwMDTAu_IiLfQIm",
+  "text" : "Otis, I demand explication!",
   "translations" : {
-    "russian" : "Это вызывает проблему нехватки продовольствия."
+    "russian" : "Отис, я требую объяснений."
   },
   "tokens" : [ {
-    "token" : "this",
+    "token" : "otis",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "put",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "token" : "i",
+    "startOffset" : 6,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "pressure",
-    "startOffset" : 10,
-    "endOffset" : 18,
+    "token" : "demand",
+    "startOffset" : 8,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "on",
-    "startOffset" : 19,
-    "endOffset" : 21,
+    "token" : "explication",
+    "startOffset" : 15,
+    "endOffset" : 26,
     "position" : 3
   }, {
-    "token" : "food",
-    "startOffset" : 22,
+    "token" : "explicate",
+    "startOffset" : 15,
     "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "demand",
-    "startOffset" : 27,
-    "endOffset" : 33,
-    "position" : 5
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgukpmNEXFMlzHLPXn",
-  "text" : "Harvey, you can't demand acceptance overnight.",
+  "id" : "AWoE-6UJDTAu_IiLfHJZ",
+  "text" : "Victory will demand sweat.",
   "translations" : {
-    "russian" : "Харви, ты не можешь требовать мгновенного признания."
+    "russian" : "Победа требует пота."
   },
   "tokens" : [ {
-    "token" : "harvey",
+    "token" : "victory",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "you",
+    "token" : "will",
     "startOffset" : 8,
-    "endOffset" : 11,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "can't",
-    "startOffset" : 12,
+    "token" : "demand",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "sweat",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwOnRDTAu_IiLeQJy",
+  "text" : "Demanded Brazil nuts.",
+  "translations" : {
+    "russian" : "Требуются бразильские орехи."
+  },
+  "tokens" : [ {
+    "token" : "demand",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "brazil",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "nut",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFC-szDTAu_IiLfKQp",
+  "text" : "I demand a requisition.",
+  "translations" : {
+    "russian" : "Я выдаю предписание."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "demand",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "requisition",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "requisite",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5fWMDTAu_IiLeUvg",
+  "text" : "Qualities much in demand hereabout.",
+  "translations" : {
+    "russian" : "Весьма востребованные качества здесь."
+  },
+  "tokens" : [ {
+    "token" : "quality",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "much",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 15,
     "endOffset" : 17,
     "position" : 2
   }, {
@@ -238,15 +274,241 @@
     "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "acceptance",
+    "token" : "hereabout",
     "startOffset" : 25,
-    "endOffset" : 35,
+    "endOffset" : 34,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5gWrDTAu_IiLeUv4",
+  "text" : "Qualities much in demand hereabout.",
+  "translations" : {
+    "russian" : "Весьма востребованные качества здесь."
+  },
+  "tokens" : [ {
+    "token" : "quality",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
   }, {
-    "token" : "overnight",
-    "startOffset" : 36,
-    "endOffset" : 45,
-    "position" : 5
+    "token" : "much",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "demand",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "hereabout",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvBMGDTAu_IiLe8BY",
+  "text" : "She can wink on demand.",
+  "translations" : {
+    "russian" : "Она может подмигнуть по требованию."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "wink",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "demand",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJH3qDTAu_IiLfO8s",
+  "text" : "Every new regime demands betrayal.",
+  "translations" : {
+    "russian" : "Каждый новый режим требует предательства."
+  },
+  "tokens" : [ {
+    "token" : "every",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "new",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "regime",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "demand",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "betrayal",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpDFWDTAu_IiLe34-",
+  "text" : "Manuela, I demand total discipline.",
+  "translations" : {
+    "russian" : "Мануэла, я требую полной дисциплины."
+  },
+  "tokens" : [ {
+    "token" : "manuela",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "demand",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "total",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "discipline",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE69ADDTAu_IiLfERf",
+  "text" : "Our clientele demands constant access.",
+  "translations" : {
+    "russian" : "Наша клиентура нуждается в постоянном доступе."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "clientele",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "demand",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "constant",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "access",
+    "startOffset" : 31,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzdyCDTAu_IiLeR6N",
+  "text" : "And their demands, the nagging...",
+  "translations" : {
+    "russian" : "Их требования, их нытье..."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "their",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "demand",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "nagging",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEecpTDTAu_IiLevsc",
+  "text" : "Rex demanded a wider horizon.",
+  "translations" : {
+    "russian" : "Рексу нужны были широкие горизонты."
+  },
+  "tokens" : [ {
+    "token" : "rex",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "demand",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "wide",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "horizon",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

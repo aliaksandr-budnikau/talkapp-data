@@ -1,41 +1,60 @@
 [ {
-  "id" : "AWbgop0bNEXFMlzHLHPd",
-  "text" : "Nothing stops this goose!",
+  "id" : "AWoEi8T4DTAu_IiLezR7",
+  "text" : "Goose!",
   "translations" : {
-    "russian" : "Да уймись ты наконец, сорока!"
+    "russian" : "Эй, Гус!"
   },
   "tokens" : [ {
-    "token" : "nothing",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "stops",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "stop",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
     "token" : "goose",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgl3ltNEXFMlzHLC_a",
-  "text" : "Goose, Hollywood's OK.",
+  "id" : "AWoEi4iWDTAu_IiLezPB",
+  "text" : "Goose!",
   "translations" : {
-    "russian" : "Гусь, с Голливудом все в порядке."
+    "russian" : "Эй, Гус!"
+  },
+  "tokens" : [ {
+    "token" : "goose",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi5AIDTAu_IiLezPa",
+  "text" : "Goose.",
+  "translations" : {
+    "russian" : "Утка?"
+  },
+  "tokens" : [ {
+    "token" : "goose",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi84hDTAu_IiLezSU",
+  "text" : "Goose.",
+  "translations" : {
+    "russian" : "Утка?"
+  },
+  "tokens" : [ {
+    "token" : "goose",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi76-DTAu_IiLezRm",
+  "text" : "Goose fat.",
+  "translations" : {
+    "russian" : "Гусиный жир."
   },
   "tokens" : [ {
     "token" : "goose",
@@ -43,53 +62,208 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "hollywood",
-    "startOffset" : 7,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "ok",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgniLqNEXFMlzHLFm6",
-  "text" : "We're having roast goose, aren't we?",
-  "translations" : {
-    "russian" : "Ведь на ужин жареный гусь, правда?"
-  },
-  "tokens" : [ {
-    "token" : "we're",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "have",
+    "token" : "fat",
     "startOffset" : 6,
-    "endOffset" : 12,
+    "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "roast",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi8zZDTAu_IiLezSQ",
+  "text" : "The goose.",
+  "translations" : {
+    "russian" : "Утка..."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
     "token" : "goose",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi81lDTAu_IiLezSS",
+  "text" : "The goose.",
+  "translations" : {
+    "russian" : "Утка."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
-    "token" : "aren't",
-    "startOffset" : 26,
-    "endOffset" : 32,
-    "position" : 4
+    "token" : "goose",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi3RQDTAu_IiLezOG",
+  "text" : "Silly goose.",
+  "translations" : {
+    "russian" : "Глупая гусыня."
+  },
+  "tokens" : [ {
+    "token" : "silly",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
-    "token" : "we",
-    "startOffset" : 33,
-    "endOffset" : 35,
-    "position" : 5
+    "token" : "goose",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi47_DTAu_IiLezPW",
+  "text" : "The goose.",
+  "translations" : {
+    "russian" : "Утка..."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "goose",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi4-LDTAu_IiLezPY",
+  "text" : "The goose.",
+  "translations" : {
+    "russian" : "Утка."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "goose",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi6x9DTAu_IiLezQt",
+  "text" : "Goose bumps.",
+  "translations" : {
+    "russian" : "Мурашки по телу."
+  },
+  "tokens" : [ {
+    "token" : "goose",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bump",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi7AXDTAu_IiLezQ3",
+  "text" : "Goose bumps.",
+  "translations" : {
+    "russian" : "У меня мурашки."
+  },
+  "tokens" : [ {
+    "token" : "goose",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bump",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi23VDTAu_IiLezNz",
+  "text" : "Goose bumps.",
+  "translations" : {
+    "russian" : "Мурашки по телу."
+  },
+  "tokens" : [ {
+    "token" : "goose",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bump",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi489DTAu_IiLezPX",
+  "text" : "The goose?",
+  "translations" : {
+    "russian" : "Ах утка! Да."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "goose",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi7MUDTAu_IiLezRA",
+  "text" : "Silly goose.",
+  "translations" : {
+    "russian" : "Глупая гусыня."
+  },
+  "tokens" : [ {
+    "token" : "silly",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "goose",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi2RdDTAu_IiLezNV",
+  "text" : "Roast goose.",
+  "translations" : {
+    "russian" : "Жаренный гусь."
+  },
+  "tokens" : [ {
+    "token" : "roast",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "goose",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

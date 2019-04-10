@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoDaV5NDTAu_IiLeDuG",
+  "text" : "He's wheezy, but sleeping.",
+  "translations" : {
+    "russian" : "Еще сиплый, но сейчас спит."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "wheezy",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "but",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "sleeping",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "sleep",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzIOUNEXFMlzHLV01",
   "text" : "Tonight, no sleeping.",
   "translations" : {
@@ -24,6 +57,77 @@
     "startOffset" : 12,
     "endOffset" : 20,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhxsIDTAu_IiLeyT3",
+  "text" : "Is that clod sleeping?",
+  "translations" : {
+    "russian" : "Пусть спит?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "clod",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "sleeping",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "sleep",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeRuHDTAu_IiLevkF",
+  "text" : "At the loft, just sleeping.",
+  "translations" : {
+    "russian" : "В лофте, просто спала."
+  },
+  "tokens" : [ {
+    "token" : "at",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "loft",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "just",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "sleeping",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "sleep",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -103,40 +207,40 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzIRfNEXFMlzHLV07",
-  "text" : "You said you weren't sleeping.",
+  "id" : "AWoEeOsdDTAu_IiLevht",
+  "text" : "At the loft, just sleeping.",
   "translations" : {
-    "russian" : "Ты сказал, что не спишь."
+    "russian" : "В лофте, просто спала."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "at",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "said",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "you",
-    "startOffset" : 9,
-    "endOffset" : 12,
+    "token" : "loft",
+    "startOffset" : 7,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "weren't",
+    "token" : "just",
     "startOffset" : 13,
-    "endOffset" : 20,
+    "endOffset" : 17,
     "position" : 3
   }, {
     "token" : "sleeping",
-    "startOffset" : 21,
-    "endOffset" : 29,
+    "startOffset" : 18,
+    "endOffset" : 26,
     "position" : 4
   }, {
     "token" : "sleep",
-    "startOffset" : 21,
-    "endOffset" : 29,
+    "startOffset" : 18,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null
@@ -179,361 +283,79 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrTO3NEXFMlzHLKzR",
-  "text" : "I sleep on couch.",
+  "id" : "AWbgzIRfNEXFMlzHLV07",
+  "text" : "You said you weren't sleeping.",
   "translations" : {
-    "russian" : "Буду спать на кушетке."
+    "russian" : "Ты сказал, что не спишь."
   },
   "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "sleep",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "couch",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyDmqNEXFMlzHLULT",
-  "text" : "The sleepers are you.",
-  "translations" : {
-    "russian" : "Спящие -- это вы."
-  },
-  "tokens" : [ {
-    "token" : "the",
+    "token" : "you",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "sleep",
+    "token" : "said",
     "startOffset" : 4,
-    "endOffset" : 12,
+    "endOffset" : 8,
     "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
   }, {
     "token" : "you",
-    "startOffset" : 17,
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "weren't",
+    "startOffset" : 13,
     "endOffset" : 20,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyDVFNEXFMlzHLUKu",
-  "text" : "The sleeper will come.",
-  "translations" : {
-    "russian" : "Спящий придет."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
   }, {
-    "token" : "sleeper",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "sleep",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "will",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "come",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcFxSNEXFMlzHK5s-",
-  "text" : "Sleep, fair child.",
-  "translations" : {
-    "russian" : "Спи, милый малыш."
-  },
-  "tokens" : [ {
-    "token" : "sleep",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "fair",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "child",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyDUmNEXFMlzHLUKt",
-  "text" : "The sleeper will come.",
-  "translations" : {
-    "russian" : "Спящий придет."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "sleeper",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "sleep",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "will",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "come",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtOjeNEXFMlzHLNcB",
-  "text" : "Suffering from sleep deprivation.",
-  "translations" : {
-    "russian" : "Страдающих потерей сна."
-  },
-  "tokens" : [ {
-    "token" : "suffering",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "suffer",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "from",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "sleep",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "privation",
+    "token" : "sleeping",
     "startOffset" : 21,
-    "endOffset" : 32,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtOXRNEXFMlzHLNb9",
-  "text" : "Sleep deprivation in brown rats.",
-  "translations" : {
-    "russian" : "По лишению сна - на бурых крысах."
-  },
-  "tokens" : [ {
+    "endOffset" : 29,
+    "position" : 4
+  }, {
     "token" : "sleep",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "privation",
-    "startOffset" : 6,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "brown",
     "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "rat",
-    "startOffset" : 27,
-    "endOffset" : 31,
+    "endOffset" : 29,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtxVZNEXFMlzHLN6v",
-  "text" : "I sweat in my sleep.",
+  "id" : "AWoFaM8uDTAu_IiLfb-v",
+  "text" : "Like prodding a sleeping tiger.",
   "translations" : {
-    "russian" : "Я потею во сне."
+    "russian" : "Это как тыкать палкой в спящего тигра."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "like",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "sweat",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 11,
+    "token" : "prodding",
+    "startOffset" : 5,
     "endOffset" : 13,
-    "position" : 3
+    "position" : 1
   }, {
-    "token" : "sleep",
+    "token" : "a",
     "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtOKVNEXFMlzHLNb6",
-  "text" : "Controlled fear, hypothermia, sleep deprivation.",
-  "translations" : {
-    "russian" : "Контролируемый страх, гипотермия, лишение сна."
-  },
-  "tokens" : [ {
-    "token" : "controlled",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "trolled",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "fear",
-    "startOffset" : 11,
     "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "hypothermia",
-    "startOffset" : 17,
-    "endOffset" : 28,
     "position" : 2
   }, {
-    "token" : "sleep",
-    "startOffset" : 30,
-    "endOffset" : 35,
+    "token" : "sleeping",
+    "startOffset" : 16,
+    "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "privation",
-    "startOffset" : 36,
-    "endOffset" : 47,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmNalNEXFMlzHLDf3",
-  "text" : "I can't sleep without those sheets!",
-  "translations" : {
-    "russian" : "Я не смогу заснуть без этих простыней!"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "can't",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
     "token" : "sleep",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "without",
-    "startOffset" : 14,
-    "endOffset" : 21,
+    "startOffset" : 16,
+    "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "those",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "sheet",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmqhrNEXFMlzHLERt",
-  "text" : "Annie's dog sleeps in the oven.",
-  "translations" : {
-    "russian" : "Собака Энни спит в духовке."
-  },
-  "tokens" : [ {
-    "token" : "annie",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "dog",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "sleep",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "oven",
-    "startOffset" : 26,
+    "token" : "tiger",
+    "startOffset" : 25,
     "endOffset" : 30,
-    "position" : 5
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

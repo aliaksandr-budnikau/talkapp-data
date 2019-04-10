@@ -1,0 +1,52 @@
+[ {
+  "id" : "AWoFX6gIDTAu_IiLfaEE",
+  "text" : "Representative Bookman.",
+  "translations" : {
+    "russian" : "Депутат Букман."
+  },
+  "tokens" : [ {
+    "token" : "representative",
+    "startOffset" : 0,
+    "endOffset" : 14,
+    "position" : 0
+  }, {
+    "token" : "bookman",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX6iMDTAu_IiLfaEG",
+  "text" : "Representative Bookman, welcome to NBC.",
+  "translations" : {
+    "russian" : "Депутат Букман, добро пожаловать на NBC."
+  },
+  "tokens" : [ {
+    "token" : "representative",
+    "startOffset" : 0,
+    "endOffset" : 14,
+    "position" : 0
+  }, {
+    "token" : "bookman",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "welcome",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 32,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "nbc",
+    "startOffset" : 35,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

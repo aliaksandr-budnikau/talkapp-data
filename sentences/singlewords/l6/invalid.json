@@ -1,4 +1,107 @@
 [ {
+  "id" : "AWoEkzWUDTAu_IiLe0sP",
+  "text" : "Valid.",
+  "translations" : {
+    "russian" : "Верно."
+  },
+  "tokens" : [ {
+    "token" : "valid",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkyz3DTAu_IiLe0rz",
+  "text" : "Valid answer.",
+  "translations" : {
+    "russian" : "Правильно."
+  },
+  "tokens" : [ {
+    "token" : "valid",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "answer",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkxaADTAu_IiLe0qz",
+  "text" : "Valid point.",
+  "translations" : {
+    "russian" : "Веское замечание."
+  },
+  "tokens" : [ {
+    "token" : "valid",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "point",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkxCkDTAu_IiLe0qi",
+  "text" : "Very valid.",
+  "translations" : {
+    "russian" : "Очень обоснованно."
+  },
+  "tokens" : [ {
+    "token" : "very",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "valid",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEky1VDTAu_IiLe0r0",
+  "text" : "Valid answer.",
+  "translations" : {
+    "russian" : "Правильно."
+  },
+  "tokens" : [ {
+    "token" : "valid",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "answer",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkxuRDTAu_IiLe0rB",
+  "text" : "That's valid.",
+  "translations" : {
+    "russian" : "Это веско."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "valid",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtmGONEXFMlzHLNsk",
   "text" : "It's hard on us poor invalids!",
   "translations" : {
@@ -34,6 +137,248 @@
     "startOffset" : 21,
     "endOffset" : 29,
     "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-NEoDTAu_IiLeXz2",
+  "text" : "They have valid concerns.",
+  "translations" : {
+    "russian" : "У них действительно проблемы."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "valid",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "concern",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkwIJDTAu_IiLe0p3",
+  "text" : "Valid for anywhere.",
+  "translations" : {
+    "russian" : "Действителен повсюду."
+  },
+  "tokens" : [ {
+    "token" : "valid",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "anywhere",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkx0YDTAu_IiLe0rF",
+  "text" : "That document isn't valid.",
+  "translations" : {
+    "russian" : "Документ, подписанный Аньезе, недействителен, его надо уничтожить!"
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "document",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "isn't",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "valid",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkx12DTAu_IiLe0rG",
+  "text" : "The papers aren't valid!",
+  "translations" : {
+    "russian" : "Договор теперь недействителен!"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pap",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "aren't",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "valid",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkyRrDTAu_IiLe0rb",
+  "text" : "That offer's still valid?",
+  "translations" : {
+    "russian" : "Предложение еще в силе?"
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "offer's",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "still",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "valid",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkxKIDTAu_IiLe0qp",
+  "text" : "Are her complaints valid?",
+  "translations" : {
+    "russian" : "Ее жалобы обоснованны?"
+  },
+  "tokens" : [ {
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "her",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "complaint",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "valid",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkwt0DTAu_IiLe0qU",
+  "text" : "That's valid advice.",
+  "translations" : {
+    "russian" : "Это обоснованный совет."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "valid",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "advice",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkzXiDTAu_IiLe0sQ",
+  "text" : "She makes valid argument.",
+  "translations" : {
+    "russian" : "Верно говорит."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "valid",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "argument",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkxG9DTAu_IiLe0qm",
+  "text" : "That's a valid question.",
+  "translations" : {
+    "russian" : "Это обоснованное сомнение."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "valid",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "question",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

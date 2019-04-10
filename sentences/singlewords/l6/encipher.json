@@ -1,0 +1,32 @@
+[ {
+  "id" : "AWoFCpYVDTAu_IiLfKBK",
+  "text" : "Enciphered.",
+  "translations" : {
+    "russian" : "Зашифровано."
+  },
+  "tokens" : [ {
+    "token" : "encipher",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCpZaDTAu_IiLfKBL",
+  "text" : "It's enciphered.",
+  "translations" : {
+    "russian" : "Всё зашифровано."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "encipher",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+} ]

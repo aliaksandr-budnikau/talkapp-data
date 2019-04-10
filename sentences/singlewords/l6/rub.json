@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoFDsC1DTAu_IiLfKxh",
+  "text" : "Therein lies the rub.",
+  "translations" : {
+    "russian" : "В этом и заключается руб."
+  },
+  "tokens" : [ {
+    "token" : "therein",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "lies",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "lie",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "rub",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoz0aNEXFMlzHLHci",
   "text" : "Rub her back a little.",
   "translations" : {
@@ -66,6 +99,82 @@
     "token" : "rub",
     "startOffset" : 21,
     "endOffset" : 24,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjh0FDTAu_IiLfigw",
+  "text" : "Use this cream and rub gently.",
+  "translations" : {
+    "russian" : "Используй крем и осторожно потри."
+  },
+  "tokens" : [ {
+    "token" : "use",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "this",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "cream",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "rub",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "gently",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEb7t6DTAu_IiLet21",
+  "text" : "The bra rubs against my staples.",
+  "translations" : {
+    "russian" : "Лифчик трется о скобы."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bra",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "rub",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "against",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "my",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "staple",
+    "startOffset" : 24,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWbgxQH2NEXFMlzHLTAF",
+  "text" : "This zone is now restricted.",
+  "translations" : {
+    "russian" : "Вход в зону ограничен."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "zone",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "now",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "restricted",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "restrict",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggPpTNEXFMlzHK9TW",
   "text" : "Attention, take strict containment!",
   "translations" : {
@@ -65,40 +103,63 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxQH2NEXFMlzHLTAF",
-  "text" : "This zone is now restricted.",
+  "id" : "AWoEpE5WDTAu_IiLe36T",
+  "text" : "My discipline is strict.",
   "translations" : {
-    "russian" : "Вход в зону ограничен."
+    "russian" : "Воспитываю я строго."
   },
   "tokens" : [ {
-    "token" : "this",
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "discipline",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "strict",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQKQfDTAu_IiLd9nJ",
+  "text" : "They are all strict agnostics.",
+  "translations" : {
+    "russian" : "Все они убежденные агностики."
+  },
+  "tokens" : [ {
+    "token" : "they",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "zone",
+    "token" : "are",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "is",
-    "startOffset" : 10,
+    "token" : "all",
+    "startOffset" : 9,
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "now",
+    "token" : "strict",
     "startOffset" : 13,
-    "endOffset" : 16,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "restricted",
-    "startOffset" : 17,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "restrict",
-    "startOffset" : 17,
-    "endOffset" : 27,
+    "token" : "agnostic",
+    "startOffset" : 20,
+    "endOffset" : 29,
     "position" : 4
   } ],
   "contentScore" : null

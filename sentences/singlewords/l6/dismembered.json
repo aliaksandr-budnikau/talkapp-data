@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoD-vfWDTAu_IiLeYNh",
+  "text" : "Bodies dismembered, limbs flayed.",
+  "translations" : {
+    "russian" : "Тела расчленены, конечности освежованы."
+  },
+  "tokens" : [ {
+    "token" : "body",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "membered",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "limb",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "flay",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrzqvNEXFMlzHLLiz",
   "text" : "You remembered body surfing?",
   "translations" : {
@@ -71,6 +99,77 @@
     "token" : "friend",
     "startOffset" : 20,
     "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3uPxDTAu_IiLfCLl",
+  "text" : "Dismembered is slightly overstating it.",
+  "translations" : {
+    "russian" : "Расчленить это легкое преувеличение."
+  },
+  "tokens" : [ {
+    "token" : "membered",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "slight",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "overstate",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "it",
+    "startOffset" : 36,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtYpjDTAu_IiLeOa5",
+  "text" : "You remembered such vivid details.",
+  "translations" : {
+    "russian" : "Вы вспомнили все так ярко и в деталях."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "remembered",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "membered",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "such",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "vivid",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "tail",
+    "startOffset" : 26,
+    "endOffset" : 33,
     "position" : 4
   } ],
   "contentScore" : null

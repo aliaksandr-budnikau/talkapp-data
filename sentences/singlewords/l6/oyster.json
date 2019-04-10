@@ -1,0 +1,52 @@
+[ {
+  "id" : "AWoEy3ucDTAu_IiLe-3g",
+  "text" : "Oysters, acorns and Marsala.",
+  "translations" : {
+    "russian" : "Мидии, желуди и вино."
+  },
+  "tokens" : [ {
+    "token" : "oyster",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "acorn",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "marsala",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEa1SDTAu_IiLfLS3",
+  "text" : "Strawberries, caviar, oysters.",
+  "translations" : {
+    "russian" : "Клубника, икра, устрицы."
+  },
+  "tokens" : [ {
+    "token" : "strawberry",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "caviar",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "oyster",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

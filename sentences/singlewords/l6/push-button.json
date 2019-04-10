@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoErAcGDTAu_IiLe5TM",
+  "text" : "To reload, push this button.",
+  "translations" : {
+    "russian" : "Перезаряжается вот этой кнопкой."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "reload",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "push",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "this",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "button",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgySHnNEXFMlzHLUpi",
   "text" : "For pushing the return button.",
   "translations" : {

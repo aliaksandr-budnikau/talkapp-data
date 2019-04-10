@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEpoLlDTAu_IiLe4T4",
+  "text" : "I'm attaching a picture.",
+  "translations" : {
+    "russian" : "Я прикреплю к письму свою фотку."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "attach",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "picture",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrnbgNEXFMlzHLLQ6",
   "text" : "Let me paint a picture.",
   "translations" : {
@@ -28,6 +56,105 @@
     "token" : "picture",
     "startOffset" : 15,
     "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtLZBDTAu_IiLeOTD",
+  "text" : "She paints a vivid picture.",
+  "translations" : {
+    "russian" : "Она описывает все очень ярко."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "paint",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "vivid",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "picture",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUXZJDTAu_IiLeog_",
+  "text" : "Draw me a new picture.",
+  "translations" : {
+    "russian" : "Нарисуй мне другую картинку."
+  },
+  "tokens" : [ {
+    "token" : "draw",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "new",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 3
+  }, {
+    "token" : "picture",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtazcDTAu_IiLeOcC",
+  "text" : "She paints a vivid picture.",
+  "translations" : {
+    "russian" : "Она описывает все очень ярко."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "paint",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "vivid",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "picture",
+    "startOffset" : 19,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null
@@ -94,6 +221,105 @@
     "token" : "of",
     "startOffset" : 20,
     "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEH6whDTAu_IiLefL7",
+  "text" : "It makes a swell picture.",
+  "translations" : {
+    "russian" : "Выйдет отличный кадр!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "swell",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "picture",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgGIXDTAu_IiLew_Z",
+  "text" : "It's a pretty grainy picture.",
+  "translations" : {
+    "russian" : "Это довольно зернистая фотография."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "pretty",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "grainy",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "picture",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGyK0DTAu_IiLeeYk",
+  "text" : "It makes a swell picture.",
+  "translations" : {
+    "russian" : "Выйдет отличный кадр!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "swell",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "picture",
+    "startOffset" : 17,
+    "endOffset" : 24,
     "position" : 4
   } ],
   "contentScore" : null
@@ -174,6 +400,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEz3H6DTAu_IiLe_kA",
+  "text" : "Let me paint you a picture.",
+  "translations" : {
+    "russian" : "Я просто нарисую тебе картину в красках."
+  },
+  "tokens" : [ {
+    "token" : "let",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "paint",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "you",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 4
+  }, {
+    "token" : "picture",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrmDENEXFMlzHLLO5",
   "text" : "Your son drew us a picture...",
   "translations" : {
@@ -208,6 +472,44 @@
     "token" : "picture",
     "startOffset" : 19,
     "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuyJyDTAu_IiLe73D",
+  "text" : "A picture of Scotty Jared naked!",
+  "translations" : {
+    "russian" : "Фотография Скотти Джареда, голого!"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "picture",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "scotty",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "jared",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "naked",
+    "startOffset" : 26,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

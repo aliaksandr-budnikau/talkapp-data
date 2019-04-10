@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWoFDLMIDTAu_IiLfKZ5",
+  "text" : "I'm an asterisk?",
+  "translations" : {
+    "russian" : "Я - звёздочка?"
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "asterisk",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDLKUDTAu_IiLfKZ4",
+  "text" : "Every third character after the asterisk.",
+  "translations" : {
+    "russian" : "Каждая третья строчка после звездочки."
+  },
+  "tokens" : [ {
+    "token" : "every",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "third",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "character",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "aft",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "asterisk",
+    "startOffset" : 32,
+    "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

@@ -1,74 +1,64 @@
 [ {
-  "id" : "AWbgw0ffNEXFMlzHLSkP",
-  "text" : "It dropped half an octave.",
+  "id" : "AWoEXfvXDTAu_IiLeq3E",
+  "text" : "Half anchovy, half Hawaiian.",
   "translations" : {
-    "russian" : "Он понизился на пол-октавы."
+    "russian" : "Половинку с анчоусами, половинку гавайской."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "half",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "dropped",
-    "startOffset" : 3,
+    "token" : "anchovy",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "half",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "hawaiian",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlBTdDTAu_IiLeJ0H",
+  "text" : "Half bacon... half Terminator.",
+  "translations" : {
+    "russian" : "Наполовину бекон... наполовину Терминатор."
+  },
+  "tokens" : [ {
+    "token" : "half",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bacon",
+    "startOffset" : 5,
     "endOffset" : 10,
     "position" : 1
   }, {
     "token" : "half",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "an",
-    "startOffset" : 16,
+    "startOffset" : 14,
     "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "octave",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxjcxNEXFMlzHLTZk",
-  "text" : "Cause it was half off.",
-  "translations" : {
-    "russian" : "Потому что была скидка в полцены."
-  },
-  "tokens" : [ {
-    "token" : "cause",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "was",
-    "startOffset" : 9,
-    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "half",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "token" : "terminator",
+    "startOffset" : 19,
+    "endOffset" : 29,
     "position" : 3
-  }, {
-    "token" : "off",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbkIZNEXFMlzHK5Ox",
-  "text" : "Half the way to me.",
+  "id" : "AWoDmVZtDTAu_IiLeKht",
+  "text" : "Half in Bern, half in Monaco.",
   "translations" : {
-    "russian" : "Половину расстояния до мне."
+    "russian" : "Половина в Берн, половина в Монако."
   },
   "tokens" : [ {
     "token" : "half",
@@ -76,70 +66,121 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "the",
+    "token" : "in",
     "startOffset" : 5,
-    "endOffset" : 8,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "way",
-    "startOffset" : 9,
+    "token" : "bern",
+    "startOffset" : 8,
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "to",
-    "startOffset" : 13,
-    "endOffset" : 15,
+    "token" : "half",
+    "startOffset" : 14,
+    "endOffset" : 18,
     "position" : 3
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "monaco",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0aRbDTAu_IiLe_8B",
+  "text" : "Half giraffe, half drag queen, honey.",
+  "translations" : {
+    "russian" : "Наполовину жираф, наполовину трансвестит, сладкий."
+  },
+  "tokens" : [ {
+    "token" : "half",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "giraffe",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "half",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "drag",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "queen",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "honey",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAPTqDTAu_IiLfINa",
+  "text" : "Half me earnings.",
+  "translations" : {
+    "russian" : "Хотел половину моего заработка."
+  },
+  "tokens" : [ {
+    "token" : "half",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
     "token" : "me",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr1zMNEXFMlzHLLl8",
-  "text" : "Let's reconvene in half an hour.",
-  "translations" : {
-    "russian" : "Вернемся к обсуждению через полчаса."
-  },
-  "tokens" : [ {
-    "token" : "let",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "convene",
-    "startOffset" : 6,
-    "endOffset" : 15,
+    "startOffset" : 5,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "in",
-    "startOffset" : 16,
-    "endOffset" : 18,
+    "token" : "earn",
+    "startOffset" : 8,
+    "endOffset" : 16,
     "position" : 2
-  }, {
-    "token" : "half",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "an",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "hour",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwQqcNEXFMlzHLSAx",
-  "text" : "Half a million birds a year.",
+  "id" : "AWoDe0HSDTAu_IiLeGRP",
+  "text" : "Half to Barbados?",
   "translations" : {
-    "russian" : "Полмиллиона птиц в год."
+    "russian" : "Половина на Барбадосе?"
+  },
+  "tokens" : [ {
+    "token" : "half",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "barbados",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAUXCDTAu_IiLeZaO",
+  "text" : "Half a month's wages?",
+  "translations" : {
+    "russian" : "Половину твоей зарплаты?"
   },
   "tokens" : [ {
     "token" : "half",
@@ -152,291 +193,232 @@
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "million",
+    "token" : "month",
     "startOffset" : 7,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "bird",
+    "token" : "wage",
     "startOffset" : 15,
     "endOffset" : 20,
     "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 21,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "year",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxUJYNEXFMlzHLTHw",
-  "text" : "Cleared half my schedule for it.",
+  "id" : "AWoEYmaoDTAu_IiLero1",
+  "text" : "About half a gallon.",
   "translations" : {
-    "russian" : "Освободил для него половину своего времени."
+    "russian" : "Почти 2 литра."
   },
   "tokens" : [ {
-    "token" : "clear",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "half",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "schedule",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "for",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "it",
-    "startOffset" : 29,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgglhWNEXFMlzHK9mF",
-  "text" : "We'll split the money half parts.",
-  "translations" : {
-    "russian" : "Мы разделим деньги пополам."
-  },
-  "tokens" : [ {
-    "token" : "we'll",
+    "token" : "about",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "split",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "money",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
     "token" : "half",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "part",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmRMzNEXFMlzHLDmd",
-  "text" : "You can chop them in half.",
-  "translations" : {
-    "russian" : "Можно разрубить их напополам."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "can",
-    "startOffset" : 4,
-    "endOffset" : 7,
+    "startOffset" : 6,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "chop",
-    "startOffset" : 8,
+    "token" : "a",
+    "startOffset" : 11,
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "them",
+    "token" : "gallon",
     "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "in",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "half",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy3eZNEXFMlzHLVSe",
-  "text" : "Single shot, half a mile away.",
-  "translations" : {
-    "russian" : "Одиночный выстрел с расстояния в пол мили."
-  },
-  "tokens" : [ {
-    "token" : "single",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "shot",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "half",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 18,
     "endOffset" : 19,
     "position" : 3
-  }, {
-    "token" : "mile",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "away",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbga2MMNEXFMlzHK4lt",
-  "text" : "Let's reconvene in half an hour.",
+  "id" : "AWoEuWY8DTAu_IiLe7j7",
+  "text" : "Half me earnings.",
   "translations" : {
-    "russian" : "Вернемся к обсуждению через полчаса."
+    "russian" : "Хотел половину моего заработка."
   },
   "tokens" : [ {
-    "token" : "let",
+    "token" : "half",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "convene",
-    "startOffset" : 6,
-    "endOffset" : 15,
+    "token" : "me",
+    "startOffset" : 5,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "in",
-    "startOffset" : 16,
-    "endOffset" : 18,
+    "token" : "earn",
+    "startOffset" : 8,
+    "endOffset" : 16,
     "position" : 2
-  }, {
-    "token" : "half",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "an",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "hour",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglRjgNEXFMlzHLCPr",
-  "text" : "The shock made her half-mad.",
+  "id" : "AWoFAIvADTAu_IiLfIIJ",
+  "text" : "Half me earnings.",
   "translations" : {
-    "russian" : "От такого потрясения у нее помутился рассудок."
+    "russian" : "Хотел половину моего заработка."
   },
   "tokens" : [ {
+    "token" : "half",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "earn",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbrsCDTAu_IiLfdKo",
+  "text" : "Half the pot.",
+  "translations" : {
+    "russian" : "Пол банка."
+  },
+  "tokens" : [ {
+    "token" : "half",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
     "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "shock",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "made",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "her",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "half",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "mad",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoy7SNEXFMlzHLHbM",
-  "text" : "And, get that bottom half... back.",
-  "translations" : {
-    "russian" : "И поставить ее на ноги... опять."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "get",
     "startOffset" : 5,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "that",
+    "token" : "pot",
     "startOffset" : 9,
-    "endOffset" : 13,
+    "endOffset" : 12,
     "position" : 2
-  }, {
-    "token" : "bottom",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRd8FDTAu_IiLd-iV",
+  "text" : "Nora's half acre.",
+  "translations" : {
+    "russian" : "Половина акра, принадлежащая Норе."
+  },
+  "tokens" : [ {
+    "token" : "nora",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
   }, {
     "token" : "half",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
   }, {
-    "token" : "back",
-    "startOffset" : 29,
-    "endOffset" : 33,
-    "position" : 5
+    "token" : "acre",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaiLZDTAu_IiLfcQf",
+  "text" : "Half the pot.",
+  "translations" : {
+    "russian" : "Пол банка."
+  },
+  "tokens" : [ {
+    "token" : "half",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pot",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaiJ0DTAu_IiLfcQe",
+  "text" : "Half the pot.",
+  "translations" : {
+    "russian" : "Пол банка."
+  },
+  "tokens" : [ {
+    "token" : "half",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pot",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-mq8DTAu_IiLfG5M",
+  "text" : "Shrimp casserole, half price.",
+  "translations" : {
+    "russian" : "Креветочная запеканка за полцены!"
+  },
+  "tokens" : [ {
+    "token" : "shrimp",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "casserole",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "half",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "price",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbrqIDTAu_IiLfdKn",
+  "text" : "Half the pot.",
+  "translations" : {
+    "russian" : "Пол банка."
+  },
+  "tokens" : [ {
+    "token" : "half",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pot",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

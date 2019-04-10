@@ -1,115 +1,369 @@
 [ {
-  "id" : "AWbgtC-xNEXFMlzHLNQj",
-  "text" : "Please state area of activation.",
+  "id" : "AWoDvmYuDTAu_IiLePx2",
+  "text" : "Activating grapple.",
   "translations" : {
-    "russian" : "Пожалуйста, установите радиус активации."
+    "russian" : "Активизация захвата."
   },
   "tokens" : [ {
-    "token" : "please",
+    "token" : "activate",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 10,
     "position" : 0
   }, {
-    "token" : "state",
-    "startOffset" : 7,
+    "token" : "grapple",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvklCDTAu_IiLePwz",
+  "text" : "Activating grapple.",
+  "translations" : {
+    "russian" : "Активировать захват."
+  },
+  "tokens" : [ {
+    "token" : "activate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "grapple",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvmeDDTAu_IiLePx5",
+  "text" : "Activating grapple.",
+  "translations" : {
+    "russian" : "Активировать захват."
+  },
+  "tokens" : [ {
+    "token" : "activate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "grapple",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvkg8DTAu_IiLePww",
+  "text" : "Activating grapple.",
+  "translations" : {
+    "russian" : "Активизация захвата."
+  },
+  "tokens" : [ {
+    "token" : "activate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "grapple",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvnj5DTAu_IiLePyk",
+  "text" : "Activating grapple.",
+  "translations" : {
+    "russian" : "Активизация захвата."
+  },
+  "tokens" : [ {
+    "token" : "activate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "grapple",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZi42DTAu_IiLesRl",
+  "text" : "Activate harpoon.",
+  "translations" : {
+    "russian" : "Активируй гарпун."
+  },
+  "tokens" : [ {
+    "token" : "activate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "harpoon",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvnn9DTAu_IiLePyn",
+  "text" : "Activating grapple.",
+  "translations" : {
+    "russian" : "Активировать захват."
+  },
+  "tokens" : [ {
+    "token" : "activate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "grapple",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERm95DTAu_IiLema2",
+  "text" : "Auto ejection system activating!",
+  "translations" : {
+    "russian" : "Сработала система автоматического катапультирования!"
+  },
+  "tokens" : [ {
+    "token" : "auto",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ejection",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "system",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "activate",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPYoCDTAu_IiLd9KL",
+  "text" : "Auto ejection system activating!",
+  "translations" : {
+    "russian" : "Сработала система автоматического катапультирования!"
+  },
+  "tokens" : [ {
+    "token" : "auto",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ejection",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "system",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "activate",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQGdnDTAu_IiLelVa",
+  "text" : "Auto ejection system activating!",
+  "translations" : {
+    "russian" : "Сработала система автоматического катапультирования!"
+  },
+  "tokens" : [ {
+    "token" : "auto",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ejection",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "system",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "activate",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKq_ADTAu_IiLfQLI",
+  "text" : "Activate her tracer.",
+  "translations" : {
+    "russian" : "Активируй маячок."
+  },
+  "tokens" : [ {
+    "token" : "activate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "her",
+    "startOffset" : 9,
     "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "area",
+    "token" : "tracer",
     "startOffset" : 13,
-    "endOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPyoCDTAu_IiLfUCU",
+  "text" : "Activate her tracer.",
+  "translations" : {
+    "russian" : "Активируй маячок."
+  },
+  "tokens" : [ {
+    "token" : "activate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "her",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tracer",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRbo1DTAu_IiLd-gs",
+  "text" : "Activate the accelerator!",
+  "translations" : {
+    "russian" : "Включить акселератор."
+  },
+  "tokens" : [ {
+    "token" : "activate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "accelerator",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRmwNDTAu_IiLd-oY",
+  "text" : "Activate the phonic detector.",
+  "translations" : {
+    "russian" : "Включите звуковой детектор."
+  },
+  "tokens" : [ {
+    "token" : "activate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "phonic",
+    "startOffset" : 13,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "of",
+    "token" : "detector",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRm-wDTAu_IiLd-oi",
+  "text" : "Activate the phonic detector.",
+  "translations" : {
+    "russian" : "Включите звуковой детектор."
+  },
+  "tokens" : [ {
+    "token" : "activate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "phonic",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "detector",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_KkgDTAu_IiLeYhl",
+  "text" : "Human interaction mode activated.",
+  "translations" : {
+    "russian" : "Активирован режим взаимодействия с человеком."
+  },
+  "tokens" : [ {
+    "token" : "human",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "interaction",
+    "startOffset" : 6,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "mode",
     "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "activation",
-    "startOffset" : 21,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "activate",
-    "startOffset" : 21,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgieUKNEXFMlzHK_M3",
-  "text" : "Activate scanners, set for maximum depth.",
-  "translations" : {
-    "russian" : "Включить сканеры, настроить на максимальную глубину."
-  },
-  "tokens" : [ {
-    "token" : "activate",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "scanner",
-    "startOffset" : 9,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "set",
-    "startOffset" : 19,
     "endOffset" : 22,
     "position" : 2
   }, {
-    "token" : "for",
+    "token" : "activated",
     "startOffset" : 23,
-    "endOffset" : 26,
+    "endOffset" : 32,
     "position" : 3
   }, {
-    "token" : "maximum",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 4
-  }, {
-    "token" : "depth",
-    "startOffset" : 35,
-    "endOffset" : 40,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqCutNEXFMlzHLJGl",
-  "text" : "Activate scanners, set for maximum depth.",
-  "translations" : {
-    "russian" : "Включить сканеры, настроить на максимальную глубину."
-  },
-  "tokens" : [ {
     "token" : "activate",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "scanner",
-    "startOffset" : 9,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "set",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "for",
     "startOffset" : 23,
-    "endOffset" : 26,
+    "endOffset" : 32,
     "position" : 3
-  }, {
-    "token" : "maximum",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 4
-  }, {
-    "token" : "depth",
-    "startOffset" : 35,
-    "endOffset" : 40,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

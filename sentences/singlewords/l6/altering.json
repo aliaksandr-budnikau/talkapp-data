@@ -1,39 +1,479 @@
 [ {
-  "id" : "AWbgxSXSNEXFMlzHLTEZ",
-  "text" : "Stand by for altered schedule...",
+  "id" : "AWoFJOnRDTAu_IiLfPCL",
+  "text" : "Altered games.",
   "translations" : {
-    "russian" : "Перейти на нештатное расписание.."
+    "russian" : "Изменили ход игр."
   },
   "tokens" : [ {
-    "token" : "stand",
+    "token" : "altered",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "alter",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "game",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJLv8DTAu_IiLfO_2",
+  "text" : "Alter destiny?",
+  "translations" : {
+    "russian" : "Изменять судьбу?"
+  },
+  "tokens" : [ {
+    "token" : "alter",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "by",
+    "token" : "alt",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "destiny",
     "startOffset" : 6,
-    "endOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJMF4DTAu_IiLfPAJ",
+  "text" : "Make moves, alter things.",
+  "translations" : {
+    "russian" : "Делают ходы, изменяют вещи."
+  },
+  "tokens" : [ {
+    "token" : "make",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "move",
+    "startOffset" : 5,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "for",
-    "startOffset" : 9,
-    "endOffset" : 12,
+    "token" : "alter",
+    "startOffset" : 12,
+    "endOffset" : 17,
     "position" : 2
+  }, {
+    "token" : "alt",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "th",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJLdvDTAu_IiLfO_p",
+  "text" : "They haven't altered course.",
+  "translations" : {
+    "russian" : "Они не меняют курса."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "haven't",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
   }, {
     "token" : "altered",
     "startOffset" : 13,
     "endOffset" : 20,
-    "position" : 3
+    "position" : 2
   }, {
     "token" : "alter",
     "startOffset" : 13,
     "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "course",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJL9EDTAu_IiLfPAA",
+  "text" : "DNA doesn't alter DNA.",
+  "translations" : {
+    "russian" : "ДНК не изменяет ДНК."
+  },
+  "tokens" : [ {
+    "token" : "dna",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "doesn't",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "alter",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "alt",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "dna",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJLQIDTAu_IiLfO_b",
+  "text" : "It's altering course.",
+  "translations" : {
+    "russian" : "Он меняет курс."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "alter",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "course",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJN-4DTAu_IiLfPBr",
+  "text" : "A new alter.",
+  "translations" : {
+    "russian" : "Новое воплощение."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "new",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "alter",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "alt",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJKqhDTAu_IiLfO-9",
+  "text" : "He was surgically altered?",
+  "translations" : {
+    "russian" : "Его внешность была изменена хирургическим путем?"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "surgical",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "altered",
+    "startOffset" : 18,
+    "endOffset" : 25,
     "position" : 3
   }, {
-    "token" : "schedule",
-    "startOffset" : 21,
+    "token" : "alter",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJK_IDTAu_IiLfO_O",
+  "text" : "Brain wave pattern altered.",
+  "translations" : {
+    "russian" : "Параметры программы изменены..."
+  },
+  "tokens" : [ {
+    "token" : "brain",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "wave",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pattern",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "altered",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "alter",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJMpcDTAu_IiLfPAm",
+  "text" : "Prepare to alter course.",
+  "translations" : {
+    "russian" : "Приготовиться к изменению курса."
+  },
+  "tokens" : [ {
+    "token" : "prepare",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "alter",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "alt",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "course",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJMnoDTAu_IiLfPAk",
+  "text" : "Altering the timeline?",
+  "translations" : {
+    "russian" : "Изменение истории?"
+  },
+  "tokens" : [ {
+    "token" : "alter",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "timeline",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJL5sDTAu_IiLfO_9",
+  "text" : "It doesn't alter...",
+  "translations" : {
+    "russian" : "Это ничего не изменяет..."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "doesn't",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "alter",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "alt",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJNcTDTAu_IiLfPBP",
+  "text" : "Have your visions altered?",
+  "translations" : {
+    "russian" : "Ваши ведения изменились?"
+  },
+  "tokens" : [ {
+    "token" : "have",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "vision",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "vise",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "altered",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "alter",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaVVVDTAu_IiLeszI",
+  "text" : "Or genetically altered humans.",
+  "translations" : {
+    "russian" : "Или генетически модифицированные люди, какая разница?"
+  },
+  "tokens" : [ {
+    "token" : "or",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "genetically",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "altered",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "alter",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "humans",
+    "startOffset" : 23,
     "endOffset" : 29,
-    "position" : 4
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJNrfDTAu_IiLfPBc",
+  "text" : "That's my alter ego.",
+  "translations" : {
+    "russian" : "Это моё альтер-эго."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "alter",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "alt",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "ego",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMEmVDTAu_IiLeiUo",
+  "text" : "Altering tapes, suppressing evidence.",
+  "translations" : {
+    "russian" : "Меняют записи, скрывают улики."
+  },
+  "tokens" : [ {
+    "token" : "alter",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "tape",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "suppress",
+    "startOffset" : 16,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "evidence",
+    "startOffset" : 28,
+    "endOffset" : 36,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

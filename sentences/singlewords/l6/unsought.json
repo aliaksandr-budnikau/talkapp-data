@@ -1,4 +1,75 @@
 [ {
+  "id" : "AWoFiIVmDTAu_IiLfhnO",
+  "text" : "Better if you baptize unsought!",
+  "translations" : {
+    "russian" : "Советую всем добровольно креститься!"
+  },
+  "tokens" : [ {
+    "token" : "better",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "if",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "baptize",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "sought",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBcf2DTAu_IiLeaRY",
+  "text" : "He sought vindication but failed.",
+  "translations" : {
+    "russian" : "Он добивлся защиты прав, но не смог."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "sought",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "vindication",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "vindicate",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "but",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "fail",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeWqnNEXFMlzHK7qk",
   "text" : "I sought outside legal council.",
   "translations" : {
@@ -29,6 +100,44 @@
     "startOffset" : 23,
     "endOffset" : 30,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUS7TDTAu_IiLeodd",
+  "text" : "But you sought to rectify that.",
+  "translations" : {
+    "russian" : "Но вы пытались исправить это."
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "sought",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "rectify",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "that",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

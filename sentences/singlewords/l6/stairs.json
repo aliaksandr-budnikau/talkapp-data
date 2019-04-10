@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoD1yFjDTAu_IiLeTCn",
+  "text" : "In the cupboard'neath the stair...",
+  "translations" : {
+    "russian" : "В кладовке под лестницей..."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "cupboard'neath",
+    "startOffset" : 7,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "stair",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjl_5NEXFMlzHLAJU",
   "text" : "Theresa falls up the stairs.",
   "translations" : {
@@ -62,6 +95,44 @@
     "startOffset" : 21,
     "endOffset" : 27,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRYEMDTAu_IiLd-eR",
+  "text" : "Animal attack, tumble down the stairs?",
+  "translations" : {
+    "russian" : "Нападение животных, падения вниз по лестнице?"
+  },
+  "tokens" : [ {
+    "token" : "animal",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "attack",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "tumble",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "down",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "stair",
+    "startOffset" : 31,
+    "endOffset" : 37,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -175,6 +246,44 @@
     "token" : "stair",
     "startOffset" : 23,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2LLbDTAu_IiLeTNz",
+  "text" : "Your stairs are steep to climb.",
+  "translations" : {
+    "russian" : "У вас крутая лестница."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "stair",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "steep",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "climb",
+    "startOffset" : 25,
+    "endOffset" : 30,
     "position" : 5
   } ],
   "contentScore" : null

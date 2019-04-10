@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoEbne8DTAu_IiLeto_",
+  "text" : "I'm pressing.",
+  "translations" : {
+    "russian" : "Я нажимаю."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pressing",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "press",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghQ71NEXFMlzHK-MC",
   "text" : "Why bother pressing it...",
   "translations" : {
@@ -187,6 +210,109 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEbpGjDTAu_IiLetqF",
+  "text" : "Press.",
+  "translations" : {
+    "russian" : "Журналистам."
+  },
+  "tokens" : [ {
+    "token" : "press",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbmOlDTAu_IiLetoC",
+  "text" : "Press up!",
+  "translations" : {
+    "russian" : "Нажми вверх !"
+  },
+  "tokens" : [ {
+    "token" : "press",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbmS-DTAu_IiLetoF",
+  "text" : "Press conference?",
+  "translations" : {
+    "russian" : "Пресс-конференцию? Ха?"
+  },
+  "tokens" : [ {
+    "token" : "press",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "conference",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEboCGDTAu_IiLetpY",
+  "text" : "Press harder.",
+  "translations" : {
+    "russian" : "Дави сильней."
+  },
+  "tokens" : [ {
+    "token" : "press",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "hard",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEblpeDTAu_IiLetns",
+  "text" : "Press it.",
+  "translations" : {
+    "russian" : "Нажмите её."
+  },
+  "tokens" : [ {
+    "token" : "press",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEboFRDTAu_IiLetpb",
+  "text" : "Press hard.",
+  "translations" : {
+    "russian" : "Дави!"
+  },
+  "tokens" : [ {
+    "token" : "press",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "hard",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghRTVNEXFMlzHK-MW",
   "text" : "Fresh off the presses.",
   "translations" : {
@@ -267,197 +393,6 @@
     "token" : "you",
     "startOffset" : 20,
     "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrv9vNEXFMlzHLLdd",
-  "text" : "Yeah, like depressed squared.",
-  "translations" : {
-    "russian" : "Скорее в депрессии в квадрате."
-  },
-  "tokens" : [ {
-    "token" : "yeah",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "press",
-    "startOffset" : 11,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "square",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmetaNEXFMlzHLD9e",
-  "text" : "No more press, okay?",
-  "translations" : {
-    "russian" : "Больше никакой прессы, ладно?"
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "more",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "press",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "okay",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmffdNEXFMlzHLD-y",
-  "text" : "Hot off the presses.",
-  "translations" : {
-    "russian" : "Ещё горяченькие из печати."
-  },
-  "tokens" : [ {
-    "token" : "hot",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "off",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "press",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmfhaNEXFMlzHLD-1",
-  "text" : "Hot off the presses.",
-  "translations" : {
-    "russian" : "Только что из печати."
-  },
-  "tokens" : [ {
-    "token" : "hot",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "off",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "press",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghP5MNEXFMlzHK-LH",
-  "text" : "Where should press?",
-  "translations" : {
-    "russian" : "Куда надо нажать?"
-  },
-  "tokens" : [ {
-    "token" : "where",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "should",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "press",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghRSHNEXFMlzHK-MV",
-  "text" : "Fresh off the press!",
-  "translations" : {
-    "russian" : "Только что из типографии!"
-  },
-  "tokens" : [ {
-    "token" : "fresh",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "off",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "press",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmfmDNEXFMlzHLD-8",
-  "text" : "Fresh off the press!",
-  "translations" : {
-    "russian" : "Только что из типографии!"
-  },
-  "tokens" : [ {
-    "token" : "fresh",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "off",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "press",
-    "startOffset" : 14,
-    "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null

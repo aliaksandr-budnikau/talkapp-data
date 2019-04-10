@@ -32,6 +32,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoELXZtDTAu_IiLehvi",
+  "text" : "Sabbaticals, transfers, reassignments.",
+  "translations" : {
+    "russian" : "Отпуска, переводы, переназначения."
+  },
+  "tokens" : [ {
+    "token" : "sabbatical",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "transfer",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "assignment",
+    "startOffset" : 24,
+    "endOffset" : 37,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgy_qkNEXFMlzHLVi-",
   "text" : "I want to transfer.",
   "translations" : {
@@ -134,6 +157,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD6k2LDTAu_IiLeVOY",
+  "text" : "Initiating transfer - now.",
+  "translations" : {
+    "russian" : "Начало передачи - сейчас."
+  },
+  "tokens" : [ {
+    "token" : "initiating",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "transfer",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "now",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzAQ8NEXFMlzHLVkP",
   "text" : "Transfer to... subway.",
   "translations" : {
@@ -154,6 +200,39 @@
     "startOffset" : 15,
     "endOffset" : 21,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWrBHDTAu_IiLeqRK",
+  "text" : "And that's block transfer computation.",
+  "translations" : {
+    "russian" : "Это и есть вычисление блочной пересылки."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "block",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "transfer",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "computation",
+    "startOffset" : 26,
+    "endOffset" : 37,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -289,6 +368,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDXc4pDTAu_IiLeCFx",
+  "text" : "I saw the escrow transfer.",
+  "translations" : {
+    "russian" : "Я видела перевод средств на тот счет."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "saw",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "escrow",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "transfer",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfhTSNEXFMlzHK8sJ",
   "text" : "Bankers draft or direct transfers.",
   "translations" : {
@@ -356,143 +468,6 @@
     "token" : "transfer",
     "startOffset" : 17,
     "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzAPeNEXFMlzHLVkL",
-  "text" : "What's a functional muscle transfer?",
-  "translations" : {
-    "russian" : "Что такое пересадка мышщ с восстановлением функций?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 7,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "functional",
-    "startOffset" : 9,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "muscle",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "transfer",
-    "startOffset" : 27,
-    "endOffset" : 35,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy_sxNEXFMlzHLVjD",
-  "text" : "I've identified the transfer mechanism.",
-  "translations" : {
-    "russian" : "Я определил механизм переноса."
-  },
-  "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "identified",
-    "startOffset" : 5,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "identify",
-    "startOffset" : 5,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "transfer",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "mechanism",
-    "startOffset" : 29,
-    "endOffset" : 38,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy9-9NEXFMlzHLVfs",
-  "text" : "Just transfer the damn call.",
-  "translations" : {
-    "russian" : "Переведи уже этот чертов звонок."
-  },
-  "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "transfer",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "damn",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "call",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzAHINEXFMlzHLVj3",
-  "text" : "Nothing must interfere with transfer.",
-  "translations" : {
-    "russian" : "Ничто не должно помешать перемещению."
-  },
-  "tokens" : [ {
-    "token" : "nothing",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "must",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "interfere",
-    "startOffset" : 13,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "with",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "transfer",
-    "startOffset" : 28,
-    "endOffset" : 36,
     "position" : 4
   } ],
   "contentScore" : null

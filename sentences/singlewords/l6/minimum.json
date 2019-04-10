@@ -1,4 +1,162 @@
 [ {
+  "id" : "AWoEAWNADTAu_IiLeZb7",
+  "text" : "Minimum wage?",
+  "translations" : {
+    "russian" : "Минимальная зарплата?"
+  },
+  "tokens" : [ {
+    "token" : "minimum",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wage",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAW2CDTAu_IiLeZcc",
+  "text" : "Minimum wage plus tips.",
+  "translations" : {
+    "russian" : "Минимальная заработная плата плюс чаевые."
+  },
+  "tokens" : [ {
+    "token" : "minimum",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wage",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "plus",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "tip",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAWMBDTAu_IiLeZb6",
+  "text" : "And minimum wage?",
+  "translations" : {
+    "russian" : "И минимальная зарплата?"
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "minimum",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "wage",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAWTlDTAu_IiLeZcC",
+  "text" : "It's minimum wage.",
+  "translations" : {
+    "russian" : "Это минимальная зарплата."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "minimum",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "wage",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAWwaDTAu_IiLeZcY",
+  "text" : "Why have a minimum wage?",
+  "translations" : {
+    "russian" : "Зачем минимальная заработная плата?"
+  },
+  "tokens" : [ {
+    "token" : "why",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "minimum",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "wage",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE19_ODTAu_IiLfBAg",
+  "text" : "I'm gonna bet the minimum.",
+  "translations" : {
+    "russian" : "Я сделаю минимальную ставку."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gonna",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "bet",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "minimum",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgodqONEXFMlzHLG9I",
   "text" : "Minimum prize is 500 euros.",
   "translations" : {
@@ -29,6 +187,82 @@
     "startOffset" : 21,
     "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAWtfDTAu_IiLeZcW",
+  "text" : "That's not even minimum wage.",
+  "translations" : {
+    "russian" : "Это даже не минимальная заработная плата."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "even",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "ev",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "minimum",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "wage",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAWoHDTAu_IiLeZcS",
+  "text" : "We support the 2 minimum wage.",
+  "translations" : {
+    "russian" : "Мы поддерживаем 2 минимальной заработной платы."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "support",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "2",
+    "startOffset" : 15,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "minimum",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "wage",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -66,6 +300,44 @@
     "token" : "minimum",
     "startOffset" : 26,
     "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAWpGDTAu_IiLeZcT",
+  "text" : "We'd talk about the minimum wage.",
+  "translations" : {
+    "russian" : "Мы бы говорили о минимальном уровне заработной платы."
+  },
+  "tokens" : [ {
+    "token" : "we'd",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "talk",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "about",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "minimum",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "wage",
+    "startOffset" : 28,
+    "endOffset" : 32,
     "position" : 5
   } ],
   "contentScore" : null

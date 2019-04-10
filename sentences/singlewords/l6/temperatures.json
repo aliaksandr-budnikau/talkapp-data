@@ -1,4 +1,180 @@
 [ {
+  "id" : "AWoFd4msDTAu_IiLfeze",
+  "text" : "Stable temperature.",
+  "translations" : {
+    "russian" : "Постоянная температура."
+  },
+  "tokens" : [ {
+    "token" : "stable",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "st",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "temperature",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDZ6iDTAu_IiLeb0B",
+  "text" : "Temperature, relative humidity.",
+  "translations" : {
+    "russian" : "За температурой и относительной влажностью."
+  },
+  "tokens" : [ {
+    "token" : "temperature",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "relative",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "relate",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "humidity",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEep-TDTAu_IiLev2r",
+  "text" : "Fuel temperature correct.",
+  "translations" : {
+    "russian" : "Температура горючего оптимальная."
+  },
+  "tokens" : [ {
+    "token" : "fuel",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "temperature",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "correct",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDg7nVDTAu_IiLeHf-",
+  "text" : "Temperature decreasing rapidly.",
+  "translations" : {
+    "russian" : "Температура, резко падает."
+  },
+  "tokens" : [ {
+    "token" : "temperature",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "decreasing",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "creasing",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "rapid",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2TFvDTAu_IiLeTRi",
+  "text" : "Temperature decreasing rapidly.",
+  "translations" : {
+    "russian" : "Температура, резко падает."
+  },
+  "tokens" : [ {
+    "token" : "temperature",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "decreasing",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "creasing",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "rapid",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDg6iaDTAu_IiLeHfX",
+  "text" : "Temperatures falling rapidly.",
+  "translations" : {
+    "russian" : "Температура стремительно падает."
+  },
+  "tokens" : [ {
+    "token" : "temperature",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "fall",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "rapid",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2RwFDTAu_IiLeTQ7",
+  "text" : "Temperatures falling rapidly.",
+  "translations" : {
+    "russian" : "Температура стремительно падает."
+  },
+  "tokens" : [ {
+    "token" : "temperature",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "fall",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "rapid",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdZ4zNEXFMlzHK637",
   "text" : "Tropical weather temperature presents inconsistencies.",
   "translations" : {
@@ -75,6 +251,72 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFcCK4DTAu_IiLfdcY",
+  "text" : "Specify temperature. I don't care.",
+  "translations" : {
+    "russian" : "Уточните температуру."
+  },
+  "tokens" : [ {
+    "token" : "specify",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "temperature",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "i",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "don't",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "care",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbs26DTAu_IiLfdLj",
+  "text" : "Specify temperature. I don't care.",
+  "translations" : {
+    "russian" : "Уточните температуру."
+  },
+  "tokens" : [ {
+    "token" : "specify",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "temperature",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "i",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "don't",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "care",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwyWxNEXFMlzHLSiE",
   "text" : "The temperatures dropping too fast.",
   "translations" : {
@@ -138,6 +380,120 @@
     "startOffset" : 23,
     "endOffset" : 34,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErOvSDTAu_IiLe5dG",
+  "text" : "Temperature gauge is off the scale.",
+  "translations" : {
+    "russian" : "Датчик температуры зашкалил."
+  },
+  "tokens" : [ {
+    "token" : "temperature",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "gauge",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "off",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "scale",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZemsDTAu_IiLfbYI",
+  "text" : "Cattle deaths, temperature fluctuations electrical storms.",
+  "translations" : {
+    "russian" : "Падёж скота, перепады температуры, грозовые бури."
+  },
+  "tokens" : [ {
+    "token" : "cattle",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "deaths",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "temperature",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "fluctuate",
+    "startOffset" : 27,
+    "endOffset" : 39,
+    "position" : 3
+  }, {
+    "token" : "electrical",
+    "startOffset" : 40,
+    "endOffset" : 50,
+    "position" : 4
+  }, {
+    "token" : "storm",
+    "startOffset" : 51,
+    "endOffset" : 57,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETQXXDTAu_IiLenqG",
+  "text" : "Temperature gauge is off the scale.",
+  "translations" : {
+    "russian" : "Датчик температуры зашкалил."
+  },
+  "tokens" : [ {
+    "token" : "temperature",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "gauge",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "off",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "scale",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

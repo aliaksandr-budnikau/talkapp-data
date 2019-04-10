@@ -32,6 +32,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEBkoHDTAu_IiLeaXu",
+  "text" : "They owe me favors.",
+  "translations" : {
+    "russian" : "Они мне должны кое-что."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "owe",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "favors",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "favor",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgl8QKNEXFMlzHLDCx",
   "text" : "I don't need no favors.",
   "translations" : {
@@ -337,6 +370,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEWaa_DTAu_IiLeqFK",
+  "text" : "All outcomes favor me.",
+  "translations" : {
+    "russian" : "Любой исход будет в мою пользу."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "outcome",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "favor",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgl9NRNEXFMlzHLDDj",
   "text" : "I'm doing you a favor.",
   "translations" : {
@@ -437,72 +498,6 @@
     "token" : "kidding",
     "startOffset" : 18,
     "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl-WZNEXFMlzHLDFo",
-  "text" : "You did me a favor.",
-  "translations" : {
-    "russian" : "Ы мне услугу оказал."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "did",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 3
-  }, {
-    "token" : "favor",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl-hoNEXFMlzHLDGB",
-  "text" : "I need a favor, okay?",
-  "translations" : {
-    "russian" : "Помоги, ладно?"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "need",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 7,
-    "endOffset" : 8,
-    "position" : 2
-  }, {
-    "token" : "favor",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "okay",
-    "startOffset" : 16,
-    "endOffset" : 20,
     "position" : 4
   } ],
   "contentScore" : null

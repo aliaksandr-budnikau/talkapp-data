@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFhdtxDTAu_IiLfhOX",
+  "text" : "You have starched curtains!",
+  "translations" : {
+    "russian" : "Ты накрахмалила шторы?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "starch",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "curtain",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjiXdNEXFMlzHLAGH",
   "text" : "You had the curtains cleaned.",
   "translations" : {
@@ -29,6 +57,77 @@
     "startOffset" : 21,
     "endOffset" : 28,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERIs2DTAu_IiLemEx",
+  "text" : "He peeked behind the curtain.",
+  "translations" : {
+    "russian" : "Он заглянул за занавес."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "peek",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "behind",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "curtain",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7GvGDTAu_IiLfEX6",
+  "text" : "She wants her curtain tassels back.",
+  "translations" : {
+    "russian" : "Хочет свою занавеску с кисточками назад."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "want",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "her",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "curtain",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "tassel",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "back",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,99 @@
 [ {
+  "id" : "AWoFFtNCDTAu_IiLfMNK",
+  "text" : "Yoke, actually.",
+  "translations" : {
+    "russian" : "Вообще-то хомут."
+  },
+  "tokens" : [ {
+    "token" : "yoke",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "actual",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVvteDTAu_IiLfYeX",
+  "text" : "Actual quote.",
+  "translations" : {
+    "russian" : "Так и сказала."
+  },
+  "tokens" : [ {
+    "token" : "actual",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "quote",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExKQeDTAu_IiLe9nM",
+  "text" : "Episcopalian, actually.",
+  "translations" : {
+    "russian" : "Вообще-то, епископальный."
+  },
+  "tokens" : [ {
+    "token" : "episcopalian",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "actual",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEy1ltDTAu_IiLe-1-",
+  "text" : "Buffy, actually.",
+  "translations" : {
+    "russian" : "Вообще-то Баффи."
+  },
+  "tokens" : [ {
+    "token" : "buffy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "actual",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE72EDDTAu_IiLfE2l",
+  "text" : "Fascinating, actually.",
+  "translations" : {
+    "russian" : "Поразительные случаи."
+  },
+  "tokens" : [ {
+    "token" : "fascinating",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "fascinate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "actual",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgj3KzNEXFMlzHLAYE",
   "text" : "Actually, it's steer manure.",
   "translations" : {
@@ -47,6 +142,179 @@
     "startOffset" : 18,
     "endOffset" : 21,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbqhYDTAu_IiLeEhn",
+  "text" : "Achilles tendon, actually.",
+  "translations" : {
+    "russian" : "Ахиллово сухожилие, вообще-то."
+  },
+  "tokens" : [ {
+    "token" : "achilles",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "tendon",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "actual",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDniJ7DTAu_IiLeLMD",
+  "text" : "He was rambling, actually.",
+  "translations" : {
+    "russian" : "Он говорил бессвязно, на самом деле."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "rambling",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "ramble",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "actual",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrtZVDTAu_IiLeNav",
+  "text" : "No, actually, I'm nearsighted.",
+  "translations" : {
+    "russian" : "Нет, вообще я близорукий."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "actual",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "i'm",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "nearsighted",
+    "startOffset" : 18,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGbzmDTAu_IiLeeId",
+  "text" : "A CALLBACK, ACTUALLY.",
+  "translations" : {
+    "russian" : "Перезвонить, вообще-то."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "callback",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "actual",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3ARwDTAu_IiLfBs6",
+  "text" : "Actually, it's called curling.",
+  "translations" : {
+    "russian" : "На самом деле, это называется кёрлинг."
+  },
+  "tokens" : [ {
+    "token" : "actual",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "called",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "call",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "curling",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "curl",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNcXFDTAu_IiLfSRB",
+  "text" : "Ah, they're informative, actually.",
+  "translations" : {
+    "russian" : "А, они действительно информативны."
+  },
+  "tokens" : [ {
+    "token" : "ah",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "they're",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "informative",
+    "startOffset" : 12,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "actual",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -131,359 +399,6 @@
     "startOffset" : 20,
     "endOffset" : 25,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgx_dtNEXFMlzHLUDy",
-  "text" : "Actually... good point.",
-  "translations" : {
-    "russian" : "Вообще-то... хорошая мысль."
-  },
-  "tokens" : [ {
-    "token" : "actual",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "good",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "point",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzOcMNEXFMlzHLWBx",
-  "text" : "It's actually quite disgusting.",
-  "translations" : {
-    "russian" : "На самом деле, отвратительно."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "actual",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "quite",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "disgusting",
-    "startOffset" : 20,
-    "endOffset" : 30,
-    "position" : 3
-  }, {
-    "token" : "gusting",
-    "startOffset" : 20,
-    "endOffset" : 30,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgowvbNEXFMlzHLHYC",
-  "text" : "Actually, Snapper, I can.",
-  "translations" : {
-    "russian" : "Вообще-то ,Снэппер, могу."
-  },
-  "tokens" : [ {
-    "token" : "actual",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "snapper",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "i",
-    "startOffset" : 19,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "can",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgq8N3NEXFMlzHLKRJ",
-  "text" : "His features are actually...",
-  "translations" : {
-    "russian" : "Его черты лица..."
-  },
-  "tokens" : [ {
-    "token" : "his",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "feature",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "actual",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpDABNEXFMlzHLHwM",
-  "text" : "Actually, Fiona's my Western front.",
-  "translations" : {
-    "russian" : "На самом деле Фиона - мой Западный фронт."
-  },
-  "tokens" : [ {
-    "token" : "actual",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "fiona",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "western",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "front",
-    "startOffset" : 29,
-    "endOffset" : 34,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgs-llNEXFMlzHLNKq",
-  "text" : "You don't actually volunteer here.",
-  "translations" : {
-    "russian" : "Ты, на самом деле, не волонтер здесь."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "don't",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "actual",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "volunteer",
-    "startOffset" : 19,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "here",
-    "startOffset" : 29,
-    "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzX2uNEXFMlzHLWVU",
-  "text" : "We actually made apple tarts.",
-  "translations" : {
-    "russian" : "Мы даже приготовили яблочные пироги."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "actual",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "made",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "apple",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "tart",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglPQFNEXFMlzHLCLc",
-  "text" : "We caused an actual landslide.",
-  "translations" : {
-    "russian" : "Мы создали настоящий оползень."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "caused",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "cause",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "an",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "actual",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "landslide",
-    "startOffset" : 20,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglYOZNEXFMlzHLCbv",
-  "text" : "These things actually attract wind.",
-  "translations" : {
-    "russian" : "Эта штука и правда покорительница ветров."
-  },
-  "tokens" : [ {
-    "token" : "these",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "th",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "actual",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "attract",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "wind",
-    "startOffset" : 30,
-    "endOffset" : 34,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnhTSNEXFMlzHLFla",
-  "text" : "Actually, my fingers are frying.",
-  "translations" : {
-    "russian" : "Кстати, мои пальцы начинают поджариваться."
-  },
-  "tokens" : [ {
-    "token" : "actual",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "finger",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "are",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "fry",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqdC_NEXFMlzHLJq6",
-  "text" : "I'm actually the general manager.",
-  "translations" : {
-    "russian" : "Я, вообще-то, тут главный управляющий."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "actual",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "general",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "manager",
-    "startOffset" : 25,
-    "endOffset" : 32,
-    "position" : 4
-  }, {
-    "token" : "manage",
-    "startOffset" : 25,
-    "endOffset" : 32,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

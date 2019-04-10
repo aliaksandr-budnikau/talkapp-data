@@ -1,4 +1,111 @@
 [ {
+  "id" : "AWoFiXTnDTAu_IiLfhws",
+  "text" : "These are refugees, peasants.",
+  "translations" : {
+    "russian" : "Это крестьяне, беженцы."
+  },
+  "tokens" : [ {
+    "token" : "these",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "refugee",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "peasant",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXhy_DTAu_IiLeq4g",
+  "text" : "All Vietnamese refugees.",
+  "translations" : {
+    "russian" : "Все вьетнамские беженцы."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "vietnamese",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "refugee",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXjSADTAu_IiLeq5h",
+  "text" : "He's a Vietnamese refugee.",
+  "translations" : {
+    "russian" : "Беженец из Вьетнама."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "vietnamese",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "refugee",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiu4aDTAu_IiLezHn",
+  "text" : "Status as humanitarian refugee.",
+  "translations" : {
+    "russian" : "Статус как гуманитарный беженец."
+  },
+  "tokens" : [ {
+    "token" : "status",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "as",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "humanitarian",
+    "startOffset" : 10,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "refugee",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguSX2NEXFMlzHLOzJ",
   "text" : "We went to a refugee camp.",
   "translations" : {
@@ -33,6 +140,44 @@
     "token" : "camp",
     "startOffset" : 21,
     "endOffset" : 25,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEajebDTAu_IiLes8W",
+  "text" : "Could be refugees from the ghetto.",
+  "translations" : {
+    "russian" : "Возможно это беглецы из района."
+  },
+  "tokens" : [ {
+    "token" : "could",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "be",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "refugee",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "from",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "ghetto",
+    "startOffset" : 27,
+    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null

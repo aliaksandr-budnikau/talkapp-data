@@ -1,100 +1,354 @@
 [ {
-  "id" : "AWbgrHQ6NEXFMlzHLKhp",
-  "text" : "Sketch artist or photo array?",
+  "id" : "AWoDZkHYDTAu_IiLeDNq",
+  "text" : "Artist ?",
   "translations" : {
-    "russian" : "Набросок со слов или опознание по фотографии?"
+    "russian" : "Артист?"
   },
   "tokens" : [ {
-    "token" : "sketch",
+    "token" : "artist",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
-  }, {
-    "token" : "artist",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "or",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "photo",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "array",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrHz0NEXFMlzHLKiY",
-  "text" : "I'm just a sketch artist.",
+  "id" : "AWoDZlbkDTAu_IiLeDOl",
+  "text" : "You artist?",
   "translations" : {
-    "russian" : "Я просто художник зарисовок."
+    "russian" : "Вы артистка?"
   },
   "tokens" : [ {
-    "token" : "i'm",
+    "token" : "you",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "just",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "sketch",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
     "token" : "artist",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggnlnNEXFMlzHK9n4",
-  "text" : "Sports players, artists and performers...",
+  "id" : "AWoDZnElDTAu_IiLeDPp",
+  "text" : "An artist.",
   "translations" : {
-    "russian" : "Спортсмены, художники и артисты..."
+    "russian" : "Искусством."
   },
   "tokens" : [ {
-    "token" : "sport",
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "artist",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZpUBDTAu_IiLeDRE",
+  "text" : "O Artist.",
+  "translations" : {
+    "russian" : "Или актрисы."
+  },
+  "tokens" : [ {
+    "token" : "o",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "artist",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZpFTDTAu_IiLeDQ6",
+  "text" : "The artist.",
+  "translations" : {
+    "russian" : "Актриса."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "artist",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5VYnDTAu_IiLeUqy",
+  "text" : "Artist, sculptor.",
+  "translations" : {
+    "russian" : "Художник, скульптор."
+  },
+  "tokens" : [ {
+    "token" : "artist",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "player",
-    "startOffset" : 7,
-    "endOffset" : 14,
+    "token" : "sculptor",
+    "startOffset" : 8,
+    "endOffset" : 16,
     "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQF8KDTAu_IiLd9kB",
+  "text" : "Artist, political agitator.",
+  "translations" : {
+    "russian" : "Артистичная, политический агитатор."
+  },
+  "tokens" : [ {
+    "token" : "artist",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "political",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "agitator",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZjjsDTAu_IiLeDNS",
+  "text" : "He is an artist.",
+  "translations" : {
+    "russian" : "Он художник."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 3,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 2
+  }, {
+    "token" : "artist",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZjeRDTAu_IiLeDNP",
+  "text" : "You - an artist!",
+  "translations" : {
+    "russian" : "Ты художник!"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "artist",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZkz3DTAu_IiLeDOI",
+  "text" : "An American artist.",
+  "translations" : {
+    "russian" : "Американская художница."
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "american",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "artist",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZmXGDTAu_IiLeDPK",
+  "text" : "A famous artist?",
+  "translations" : {
+    "russian" : "Работа известного мастера?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "famous",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "artist",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZoODDTAu_IiLeDQV",
+  "text" : "Or they're bunco artists.",
+  "translations" : {
+    "russian" : "Или они мошенники."
+  },
+  "tokens" : [ {
+    "token" : "or",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "they're",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "bunco",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "artist",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZoPUDTAu_IiLeDQW",
+  "text" : "They're rip-off artists.",
+  "translations" : {
+    "russian" : "Они мошенники."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "rip",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "off",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
   }, {
     "token" : "artist",
     "startOffset" : 16,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZorGDTAu_IiLeDQq",
+  "text" : "He's an artist.",
+  "translations" : {
+    "russian" : "Он творец."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "artist",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZpc3DTAu_IiLeDRK",
+  "text" : "You're an artist.",
+  "translations" : {
+    "russian" : "Как у актрисы."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "artist",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESOifDTAu_IiLem4X",
+  "text" : "Artist, inventor, sculptor, naturalist.",
+  "translations" : {
+    "russian" : "Художник, изобретатель, скульптор, натуралист."
+  },
+  "tokens" : [ {
+    "token" : "artist",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "inventor",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "sculptor",
+    "startOffset" : 18,
+    "endOffset" : 26,
     "position" : 2
   }, {
-    "token" : "and",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "perform",
+    "token" : "naturalist",
     "startOffset" : 28,
     "endOffset" : 38,
-    "position" : 4
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

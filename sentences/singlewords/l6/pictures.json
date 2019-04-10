@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoEFE1aDTAu_IiLedH8",
+  "text" : "There were pictures, explicit pictures.",
+  "translations" : {
+    "russian" : "Были еще фотографии, откровенные фотографии."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "were",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "picture",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "explicit",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "picture",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpoLlDTAu_IiLe4T4",
+  "text" : "I'm attaching a picture.",
+  "translations" : {
+    "russian" : "Я прикреплю к письму свою фотку."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "attach",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "picture",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrmi4NEXFMlzHLLPn",
   "text" : "I can't picture Nevers.",
   "translations" : {
@@ -51,6 +112,67 @@
     "token" : "picture",
     "startOffset" : 23,
     "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHL5bDTAu_IiLfNWD",
+  "text" : "No pictures, no statues.",
+  "translations" : {
+    "russian" : "Ни портретов, ни памятников."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "picture",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "statue",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFW0sIDTAu_IiLfZOI",
+  "text" : "We're distributing his picture.",
+  "translations" : {
+    "russian" : "Мы распространили его фотографию."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "tribute",
+    "startOffset" : 6,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "distribute",
+    "startOffset" : 6,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "picture",
+    "startOffset" : 23,
+    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null
@@ -133,6 +255,95 @@
     "position" : 2
   }, {
     "token" : "square",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgl-sDTAu_IiLeHTT",
+  "text" : "The picture's awful dusty.",
+  "translations" : {
+    "russian" : "Эта картина ужасно пыльная."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "picture",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "awful",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "dusty",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDt2yiDTAu_IiLeOtU",
+  "text" : "The pictures are morbid.",
+  "translations" : {
+    "russian" : "Нездоровые картины."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "picture",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "morbid",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPwB9DTAu_IiLfUAN",
+  "text" : "Finch traced the picture.",
+  "translations" : {
+    "russian" : "Финч проследил картину."
+  },
+  "tokens" : [ {
+    "token" : "finch",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "traced",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "trace",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "picture",
     "startOffset" : 17,
     "endOffset" : 24,
     "position" : 3
@@ -238,43 +449,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjZQJNEXFMlzHK_-I",
-  "text" : "The picture quality is great.",
+  "id" : "AWoDtLZBDTAu_IiLeOTD",
+  "text" : "She paints a vivid picture.",
   "translations" : {
-    "russian" : "Хэ, качество картинки просто супер.."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "picture",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "quality",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "great",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrlhINEXFMlzHLLOD",
-  "text" : "She always loved the pictures.",
-  "translations" : {
-    "russian" : "Ей всегда нравились картинки."
+    "russian" : "Она описывает все очень ярко."
   },
   "tokens" : [ {
     "token" : "she",
@@ -282,237 +460,24 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "alway",
+    "token" : "paint",
     "startOffset" : 4,
     "endOffset" : 10,
     "position" : 1
-  }, {
-    "token" : "loved",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "love",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "picture",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrm2pNEXFMlzHLLQB",
-  "text" : "What's with that weird picture?",
-  "translations" : {
-    "russian" : "Что это за представление?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "with",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "weird",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "picture",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrlSANEXFMlzHLLNv",
-  "text" : "Saw one in a picture.",
-  "translations" : {
-    "russian" : "Видел такой на картинке."
-  },
-  "tokens" : [ {
-    "token" : "saw",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "one",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
   }, {
     "token" : "a",
     "startOffset" : 11,
     "endOffset" : 12,
-    "position" : 3
-  }, {
-    "token" : "picture",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrl23NEXFMlzHLLOm",
-  "text" : "We've got tons of pictures.",
-  "translations" : {
-    "russian" : "У нас есть тонны рисунков."
-  },
-  "tokens" : [ {
-    "token" : "we've",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "ton",
-    "startOffset" : 10,
-    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "of",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "picture",
-    "startOffset" : 18,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrl9cNEXFMlzHLLOx",
-  "text" : "That picture on the news.",
-  "translations" : {
-    "russian" : "Тот рисунок в новостях."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "picture",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "on",
+    "token" : "vivid",
     "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "news",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "new",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrmz9NEXFMlzHLLP-",
-  "text" : "It's challenged by this picture.",
-  "translations" : {
-    "russian" : "Такое представление действительно ставит его под сомнение."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "challenged",
-    "startOffset" : 5,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "challenge",
-    "startOffset" : 5,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "by",
-    "startOffset" : 16,
     "endOffset" : 18,
-    "position" : 2
+    "position" : 3
   }, {
-    "token" : "this",
+    "token" : "picture",
     "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "picture",
-    "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrmjmNEXFMlzHLLPo",
-  "text" : "I was picturing Whore Island.",
-  "translations" : {
-    "russian" : "Прости, я представлял себе блядский остров."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "picture",
-    "startOffset" : 6,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "whore",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "island",
-    "startOffset" : 22,
-    "endOffset" : 28,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null

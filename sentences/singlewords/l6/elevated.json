@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoDSzGoDTAu_IiLd_bx",
+  "text" : "Elevated albumen 7.2.",
+  "translations" : {
+    "russian" : "Белки примерно 7. 2."
+  },
+  "tokens" : [ {
+    "token" : "elevated",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "elevate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "albumen",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "album",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "7.2",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgee_ANEXFMlzHK7yH",
   "text" : "Rest, ice, compression, elevate.",
   "translations" : {
@@ -28,6 +61,39 @@
     "token" : "elevate",
     "startOffset" : 24,
     "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeNwcDTAu_IiLffCX",
+  "text" : "CK elevates, coordination suffers.",
+  "translations" : {
+    "russian" : "Креатикиназа растёт, ухудшается координация."
+  },
+  "tokens" : [ {
+    "token" : "ck",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "elevate",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "coordination",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "coordinate",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "suffer",
+    "startOffset" : 26,
+    "endOffset" : 33,
     "position" : 3
   } ],
   "contentScore" : null

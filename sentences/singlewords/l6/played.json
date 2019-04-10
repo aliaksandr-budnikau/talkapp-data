@@ -32,6 +32,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEsp-dDTAu_IiLe6at",
+  "text" : "I played for Valley.",
+  "translations" : {
+    "russian" : "Я играл за Веллэй."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "played",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "valley",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmxzbNEXFMlzHLEeO",
   "text" : "He played slots.",
   "translations" : {
@@ -89,6 +122,39 @@
     "token" : "me",
     "startOffset" : 15,
     "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWguFDTAu_IiLfY_2",
+  "text" : "I played the clarinet.",
+  "translations" : {
+    "russian" : "Я играл на кларнете."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "played",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "clarinet",
+    "startOffset" : 13,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
@@ -155,6 +221,39 @@
     "token" : "set",
     "startOffset" : 14,
     "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdKwcDTAu_IiLeutf",
+  "text" : "I played a hunch.",
+  "translations" : {
+    "russian" : "У меня было предчувствие."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "played",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "hunch",
+    "startOffset" : 11,
+    "endOffset" : 16,
     "position" : 3
   } ],
   "contentScore" : null
@@ -230,6 +329,105 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDROWZDTAu_IiLd-Xg",
+  "text" : "Paganini played the accordion.",
+  "translations" : {
+    "russian" : "Паганини на аккордеоне играл. Ничего, научится."
+  },
+  "tokens" : [ {
+    "token" : "paganini",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "played",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "accordion",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaJHxDTAu_IiLesrT",
+  "text" : "I played with cheetahs!",
+  "translations" : {
+    "russian" : "Я играл с гепардами!"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "played",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "cheetahs",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaJIwDTAu_IiLesrU",
+  "text" : "I played with cheetahs!",
+  "translations" : {
+    "russian" : "Я играл с гепардами!"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "played",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "cheetahs",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxG9INEXFMlzHLS21",
   "text" : "He played his hand well.",
   "translations" : {
@@ -264,6 +462,44 @@
     "token" : "well",
     "startOffset" : 19,
     "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWgswDTAu_IiLfY_1",
+  "text" : "I played the clarinet, right?",
+  "translations" : {
+    "russian" : "Я играл на кларнете."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "played",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "clarinet",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "right",
+    "startOffset" : 23,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null
@@ -303,242 +539,6 @@
     "startOffset" : 22,
     "endOffset" : 28,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdQgRNEXFMlzHK6wO",
-  "text" : "Played like a cheap harpsichord.",
-  "translations" : {
-    "russian" : "Использовали, как дешевый клавесин."
-  },
-  "tokens" : [ {
-    "token" : "played",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "play",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "cheap",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "harpsichord",
-    "startOffset" : 20,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggfdkNEXFMlzHK9gw",
-  "text" : "Well, everyone played their part.",
-  "translations" : {
-    "russian" : "Все сыграли свою роль."
-  },
-  "tokens" : [ {
-    "token" : "well",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "everyone",
-    "startOffset" : 6,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "played",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "play",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "their",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "part",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnFmgNEXFMlzHLE7x",
-  "text" : "I've never played dice before.",
-  "translations" : {
-    "russian" : "Я никогда прежде не играл в кости."
-  },
-  "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "never",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "played",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "play",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "dice",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "before",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdOSINEXFMlzHK6uR",
-  "text" : "It's their only play.",
-  "translations" : {
-    "russian" : "Это их единственный ход."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "their",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "only",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "play",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdPcGNEXFMlzHK6vT",
-  "text" : "They're playing our song.",
-  "translations" : {
-    "russian" : "Они исполняют нашу песню."
-  },
-  "tokens" : [ {
-    "token" : "they're",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "playing",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "play",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "song",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdQ6KNEXFMlzHK6wj",
-  "text" : "Play to your strengths.",
-  "translations" : {
-    "russian" : "Используй Свои Сильные Стороны."
-  },
-  "tokens" : [ {
-    "token" : "play",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "strengths",
-    "startOffset" : 13,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdQJkNEXFMlzHK6v7",
-  "text" : "Don't play, old man.",
-  "translations" : {
-    "russian" : "Не прикидывайся, старик."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "play",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "old",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "man",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

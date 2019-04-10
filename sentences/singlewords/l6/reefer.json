@@ -208,6 +208,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEtP0-DTAu_IiLe60C",
+  "text" : "Capitol Reef, Acadia, often overlooked.",
+  "translations" : {
+    "russian" : "Капитол Риф, Акедия, который так часто не замечают."
+  },
+  "tokens" : [ {
+    "token" : "capitol",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "reef",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "acadia",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "often",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "oft",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "overlook",
+    "startOffset" : 28,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgl--bNEXFMlzHLDG2",
   "text" : "We're headed for the reefs!",
   "translations" : {
@@ -372,24 +410,6 @@
     "token" : "reef",
     "startOffset" : 5,
     "endOffset" : 9,
-    "position" : 1
-  } ],
-  "contentScore" : "POOR"
-}, {
-  "id" : "AWbgl-6hNEXFMlzHLDGt",
-  "text" : "Reef, look.",
-  "translations" : {
-    "russian" : "Риф, смотри."
-  },
-  "tokens" : [ {
-    "token" : "reef",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "look",
-    "startOffset" : 6,
-    "endOffset" : 10,
     "position" : 1
   } ],
   "contentScore" : "POOR"

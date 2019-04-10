@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoEkxKIDTAu_IiLe0qp",
+  "text" : "Are her complaints valid?",
+  "translations" : {
+    "russian" : "Ее жалобы обоснованны?"
+  },
+  "tokens" : [ {
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "her",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "complaint",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "valid",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBCa_DTAu_IiLfI0n",
+  "text" : "Your complaint has no merit.",
+  "translations" : {
+    "russian" : "Твой иск не имеет оснований."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "complaint",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "no",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "merit",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqnf4NEXFMlzHLJzx",
   "text" : "No questions, no -- no complaints.",
   "translations" : {
@@ -29,6 +90,115 @@
     "startOffset" : 23,
     "endOffset" : 33,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQmnZDTAu_IiLd97g",
+  "text" : "Take your complaints to administration.",
+  "translations" : {
+    "russian" : "Жалобы отправляйте администрации."
+  },
+  "tokens" : [ {
+    "token" : "take",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "complaint",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "administration",
+    "startOffset" : 24,
+    "endOffset" : 38,
+    "position" : 4
+  }, {
+    "token" : "administrate",
+    "startOffset" : 24,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFA0FTDTAu_IiLfIpu",
+  "text" : "Your complaint has no merit.",
+  "translations" : {
+    "russian" : "Твой иск не имеет оснований."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "complaint",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "no",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "merit",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQDq1DTAu_IiLfUQD",
+  "text" : "No more plaintiff, no more complaint.",
+  "translations" : {
+    "russian" : "Больше никаких истцов, никаких исков."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "more",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "plaintiff",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "no",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "more",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "complaint",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

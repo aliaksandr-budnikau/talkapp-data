@@ -1,0 +1,90 @@
+[ {
+  "id" : "AWoDcmvdDTAu_IiLeFBr",
+  "text" : "Cleanup requested, Bacteriology...",
+  "translations" : {
+    "russian" : "Необходима стерилизация. Бактериологический кабинет."
+  },
+  "tokens" : [ {
+    "token" : "cleanup",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "requested",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "quested",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "bacteriology",
+    "startOffset" : 19,
+    "endOffset" : 31,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcmquDTAu_IiLeFBp",
+  "text" : "Bacteriology, Level 3.",
+  "translations" : {
+    "russian" : "Бактериологический кабинет. 3 уровень."
+  },
+  "tokens" : [ {
+    "token" : "bacteriology",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "level",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "3",
+    "startOffset" : 20,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcmtuDTAu_IiLeFBq",
+  "text" : "Cleanup requested, Bacteriology, Level 3.",
+  "translations" : {
+    "russian" : "Необходима стерилизация. Бактериологический кабинет. 3 уровень."
+  },
+  "tokens" : [ {
+    "token" : "cleanup",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "requested",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "quested",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "bacteriology",
+    "startOffset" : 19,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "level",
+    "startOffset" : 33,
+    "endOffset" : 38,
+    "position" : 3
+  }, {
+    "token" : "3",
+    "startOffset" : 39,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

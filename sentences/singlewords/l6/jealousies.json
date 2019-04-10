@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoDXv-ADTAu_IiLeCNz",
+  "text" : "No jealousy, arguments over girls?",
+  "translations" : {
+    "russian" : "Не ревновали, не ссорились из-за девушек?"
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "jealousy",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "argument",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "over",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "girl",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxmI2NEXFMlzHLTfN",
   "text" : "And a touch of jealousy.",
   "translations" : {
@@ -29,6 +62,44 @@
     "startOffset" : 15,
     "endOffset" : 23,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeeHUDTAu_IiLevth",
+  "text" : "Teenage hormones plus jealousy and rage?",
+  "translations" : {
+    "russian" : "Юношеские гормоны, плюс ревность и злость?"
+  },
+  "tokens" : [ {
+    "token" : "teenage",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "hormone",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "plus",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "jealousy",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 31,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "rage",
+    "startOffset" : 35,
+    "endOffset" : 39,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

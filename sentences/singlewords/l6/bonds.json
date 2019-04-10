@@ -1,4 +1,75 @@
 [ {
+  "id" : "AWoEew-ODTAu_IiLev7l",
+  "text" : "Municipal bonds, mutual funds.",
+  "translations" : {
+    "russian" : "Муниципальные облигации, взаимные фонды."
+  },
+  "tokens" : [ {
+    "token" : "municipal",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "bonds",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "bond",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "mutual",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "fund",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDXNQEDTAu_IiLeB_F",
+  "text" : "Motion for bond approved.",
+  "translations" : {
+    "russian" : "Ходатайство о залоге утверждено."
+  },
+  "tokens" : [ {
+    "token" : "motion",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "mote",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "bond",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "approved",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "approve",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrL2WNEXFMlzHLKod",
   "text" : "Talking, sharing, bonding.",
   "translations" : {
@@ -19,6 +90,105 @@
     "startOffset" : 18,
     "endOffset" : 25,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYrGFDTAu_IiLeCrh",
+  "text" : "Burlington Arcade or Bond Street?",
+  "translations" : {
+    "russian" : "Берлингтонский пассаж или Бонд-Стрит?"
+  },
+  "tokens" : [ {
+    "token" : "burlington",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "arcade",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "or",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "bond",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "street",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDr1d1DTAu_IiLeNfm",
+  "text" : "Tactile proximity enhances bonding protocol.",
+  "translations" : {
+    "russian" : "Тактильная близость усиливает соединение протокола."
+  },
+  "tokens" : [ {
+    "token" : "tactile",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "proximity",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "enhance",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "bond",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "protocol",
+    "startOffset" : 35,
+    "endOffset" : 43,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDhYckDTAu_IiLeHxJ",
+  "text" : "We bonded over our misery.",
+  "translations" : {
+    "russian" : "Мы объединились в наших страданиях."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "bond",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "over",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "our",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "misery",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

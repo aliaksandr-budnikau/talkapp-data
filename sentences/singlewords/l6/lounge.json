@@ -306,44 +306,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvao-NEXFMlzHLQ3e",
-  "text" : "The lounge is in perfect order.",
-  "translations" : {
-    "russian" : "Гостиная в полном порядке."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "lounge",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "perfect",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "order",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgvaj2NEXFMlzHLQ3S",
   "text" : "Coffee and donuts in the lounge.",
   "translations" : {
@@ -378,6 +340,44 @@
     "token" : "lounge",
     "startOffset" : 25,
     "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvao-NEXFMlzHLQ3e",
+  "text" : "The lounge is in perfect order.",
+  "translations" : {
+    "russian" : "Гостиная в полном порядке."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "lounge",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "perfect",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "order",
+    "startOffset" : 25,
+    "endOffset" : 30,
     "position" : 5
   } ],
   "contentScore" : null

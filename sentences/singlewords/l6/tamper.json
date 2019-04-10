@@ -1,11 +1,98 @@
 [ {
-  "id" : "AWbgmGW5NEXFMlzHLDTj",
-  "text" : "Someone tampered with Conrad's brakes.",
+  "id" : "AWoEEGhgDTAu_IiLecX7",
+  "text" : "Tampered with?",
   "translations" : {
-    "russian" : "Кто-то испортил тормоза Конрада."
+    "russian" : "Подделана?"
   },
   "tokens" : [ {
-    "token" : "someone",
+    "token" : "tampered",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "tamper",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEGu7DTAu_IiLecYH",
+  "text" : "Tampered with.",
+  "translations" : {
+    "russian" : "Подделано."
+  },
+  "tokens" : [ {
+    "token" : "tampered",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "tamper",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEGI2DTAu_IiLecXn",
+  "text" : "Witness tampering.",
+  "translations" : {
+    "russian" : "Подкуп свидетелей."
+  },
+  "tokens" : [ {
+    "token" : "witness",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wit",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tamper",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEEMxDTAu_IiLecWH",
+  "text" : "Evidence tampering.",
+  "translations" : {
+    "russian" : "Фальсификация улик..."
+  },
+  "tokens" : [ {
+    "token" : "evidence",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "tamper",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEFudDTAu_IiLecXS",
+  "text" : "They're tampered with.",
+  "translations" : {
+    "russian" : "Они вечно во все вмешиваются."
+  },
+  "tokens" : [ {
+    "token" : "they're",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
@@ -24,15 +111,353 @@
     "startOffset" : 17,
     "endOffset" : 21,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEGGpDTAu_IiLecXl",
+  "text" : "Witness tampering, extortion, bribery.",
+  "translations" : {
+    "russian" : "Подкуп свидетелей, вымогательство, взятки."
+  },
+  "tokens" : [ {
+    "token" : "witness",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
   }, {
-    "token" : "conrad",
+    "token" : "wit",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tamper",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "extortion",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "bribery",
+    "startOffset" : 30,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEGCPDTAu_IiLecXi",
+  "text" : "Jury tampering pays better.",
+  "translations" : {
+    "russian" : "Подкуп присяжного стоит дороже."
+  },
+  "tokens" : [ {
+    "token" : "jury",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "tamper",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "pay",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "better",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEHWCDTAu_IiLecYl",
+  "text" : "I'm not tampering.",
+  "translations" : {
+    "russian" : "Я их не трогала."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "tamper",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEEtgDTAu_IiLecWe",
+  "text" : "He tampered with evidence.",
+  "translations" : {
+    "russian" : "Он подделал улики."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "tampered",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "tamper",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "evidence",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEFl7DTAu_IiLecXL",
+  "text" : "You weren't tampering?",
+  "translations" : {
+    "russian" : "Вы не вмешивались?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "weren't",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "tamper",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEGn2DTAu_IiLecYB",
+  "text" : "Nothing was tampered with.",
+  "translations" : {
+    "russian" : "Ничего Был подделан."
+  },
+  "tokens" : [ {
+    "token" : "nothing",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "tampered",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "tamper",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETd87DTAu_IiLen0o",
+  "text" : "Witness tampering, extortion, bribery.",
+  "translations" : {
+    "russian" : "Подкуп свидетелей, вымогательство, взятки."
+  },
+  "tokens" : [ {
+    "token" : "witness",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wit",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tamper",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "extortion",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "bribery",
+    "startOffset" : 30,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEGHoDTAu_IiLecXm",
+  "text" : "Wiretapping, extortion, jury tampering.",
+  "translations" : {
+    "russian" : "Прослушка, шантаж, подкуп присяжных."
+  },
+  "tokens" : [ {
+    "token" : "wiretapping",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "extortion",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "jury",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "tamper",
+    "startOffset" : 29,
+    "endOffset" : 38,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEFfjDTAu_IiLecXG",
+  "text" : "No tampering with the computer.",
+  "translations" : {
+    "russian" : "В работу компьютера базы тоже никто не вмешивался."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "tamper",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "computer",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "compute",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEGc3DTAu_IiLecX3",
+  "text" : "Apparently, they were tampered with.",
+  "translations" : {
+    "russian" : "По видимому, они были подделаны."
+  },
+  "tokens" : [ {
+    "token" : "apparently",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "they",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "were",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "tampered",
     "startOffset" : 22,
     "endOffset" : 30,
     "position" : 3
   }, {
-    "token" : "brake",
+    "token" : "tamper",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "with",
     "startOffset" : 31,
-    "endOffset" : 37,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEHoVDTAu_IiLecYy",
+  "text" : "They had been tampered with.",
+  "translations" : {
+    "russian" : "Его подменили."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "been",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "tampered",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "tamper",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "with",
+    "startOffset" : 23,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null

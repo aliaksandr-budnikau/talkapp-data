@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoEs11mDTAu_IiLe6il",
+  "text" : "Victim notification.",
+  "translations" : {
+    "russian" : "Уведомить жертву."
+  },
+  "tokens" : [ {
+    "token" : "victim",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "notification",
+    "startOffset" : 7,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "notify",
+    "startOffset" : 7,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXi-yDTAu_IiLfZwo",
+  "text" : "Note the victim's clavicle.",
+  "translations" : {
+    "russian" : "Ключица не принадлежит жертве."
+  },
+  "tokens" : [ {
+    "token" : "note",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "victim",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "clavicle",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglQc-NEXFMlzHLCNq",
   "text" : "Victim's a Naval reservist.",
   "translations" : {
@@ -23,6 +74,90 @@
     "token" : "reservist",
     "startOffset" : 17,
     "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsc1ODTAu_IiLeN3w",
+  "text" : "Victim had blonde hair.",
+  "translations" : {
+    "russian" : "Жертва был блондином."
+  },
+  "tokens" : [ {
+    "token" : "victim",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "blonde",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "hair",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHNFeDTAu_IiLfNXD",
+  "text" : "Our victim's undergone surgery.",
+  "translations" : {
+    "russian" : "Наша жертва перенесла хирургическое вмешательство."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "victim",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "undergone",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "surgery",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD3nCtDTAu_IiLeT4s",
+  "text" : "Now we import victims?",
+  "translations" : {
+    "russian" : "Теперь мы импортируем жертвы?"
+  },
+  "tokens" : [ {
+    "token" : "now",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "we",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "import",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "victim",
+    "startOffset" : 14,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
@@ -55,6 +190,133 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEFGAJDTAu_IiLedIz",
+  "text" : "Got another OD victim.",
+  "translations" : {
+    "russian" : "Ещё одна жертва передоза."
+  },
+  "tokens" : [ {
+    "token" : "got",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "another",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "od",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "victim",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIk23DTAu_IiLefpA",
+  "text" : "But the victim contradicted that?",
+  "translations" : {
+    "russian" : "Но жертва опровергла это?"
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "victim",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "contradict",
+    "startOffset" : 15,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "that",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIr1kDTAu_IiLeft2",
+  "text" : "But the victim contradicted that?",
+  "translations" : {
+    "russian" : "Но жертва опровергла это?"
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "victim",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "contradict",
+    "startOffset" : 15,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "that",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5WvNDTAu_IiLfDP4",
+  "text" : "Victim's name is Andy Huff.",
+  "translations" : {
+    "russian" : "Имя жертвы Энди Хафф."
+  },
+  "tokens" : [ {
+    "token" : "victim",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "name",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "andy",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "huff",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiITVNEXFMlzHK-7G",
   "text" : "The victims and methods vary.",
   "translations" : {
@@ -84,6 +346,72 @@
     "token" : "vary",
     "startOffset" : 24,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdDqHDTAu_IiLeuoh",
+  "text" : "Victim's name is Linda Calvary.",
+  "translations" : {
+    "russian" : "Имя жертвы Линда Калвари."
+  },
+  "tokens" : [ {
+    "token" : "victim",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "name",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "linda",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "calvary",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCi20DTAu_IiLfJ8d",
+  "text" : "Victim's name is Andy Huff.",
+  "translations" : {
+    "russian" : "Имя жертвы Энди Хафф."
+  },
+  "tokens" : [ {
+    "token" : "victim",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "name",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "andy",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "huff",
+    "startOffset" : 22,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null
@@ -121,79 +449,36 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgiOD3NEXFMlzHK-_Z",
-  "text" : "I'm the victim of a plot.",
+  "id" : "AWoEm4kzDTAu_IiLe2Op",
+  "text" : "The victim had Haglund's Deformity.",
   "translations" : {
-    "russian" : "Я - жертва политических интриг."
+    "russian" : "У жертвы была деформация Хаглунда."
   },
   "tokens" : [ {
-    "token" : "i'm",
+    "token" : "the",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
     "token" : "victim",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 18,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "plot",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguelwNEXFMlzHLPLm",
-  "text" : "That's not a typical mob victim.",
-  "translations" : {
-    "russian" : "Это не типичная жертва мафии."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 7,
+    "startOffset" : 4,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "a",
+    "token" : "had",
     "startOffset" : 11,
-    "endOffset" : 12,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "typical",
-    "startOffset" : 13,
-    "endOffset" : 20,
+    "token" : "haglund's",
+    "startOffset" : 15,
+    "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "mob",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "victim",
+    "token" : "deformity",
     "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 5
+    "endOffset" : 34,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

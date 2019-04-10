@@ -1,62 +1,484 @@
 [ {
-  "id" : "AWbgrfyMNEXFMlzHLLFv",
-  "text" : "Measure of control.",
+  "id" : "AWoFJbkeDTAu_IiLfPM2",
+  "text" : "I took a measurement.",
   "translations" : {
-    "russian" : "Метод контроля."
+    "russian" : "Я его измерила."
   },
   "tokens" : [ {
-    "token" : "measure",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "of",
-    "startOffset" : 8,
-    "endOffset" : 10,
+    "token" : "took",
+    "startOffset" : 2,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "control",
-    "startOffset" : 11,
-    "endOffset" : 18,
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
     "position" : 2
+  }, {
+    "token" : "measurement",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "measure",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgc63YNEXFMlzHK6cx",
-  "text" : "Our bikes are made to measure.",
+  "id" : "AWoFJbSqDTAu_IiLfPMl",
+  "text" : "We're for the historical measurement.",
   "translations" : {
-    "russian" : "Вы знаете, что наши велосипеды делаются под заказ?"
+    "russian" : "Мы пришли посмотреть на исторический замер."
   },
   "tokens" : [ {
-    "token" : "our",
+    "token" : "we're",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "bike",
-    "startOffset" : 4,
+    "token" : "for",
+    "startOffset" : 6,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "are",
+    "token" : "the",
     "startOffset" : 10,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "made",
+    "token" : "historical",
     "startOffset" : 14,
-    "endOffset" : 18,
+    "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "to",
-    "startOffset" : 19,
-    "endOffset" : 21,
+    "token" : "measurement",
+    "startOffset" : 25,
+    "endOffset" : 36,
     "position" : 4
   }, {
     "token" : "measure",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 5
+    "startOffset" : 25,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJbUtDTAu_IiLfPMm",
+  "text" : "It's not an accurate measurement.",
+  "translations" : {
+    "russian" : "Это неверный замер."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "accurate",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "measurement",
+    "startOffset" : 21,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "measure",
+    "startOffset" : 21,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJZ7_DTAu_IiLfPLf",
+  "text" : "It's a church measurement tool.",
+  "translations" : {
+    "russian" : "Это инструмент для измерения церкви."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "church",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "measurement",
+    "startOffset" : 14,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "measure",
+    "startOffset" : 14,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "tool",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJa51DTAu_IiLfPMT",
+  "text" : "Ladies measurements.",
+  "translations" : {
+    "russian" : "Дамские мерки?"
+  },
+  "tokens" : [ {
+    "token" : "lady",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "measurement",
+    "startOffset" : 7,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFO0m9DTAu_IiLfTSE",
+  "text" : "Elaborate measures?",
+  "translations" : {
+    "russian" : "Самые тщательные меры?"
+  },
+  "tokens" : [ {
+    "token" : "elaborate",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "measures",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "measure",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJaetDTAu_IiLfPL6",
+  "text" : "You mistook the measurements!",
+  "translations" : {
+    "russian" : "Это не мой размер."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "mistook",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "measurement",
+    "startOffset" : 16,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJaSLDTAu_IiLfPLx",
+  "text" : "Here are the measurements.",
+  "translations" : {
+    "russian" : "Смотри, вот размеры."
+  },
+  "tokens" : [ {
+    "token" : "here",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "measurement",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJa66DTAu_IiLfPMU",
+  "text" : "They needed measurements.",
+  "translations" : {
+    "russian" : "Мерку им надо."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "needed",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "need",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "measurement",
+    "startOffset" : 12,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJadIDTAu_IiLfPL5",
+  "text" : "My measurements are 352535.",
+  "translations" : {
+    "russian" : "Размеры 90-60-90."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "measurement",
+    "startOffset" : 3,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "352535",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJZylDTAu_IiLfPLW",
+  "text" : "Ministries, personal practices, measurements.",
+  "translations" : {
+    "russian" : "Министерства, переговоры, измерения..."
+  },
+  "tokens" : [ {
+    "token" : "ministry",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "personal",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "practice",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 2
+  }, {
+    "token" : "measurement",
+    "startOffset" : 32,
+    "endOffset" : 44,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJaRFDTAu_IiLfPLw",
+  "text" : "Ah, taking my measurements!",
+  "translations" : {
+    "russian" : "Возьмите мои размеры!"
+  },
+  "tokens" : [ {
+    "token" : "ah",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "taking",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "take",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "measurement",
+    "startOffset" : 14,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJb1nDTAu_IiLfPNE",
+  "text" : "So, take the measurements!",
+  "translations" : {
+    "russian" : "Так, пусть он меряет, пусть меряет!"
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "take",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "measurement",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJb_XDTAu_IiLfPNK",
+  "text" : "Carol Lombard's measurements.",
+  "translations" : {
+    "russian" : "Параметры Кэрол Ломбард."
+  },
+  "tokens" : [ {
+    "token" : "carol",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "lombard",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "measurement",
+    "startOffset" : 16,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJbbUDTAu_IiLfPMt",
+  "text" : "I'm gonna do some measurements.",
+  "translations" : {
+    "russian" : "Хочу сделать кой-какие замеры."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gonna",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "do",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "some",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "measurement",
+    "startOffset" : 18,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJZ2NDTAu_IiLfPLZ",
+  "text" : "Do you often make measurements?",
+  "translations" : {
+    "russian" : "Часто производишь измерения?"
+  },
+  "tokens" : [ {
+    "token" : "do",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "often",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "oft",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "make",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "measurement",
+    "startOffset" : 18,
+    "endOffset" : 30,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

@@ -1,21 +1,294 @@
 [ {
-  "id" : "AWbguj88NEXFMlzHLPWG",
-  "text" : "See my white hair?",
+  "id" : "AWoEE67MDTAu_IiLedAk",
+  "text" : "Wolf hairs.",
   "translations" : {
-    "russian" : "Смотри на мои седые волосы."
+    "russian" : "Волчья шерсть."
   },
   "tokens" : [ {
-    "token" : "see",
+    "token" : "wolf",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hair",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFQuoDTAu_IiLedQ0",
+  "text" : "Hair hydrometer.",
+  "translations" : {
+    "russian" : "Волосяной гидрометр."
+  },
+  "tokens" : [ {
+    "token" : "hair",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hydrometer",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpOiQDTAu_IiLe4BU",
+  "text" : "Longish hair.",
+  "translations" : {
+    "russian" : "Длинные такие волосы!"
+  },
+  "tokens" : [ {
+    "token" : "longish",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "hair",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhh1qDTAu_IiLfhQz",
+  "text" : "Dyed hair.",
+  "translations" : {
+    "russian" : "Крашеные волосы."
+  },
+  "tokens" : [ {
+    "token" : "dyed",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "dye",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hair",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDccXnDTAu_IiLeE73",
+  "text" : "Greasy black hair, whiskers.",
+  "translations" : {
+    "russian" : "Жирные черные волосы, усы."
+  },
+  "tokens" : [ {
+    "token" : "greasy",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "black",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "hair",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "whisk",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlYvqDTAu_IiLeKAN",
+  "text" : "Strands of blond hair.",
+  "translations" : {
+    "russian" : "Здесь прядь светлых волос."
+  },
+  "tokens" : [ {
+    "token" : "strand",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "blond",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "hair",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlYi4DTAu_IiLeKAJ",
+  "text" : "Big, blond hair...",
+  "translations" : {
+    "russian" : "Длинные, светлые волосы..."
+  },
+  "tokens" : [ {
+    "token" : "big",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "my",
+    "token" : "blond",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "hair",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrpZ5DTAu_IiLeNYY",
+  "text" : "Gloss rhymes with hair!",
+  "translations" : {
+    "russian" : "Блеск рифмуется с волосами!"
+  },
+  "tokens" : [ {
+    "token" : "gloss",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "rhyme",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "hair",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsIovDTAu_IiLeNra",
+  "text" : "The blond haired monster?",
+  "translations" : {
+    "russian" : "Светловолосый демон?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "blond",
     "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "hair",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "monster",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsbrADTAu_IiLeN3G",
+  "text" : "Blonde hair, blue eyes.",
+  "translations" : {
+    "russian" : "Волосы светлые, голубые глаза."
+  },
+  "tokens" : [ {
+    "token" : "blonde",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "hair",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "blue",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "eye",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsHvADTAu_IiLeNq3",
+  "text" : "Blond hair and teeth?",
+  "translations" : {
+    "russian" : "Светлые волосы и зубы?"
+  },
+  "tokens" : [ {
+    "token" : "blond",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "hair",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "teeth",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "tee",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsH1dDTAu_IiLeNq6",
+  "text" : "He had blond hair.",
+  "translations" : {
+    "russian" : "У него были светлые волосы."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 3,
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "white",
+    "token" : "blond",
     "startOffset" : 7,
     "endOffset" : 12,
     "position" : 2
@@ -27,109 +300,84 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwg9VNEXFMlzHLSQm",
-  "text" : "You changed your hair.",
+  "id" : "AWoDsb51DTAu_IiLeN3P",
+  "text" : "Soft, blonde hairs.",
   "translations" : {
-    "russian" : "Вы поменяли причёску."
+    "russian" : "Мягкий, светлый ворс."
   },
   "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "changed",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "change",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "hair",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzOWiNEXFMlzHLWBk",
-  "text" : "Long, dirty, disgusting hair.",
-  "translations" : {
-    "russian" : "С длинными, грязными, отвратительными волосами."
-  },
-  "tokens" : [ {
-    "token" : "long",
+    "token" : "soft",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "dirty",
+    "token" : "blonde",
     "startOffset" : 6,
-    "endOffset" : 11,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "disgusting",
-    "startOffset" : 13,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "gusting",
-    "startOffset" : 13,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
     "token" : "hair",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 3
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnCpGNEXFMlzHLE3-",
-  "text" : "Don't cut my kid's hair.",
+  "id" : "AWoEE6_GDTAu_IiLedAm",
+  "text" : "This is wolf hair.",
   "translations" : {
-    "russian" : "Не смей стричь волосы моему ребенку."
+    "russian" : "Это волчья шерсть."
   },
   "tokens" : [ {
-    "token" : "don't",
+    "token" : "this",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "cut",
-    "startOffset" : 6,
-    "endOffset" : 9,
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "my",
-    "startOffset" : 10,
+    "token" : "wolf",
+    "startOffset" : 8,
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "kid",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
     "token" : "hair",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbPc0NEXFMlzHK48F",
-  "text" : "And get your hair done!",
+  "id" : "AWoEWjxFDTAu_IiLeqMB",
+  "text" : "A hair brush?",
   "translations" : {
-    "russian" : "И причёску привести в порядок!"
+    "russian" : "Расчёски?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "hair",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "brush",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWxRIDTAu_IiLeqVs",
+  "text" : "And brush your hair.",
+  "translations" : {
+    "russian" : "И расчеши свои волосы."
   },
   "tokens" : [ {
     "token" : "and",
@@ -137,362 +385,20 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "get",
+    "token" : "brush",
     "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "hair",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "done",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgo7r_NEXFMlzHLHnD",
-  "text" : "Same colour hair, slim build.",
-  "translations" : {
-    "russian" : "Тот же цвет волос, худое телосложение."
-  },
-  "tokens" : [ {
-    "token" : "same",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "colour",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "hair",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "slim",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "build",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnFDmNEXFMlzHLE67",
-  "text" : "Your hair was cut too short.",
-  "translations" : {
-    "russian" : "Ваши волосы были подстрижены очень коротко."
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "hair",
-    "startOffset" : 5,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "was",
+    "token" : "your",
     "startOffset" : 10,
-    "endOffset" : 13,
+    "endOffset" : 14,
     "position" : 2
-  }, {
-    "token" : "cut",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "too",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "short",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgub3nNEXFMlzHLPGB",
-  "text" : "Is he tall, dark hair, Hispanic?",
-  "translations" : {
-    "russian" : "Он высокий, темные волосы, испанец?"
-  },
-  "tokens" : [ {
-    "token" : "is",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "he",
-    "startOffset" : 3,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "tall",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "dark",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
   }, {
     "token" : "hair",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "hispanic",
-    "startOffset" : 23,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgukDhNEXFMlzHLPWY",
-  "text" : "Yeah, yeah, I have white hair.",
-  "translations" : {
-    "russian" : "Да, у меня седые волосы."
-  },
-  "tokens" : [ {
-    "token" : "yeah",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "yeah",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "i",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "have",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "white",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "hair",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgg3MKNEXFMlzHK91h",
-  "text" : "Where'd you get the extra hair?",
-  "translations" : {
-    "russian" : "Где ты взял дополнительные волосы?"
-  },
-  "tokens" : [ {
-    "token" : "where'd",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "get",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 16,
+    "startOffset" : 15,
     "endOffset" : 19,
     "position" : 3
-  }, {
-    "token" : "extra",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "hair",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgg623NEXFMlzHK94v",
-  "text" : "And the star in your hair.",
-  "translations" : {
-    "russian" : "Да и звездочка в твоих волосах..."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "star",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "your",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "hair",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgraT3NEXFMlzHLK9r",
-  "text" : "Movie theaters, restaurants, bookstores, hair salons....",
-  "translations" : {
-    "russian" : "Кинотеатрах, ресторанах, книжных магазинах, салонах красоты...."
-  },
-  "tokens" : [ {
-    "token" : "movie",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "theater",
-    "startOffset" : 6,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "restaurant",
-    "startOffset" : 16,
-    "endOffset" : 27,
-    "position" : 2
-  }, {
-    "token" : "bookstore",
-    "startOffset" : 29,
-    "endOffset" : 39,
-    "position" : 3
-  }, {
-    "token" : "hair",
-    "startOffset" : 41,
-    "endOffset" : 45,
-    "position" : 4
-  }, {
-    "token" : "salon",
-    "startOffset" : 46,
-    "endOffset" : 52,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzX__NEXFMlzHLWVl",
-  "text" : "Come here, you curly-haired tart!",
-  "translations" : {
-    "russian" : "Вернись, ты, кудрявая проститутка!"
-  },
-  "tokens" : [ {
-    "token" : "come",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "here",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "curly",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "hair",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "tart",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnmdYNEXFMlzHLFuE",
-  "text" : "And the star in your hair.",
-  "translations" : {
-    "russian" : "Да и звездочка в твоих волосах..."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "star",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "your",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "hair",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

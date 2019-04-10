@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoEHrv4DTAu_IiLefBg",
+  "text" : "To commemorate the occasion.",
+  "translations" : {
+    "russian" : "Чтобы отметить это событие."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "commemorate",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "occasion",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHsNrDTAu_IiLefBy",
+  "text" : "To commemorate this special occasion.",
+  "translations" : {
+    "russian" : "В честь такого события..."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "commemorate",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "special",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "occasion",
+    "startOffset" : 28,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgukhCNEXFMlzHLPXS",
   "text" : "It commemorates the ceremony of acceptance.",
   "translations" : {
@@ -33,6 +94,44 @@
     "token" : "acceptance",
     "startOffset" : 32,
     "endOffset" : 42,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbPazDTAu_IiLeEQn",
+  "text" : "There's a placard the commemorating me!",
+  "translations" : {
+    "russian" : "Там, куда я готова идти, висит плакат, посвященный мне."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "placard",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "commemorate",
+    "startOffset" : 22,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "me",
+    "startOffset" : 36,
+    "endOffset" : 38,
     "position" : 5
   } ],
   "contentScore" : null

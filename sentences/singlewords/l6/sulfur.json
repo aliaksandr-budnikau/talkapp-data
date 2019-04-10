@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoEUC9NDTAu_IiLeoRC",
+  "text" : "Do you smell sulfur?",
+  "translations" : {
+    "russian" : "Чувствуете серу?"
+  },
+  "tokens" : [ {
+    "token" : "do",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "smell",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "sulfur",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUET5DTAu_IiLeoSE",
+  "text" : "I smell sulfur.",
+  "translations" : {
+    "russian" : "Я чувствую запах серы."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "smell",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "sulfur",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjebvNEXFMlzHLACu",
   "text" : "Sulfur dioxide, to be exact.",
   "translations" : {
@@ -28,6 +79,77 @@
     "token" : "exact",
     "startOffset" : 22,
     "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSV2_DTAu_IiLd_H6",
+  "text" : "It's a sulfur-based alkaloid.",
+  "translations" : {
+    "russian" : "Это сернистый алкалоид."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "sulfur",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "base",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "bas",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "alkaloid",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUA8wDTAu_IiLeoPi",
+  "text" : "What a smell of sulfur!",
+  "translations" : {
+    "russian" : "Ах, этот запах серы!"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "smell",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "sulfur",
+    "startOffset" : 16,
+    "endOffset" : 22,
     "position" : 4
   } ],
   "contentScore" : null

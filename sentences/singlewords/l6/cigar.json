@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoEXlWYDTAu_IiLeq7F",
+  "text" : "Havana cigars.",
+  "translations" : {
+    "russian" : "Гаванские."
+  },
+  "tokens" : [ {
+    "token" : "havana",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cigar",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELT02DTAu_IiLehsi",
+  "text" : "Cigars, Carl's mom's crab dip.",
+  "translations" : {
+    "russian" : "Сигары и крабовый салат мамули Карла."
+  },
+  "tokens" : [ {
+    "token" : "cigar",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "carl",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "mom",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "crab",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "dip",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwvX8NEXFMlzHLSfJ",
   "text" : "Dropped cigar ashes on penis.",
   "translations" : {
@@ -29,6 +80,82 @@
     "startOffset" : 23,
     "endOffset" : 28,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESnz1DTAu_IiLenLg",
+  "text" : "This boy wins the gold cigar.",
+  "translations" : {
+    "russian" : "Парень выиграл золотую сигару. Кто-нибудь еще?"
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "boy",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "win",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "gold",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "cigar",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9kX6DTAu_IiLfGDB",
+  "text" : "I paused to enjoy a cigar.",
+  "translations" : {
+    "russian" : "Я остановился, чтобы насладиться сигарой."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "pause",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "enjoy",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 18,
+    "endOffset" : 19,
+    "position" : 4
+  }, {
+    "token" : "cigar",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

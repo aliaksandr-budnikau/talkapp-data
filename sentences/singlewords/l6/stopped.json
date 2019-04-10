@@ -60,6 +60,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEeNrBDTAu_IiLevg5",
+  "text" : "Wormwood can't be stopped.",
+  "translations" : {
+    "russian" : "Полынь не остановить."
+  },
+  "tokens" : [ {
+    "token" : "wormwood",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "can't",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "stopped",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgopcQNEXFMlzHLHO3",
   "text" : "You never stopped talking.",
   "translations" : {
@@ -144,6 +172,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFVRIdDTAu_IiLfYJm",
+  "text" : "Kevlar stopped three.",
+  "translations" : {
+    "russian" : "Три пули в бронежилете."
+  },
+  "tokens" : [ {
+    "token" : "kevlar",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "stopped",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "three",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgm1AONEXFMlzHLEjk",
   "text" : "Slowed, not stopped.",
   "translations" : {
@@ -200,6 +251,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEBO4rDTAu_IiLeaHK",
+  "text" : "They've stopped his visitors.",
+  "translations" : {
+    "russian" : "Они запретили навещать его."
+  },
+  "tokens" : [ {
+    "token" : "they've",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "stopped",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "visitor",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhz7-DTAu_IiLeyV6",
+  "text" : "Her platelets stopped clotting.",
+  "translations" : {
+    "russian" : "Возникла проблема со свертываемостью крови."
+  },
+  "tokens" : [ {
+    "token" : "her",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "platelet",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "stopped",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "clotting",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgook2NEXFMlzHLHNq",
   "text" : "No, stopped, uh...",
   "translations" : {
@@ -246,142 +353,66 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkbbFNEXFMlzHLA_w",
-  "text" : "You stopped the drill, right?",
+  "id" : "AWoDvCswDTAu_IiLePbz",
+  "text" : "The bombardment has stopped.",
   "translations" : {
-    "russian" : "Вы остановили бур, так?"
+    "russian" : "Обстрел закончился."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "the",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "stopped",
+    "token" : "bombardment",
     "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
     "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "drill",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "right",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgn65ZNEXFMlzHLGPo",
-  "text" : "We stopped carrying some others.",
-  "translations" : {
-    "russian" : "Мы перестали торговать другими."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "stopped",
-    "startOffset" : 3,
-    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "carry",
-    "startOffset" : 11,
+    "token" : "bombard",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 16,
     "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "some",
+    "token" : "stopped",
     "startOffset" : 20,
-    "endOffset" : 24,
+    "endOffset" : 27,
     "position" : 3
-  }, {
-    "token" : "other",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgonnlNEXFMlzHLHMS",
-  "text" : "It has not stopped them!",
+  "id" : "AWoEOUxQDTAu_IiLekCY",
+  "text" : "Dissecting is stopped.",
   "translations" : {
-    "russian" : "Это еще не конец!"
+    "russian" : "Расслоение остановлено."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "dissect",
     "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "has",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "not",
-    "startOffset" : 7,
     "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "stopped",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "them",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguYjQNEXFMlzHLO_W",
-  "text" : "I stopped at the bar.",
-  "translations" : {
-    "russian" : "Я заходил в бар."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "stopped",
-    "startOffset" : 2,
-    "endOffset" : 9,
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "at",
-    "startOffset" : 10,
-    "endOffset" : 12,
+    "token" : "stopped",
+    "startOffset" : 14,
+    "endOffset" : 21,
     "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "bar",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrMxqNEXFMlzHLKpz",
-  "text" : "Stopped right by the trailer.",
+  "id" : "AWoDlAY9DTAu_IiLeJzk",
+  "text" : "Stopped for waffles, you know?",
   "translations" : {
-    "russian" : "И остановилась около прицепа."
+    "russian" : "Заехал за вафлями, знаете?"
   },
   "tokens" : [ {
     "token" : "stopped",
@@ -389,94 +420,23 @@
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "right",
+    "token" : "for",
     "startOffset" : 8,
-    "endOffset" : 13,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "by",
-    "startOffset" : 14,
-    "endOffset" : 16,
+    "token" : "waffle",
+    "startOffset" : 12,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "trailer",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "trail",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyR-WNEXFMlzHLUpO",
-  "text" : "He stopped returning e-mails.",
-  "translations" : {
-    "russian" : "Он перестал отвечать на электронку."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "stopped",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "turn",
-    "startOffset" : 11,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "e",
-    "startOffset" : 21,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "mail",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzKLdNEXFMlzHLV46",
-  "text" : "You couldn't have stopped him.",
-  "translations" : {
-    "russian" : "Вы не могли ему помешать."
-  },
-  "tokens" : [ {
     "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "couldn't",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "stopped",
-    "startOffset" : 18,
-    "endOffset" : 25,
+    "startOffset" : 21,
+    "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "him",
-    "startOffset" : 26,
+    "token" : "know",
+    "startOffset" : 25,
     "endOffset" : 29,
     "position" : 4
   } ],

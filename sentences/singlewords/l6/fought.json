@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoEwoyyDTAu_IiLe9Nz",
+  "text" : "Fought at Dunkirk.",
+  "translations" : {
+    "russian" : "Сражался при Дюнкерке."
+  },
+  "tokens" : [ {
+    "token" : "fought",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "at",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "dunkirk",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeQlVNEXFMlzHK7lH",
   "text" : "We fought for the Independence!",
   "translations" : {
@@ -70,6 +93,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoET2jqDTAu_IiLeoHf",
+  "text" : "He fought with his thumb!",
+  "translations" : {
+    "russian" : "Он победил большим пальцем."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "fought",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "his",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "thumb",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgma4qNEXFMlzHLD29",
   "text" : "I'm sorry we fought over dishes.",
   "translations" : {
@@ -104,6 +160,158 @@
     "token" : "h",
     "startOffset" : 25,
     "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEn8g9DTAu_IiLe3EH",
+  "text" : "I fought at Saratoga with dysentery.",
+  "translations" : {
+    "russian" : "Я сражался в бою при Саратоге с дизентерией."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "fought",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "saratoga",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "with",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "dysentery",
+    "startOffset" : 26,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvb-CDTAu_IiLe8UC",
+  "text" : "It was fought IN Gorse Meadow.",
+  "translations" : {
+    "russian" : "Она произошла В Горс Мидоу."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "fought",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "gorse",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "meadow",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFR2okDTAu_IiLfVrJ",
+  "text" : "Your first campaign was hard fought.",
+  "translations" : {
+    "russian" : "Твой первый военный поход был суровым испытанием."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "first",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "campaign",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "was",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "hard",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "fought",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkhViDTAu_IiLe0eP",
+  "text" : "Apparently, he fought with the ninth.",
+  "translations" : {
+    "russian" : "Очевидно, он боролся с девятыми."
+  },
+  "tokens" : [ {
+    "token" : "apparently",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "he",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "fought",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "ninth",
+    "startOffset" : 31,
+    "endOffset" : 36,
     "position" : 5
   } ],
   "contentScore" : null

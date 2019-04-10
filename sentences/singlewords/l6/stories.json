@@ -274,6 +274,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEuR5qDTAu_IiLe7gf",
+  "text" : "This story had merit.",
+  "translations" : {
+    "russian" : "У этой истории есть достоинства."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "story",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "had",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "merit",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghVzhNEXFMlzHK-QR",
   "text" : "We're telling war stories.",
   "translations" : {
@@ -411,34 +439,6 @@
     "startOffset" : 9,
     "endOffset" : 14,
     "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoO8uNEXFMlzHLGmc",
-  "text" : "The story sucks anyway.",
-  "translations" : {
-    "russian" : "И байка там была - отстой полный."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "story",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "suck",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "anyway",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

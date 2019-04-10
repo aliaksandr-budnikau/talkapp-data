@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoEs8yJDTAu_IiLe6m-",
+  "text" : "I've reworked the unmaking spells.",
+  "translations" : {
+    "russian" : "Я переделал заклинание."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "worked",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "make",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "spells",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "spell",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwQBrNEXFMlzHLSAL",
   "text" : "Oh, a beacon spell...",
   "translations" : {
@@ -27,40 +65,459 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgh7NZNEXFMlzHK-wv",
-  "text" : "Must be a pretty big spell.",
+  "id" : "AWoEdM0oDTAu_IiLeuu2",
+  "text" : "I spelled tadpole wrong!",
   "translations" : {
-    "russian" : "Должно быть, довольно обширное заклинание."
+    "russian" : "Я неправильно написала головастик !"
   },
   "tokens" : [ {
-    "token" : "must",
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "spelled",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "spell",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "tadpole",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "wrong",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYfADDTAu_IiLfaiI",
+  "text" : "It's an encoded spell.",
+  "translations" : {
+    "russian" : "Это зашифрованное заклинание."
+  },
+  "tokens" : [ {
+    "token" : "it",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "be",
+    "token" : "an",
     "startOffset" : 5,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "a",
+    "token" : "encode",
     "startOffset" : 8,
-    "endOffset" : 9,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "pretty",
-    "startOffset" : 10,
+    "token" : "spell",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYUJGDTAu_IiLfaY_",
+  "text" : "It's an encoded spell.",
+  "translations" : {
+    "russian" : "Это зашифрованное заклинание."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "encode",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "spell",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYYVRDTAu_IiLfacV",
+  "text" : "It's an encoded spell.",
+  "translations" : {
+    "russian" : "Это зашифрованное заклинание."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "encode",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "spell",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_Hr5DTAu_IiLfHUI",
+  "text" : "Oh, the sanctuary spell.",
+  "translations" : {
+    "russian" : "О, заклятие святилища."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "sanctuary",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "spell",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpp4WDTAu_IiLe4VN",
+  "text" : "Jonathan did an augmentation spell.",
+  "translations" : {
+    "russian" : "Джонатан сотворил заклинание приращения."
+  },
+  "tokens" : [ {
+    "token" : "jonathan",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "did",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "augmentation",
+    "startOffset" : 16,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "spell",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfOT4DTAu_IiLffxU",
+  "text" : "How do you spell Kit?",
+  "translations" : {
+    "russian" : "Как пишется Кит?"
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "do",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "spell",
+    "startOffset" : 11,
     "endOffset" : 16,
     "position" : 3
   }, {
-    "token" : "big",
+    "token" : "kit",
     "startOffset" : 17,
     "endOffset" : 20,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWzYwDTAu_IiLeB1C",
+  "text" : "How do you spell apostrophe ?",
+  "translations" : {
+    "russian" : "Как пишется слово апостроф ?"
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "do",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
   }, {
     "token" : "spell",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "apostrophe",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEM_bwDTAu_IiLejC4",
+  "text" : "That spell came from Maleficent.",
+  "translations" : {
+    "russian" : "Это заклинание я получила от Малефисент."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "spell",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "came",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "from",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "maleficent",
     "startOffset" : 21,
-    "endOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFED-lDTAu_IiLfLCs",
+  "text" : "Feel like a locator spell?",
+  "translations" : {
+    "russian" : "Попахивает заклинанием поиска."
+  },
+  "tokens" : [ {
+    "token" : "feel",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "like",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "locator",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "spell",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWxnjDTAu_IiLeB0Y",
+  "text" : "Apoplectic is spelled A-P.",
+  "translations" : {
+    "russian" : "АпоплексИя пишется так... А-П."
+  },
+  "tokens" : [ {
+    "token" : "apoplectic",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "spelled",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "spell",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 22,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "p",
+    "startOffset" : 24,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWzRdDTAu_IiLeB1A",
+  "text" : "How do you spell apostrophe ?",
+  "translations" : {
+    "russian" : "Как произносится апостроф ?"
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "do",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "spell",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "apostrophe",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbFQXDTAu_IiLfcsa",
+  "text" : "They compiled statistics on common spellings.",
+  "translations" : {
+    "russian" : "Они составили статистику распространенной орфографии..."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "compile",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "statistic",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "common",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "spell",
+    "startOffset" : 35,
+    "endOffset" : 44,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEDp-DTAu_IiLfLCc",
+  "text" : "Finn is blocking my locator spell.",
+  "translations" : {
+    "russian" : "Финн блокирует мое заклинание поиска."
+  },
+  "tokens" : [ {
+    "token" : "finn",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "block",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "locator",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "spell",
+    "startOffset" : 28,
+    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null

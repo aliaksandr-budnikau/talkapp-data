@@ -1,4 +1,98 @@
 [ {
+  "id" : "AWoFDdx9DTAu_IiLfKnV",
+  "text" : "I'm from BlueBell, Alabama.",
+  "translations" : {
+    "russian" : "Я из городка Блубелл в Алабаме."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "from",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "bluebell",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "alabama",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDdkWDTAu_IiLfKnL",
+  "text" : "I'm from BlueBell, Alabama.",
+  "translations" : {
+    "russian" : "Я из БлуБелл, Алабама."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "from",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "bluebell",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "alabama",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDdZ3DTAu_IiLfKnC",
+  "text" : "DRIVER over P.A. BlueBell, Alabama.",
+  "translations" : {
+    "russian" : "Блубелл, Алабама."
+  },
+  "tokens" : [ {
+    "token" : "driver",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "drive",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "over",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "p.a",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "bluebell",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "alabama",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwgm4NEXFMlzHLSQR",
   "text" : "Alabama certainly has changed you.",
   "translations" : {
@@ -33,6 +127,72 @@
     "token" : "you",
     "startOffset" : 30,
     "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSxs7DTAu_IiLd_ay",
+  "text" : "Black albino, straight from Alabama...",
+  "translations" : {
+    "russian" : "Чёрный альбинос, прям из Алабамы..."
+  },
+  "tokens" : [ {
+    "token" : "black",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "albino",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "straight",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "from",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "alabama",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDdlrDTAu_IiLfKnM",
+  "text" : "BlueBell's very own Alabama Yellowhammer.",
+  "translations" : {
+    "russian" : "В БлуБелл, штат Алабама, очень любят овсянок."
+  },
+  "tokens" : [ {
+    "token" : "bluebell",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "very",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "own",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "alabama",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "yellowhammer",
+    "startOffset" : 28,
+    "endOffset" : 40,
     "position" : 4
   } ],
   "contentScore" : null

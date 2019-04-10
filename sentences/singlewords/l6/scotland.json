@@ -1,4 +1,70 @@
 [ {
+  "id" : "AWoEABDMDTAu_IiLeZLa",
+  "text" : "The Highlands of Scotland.",
+  "translations" : {
+    "russian" : "В горах Шотландии."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "highlands",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "highland",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "scotland",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEveGDDTAu_IiLe8Vm",
+  "text" : "Baffled Scotland Yard for years.",
+  "translations" : {
+    "russian" : "Это годами сбивало Скотланд-Ярд с толку."
+  },
+  "tokens" : [ {
+    "token" : "baffle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "scotland",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "yard",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "year",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeM2DNEXFMlzHK7hx",
   "text" : "We were on holiday in Scotland.",
   "translations" : {
@@ -32,6 +98,44 @@
   }, {
     "token" : "scotland",
     "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwOGQDTAu_IiLeQJe",
+  "text" : "No, it was Scotland and Brazil.",
+  "translations" : {
+    "russian" : "Нет, Шотландия и Бразилия."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "scotland",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "brazil",
+    "startOffset" : 24,
     "endOffset" : 30,
     "position" : 5
   } ],

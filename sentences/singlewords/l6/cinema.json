@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoES14YDTAu_IiLenWG",
+  "text" : "Or... cinema ticket stubs.",
+  "translations" : {
+    "russian" : "Или билетов в кино."
+  },
+  "tokens" : [ {
+    "token" : "or",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "cinema",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "ticket",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "stub",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrZJ6NEXFMlzHLK77",
   "text" : "To each her cinema.",
   "translations" : {
@@ -24,6 +52,39 @@
     "startOffset" : 12,
     "endOffset" : 18,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZRuSDTAu_IiLfbNI",
+  "text" : "Blow up Colosseum Cinema? Smart.",
+  "translations" : {
+    "russian" : "Взрыв кинотеатра Колизей ?"
+  },
+  "tokens" : [ {
+    "token" : "blow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "colosseum",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "cinema",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "smart",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -203,6 +264,44 @@
     "token" : "cinema",
     "startOffset" : 18,
     "endOffset" : 24,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWxBmDTAu_IiLfZLa",
+  "text" : "It's a classic of foreign cinema.",
+  "translations" : {
+    "russian" : "Это классика иностранного кино."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "classic",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "foreign",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "cinema",
+    "startOffset" : 26,
+    "endOffset" : 32,
     "position" : 5
   } ],
   "contentScore" : null

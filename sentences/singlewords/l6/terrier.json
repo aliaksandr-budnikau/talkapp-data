@@ -1,4 +1,98 @@
 [ {
+  "id" : "AWoFQsQMDTAu_IiLfUxW",
+  "text" : "My Yorkshire terrier.",
+  "translations" : {
+    "russian" : "Мой йоркширский терьер."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "yorkshire",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "terrier",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "terry",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQsMODTAu_IiLfUxU",
+  "text" : "My Yorkshire terrier. He's tiny.",
+  "translations" : {
+    "russian" : "Мой йоркширский терьер."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "yorkshire",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "terrier",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "terry",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "he",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "tiny",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEubLPDTAu_IiLe7nO",
+  "text" : "Invert the poles Terry.",
+  "translations" : {
+    "russian" : "Переключи полюса, Терри."
+  },
+  "tokens" : [ {
+    "token" : "invert",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pole",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "terry",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfK2tNEXFMlzHK8Y5",
   "text" : "New acquisition, Terry?",
   "translations" : {
@@ -19,6 +113,90 @@
     "startOffset" : 17,
     "endOffset" : 22,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfms8DTAu_IiLfgCz",
+  "text" : "Shagging Terry Stafford.",
+  "translations" : {
+    "russian" : "Спала с Терри Стаффордом."
+  },
+  "tokens" : [ {
+    "token" : "shagging",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "terry",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "stafford",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjsq8DTAu_IiLfimx",
+  "text" : "TERRY HAWKINS KEN MIZOGUCHI.",
+  "translations" : {
+    "russian" : "ТЭРРИ ХОУКИНС КЭН МИДЗОГУТИ."
+  },
+  "tokens" : [ {
+    "token" : "terry",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "hawkins",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "ken",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "mizoguchi",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4GPaDTAu_IiLeUHF",
+  "text" : "Terry Jones is Welsh.",
+  "translations" : {
+    "russian" : "Терри Джонс валлиец."
+  },
+  "tokens" : [ {
+    "token" : "terry",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "jones",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "jone",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "welsh",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -55,6 +233,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEr22DDTAu_IiLe54j",
+  "text" : "Mr Terry, importuning means prison.",
+  "translations" : {
+    "russian" : "М-р Терри, за домогательство вам светит тюрьма."
+  },
+  "tokens" : [ {
+    "token" : "mr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "terry",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "importune",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "means",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "mean",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "prison",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgset6NEXFMlzHLMgU",
   "text" : "Thanks for the fun, Terry.",
   "translations" : {
@@ -85,6 +301,229 @@
     "startOffset" : 20,
     "endOffset" : 25,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKzXzDTAu_IiLehSp",
+  "text" : "Hey, Terry, grab that one!",
+  "translations" : {
+    "russian" : "Эй, Терри, хватай."
+  },
+  "tokens" : [ {
+    "token" : "hey",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "terry",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "grab",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "that",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "one",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDfpBJDTAu_IiLeGwI",
+  "text" : "I confiscated it from Terry Hodges.",
+  "translations" : {
+    "russian" : "Я конфисковал его у Терри Ходжеса."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "confiscate",
+    "startOffset" : 2,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "from",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "terry",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "hodge",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqlqIDTAu_IiLeMxG",
+  "text" : "Save the modesty for Terry Gross.",
+  "translations" : {
+    "russian" : "Прибереги скромность для Терри Гросс."
+  },
+  "tokens" : [ {
+    "token" : "save",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "modesty",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "terry",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "gross",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDu8_ZDTAu_IiLePYS",
+  "text" : "Terry gross raved about your book.",
+  "translations" : {
+    "russian" : "Терри Гросс в восторге от твоей книги."
+  },
+  "tokens" : [ {
+    "token" : "terry",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "gross",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "rave",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "about",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "your",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "book",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdVIWDTAu_IiLfeZ-",
+  "text" : "I confiscated it from Terry Hodges.",
+  "translations" : {
+    "russian" : "Я конфисковал его у Терри Ходжеса."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "confiscate",
+    "startOffset" : 2,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "from",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "terry",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "hodge",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuPqaDTAu_IiLeO8g",
+  "text" : "For my loyalty with terry marsh.",
+  "translations" : {
+    "russian" : "За мою преданность с Терри Маршем."
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "loyalty",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "terry",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "marsh",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

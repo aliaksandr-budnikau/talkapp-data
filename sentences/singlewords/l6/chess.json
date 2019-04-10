@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoFZbFzDTAu_IiLfbVL",
+  "text" : "That's wizard's chess.",
+  "translations" : {
+    "russian" : "Это волшебные шахматы."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wizard",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "chess",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoZtANEXFMlzHLG2_",
   "text" : "Involving these three chess pieces.",
   "translations" : {
@@ -132,6 +155,39 @@
     "token" : "red",
     "startOffset" : 21,
     "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVMRvDTAu_IiLfYGN",
+  "text" : "The chess club's barbershop quartet.",
+  "translations" : {
+    "russian" : "Членов мужского певческого квартета шахматного клуба."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "chess",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "club",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "barbershop",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "quartet",
+    "startOffset" : 28,
+    "endOffset" : 35,
     "position" : 4
   } ],
   "contentScore" : null

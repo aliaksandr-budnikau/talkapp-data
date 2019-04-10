@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoDScAXDTAu_IiLd_MF",
+  "text" : "Mama Street, Papa Street, Chariot Alley...",
+  "translations" : {
+    "russian" : "Улица мамы, улица папы, тупик дяди Шарля."
+  },
+  "tokens" : [ {
+    "token" : "mama",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "street",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "papa",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "street",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "chariot",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "alley",
+    "startOffset" : 34,
+    "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgug4mNEXFMlzHLPQI",
   "text" : "The ancient chariot races of Rome!",
   "translations" : {

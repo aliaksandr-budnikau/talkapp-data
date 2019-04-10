@@ -55,6 +55,67 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDPYusDTAu_IiLd9KP",
+  "text" : "It's on auto cycle!",
+  "translations" : {
+    "russian" : "Он в автоматическом режиме!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "auto",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "cycle",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJNaQDTAu_IiLfPBN",
+  "text" : "Rain cycles are altered.",
+  "translations" : {
+    "russian" : "Циклы дождей изменились."
+  },
+  "tokens" : [ {
+    "token" : "rain",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cycle",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "altered",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "alter",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkHh-NEXFMlzHLAjO",
   "text" : "He never got it recycled...",
   "translations" : {
@@ -84,6 +145,39 @@
     "token" : "cycle",
     "startOffset" : 16,
     "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJ3GeDTAu_IiLegkB",
+  "text" : "It's 400 cycles, 115 volts.",
+  "translations" : {
+    "russian" : "400 циклов, 115 вольт."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "400",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "cycle",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "115",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "volt",
+    "startOffset" : 21,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null

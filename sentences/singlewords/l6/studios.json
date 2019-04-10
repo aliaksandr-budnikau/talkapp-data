@@ -93,6 +93,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFVbC2DTAu_IiLfYQh",
+  "text" : "Go open a pottery studio.",
+  "translations" : {
+    "russian" : "Открой гончарную мастерскую."
+  },
+  "tokens" : [ {
+    "token" : "go",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "open",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "op",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "pottery",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "studio",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqWRxNEXFMlzHLJhp",
   "text" : "I'm taking over the studio.",
   "translations" : {
@@ -165,6 +203,82 @@
     "token" : "now",
     "startOffset" : 40,
     "endOffset" : 43,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGJPaDTAu_IiLed6k",
+  "text" : "Studio got wasted, film got banned!",
+  "translations" : {
+    "russian" : "Студия не используется, фильм запрещен!"
+  },
+  "tokens" : [ {
+    "token" : "studio",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "wast",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "film",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "got",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "banned",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGDkvDTAu_IiLed2e",
+  "text" : "Studio got wasted, film got banned!",
+  "translations" : {
+    "russian" : "Студия не используется, фильм запрещен!"
+  },
+  "tokens" : [ {
+    "token" : "studio",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "wast",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "film",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "got",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "banned",
+    "startOffset" : 28,
+    "endOffset" : 34,
     "position" : 5
   } ],
   "contentScore" : null

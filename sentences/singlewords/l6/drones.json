@@ -55,6 +55,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoETLzxDTAu_IiLenmo",
+  "text" : "2nd drone sortie, all destroyed.",
+  "translations" : {
+    "russian" : "Вторая волна уничтожена."
+  },
+  "tokens" : [ {
+    "token" : "2nd",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "drone",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "sortie",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "all",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "destroy",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguznRNEXFMlzHLP0j",
   "text" : "He's just another corporate drone.",
   "translations" : {
@@ -159,6 +192,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE4ZW7DTAu_IiLfCo5",
+  "text" : "Drone imaging is downloading now.",
+  "translations" : {
+    "russian" : "Загружаю изображения с дрона."
+  },
+  "tokens" : [ {
+    "token" : "drone",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "image",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "download",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "now",
+    "startOffset" : 29,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrCDDNEXFMlzHLKZ4",
   "text" : "Tell me you'll pilot the drones.",
   "translations" : {
@@ -197,6 +263,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD7uuJDTAu_IiLeV7d",
+  "text" : "Yes, sir, multiple drones, multiple vectors.",
+  "translations" : {
+    "russian" : "Да, много беспилотников с разных направлений."
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sir",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "multiple",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "drone",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "multiple",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "vector",
+    "startOffset" : 36,
+    "endOffset" : 43,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguzlkNEXFMlzHLP0f",
   "text" : "That drone attack she's talking about...",
   "translations" : {
@@ -231,6 +335,120 @@
     "token" : "about",
     "startOffset" : 32,
     "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWerxDTAu_IiLeqIQ",
+  "text" : "You just obliterated my finest drone.",
+  "translations" : {
+    "russian" : "Вы только что уничтожили мой лучший беспилотник."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "obliterate",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "fin",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "drone",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBiHdDTAu_IiLfJMT",
+  "text" : "Consolidate all drone and sat surveillance.",
+  "translations" : {
+    "russian" : "Объедините всех дронов и установите наблюдение."
+  },
+  "tokens" : [ {
+    "token" : "consolidate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "all",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "drone",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "sat",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "surveillance",
+    "startOffset" : 30,
+    "endOffset" : 42,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbyRbDTAu_IiLfdP6",
+  "text" : "Consolidate all drone and sat surveillance.",
+  "translations" : {
+    "russian" : "Объедините всех дронов и установите наблюдение."
+  },
+  "tokens" : [ {
+    "token" : "consolidate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "all",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "drone",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "sat",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "surveillance",
+    "startOffset" : 30,
+    "endOffset" : 42,
     "position" : 5
   } ],
   "contentScore" : null

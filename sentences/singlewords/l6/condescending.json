@@ -1,0 +1,52 @@
+[ {
+  "id" : "AWoEjj5zDTAu_IiLezwL",
+  "text" : "Descending colon.",
+  "translations" : {
+    "russian" : "Так, толстая кишка."
+  },
+  "tokens" : [ {
+    "token" : "descending",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "descend",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "colon",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjltUDTAu_IiLezx3",
+  "text" : "Descending colon's clean.",
+  "translations" : {
+    "russian" : "В нисходящей ободочной кишке чисто."
+  },
+  "tokens" : [ {
+    "token" : "descending",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "descend",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "colon",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "clean",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

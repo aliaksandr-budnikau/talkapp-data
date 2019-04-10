@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoDZ5FeDTAu_IiLeDbY",
+  "text" : "You turned down registrar?",
+  "translations" : {
+    "russian" : "Ы отказали регистратора?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "turned",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "turn",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "down",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "registrar",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcwMENEXFMlzHK6TK",
   "text" : "Constantly turning down party invitations.",
   "translations" : {
@@ -33,6 +66,44 @@
     "token" : "invitation",
     "startOffset" : 30,
     "endOffset" : 41,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGWVADTAu_IiLfMrY",
+  "text" : "Salem is turned upside down.",
+  "translations" : {
+    "russian" : "Весь Салем с ног на голову."
+  },
+  "tokens" : [ {
+    "token" : "salem",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "turned",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "turn",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "upside",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "down",
+    "startOffset" : 23,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
@@ -109,6 +180,44 @@
     "token" : "down",
     "startOffset" : 29,
     "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDt0mxDTAu_IiLeOr-",
+  "text" : "So, we'll turn the Bulgarians down?",
+  "translations" : {
+    "russian" : "Значит, отказываем болгарам?"
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "we'll",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "turn",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "bulgarian",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "down",
+    "startOffset" : 30,
+    "endOffset" : 34,
     "position" : 5
   } ],
   "contentScore" : null

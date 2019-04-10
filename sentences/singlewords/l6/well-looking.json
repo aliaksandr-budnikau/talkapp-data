@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoEqXhlDTAu_IiLe42L",
+  "text" : "Well, you look confident.",
+  "translations" : {
+    "russian" : "А ты выглядишь самоуверенно."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "look",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "confident",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPpAwDTAu_IiLfT6Q",
+  "text" : "Well, they look pretty startled.",
+  "translations" : {
+    "russian" : "Ну, они испугались."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "they",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "look",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "pretty",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "startle",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyaD9NEXFMlzHLU1K",
   "text" : "Well, look in the park.",
   "translations" : {
@@ -28,6 +89,77 @@
     "token" : "park",
     "startOffset" : 18,
     "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvIQUDTAu_IiLe8GS",
+  "text" : "Well, you're looking pretty chipper.",
+  "translations" : {
+    "russian" : "Ну вот, теперь ты намного веселее."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you're",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "look",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "pretty",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "chipper",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_CyxDTAu_IiLfHQR",
+  "text" : "Well, look at his record.",
+  "translations" : {
+    "russian" : "Посмотрите досье."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "look",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "his",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "record",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "cord",
+    "startOffset" : 18,
+    "endOffset" : 24,
     "position" : 4
   } ],
   "contentScore" : null
@@ -65,6 +197,115 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFY6LeDTAu_IiLfa5Z",
+  "text" : "Well, we're looking for goat.",
+  "translations" : {
+    "russian" : "Мы ищем Козерога."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "we're",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "look",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "goat",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRYlIDTAu_IiLfVUu",
+  "text" : "Looks pretty well calcified to me.",
+  "translations" : {
+    "russian" : "На мой взгляд, вполне каменный."
+  },
+  "tokens" : [ {
+    "token" : "look",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pretty",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "well",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "calcify",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 28,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "me",
+    "startOffset" : 31,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRZgrDTAu_IiLfVVa",
+  "text" : "Looks pretty well calcified to me.",
+  "translations" : {
+    "russian" : "На мой взгляд, вполне каменный."
+  },
+  "tokens" : [ {
+    "token" : "look",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pretty",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "well",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "calcify",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 28,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "me",
+    "startOffset" : 31,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjDZNNEXFMlzHK_sl",
   "text" : "Em, you are looking so well.",
   "translations" : {
@@ -99,6 +340,196 @@
     "token" : "well",
     "startOffset" : 23,
     "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVT73DTAu_IiLeBEB",
+  "text" : "Yeah, well, while you're looking, overruled.",
+  "translations" : {
+    "russian" : "Хорошо, а пока вы смотрите я отклоняю."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "well",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "while",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "you're",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "look",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "overrule",
+    "startOffset" : 34,
+    "endOffset" : 43,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVvKgDTAu_IiLeBVk",
+  "text" : "Yeah, well, while you're looking, overruled.",
+  "translations" : {
+    "russian" : "Хорошо, а пока вы смотрите я отклоняю."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "well",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "while",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "you're",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "look",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "overrule",
+    "startOffset" : 34,
+    "endOffset" : 43,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYwgGDTAu_IiLfaxR",
+  "text" : "Well, look who's a little minx.",
+  "translations" : {
+    "russian" : "Вот и посмотрим теперь, кто у нас тут маленькая шалунья."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "look",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "who",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "little",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "minx",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVqiaDTAu_IiLeBSi",
+  "text" : "Yeah, well, while you're looking, overruled.",
+  "translations" : {
+    "russian" : "Хорошо, а пока вы смотрите я отклоняю."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "well",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "while",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "you're",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "look",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "overrule",
+    "startOffset" : 34,
+    "endOffset" : 43,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSePZDTAu_IiLd_Nn",
+  "text" : "No, well, look at the alleles.",
+  "translations" : {
+    "russian" : "Нет, ну взгляни на аллели."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "well",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "look",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "at",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "allele",
+    "startOffset" : 22,
+    "endOffset" : 29,
     "position" : 5
   } ],
   "contentScore" : null

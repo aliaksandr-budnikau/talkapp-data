@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDdVrEDTAu_IiLeFbU",
+  "text" : "Concrete, glass, bamboo floors.",
+  "translations" : {
+    "russian" : "Бетон, стекло, бамбуковые полы..."
+  },
+  "tokens" : [ {
+    "token" : "concrete",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "glass",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "bamboo",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "floor",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzUzINEXFMlzHLWOz",
   "text" : "That's strong concrete.",
   "translations" : {
@@ -19,6 +47,44 @@
     "startOffset" : 14,
     "endOffset" : 22,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhWP_DTAu_IiLex-e",
+  "text" : "LUMBER, CONCRETE, SCAFFOLDING, GENERATORS.",
+  "translations" : {
+    "russian" : "Доски, цемент, леса, генераторы."
+  },
+  "tokens" : [ {
+    "token" : "lumber",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "concrete",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "scaffolding",
+    "startOffset" : 18,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "scaffold",
+    "startOffset" : 18,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "generators",
+    "startOffset" : 31,
+    "endOffset" : 41,
+    "position" : 3
+  }, {
+    "token" : "generator",
+    "startOffset" : 31,
+    "endOffset" : 41,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -47,6 +113,82 @@
     "startOffset" : 19,
     "endOffset" : 27,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4XamDTAu_IiLfCng",
+  "text" : "LUMBER, CONCRETE, SCAFFOLDING, GENERATORS.",
+  "translations" : {
+    "russian" : "Доски, цемент, леса, генераторы."
+  },
+  "tokens" : [ {
+    "token" : "lumber",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "concrete",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "scaffolding",
+    "startOffset" : 18,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "scaffold",
+    "startOffset" : 18,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "generators",
+    "startOffset" : 31,
+    "endOffset" : 41,
+    "position" : 3
+  }, {
+    "token" : "generator",
+    "startOffset" : 31,
+    "endOffset" : 41,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZWOsDTAu_IiLeDFC",
+  "text" : "My backbone is reinforced concrete!",
+  "translations" : {
+    "russian" : "Мой позвоночник армированный бетон!"
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "backbone",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "reinforced",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "reinforce",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "concrete",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -84,6 +226,44 @@
     "token" : "foundation",
     "startOffset" : 29,
     "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEKd1DTAu_IiLecbC",
+  "text" : "You're encased in marble and concrete.",
+  "translations" : {
+    "russian" : "Вы заключены в мрамор и бетон."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "encase",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "marble",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "concrete",
+    "startOffset" : 29,
+    "endOffset" : 37,
     "position" : 5
   } ],
   "contentScore" : null

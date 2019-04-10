@@ -37,6 +37,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEoIw_DTAu_IiLe3Nf",
+  "text" : "Who has elocution lessons?",
+  "translations" : {
+    "russian" : "Кто берет уроки дикции?"
+  },
+  "tokens" : [ {
+    "token" : "who",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "has",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "elocution",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "lesson",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQmO3DTAu_IiLelsQ",
+  "text" : "Lesson two, corollary five.",
+  "translations" : {
+    "russian" : "Урок номер два, следствие пятое."
+  },
+  "tokens" : [ {
+    "token" : "lesson",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "two",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "corollary",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "five",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgetYnNEXFMlzHK7_M",
   "text" : "Any coupons for swim lessons?",
   "translations" : {
@@ -70,71 +126,416 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgslyMNEXFMlzHLMpA",
-  "text" : "You gave me a good lesson.",
+  "id" : "AWoEyrEjDTAu_IiLe-uW",
+  "text" : "Lesson one of good manners.",
   "translations" : {
-    "russian" : "Ты преподал мне хороший урок."
+    "russian" : "Это был первый урок хороших манер."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "lesson",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "gave",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "one",
+    "startOffset" : 7,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "me",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
+    "token" : "of",
+    "startOffset" : 11,
     "endOffset" : 13,
-    "position" : 3
+    "position" : 2
   }, {
     "token" : "good",
     "startOffset" : 14,
     "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "manner",
+    "startOffset" : 19,
+    "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZlN_DTAu_IiLfbdm",
+  "text" : "This collaborationist deserves a lesson!",
+  "translations" : {
+    "russian" : "Этой коллаборационистской дыре нужно преподать урок!"
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "collaborationist",
+    "startOffset" : 5,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "serve",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 31,
+    "endOffset" : 32,
+    "position" : 3
   }, {
     "token" : "lesson",
+    "startOffset" : 33,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEB8MrDTAu_IiLeaqH",
+  "text" : "In their private whist lesson.",
+  "translations" : {
+    "russian" : "У них частный урок виста."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "their",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "private",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "whist",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "lesson",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWhCcDTAu_IiLfZAE",
+  "text" : "I'll give up clarinet lessons.",
+  "translations" : {
+    "russian" : "Я не буду играть на кларнете."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "give",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "g",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "up",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "clarinet",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "lesson",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFW-aVDTAu_IiLfZVW",
+  "text" : "I got a clarinet lesson.",
+  "translations" : {
+    "russian" : "У меня урок игры на кларнете."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 2
+  }, {
+    "token" : "clarinet",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "lesson",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuq8HDTAu_IiLePNa",
+  "text" : "Take a lesson from parakeets.",
+  "translations" : {
+    "russian" : "Учись у попугаев."
+  },
+  "tokens" : [ {
+    "token" : "take",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "lesson",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "from",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "parakeet",
     "startOffset" : 19,
-    "endOffset" : 25,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvqJXDTAu_IiLeP0F",
+  "text" : "I follow lessons in wrestling.",
+  "translations" : {
+    "russian" : "Я хожу на занятия по борьбе."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "follow",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "lesson",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "wrestling",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "wrestle",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7eGoDTAu_IiLeVvs",
+  "text" : "Lesson one of good manners.",
+  "translations" : {
+    "russian" : "Это был первый урок хороших манер."
+  },
+  "tokens" : [ {
+    "token" : "lesson",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "one",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "good",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "manner",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDt1LwDTAu_IiLeOsS",
+  "text" : "Yeah, a lesson painfully learned.",
+  "translations" : {
+    "russian" : "Да, болезненно усвоенный урок."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "lesson",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "painful",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "learned",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "learn",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaDt3DTAu_IiLesnv",
+  "text" : "Is the geography lesson over?",
+  "translations" : {
+    "russian" : "Урок географии закончен?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "geography",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "lesson",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "over",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoIvhDTAu_IiLe3Ne",
+  "text" : "I had elocution lessons, Ma am.",
+  "translations" : {
+    "russian" : "Я брал уроки дикции, мэм."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "elocution",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "lesson",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "ma",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "am",
+    "startOffset" : 28,
+    "endOffset" : 30,
     "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgckQQNEXFMlzHK6Ib",
-  "text" : "You gave me a good lesson.",
+  "id" : "AWoEc2lGDTAu_IiLeuey",
+  "text" : "I had a group oboe lesson.",
   "translations" : {
-    "russian" : "Ты преподал мне хороший урок."
+    "russian" : "А у меня были групповые занятия на гобое."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "gave",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "had",
+    "startOffset" : 2,
+    "endOffset" : 5,
     "position" : 1
   }, {
-    "token" : "me",
-    "startOffset" : 9,
-    "endOffset" : 11,
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
     "position" : 2
   }, {
-    "token" : "a",
-    "startOffset" : 12,
+    "token" : "group",
+    "startOffset" : 8,
     "endOffset" : 13,
     "position" : 3
   }, {
-    "token" : "good",
+    "token" : "oboe",
     "startOffset" : 14,
     "endOffset" : 18,
     "position" : 4

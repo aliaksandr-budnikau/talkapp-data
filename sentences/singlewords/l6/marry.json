@@ -1,4 +1,121 @@
 [ {
+  "id" : "AWoFIFPMDTAu_IiLfOFN",
+  "text" : "Crooks get married too.",
+  "translations" : {
+    "russian" : "Ты бы вышла замуж за преступника? А преступники что, не люди?"
+  },
+  "tokens" : [ {
+    "token" : "crook",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "get",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "married",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "marry",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "too",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-v3TDTAu_IiLeYN2",
+  "text" : "You married this limb.",
+  "translations" : {
+    "russian" : "Вы женаты на этой ветви."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "married",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "marry",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "limb",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGChbDTAu_IiLfMc-",
+  "text" : "You marry my Ida.",
+  "translations" : {
+    "russian" : "Хочу свою Иду за тебя выдать."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "marry",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "ida",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEL_ASDTAu_IiLeiQC",
+  "text" : "Marry, heaven forbid.",
+  "translations" : {
+    "russian" : "Помилуй бог!"
+  },
+  "tokens" : [ {
+    "token" : "marry",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "heaven",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "forbid",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbga_y3NEXFMlzHK4uE",
   "text" : "She will get married soon.",
   "translations" : {
@@ -37,94 +154,89 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgfwl-NEXFMlzHK84d",
-  "text" : "Has he offered to marry you?",
+  "id" : "AWoELMzQDTAu_IiLehmq",
+  "text" : "Why don't you marry Ted ?",
   "translations" : {
-    "russian" : "Он предлагал вам пожениться?"
+    "russian" : "Почему Вы не выйдете замуж за Тэда?"
   },
   "tokens" : [ {
-    "token" : "has",
+    "token" : "why",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "he",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "offer",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "marry",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "you",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiBPeNEXFMlzHK-2A",
-  "text" : "You might rethink marrying the lines.",
-  "translations" : {
-    "russian" : "Ты могла передумать объединять строки."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "might",
+    "token" : "don't",
     "startOffset" : 4,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "think",
+    "token" : "you",
     "startOffset" : 10,
-    "endOffset" : 17,
+    "endOffset" : 13,
     "position" : 2
   }, {
     "token" : "marry",
-    "startOffset" : 18,
-    "endOffset" : 26,
+    "startOffset" : 14,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "the",
-    "startOffset" : 27,
-    "endOffset" : 30,
+    "token" : "ted",
+    "startOffset" : 20,
+    "endOffset" : 23,
     "position" : 4
-  }, {
-    "token" : "line",
-    "startOffset" : 31,
-    "endOffset" : 36,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjESWNEXFMlzHK_tX",
-  "text" : "One must marry well, you see?",
+  "id" : "AWoEsWHyDTAu_IiLe6NJ",
+  "text" : "Don Diego is not married.",
   "translations" : {
-    "russian" : "Надо правильно жениться, видишь?"
+    "russian" : "Дон Диего не женат!"
   },
   "tokens" : [ {
-    "token" : "one",
+    "token" : "don",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "must",
+    "token" : "diego",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "not",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "married",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "marry",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFx7vDTAu_IiLedpg",
+  "text" : "She will marry a chieftain.",
+  "translations" : {
+    "russian" : "Она будет женой вождя."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "will",
     "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
@@ -134,96 +246,299 @@
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "well",
+    "token" : "a",
     "startOffset" : 15,
-    "endOffset" : 19,
+    "endOffset" : 16,
     "position" : 3
   }, {
-    "token" : "you",
-    "startOffset" : 21,
-    "endOffset" : 24,
+    "token" : "chieftain",
+    "startOffset" : 17,
+    "endOffset" : 26,
     "position" : 4
-  }, {
-    "token" : "see",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxvGPNEXFMlzHLTyH",
-  "text" : "You might rethink marrying the lines.",
+  "id" : "AWoErkW6DTAu_IiLe5sD",
+  "text" : "Don Diego is not married.",
   "translations" : {
-    "russian" : "Ты могла передумать объединять строки."
+    "russian" : "Дон Диего не женат!"
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "don",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "might",
+    "token" : "diego",
     "startOffset" : 4,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "think",
+    "token" : "is",
     "startOffset" : 10,
-    "endOffset" : 17,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "marry",
-    "startOffset" : 18,
-    "endOffset" : 26,
+    "token" : "not",
+    "startOffset" : 13,
+    "endOffset" : 16,
     "position" : 3
   }, {
-    "token" : "the",
-    "startOffset" : 27,
-    "endOffset" : 30,
+    "token" : "married",
+    "startOffset" : 17,
+    "endOffset" : 24,
     "position" : 4
   }, {
-    "token" : "line",
-    "startOffset" : 31,
-    "endOffset" : 36,
-    "position" : 5
+    "token" : "marry",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgv3VhNEXFMlzHLRj-",
-  "text" : "A ship captain can marry us.",
+  "id" : "AWoFaAGnDTAu_IiLfbz6",
+  "text" : "Rita, you can't marry Thorn.",
   "translations" : {
-    "russian" : "Капитан корабля сможет нас поженить."
+    "russian" : "Рита, ты не можешь выйти за Торна."
   },
   "tokens" : [ {
-    "token" : "a",
+    "token" : "rita",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "can't",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "marry",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "thorn",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRaT-DTAu_IiLd-fx",
+  "text" : "The King's marrying an acrobat!",
+  "translations" : {
+    "russian" : "Невеста короля акробатка!"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "king",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "marry",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "an",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "acrobat",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDimq1DTAu_IiLeIeH",
+  "text" : "Idle chat about marrying me?",
+  "translations" : {
+    "russian" : "Болтовня о женитьбе на мне?"
+  },
+  "tokens" : [ {
+    "token" : "idle",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "chat",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "about",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "marry",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "me",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErG7mDTAu_IiLe5X1",
+  "text" : "We'll marry without his consent.",
+  "translations" : {
+    "russian" : "Тогда мы женимся без его согласия."
+  },
+  "tokens" : [ {
+    "token" : "we'll",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "marry",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "without",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "his",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "consent",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "sent",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErBXMDTAu_IiLe5T2",
+  "text" : "We'll marry without his consent.",
+  "translations" : {
+    "russian" : "Тогда мы женимся без его согласия."
+  },
+  "tokens" : [ {
+    "token" : "we'll",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "marry",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "without",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "his",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "consent",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "sent",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERFDWDTAu_IiLemCM",
+  "text" : "I now pronounce you married.",
+  "translations" : {
+    "russian" : "Объявляю вас законными супругами."
+  },
+  "tokens" : [ {
+    "token" : "i",
     "startOffset" : 0,
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "ship",
+    "token" : "now",
     "startOffset" : 2,
-    "endOffset" : 6,
+    "endOffset" : 5,
     "position" : 1
   }, {
-    "token" : "captain",
-    "startOffset" : 7,
-    "endOffset" : 14,
+    "token" : "pronounce",
+    "startOffset" : 6,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "can",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "token" : "you",
+    "startOffset" : 16,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "marry",
-    "startOffset" : 19,
-    "endOffset" : 24,
+    "token" : "married",
+    "startOffset" : 20,
+    "endOffset" : 27,
     "position" : 4
   }, {
-    "token" : "us",
-    "startOffset" : 25,
+    "token" : "marry",
+    "startOffset" : 20,
     "endOffset" : 27,
-    "position" : 5
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMJJQDTAu_IiLfRTl",
+  "text" : "Friar Tuck could marry us.",
+  "translations" : {
+    "russian" : "Монах Тук нас обвенчает."
+  },
+  "tokens" : [ {
+    "token" : "friar",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "tuck",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "could",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "marry",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "us",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDodfUDTAu_IiLeLol",
+  "text" : "It's unstructured chat time.",
+  "translations" : {
+    "russian" : "Мы же с тобой свободно болтаем."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "structured",
+    "startOffset" : 5,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "chat",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "time",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgq2dDNEXFMlzHLKIZ",
   "text" : "Thanks for the chat.",
   "translations" : {
@@ -83,6 +111,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDimq1DTAu_IiLeIeH",
+  "text" : "Idle chat about marrying me?",
+  "translations" : {
+    "russian" : "Болтовня о женитьбе на мне?"
+  },
+  "tokens" : [ {
+    "token" : "idle",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "chat",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "about",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "marry",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "me",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgq2k3NEXFMlzHLKIn",
   "text" : "It was just party chat.",
   "translations" : {
@@ -112,6 +173,77 @@
     "token" : "chat",
     "startOffset" : 18,
     "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDiMmpDTAu_IiLeIO0",
+  "text" : "That vapid morning chat show?",
+  "translations" : {
+    "russian" : "Это пресное утреннее разговорное шоу?"
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "vapid",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "morning",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "morn",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "chat",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "show",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDimpdDTAu_IiLeIeG",
+  "text" : "That was just idle chat.",
+  "translations" : {
+    "russian" : "Это была просто болтовня."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "just",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "idle",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "chat",
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 4
   } ],
   "contentScore" : null

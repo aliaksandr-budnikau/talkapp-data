@@ -1,4 +1,68 @@
 [ {
+  "id" : "AWoFD57fDTAu_IiLfK7f",
+  "text" : "Gaping hole...",
+  "translations" : {
+    "russian" : "Потому что остается огромная, зияющая дыра, ее хочется закрыть."
+  },
+  "tokens" : [ {
+    "token" : "gaping",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "gap",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "hole",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTjikDTAu_IiLfW8n",
+  "text" : "Burr holes?",
+  "translations" : {
+    "russian" : "Сверлить отверстия?"
+  },
+  "tokens" : [ {
+    "token" : "burr",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hole",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFD6BRDTAu_IiLfK7k",
+  "text" : "Gaping hole.",
+  "translations" : {
+    "russian" : "Зияющая дыра."
+  },
+  "tokens" : [ {
+    "token" : "gaping",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "gap",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "hole",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgj62gNEXFMlzHLAa8",
   "text" : "Dude, nice hole.",
   "translations" : {
@@ -70,6 +134,34 @@
     "startOffset" : 12,
     "endOffset" : 16,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8newDTAu_IiLfFXJ",
+  "text" : "Lantern, plug that hole.",
+  "translations" : {
+    "russian" : "Фонарь, заткни эту дыру!"
+  },
+  "tokens" : [ {
+    "token" : "lantern",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "plug",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "that",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "hole",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -157,6 +249,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFZ6gpDTAu_IiLfbvV",
+  "text" : "Square peg, round hole!",
+  "translations" : {
+    "russian" : "Квадратный колышек в круглую дыру."
+  },
+  "tokens" : [ {
+    "token" : "square",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "peg",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "round",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "hole",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZ3YlDTAu_IiLfbsu",
+  "text" : "Square peg, round hole!",
+  "translations" : {
+    "russian" : "Квадратный колышек в круглую дыру."
+  },
+  "tokens" : [ {
+    "token" : "square",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "peg",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "round",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "hole",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnGjxNEXFMlzHLE83",
   "text" : "Holes with steel grating.",
   "translations" : {
@@ -190,295 +338,87 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgj7jdNEXFMlzHLAbk",
-  "text" : "Hole right here, though.",
+  "id" : "AWoD5p0HDTAu_IiLeU0H",
+  "text" : "Hollow, covered in holes.",
   "translations" : {
-    "russian" : "Дырка вот тут, правда."
+    "russian" : "Полая, с отверстиями."
   },
   "tokens" : [ {
-    "token" : "hole",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "right",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "here",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "though",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj8AQNEXFMlzHLAb-",
-  "text" : "These look like bullet holes.",
-  "translations" : {
-    "russian" : "Это больше похоже на пулевые отверстия."
-  },
-  "tokens" : [ {
-    "token" : "these",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "look",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "like",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "bullet",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "hole",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj7ieNEXFMlzHLAbj",
-  "text" : "Poked a hole in it.",
-  "translations" : {
-    "russian" : "Проковырял в ней дырку."
-  },
-  "tokens" : [ {
-    "token" : "poke",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "hole",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj9HlNEXFMlzHLAc9",
-  "text" : "Excellent schematic of this hole.",
-  "translations" : {
-    "russian" : "Отличная схема этой лунки."
-  },
-  "tokens" : [ {
-    "token" : "excellent",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "schematic",
-    "startOffset" : 10,
-    "endOffset" : 19,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "this",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "hole",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj8nmNEXFMlzHLAcf",
-  "text" : "Get back in your hole.",
-  "translations" : {
-    "russian" : "Возвращайся в свою нору."
-  },
-  "tokens" : [ {
-    "token" : "get",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "back",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "hole",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmI_DNEXFMlzHLDYC",
-  "text" : "Put funnel in the hole!",
-  "translations" : {
-    "russian" : "Вставьте воронку в дырку!"
-  },
-  "tokens" : [ {
-    "token" : "put",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "funnel",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "hole",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj6RoNEXFMlzHLAad",
-  "text" : "Why come to this hole?",
-  "translations" : {
-    "russian" : "Что делаете в этой дыре?"
-  },
-  "tokens" : [ {
-    "token" : "why",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "come",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "this",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "hole",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj7PKNEXFMlzHLAbU",
-  "text" : "Carved a hole in it...",
-  "translations" : {
-    "russian" : "Прорезал в нём дырку..."
-  },
-  "tokens" : [ {
-    "token" : "carve",
+    "token" : "hollow",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "a",
-    "startOffset" : 7,
-    "endOffset" : 8,
+    "token" : "cover",
+    "startOffset" : 8,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "hole",
-    "startOffset" : 9,
-    "endOffset" : 13,
+    "token" : "in",
+    "startOffset" : 16,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "in",
-    "startOffset" : 14,
-    "endOffset" : 16,
+    "token" : "hole",
+    "startOffset" : 19,
+    "endOffset" : 24,
     "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgj7laNEXFMlzHLAbm",
-  "text" : "Is that a bullet hole?",
+  "id" : "AWoER6EBDTAu_IiLempA",
+  "text" : "Hollow, covered in holes.",
   "translations" : {
-    "russian" : "Это дырка от пули?"
+    "russian" : "Полая, с отверстиями."
   },
   "tokens" : [ {
-    "token" : "is",
+    "token" : "hollow",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "that",
-    "startOffset" : 3,
-    "endOffset" : 7,
+    "token" : "cover",
+    "startOffset" : 8,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
+    "token" : "in",
+    "startOffset" : 16,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "bullet",
-    "startOffset" : 10,
-    "endOffset" : 16,
+    "token" : "hole",
+    "startOffset" : 19,
+    "endOffset" : 24,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9d8iDTAu_IiLfF-O",
+  "text" : "Dimensions of the hole?",
+  "translations" : {
+    "russian" : "Размер пещеры?"
+  },
+  "tokens" : [ {
+    "token" : "dimension",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
   }, {
     "token" : "hole",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

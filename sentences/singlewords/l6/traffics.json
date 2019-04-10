@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoFSLQPDTAu_IiLfV6x",
+  "text" : "Traffic units, ambulance traffic, Benedict Canyon.",
+  "translations" : {
+    "russian" : "Дорожные патрули, скорая, Бенедикт Кэньон."
+  },
+  "tokens" : [ {
+    "token" : "traffic",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "ambulance",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "traffic",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "benedict",
+    "startOffset" : 34,
+    "endOffset" : 42,
+    "position" : 4
+  }, {
+    "token" : "canyon",
+    "startOffset" : 43,
+    "endOffset" : 49,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrhFuNEXFMlzHLLHp",
   "text" : "Contact Traffic Control.",
   "translations" : {
@@ -116,6 +154,95 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEL5xrDTAu_IiLeiL1",
+  "text" : "It's called impeding traffic.",
+  "translations" : {
+    "russian" : "Это называется препятствовать движению транспорта."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "called",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "imped",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "traffic",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEucbWDTAu_IiLe7oH",
+  "text" : "The traffic sign pole?",
+  "translations" : {
+    "russian" : "К столбу дорожного знака?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "traffic",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "sign",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "pole",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdE1LDTAu_IiLfeOJ",
+  "text" : "Contact Traffic Control.",
+  "translations" : {
+    "russian" : "Свяжись с центром управления."
+  },
+  "tokens" : [ {
+    "token" : "contact",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tact",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "traffic",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "control",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgt-_ENEXFMlzHLOQl",
   "text" : "Traffic accident, university village marketplace.",
   "translations" : {
@@ -211,6 +338,39 @@
     "token" : "station",
     "startOffset" : 33,
     "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDm5KSDTAu_IiLeK1s",
+  "text" : "Disturbance of the traffic safety.",
+  "translations" : {
+    "russian" : "Нарушение безопасности движения."
+  },
+  "tokens" : [ {
+    "token" : "disturbance",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "traffic",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "safety",
+    "startOffset" : 27,
+    "endOffset" : 33,
     "position" : 4
   } ],
   "contentScore" : null
@@ -344,196 +504,6 @@
     "startOffset" : 19,
     "endOffset" : 26,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm09TNEXFMlzHLEje",
-  "text" : "They're slowing for a traffic collision.",
-  "translations" : {
-    "russian" : "Они замедлились из-за аварии."
-  },
-  "tokens" : [ {
-    "token" : "they're",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "slow",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 20,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "traffic",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "collision",
-    "startOffset" : 30,
-    "endOffset" : 39,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvDdqNEXFMlzHLQUp",
-  "text" : "It also affects legitimate commercial traffic.",
-  "translations" : {
-    "russian" : "А так же ударит по законным коммерческим перевозкам."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "also",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "affect",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "legitimate",
-    "startOffset" : 16,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "commercial",
-    "startOffset" : 27,
-    "endOffset" : 37,
-    "position" : 4
-  }, {
-    "token" : "traffic",
-    "startOffset" : 38,
-    "endOffset" : 45,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvC-vNEXFMlzHLQTp",
-  "text" : "I told him it was traffic.",
-  "translations" : {
-    "russian" : "Я сказал ему, что это движение."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "told",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "it",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "was",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 4
-  }, {
-    "token" : "traffic",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvDiDNEXFMlzHLQUx",
-  "text" : "The FAA should ground air traffic.",
-  "translations" : {
-    "russian" : "Пусть гражданская авиация отследит перевоз грузов по воздуху."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "faa",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "should",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "ground",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "air",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "traffic",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvC_PNEXFMlzHLQTq",
-  "text" : "Traffic's murder this time of night.",
-  "translations" : {
-    "russian" : "Сейчас движение на дорогах просто тихий ужас."
-  },
-  "tokens" : [ {
-    "token" : "traffic",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "murder",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "time",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "of",
-    "startOffset" : 27,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "night",
-    "startOffset" : 30,
-    "endOffset" : 35,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

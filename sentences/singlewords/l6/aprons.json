@@ -1,32 +1,4 @@
 [ {
-  "id" : "AWbgvDo4NEXFMlzHLQVA",
-  "text" : "That's not your apron.",
-  "translations" : {
-    "russian" : "Это не ваш фартук."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "apron",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgvDnLNEXFMlzHLQU8",
   "text" : "It's only an apron.",
   "translations" : {
@@ -56,6 +28,34 @@
     "token" : "apron",
     "startOffset" : 13,
     "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvDo4NEXFMlzHLQVA",
+  "text" : "That's not your apron.",
+  "translations" : {
+    "russian" : "Это не ваш фартук."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "apron",
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
@@ -266,6 +266,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgvDkANEXFMlzHLQU1",
+  "text" : "And put on your apron.",
+  "translations" : {
+    "russian" : "И надень свой фартук."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "put",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "apron",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvDsyNEXFMlzHLQVJ",
   "text" : "Return your aprons and caps.",
   "translations" : {
@@ -300,39 +333,6 @@
     "token" : "cap",
     "startOffset" : 23,
     "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvDkANEXFMlzHLQU1",
-  "text" : "And put on your apron.",
-  "translations" : {
-    "russian" : "И надень свой фартук."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "put",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "apron",
-    "startOffset" : 16,
-    "endOffset" : 21,
     "position" : 4
   } ],
   "contentScore" : null
@@ -408,44 +408,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvD4jNEXFMlzHLQVh",
-  "text" : "And Eunice, put your apron on.",
-  "translations" : {
-    "russian" : "А ты, Юнис, надень передник."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "eunice",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "put",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "apron",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "on",
-    "startOffset" : 27,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgvDl9NEXFMlzHLQU5",
   "text" : "Just, um... wear a lead apron.",
   "translations" : {
@@ -479,6 +441,44 @@
   }, {
     "token" : "apron",
     "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvD4jNEXFMlzHLQVh",
+  "text" : "And Eunice, put your apron on.",
+  "translations" : {
+    "russian" : "А ты, Юнис, надень передник."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "eunice",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "put",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "apron",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "on",
+    "startOffset" : 27,
     "endOffset" : 29,
     "position" : 5
   } ],

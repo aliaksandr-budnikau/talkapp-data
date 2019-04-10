@@ -1,164 +1,599 @@
 [ {
-  "id" : "AWbgq7UzNEXFMlzHLKPx",
-  "text" : "Special episode tonight, supposedly.",
+  "id" : "AWoEAocwDTAu_IiLeZqF",
+  "text" : "The supposed bribery scheme?",
   "translations" : {
-    "russian" : "Сегодня ночью якобы специальный эпизод."
+    "russian" : "В предполагаемой схеме взяточничества?"
   },
   "tokens" : [ {
-    "token" : "special",
+    "token" : "the",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "episode",
-    "startOffset" : 8,
-    "endOffset" : 15,
+    "token" : "supposed",
+    "startOffset" : 4,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "tonight",
-    "startOffset" : 16,
-    "endOffset" : 23,
+    "token" : "suppose",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "bribery",
+    "startOffset" : 13,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "supposed",
-    "startOffset" : 25,
-    "endOffset" : 35,
+    "token" : "scheme",
+    "startOffset" : 21,
+    "endOffset" : 27,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjE90NEXFMlzHK_t_",
-  "text" : "Well, I suppose so.",
+  "id" : "AWoDQEq_DTAu_IiLd9jK",
+  "text" : "With Beijing's supposed emissary.",
   "translations" : {
-    "russian" : "Что ж, вполне возможно."
+    "russian" : "С предполгаемым Пекинским агентов."
   },
   "tokens" : [ {
-    "token" : "well",
+    "token" : "with",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "i",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "suppose",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "so",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsHkkNEXFMlzHLL_L",
-  "text" : "Mutual benefit, I suppose.",
-  "translations" : {
-    "russian" : "Взаимная выгода, я думаю."
-  },
-  "tokens" : [ {
-    "token" : "mutual",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "benefit",
-    "startOffset" : 7,
+    "token" : "beijing's",
+    "startOffset" : 5,
     "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "i",
-    "startOffset" : 16,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "suppose",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw-JpNEXFMlzHLSuB",
-  "text" : "I suppose... flying.",
-  "translations" : {
-    "russian" : "По-моему, это нормально... летать."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "suppose",
-    "startOffset" : 2,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "fly",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglz9bNEXFMlzHLC83",
-  "text" : "I suppose it's Hollywood.",
-  "translations" : {
-    "russian" : "Я не знаю. Полагаю, это Голливуд."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "suppose",
-    "startOffset" : 2,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "hollywood",
+    "token" : "supposed",
     "startOffset" : 15,
-    "endOffset" : 24,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "suppose",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "emissary",
+    "startOffset" : 24,
+    "endOffset" : 32,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtJfbNEXFMlzHLNXm",
-  "text" : "Beggars can't, I suppose.",
+  "id" : "AWoEPAKBDTAu_IiLekic",
+  "text" : "We were supposed to elope.",
   "translations" : {
-    "russian" : "Предположу, вряд ли это попрошайки."
+    "russian" : "Мы собирались бежать."
   },
   "tokens" : [ {
-    "token" : "beggar",
+    "token" : "we",
     "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "were",
+    "startOffset" : 3,
     "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "can't",
-    "startOffset" : 8,
-    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "i",
-    "startOffset" : 15,
+    "token" : "supposed",
+    "startOffset" : 8,
     "endOffset" : 16,
     "position" : 2
   }, {
     "token" : "suppose",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "to",
     "startOffset" : 17,
-    "endOffset" : 24,
+    "endOffset" : 19,
     "position" : 3
+  }, {
+    "token" : "elope",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESd2oDTAu_IiLenD3",
+  "text" : "I'm supposed to be convalescing.",
+  "translations" : {
+    "russian" : "Я, вроде бы, выписываюсь."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "supposed",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "suppose",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "convalesce",
+    "startOffset" : 19,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwRRxDTAu_IiLeQLX",
+  "text" : "I'm supposed to buy brackets.",
+  "translations" : {
+    "russian" : "Я должен купить скобки."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "supposed",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "suppose",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "buy",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "bracket",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwBziDTAu_IiLe8ve",
+  "text" : "I'm supposed to buy brackets.",
+  "translations" : {
+    "russian" : "Я должен купить скобки."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "supposed",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "suppose",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "buy",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "bracket",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1ddjDTAu_IiLfAqZ",
+  "text" : "Hammer's supposed to fall, right?",
+  "translations" : {
+    "russian" : "Молоточек падает, да?"
+  },
+  "tokens" : [ {
+    "token" : "hammer",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "supposed",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "suppose",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "fall",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "right",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFg-fADTAu_IiLfg7G",
+  "text" : "And after the supposed theft.",
+  "translations" : {
+    "russian" : "И после предположительного угона."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "aft",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "supposed",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "suppose",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "theft",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESevSDTAu_IiLenEl",
+  "text" : "I'm supposed to be convalescing.",
+  "translations" : {
+    "russian" : "Я, вроде бы, выписываюсь."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "supposed",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "suppose",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "convalesce",
+    "startOffset" : 19,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFb1F9DTAu_IiLfdSF",
+  "text" : "You weren't supposed to compete.",
+  "translations" : {
+    "russian" : "Ты не должен был состязаться."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "weren't",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "supposed",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "suppose",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "compete",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFb3ksDTAu_IiLfdUG",
+  "text" : "That's supposed to console me?",
+  "translations" : {
+    "russian" : "Это утешение такое?"
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "supposed",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "suppose",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "console",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "me",
+    "startOffset" : 27,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExsxMDTAu_IiLe-Aq",
+  "text" : "You're supposed to be compassionate.",
+  "translations" : {
+    "russian" : "Вы должны быть милосердной."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "supposed",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "suppose",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "compassionate",
+    "startOffset" : 22,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDp9K7DTAu_IiLeMaI",
+  "text" : "Everything was supposed to tally.",
+  "translations" : {
+    "russian" : "Ну раз все должно совпадать..."
+  },
+  "tokens" : [ {
+    "token" : "everything",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "supposed",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "suppose",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "tally",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEC8QjDTAu_IiLebcR",
+  "text" : "It's supposed to be subtle.",
+  "translations" : {
+    "russian" : "Я должен выглядеть утонченно."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "supposed",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "suppose",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "subtle",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBIC3DTAu_IiLfI44",
+  "text" : "You're supposed to be retired.",
+  "translations" : {
+    "russian" : "Ты же пенсионер!"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "supposed",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "suppose",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "tired",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBDpUDTAu_IiLfI1i",
+  "text" : "I'm supposed to be retired.",
+  "translations" : {
+    "russian" : "Я подаю в отставку."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "supposed",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "suppose",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "tired",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

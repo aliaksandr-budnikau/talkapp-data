@@ -397,6 +397,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEBCcpDTAu_IiLeZ9y",
+  "text" : "Were the Yelp reviews right?",
+  "translations" : {
+    "russian" : "Отзывы не наврали?"
+  },
+  "tokens" : [ {
+    "token" : "were",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "yelp",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "views",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "right",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgofasNEXFMlzHLG_z",
   "text" : "He has to get good reviews.",
   "translations" : {
@@ -431,6 +464,44 @@
     "token" : "views",
     "startOffset" : 19,
     "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlMepDTAu_IiLeJ6N",
+  "text" : "Have you seen the reviews, Whitey?",
+  "translations" : {
+    "russian" : "Ты видел отзывы, Беляк?"
+  },
+  "tokens" : [ {
+    "token" : "have",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "seen",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "views",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "whitey",
+    "startOffset" : 27,
+    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null
@@ -508,67 +579,6 @@
     "startOffset" : 14,
     "endOffset" : 18,
     "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr9mINEXFMlzHLLxa",
-  "text" : "The final view...?",
-  "translations" : {
-    "russian" : "Заключительный осмотр...?"
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "final",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "view",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr9w3NEXFMlzHLLxn",
-  "text" : "Stay tuned, loyal viewers...",
-  "translations" : {
-    "russian" : "Оставайтесь с нами, преданные зрители..."
-  },
-  "tokens" : [ {
-    "token" : "stay",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "tune",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "tun",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "loyal",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "viewer",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "view",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

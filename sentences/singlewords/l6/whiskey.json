@@ -64,4 +64,42 @@
     "position" : 4
   } ],
   "contentScore" : null
+}, {
+  "id" : "AWoE0rkvDTAu_IiLfAIY",
+  "text" : "My, my, my, whiskey and rye.",
+  "translations" : {
+    "russian" : "Мой, мой, мой, виски и хлебная водка."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "whiskey",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "rye",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
 } ]

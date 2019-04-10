@@ -97,4 +97,42 @@
     "position" : 4
   } ],
   "contentScore" : null
+}, {
+  "id" : "AWoEb7CrDTAu_IiLet2b",
+  "text" : "Stellar bomb initiated and detached.",
+  "translations" : {
+    "russian" : "Звездная бомба запускается и отделяется."
+  },
+  "tokens" : [ {
+    "token" : "stellar",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "bomb",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "initiate",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "detached",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "detach",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
 } ]

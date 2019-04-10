@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoFHG91DTAu_IiLfNR7",
+  "text" : "Voter fraud.",
+  "translations" : {
+    "russian" : "Мошенничество на выборах."
+  },
+  "tokens" : [ {
+    "token" : "voter",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fraud",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAoN3DTAu_IiLeZp6",
+  "text" : "So, fraud and bribery?",
+  "translations" : {
+    "russian" : "Значит, мошенничество и взяточничество?"
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "fraud",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "bribery",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsHzsNEXFMlzHLL_i",
   "text" : "Nine months, benefit fraud.",
   "translations" : {
@@ -24,6 +70,384 @@
     "startOffset" : 21,
     "endOffset" : 26,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhAm6DTAu_IiLfg8k",
+  "text" : "Conspiracy, fraud, grand theft.",
+  "translations" : {
+    "russian" : "Преступный сговор, мошенничество, кража в крупных размерах."
+  },
+  "tokens" : [ {
+    "token" : "conspiracy",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "fraud",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "grand",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "theft",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4JWxDTAu_IiLfCeK",
+  "text" : "Conspiracy, fraud, grand theft.",
+  "translations" : {
+    "russian" : "Преступный сговор, мошенничество, кража в крупных размерах."
+  },
+  "tokens" : [ {
+    "token" : "conspiracy",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "fraud",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "grand",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "theft",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFg5YBDTAu_IiLfg3x",
+  "text" : "Burglary, fraud, and identity theft.",
+  "translations" : {
+    "russian" : "Кража, мошенничество и махинации с личнвми данными."
+  },
+  "tokens" : [ {
+    "token" : "burglary",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "fraud",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "identity",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "theft",
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEK_yuDTAu_IiLehck",
+  "text" : "Check fraud, grand theft, forgery.",
+  "translations" : {
+    "russian" : "Мошенничество с чеками, крупные кражи, подделка документов."
+  },
+  "tokens" : [ {
+    "token" : "check",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fraud",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "grand",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "theft",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "forgery",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4JdmDTAu_IiLfCeO",
+  "text" : "Money laundering, wire fraud, conspiracy.",
+  "translations" : {
+    "russian" : "Отмывание денег, телефонное мошенничество, преступный сговор."
+  },
+  "tokens" : [ {
+    "token" : "money",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "launder",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "wire",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "fraud",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "conspiracy",
+    "startOffset" : 30,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcVzzDTAu_IiLfdrf",
+  "text" : "Bank fraud, smuggling, money laundering.",
+  "translations" : {
+    "russian" : "Ой, банковская афера, контрабанда, отмывание денег..."
+  },
+  "tokens" : [ {
+    "token" : "bank",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fraud",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "smuggle",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "money",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "launder",
+    "startOffset" : 29,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYP1UDTAu_IiLeCde",
+  "text" : "Um, breach of contract, lessor fraud.",
+  "translations" : {
+    "russian" : "Нарушение контракта, обман арендатора."
+  },
+  "tokens" : [ {
+    "token" : "um",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "breach",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "contract",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "lessor",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "fraud",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKMwxDTAu_IiLeg0u",
+  "text" : "She's a blatant, conniving little fraud!",
+  "translations" : {
+    "russian" : "Она -- вульгарная, подлая мошенница!"
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "blatant",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "connive",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "little",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "fraud",
+    "startOffset" : 34,
+    "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFg6MPDTAu_IiLfg4N",
+  "text" : "How about burglary, fraud and murder?",
+  "translations" : {
+    "russian" : "Как насчет кражи со взломом, мошенничества и убийства?"
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "about",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "burglary",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "fraud",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "murder",
+    "startOffset" : 30,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhABdDTAu_IiLfg8J",
+  "text" : "Fraud, identity theft, accessory to kidnapping.",
+  "translations" : {
+    "russian" : "Мошенничества, кражи личных данных, аксессуар для похищения."
+  },
+  "tokens" : [ {
+    "token" : "fraud",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "identity",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "theft",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "accessory",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 33,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "kidnapping",
+    "startOffset" : 36,
+    "endOffset" : 46,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGohwDTAu_IiLfM4_",
+  "text" : "Tariff evasion, trade exploitation, commercial fraud.",
+  "translations" : {
+    "russian" : "Уклонение от пошлин, незаконная торговля, коммерческое мошенничество."
+  },
+  "tokens" : [ {
+    "token" : "tariff",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "evasion",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "trade",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "exploitation",
+    "startOffset" : 22,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "commercial",
+    "startOffset" : 36,
+    "endOffset" : 46,
+    "position" : 4
+  }, {
+    "token" : "fraud",
+    "startOffset" : 47,
+    "endOffset" : 52,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

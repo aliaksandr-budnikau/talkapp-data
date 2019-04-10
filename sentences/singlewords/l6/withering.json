@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoFYkE4DTAu_IiLfame",
+  "text" : "They're withered husks right now.",
+  "translations" : {
+    "russian" : "Они теперь сухая шелуха..."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wither",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "husk",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "right",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "now",
+    "startOffset" : 29,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfkFlNEXFMlzHK8um",
   "text" : "Plagues fell, crops withered, children perished.",
   "translations" : {
@@ -33,6 +66,82 @@
     "token" : "perish",
     "startOffset" : 39,
     "endOffset" : 47,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoER8EODTAu_IiLemqj",
+  "text" : "Cheeks are hollow, skin is withered.",
+  "translations" : {
+    "russian" : "Щеки впалые, кожа дряблая. Время старухи приходит, жизнь подходит к концу."
+  },
+  "tokens" : [ {
+    "token" : "cheek",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "hollow",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "skin",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "is",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "wither",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoER8DQDTAu_IiLemqi",
+  "text" : "Cheeks are hollow, skin is withered.",
+  "translations" : {
+    "russian" : "Щеки впалые, кожа дряблая."
+  },
+  "tokens" : [ {
+    "token" : "cheek",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "hollow",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "skin",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "is",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "wither",
+    "startOffset" : 27,
+    "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null

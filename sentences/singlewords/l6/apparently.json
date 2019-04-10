@@ -1,4 +1,45 @@
 [ {
+  "id" : "AWoEwpBMDTAu_IiLe9OA",
+  "text" : "Dunkirk, apparently.",
+  "translations" : {
+    "russian" : "За Дюнкерк, видимо."
+  },
+  "tokens" : [ {
+    "token" : "dunkirk",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "apparently",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEk3B-DTAu_IiLe0uw",
+  "text" : "And apparently declamation.",
+  "translations" : {
+    "russian" : "И, очевидно, торжественные речи."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "apparently",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "declamation",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgv1AZNEXFMlzHLRet",
   "text" : "Apparently monkeys have tails.",
   "translations" : {
@@ -24,6 +65,62 @@
     "startOffset" : 24,
     "endOffset" : 29,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmbaiDTAu_IiLeKk9",
+  "text" : "And apparently infertile, too.",
+  "translations" : {
+    "russian" : "И бесплодная, судя по всему."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "apparently",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "infertile",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "too",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz_qHDTAu_IiLeSMI",
+  "text" : "Apparently, I'm indispensable.",
+  "translations" : {
+    "russian" : "Идимо, незаменима."
+  },
+  "tokens" : [ {
+    "token" : "apparently",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "i'm",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "indispensable",
+    "startOffset" : 16,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "dispensable",
+    "startOffset" : 16,
+    "endOffset" : 29,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -56,6 +153,110 @@
     "token" : "flu",
     "startOffset" : 24,
     "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEGc3DTAu_IiLecX3",
+  "text" : "Apparently, they were tampered with.",
+  "translations" : {
+    "russian" : "По видимому, они были подделаны."
+  },
+  "tokens" : [ {
+    "token" : "apparently",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "they",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "were",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "tampered",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "tamper",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "with",
+    "startOffset" : 31,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcdw9DTAu_IiLeuN2",
+  "text" : "Apparently he's impervious to compulsion.",
+  "translations" : {
+    "russian" : "Судя по всему, он невосприимчив к внушению."
+  },
+  "tokens" : [ {
+    "token" : "apparently",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "he",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "impervious",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 27,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "compulsion",
+    "startOffset" : 30,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh0UZDTAu_IiLeyWR",
+  "text" : "Apparently it prevents blood clots.",
+  "translations" : {
+    "russian" : "По-видимому это предотвращает образование тромбов."
+  },
+  "tokens" : [ {
+    "token" : "apparently",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "prevent",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "blood",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "clot",
+    "startOffset" : 29,
+    "endOffset" : 34,
     "position" : 4
   } ],
   "contentScore" : null
@@ -93,6 +294,77 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEP_vgDTAu_IiLelQd",
+  "text" : "Apparently, Kennedy's ethics are selective.",
+  "translations" : {
+    "russian" : "Очевидно у Кеннеди выборочная этика."
+  },
+  "tokens" : [ {
+    "token" : "apparently",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "kennedy",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "ethic",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 29,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "selective",
+    "startOffset" : 33,
+    "endOffset" : 42,
+    "position" : 4
+  }, {
+    "token" : "select",
+    "startOffset" : 33,
+    "endOffset" : 42,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbfxADTAu_IiLetjv",
+  "text" : "Apparently our hypothesis is correct.",
+  "translations" : {
+    "russian" : "Очевидно, наша гипотеза верна."
+  },
+  "tokens" : [ {
+    "token" : "apparently",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "our",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "hypothesis",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "correct",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvDHCNEXFMlzHLQT6",
   "text" : "Shorter than airport traffic, apparently.",
   "translations" : {
@@ -126,10 +398,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcb0INEXFMlzHK6A3",
-  "text" : "Apparently I've got man flu.",
+  "id" : "AWoDRTJJDTAu_IiLd-a4",
+  "text" : "Apparently, we've intercepted a conduit.",
   "translations" : {
-    "russian" : "По-видимому, я заразился гриппом."
+    "russian" : "По-видимому, мы перехватили канал."
   },
   "tokens" : [ {
     "token" : "apparently",
@@ -137,184 +409,32 @@
     "endOffset" : 10,
     "position" : 0
   }, {
-    "token" : "i've",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "got",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "man",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "flu",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr1erNEXFMlzHLLlc",
-  "text" : "No apparently not in the light.",
-  "translations" : {
-    "russian" : "Нет видимо, не на свету."
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "apparently",
-    "startOffset" : 3,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "not",
-    "startOffset" : 14,
+    "token" : "we've",
+    "startOffset" : 12,
     "endOffset" : 17,
-    "position" : 2
+    "position" : 1
   }, {
-    "token" : "in",
+    "token" : "intercept",
     "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "light",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbga1rxNEXFMlzHK4lN",
-  "text" : "No apparently not in the light.",
-  "translations" : {
-    "russian" : "Нет видимо, не на свету."
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "apparently",
-    "startOffset" : 3,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "not",
-    "startOffset" : 14,
-    "endOffset" : 17,
+    "endOffset" : 29,
     "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "light",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcpe9NEXFMlzHK6NE",
-  "text" : "And apparently, it was very happy.",
-  "translations" : {
-    "russian" : "И по-видимому, что то очень удачное."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "apparently",
-    "startOffset" : 4,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "was",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "very",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "happy",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbyAeNEXFMlzHK5bA",
-  "text" : "Apparently you already have a date.",
-  "translations" : {
-    "russian" : "Очевидно, у тебя уже назначена встреча."
-  },
-  "tokens" : [ {
-    "token" : "apparently",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "already",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "have",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 3
   }, {
     "token" : "a",
-    "startOffset" : 28,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "date",
     "startOffset" : 30,
-    "endOffset" : 34,
-    "position" : 5
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "conduit",
+    "startOffset" : 32,
+    "endOffset" : 39,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxTMENEXFMlzHLTGM",
-  "text" : "Apparently everything came off on schedule.",
+  "id" : "AWoDonmxDTAu_IiLeLtI",
+  "text" : "Apparently, Will was very devout.",
   "translations" : {
-    "russian" : "Все идет по плану."
+    "russian" : "По-видимому, Вилл был очень набожным."
   },
   "tokens" : [ {
     "token" : "apparently",
@@ -322,30 +442,58 @@
     "endOffset" : 10,
     "position" : 0
   }, {
-    "token" : "everything",
-    "startOffset" : 11,
-    "endOffset" : 21,
+    "token" : "will",
+    "startOffset" : 12,
+    "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "came",
-    "startOffset" : 22,
-    "endOffset" : 26,
+    "token" : "was",
+    "startOffset" : 17,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "off",
-    "startOffset" : 27,
-    "endOffset" : 30,
+    "token" : "very",
+    "startOffset" : 21,
+    "endOffset" : 25,
     "position" : 3
   }, {
-    "token" : "on",
-    "startOffset" : 31,
-    "endOffset" : 33,
+    "token" : "devout",
+    "startOffset" : 26,
+    "endOffset" : 32,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVKTIDTAu_IiLepJA",
+  "text" : "Apparently, he's with Ana now.",
+  "translations" : {
+    "russian" : "Вообще-то, он вместе с Аной."
+  },
+  "tokens" : [ {
+    "token" : "apparently",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
   }, {
-    "token" : "schedule",
-    "startOffset" : 34,
-    "endOffset" : 42,
-    "position" : 5
+    "token" : "he",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "ana",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "now",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

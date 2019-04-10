@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoFIH5vDTAu_IiLfOHc",
+  "text" : "These crooks aren't interested...",
+  "translations" : {
+    "russian" : "Эти плуты не заинтересованы..."
+  },
+  "tokens" : [ {
+    "token" : "these",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "crook",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "aren't",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "interested",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "interest",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggY8JNEXFMlzHK9bK",
   "text" : "So he's interested in art?",
   "translations" : {
@@ -151,160 +184,86 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghfKfNEXFMlzHK-Yc",
-  "text" : "What's your interest?",
+  "id" : "AWoEqiDqDTAu_IiLe49u",
+  "text" : "I'm not interested in conjecture.",
   "translations" : {
-    "russian" : "Почему тебя это интересует?"
+    "russian" : "Меня не интересуют предположения."
   },
   "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "interest",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "inter",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgq_QnNEXFMlzHLKVs",
-  "text" : "Interests and instalment payments.",
-  "translations" : {
-    "russian" : "Интересы и платежи в рассрочку."
-  },
-  "tokens" : [ {
-    "token" : "interest",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "and",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "instalment",
-    "startOffset" : 14,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "payment",
-    "startOffset" : 25,
-    "endOffset" : 33,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxljLNEXFMlzHLTd8",
-  "text" : "That's an interesting touch.",
-  "translations" : {
-    "russian" : "Вот это - интересный штрих."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "an",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "interesting",
-    "startOffset" : 10,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "interest",
-    "startOffset" : 10,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "touch",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghfS0NEXFMlzHK-Yk",
-  "text" : "You don't interest me.",
-  "translations" : {
-    "russian" : "Вы меня не интересуете."
-  },
-  "tokens" : [ {
-    "token" : "you",
+    "token" : "i'm",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "don't",
+    "token" : "not",
     "startOffset" : 4,
-    "endOffset" : 9,
+    "endOffset" : 7,
     "position" : 1
   }, {
+    "token" : "interested",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
     "token" : "interest",
-    "startOffset" : 10,
+    "startOffset" : 8,
     "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "inter",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "me",
+    "token" : "in",
     "startOffset" : 19,
     "endOffset" : 21,
     "position" : 3
+  }, {
+    "token" : "conjecture",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmMOiNEXFMlzHLDdu",
-  "text" : "Um... interesting observation.",
+  "id" : "AWoD8hLYDTAu_IiLeWhN",
+  "text" : "I'm not interested in doctrines.",
   "translations" : {
-    "russian" : "Хм... интересное наблюдение."
+    "russian" : "Я не заинтересован в доктринах."
   },
   "tokens" : [ {
-    "token" : "um",
+    "token" : "i'm",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "interesting",
-    "startOffset" : 6,
-    "endOffset" : 17,
+    "token" : "not",
+    "startOffset" : 4,
+    "endOffset" : 7,
     "position" : 1
+  }, {
+    "token" : "interested",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
   }, {
     "token" : "interest",
-    "startOffset" : 6,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "observation",
-    "startOffset" : 18,
-    "endOffset" : 29,
+    "startOffset" : 8,
+    "endOffset" : 18,
     "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "doctrine",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghg9DNEXFMlzHK-Z_",
-  "text" : "I have... an interest.",
+  "id" : "AWoFGCY3DTAu_IiLfMc2",
+  "text" : "I am very interested, Ida.",
   "translations" : {
-    "russian" : "У меня... есть заинтересованность."
+    "russian" : "Нет-нет, мне очень интересно, Айда."
   },
   "tokens" : [ {
     "token" : "i",
@@ -312,208 +271,182 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "have",
+    "token" : "am",
     "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "an",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "interest",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "inter",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgx_ZENEXFMlzHLUDt",
-  "text" : "Interesting point, sir.",
-  "translations" : {
-    "russian" : "Интересная мысль, сэр."
-  },
-  "tokens" : [ {
-    "token" : "interesting",
-    "startOffset" : 0,
-    "endOffset" : 11,
-    "position" : 0
-  }, {
-    "token" : "interest",
-    "startOffset" : 0,
-    "endOffset" : 11,
-    "position" : 0
-  }, {
-    "token" : "point",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "sir",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghffwNEXFMlzHK-Yu",
-  "text" : "This might interest you.",
-  "translations" : {
-    "russian" : "Это может заинтересовать вас."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
     "endOffset" : 4,
-    "position" : 0
+    "position" : 1
   }, {
-    "token" : "might",
+    "token" : "very",
     "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "interest",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "inter",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoHk_NEXFMlzHLGad",
-  "text" : "This might interest you.",
-  "translations" : {
-    "russian" : "Это может заинтересовать вас."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "might",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "interest",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "inter",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoHhkNEXFMlzHLGaX",
-  "text" : "The fellow interests me.",
-  "translations" : {
-    "russian" : "Этот парень меня заинтересовал."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "fellow",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "interest",
-    "startOffset" : 11,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "me",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoHdaNEXFMlzHLGaT",
-  "text" : "You don't interest me.",
-  "translations" : {
-    "russian" : "Вы меня не интересуете."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "don't",
-    "startOffset" : 4,
     "endOffset" : 9,
-    "position" : 1
+    "position" : 2
+  }, {
+    "token" : "interested",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 3
   }, {
     "token" : "interest",
     "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "inter",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "me",
-    "startOffset" : 19,
-    "endOffset" : 21,
+    "endOffset" : 20,
     "position" : 3
+  }, {
+    "token" : "ida",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoHZRNEXFMlzHLGaL",
-  "text" : "What's your interest?",
+  "id" : "AWoDUl2aDTAu_IiLeAmd",
+  "text" : "Are you interested in spooling?",
   "translations" : {
-    "russian" : "Почему тебя это интересует?"
+    "russian" : "Вы интересуетесь катушками?"
   },
   "tokens" : [ {
-    "token" : "what",
+    "token" : "are",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "your",
-    "startOffset" : 7,
-    "endOffset" : 11,
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "interest",
-    "startOffset" : 12,
-    "endOffset" : 20,
+    "token" : "interested",
+    "startOffset" : 8,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "inter",
-    "startOffset" : 12,
-    "endOffset" : 20,
+    "token" : "interest",
+    "startOffset" : 8,
+    "endOffset" : 18,
     "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "spool",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoET2c1DTAu_IiLeoHa",
+  "text" : "Was Jake interested in thumbs?",
+  "translations" : {
+    "russian" : "Джейка возбуждали большие пальцы?"
+  },
+  "tokens" : [ {
+    "token" : "was",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "jake",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "interested",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "interest",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "thumb",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEz3pYDTAu_IiLe_kV",
+  "text" : "You are interested in paintings?",
+  "translations" : {
+    "russian" : "Интересуетесь живописью?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "interested",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "interest",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "painting",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFT6IrDTAu_IiLfXNC",
+  "text" : "Are you interested in spooling?",
+  "translations" : {
+    "russian" : "Вы интересуетесь катушками?"
+  },
+  "tokens" : [ {
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "interested",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "interest",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "spool",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

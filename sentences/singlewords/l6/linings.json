@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWoE8afWDTAu_IiLfFOq",
+  "text" : "Cork lining.",
+  "translations" : {
+    "russian" : "Пробковая прокладка."
+  },
+  "tokens" : [ {
+    "token" : "cork",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "lining",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "line",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeuKVDTAu_IiLffaB",
+  "text" : "Silk lining. Fine Corinthian leather.",
+  "translations" : {
+    "russian" : "Шелковая подкладка, отличная коринфская кожа."
+  },
+  "tokens" : [ {
+    "token" : "silk",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "lining",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "line",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fine",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "corinthian",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "leather",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

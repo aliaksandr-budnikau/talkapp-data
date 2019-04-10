@@ -1,115 +1,364 @@
 [ {
-  "id" : "AWbgommGNEXFMlzHLHK4",
-  "text" : "Of constant moving and stopping.",
+  "id" : "AWoFcvExDTAu_IiLfd-L",
+  "text" : "Constantly.",
   "translations" : {
-    "russian" : "В постоянном движении и остановках."
-  },
-  "tokens" : [ {
-    "token" : "of",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "constant",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "moving",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "move",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "stopping",
-    "startOffset" : 23,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcwMENEXFMlzHK6TK",
-  "text" : "Constantly turning down party invitations.",
-  "translations" : {
-    "russian" : "Постоянно отклоняю приглашения на вечеринки."
+    "russian" : "Регулярно."
   },
   "tokens" : [ {
     "token" : "constant",
     "startOffset" : 0,
     "endOffset" : 10,
     "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcuxODTAu_IiLfd95",
+  "text" : "Constant.",
+  "translations" : {
+    "russian" : "Констан."
+  },
+  "tokens" : [ {
+    "token" : "constant",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcutzDTAu_IiLfd93",
+  "text" : "Goodbye, Constant!",
+  "translations" : {
+    "russian" : "Прощай, Констан!"
+  },
+  "tokens" : [ {
+    "token" : "goodbye",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
   }, {
-    "token" : "turning",
-    "startOffset" : 11,
-    "endOffset" : 18,
+    "token" : "constant",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFctuzDTAu_IiLfd9K",
+  "text" : "Constant motion.",
+  "translations" : {
+    "russian" : "Непрерывное движение."
+  },
+  "tokens" : [ {
+    "token" : "constant",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "motion",
+    "startOffset" : 9,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "turn",
-    "startOffset" : 11,
-    "endOffset" : 18,
+    "token" : "mote",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFctwgDTAu_IiLfd9L",
+  "text" : "Constant thought.",
+  "translations" : {
+    "russian" : "Непрерывное мышление."
+  },
+  "tokens" : [ {
+    "token" : "constant",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "thought",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcvPRDTAu_IiLfd-S",
+  "text" : "They're constant.",
+  "translations" : {
+    "russian" : "Регулярные."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "constant",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFctm-DTAu_IiLfd9F",
+  "text" : "Constant. Uh...",
+  "translations" : {
+    "russian" : "Непрерывно?"
+  },
+  "tokens" : [ {
+    "token" : "constant",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "uh",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcsW4DTAu_IiLfd8I",
+  "text" : "Change the cosmological constant.",
+  "translations" : {
+    "russian" : "Изменим космологическую константу."
+  },
+  "tokens" : [ {
+    "token" : "change",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "down",
-    "startOffset" : 19,
+    "token" : "cosmological",
+    "startOffset" : 11,
     "endOffset" : 23,
     "position" : 2
   }, {
-    "token" : "party",
+    "token" : "constant",
     "startOffset" : 24,
-    "endOffset" : 29,
+    "endOffset" : 32,
     "position" : 3
-  }, {
-    "token" : "invitation",
-    "startOffset" : 30,
-    "endOffset" : 41,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzC1VNEXFMlzHLVpZ",
-  "text" : "Constantly buffeted by wind and tide.",
+  "id" : "AWoFcsesDTAu_IiLfd8N",
+  "text" : "And an irrational constant.",
   "translations" : {
-    "russian" : "Где нужно бороться каждое утро."
+    "russian" : "Иррациональную константу."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "irrational",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "constant",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFctzsDTAu_IiLfd9N",
+  "text" : "They require constant care.",
+  "translations" : {
+    "russian" : "Им нужен непрерывный уход."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "require",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "constant",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "care",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcunNDTAu_IiLfd9y",
+  "text" : "I'm Superintendent Constant.",
+  "translations" : {
+    "russian" : "Я комиссар Констан."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "superintendent",
+    "startOffset" : 4,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "constant",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcuAYDTAu_IiLfd9W",
+  "text" : "It's a constant struggle.",
+  "translations" : {
+    "russian" : "Это непрерывная борьба."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "constant",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "struggle",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFctLIDTAu_IiLfd8u",
+  "text" : "I'm constantly dropping stuff.",
+  "translations" : {
+    "russian" : "Я вечно все роняю, не переживайте."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "constant",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "dropping",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "stuff",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcuobDTAu_IiLfd9z",
+  "text" : "CONSTANT DUPONT, ATTORNEY.",
+  "translations" : {
+    "russian" : "КОНСТАН ДЮПОН, АДВОКАТ."
   },
   "tokens" : [ {
     "token" : "constant",
     "startOffset" : 0,
-    "endOffset" : 10,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "buffet",
-    "startOffset" : 11,
-    "endOffset" : 19,
+    "token" : "dupont",
+    "startOffset" : 9,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "by",
-    "startOffset" : 20,
-    "endOffset" : 22,
+    "token" : "attorney",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFctKJDTAu_IiLfd8t",
+  "text" : "With your constant absenteeism?",
+  "translations" : {
+    "russian" : "С твоих вечных прогулов?"
+  },
+  "tokens" : [ {
+    "token" : "with",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "constant",
+    "startOffset" : 10,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "wind",
-    "startOffset" : 23,
-    "endOffset" : 27,
+    "token" : "absenteeism",
+    "startOffset" : 19,
+    "endOffset" : 30,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcsvDDTAu_IiLfd8Z",
+  "text" : "Cheated on me constantly.",
+  "translations" : {
+    "russian" : "Вечно изменял мне."
+  },
+  "tokens" : [ {
+    "token" : "cheat",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
   }, {
-    "token" : "and",
-    "startOffset" : 28,
-    "endOffset" : 31,
-    "position" : 4
+    "token" : "on",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
   }, {
-    "token" : "tide",
-    "startOffset" : 32,
-    "endOffset" : 36,
-    "position" : 5
+    "token" : "me",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "constant",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

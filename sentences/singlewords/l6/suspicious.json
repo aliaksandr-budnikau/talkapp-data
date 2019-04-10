@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoD7mmiDTAu_IiLeV1r",
+  "text" : "Your generosity is suspicious.",
+  "translations" : {
+    "russian" : "Ваше великодушие подозрительно."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "generosity",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "suspicious",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguN2-NEXFMlzHLOqT",
   "text" : "I'm not a suspicious person!",
   "translations" : {
@@ -29,6 +57,44 @@
     "startOffset" : 21,
     "endOffset" : 27,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDahi0DTAu_IiLeD1C",
+  "text" : "You were suspicious from the onset.",
+  "translations" : {
+    "russian" : "У тебя были подозрения с самого начала."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "were",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "suspicious",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "from",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "onset",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

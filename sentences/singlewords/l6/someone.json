@@ -1,4 +1,58 @@
 [ {
+  "id" : "AWoFhMqzDTAu_IiLfhEf",
+  "text" : "Someone blabbed.",
+  "translations" : {
+    "russian" : "Кто-то проболтался."
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "blabbed",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKRq3DTAu_IiLeg4Q",
+  "text" : "Someone yelled.",
+  "translations" : {
+    "russian" : "Кто-то кричал, это правда."
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "yell",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhKVhDTAu_IiLfhC-",
+  "text" : "Someone blabbed.",
+  "translations" : {
+    "russian" : "Кто-то проболтался."
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "blabbed",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnAIANEXFMlzHLE02",
   "text" : "Someone cut him up?",
   "translations" : {
@@ -62,6 +116,202 @@
     "startOffset" : 19,
     "endOffset" : 29,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2b6KDTAu_IiLeTVj",
+  "text" : "Someone's rattled today.",
+  "translations" : {
+    "russian" : "Кого-то сегодня напугали."
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "rattle",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "today",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETsaDDTAu_IiLen_o",
+  "text" : "Well, someone's being persistent.",
+  "translations" : {
+    "russian" : "Ну, кто-то очень настойчив."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "someone",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "being",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "bee",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "persistent",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEt8TkDTAu_IiLe7Rx",
+  "text" : "I need someone trustworthy.",
+  "translations" : {
+    "russian" : "Мне нужен кто-то, заслуживающий доверия."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "need",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "someone",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "trustworthy",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvvCdDTAu_IiLe8hg",
+  "text" : "Someone duplicated the duplicators?",
+  "translations" : {
+    "russian" : "Кто то скопировал копировальные аппараты?"
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "duplicate",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "duplicator",
+    "startOffset" : 23,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEUxNDTAu_IiLfLOl",
+  "text" : "Must be someone's mischief.",
+  "translations" : {
+    "russian" : "Наверное чьи-то проказы."
+  },
+  "tokens" : [ {
+    "token" : "must",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "be",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "someone",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "mischief",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNLIXDTAu_IiLfSEY",
+  "text" : "Someone I know... intimately.",
+  "translations" : {
+    "russian" : "Кое-кто, кого я знаю... очень близко."
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "know",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "intimate",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFU9bxDTAu_IiLfX7r",
+  "text" : "SOMEONE MORE QUALIFIED.",
+  "translations" : {
+    "russian" : "Кто-то более квалифицированный."
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "more",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "qualified",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "qualify",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -154,178 +404,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkz9tNEXFMlzHLBcH",
-  "text" : "Someone was belting her.",
+  "id" : "AWoDmliIDTAu_IiLeKqu",
+  "text" : "Someone's heart fluttered.",
   "translations" : {
-    "russian" : "Кто-то стегал её ремнём."
-  },
-  "tokens" : [ {
-    "token" : "someone",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "belting",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "belt",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "her",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglfC3NEXFMlzHLCno",
-  "text" : "See, someone has leverage.",
-  "translations" : {
-    "russian" : "Посмотрите, у кого-то есть рычаги."
-  },
-  "tokens" : [ {
-    "token" : "see",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "someone",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "has",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "leverage",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyFTQNEXFMlzHLUO_",
-  "text" : "Someone hit that switch.",
-  "translations" : {
-    "russian" : "Кто-то задел тот переключатель."
-  },
-  "tokens" : [ {
-    "token" : "someone",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "hit",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "switch",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk3AHNEXFMlzHLBgk",
-  "text" : "Not someone's nature.",
-  "translations" : {
-    "russian" : "Но не чья-то натура."
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "someone",
-    "startOffset" : 4,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "nature",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnABLNEXFMlzHLE0v",
-  "text" : "Someone cut Howard's cake!",
-  "translations" : {
-    "russian" : "Кто-то разрезал торт Говарда."
-  },
-  "tokens" : [ {
-    "token" : "someone",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "cut",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "howard",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "cake",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgumXjNEXFMlzHLPbD",
-  "text" : "Someone who's your equal.",
-  "translations" : {
-    "russian" : "С кем-то, кто тебе ровня."
-  },
-  "tokens" : [ {
-    "token" : "someone",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "who",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "equal",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcHWoNEXFMlzHK5ub",
-  "text" : "Someone's pinched my chocolate!",
-  "translations" : {
-    "russian" : "Кто-то раздавил мой шоколад!"
+    "russian" : "Чьё-то сердце трепетало."
   },
   "tokens" : [ {
     "token" : "someone",
@@ -333,152 +415,15 @@
     "endOffset" : 9,
     "position" : 0
   }, {
-    "token" : "pinch",
+    "token" : "heart",
     "startOffset" : 10,
-    "endOffset" : 17,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "my",
-    "startOffset" : 18,
-    "endOffset" : 20,
+    "token" : "flutter",
+    "startOffset" : 16,
+    "endOffset" : 25,
     "position" : 2
-  }, {
-    "token" : "chocolate",
-    "startOffset" : 21,
-    "endOffset" : 30,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgd7mqNEXFMlzHK7S1",
-  "text" : "Someone who suits me.",
-  "translations" : {
-    "russian" : "С тем, кто меня устроит."
-  },
-  "tokens" : [ {
-    "token" : "someone",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "who",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "suit",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "me",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvIKnNEXFMlzHLQeh",
-  "text" : "Someone was belting her.",
-  "translations" : {
-    "russian" : "Кто-то стегал её ремнём."
-  },
-  "tokens" : [ {
-    "token" : "someone",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "belting",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "belt",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "her",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbI9vNEXFMlzHK42P",
-  "text" : "Someone's been doing their homework.",
-  "translations" : {
-    "russian" : "Кто-то серьёзно подошёл к делу."
-  },
-  "tokens" : [ {
-    "token" : "someone",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "been",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "doing",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "do",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "their",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "homework",
-    "startOffset" : 27,
-    "endOffset" : 35,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl_rDNEXFMlzHLDIG",
-  "text" : "Someone has lifted this reef.",
-  "translations" : {
-    "russian" : "Кто-то поднял этот подводный камень."
-  },
-  "tokens" : [ {
-    "token" : "someone",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "has",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "lift",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "this",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "reef",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

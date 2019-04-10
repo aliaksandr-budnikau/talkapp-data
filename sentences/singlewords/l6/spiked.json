@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoFhzFCDTAu_IiLfha1",
+  "text" : "Spiked heel.",
+  "translations" : {
+    "russian" : "Шпильки."
+  },
+  "tokens" : [ {
+    "token" : "spike",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "heel",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgl6HTNEXFMlzHLDBO",
   "text" : "Bringing him spiked cupcakes.",
   "translations" : {
@@ -23,6 +41,39 @@
     "token" : "cupcake",
     "startOffset" : 20,
     "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJ501DTAu_IiLegmG",
+  "text" : "Volt meter just spiked.",
+  "translations" : {
+    "russian" : "Вольтметр только что подал сигнал."
+  },
+  "tokens" : [ {
+    "token" : "volt",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "meter",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "mete",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "just",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "spike",
+    "startOffset" : 16,
+    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
@@ -179,6 +230,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE-y4EDTAu_IiLfHDU",
+  "text" : "The vamps outside were Spike's men.",
+  "translations" : {
+    "russian" : "Вампиры снаружи люди Спайка."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "vamp",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "outside",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "were",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "spike",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "men",
+    "startOffset" : 31,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgd4FNNEXFMlzHK7Pt",
   "text" : "It airs this march on spike.",
   "translations" : {
@@ -213,6 +302,44 @@
     "token" : "spike",
     "startOffset" : 22,
     "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPERvDTAu_IiLfTd9",
+  "text" : "The vamps outside were Spike's men.",
+  "translations" : {
+    "russian" : "Вампиры снаружи люди Спайка."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "vamp",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "outside",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "were",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "spike",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "men",
+    "startOffset" : 31,
+    "endOffset" : 34,
     "position" : 5
   } ],
   "contentScore" : null

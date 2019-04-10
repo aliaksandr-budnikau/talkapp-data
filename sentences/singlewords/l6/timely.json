@@ -1,39 +1,87 @@
 [ {
-  "id" : "AWbga0WbNEXFMlzHK4j-",
-  "text" : "It's time to go.",
+  "id" : "AWoED1LwDTAu_IiLecKB",
+  "text" : "Your intervention was very timely.",
   "translations" : {
-    "russian" : "Это время, чтобы пойти."
+    "russian" : "Ваше вмешательство было очень своевременным."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "your",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "time",
+    "token" : "intervention",
     "startOffset" : 5,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "very",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "timely",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "time",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoED2w3DTAu_IiLecLV",
+  "text" : "Excuse me for my untimely intervention.",
+  "translations" : {
+    "russian" : "Простите меня за мое несвоевременное вторжение."
+  },
+  "tokens" : [ {
+    "token" : "excuse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 7,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "to",
+    "token" : "for",
     "startOffset" : 10,
-    "endOffset" : 12,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "go",
-    "startOffset" : 13,
-    "endOffset" : 15,
+    "token" : "my",
+    "startOffset" : 14,
+    "endOffset" : 16,
     "position" : 3
+  }, {
+    "token" : "timely",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "intervention",
+    "startOffset" : 26,
+    "endOffset" : 38,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbRzPNEXFMlzHK4-N",
-  "text" : "It's time, Ethan.",
+  "id" : "AWoD4_SXDTAu_IiLeUgr",
+  "text" : "Bath time.",
   "translations" : {
-    "russian" : "Пора ехать, Итан."
+    "russian" : "Баня. Чего?"
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "bath",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
@@ -42,49 +90,34 @@
     "startOffset" : 5,
     "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "ethan",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkP2zNEXFMlzHLAuU",
-  "text" : "No time to waste...",
+  "id" : "AWoETQh3DTAu_IiLenqP",
+  "text" : "Timers, gauges...",
   "translations" : {
-    "russian" : "Не можем терять времени..."
+    "russian" : "Таймеры, датчики..."
   },
   "tokens" : [ {
-    "token" : "no",
+    "token" : "time",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "time",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "to",
+    "token" : "gauges",
     "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "waste",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
+    "endOffset" : 14,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkzcRNEXFMlzHLBbU",
-  "text" : "First time being audited.",
+  "id" : "AWoEiCHODTAu_IiLeyjV",
+  "text" : "Prime time?",
   "translations" : {
-    "russian" : "Впервые проходит аудиторскую проверку."
+    "russian" : "В прайм тайм?"
   },
   "tokens" : [ {
-    "token" : "first",
+    "token" : "prime",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
@@ -93,150 +126,172 @@
     "startOffset" : 6,
     "endOffset" : 10,
     "position" : 1
-  }, {
-    "token" : "being",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "bee",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "audited",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "audit",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmzAzNEXFMlzHLEgJ",
-  "text" : "Better time slot, too.",
+  "id" : "AWoFXe8nDTAu_IiLfZtd",
+  "text" : "Slop time.",
   "translations" : {
-    "russian" : "Покажут в лучшее время."
+    "russian" : "Время для помоев."
   },
   "tokens" : [ {
-    "token" : "better",
+    "token" : "slop",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "time",
-    "startOffset" : 7,
-    "endOffset" : 11,
+    "startOffset" : 5,
+    "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "slot",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "too",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxwfeNEXFMlzHLT1I",
-  "text" : "Doctor, the time loop.",
+  "id" : "AWoErO-cDTAu_IiLe5dP",
+  "text" : "Timers, gauges...",
   "translations" : {
-    "russian" : "Доктор, временная петля."
+    "russian" : "Таймеры, датчики..."
   },
   "tokens" : [ {
-    "token" : "doctor",
+    "token" : "time",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "the",
+    "token" : "gauges",
     "startOffset" : 8,
-    "endOffset" : 11,
+    "endOffset" : 14,
     "position" : 1
-  }, {
-    "token" : "time",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "loop",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbQmVNEXFMlzHK49I",
-  "text" : "You know, takes time.",
+  "id" : "AWoENkZSDTAu_IiLejeD",
+  "text" : "Medication time.",
   "translations" : {
-    "russian" : "Понимаете, нужно время."
+    "russian" : "Прием лекарств."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "medication",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "medicate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "time",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELpryDTAu_IiLeh-n",
+  "text" : "Prime time?",
+  "translations" : {
+    "russian" : "В прайм тайм?"
+  },
+  "tokens" : [ {
+    "token" : "prime",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "time",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2K5zDTAu_IiLfBJh",
+  "text" : "Lap time.",
+  "translations" : {
+    "russian" : "Время заезда."
+  },
+  "tokens" : [ {
+    "token" : "lap",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "know",
+    "token" : "time",
     "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
-  }, {
-    "token" : "takes",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "take",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "time",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkQGqNEXFMlzHLAur",
-  "text" : "Should waste no time.",
+  "id" : "AWoE2RKiDTAu_IiLfBNr",
+  "text" : "Lap time.",
   "translations" : {
-    "russian" : "Не следует терять время."
+    "russian" : "Время заезда."
   },
   "tokens" : [ {
-    "token" : "should",
+    "token" : "lap",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "waste",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "no",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
     "token" : "time",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgq2t5NEXFMlzHLKIx",
-  "text" : "No time for chatting.",
+  "id" : "AWoENkWHDTAu_IiLejeA",
+  "text" : "Medication time.",
   "translations" : {
-    "russian" : "Нет времени для болтовни."
+    "russian" : "Время приема лекарств."
+  },
+  "tokens" : [ {
+    "token" : "medication",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "medicate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "time",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmYafDTAu_IiLeKjW",
+  "text" : "Uninterrupted time.",
+  "translations" : {
+    "russian" : "Непрерывного времени."
+  },
+  "tokens" : [ {
+    "token" : "uninterrupted",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "interrupted",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "time",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUys5DTAu_IiLfX0h",
+  "text" : "No time.",
+  "translations" : {
+    "russian" : "Kwanza.Кванза праздник афроамериканцев."
   },
   "tokens" : [ {
     "token" : "no",
@@ -248,217 +303,72 @@
     "startOffset" : 3,
     "endOffset" : 7,
     "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "chatting",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbRalNEXFMlzHK494",
-  "text" : "Admitted a couple times.",
+  "id" : "AWoE4-fZDTAu_IiLfDAA",
+  "text" : "Good times and bum times.",
   "translations" : {
-    "russian" : "Возможно, несколько раз."
+    "russian" : "В хорошие и плохие времена."
   },
   "tokens" : [ {
-    "token" : "admitted",
+    "token" : "good",
     "startOffset" : 0,
-    "endOffset" : 8,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "a",
-    "startOffset" : 9,
+    "token" : "time",
+    "startOffset" : 5,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "couple",
+    "token" : "and",
     "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "time",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbSVqNEXFMlzHK4-t",
-  "text" : "He'll do the time.",
-  "translations" : {
-    "russian" : "Ему и срок мотать."
-  },
-  "tokens" : [ {
-    "token" : "he'll",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "do",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "time",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbge1UaNEXFMlzHK8GU",
-  "text" : "Is time travel possible?",
-  "translations" : {
-    "russian" : "Ожно ли путешествовать во времени?"
-  },
-  "tokens" : [ {
-    "token" : "is",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "time",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "travel",
-    "startOffset" : 8,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "possible",
+    "token" : "bum",
     "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkP9YNEXFMlzHLAue",
-  "text" : "You're wasting your time.",
-  "translations" : {
-    "russian" : "Вы просто время потеряете."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "wasting",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "wast",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "time",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnFhYNEXFMlzHLE7n",
-  "text" : "This time I don.",
-  "translations" : {
-    "russian" : "T want to play with diceТолько не хочу играть в кости."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "time",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "i",
-    "startOffset" : 10,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "don",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt5xvNEXFMlzHLOIO",
-  "text" : "Time for my class.",
-  "translations" : {
-    "russian" : "Время идти на занятия."
-  },
-  "tokens" : [ {
-    "token" : "time",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "class",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxP9lNEXFMlzHLS_5",
-  "text" : "I'll navigate this time.",
-  "translations" : {
-    "russian" : "В этот раз я поведу."
-  },
-  "tokens" : [ {
-    "token" : "i'll",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "navigate",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 14,
     "endOffset" : 18,
-    "position" : 2
+    "position" : 3
   }, {
     "token" : "time",
     "startOffset" : 19,
-    "endOffset" : 23,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4-dcDTAu_IiLfC__",
+  "text" : "Good times and bum times.",
+  "translations" : {
+    "russian" : "Хорошие времена и плохие."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "time",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "bum",
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 3
+  }, {
+    "token" : "time",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

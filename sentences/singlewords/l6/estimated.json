@@ -1,4 +1,177 @@
 [ {
+  "id" : "AWoFcBL9DTAu_IiLfdbk",
+  "text" : "Conservative estimate.",
+  "translations" : {
+    "russian" : "По самой скромной оценке."
+  },
+  "tokens" : [ {
+    "token" : "conservative",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "estimate",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcBCjDTAu_IiLfdba",
+  "text" : "It's a conservative estimate.",
+  "translations" : {
+    "russian" : "Это по самым скромным подсчётам."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "conservative",
+    "startOffset" : 7,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "estimate",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPWv4DTAu_IiLd9JK",
+  "text" : "Auto shop estimate.",
+  "translations" : {
+    "russian" : "Автомастерская."
+  },
+  "tokens" : [ {
+    "token" : "auto",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "shop",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "estimate",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcBDDDTAu_IiLfdbb",
+  "text" : "Conservative estimate 30,000 dead.",
+  "translations" : {
+    "russian" : "По скромным подсчётам 30 тысяч трупов."
+  },
+  "tokens" : [ {
+    "token" : "conservative",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "estimate",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "30,000",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "dead",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpQnHDTAu_IiLe4Cz",
+  "text" : "Duration is estimated at four hours.",
+  "translations" : {
+    "russian" : "Предполагаемое время поездки 4 часа."
+  },
+  "tokens" : [ {
+    "token" : "duration",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "estimate",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "at",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "four",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "hour",
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcBIlDTAu_IiLfdbf",
+  "text" : "I'd say that's a conservative estimate.",
+  "translations" : {
+    "russian" : "Я бы сказал, что это скромная оценка."
+  },
+  "tokens" : [ {
+    "token" : "i'd",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "say",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "that",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 15,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "conservative",
+    "startOffset" : 17,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "estimate",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpFXMNEXFMlzHLHzX",
   "text" : "Rough estimate 20 to 25 pages.",
   "translations" : {
@@ -33,6 +206,44 @@
     "token" : "page",
     "startOffset" : 24,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcBBeDTAu_IiLfdbZ",
+  "text" : "Conservative estimate... 1 million a month.",
+  "translations" : {
+    "russian" : "По самым скромным оценкам... Миллион долларов в месяц."
+  },
+  "tokens" : [ {
+    "token" : "conservative",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "estimate",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "1",
+    "startOffset" : 25,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "million",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 35,
+    "endOffset" : 36,
+    "position" : 4
+  }, {
+    "token" : "month",
+    "startOffset" : 37,
+    "endOffset" : 42,
     "position" : 5
   } ],
   "contentScore" : null

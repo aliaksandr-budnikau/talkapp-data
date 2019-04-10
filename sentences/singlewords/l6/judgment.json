@@ -1,4 +1,131 @@
 [ {
+  "id" : "AWoE37sCDTAu_IiLfCUu",
+  "text" : "Your judgment is deafening.",
+  "translations" : {
+    "russian" : "Твоё осуждение оглушает."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "judgment",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "deafening",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "deafen",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQaoTDTAu_IiLfUjB",
+  "text" : "Judgment for the plaintiff.",
+  "translations" : {
+    "russian" : "Решение в пользу истца."
+  },
+  "tokens" : [ {
+    "token" : "judgment",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "plaintiff",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgu4eDTAu_IiLexf4",
+  "text" : "It's judgment day, you sinners.",
+  "translations" : {
+    "russian" : "Судный день, грешники."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "judgment",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "day",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "you",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "sinner",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQayiDTAu_IiLfUjH",
+  "text" : "Summary judgment for the plaintiff.",
+  "translations" : {
+    "russian" : "Решение выносится в пользу истца."
+  },
+  "tokens" : [ {
+    "token" : "summary",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "judgment",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "plaintiff",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkyB9NEXFMlzHLBZW",
   "text" : "I'm trying to reserve judgment.",
   "translations" : {
@@ -66,6 +193,72 @@
     "token" : "judgment",
     "startOffset" : 27,
     "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgwBUDTAu_IiLexgy",
+  "text" : "It's Judgment Day, you sinners.",
+  "translations" : {
+    "russian" : "Судный день, грешники."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "judgment",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "day",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "you",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "sinner",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHyfoDTAu_IiLfN1q",
+  "text" : "This can impair my judgment.",
+  "translations" : {
+    "russian" : "Это может испортить моё суждение."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "impair",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "judgment",
+    "startOffset" : 19,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
@@ -138,6 +331,158 @@
     "startOffset" : 19,
     "endOffset" : 27,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOSCKDTAu_IiLekAS",
+  "text" : "The wrathful judgment of almighty God?",
+  "translations" : {
+    "russian" : "Гневного суда Господа Всемогущего?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "wrathful",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "judgment",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "almighty",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "god",
+    "startOffset" : 34,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEclvUDTAu_IiLeuTF",
+  "text" : "The wrathful judgment of almighty God?",
+  "translations" : {
+    "russian" : "Гневного суда Господа Всемогущего?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "wrathful",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "judgment",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "almighty",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "god",
+    "startOffset" : 34,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4hHtDTAu_IiLeUTr",
+  "text" : "Oh a momentary lapse in judgment.",
+  "translations" : {
+    "russian" : "Это лишь ошибка и кратковременная."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 3,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "momentary",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "lapse",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "in",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "judgment",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMzXkDTAu_IiLfRzH",
+  "text" : "And make judgment on her behalf.",
+  "translations" : {
+    "russian" : "И свершили правосудие в её интересах."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "judgment",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "her",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "behalf",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

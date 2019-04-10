@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoExSbYDTAu_IiLe9tR",
+  "text" : "A sophisticated strain.",
+  "translations" : {
+    "russian" : "Сложный штамм."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "sophisticated",
+    "startOffset" : 2,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "sophisticate",
+    "startOffset" : 2,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "strain",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgp8HeNEXFMlzHLI9g",
   "text" : "Got your restraining order.",
   "translations" : {
@@ -89,6 +117,72 @@
     "token" : "order",
     "startOffset" : 21,
     "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWlMzDTAu_IiLfZC4",
+  "text" : "Men under strain can snap.",
+  "translations" : {
+    "russian" : "Человек под давлением может сломаться."
+  },
+  "tokens" : [ {
+    "token" : "men",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "under",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "strain",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "can",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "snap",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWqjODTAu_IiLfZGs",
+  "text" : "Men under strain can snap.",
+  "translations" : {
+    "russian" : "Человек под давлением может сломаться."
+  },
+  "tokens" : [ {
+    "token" : "men",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "under",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "strain",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "can",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "snap",
+    "startOffset" : 21,
+    "endOffset" : 25,
     "position" : 4
   } ],
   "contentScore" : null

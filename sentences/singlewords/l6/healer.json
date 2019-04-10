@@ -1,191 +1,479 @@
 [ {
-  "id" : "AWbguUDKNEXFMlzHLO2h",
-  "text" : "We'll be there... health permitting.",
+  "id" : "AWoFDm-ADTAu_IiLfKt4",
+  "text" : "Health Inspector.",
   "translations" : {
-    "russian" : "Мы придем... если здоровье позволит."
+    "russian" : "Санитарный инспектор."
   },
   "tokens" : [ {
-    "token" : "we'll",
+    "token" : "health",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "heal",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "inspector",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDk3gDTAu_IiLfKsY",
+  "text" : "In health.",
+  "translations" : {
+    "russian" : "Во здравие."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "health",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "heal",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDjiqDTAu_IiLfKra",
+  "text" : "National health.",
+  "translations" : {
+    "russian" : "Здравоохранение. Точно?"
+  },
+  "tokens" : [ {
+    "token" : "national",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "health",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "heal",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDfjX6DTAu_IiLeGs_",
+  "text" : "Fudge heals all wounds.",
+  "translations" : {
+    "russian" : "Помадка лечит от всех ран."
+  },
+  "tokens" : [ {
+    "token" : "fudge",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "be",
+    "token" : "heal",
     "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "all",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "wounds",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDkbTDTAu_IiLfKsD",
+  "text" : "You have your health.",
+  "translations" : {
+    "russian" : "Ты здорова."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "there",
+    "token" : "your",
     "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "health",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "heal",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDkfwDTAu_IiLfKsG",
+  "text" : "I'm in perfect health.",
+  "translations" : {
+    "russian" : "Я здорова."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "perfect",
+    "startOffset" : 7,
     "endOffset" : 14,
     "position" : 2
   }, {
     "token" : "health",
-    "startOffset" : 18,
-    "endOffset" : 24,
+    "startOffset" : 15,
+    "endOffset" : 21,
     "position" : 3
   }, {
     "token" : "heal",
-    "startOffset" : 18,
-    "endOffset" : 24,
+    "startOffset" : 15,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "permitting",
-    "startOffset" : 25,
-    "endOffset" : 35,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgeRZtNEXFMlzHK7l3",
-  "text" : "Health regulations for the journey.",
+  "id" : "AWoFDlvbDTAu_IiLfKtA",
+  "text" : "And soon, health insurance.",
   "translations" : {
-    "russian" : "Медико-санитарные правила на время поездки."
+    "russian" : "У него простуда и скоро у него будет страховка."
   },
   "tokens" : [ {
-    "token" : "health",
+    "token" : "and",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "heal",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "regulate",
-    "startOffset" : 7,
-    "endOffset" : 18,
+    "token" : "soon",
+    "startOffset" : 4,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "for",
-    "startOffset" : 19,
-    "endOffset" : 22,
+    "token" : "health",
+    "startOffset" : 10,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 23,
+    "token" : "heal",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "insurance",
+    "startOffset" : 17,
     "endOffset" : 26,
     "position" : 3
-  }, {
-    "token" : "journey",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsIDkNEXFMlzHLL_3",
-  "text" : "No, good benefits, health care.",
+  "id" : "AWoFDjnHDTAu_IiLfKre",
+  "text" : "Laurence Beck, Health Department.",
   "translations" : {
-    "russian" : "Нет, хорошие пособия, охрана здоровья."
+    "russian" : "Лоуренс Бек, Здравоохранение."
   },
   "tokens" : [ {
-    "token" : "no",
+    "token" : "laurence",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "beck",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "health",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "heal",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "department",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "depart",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFisH7DTAu_IiLfh-x",
+  "text" : "Gay Men's Health Crisis.",
+  "translations" : {
+    "russian" : "Кризисная гей-группа здоровья."
+  },
+  "tokens" : [ {
+    "token" : "gay",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "men",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "health",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "heal",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "crisis",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoER-3vDTAu_IiLemsm",
+  "text" : "Fudge heals all wounds.",
+  "translations" : {
+    "russian" : "Помадка лечит от всех ран."
+  },
+  "tokens" : [ {
+    "token" : "fudge",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "heal",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "all",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "wounds",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYHswDTAu_IiLerTU",
+  "text" : "The bark is healing.",
+  "translations" : {
+    "russian" : "Кора заживает."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bark",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "heal",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDkTODTAu_IiLfKr9",
+  "text" : "To everybody's health.",
+  "translations" : {
+    "russian" : "Пусть все будут здоровы."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "everybody",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "health",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "heal",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDkLZDTAu_IiLfKr3",
+  "text" : "In good health?",
+  "translations" : {
+    "russian" : "Вы здоровы?"
+  },
+  "tokens" : [ {
+    "token" : "in",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
     "token" : "good",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "startOffset" : 3,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "benefit",
-    "startOffset" : 9,
-    "endOffset" : 17,
+    "token" : "health",
+    "startOffset" : 8,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "health",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
     "token" : "heal",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "care",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 4
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgt7oMNEXFMlzHLOLQ",
-  "text" : "Our collective strength can heal you.",
+  "id" : "AWoFDjqfDTAu_IiLfKrh",
+  "text" : "Education, food, health care.",
   "translations" : {
-    "russian" : "Сила нашего коллектива может исцелить тебя."
+    "russian" : "Образование, еда, здравоохранение."
   },
   "tokens" : [ {
-    "token" : "our",
+    "token" : "education",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 9,
     "position" : 0
   }, {
-    "token" : "collective",
-    "startOffset" : 4,
-    "endOffset" : 14,
+    "token" : "educate",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "food",
+    "startOffset" : 11,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "strength",
-    "startOffset" : 15,
+    "token" : "health",
+    "startOffset" : 17,
     "endOffset" : 23,
     "position" : 2
   }, {
-    "token" : "can",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
     "token" : "heal",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 4
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
   }, {
-    "token" : "you",
-    "startOffset" : 33,
-    "endOffset" : 36,
-    "position" : 5
+    "token" : "care",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgm0huNEXFMlzHLEis",
-  "text" : "Soft, sweet, slow, the healing glow.",
+  "id" : "AWoFDi0ZDTAu_IiLfKq4",
+  "text" : "Your health, Mr Mayor.",
   "translations" : {
-    "russian" : "Мягко, сладко, постепенно, солнце согревает."
+    "russian" : "Ваше здоровье, г-н мэр."
   },
   "tokens" : [ {
-    "token" : "soft",
+    "token" : "your",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "sweet",
-    "startOffset" : 6,
+    "token" : "health",
+    "startOffset" : 5,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "slow",
+    "token" : "heal",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "mr",
     "startOffset" : 13,
-    "endOffset" : 17,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
+    "token" : "mayor",
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDjpKDTAu_IiLfKrg",
+  "text" : "Sensible health care?",
+  "translations" : {
+    "russian" : "Разумное здравоохранение?"
+  },
+  "tokens" : [ {
+    "token" : "sensible",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "health",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
   }, {
     "token" : "heal",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 4
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
   }, {
-    "token" : "glow",
-    "startOffset" : 31,
-    "endOffset" : 35,
-    "position" : 5
+    "token" : "care",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

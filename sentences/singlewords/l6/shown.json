@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoEoZ9bDTAu_IiLe3aa",
+  "text" : "Behavioral therapy has shown...",
+  "translations" : {
+    "russian" : "Поведенческая терапия показала..."
+  },
+  "tokens" : [ {
+    "token" : "behavioral",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "therapy",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "shown",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE734ADTAu_IiLfE3u",
+  "text" : "I have shown restraint.",
+  "translations" : {
+    "russian" : "Я всегда проявлял сдержанность."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "shown",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "restraint",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZjZaDTAu_IiLesR_",
+  "text" : "Whale shown receives a harpoon.",
+  "translations" : {
+    "russian" : "Фонтанирующих китов гарпунят!"
+  },
+  "tokens" : [ {
+    "token" : "whale",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "shown",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "receive",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "harpoon",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqHWeNEXFMlzHLJM_",
   "text" : "He's shown us that he's angry.",
   "translations" : {
@@ -33,6 +122,120 @@
     "token" : "angry",
     "startOffset" : 24,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQOSsDTAu_IiLd9qE",
+  "text" : "He has shown no aggression here.",
+  "translations" : {
+    "russian" : "Здесь он не был агрессивен. Поэтому нельзя его трогать."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "has",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "shown",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "no",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "aggression",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "here",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtz-EDTAu_IiLeOrk",
+  "text" : "The Bulgarians have shown great courage.",
+  "translations" : {
+    "russian" : "Болгары, действительно, мужественный народ."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bulgarian",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "shown",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "great",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "courage",
+    "startOffset" : 32,
+    "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDiWy_DTAu_IiLeIU4",
+  "text" : "She's already shown her boundless ambition.",
+  "translations" : {
+    "russian" : "Она доказала, что ее амбиции безграничны."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "already",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "shown",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "her",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "boundless",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "ambition",
+    "startOffset" : 34,
+    "endOffset" : 42,
     "position" : 5
   } ],
   "contentScore" : null

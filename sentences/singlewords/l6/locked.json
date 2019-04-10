@@ -32,6 +32,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDR--zDTAu_IiLd-4q",
+  "text" : "We're locked into Albania.",
+  "translations" : {
+    "russian" : "Мы завязаны на Албанию."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "locked",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "lock",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "into",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "albania",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvjq4NEXFMlzHLRKl",
   "text" : "Gangway locked in, sir!",
   "translations" : {
@@ -61,6 +94,105 @@
     "token" : "sir",
     "startOffset" : 19,
     "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDR-8gDTAu_IiLd-4o",
+  "text" : "We're locked into Albania.",
+  "translations" : {
+    "russian" : "Мы уперлись в эту Албанию."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "locked",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "lock",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "into",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "albania",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoElcBTDTAu_IiLe1KO",
+  "text" : "Those partitions are locked.",
+  "translations" : {
+    "russian" : "Эти разделы заблокированы."
+  },
+  "tokens" : [ {
+    "token" : "those",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "partition",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "locked",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "lock",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEliloDTAu_IiLe1PG",
+  "text" : "Those partitions are locked.",
+  "translations" : {
+    "russian" : "Эти разделы заблокированы."
+  },
+  "tokens" : [ {
+    "token" : "those",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "partition",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "locked",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "lock",
+    "startOffset" : 21,
+    "endOffset" : 27,
     "position" : 3
   } ],
   "contentScore" : null
@@ -103,201 +235,217 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvgjuNEXFMlzHLREC",
-  "text" : "No dual lock?",
+  "id" : "AWoEvGdkDTAu_IiLe8E-",
+  "text" : "The Woodcutter locked me in!",
   "translations" : {
-    "russian" : "Двойного замка нет?"
+    "russian" : "Меня Дровосек запер!"
   },
   "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "dual",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "lock",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguy-wNEXFMlzHLPzX",
-  "text" : "Lock this wing down.",
-  "translations" : {
-    "russian" : "Закройте это крыло."
-  },
-  "tokens" : [ {
-    "token" : "lock",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "this",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "wing",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "w",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "down",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqxCwNEXFMlzHLKA9",
-  "text" : "Lock must be broken.",
-  "translations" : {
-    "russian" : "Наверное, замок сломался."
-  },
-  "tokens" : [ {
-    "token" : "lock",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "must",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "be",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "broken",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgokNTNEXFMlzHLHHn",
-  "text" : "All prisoners report for lock down.",
-  "translations" : {
-    "russian" : "Всем заключенным доложить о прибытии."
-  },
-  "tokens" : [ {
-    "token" : "all",
+    "token" : "the",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "prison",
+    "token" : "woodcutter",
     "startOffset" : 4,
-    "endOffset" : 13,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "port",
-    "startOffset" : 14,
-    "endOffset" : 20,
+    "token" : "locked",
+    "startOffset" : 15,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "for",
-    "startOffset" : 21,
+    "token" : "lock",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 22,
     "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "lock",
+    "token" : "in",
     "startOffset" : 25,
-    "endOffset" : 29,
+    "endOffset" : 27,
     "position" : 4
-  }, {
-    "token" : "down",
-    "startOffset" : 30,
-    "endOffset" : 34,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgq_tbNEXFMlzHLKWZ",
-  "text" : "LSB- Lock clicks, keys jingle -RSB.",
+  "id" : "AWoDtM_9DTAu_IiLeOUD",
+  "text" : "Too bad dad locked ammunition.",
   "translations" : {
-    "russian" : "Щелкает замок, звенят ключи."
+    "russian" : "Жалко, что папа спрятал патроны."
   },
   "tokens" : [ {
-    "token" : "lsb",
+    "token" : "too",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
+    "token" : "bad",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "dad",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "locked",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
     "token" : "lock",
-    "startOffset" : 5,
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "ammunition",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELDYiDTAu_IiLehfY",
+  "text" : "Raven Two locked on target.",
+  "translations" : {
+    "russian" : "Ворон 2 заблокировал цель."
+  },
+  "tokens" : [ {
+    "token" : "raven",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "two",
+    "startOffset" : 6,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "click",
+    "token" : "locked",
     "startOffset" : 10,
     "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "key",
-    "startOffset" : 18,
-    "endOffset" : 22,
+    "token" : "lock",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 17,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "jingle",
-    "startOffset" : 23,
-    "endOffset" : 29,
+    "token" : "target",
+    "startOffset" : 20,
+    "endOffset" : 26,
     "position" : 4
-  }, {
-    "token" : "rsb",
-    "startOffset" : 31,
-    "endOffset" : 34,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvj7XNEXFMlzHLRLL",
-  "text" : "This one should unlock the hatch.",
+  "id" : "AWoFaK5WDTAu_IiLfb9D",
+  "text" : "Combination locks.",
   "translations" : {
-    "russian" : "Люк должен отпираться вот этим."
+    "russian" : "Кодовый замок."
   },
   "tokens" : [ {
-    "token" : "this",
+    "token" : "combination",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "lock",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzl0SDTAu_IiLeR-0",
+  "text" : "Lock clanking.",
+  "translations" : {
+    "russian" : "Лязг замка."
+  },
+  "tokens" : [ {
+    "token" : "lock",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "one",
+    "token" : "clanking",
     "startOffset" : 5,
-    "endOffset" : 8,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "should",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
+    "token" : "clank",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaK-SDTAu_IiLfb9I",
+  "text" : "Combination lock.",
+  "translations" : {
+    "russian" : "Кодовый замок."
+  },
+  "tokens" : [ {
+    "token" : "combination",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
   }, {
     "token" : "lock",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaK_IDTAu_IiLfb9J",
+  "text" : "Combination lock?",
+  "translations" : {
+    "russian" : "Кодовый замок?"
+  },
+  "tokens" : [ {
+    "token" : "combination",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
+    "token" : "lock",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzk_8DTAu_IiLeR-X",
+  "text" : "Lock clanking.",
+  "translations" : {
+    "russian" : "Лязг замка."
+  },
+  "tokens" : [ {
+    "token" : "lock",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
-    "token" : "hatch",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 5
+    "token" : "clanking",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "clank",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

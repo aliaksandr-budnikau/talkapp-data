@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoDeEIoDTAu_IiLeF1V",
+  "text" : "Drum circle!",
+  "translations" : {
+    "russian" : "Барабанный круг!"
+  },
+  "tokens" : [ {
+    "token" : "drum",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "circle",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDeEGcDTAu_IiLeF1T",
+  "text" : "Drum circle.",
+  "translations" : {
+    "russian" : "Барабанный круг."
+  },
+  "tokens" : [ {
+    "token" : "drum",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "circle",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmCkVNEXFMlzHLDM0",
   "text" : "Confirm airlift, Gilliam Circle.",
   "translations" : {
@@ -32,79 +68,372 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggecuNEXFMlzHK9fz",
-  "text" : "He's not part of the circle!",
+  "id" : "AWoENI53DTAu_IiLejKB",
+  "text" : "The circle entwined.",
   "translations" : {
-    "russian" : "Он не часть группы!"
+    "russian" : "Круг переплетенный."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "circle",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "entwine",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaG8QDTAu_IiLesp0",
+  "text" : "Geometrically perfect circle.",
+  "translations" : {
+    "russian" : "Геометрически идеальный круг."
+  },
+  "tokens" : [ {
+    "token" : "geometrical",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "perfect",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "circle",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFB6DnDTAu_IiLfJeA",
+  "text" : "You're circling the drain.",
+  "translations" : {
+    "russian" : "Тебя затягивает в трубу."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "circle",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "drain",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTV38DTAu_IiLfWyb",
+  "text" : "Circle the carcass.",
+  "translations" : {
+    "russian" : "Слетаются к телу."
+  },
+  "tokens" : [ {
+    "token" : "circle",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "carcass",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhDjuDTAu_IiLexv_",
+  "text" : "The vultures already circling?",
+  "translations" : {
+    "russian" : "Коршун уже кружит?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "vulture",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "already",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "circle",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoENHssDTAu_IiLejJH",
+  "text" : "The circle entwined.",
+  "translations" : {
+    "russian" : "Круг переплетенный."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "circle",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "entwine",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoENIRUDTAu_IiLejJk",
+  "text" : "The circle entwined.",
+  "translations" : {
+    "russian" : "Круг переплетенный."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "circle",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "entwine",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEP9T9DTAu_IiLelOv",
+  "text" : "You opt for the circle.",
+  "translations" : {
+    "russian" : "Ты выбрала круг."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "opt",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "circle",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgQt0DTAu_IiLexHi",
+  "text" : "Have you bound your circle?",
+  "translations" : {
+    "russian" : "Вы связали свой Круг?"
+  },
+  "tokens" : [ {
+    "token" : "have",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "not",
+    "token" : "you",
     "startOffset" : 5,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "part",
+    "token" : "bound",
     "startOffset" : 9,
-    "endOffset" : 13,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "of",
-    "startOffset" : 14,
-    "endOffset" : 16,
+    "token" : "your",
+    "startOffset" : 15,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
     "token" : "circle",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 5
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyK1iNEXFMlzHLUaa",
-  "text" : "What about tunnels under Dupont Circle?",
+  "id" : "AWoFB7npDTAu_IiLfJfJ",
+  "text" : "He is circling the drain.",
   "translations" : {
-    "russian" : "Что с туннелями под площадью Дюпон?"
+    "russian" : "Он истекает кровью!"
   },
   "tokens" : [ {
-    "token" : "what",
+    "token" : "he",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "about",
-    "startOffset" : 5,
-    "endOffset" : 10,
+    "token" : "is",
+    "startOffset" : 3,
+    "endOffset" : 5,
     "position" : 1
   }, {
-    "token" : "tunnel",
-    "startOffset" : 11,
-    "endOffset" : 18,
+    "token" : "circle",
+    "startOffset" : 6,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "under",
-    "startOffset" : 19,
-    "endOffset" : 24,
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "dupont",
-    "startOffset" : 25,
-    "endOffset" : 31,
+    "token" : "drain",
+    "startOffset" : 19,
+    "endOffset" : 24,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmLo3DTAu_IiLe1tO",
+  "text" : "Trapped and circled by Dervishes.",
+  "translations" : {
+    "russian" : "Пойманный и окруженный Дервишами."
+  },
+  "tokens" : [ {
+    "token" : "trapped",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
   }, {
     "token" : "circle",
-    "startOffset" : 32,
-    "endOffset" : 38,
-    "position" : 5
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "by",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "dervish",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoENRopDTAu_IiLejQt",
+  "text" : "You opt for the circle.",
+  "translations" : {
+    "russian" : "Ты выбрала круг."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "opt",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "circle",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQg_SDTAu_IiLeloY",
+  "text" : "You opt for the circle.",
+  "translations" : {
+    "russian" : "Ты выбрала круг."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "opt",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "circle",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

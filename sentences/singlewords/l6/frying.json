@@ -205,6 +205,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEYJW1DTAu_IiLerUa",
+  "text" : "Stephen Fry's barking cobra.",
+  "translations" : {
+    "russian" : "Лающая кобра Стивена Фрая."
+  },
+  "tokens" : [ {
+    "token" : "stephen",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "fry",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "bark",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "cobra",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmcHvNEXFMlzHLD5P",
   "text" : "Scrambled or fried?",
   "translations" : {
@@ -435,29 +463,6 @@
     "token" : "fry",
     "startOffset" : 11,
     "endOffset" : 16,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmb7DNEXFMlzHLD4z",
-  "text" : "Get that fry.",
-  "translations" : {
-    "russian" : "Подними свою картошку."
-  },
-  "tokens" : [ {
-    "token" : "get",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "fry",
-    "startOffset" : 9,
-    "endOffset" : 12,
     "position" : 2
   } ],
   "contentScore" : null

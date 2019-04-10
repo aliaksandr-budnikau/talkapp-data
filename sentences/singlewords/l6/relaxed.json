@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoDtPYoDTAu_IiLeOVf",
+  "text" : "Very relaxed, sort of cheerful.",
+  "translations" : {
+    "russian" : "Очень спокойные, веселые такие."
+  },
+  "tokens" : [ {
+    "token" : "very",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "relaxed",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "relax",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "sort",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "cheerful",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsDWcDTAu_IiLe6A5",
+  "text" : "Relax, Cleave!",
+  "translations" : {
+    "russian" : "Расслабься, Кливер!"
+  },
+  "tokens" : [ {
+    "token" : "relax",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "cleave",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgebdHNEXFMlzHK7u7",
   "text" : "Try to relax, Benny.",
   "translations" : {
@@ -241,6 +297,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD5B03DTAu_IiLeUht",
+  "text" : "Let's bathe, then relax.",
+  "translations" : {
+    "russian" : "Теперь можно принять ванну, а затем отдохнуть."
+  },
+  "tokens" : [ {
+    "token" : "let",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bathe",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "th",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "relax",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEzTDHDTAu_IiLe_Kw",
+  "text" : "Relax, you're all stiff.",
+  "translations" : {
+    "russian" : "Расслабься, ты такой напряжённый."
+  },
+  "tokens" : [ {
+    "token" : "relax",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you're",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "all",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "stiff",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyxy6NEXFMlzHLVJ5",
   "text" : "I can't relax, Rush.",
   "translations" : {
@@ -269,206 +381,59 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgebfjNEXFMlzHK7u-",
-  "text" : "Squeeze the sphincter and relax.",
+  "id" : "AWoD_1RvDTAu_IiLeZCM",
+  "text" : "Relaxing makes me tense.",
   "translations" : {
-    "russian" : "Сожми сфинктер, а затем расслабься."
+    "russian" : "Отдых заставляет меня напрягаться."
   },
   "tokens" : [ {
-    "token" : "squeeze",
+    "token" : "relaxing",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
+    "token" : "relax",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 9,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "sphincter",
-    "startOffset" : 12,
-    "endOffset" : 21,
+    "token" : "me",
+    "startOffset" : 15,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "and",
-    "startOffset" : 22,
-    "endOffset" : 25,
+    "token" : "tense",
+    "startOffset" : 18,
+    "endOffset" : 23,
     "position" : 3
-  }, {
-    "token" : "relax",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgebnXNEXFMlzHK7vF",
-  "text" : "Let's lay down and relax...",
+  "id" : "AWoEnxmHDTAu_IiLe27d",
+  "text" : "Relax your diaphragm.",
   "translations" : {
-    "russian" : "Давай ляжем и расслабимся..."
+    "russian" : "Расслабь диафрагму."
   },
   "tokens" : [ {
-    "token" : "let",
+    "token" : "relax",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "lay",
+    "token" : "your",
     "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "down",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "relax",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeci8NEXFMlzHK7v7",
-  "text" : "Now, relax your elbow joints.",
-  "translations" : {
-    "russian" : "А сейчас, расслабь локтевые суставы."
-  },
-  "tokens" : [ {
-    "token" : "now",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "relax",
-    "startOffset" : 5,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "your",
+    "token" : "diaphragm",
     "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "elbow",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "joint",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgebgxNEXFMlzHK7u_",
-  "text" : "Just relax and enjoy yourself.",
-  "translations" : {
-    "russian" : "Просто расслабься и наслаждайся."
-  },
-  "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "relax",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "enjoy",
-    "startOffset" : 15,
     "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "yourself",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeb82NEXFMlzHK7vZ",
-  "text" : "Only one hour to relax.",
-  "translations" : {
-    "russian" : "Всего часок, чтобы отдохнуть."
-  },
-  "tokens" : [ {
-    "token" : "only",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "on",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "one",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "hour",
-    "startOffset" : 9,
-    "endOffset" : 13,
     "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "relax",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgecfRNEXFMlzHK7v4",
-  "text" : "This will relax your muscles.",
-  "translations" : {
-    "russian" : "Это расслабит твои мускулы."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "will",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "relax",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "muscle",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

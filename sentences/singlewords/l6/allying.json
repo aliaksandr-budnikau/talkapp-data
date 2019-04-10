@@ -1,4 +1,173 @@
 [ {
+  "id" : "AWoE5mywDTAu_IiLfDaj",
+  "text" : "Really pensive.",
+  "translations" : {
+    "russian" : "Очень задумчивый."
+  },
+  "tokens" : [ {
+    "token" : "ally",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "pensive",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "pens",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAGQFDTAu_IiLeZPX",
+  "text" : "Really folly.",
+  "translations" : {
+    "russian" : "Действительно Фолли."
+  },
+  "tokens" : [ {
+    "token" : "ally",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "folly",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "fol",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEE7wqDTAu_IiLedBN",
+  "text" : "Really, Wolf?",
+  "translations" : {
+    "russian" : "Серьёзно, Вольф?"
+  },
+  "tokens" : [ {
+    "token" : "ally",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wolf",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlG-wDTAu_IiLeJ3O",
+  "text" : "Squirrels, really?",
+  "translations" : {
+    "russian" : "Белки?"
+  },
+  "tokens" : [ {
+    "token" : "squirrel",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "ally",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE400hDTAu_IiLfC6B",
+  "text" : "Really tanned.",
+  "translations" : {
+    "russian" : "И, правда, загорелый."
+  },
+  "tokens" : [ {
+    "token" : "ally",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "tanned",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEynmfDTAu_IiLe-ry",
+  "text" : "Galling, really.",
+  "translations" : {
+    "russian" : "Раздражает, честно говоря."
+  },
+  "tokens" : [ {
+    "token" : "galling",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "gall",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "ally",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE56EPDTAu_IiLfDn-",
+  "text" : "Gasping? Really?",
+  "translations" : {
+    "russian" : "Вздыхаете, ну-ну."
+  },
+  "tokens" : [ {
+    "token" : "gasping",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "gasp",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "ally",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE70tJDTAu_IiLfE1v",
+  "text" : "Fascinating, really.",
+  "translations" : {
+    "russian" : "Восхитительно, правда."
+  },
+  "tokens" : [ {
+    "token" : "fascinating",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "fascinate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "ally",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqXg1NEXFMlzHLJjU",
   "text" : "Music and medicine, really.",
   "translations" : {
@@ -106,38 +275,38 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglPgrNEXFMlzHLCL6",
-  "text" : "Yeah, lava's really hot.",
+  "id" : "AWoDPJUPDTAu_IiLd9At",
+  "text" : "Not into autobiography. Really?",
   "translations" : {
-    "russian" : "Да, лава очень горячая."
+    "russian" : "Я не люблю автобиографии."
   },
   "tokens" : [ {
-    "token" : "yeah",
+    "token" : "not",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "lava",
-    "startOffset" : 6,
-    "endOffset" : 12,
+    "token" : "into",
+    "startOffset" : 4,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "ally",
-    "startOffset" : 13,
-    "endOffset" : 19,
+    "token" : "autobiography",
+    "startOffset" : 9,
+    "endOffset" : 22,
     "position" : 2
   }, {
-    "token" : "hot",
-    "startOffset" : 20,
-    "endOffset" : 23,
+    "token" : "ally",
+    "startOffset" : 24,
+    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgx4UgNEXFMlzHLT8u",
-  "text" : "It's really narrow.",
+  "id" : "AWoDfya6DTAu_IiLeG1n",
+  "text" : "It's quite remarkable, really.",
   "translations" : {
-    "russian" : "Там такой узкий проход."
+    "russian" : "Это действительно весьма удивительная вещь."
   },
   "tokens" : [ {
     "token" : "it",
@@ -145,157 +314,60 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "ally",
+    "token" : "quite",
     "startOffset" : 5,
-    "endOffset" : 11,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "narrow",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzRLlNEXFMlzHLWHi",
-  "text" : "I've really matured.",
-  "translations" : {
-    "russian" : "Похоже, я и вправду повзрослел."
-  },
-  "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "ally",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "mature",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsgycNEXFMlzHLMjL",
-  "text" : "You ran track, really?",
-  "translations" : {
-    "russian" : "Ты занималась бегом, серьезно?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "ran",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "track",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "ally",
-    "startOffset" : 15,
+    "token" : "remarkable",
+    "startOffset" : 11,
     "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzBUjNEXFMlzHLVmP",
-  "text" : "He's our underground ally.",
-  "translations" : {
-    "russian" : "Он наш тайный союзник."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
+    "position" : 2
   }, {
-    "token" : "our",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "underground",
-    "startOffset" : 9,
-    "endOffset" : 20,
+    "token" : "remark",
+    "startOffset" : 11,
+    "endOffset" : 21,
     "position" : 2
   }, {
     "token" : "ally",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "al",
-    "startOffset" : 21,
-    "endOffset" : 25,
+    "startOffset" : 23,
+    "endOffset" : 29,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgg1s8NEXFMlzHK90M",
-  "text" : "Chinese characters, really?",
+  "id" : "AWoDjsbCDTAu_IiLeJFU",
+  "text" : "I mean, really hideous.",
   "translations" : {
-    "russian" : "Китайские иероглифы, точно?"
+    "russian" : "То есть реально страшная."
   },
   "tokens" : [ {
-    "token" : "chinese",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "character",
+    "token" : "mean",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "ally",
     "startOffset" : 8,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "ally",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgi3f3NEXFMlzHK_iN",
-  "text" : "Music and medicine, really.",
-  "translations" : {
-    "russian" : "Ну, музыка и медицина..."
-  },
-  "tokens" : [ {
-    "token" : "music",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "and",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "medicine",
-    "startOffset" : 10,
-    "endOffset" : 18,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "ally",
-    "startOffset" : 20,
-    "endOffset" : 26,
+    "token" : "hideous",
+    "startOffset" : 15,
+    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkRWDNEXFMlzHLAwl",
-  "text" : "I was really wasted.",
+  "id" : "AWoDnDjvDTAu_IiLeK7I",
+  "text" : "I was really confused.",
   "translations" : {
-    "russian" : "Я действительно была опустошена."
+    "russian" : "Я же был в замешательстве."
   },
   "tokens" : [ {
     "token" : "i",
@@ -313,126 +385,14 @@
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "wast",
+    "token" : "confused",
     "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpdNANEXFMlzHLISO",
-  "text" : "It's really bad coverage.",
-  "translations" : {
-    "russian" : "Вот уж действительно, плохая зона действия сети."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "ally",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "bad",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "coverage",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzWFGNEXFMlzHLWRj",
-  "text" : "That was really sweet.",
-  "translations" : {
-    "russian" : "Мне было приятно."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "ally",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "sweet",
-    "startOffset" : 16,
     "endOffset" : 21,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbga0MaNEXFMlzHK4j1",
-  "text" : "It's not really my...",
-  "translations" : {
-    "russian" : "Это действительно не мое..."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
   }, {
-    "token" : "not",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "ally",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoSUoNEXFMlzHLGrm",
-  "text" : "Not really new news.",
-  "translations" : {
-    "russian" : "Ни для кого не новость, на самом деле."
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "ally",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "new",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "news",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "new",
-    "startOffset" : 15,
-    "endOffset" : 19,
+    "token" : "fuse",
+    "startOffset" : 13,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null

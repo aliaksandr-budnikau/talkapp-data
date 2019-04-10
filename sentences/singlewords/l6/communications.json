@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoDfqvuDTAu_IiLeGxG",
+  "text" : "Hodge, you're on communications.",
+  "translations" : {
+    "russian" : "Хадж, ты на связи."
+  },
+  "tokens" : [ {
+    "token" : "hodge",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you're",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "communicate",
+    "startOffset" : 17,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDiacADTAu_IiLeIXK",
+  "text" : "Communication systems are inoperative.",
+  "translations" : {
+    "russian" : "Системы коммуникации не действуют."
+  },
+  "tokens" : [ {
+    "token" : "communication",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "communicate",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "system",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "operative",
+    "startOffset" : 26,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglHHmNEXFMlzHLB9D",
   "text" : "Communications and emergency services.",
   "translations" : {
@@ -62,6 +123,229 @@
     "startOffset" : 29,
     "endOffset" : 37,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIf_BDTAu_IiLfObd",
+  "text" : "I've dampened all outgoing communications.",
+  "translations" : {
+    "russian" : "Я заглушил все исходящие системы связи."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "dampen",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "all",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "outgoing",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "outgo",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "communicate",
+    "startOffset" : 27,
+    "endOffset" : 41,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGz5wDTAu_IiLfNCY",
+  "text" : "Communication channels are jammed, captain.",
+  "translations" : {
+    "russian" : "Коммуникационные каналы забиты, капитан."
+  },
+  "tokens" : [ {
+    "token" : "communication",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "communicate",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "channel",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "jammed",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "captain",
+    "startOffset" : 35,
+    "endOffset" : 42,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbItiDTAu_IiLfcvO",
+  "text" : "A complex model communication apparatus!",
+  "translations" : {
+    "russian" : "Комплексная модель коммуникативного аппарата!"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "complex",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "model",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "communication",
+    "startOffset" : 16,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "communicate",
+    "startOffset" : 16,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "apparatus",
+    "startOffset" : 30,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDiaTzDTAu_IiLeIXE",
+  "text" : "Communication and transport are inoperative.",
+  "translations" : {
+    "russian" : "Связь и транспортеры не работают."
+  },
+  "tokens" : [ {
+    "token" : "communication",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "communicate",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "transport",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "operative",
+    "startOffset" : 32,
+    "endOffset" : 43,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEauxRDTAu_IiLetDm",
+  "text" : "I'm communicating at 50,000 hertz.",
+  "translations" : {
+    "russian" : "Я передаю на частоте в 50 000 герц."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "communicate",
+    "startOffset" : 4,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "50,000",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "hertz",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCDfcDTAu_IiLfJlB",
+  "text" : "I've dampened all outgoing communications.",
+  "translations" : {
+    "russian" : "Я заглушил все исходящие системы связи."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "dampen",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "all",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "outgoing",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "outgo",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "communicate",
+    "startOffset" : 27,
+    "endOffset" : 41,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoFGi8wDTAu_IiLfM0z",
+  "text" : "Disaster averted.",
+  "translations" : {
+    "russian" : "Бедствие предотвращено."
+  },
+  "tokens" : [ {
+    "token" : "aster",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "avert",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGi2fDTAu_IiLfM0t",
+  "text" : "Disaster averted.",
+  "translations" : {
+    "russian" : "Катастрофа предотвращена."
+  },
+  "tokens" : [ {
+    "token" : "aster",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "avert",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglC3qNEXFMlzHLB1X",
   "text" : "Injuries, illness, disasters.",
   "translations" : {
@@ -50,6 +86,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFGi3kDTAu_IiLfM0u",
+  "text" : "Okay, goatee disaster averted.",
+  "translations" : {
+    "russian" : "Хорошо, катастрофа с бородкой предотвращена!"
+  },
+  "tokens" : [ {
+    "token" : "okay",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "goatee",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "aster",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "avert",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglC2cNEXFMlzHLB1U",
   "text" : "Well, ambiguity trumps disaster.",
   "translations" : {
@@ -75,6 +139,52 @@
     "startOffset" : 23,
     "endOffset" : 31,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGiSNDTAu_IiLfM0V",
+  "text" : "Trip averted disaster.",
+  "translations" : {
+    "russian" : "Трип предотвратил катастрофу."
+  },
+  "tokens" : [ {
+    "token" : "trip",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "avert",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "aster",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGiJyDTAu_IiLfM0P",
+  "text" : "Yeah. Disaster averted.",
+  "translations" : {
+    "russian" : "Мы предотвратили катастрофу."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "aster",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "avert",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -244,6 +354,39 @@
     "token" : "zone",
     "startOffset" : 27,
     "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOmllDTAu_IiLekPn",
+  "text" : "Our encounter brought us disaster.",
+  "translations" : {
+    "russian" : "На беду мы встретились."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "encounter",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "brought",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "us",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "aster",
+    "startOffset" : 25,
+    "endOffset" : 33,
     "position" : 4
   } ],
   "contentScore" : null

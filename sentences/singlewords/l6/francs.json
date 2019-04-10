@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoFAhrYDTAu_IiLfIbk",
+  "text" : "Salary 1400 francs.",
+  "translations" : {
+    "russian" : "Зарплата 1400 франков."
+  },
+  "tokens" : [ {
+    "token" : "salary",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "1400",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "franc",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESn7ZDTAu_IiLenLl",
+  "text" : "Anyway, I won 37 francs.",
+  "translations" : {
+    "russian" : "Как бы там не было, я выиграл 37 франков."
+  },
+  "tokens" : [ {
+    "token" : "anyway",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "won",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "37",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "franc",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvhniNEXFMlzHLRGG",
   "text" : "Take a 10 franc seat.",
   "translations" : {
@@ -28,6 +84,39 @@
     "token" : "seat",
     "startOffset" : 16,
     "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlpDSDTAu_IiLeKJA",
+  "text" : "Can you spare 2 francs?",
+  "translations" : {
+    "russian" : "Не поделитесь двумя франками?"
+  },
+  "tokens" : [ {
+    "token" : "can",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "spare",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "2",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "franc",
+    "startOffset" : 16,
+    "endOffset" : 22,
     "position" : 4
   } ],
   "contentScore" : null
@@ -62,6 +151,115 @@
     "startOffset" : 20,
     "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBjpFDTAu_IiLeaW-",
+  "text" : "I owe you 120,000 francs.",
+  "translations" : {
+    "russian" : "Я тебе должен 120 тысяч франков."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "owe",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "120,000",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "franc",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlpAXDTAu_IiLeKI-",
+  "text" : "Can you spare me two francs?",
+  "translations" : {
+    "russian" : "Не поделитесь двумя франками?"
+  },
+  "tokens" : [ {
+    "token" : "can",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "spare",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "two",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "franc",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlpBdDTAu_IiLeKI_",
+  "text" : "Can you spare us 2 francs?",
+  "translations" : {
+    "russian" : "Не поделитесь двумя франками?"
+  },
+  "tokens" : [ {
+    "token" : "can",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "spare",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "us",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "2",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 4
+  }, {
+    "token" : "franc",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

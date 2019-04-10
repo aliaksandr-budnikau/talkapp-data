@@ -1,4 +1,139 @@
 [ {
+  "id" : "AWoDcBUXDTAu_IiLeEtk",
+  "text" : "Mud baths, nature walks.",
+  "translations" : {
+    "russian" : "Грязевые ванны, природа..."
+  },
+  "tokens" : [ {
+    "token" : "mud",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "baths",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "nature",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "walk",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqMeKDTAu_IiLeMir",
+  "text" : "Nature or nurture?",
+  "translations" : {
+    "russian" : "Природа или воспитание?"
+  },
+  "tokens" : [ {
+    "token" : "nature",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "or",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "nurture",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELbw3DTAu_IiLehzE",
+  "text" : "Forget nature or nurture.",
+  "translations" : {
+    "russian" : "Забудем про гены и воспитание."
+  },
+  "tokens" : [ {
+    "token" : "forget",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "nature",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "or",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "nurture",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELfVPDTAu_IiLeh2D",
+  "text" : "Nature versus nurture, Lodge.",
+  "translations" : {
+    "russian" : "Природа против воспитания."
+  },
+  "tokens" : [ {
+    "token" : "nature",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "versus",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "nurture",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "lodge",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEptwPDTAu_IiLe4YA",
+  "text" : "I'm easygoing by nature.",
+  "translations" : {
+    "russian" : "Я беззаботный по натуре."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "easygoing",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "by",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "nature",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgc2O5NEXFMlzHK6Yo",
   "text" : "Nature made gay people.",
   "translations" : {
@@ -23,6 +158,169 @@
     "token" : "people",
     "startOffset" : 16,
     "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqMvIDTAu_IiLeMi0",
+  "text" : "Nature combined with nurture.",
+  "translations" : {
+    "russian" : "Природа в сочетании с воспитанием."
+  },
+  "tokens" : [ {
+    "token" : "nature",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "combined",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "combine",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "nurture",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqMJ7DTAu_IiLeMid",
+  "text" : "Nature versus nurture, Lodge.",
+  "translations" : {
+    "russian" : "Природа против воспитания, Лодж."
+  },
+  "tokens" : [ {
+    "token" : "nature",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "versus",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "nurture",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "lodge",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMOR6DTAu_IiLeicZ",
+  "text" : "Nature of rebellion.",
+  "translations" : {
+    "russian" : "Природа мятежника."
+  },
+  "tokens" : [ {
+    "token" : "nature",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "rebellion",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELcoEDTAu_IiLehzz",
+  "text" : "Nature or nurture?",
+  "translations" : {
+    "russian" : "Природа или воспитание?"
+  },
+  "tokens" : [ {
+    "token" : "nature",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "or",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "nurture",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEW2_7DTAu_IiLeqZw",
+  "text" : "Nature adds and subtracts.",
+  "translations" : {
+    "russian" : "Природа даёт и отнимает."
+  },
+  "tokens" : [ {
+    "token" : "nature",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "add",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "subtract",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE10vqDTAu_IiLfA6F",
+  "text" : "Yes, nature is tough.",
+  "translations" : {
+    "russian" : "Да, природа крепкая."
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "nature",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "tough",
+    "startOffset" : 15,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
@@ -55,475 +353,92 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgk2lBNEXFMlzHLBf-",
-  "text" : "That's my nature.",
+  "id" : "AWoEfDt5DTAu_IiLewKK",
+  "text" : "Yet nature prevails.",
   "translations" : {
-    "russian" : "Такой у меня характер."
+    "russian" : "Все-таки природа побеждает."
   },
   "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "nature",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk3AHNEXFMlzHLBgk",
-  "text" : "Not someone's nature.",
-  "translations" : {
-    "russian" : "Но не чья-то натура."
-  },
-  "tokens" : [ {
-    "token" : "not",
+    "token" : "yet",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "someone",
+    "token" : "nature",
     "startOffset" : 4,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "nature",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv0wyNEXFMlzHLReO",
-  "text" : "Denatured alcohol, chemical stabilizers...",
-  "translations" : {
-    "russian" : "Денатурированный спирт, химические стабилизаторы..."
-  },
-  "tokens" : [ {
-    "token" : "nature",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "alcohol",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "chemical",
-    "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 2
-  }, {
-    "token" : "stabilizer",
-    "startOffset" : 28,
-    "endOffset" : 39,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk4EdNEXFMlzHLBiN",
-  "text" : "It's like a nature preserve.",
-  "translations" : {
-    "russian" : "Там как в природном заповеднике."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 10,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "nature",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "preserve",
-    "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgee1PNEXFMlzHK7x_",
-  "text" : "Then rest, nature, books, music.",
-  "translations" : {
-    "russian" : "Покой, природа, книги, музыка."
-  },
-  "tokens" : [ {
-    "token" : "th",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "rest",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "r",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "nature",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "book",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "music",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk2wvNEXFMlzHLBgP",
-  "text" : "It's primarily sexual in nature.",
-  "translations" : {
-    "russian" : "Главным образом они носят сексуальный характер."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "primarily",
-    "startOffset" : 5,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "sexual",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 22,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "nature",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk2hXNEXFMlzHLBf6",
-  "text" : "It's just in their nature.",
-  "translations" : {
-    "russian" : "Это в их природе."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "just",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "their",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "nature",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk3BGNEXFMlzHLBgl",
-  "text" : "You never embraced our nature.",
-  "translations" : {
-    "russian" : "Ты никогда не принимал нашу натуру."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "never",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "embrace",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "our",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "nature",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkxRoNEXFMlzHLBYf",
-  "text" : "Please, this region is nature reserve!",
-  "translations" : {
-    "russian" : "Пожалуйста, этот район - природный заповедник!"
-  },
-  "tokens" : [ {
-    "token" : "please",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "this",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "region",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "nature",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "serve",
-    "startOffset" : 30,
-    "endOffset" : 37,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoG-LNEXFMlzHLGZg",
-  "text" : "Self-preservation is human nature, too.",
-  "translations" : {
-    "russian" : "Самосохранение тоже свойственно человеку."
-  },
-  "tokens" : [ {
-    "token" : "self",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "preservation",
-    "startOffset" : 5,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "human",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "nature",
-    "startOffset" : 27,
-    "endOffset" : 33,
-    "position" : 4
-  }, {
-    "token" : "too",
-    "startOffset" : 35,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyZGgNEXFMlzHLU0S",
-  "text" : "It was in his nature, inspector.",
-  "translations" : {
-    "russian" : "Это было в его природе, инспектор."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "his",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "nature",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "inspector",
-    "startOffset" : 22,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk2gYNEXFMlzHLBf5",
-  "text" : "What's the nature of her injuries?",
-  "translations" : {
-    "russian" : "Какова природа ею полученных травм?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "nature",
+    "token" : "prevail",
     "startOffset" : 11,
-    "endOffset" : 17,
+    "endOffset" : 19,
     "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "her",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "jury",
-    "startOffset" : 25,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgk3FfNEXFMlzHLBgu",
-  "text" : "I do have a suspicious nature.",
+  "id" : "AWoELbvZDTAu_IiLehzD",
+  "text" : "Nature combined with nurture.",
   "translations" : {
-    "russian" : "У меня же и есть подозрительная натура."
+    "russian" : "Природа в сочетании с воспитанием."
   },
   "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "do",
-    "startOffset" : 2,
-    "endOffset" : 4,
-    "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 10,
-    "endOffset" : 11,
-    "position" : 3
-  }, {
-    "token" : "suspicious",
-    "startOffset" : 12,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
     "token" : "nature",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk3d5NEXFMlzHLBhX",
-  "text" : "Buck's return to his savage nature.",
-  "translations" : {
-    "russian" : "Бак возвращается к своей дикой сущности."
-  },
-  "tokens" : [ {
-    "token" : "buck",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "turn",
+    "token" : "combined",
     "startOffset" : 7,
-    "endOffset" : 13,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "to",
-    "startOffset" : 14,
-    "endOffset" : 16,
+    "token" : "combine",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 16,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "his",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "savage",
+    "token" : "nurture",
     "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELcyjDTAu_IiLehz8",
+  "text" : "Nature combined with nurture.",
+  "translations" : {
+    "russian" : "Природа в сочетании с воспитанием."
+  },
+  "tokens" : [ {
     "token" : "nature",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "combined",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "combine",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "nurture",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

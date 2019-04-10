@@ -1,8 +1,210 @@
 [ {
-  "id" : "AWbgdGLQNEXFMlzHK6nA",
-  "text" : "Possibly a tectonic plate slippage.",
+  "id" : "AWoEQ4uMDTAu_IiLel5f",
+  "text" : "Possibly curved.",
   "translations" : {
-    "russian" : "Возможно, движением тектонических плит."
+    "russian" : "Возможно изогнутый."
+  },
+  "tokens" : [ {
+    "token" : "possibly",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "curved",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "curve",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBRmMDTAu_IiLfJAD",
+  "text" : "Possibly overshadowed.",
+  "translations" : {
+    "russian" : "Возможно, в тени."
+  },
+  "tokens" : [ {
+    "token" : "possibly",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "overshadow",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBeZDDTAu_IiLfJJj",
+  "text" : "Possibly overshadowed.",
+  "translations" : {
+    "russian" : "Возможно, в тени."
+  },
+  "tokens" : [ {
+    "token" : "possibly",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "overshadow",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6yV1DTAu_IiLeVUM",
+  "text" : "Possibly animated?",
+  "translations" : {
+    "russian" : "Может мультфильм?"
+  },
+  "tokens" : [ {
+    "token" : "possibly",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "animated",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "animate",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBZ5lDTAu_IiLfJGJ",
+  "text" : "Possibly overshadowed.",
+  "translations" : {
+    "russian" : "Возможно, в тени."
+  },
+  "tokens" : [ {
+    "token" : "possibly",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "overshadow",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFipSyDTAu_IiLfh8z",
+  "text" : "Possibly curved.",
+  "translations" : {
+    "russian" : "Возможно изогнутый."
+  },
+  "tokens" : [ {
+    "token" : "possibly",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "curved",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "curve",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnfdXDTAu_IiLeLKi",
+  "text" : "He's delirious, possibly dangerous.",
+  "translations" : {
+    "russian" : "Он бредит, возможно, он опасен."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "delirious",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "possibly",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "dangerous",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfnH0DTAu_IiLfgDH",
+  "text" : "Possibly shagged him.",
+  "translations" : {
+    "russian" : "Возможно я переспала с ним."
+  },
+  "tokens" : [ {
+    "token" : "possibly",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "shagged",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "him",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLlp6DTAu_IiLfQ4k",
+  "text" : "Possibly imported area rug!",
+  "translations" : {
+    "russian" : "Ковер, возможно, импортный!"
+  },
+  "tokens" : [ {
+    "token" : "possibly",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "import",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "area",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "rug",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDydDzDTAu_IiLeRXJ",
+  "text" : "Possibly a telepathic projection.",
+  "translations" : {
+    "russian" : "Возможно, телепатическая проекция."
   },
   "tokens" : [ {
     "token" : "possibly",
@@ -15,96 +217,188 @@
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "tectonic",
+    "token" : "telepathic",
     "startOffset" : 11,
-    "endOffset" : 19,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "plate",
-    "startOffset" : 20,
-    "endOffset" : 25,
+    "token" : "projection",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLu6bDTAu_IiLfQ_s",
+  "text" : "Possibly imported area rug!",
+  "translations" : {
+    "russian" : "Ковер, возможно, импортный!"
+  },
+  "tokens" : [ {
+    "token" : "possibly",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "import",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "area",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "rug",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYcY4DTAu_IiLfaf2",
+  "text" : "Possibly imported area rug!",
+  "translations" : {
+    "russian" : "Ковер, возможно, импортный!"
+  },
+  "tokens" : [ {
+    "token" : "possibly",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "import",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "area",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "rug",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1l5KDTAu_IiLeS9I",
+  "text" : "Possibly a boutonniere.",
+  "translations" : {
+    "russian" : "Возможно, это бутоньерка."
+  },
+  "tokens" : [ {
+    "token" : "possibly",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "boutonniere",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE44OeDTAu_IiLfC8K",
+  "text" : "Possibly red or tan.",
+  "translations" : {
+    "russian" : "Красный или коричневый."
+  },
+  "tokens" : [ {
+    "token" : "possibly",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "red",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "or",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "tan",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqg0yDTAu_IiLeMuN",
+  "text" : "Well, that's possibly more plausible.",
+  "translations" : {
+    "russian" : "Хорошо, возможно, это более вероятно."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "possibly",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "more",
+    "startOffset" : 22,
+    "endOffset" : 26,
     "position" : 3
   }, {
-    "token" : "slippage",
-    "startOffset" : 26,
-    "endOffset" : 34,
+    "token" : "plausible",
+    "startOffset" : 27,
+    "endOffset" : 36,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgfInmNEXFMlzHK8W7",
-  "text" : "I could not possibly accept that.",
+  "id" : "AWoD7oXmDTAu_IiLeV27",
+  "text" : "Possibly, but not for Britain.",
   "translations" : {
-    "russian" : "Я не могу согласиться на это."
+    "russian" : "Возможно, но не из Британии."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "possibly",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "could",
-    "startOffset" : 2,
-    "endOffset" : 7,
+    "token" : "but",
+    "startOffset" : 10,
+    "endOffset" : 13,
     "position" : 1
   }, {
     "token" : "not",
-    "startOffset" : 8,
-    "endOffset" : 11,
+    "startOffset" : 14,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "possibly",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "accept",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "that",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWn5noU3SHZo49ps8uAS",
-  "text" : "You can't possibly be this obtuse.",
-  "translations" : {
-    "russian" : "Ты не можешь в самом деле быть таким тупым."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "can't",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "possibly",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "be",
-    "startOffset" : 19,
+    "token" : "for",
+    "startOffset" : 18,
     "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "this",
+    "token" : "britain",
     "startOffset" : 22,
-    "endOffset" : 26,
+    "endOffset" : 29,
     "position" : 4
-  }, {
-    "token" : "obtuse",
-    "startOffset" : 27,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

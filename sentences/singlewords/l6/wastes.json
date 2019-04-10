@@ -190,6 +190,77 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDoB0lDTAu_IiLeLbl",
+  "text" : "It's a cruel, senseless waste.",
+  "translations" : {
+    "russian" : "Это жестокая, бессмысленная утрата."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "cruel",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "senseless",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "waste",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELjotDTAu_IiLeh5o",
+  "text" : "Lousy upbringing. What a waste.",
+  "translations" : {
+    "russian" : "Надо же, как плохо она его воспитала."
+  },
+  "tokens" : [ {
+    "token" : "lousy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "upbringing",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "upbring",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "what",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 23,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "waste",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkRU1NEXFMlzHLAwi",
   "text" : "Let's not waste electricity, gentlemen!",
   "translations" : {
@@ -252,6 +323,39 @@
     "token" : "anything",
     "startOffset" : 20,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtNhaDTAu_IiLeOUY",
+  "text" : "Don't waste the ammunition, mate.",
+  "translations" : {
+    "russian" : "Не трать патроны, приятель."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "waste",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "ammunition",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "mate",
+    "startOffset" : 28,
+    "endOffset" : 32,
     "position" : 4
   } ],
   "contentScore" : null
@@ -385,110 +489,6 @@
     "startOffset" : 20,
     "endOffset" : 24,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkQjtNEXFMlzHLAvT",
-  "text" : "You could waste your breath.",
-  "translations" : {
-    "russian" : "Ты можешь тратить впустую свое дыхание."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "could",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "waste",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "breath",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr7Q_NEXFMlzHLLt1",
-  "text" : "Hate to waste a view.",
-  "translations" : {
-    "russian" : "Ненавижу упускать из вида красоту."
-  },
-  "tokens" : [ {
-    "token" : "hate",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "waste",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "view",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkQAENEXFMlzHLAuj",
-  "text" : "Now please don't waste any time.",
-  "translations" : {
-    "russian" : "Поэтому, пожалуйста, не теряй время."
-  },
-  "tokens" : [ {
-    "token" : "now",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "please",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "don't",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "waste",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "any",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "time",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoDZ_J2DTAu_IiLeDfU",
+  "text" : "Mixed architecture.",
+  "translations" : {
+    "russian" : "Смешанная архитектура."
+  },
+  "tokens" : [ {
+    "token" : "mixed",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "mix",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "architecture",
+    "startOffset" : 6,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmnFuNEXFMlzHLEL5",
   "text" : "You're all mixed up.",
   "translations" : {
@@ -430,34 +453,6 @@
     "token" : "drug",
     "startOffset" : 18,
     "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmnNSNEXFMlzHLEMI",
-  "text" : "Never mix, never worry.",
-  "translations" : {
-    "russian" : "Конечно. Не смешивать и все будет в порядке!"
-  },
-  "tokens" : [ {
-    "token" : "never",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "mix",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "never",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "worry",
-    "startOffset" : 17,
-    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null

@@ -1,4 +1,70 @@
 [ {
+  "id" : "AWoEgnRCDTAu_IiLexZ1",
+  "text" : "CID investigates allegations of wrongdoing.",
+  "translations" : {
+    "russian" : "УРУД расследует возможное преступление."
+  },
+  "tokens" : [ {
+    "token" : "cid",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "investigate",
+    "startOffset" : 4,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "allegation",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 29,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "wrongdoing",
+    "startOffset" : 32,
+    "endOffset" : 42,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgs8LDTAu_IiLexeT",
+  "text" : "CID investigates allegations of wrongdoing.",
+  "translations" : {
+    "russian" : "УРУД расследует возможное преступление."
+  },
+  "tokens" : [ {
+    "token" : "cid",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "investigate",
+    "startOffset" : 4,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "allegation",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 29,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "wrongdoing",
+    "startOffset" : 32,
+    "endOffset" : 42,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglievNEXFMlzHLCtq",
   "text" : "This isn't an environmental allegation.",
   "translations" : {
@@ -99,6 +165,44 @@
     "token" : "rubbish",
     "startOffset" : 38,
     "endOffset" : 45,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFatW8DTAu_IiLfcZj",
+  "text" : "Any comments on the steroid allegations?",
+  "translations" : {
+    "russian" : "Говорят, вы подсели на стероиды?"
+  },
+  "tokens" : [ {
+    "token" : "any",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "comment",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "steroid",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "allegation",
+    "startOffset" : 28,
+    "endOffset" : 39,
     "position" : 5
   } ],
   "contentScore" : null

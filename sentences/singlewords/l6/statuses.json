@@ -1,4 +1,78 @@
 [ {
+  "id" : "AWoEepdkDTAu_IiLev2R",
+  "text" : "Fuel status?",
+  "translations" : {
+    "russian" : "Как с топливом?"
+  },
+  "tokens" : [ {
+    "token" : "fuel",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "status",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgIwTDTAu_IiLeHCt",
+  "text" : "Status of turret one?",
+  "translations" : {
+    "russian" : "Первая орудийная башня готова?"
+  },
+  "tokens" : [ {
+    "token" : "status",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "turret",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "one",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiu4aDTAu_IiLezHn",
+  "text" : "Status as humanitarian refugee.",
+  "translations" : {
+    "russian" : "Статус как гуманитарный беженец."
+  },
+  "tokens" : [ {
+    "token" : "status",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "as",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "humanitarian",
+    "startOffset" : 10,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "refugee",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvFghNEXFMlzHLQY3",
   "text" : "Assault Leader 1, status check.",
   "translations" : {
@@ -33,6 +107,44 @@
     "token" : "check",
     "startOffset" : 25,
     "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJeVBDTAu_IiLfPPC",
+  "text" : "Present deterioration of mental status.",
+  "translations" : {
+    "russian" : "Налицо ухудшение умственного состояния."
+  },
+  "tokens" : [ {
+    "token" : "present",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "deterioration",
+    "startOffset" : 8,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "deteriorate",
+    "startOffset" : 8,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "mental",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "status",
+    "startOffset" : 32,
+    "endOffset" : 38,
     "position" : 4
   } ],
   "contentScore" : null
@@ -75,6 +187,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD9xY_DTAu_IiLeXe1",
+  "text" : "What's the status on Creel?",
+  "translations" : {
+    "russian" : "Каков статус Крила?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "status",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "creel",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxpKLNEXFMlzHLTla",
   "text" : "Everyone can upgrade his status.",
   "translations" : {
@@ -105,6 +250,44 @@
     "startOffset" : 25,
     "endOffset" : 31,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgvUFDTAu_IiLeHYw",
+  "text" : "What's the status of your fleet?",
+  "translations" : {
+    "russian" : "Состояние вашего парка?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "status",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "your",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "fleet",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

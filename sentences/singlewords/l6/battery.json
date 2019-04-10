@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFMruQDTAu_IiLfRtM",
+  "text" : "Intensify the forward batteries.",
+  "translations" : {
+    "russian" : "Усилить передние батареи."
+  },
+  "tokens" : [ {
+    "token" : "intensify",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "forward",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "battery",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyFqyNEXFMlzHLUP0",
   "text" : "Backup battery switched itself on.",
   "translations" : {
@@ -32,6 +60,110 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDsPzRDTAu_IiLeNv2",
+  "text" : "The roaming drains the battery.",
+  "translations" : {
+    "russian" : "Роуминг разряжает батарею."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "roam",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "drain",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "battery",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQ9hrDTAu_IiLd-Lt",
+  "text" : "No battery-powered aides allowed.",
+  "translations" : {
+    "russian" : "Никаких работающих от батареек помощников."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "battery",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "power",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "aide",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "allowed",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "allow",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRP6JDTAu_IiLd-Yi",
+  "text" : "We need transformers, accumulators......batteries.",
+  "translations" : {
+    "russian" : "Нам нужны трансформаторы, аккумуляторы, батареи."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "need",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "transform",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "accumulator",
+    "startOffset" : 22,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "battery",
+    "startOffset" : 40,
+    "endOffset" : 49,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyIdiNEXFMlzHLUVf",
   "text" : "With twist ties and batteries.",
   "translations" : {
@@ -61,6 +193,39 @@
     "token" : "battery",
     "startOffset" : 20,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfkYbDTAu_IiLewlC",
+  "text" : "Gravity control switching to batteries.",
+  "translations" : {
+    "russian" : "Гравитационный режим на батареи."
+  },
+  "tokens" : [ {
+    "token" : "gravity",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "control",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "switch",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "battery",
+    "startOffset" : 29,
+    "endOffset" : 38,
     "position" : 4
   } ],
   "contentScore" : null
@@ -99,6 +264,44 @@
     "token" : "battery",
     "startOffset" : 31,
     "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-pOjDTAu_IiLeYI5",
+  "text" : "The windmills probably charge the batteries.",
+  "translations" : {
+    "russian" : "Наверное, ветрякИ заряжают батареи."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "windmill",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "probably",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "charge",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 30,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "battery",
+    "startOffset" : 34,
+    "endOffset" : 43,
     "position" : 5
   } ],
   "contentScore" : null

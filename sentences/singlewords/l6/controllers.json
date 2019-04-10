@@ -55,34 +55,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgv1w3NEXFMlzHLRgZ",
-  "text" : "Not a chance, Controller.",
-  "translations" : {
-    "russian" : "Никаких шансов, Инспектор."
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 4,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "chance",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "controller",
-    "startOffset" : 14,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgv1wXNEXFMlzHLRgY",
   "text" : "It's your decision, Controller.",
   "translations" : {
@@ -107,6 +79,34 @@
     "token" : "controller",
     "startOffset" : 20,
     "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgv1w3NEXFMlzHLRgZ",
+  "text" : "Not a chance, Controller.",
+  "translations" : {
+    "russian" : "Никаких шансов, Инспектор."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "chance",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "controller",
+    "startOffset" : 14,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null

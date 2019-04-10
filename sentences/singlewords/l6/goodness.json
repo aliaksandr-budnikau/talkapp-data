@@ -1,4 +1,174 @@
 [ {
+  "id" : "AWoDiUcCDTAu_IiLeITN",
+  "text" : "Thank goodness you're illiterate.",
+  "translations" : {
+    "russian" : "Слава Богу, ты неграмотна."
+  },
+  "tokens" : [ {
+    "token" : "thank",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "goodness",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "good",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "you're",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "illiterate",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyOXGDTAu_IiLeRNM",
+  "text" : "Goodness, it's a dart.",
+  "translations" : {
+    "russian" : "Господи, это дротик!"
+  },
+  "tokens" : [ {
+    "token" : "goodness",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 15,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "dart",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWP57DTAu_IiLfY0e",
+  "text" : "You lie, thank goodness.",
+  "translations" : {
+    "russian" : "Слава богу, ты лжешь. Нет."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "lie",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "thank",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "goodness",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "good",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyOQADTAu_IiLeRNI",
+  "text" : "Goodness, it's a dart.",
+  "translations" : {
+    "russian" : "Господи! Это дротик!"
+  },
+  "tokens" : [ {
+    "token" : "goodness",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 15,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "dart",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhB5xDTAu_IiLfg9d",
+  "text" : "Theft, you say? My goodness.",
+  "translations" : {
+    "russian" : "Украденными, ты сказал?"
+  },
+  "tokens" : [ {
+    "token" : "theft",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "say",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "goodness",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "good",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjXBjNEXFMlzHK_8b",
   "text" : "Goodness, it's raining a lot!",
   "translations" : {
@@ -37,10 +207,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghcMtNEXFMlzHK-V3",
-  "text" : "Good luck, love.",
+  "id" : "AWoEERN4DTAu_IiLecgV",
+  "text" : "Good stomach, good legs good posture.",
   "translations" : {
-    "russian" : "Удачи, дорогая."
+    "russian" : "У него хороший живот, хорошие ноги... хорошая осанка."
   },
   "tokens" : [ {
     "token" : "good",
@@ -48,402 +218,217 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "luck",
+    "token" : "stomach",
     "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "love",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglG6LNEXFMlzHLB8r",
-  "text" : "What's a good emergency?",
-  "translations" : {
-    "russian" : "И что это за хорошая непредвиденная ситуация?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 7,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "good",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "emergency",
-    "startOffset" : 14,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl_MyNEXFMlzHLDHQ",
-  "text" : "Good night, Reeves.",
-  "translations" : {
-    "russian" : "Спокойной ночи, Ривз."
-  },
-  "tokens" : [ {
-    "token" : "good",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "night",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "reeves",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "eves",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmFkINEXFMlzHLDSM",
-  "text" : "What's a good emergency?",
-  "translations" : {
-    "russian" : "И что это за хорошая непредвиденная ситуация?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 7,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "good",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "emergency",
-    "startOffset" : 14,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnZM3NEXFMlzHLFYC",
-  "text" : "You taste good, too.",
-  "translations" : {
-    "russian" : "Ты тоже хороша на вкус."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "taste",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "good",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "too",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnh8xNEXFMlzHLFmf",
-  "text" : "The roast tastes good.",
-  "translations" : {
-    "russian" : "Жаркое на вкус ничего."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "roast",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "tastes",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "taste",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "good",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoRtVNEXFMlzHLGqr",
-  "text" : "Good-bye, dear heart.",
-  "translations" : {
-    "russian" : "До свидания, мое сердечко."
-  },
-  "tokens" : [ {
-    "token" : "good",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "bye",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "dear",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "heart",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgry_TNEXFMlzHLLh6",
-  "text" : "You've got good eyes.",
-  "translations" : {
-    "russian" : "У тебя зрение лучше."
-  },
-  "tokens" : [ {
-    "token" : "you've",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "good",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "eye",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtFZRNEXFMlzHLNTb",
-  "text" : "Good afternoon, ladies!",
-  "translations" : {
-    "russian" : "Добрый день, дамы!"
-  },
-  "tokens" : [ {
-    "token" : "good",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "afternoon",
-    "startOffset" : 5,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "lady",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgudEXNEXFMlzHLPIY",
-  "text" : "Good God-fearing Klan.",
-  "translations" : {
-    "russian" : "Нет, сэр. Богобоязненный Клан."
-  },
-  "tokens" : [ {
-    "token" : "good",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "god",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "fear",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "klan",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwcecNEXFMlzHLSMF",
-  "text" : "Good catch, knight.",
-  "translations" : {
-    "russian" : "Прекрасный улов, рыцарь!"
-  },
-  "tokens" : [ {
-    "token" : "good",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "catch",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "knight",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgx_r4NEXFMlzHLUEA",
-  "text" : "Oh, yeah, good point.",
-  "translations" : {
-    "russian" : "Да, хорошая мысль."
-  },
-  "tokens" : [ {
-    "token" : "oh",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "yeah",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "good",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "point",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfAYRNEXFMlzHK8Pm",
-  "text" : "Have a good vacation.",
-  "translations" : {
-    "russian" : "Хороших вам каникул."
-  },
-  "tokens" : [ {
-    "token" : "have",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "good",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "vacation",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "vacate",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgipQhNEXFMlzHK_WT",
-  "text" : "Good shot, Connor.",
-  "translations" : {
-    "russian" : "Хороший бросок, Коннор."
-  },
-  "tokens" : [ {
-    "token" : "good",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "shot",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "connor",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgipp-NEXFMlzHK_Wl",
-  "text" : "That shot is good.",
-  "translations" : {
-    "russian" : "Этот бросок был отличным."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "shot",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 10,
     "endOffset" : 12,
-    "position" : 2
+    "position" : 1
   }, {
     "token" : "good",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "leg",
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 3
+  }, {
+    "token" : "good",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "posture",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAjNwDTAu_IiLfIcu",
+  "text" : "Good house, good food, good salary!",
+  "translations" : {
+    "russian" : "Хорошее жилье, хорошее питание, хороший заработок!"
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "house",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "good",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "food",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "good",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "salary",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvpj4DTAu_IiLePzx",
+  "text" : "Good wrestling.",
+  "translations" : {
+    "russian" : "Прекрасная борьба!"
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "wrestling",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "wrestle",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELaSVDTAu_IiLehx3",
+  "text" : "Good Sabbath.",
+  "translations" : {
+    "russian" : "Хорошего Шаббата."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "sabbath",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqQCiDTAu_IiLe4wn",
+  "text" : "Good faith?",
+  "translations" : {
+    "russian" : "Добрые намерения?"
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "faith",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAlF6DTAu_IiLfIeL",
+  "text" : "Good salary.",
+  "translations" : {
+    "russian" : "Достойная оплата."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "salary",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQZRpDTAu_IiLfUh8",
+  "text" : "Good italics.",
+  "translations" : {
+    "russian" : "Хороший курсив."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "italic",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqP-ZDTAu_IiLe4wl",
+  "text" : "Good faith ?",
+  "translations" : {
+    "russian" : "Хорошие намерения ?"
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "faith",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELaPKDTAu_IiLehx0",
+  "text" : "Good Sabbath.",
+  "translations" : {
+    "russian" : "И тебе доброго Шаббата."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "sabbath",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6QT4DTAu_IiLfD2W",
+  "text" : "Good grip.",
+  "translations" : {
+    "russian" : "Крепкая хватка."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "grip",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,58 @@
 [ {
+  "id" : "AWoD5sQJDTAu_IiLeU1R",
+  "text" : "Waterloo Station.",
+  "translations" : {
+    "russian" : "На станцию Ватерлоо!"
+  },
+  "tokens" : [ {
+    "token" : "waterloo",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "station",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5sz_DTAu_IiLeU1i",
+  "text" : "Waterloo Station.",
+  "translations" : {
+    "russian" : "Вокзал Ватерлоо."
+  },
+  "tokens" : [ {
+    "token" : "waterloo",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "station",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYDkADTAu_IiLerQb",
+  "text" : "Galaxy Station!",
+  "translations" : {
+    "russian" : "Галактический вокзал !"
+  },
+  "tokens" : [ {
+    "token" : "galaxy",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "station",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghIxhNEXFMlzHK-E4",
   "text" : "Rupert, man your station.",
   "translations" : {
@@ -75,6 +129,62 @@
     "startOffset" : 17,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5s1mDTAu_IiLeU1j",
+  "text" : "Waterloo Station, south entrance.",
+  "translations" : {
+    "russian" : "Вокзал Ватерлоо, южный вход."
+  },
+  "tokens" : [ {
+    "token" : "waterloo",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "station",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "south",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "sou",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "entrance",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEX_FiDTAu_IiLerNa",
+  "text" : "What gas station?",
+  "translations" : {
+    "russian" : "У какой заправки?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "gas",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "station",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -208,211 +318,86 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghIfMNEXFMlzHK-Eq",
-  "text" : "Man the battle stations?",
+  "id" : "AWoDPL94DTAu_IiLd9CX",
+  "text" : "Where's the bus station?",
   "translations" : {
-    "russian" : "Пора занимать боевые посты?"
+    "russian" : "Где автобусная остановка?"
   },
   "tokens" : [ {
-    "token" : "man",
+    "token" : "where",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 7,
     "position" : 0
   }, {
     "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
+    "startOffset" : 8,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "battle",
-    "startOffset" : 8,
-    "endOffset" : 14,
+    "token" : "bus",
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   }, {
     "token" : "station",
-    "startOffset" : 15,
+    "startOffset" : 16,
     "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqaT_NEXFMlzHLJnN",
-  "text" : "Police station, operator.",
+  "id" : "AWoEX_QSDTAu_IiLerNh",
+  "text" : "Bank robbery, gas station...",
   "translations" : {
-    "russian" : "Оператор, отделение полиции."
+    "russian" : "Нападениена бензоколонку."
   },
   "tokens" : [ {
-    "token" : "police",
+    "token" : "bank",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "station",
-    "startOffset" : 7,
-    "endOffset" : 14,
+    "token" : "robbery",
+    "startOffset" : 5,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "operator",
-    "startOffset" : 16,
-    "endOffset" : 24,
+    "token" : "gas",
+    "startOffset" : 14,
+    "endOffset" : 17,
     "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvA6KNEXFMlzHLQPc",
-  "text" : "Railway stations, aerodromes.",
-  "translations" : {
-    "russian" : "Вокзалы, аэродромы."
-  },
-  "tokens" : [ {
-    "token" : "railway",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
   }, {
     "token" : "station",
-    "startOffset" : 8,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "aerodrome",
     "startOffset" : 18,
-    "endOffset" : 28,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglUWwNEXFMlzHLCUu",
-  "text" : "To your stations!",
-  "translations" : {
-    "russian" : "Все по местам!"
-  },
-  "tokens" : [ {
-    "token" : "to",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "station",
-    "startOffset" : 8,
-    "endOffset" : 16,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqVTxNEXFMlzHLJgN",
-  "text" : "To your stations, gentlemen.",
-  "translations" : {
-    "russian" : "По местам, господа."
-  },
-  "tokens" : [ {
-    "token" : "to",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "station",
-    "startOffset" : 8,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "gentlemen",
-    "startOffset" : 18,
-    "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglUZsNEXFMlzHLCUz",
-  "text" : "Please find your stations.",
-  "translations" : {
-    "russian" : "Пожалуйста, найдите свои места."
-  },
-  "tokens" : [ {
-    "token" : "please",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "find",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "station",
-    "startOffset" : 17,
     "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglUMgNEXFMlzHLCUe",
-  "text" : "Clean out your station.",
+  "id" : "AWoEX_BIDTAu_IiLerNW",
+  "text" : "The nearest gas station.",
   "translations" : {
-    "russian" : "Освободи свое рабочее место."
+    "russian" : "До ближайшей заправки."
   },
   "tokens" : [ {
-    "token" : "clean",
+    "token" : "the",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "out",
-    "startOffset" : 6,
-    "endOffset" : 9,
+    "token" : "near",
+    "startOffset" : 4,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "your",
-    "startOffset" : 10,
-    "endOffset" : 14,
+    "token" : "gas",
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   }, {
     "token" : "station",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglUNuNEXFMlzHLCUf",
-  "text" : "Back to your station.",
-  "translations" : {
-    "russian" : "Возвращайся на свое место."
-  },
-  "tokens" : [ {
-    "token" : "back",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "station",
-    "startOffset" : 13,
-    "endOffset" : 20,
+    "startOffset" : 16,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null

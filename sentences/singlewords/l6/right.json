@@ -1,8 +1,34 @@
 [ {
-  "id" : "AWbgvdooNEXFMlzHLQ9w",
-  "text" : "Right, right, the flying-fish blade.",
+  "id" : "AWoE1kvEDTAu_IiLfAvf",
+  "text" : "Right.",
   "translations" : {
-    "russian" : "С летающей рыбой на лезвии, да?"
+    "russian" : "Err...Э... ага..."
+  },
+  "tokens" : [ {
+    "token" : "right",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1mtkDTAu_IiLfAwx",
+  "text" : "Right.",
+  "translations" : {
+    "russian" : "Err...Э... ага..."
+  },
+  "tokens" : [ {
+    "token" : "right",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTmCZDTAu_IiLfW-a",
+  "text" : "Right, right on roundabout.",
+  "translations" : {
+    "russian" : "Вправо, вправо по кольцу."
   },
   "tokens" : [ {
     "token" : "right",
@@ -15,450 +41,274 @@
     "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "fly",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "fish",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "blade",
-    "startOffset" : 30,
-    "endOffset" : 35,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbHquNEXFMlzHK41E",
-  "text" : "I did, right?",
-  "translations" : {
-    "russian" : "До того, правда?"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "did",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "right",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdvGJNEXFMlzHK7Hp",
-  "text" : "Your treat, right?",
-  "translations" : {
-    "russian" : "Ты угощаешь, хорошо?"
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "treat",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "right",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgf8Z-NEXFMlzHK9CX",
-  "text" : "All right, everybody out!",
-  "translations" : {
-    "russian" : "Хорошо, все вон!"
-  },
-  "tokens" : [ {
-    "token" : "all",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "right",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "everybody",
-    "startOffset" : 11,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiZyDNEXFMlzHK_I7",
-  "text" : "All right, I scored.",
-  "translations" : {
-    "russian" : "Здорово, я выиграл."
-  },
-  "tokens" : [ {
-    "token" : "all",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "right",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "i",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "scored",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "score",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjAF9NEXFMlzHK_po",
-  "text" : "And big oil, right?",
-  "translations" : {
-    "russian" : "И много нефти, верно?"
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "big",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "oil",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "right",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkmSfNEXFMlzHLBLg",
-  "text" : "All right, everybody out!",
-  "translations" : {
-    "russian" : "Хорошо, все вон!"
-  },
-  "tokens" : [ {
-    "token" : "all",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "right",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "everybody",
-    "startOffset" : 11,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgncwBNEXFMlzHLFd9",
-  "text" : "Serve warm honey, right?",
-  "translations" : {
-    "russian" : "Закажем подогретый мед, как тебе?"
-  },
-  "tokens" : [ {
-    "token" : "serve",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "warm",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "honey",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "right",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnrNoNEXFMlzHLF2H",
-  "text" : "It's my memoir, right?",
-  "translations" : {
-    "russian" : "Это же мои мемуары, да?"
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "memoir",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "right",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgri0DNEXFMlzHLLKL",
-  "text" : "Pay it forward, right?",
-  "translations" : {
-    "russian" : "Плата вперед, да?"
-  },
-  "tokens" : [ {
-    "token" : "pay",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "forward",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "right",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr6mxNEXFMlzHLLs0",
-  "text" : "Totally in right now.",
-  "translations" : {
-    "russian" : "Какая одежда сейчас в моде?"
-  },
-  "tokens" : [ {
-    "token" : "total",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "right",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "now",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguLq3NEXFMlzHLOmF",
-  "text" : "The Seeker was right.",
-  "translations" : {
-    "russian" : "Искательница права."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "seeker",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "seek",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "was",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "right",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguoQlNEXFMlzHLPez",
-  "text" : "On their bed, right?",
-  "translations" : {
-    "russian" : "На их кровати, верно?"
-  },
-  "tokens" : [ {
     "token" : "on",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "roundabout",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKiigDTAu_IiLfQFA",
+  "text" : "Right, right, cankers.",
+  "translations" : {
+    "russian" : "Да, да, стоматит."
+  },
+  "tokens" : [ {
+    "token" : "right",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "their",
-    "startOffset" : 3,
-    "endOffset" : 8,
+    "token" : "right",
+    "startOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "bed",
-    "startOffset" : 9,
-    "endOffset" : 12,
+    "token" : "canker",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETyDADTAu_IiLeoD6",
+  "text" : "Right low, lunge right.",
+  "translations" : {
+    "russian" : "Вправо вниз, выпад вправо."
+  },
+  "tokens" : [ {
+    "token" : "right",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "low",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "lunge",
+    "startOffset" : 11,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "b",
-    "startOffset" : 9,
+    "token" : "right",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_UYzDTAu_IiLeYo6",
+  "text" : "Teamwork, right?",
+  "translations" : {
+    "russian" : "Работаем в команде, ясно?"
+  },
+  "tokens" : [ {
+    "token" : "teamwork",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "right",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_eQRDTAu_IiLfHmZ",
+  "text" : "Intimidating, right?",
+  "translations" : {
+    "russian" : "Устрашающе, да?"
+  },
+  "tokens" : [ {
+    "token" : "intimidating",
+    "startOffset" : 0,
     "endOffset" : 12,
-    "position" : 2
+    "position" : 0
+  }, {
+    "token" : "intimidate",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
   }, {
     "token" : "right",
     "startOffset" : 14,
     "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguoYxNEXFMlzHLPfB",
-  "text" : "Probably hates me, right?",
-  "translations" : {
-    "russian" : "Наверняка ненавидит меня, верно?"
-  },
-  "tokens" : [ {
-    "token" : "probably",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "hate",
-    "startOffset" : 9,
-    "endOffset" : 14,
     "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "right",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguoatNEXFMlzHLPfF",
-  "text" : "EJ is you, right?",
+  "id" : "AWoFVU8-DTAu_IiLfYMZ",
+  "text" : "Kelvin, right.",
   "translations" : {
-    "russian" : "ИДжей - это ты, верно?"
+    "russian" : "Келвин, правда."
   },
   "tokens" : [ {
-    "token" : "ej",
+    "token" : "kelvin",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "is",
-    "startOffset" : 3,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
     "token" : "right",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguonaNEXFMlzHLPfh",
-  "text" : "Right - you've got it!",
-  "translations" : {
-    "russian" : "Хорошо - вы это сделали!"
-  },
-  "tokens" : [ {
-    "token" : "right",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "you've",
     "startOffset" : 8,
-    "endOffset" : 14,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFah8zDTAu_IiLfcQS",
+  "text" : "Pot's right.",
+  "translations" : {
+    "russian" : "Банк собран."
+  },
+  "tokens" : [ {
+    "token" : "pot",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "right",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgOGiDTAu_IiLfgdE",
+  "text" : "Nomad, right?",
+  "translations" : {
+    "russian" : "Кочевник,верно?"
+  },
+  "tokens" : [ {
+    "token" : "nomad",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "right",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbvFKDTAu_IiLetub",
+  "text" : "Eyes right.",
+  "translations" : {
+    "russian" : "Смотреть направо."
+  },
+  "tokens" : [ {
+    "token" : "eye",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "right",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErQgXDTAu_IiLe5eS",
+  "text" : "All right.",
+  "translations" : {
+    "russian" : "18 gauge.Игла."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "right",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwpLsDTAu_IiLe9OH",
+  "text" : "Right. Avuncular!",
+  "translations" : {
+    "russian" : "Точно, отеческих."
+  },
+  "tokens" : [ {
+    "token" : "right",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "avuncular",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2f17DTAu_IiLfBXe",
+  "text" : "Right, certified.",
+  "translations" : {
+    "russian" : "Да, с дипломом!"
+  },
+  "tokens" : [ {
+    "token" : "right",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "certified",
+    "startOffset" : 7,
+    "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "got",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
+    "token" : "certify",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFheYrDTAu_IiLfhOy",
+  "text" : "Right, Starchy?",
+  "translations" : {
+    "russian" : "Правда, Стачи?"
+  },
+  "tokens" : [ {
+    "token" : "right",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
-    "token" : "it",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
+    "token" : "starchy",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHYaZDTAu_IiLee0F",
+  "text" : "Suitor, right.",
+  "translations" : {
+    "russian" : "Кавалере, верно."
+  },
+  "tokens" : [ {
+    "token" : "suitor",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "right",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoFje5VDTAu_IiLfie6",
+  "text" : "A demonstration of TOMTIT.",
+  "translations" : {
+    "russian" : "Демонстрация ТОМТИТ."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "demonstration",
+    "startOffset" : 2,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "demonstrate",
+    "startOffset" : 2,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "tomtit",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEONJVDTAu_IiLej8t",
+  "text" : "To demonstrate our omnipotence.",
+  "translations" : {
+    "russian" : "И продемонстрировать наше всемогущество."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "demonstrate",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "our",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "omnipotence",
+    "startOffset" : 19,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguCnONEXFMlzHLOWb",
   "text" : "Demonstrates extremely high integration.",
   "translations" : {
@@ -29,6 +90,44 @@
     "startOffset" : 28,
     "endOffset" : 39,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwdq2DTAu_IiLe9E-",
+  "text" : "Your behavior demonstrates affection and sentiment.",
+  "translations" : {
+    "russian" : "Ваше поведение демонстрирует привязанность и сентиментальность."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "behavior",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "demonstrate",
+    "startOffset" : 14,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "affection",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 37,
+    "endOffset" : 40,
+    "position" : 4
+  }, {
+    "token" : "sentiment",
+    "startOffset" : 41,
+    "endOffset" : 50,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

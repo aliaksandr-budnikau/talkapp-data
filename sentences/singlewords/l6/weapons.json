@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoFa6SfDTAu_IiLfckE",
+  "text" : "Weapons components.",
+  "translations" : {
+    "russian" : "Компоненты оружия."
+  },
+  "tokens" : [ {
+    "token" : "weapon",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "component",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwxPtNEXFMlzHLSg_",
   "text" : "Drop your weapon now!",
   "translations" : {
@@ -27,15 +45,99 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwul4NEXFMlzHLSeY",
-  "text" : "Drop... your... weapons!",
+  "id" : "AWoDZhg-DTAu_IiLeDMD",
+  "text" : "No weapons, no ordnance.",
   "translations" : {
-    "russian" : "Брось... оружие!"
+    "russian" : "Ни оружия, ни боеприпасов."
   },
   "tokens" : [ {
-    "token" : "drop",
+    "token" : "no",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "weapon",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "ordnance",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDCU3DTAu_IiLebhC",
+  "text" : "He wielded no weapon.",
+  "translations" : {
+    "russian" : "Он не владеет оружием."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "wield",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "weapon",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQ4gZDTAu_IiLel5V",
+  "text" : "Curved blunt weapon ?",
+  "translations" : {
+    "russian" : "Изогнутым тупым предметом ?"
+  },
+  "tokens" : [ {
+    "token" : "curved",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "curve",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "blunt",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "weapon",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYHxXDTAu_IiLfaO6",
+  "text" : "Holster your weapon.",
+  "translations" : {
+    "russian" : "Убери оружие."
+  },
+  "tokens" : [ {
+    "token" : "holster",
+    "startOffset" : 0,
+    "endOffset" : 7,
     "position" : 0
   }, {
     "token" : "your",
@@ -44,126 +146,271 @@
     "position" : 1
   }, {
     "token" : "weapon",
-    "startOffset" : 16,
-    "endOffset" : 23,
+    "startOffset" : 13,
+    "endOffset" : 19,
     "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxmbJNEXFMlzHLTfz",
-  "text" : "Put your weapons down!",
+  "id" : "AWoFYIMPDTAu_IiLfaPP",
+  "text" : "Holster your weapon, now.",
   "translations" : {
-    "russian" : "Положите ваше оружие вниз!"
+    "russian" : "Спрячь свое оружие, сейчас."
   },
   "tokens" : [ {
-    "token" : "put",
+    "token" : "holster",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 7,
     "position" : 0
   }, {
     "token" : "your",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "weapon",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "down",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmtfhNEXFMlzHLEW0",
-  "text" : "We're within weapons range.",
-  "translations" : {
-    "russian" : "Мы в зоне поражения."
-  },
-  "tokens" : [ {
-    "token" : "we're",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "within",
-    "startOffset" : 6,
+    "startOffset" : 8,
     "endOffset" : 12,
     "position" : 1
   }, {
     "token" : "weapon",
     "startOffset" : 13,
-    "endOffset" : 20,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "range",
+    "token" : "now",
     "startOffset" : 21,
-    "endOffset" : 26,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpfxQNEXFMlzHLIVz",
-  "text" : "Shelter, weapons, credits.",
+  "id" : "AWoFa8f-DTAu_IiLfcl0",
+  "text" : "Electronics, components, weapons.",
   "translations" : {
-    "russian" : "Убежище, оружие, влияние."
+    "russian" : "Электроника, запчасти, оружие."
   },
   "tokens" : [ {
-    "token" : "shelter",
+    "token" : "electronics",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "electronic",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "component",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 1
+  }, {
+    "token" : "weapon",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzlyrDTAu_IiLeR-z",
+  "text" : "Weapons clanking, echoing.",
+  "translations" : {
+    "russian" : "Оружие лязг, вторя."
+  },
+  "tokens" : [ {
+    "token" : "weapon",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "weapon",
-    "startOffset" : 9,
+    "token" : "clanking",
+    "startOffset" : 8,
     "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "credit",
+    "token" : "clank",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "echo",
     "startOffset" : 18,
     "endOffset" : 25,
     "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvdEXNEXFMlzHLQ8j",
-  "text" : "Position automatic weapons here.",
+  "id" : "AWoDvkGcDTAu_IiLePwf",
+  "text" : "Weapon comes after grappling.",
   "translations" : {
-    "russian" : "Рассположите здесь автоматическое оружие."
+    "russian" : "Оружие идет после захвата."
   },
   "tokens" : [ {
-    "token" : "position",
+    "token" : "weapon",
     "startOffset" : 0,
-    "endOffset" : 8,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "automatic",
-    "startOffset" : 9,
-    "endOffset" : 18,
+    "token" : "comes",
+    "startOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "weapon",
-    "startOffset" : 19,
-    "endOffset" : 26,
+    "token" : "come",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "aft",
+    "startOffset" : 13,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "here",
-    "startOffset" : 27,
-    "endOffset" : 31,
+    "token" : "grappling",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "grapple",
+    "startOffset" : 19,
+    "endOffset" : 28,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwxE-NEXFMlzHLSgz",
-  "text" : "Drop your weapon now!",
+  "id" : "AWoErAGIDTAu_IiLe5S-",
+  "text" : "Weapons systems reloading.",
   "translations" : {
-    "russian" : "Опусти оружие, сейчас же!"
+    "russian" : "Производится перезарядка. Черт."
   },
   "tokens" : [ {
-    "token" : "drop",
+    "token" : "weapon",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "system",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "reload",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJ9pCDTAu_IiLegpA",
+  "text" : "Sheathe your weapon!",
+  "translations" : {
+    "russian" : "В ножны оружие!"
+  },
+  "tokens" : [ {
+    "token" : "sheathe",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "weapon",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQONYDTAu_IiLelbE",
+  "text" : "Your company exports weapons.",
+  "translations" : {
+    "russian" : "Компания, которую вы представляете, экспортирует оружие."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "company",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "export",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "weapon",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEROx5DTAu_IiLemJB",
+  "text" : "A weapon of convenience.",
+  "translations" : {
+    "russian" : "Удобное оружие."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "weapon",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "convenience",
+    "startOffset" : 12,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExT3MDTAu_IiLe9uV",
+  "text" : "A sophisticated weapon.",
+  "translations" : {
+    "russian" : "Изощренное оружие."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "sophisticated",
+    "startOffset" : 2,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "sophisticate",
+    "startOffset" : 2,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "weapon",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7eJ5DTAu_IiLfEmu",
+  "text" : "Stow your weapons.",
+  "translations" : {
+    "russian" : "Уберите оружие."
+  },
+  "tokens" : [ {
+    "token" : "stow",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
@@ -175,325 +422,8 @@
   }, {
     "token" : "weapon",
     "startOffset" : 10,
-    "endOffset" : 16,
+    "endOffset" : 17,
     "position" : 2
-  }, {
-    "token" : "now",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxm1BNEXFMlzHLTgo",
-  "text" : "Doctor, put the weapon down!",
-  "translations" : {
-    "russian" : "Доктор, опустите пистолет!"
-  },
-  "tokens" : [ {
-    "token" : "doctor",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "put",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "weapon",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "down",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmuc-NEXFMlzHLEYs",
-  "text" : "20 seconds to weapons range.",
-  "translations" : {
-    "russian" : "20 секунд до дистанции выстрела."
-  },
-  "tokens" : [ {
-    "token" : "20",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "second",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "weapon",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "range",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvF61NEXFMlzHLQZx",
-  "text" : "Have to check your weapon.",
-  "translations" : {
-    "russian" : "Оружие придется сдать, сэр."
-  },
-  "tokens" : [ {
-    "token" : "have",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "check",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "weapon",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxXrVNEXFMlzHLTKz",
-  "text" : "It's a sonic diversionary weapon.",
-  "translations" : {
-    "russian" : "Это звуковое диверсионное оружие."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "sonic",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "diversionary",
-    "startOffset" : 13,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "weapon",
-    "startOffset" : 26,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvbELNEXFMlzHLQ4e",
-  "text" : "All weapon detectors appear functional.",
-  "translations" : {
-    "russian" : "Все детекторы оружия функционируют."
-  },
-  "tokens" : [ {
-    "token" : "all",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "weapon",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "detector",
-    "startOffset" : 11,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "appear",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "functional",
-    "startOffset" : 28,
-    "endOffset" : 38,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguv0gNEXFMlzHLPtZ",
-  "text" : "Our last weapon is tolerance.",
-  "translations" : {
-    "russian" : "Наше последнее оружие - толерантность."
-  },
-  "tokens" : [ {
-    "token" : "our",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "last",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "weapon",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "tolerance",
-    "startOffset" : 19,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvdYBNEXFMlzHLQ9I",
-  "text" : "Vampires are outside with automatic weapons.",
-  "translations" : {
-    "russian" : "Вампиры на улице с автоматами."
-  },
-  "tokens" : [ {
-    "token" : "vampire",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "outside",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "with",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "automatic",
-    "startOffset" : 26,
-    "endOffset" : 35,
-    "position" : 4
-  }, {
-    "token" : "weapon",
-    "startOffset" : 36,
-    "endOffset" : 43,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmaLgNEXFMlzHLD1y",
-  "text" : "That's not a weapon, that's cutlery.",
-  "translations" : {
-    "russian" : "Это не оружие, это столовый прибор."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "weapon",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "that",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "cutlery",
-    "startOffset" : 28,
-    "endOffset" : 35,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrVZdNEXFMlzHLK2g",
-  "text" : "Leave your weapons, maintain your distance.",
-  "translations" : {
-    "russian" : "Оставьте оружие, держитесь на расстоянии."
-  },
-  "tokens" : [ {
-    "token" : "leave",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "weapon",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "maintain",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "your",
-    "startOffset" : 29,
-    "endOffset" : 33,
-    "position" : 4
-  }, {
-    "token" : "distance",
-    "startOffset" : 34,
-    "endOffset" : 42,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

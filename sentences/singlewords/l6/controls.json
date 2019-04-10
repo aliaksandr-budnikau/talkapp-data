@@ -1,4 +1,168 @@
 [ {
+  "id" : "AWoFdFp8DTAu_IiLfeOv",
+  "text" : "Control.",
+  "translations" : {
+    "russian" : "Контролер."
+  },
+  "tokens" : [ {
+    "token" : "control",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdESwDTAu_IiLfeNu",
+  "text" : "Control.",
+  "translations" : {
+    "russian" : "Контрол."
+  },
+  "tokens" : [ {
+    "token" : "control",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdB0-DTAu_IiLfeL5",
+  "text" : "Credit controls.",
+  "translations" : {
+    "russian" : "Кредитный контроль."
+  },
+  "tokens" : [ {
+    "token" : "credit",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "control",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdDvGDTAu_IiLfeNT",
+  "text" : "Cannot control.",
+  "translations" : {
+    "russian" : "Не могу управлять."
+  },
+  "tokens" : [ {
+    "token" : "cannot",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "control",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdFcRDTAu_IiLfeOk",
+  "text" : "Control Programs!",
+  "translations" : {
+    "russian" : "Управляющие программы!"
+  },
+  "tokens" : [ {
+    "token" : "control",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "gram",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "program",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdCk2DTAu_IiLfeMf",
+  "text" : "Remote control.",
+  "translations" : {
+    "russian" : "Пульт дистанционного управления."
+  },
+  "tokens" : [ {
+    "token" : "remote",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "mote",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "control",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdERyDTAu_IiLfeNt",
+  "text" : "Hello, Control.",
+  "translations" : {
+    "russian" : "Привет, Контрол."
+  },
+  "tokens" : [ {
+    "token" : "hello",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "control",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfkKvDTAu_IiLewk3",
+  "text" : "He who controls gravity... controls everything.",
+  "translations" : {
+    "russian" : "Тот, кто контролирует гравитацию, контролирует все."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "who",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "control",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "gravity",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "control",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "everything",
+    "startOffset" : 36,
+    "endOffset" : 46,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglixiNEXFMlzHLCuK",
   "text" : "Lights, environmental control.",
   "translations" : {
@@ -215,215 +379,6 @@
     "startOffset" : 18,
     "endOffset" : 23,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxGrTNEXFMlzHLS2k",
-  "text" : "It's got hand controls.",
-  "translations" : {
-    "russian" : "У неё ручное управление."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "hand",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "control",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrf0JNEXFMlzHLLFy",
-  "text" : "Doctor, we've lost control...",
-  "translations" : {
-    "russian" : "Доктор, мы потеряли управление...."
-  },
-  "tokens" : [ {
-    "token" : "doctor",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "we've",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "lost",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "control",
-    "startOffset" : 19,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrf6_NEXFMlzHLLF6",
-  "text" : "The controls are frozen!",
-  "translations" : {
-    "russian" : "Управление бездействует!"
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "control",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "frozen",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrf1INEXFMlzHLLFz",
-  "text" : "Take the controls.",
-  "translations" : {
-    "russian" : "Держите управление."
-  },
-  "tokens" : [ {
-    "token" : "take",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "control",
-    "startOffset" : 9,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrgYwNEXFMlzHLLGp",
-  "text" : "Control of my...",
-  "translations" : {
-    "russian" : "Контролирую свои..."
-  },
-  "tokens" : [ {
-    "token" : "control",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "of",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrhv8NEXFMlzHLLIp",
-  "text" : "To the controls.",
-  "translations" : {
-    "russian" : "К средствам управления."
-  },
-  "tokens" : [ {
-    "token" : "to",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "control",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrtMiNEXFMlzHLLZj",
-  "text" : "Out of my control.",
-  "translations" : {
-    "russian" : "Я не могу с собой совладать."
-  },
-  "tokens" : [ {
-    "token" : "out",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "of",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "control",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmMbYNEXFMlzHLDeJ",
-  "text" : "Observation, anticipation, control.",
-  "translations" : {
-    "russian" : "Наблюдательность, интуиция, контроль."
-  },
-  "tokens" : [ {
-    "token" : "observation",
-    "startOffset" : 0,
-    "endOffset" : 11,
-    "position" : 0
-  }, {
-    "token" : "anticipation",
-    "startOffset" : 13,
-    "endOffset" : 25,
-    "position" : 1
-  }, {
-    "token" : "anticipate",
-    "startOffset" : 13,
-    "endOffset" : 25,
-    "position" : 1
-  }, {
-    "token" : "control",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 2
   } ],
   "contentScore" : null
 } ]

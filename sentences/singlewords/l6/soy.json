@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEJKXbDTAu_IiLegDt",
+  "text" : "Yo soy El Lobo.",
+  "translations" : {
+    "russian" : "Я Волк."
+  },
+  "tokens" : [ {
+    "token" : "yo",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "soy",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "el",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "lobo",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglmHiNEXFMlzHLCz9",
   "text" : "It's biodegradable... soy-based.",
   "translations" : {
@@ -29,6 +57,39 @@
     "startOffset" : 26,
     "endOffset" : 31,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhch-DTAu_IiLfhNr",
+  "text" : "Um... corn starch, soy lecithin.",
+  "translations" : {
+    "russian" : "Так... кукурузный крахмал, соевый лецитин."
+  },
+  "tokens" : [ {
+    "token" : "um",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "corn",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "starch",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "soy",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "lecithin",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

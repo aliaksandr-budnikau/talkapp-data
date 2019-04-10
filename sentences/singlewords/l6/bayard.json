@@ -1,0 +1,80 @@
+[ {
+  "id" : "AWoDcUNjDTAu_IiLeE3Y",
+  "text" : "It's Bayard.",
+  "translations" : {
+    "russian" : "Энди, это Байард."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bayard",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcUayDTAu_IiLeE3h",
+  "text" : "It wasn't Bayard.",
+  "translations" : {
+    "russian" : "Это был не Байярд."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "wasn't",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "bayard",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcUHaDTAu_IiLeE3U",
+  "text" : "Abandoned building on Bayard Street.",
+  "translations" : {
+    "russian" : "Заброшенное здание на улице Байард."
+  },
+  "tokens" : [ {
+    "token" : "abandon",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "building",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "build",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "bayard",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "street",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

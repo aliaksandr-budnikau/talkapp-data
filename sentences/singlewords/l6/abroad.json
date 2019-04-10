@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoDaAS1DTAu_IiLeDgJ",
+  "text" : "I want to study architecture abroad.",
+  "translations" : {
+    "russian" : "Хочу поехать за границу, учиться на архитектора. Правда?"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "want",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "study",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "architecture",
+    "startOffset" : 16,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "abroad",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbge29aNEXFMlzHK8Hx",
   "text" : "I'm a bit to travel abroad.",
   "translations" : {
@@ -33,6 +71,44 @@
     "token" : "abroad",
     "startOffset" : 20,
     "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7Ph9DTAu_IiLfEd4",
+  "text" : "A bookmark for your books abroad.",
+  "translations" : {
+    "russian" : "Закладка для твоих книг за границей."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "bookmark",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "book",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "abroad",
+    "startOffset" : 26,
+    "endOffset" : 32,
     "position" : 5
   } ],
   "contentScore" : null

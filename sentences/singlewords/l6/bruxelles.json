@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWoDzfSQDTAu_IiLeR7H",
+  "text" : "Flight Z74 to Bruxelles.",
+  "translations" : {
+    "russian" : "Выход 42. Алиталия рейс 274."
+  },
+  "tokens" : [ {
+    "token" : "flight",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "z74",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "bruxelles",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzfM4DTAu_IiLeR7D",
+  "text" : "Tomorrow you'll go to Bruxelles.",
+  "translations" : {
+    "russian" : "Ты завра улетаешь в Брюссель?"
+  },
+  "tokens" : [ {
+    "token" : "tomorrow",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "you'll",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "go",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "bruxelles",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

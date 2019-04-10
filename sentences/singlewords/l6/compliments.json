@@ -1,4 +1,70 @@
 [ {
+  "id" : "AWoDaH5RDTAu_IiLeDlI",
+  "text" : "To compliment your complexion.",
+  "translations" : {
+    "russian" : "Комплимент твоей кожи."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "compliment",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "complexion",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFi18ZDTAu_IiLfiFm",
+  "text" : "Using a compliment to criticize...",
+  "translations" : {
+    "russian" : "Комплимент в виде критики..."
+  },
+  "tokens" : [ {
+    "token" : "use",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "us",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "compliment",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "criticize",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsQOHNEXFMlzHLMLh",
   "text" : "Another starter, compliments of Marcel.",
   "translations" : {
@@ -37,6 +103,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFjMJBDTAu_IiLfiT1",
+  "text" : "Using a compliment to criticize...",
+  "translations" : {
+    "russian" : "Комплимент в виде критики..."
+  },
+  "tokens" : [ {
+    "token" : "use",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "us",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "compliment",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "criticize",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxd8INEXFMlzHLTSJ",
   "text" : "I'll take that as a compliment.",
   "translations" : {
@@ -71,6 +175,44 @@
     "token" : "compliment",
     "startOffset" : 20,
     "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEe4X1DTAu_IiLewBH",
+  "text" : "Compliments of Captain Jonathan Randall, esquire.",
+  "translations" : {
+    "russian" : "В знак внимания от капитана Джонатана Рэндолла, эсквайра."
+  },
+  "tokens" : [ {
+    "token" : "compliment",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "captain",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "jonathan",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "randall",
+    "startOffset" : 32,
+    "endOffset" : 39,
+    "position" : 4
+  }, {
+    "token" : "esquire",
+    "startOffset" : 41,
+    "endOffset" : 48,
     "position" : 5
   } ],
   "contentScore" : null
@@ -185,6 +327,44 @@
     "token" : "compliment",
     "startOffset" : 20,
     "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNnVXDTAu_IiLfSZD",
+  "text" : "My compliments on your free interpretation.",
+  "translations" : {
+    "russian" : "Я зашел поздравить вас с вольной трактовкой."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "compliment",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "free",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "interpretation",
+    "startOffset" : 28,
+    "endOffset" : 42,
     "position" : 5
   } ],
   "contentScore" : null

@@ -116,6 +116,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEBkoHDTAu_IiLeaXu",
+  "text" : "They owe me favors.",
+  "translations" : {
+    "russian" : "Они мне должны кое-что."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "owe",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "favors",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "favor",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgl9GcNEXFMlzHLDDY",
   "text" : "That's in our favor.",
   "translations" : {
@@ -220,6 +253,34 @@
     "startOffset" : 10,
     "endOffset" : 15,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWaa_DTAu_IiLeqFK",
+  "text" : "All outcomes favor me.",
+  "translations" : {
+    "russian" : "Любой исход будет в мою пользу."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "outcome",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "favor",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -393,116 +454,40 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgl8QKNEXFMlzHLDCx",
-  "text" : "I don't need no favors.",
+  "id" : "AWoERNe3DTAu_IiLemIC",
+  "text" : "There's convenience in its favor.",
   "translations" : {
-    "russian" : "Не нужно их одолжений."
+    "russian" : "В пользу гостиницы и удобство."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "there",
     "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "don't",
-    "startOffset" : 2,
     "endOffset" : 7,
-    "position" : 1
+    "position" : 0
   }, {
-    "token" : "need",
+    "token" : "convenience",
     "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "no",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "favors",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "favor",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl8RoNEXFMlzHLDCy",
-  "text" : "Don't do me no favors.",
-  "translations" : {
-    "russian" : "Можно без одолжений."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "do",
-    "startOffset" : 6,
-    "endOffset" : 8,
+    "endOffset" : 19,
     "position" : 1
   }, {
-    "token" : "me",
-    "startOffset" : 9,
-    "endOffset" : 11,
+    "token" : "in",
+    "startOffset" : 20,
+    "endOffset" : 22,
     "position" : 2
   }, {
-    "token" : "no",
-    "startOffset" : 12,
-    "endOffset" : 14,
+    "token" : "its",
+    "startOffset" : 23,
+    "endOffset" : 26,
     "position" : 3
   }, {
-    "token" : "favors",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "favor",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl8OsNEXFMlzHLDCw",
-  "text" : "Don't do me any favors.",
-  "translations" : {
-    "russian" : "Одолжений не надо."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "do",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "any",
-    "startOffset" : 12,
-    "endOffset" : 15,
+    "token" : "it",
+    "startOffset" : 23,
+    "endOffset" : 26,
     "position" : 3
   }, {
-    "token" : "favors",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
     "token" : "favor",
-    "startOffset" : 16,
-    "endOffset" : 22,
+    "startOffset" : 27,
+    "endOffset" : 32,
     "position" : 4
   } ],
   "contentScore" : null

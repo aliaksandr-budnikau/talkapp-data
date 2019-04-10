@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoDnmAbDTAu_IiLeLOO",
+  "text" : "They treated her heartlessly.",
+  "translations" : {
+    "russian" : "Они относились к ней безжалостно."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "treated",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "treat",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "her",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "heartless",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgukTXNEXFMlzHLPW2",
   "text" : "I treated you white.",
   "translations" : {
@@ -29,6 +62,82 @@
     "startOffset" : 14,
     "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoER79JDTAu_IiLemqd",
+  "text" : "Treated with two hollows, 30.",
+  "translations" : {
+    "russian" : "Лечили два дупла, 30."
+  },
+  "tokens" : [ {
+    "token" : "treated",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "treat",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "two",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "hollow",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "30",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFOWmdDTAu_IiLfS7a",
+  "text" : "He treated his guests exquisitely.",
+  "translations" : {
+    "russian" : "Он изысканно обходился со своими гостями."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "treated",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "treat",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "guest",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "exquisite",
+    "startOffset" : 22,
+    "endOffset" : 33,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -257,248 +366,6 @@
     "startOffset" : 21,
     "endOffset" : 24,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdtf1NEXFMlzHK7GM",
-  "text" : "How he treats you.",
-  "translations" : {
-    "russian" : "Как он с тобой обращается."
-  },
-  "tokens" : [ {
-    "token" : "how",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "he",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "treat",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdvGJNEXFMlzHK7Hp",
-  "text" : "Your treat, right?",
-  "translations" : {
-    "russian" : "Ты угощаешь, хорошо?"
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "treat",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "right",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdvWRNEXFMlzHK7H4",
-  "text" : "Yeah, your treat...",
-  "translations" : {
-    "russian" : "Да, ты угощаешь..."
-  },
-  "tokens" : [ {
-    "token" : "yeah",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "treat",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdv5bNEXFMlzHK7IY",
-  "text" : "I gave him treats.",
-  "translations" : {
-    "russian" : "Я давала ему угощения."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "gave",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "treat",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdwk4NEXFMlzHK7I8",
-  "text" : "And this... special treat.",
-  "translations" : {
-    "russian" : "И это... особое удовольствие."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "this",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "special",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "treat",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqgOCNEXFMlzHLJvN",
-  "text" : "The hostess, treat bone?",
-  "translations" : {
-    "russian" : "Хозяйка, угостите яблоком?"
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "hostess",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "treat",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "bone",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgurnBNEXFMlzHLPlQ",
-  "text" : "You treat him right.",
-  "translations" : {
-    "russian" : "Ты справедлив с ним."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "treat",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "right",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdtoXNEXFMlzHK7GU",
-  "text" : "He treats us well.",
-  "translations" : {
-    "russian" : "Относится он к нам очень хорошо..."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "treat",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "us",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "well",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdtQcNEXFMlzHK7F_",
-  "text" : "Hahn treats me like.",
-  "translations" : {
-    "russian" : "Ханн обращается со мной, как..."
-  },
-  "tokens" : [ {
-    "token" : "hahn",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "treat",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "like",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

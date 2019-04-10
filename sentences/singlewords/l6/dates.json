@@ -83,6 +83,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE-EPODTAu_IiLfGc5",
+  "text" : "Date of conception, yeah.",
+  "translations" : {
+    "russian" : "Дата зачатия, да."
+  },
+  "tokens" : [ {
+    "token" : "date",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "conception",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "yeah",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbzAMNEXFMlzHK5b5",
   "text" : "Write today's date.",
   "translations" : {
@@ -164,6 +192,34 @@
     "startOffset" : 22,
     "endOffset" : 26,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_0StDTAu_IiLeZBc",
+  "text" : "Dated ? Past tense?",
+  "translations" : {
+    "russian" : "Прошедшее время?"
+  },
+  "tokens" : [ {
+    "token" : "dated",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "date",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "past",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tense",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -302,6 +358,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDSMjhDTAu_IiLd_Bu",
+  "text" : "Like Algerian dates.",
+  "translations" : {
+    "russian" : "Как алжирские финики."
+  },
+  "tokens" : [ {
+    "token" : "like",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "algerian",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "date",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbw6oNEXFMlzHK5aA",
   "text" : "I have a date?",
   "translations" : {
@@ -355,100 +434,6 @@
     "startOffset" : 16,
     "endOffset" : 21,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbweTNEXFMlzHK5Zm",
-  "text" : "Could be a date.",
-  "translations" : {
-    "russian" : "Может быть это дата."
-  },
-  "tokens" : [ {
-    "token" : "could",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "be",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "date",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfIYLNEXFMlzHK8Wt",
-  "text" : "Then you'll accept my date?",
-  "translations" : {
-    "russian" : "А ты согласишься со мной поужинать?"
-  },
-  "tokens" : [ {
-    "token" : "th",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "you'll",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "accept",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "date",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbzBLNEXFMlzHK5b6",
-  "text" : "Oh, it's the wrong date.",
-  "translations" : {
-    "russian" : "О, неправильное число."
-  },
-  "tokens" : [ {
-    "token" : "oh",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "wrong",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "date",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

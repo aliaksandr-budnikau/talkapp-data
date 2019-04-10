@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoFVaCXDTAu_IiLfYPv",
+  "text" : "Broken pottery.",
+  "translations" : {
+    "russian" : "Разбитая керамика."
+  },
+  "tokens" : [ {
+    "token" : "broken",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "pottery",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELHpUDTAu_IiLehis",
+  "text" : "Broken collar bone, broken foot.",
+  "translations" : {
+    "russian" : "Сломана ключица, сломана нога."
+  },
+  "tokens" : [ {
+    "token" : "broken",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "collar",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "bone",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "broken",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "foot",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrcfENEXFMlzHLLA6",
   "text" : "The volume knob's broken.",
   "translations" : {
@@ -83,6 +134,108 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDSPeeDTAu_IiLd_Ds",
+  "text" : "That's his alibi broken.",
+  "translations" : {
+    "russian" : "Вот и нет алиби."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "his",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "alibi",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "broken",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaTPODTAu_IiLesxv",
+  "text" : "The Generator's broken.",
+  "translations" : {
+    "russian" : "Енератор сломан."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "generator",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "broken",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExFxsDTAu_IiLe9jz",
+  "text" : "Our sled's broken!",
+  "translations" : {
+    "russian" : "Санки сломались!"
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sled",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "broken",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3xLUDTAu_IiLfCNg",
+  "text" : "No. ENIGMA was broken.",
+  "translations" : {
+    "russian" : "Нет. Энигму взломали."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "enigma",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "broken",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmvzoNEXFMlzHLEa3",
   "text" : "Maybe the pin's broken.",
   "translations" : {
@@ -139,356 +292,138 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqxCwNEXFMlzHLKA9",
-  "text" : "Lock must be broken.",
+  "id" : "AWoDhgjLDTAu_IiLeH2P",
+  "text" : "Broken pelvis, cracked femur...",
   "translations" : {
-    "russian" : "Наверное, замок сломался."
+    "russian" : "Перелом таза, трещина в бедренной кости..."
   },
   "tokens" : [ {
-    "token" : "lock",
+    "token" : "broken",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "must",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "token" : "pelvis",
+    "startOffset" : 7,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "be",
-    "startOffset" : 10,
-    "endOffset" : 12,
+    "token" : "crack",
+    "startOffset" : 15,
+    "endOffset" : 22,
     "position" : 2
   }, {
-    "token" : "broken",
-    "startOffset" : 13,
-    "endOffset" : 19,
+    "token" : "femur",
+    "startOffset" : 23,
+    "endOffset" : 28,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvn0ZNEXFMlzHLRTk",
-  "text" : "My intercom's broken.",
+  "id" : "AWoD_DZjDTAu_IiLeYcK",
+  "text" : "A broken fan belt.",
   "translations" : {
-    "russian" : "У меня домофон сломан."
+    "russian" : "Порвался ремень вентилятора."
   },
   "tokens" : [ {
-    "token" : "my",
+    "token" : "a",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "intercom",
-    "startOffset" : 3,
-    "endOffset" : 13,
+    "token" : "broken",
+    "startOffset" : 2,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "broken",
-    "startOffset" : 14,
-    "endOffset" : 20,
+    "token" : "fan",
+    "startOffset" : 9,
+    "endOffset" : 12,
     "position" : 2
+  }, {
+    "token" : "belt",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgq0Y-NEXFMlzHLKFZ",
-  "text" : "The pods have broken!",
+  "id" : "AWoDy_yWDTAu_IiLeRpR",
+  "text" : "Our sled's broken!",
   "translations" : {
-    "russian" : "У него порвался контейнер!"
+    "russian" : "Санки сломались!"
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "our",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "pod",
+    "token" : "sled",
     "startOffset" : 4,
-    "endOffset" : 8,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "have",
-    "startOffset" : 9,
-    "endOffset" : 13,
+    "token" : "broken",
+    "startOffset" : 11,
+    "endOffset" : 17,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgWmMDTAu_IiLexMU",
+  "text" : "Like your broken scope?",
+  "translations" : {
+    "russian" : "Что то типа сломанной оптики?"
+  },
+  "tokens" : [ {
+    "token" : "like",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
   }, {
     "token" : "broken",
-    "startOffset" : 14,
-    "endOffset" : 20,
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "scope",
+    "startOffset" : 17,
+    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqx4-NEXFMlzHLKCL",
-  "text" : "Hearts may yet be broken.",
+  "id" : "AWoEa54VDTAu_IiLetKu",
+  "text" : "Collapsed lung, broken thighbone.",
   "translations" : {
-    "russian" : "Сердце еще может разбиться."
+    "russian" : "Коллапс лёгкого, сломанная бедренная кость."
   },
   "tokens" : [ {
-    "token" : "heart",
+    "token" : "collapse",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 9,
     "position" : 0
   }, {
-    "token" : "may",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "yet",
-    "startOffset" : 11,
+    "token" : "lung",
+    "startOffset" : 10,
     "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "be",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "broken",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqw5fNEXFMlzHLKAv",
-  "text" : "My crystal ball is broken.",
-  "translations" : {
-    "russian" : "Мой хрустальный шар сломался."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "crystal",
-    "startOffset" : 3,
-    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "ball",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "is",
+    "token" : "broken",
     "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "broken",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqx-lNEXFMlzHLKCT",
-  "text" : "Hearts are broken every day.",
-  "translations" : {
-    "russian" : "Сердца разбиваются каждый день."
-  },
-  "tokens" : [ {
-    "token" : "heart",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "broken",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "every",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "day",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmOxPNEXFMlzHLDiI",
-  "text" : "Bibles, barbecues, and broken backs.",
-  "translations" : {
-    "russian" : "Библии, барбекю и надломленные спины."
-  },
-  "tokens" : [ {
-    "token" : "bible",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "barbecue",
-    "startOffset" : 8,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 19,
     "endOffset" : 22,
     "position" : 2
   }, {
-    "token" : "broken",
+    "token" : "thighbone",
     "startOffset" : 23,
-    "endOffset" : 29,
+    "endOffset" : 32,
     "position" : 3
-  }, {
-    "token" : "back",
-    "startOffset" : 30,
-    "endOffset" : 35,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj5P8NEXFMlzHLAZj",
-  "text" : "I've broken the cycle, honey.",
-  "translations" : {
-    "russian" : "Я разорвал порочный круг."
-  },
-  "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "broken",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "cycle",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "honey",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqw85NEXFMlzHLKA0",
-  "text" : "Unfortunately, my blender is broken.",
-  "translations" : {
-    "russian" : "К сожалению, мой блендер сломался."
-  },
-  "tokens" : [ {
-    "token" : "fortunate",
-    "startOffset" : 0,
-    "endOffset" : 13,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "blender",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 2
-  }, {
-    "token" : "blend",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 26,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "broken",
-    "startOffset" : 29,
-    "endOffset" : 35,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqxt9NEXFMlzHLKB9",
-  "text" : "Oh, they are not broken.",
-  "translations" : {
-    "russian" : "О, они не разбились."
-  },
-  "tokens" : [ {
-    "token" : "oh",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "they",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "not",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "broken",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmzt9NEXFMlzHLEhX",
-  "text" : "Slow clouds in the broken blue.",
-  "translations" : {
-    "russian" : "Медленные облака разрывают голубое."
-  },
-  "tokens" : [ {
-    "token" : "slow",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "cloud",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "broken",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "blue",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoE1MKzDTAu_IiLfAea",
+  "text" : "Ambassadors, lobbyists, cabinet secretaries...",
+  "translations" : {
+    "russian" : "Послы, лоббисты, чиновники..."
+  },
+  "tokens" : [ {
+    "token" : "ambassador",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "lobbyist",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "cabinet",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "secretary",
+    "startOffset" : 32,
+    "endOffset" : 43,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguH9UNEXFMlzHLOex",
   "text" : "You're the senior cabinet official.",
   "translations" : {
@@ -67,6 +95,44 @@
     "startOffset" : 23,
     "endOffset" : 27,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9TedDTAu_IiLeXH6",
+  "text" : "In a cabinet under my workbench.",
+  "translations" : {
+    "russian" : "В шкафчике под верстаком."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 3,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "cabinet",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "under",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "my",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "workbench",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

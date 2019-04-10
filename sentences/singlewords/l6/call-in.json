@@ -1,4 +1,75 @@
 [ {
+  "id" : "AWoD198tDTAu_IiLeTHr",
+  "text" : "Call the bookkeeper in.",
+  "translations" : {
+    "russian" : "Позови бухгалтера."
+  },
+  "tokens" : [ {
+    "token" : "call",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "bookkeeper",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "bookkeep",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDm13fDTAu_IiLeKz4",
+  "text" : "Neighbors called in a disturbance.",
+  "translations" : {
+    "russian" : "Соседи позвонили из-за нарушения покоя."
+  },
+  "tokens" : [ {
+    "token" : "neighbor",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "called",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 20,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "disturbance",
+    "startOffset" : 22,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgg2dxNEXFMlzHK903",
   "text" : "Editors started calling in sick.",
   "translations" : {
@@ -33,6 +104,44 @@
     "token" : "sick",
     "startOffset" : 27,
     "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbCBWDTAu_IiLeEId",
+  "text" : "Nightclub in Metropolis called Atlantis.",
+  "translations" : {
+    "russian" : "В клубе Атлантис в Метрополе."
+  },
+  "tokens" : [ {
+    "token" : "nightclub",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "metropolis",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "called",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "call",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "atlantis",
+    "startOffset" : 31,
+    "endOffset" : 39,
     "position" : 4
   } ],
   "contentScore" : null
@@ -75,6 +184,82 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDwGIJDTAu_IiLeQE4",
+  "text" : "Bravura called in the FBI.",
+  "translations" : {
+    "russian" : "Бравура вызвал ФБР."
+  },
+  "tokens" : [ {
+    "token" : "bravura",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "called",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "fbi",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvrWyDTAu_IiLe8eu",
+  "text" : "Time to call in the understudy.",
+  "translations" : {
+    "russian" : "Пора звать дублера."
+  },
+  "tokens" : [ {
+    "token" : "time",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 4
+  }, {
+    "token" : "understudy",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgayk9NEXFMlzHK4iY",
   "text" : "Why didn't you call us in?",
   "translations" : {
@@ -109,6 +294,82 @@
     "token" : "in",
     "startOffset" : 23,
     "endOffset" : 25,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjIf9DTAu_IiLezbE",
+  "text" : "I can call in a prescription.",
+  "translations" : {
+    "russian" : "Я могу выписать рецепт."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 4
+  }, {
+    "token" : "prescription",
+    "startOffset" : 16,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEniP2DTAu_IiLe2vV",
+  "text" : "I'll call her father in Geneva.",
+  "translations" : {
+    "russian" : "Я позвоню ее отцу в Женеву."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "call",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "her",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "father",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "in",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "geneva",
+    "startOffset" : 24,
+    "endOffset" : 30,
     "position" : 5
   } ],
   "contentScore" : null

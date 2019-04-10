@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoFHrsxDTAu_IiLfNwA",
+  "text" : "So led to woven.",
+  "translations" : {
+    "russian" : "Так вели, чтобы сплели."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "led",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "woven",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWyWuDTAu_IiLeqWd",
+  "text" : "He led the purges.",
+  "translations" : {
+    "russian" : "Он устроил нам чистку."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "led",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "purge",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoLNANEXFMlzHLGgV",
   "text" : "You've led men in battle.",
   "translations" : {
@@ -28,6 +84,39 @@
     "token" : "battle",
     "startOffset" : 18,
     "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEx7NbDTAu_IiLe-LV",
+  "text" : "The wisps led me here!",
+  "translations" : {
+    "russian" : "Меня привели огоньки!"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "wisp",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "led",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "here",
+    "startOffset" : 17,
+    "endOffset" : 21,
     "position" : 4
   } ],
   "contentScore" : null
@@ -98,6 +187,72 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEeLdZDTAu_IiLevfR",
+  "text" : "It led to financial woe.",
+  "translations" : {
+    "russian" : "Возникли финансовые проблемы."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "led",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "financial",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "woe",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoElGWUDTAu_IiLe06E",
+  "text" : "Truck's manifest led us here.",
+  "translations" : {
+    "russian" : "Накладная грузовика привела нас сюда."
+  },
+  "tokens" : [ {
+    "token" : "truck",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "manifest",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "led",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "us",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "here",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoNOINEXFMlzHLGjq",
   "text" : "Suicide squad, led by Rick Flag.",
   "translations" : {
@@ -132,6 +287,234 @@
     "token" : "flag",
     "startOffset" : 27,
     "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwt42DTAu_IiLeQcG",
+  "text" : "Sadly, this led to another dispute.",
+  "translations" : {
+    "russian" : "К сожалению, это привело к другому спору."
+  },
+  "tokens" : [ {
+    "token" : "sad",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "this",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "led",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "another",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "dispute",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAXc7DTAu_IiLfITp",
+  "text" : "They've led him into an ambush.",
+  "translations" : {
+    "russian" : "Те другие привели его в эту засаду."
+  },
+  "tokens" : [ {
+    "token" : "they've",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "led",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "him",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "into",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "an",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "ambush",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_SGgDTAu_IiLeYnI",
+  "text" : "What tangible things led you here?",
+  "translations" : {
+    "russian" : "Какие осязаемые следы привели вас сюда?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "tangible",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "th",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "led",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "you",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "here",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEN4t9DTAu_IiLejtc",
+  "text" : "Maybe I led a wrongful life?",
+  "translations" : {
+    "russian" : "Может, я прожила какую-то неправильную жизнь?"
+  },
+  "tokens" : [ {
+    "token" : "maybe",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "led",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 3
+  }, {
+    "token" : "wrongful",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "life",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1p4DDTAu_IiLfAy-",
+  "text" : "It's a mutiny led by Fry!",
+  "translations" : {
+    "russian" : "Все на бунт за Фраем!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "mutiny",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "led",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "by",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "fry",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1RDCDTAu_IiLfAh1",
+  "text" : "Your deception led to the fall.",
+  "translations" : {
+    "russian" : "Твой обман привел к падению."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "deception",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "led",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "fall",
+    "startOffset" : 26,
+    "endOffset" : 30,
     "position" : 5
   } ],
   "contentScore" : null

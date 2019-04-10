@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoFcunNDTAu_IiLfd9y",
+  "text" : "I'm Superintendent Constant.",
+  "translations" : {
+    "russian" : "Я комиссар Констан."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "superintendent",
+    "startOffset" : 4,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "constant",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmM__NEXFMlzHLDfG",
   "text" : "I'm Superintendent Pullman.",
   "translations" : {
@@ -19,6 +42,34 @@
     "startOffset" : 19,
     "endOffset" : 26,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHoWkDTAu_IiLfNtM",
+  "text" : "To advise Superintendent Bennett...",
+  "translations" : {
+    "russian" : "Сообщить управляющему Беннетту..."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "advise",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "superintendent",
+    "startOffset" : 10,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "bennett",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -85,6 +136,44 @@
     "startOffset" : 32,
     "endOffset" : 38,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHnhpDTAu_IiLfNsg",
+  "text" : "The Dibelius superintendent can advise you.",
+  "translations" : {
+    "russian" : "Настоятель Дибелиус даст вам совет."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dibelius",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "superintendent",
+    "startOffset" : 13,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "can",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "advise",
+    "startOffset" : 32,
+    "endOffset" : 38,
+    "position" : 4
+  }, {
+    "token" : "you",
+    "startOffset" : 39,
+    "endOffset" : 42,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

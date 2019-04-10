@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoEbZrNDTAu_IiLetft",
+  "text" : "For your penance, say two rosaries.",
+  "translations" : {
+    "russian" : "Для искупления вины прочти двое чёток молитв."
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "penance",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "say",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "two",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "rosary",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrkU8NEXFMlzHLLMX",
   "text" : "I think your penance is paid.",
   "translations" : {
@@ -32,6 +70,44 @@
   }, {
     "token" : "paid",
     "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjUK7DTAu_IiLeI3u",
+  "text" : "My cruelty is my own penance.",
+  "translations" : {
+    "russian" : "Моя жестокость - это кара для меня."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "cruelty",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "own",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "penance",
+    "startOffset" : 21,
     "endOffset" : 28,
     "position" : 5
   } ],

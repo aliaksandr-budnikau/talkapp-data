@@ -1,46 +1,8 @@
 [ {
-  "id" : "AWbgk4hgNEXFMlzHLBi7",
-  "text" : "My mission is to protect you.",
+  "id" : "AWoE2aXdDTAu_IiLfBTt",
+  "text" : "Mission accomplished.",
   "translations" : {
-    "russian" : "Моя миссия - защитить тебя."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "mission",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "protect",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "you",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu0ItNEXFMlzHLP1h",
-  "text" : "Mission Control, that's some good flying.",
-  "translations" : {
-    "russian" : "Центр управления, это был хороший полёт."
+    "russian" : "Миссия завершена."
   },
   "tokens" : [ {
     "token" : "mission",
@@ -48,30 +10,390 @@
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "control",
+    "token" : "accomplished",
     "startOffset" : 8,
-    "endOffset" : 15,
+    "endOffset" : 20,
     "position" : 1
   }, {
-    "token" : "that",
-    "startOffset" : 17,
-    "endOffset" : 23,
+    "token" : "accomplish",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2XjnDTAu_IiLfBRw",
+  "text" : "Mission accomplished!",
+  "translations" : {
+    "russian" : "Миссия выполнена! Я здесь, Св."
+  },
+  "tokens" : [ {
+    "token" : "mission",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "accomplish",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2XpeDTAu_IiLfBR0",
+  "text" : "Mission accomplished?",
+  "translations" : {
+    "russian" : "Что? Миссия выполнена?"
+  },
+  "tokens" : [ {
+    "token" : "mission",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "accomplish",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2XiKDTAu_IiLfBRv",
+  "text" : "Mission accomplished.",
+  "translations" : {
+    "russian" : "Задача выполнена."
+  },
+  "tokens" : [ {
+    "token" : "mission",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "accomplish",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2aYMDTAu_IiLfBTu",
+  "text" : "Mission accomplished.",
+  "translations" : {
+    "russian" : "Миссия завершена."
+  },
+  "tokens" : [ {
+    "token" : "mission",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "accomplish",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2XfODTAu_IiLfBRt",
+  "text" : "Mission accomplished?",
+  "translations" : {
+    "russian" : "Миссия выполнена? !"
+  },
+  "tokens" : [ {
+    "token" : "mission",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "accomplish",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2XdhDTAu_IiLfBRs",
+  "text" : "Mission accomplished!",
+  "translations" : {
+    "russian" : "Задача выполнена!"
+  },
+  "tokens" : [ {
+    "token" : "mission",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "accomplish",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2XzADTAu_IiLfBR7",
+  "text" : "Mission accomplished.",
+  "translations" : {
+    "russian" : "Задание... выполнено!"
+  },
+  "tokens" : [ {
+    "token" : "mission",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "accomplish",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2XlFDTAu_IiLfBRx",
+  "text" : "Mission accomplished!",
+  "translations" : {
+    "russian" : "Миссия выполнена."
+  },
+  "tokens" : [ {
+    "token" : "mission",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "accomplish",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2X35DTAu_IiLfBR_",
+  "text" : "Mission accomplished.",
+  "translations" : {
+    "russian" : "Задание выполнено!"
+  },
+  "tokens" : [ {
+    "token" : "mission",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "accomplish",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2aQYDTAu_IiLfBTo",
+  "text" : "Mission accomplished.",
+  "translations" : {
+    "russian" : "Миссия завершена!"
+  },
+  "tokens" : [ {
+    "token" : "mission",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "accomplish",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2Xt4DTAu_IiLfBR3",
+  "text" : "Reporting mission accomplished.",
+  "translations" : {
+    "russian" : "Рапортую задание выполнено."
+  },
+  "tokens" : [ {
+    "token" : "port",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "mission",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 18,
+    "endOffset" : 30,
     "position" : 2
   }, {
-    "token" : "some",
-    "startOffset" : 24,
-    "endOffset" : 28,
+    "token" : "accomplish",
+    "startOffset" : 18,
+    "endOffset" : 30,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2XyBDTAu_IiLfBR6",
+  "text" : "Sir, mission accomplished. Congratulations!",
+  "translations" : {
+    "russian" : "Сэр, задание выполнено."
+  },
+  "tokens" : [ {
+    "token" : "sir",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "mission",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "accomplish",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "congratulate",
+    "startOffset" : 27,
+    "endOffset" : 42,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2Y9WDTAu_IiLfBSx",
+  "text" : "I accomplished my mission.",
+  "translations" : {
+    "russian" : "Я выполнила задание."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
   }, {
-    "token" : "good",
-    "startOffset" : 29,
-    "endOffset" : 33,
-    "position" : 4
+    "token" : "accomplished",
+    "startOffset" : 2,
+    "endOffset" : 14,
+    "position" : 1
   }, {
-    "token" : "fly",
-    "startOffset" : 34,
-    "endOffset" : 40,
-    "position" : 5
+    "token" : "accomplish",
+    "startOffset" : 2,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "mission",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2aV_DTAu_IiLfBTs",
+  "text" : "Well, mission accomplished.",
+  "translations" : {
+    "russian" : "Что ж, миссия завершена."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "mission",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 14,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "accomplish",
+    "startOffset" : 14,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-n8xDTAu_IiLfG6O",
+  "text" : "Halt the mission.",
+  "translations" : {
+    "russian" : "Остановите миссию."
+  },
+  "tokens" : [ {
+    "token" : "halt",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "mission",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

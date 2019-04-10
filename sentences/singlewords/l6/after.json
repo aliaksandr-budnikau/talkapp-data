@@ -1,4 +1,45 @@
 [ {
+  "id" : "AWoDrcLtDTAu_IiLeNQU",
+  "text" : "Fading aft.",
+  "translations" : {
+    "russian" : "Уходит к корме."
+  },
+  "tokens" : [ {
+    "token" : "fading",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fad",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "aft",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVTmEDTAu_IiLfYLg",
+  "text" : "After Capetown?",
+  "translations" : {
+    "russian" : "После Кейптауна?"
+  },
+  "tokens" : [ {
+    "token" : "aft",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "capetown",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvceSNEXFMlzHLQ7Z",
   "text" : "Take the aft guns.",
   "translations" : {
@@ -23,6 +64,133 @@
     "token" : "gun",
     "startOffset" : 13,
     "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdGiRDTAu_IiLeFS4",
+  "text" : "Developed after the embalming.",
+  "translations" : {
+    "russian" : "Проявился только после бальзамирования."
+  },
+  "tokens" : [ {
+    "token" : "developed",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "develop",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "aft",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "embalm",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEO7U9DTAu_IiLekfA",
+  "text" : "After we enlisted, definitely.",
+  "translations" : {
+    "russian" : "Как поступили на службу, о да."
+  },
+  "tokens" : [ {
+    "token" : "aft",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "we",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "enlist",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "finitely",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "definite",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXqEcDTAu_IiLeq-X",
+  "text" : "I'm going after Viper.",
+  "translations" : {
+    "russian" : "Я преследую Змея."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "going",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "go",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "aft",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "viper",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhFVTDTAu_IiLexxV",
+  "text" : "Just after the commune.",
+  "translations" : {
+    "russian" : "Сразу после Коммуны."
+  },
+  "tokens" : [ {
+    "token" : "just",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "aft",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "commune",
+    "startOffset" : 15,
+    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
@@ -55,6 +223,72 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDvkGcDTAu_IiLePwf",
+  "text" : "Weapon comes after grappling.",
+  "translations" : {
+    "russian" : "Оружие идет после захвата."
+  },
+  "tokens" : [ {
+    "token" : "weapon",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "comes",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "come",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "aft",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "grappling",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "grapple",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFD12aDTAu_IiLfK4i",
+  "text" : "Gaps after that too.",
+  "translations" : {
+    "russian" : "И потом тоже пробелы."
+  },
+  "tokens" : [ {
+    "token" : "gap",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "aft",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "that",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "too",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvcLKNEXFMlzHLQ6y",
   "text" : "Check the damage aft.",
   "translations" : {
@@ -83,69 +317,18 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvcTjNEXFMlzHLQ7C",
-  "text" : "Oh, forward and aft?",
+  "id" : "AWoDdJqpDTAu_IiLeFUl",
+  "text" : "Developed after the embalming.",
   "translations" : {
-    "russian" : "На носу и на корме?"
+    "russian" : "Проявился только после бальзамирования."
   },
   "tokens" : [ {
-    "token" : "oh",
+    "token" : "developed",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 9,
     "position" : 0
   }, {
-    "token" : "forward",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "aft",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvcPpNEXFMlzHLQ67",
-  "text" : "12, 000 kilometers aft.",
-  "translations" : {
-    "russian" : "12 000 километров за кормой."
-  },
-  "tokens" : [ {
-    "token" : "12",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "000",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "kilometer",
-    "startOffset" : 8,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "aft",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgomk4NEXFMlzHLHK3",
-  "text" : "Specially after our next stop.",
-  "translations" : {
-    "russian" : "Особенно после нашей следующей остановки."
-  },
-  "tokens" : [ {
-    "token" : "special",
+    "token" : "develop",
     "startOffset" : 0,
     "endOffset" : 9,
     "position" : 0
@@ -155,350 +338,147 @@
     "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "our",
+    "token" : "the",
     "startOffset" : 16,
     "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "next",
+    "token" : "embalm",
     "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "stop",
-    "startOffset" : 25,
     "endOffset" : 29,
-    "position" : 4
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvLeENEXFMlzHLQkb",
-  "text" : "We found them after departure.",
+  "id" : "AWoDhp5XDTAu_IiLeH7i",
+  "text" : "And after misfortune, fortune.",
   "translations" : {
-    "russian" : "Мы обнаружили их после отлёта."
+    "russian" : "После неудачи удача."
   },
   "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "found",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "them",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "aft",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "departure",
-    "startOffset" : 20,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvfDFNEXFMlzHLRAx",
-  "text" : "The Captain's in aft cabin.",
-  "translations" : {
-    "russian" : "Капитан в кормовой каюте."
-  },
-  "tokens" : [ {
-    "token" : "the",
+    "token" : "and",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "captain",
+    "token" : "aft",
     "startOffset" : 4,
-    "endOffset" : 13,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "in",
-    "startOffset" : 14,
-    "endOffset" : 16,
+    "token" : "misfortune",
+    "startOffset" : 10,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "aft",
-    "startOffset" : 17,
-    "endOffset" : 20,
+    "token" : "fortune",
+    "startOffset" : 22,
+    "endOffset" : 29,
     "position" : 3
-  }, {
-    "token" : "cabin",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrQmKNEXFMlzHLKva",
-  "text" : "Gibbs, I box after work.",
+  "id" : "AWoDvkjgDTAu_IiLePwy",
+  "text" : "Weapon comes after grappling.",
   "translations" : {
-    "russian" : "Гиббс, я боксирую после работы."
+    "russian" : "Оружие идет после захвата."
   },
   "tokens" : [ {
-    "token" : "gibb",
+    "token" : "weapon",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "i",
+    "token" : "comes",
     "startOffset" : 7,
-    "endOffset" : 8,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "box",
-    "startOffset" : 9,
+    "token" : "come",
+    "startOffset" : 7,
     "endOffset" : 12,
-    "position" : 2
+    "position" : 1
   }, {
     "token" : "aft",
     "startOffset" : 13,
     "endOffset" : 18,
-    "position" : 3
+    "position" : 2
   }, {
-    "token" : "work",
+    "token" : "grappling",
     "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvcVgNEXFMlzHLQ7H",
-  "text" : "Suits are upper level, aft.",
-  "translations" : {
-    "russian" : "Скафандры наверху, на корме."
-  },
-  "tokens" : [ {
-    "token" : "suit",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "upper",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "level",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "aft",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvcfBNEXFMlzHLQ7b",
-  "text" : "The Captain's in aft cabin.",
-  "translations" : {
-    "russian" : "Капитан в кормовой каюте."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "captain",
-    "startOffset" : 4,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "aft",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "cabin",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglLK6NEXFMlzHLCEY",
-  "text" : "Well, after you, first chair.",
-  "translations" : {
-    "russian" : "Ну, после вас ведущий адвокат."
-  },
-  "tokens" : [ {
-    "token" : "well",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "aft",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "first",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "chair",
-    "startOffset" : 23,
     "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnFFzNEXFMlzHLE6_",
-  "text" : "And that's after my cut.",
-  "translations" : {
-    "russian" : "И это после моего пролета."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "aft",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 17,
-    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "cut",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt6C1NEXFMlzHLOIp",
-  "text" : "Come see me after class.",
-  "translations" : {
-    "russian" : "Приходите ко мне после уроков."
-  },
-  "tokens" : [ {
-    "token" : "come",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "see",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "aft",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "class",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqwuANEXFMlzHLKAe",
-  "text" : "More NFL after the break.",
-  "translations" : {
-    "russian" : "Снова про НФЛ после перерыва."
-  },
-  "tokens" : [ {
-    "token" : "more",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "nfl",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "aft",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "break",
+    "token" : "grapple",
     "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
+    "endOffset" : 28,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguETpNEXFMlzHLOZC",
-  "text" : "Sir, it's after duty hours.",
+  "id" : "AWoDvmbzDTAu_IiLePx4",
+  "text" : "Weapon comes after grappling.",
   "translations" : {
-    "russian" : "Сэр, только после дежурства."
+    "russian" : "Оружие идет после захвата."
   },
   "tokens" : [ {
-    "token" : "sir",
+    "token" : "weapon",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "it",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "token" : "comes",
+    "startOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
+  }, {
+    "token" : "come",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "aft",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "grappling",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "grapple",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFX5MfDTAu_IiLfaC-",
+  "text" : "Someone's after Jade Fox.",
+  "translations" : {
+    "russian" : "Кто-то ищет Хитрую Лису."
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
   }, {
     "token" : "aft",
     "startOffset" : 10,
     "endOffset" : 15,
-    "position" : 2
+    "position" : 1
   }, {
-    "token" : "duty",
+    "token" : "jade",
     "startOffset" : 16,
     "endOffset" : 20,
-    "position" : 3
+    "position" : 2
   }, {
-    "token" : "hour",
+    "token" : "fox",
     "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
+    "endOffset" : 24,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoFirF_DTAu_IiLfh-E",
+  "text" : "It'll be a diplomatic crisis!",
+  "translations" : {
+    "russian" : "Это будет дипломатический кризис!"
+  },
+  "tokens" : [ {
+    "token" : "it'll",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "be",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "diplomatic",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "crisis",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgny02NEXFMlzHLGCu",
   "text" : "Obviously, he has no diplomatic talents.",
   "translations" : {
@@ -33,6 +66,44 @@
     "token" : "talent",
     "startOffset" : 32,
     "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRVhTDTAu_IiLd-cj",
+  "text" : "There are diplomatic niceties to observe.",
+  "translations" : {
+    "russian" : "Соблюдаются дипломатические тонкости."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "diplomatic",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "nicety",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 30,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "observe",
+    "startOffset" : 33,
+    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null

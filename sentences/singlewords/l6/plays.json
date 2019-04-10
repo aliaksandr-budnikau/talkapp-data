@@ -1,4 +1,126 @@
 [ {
+  "id" : "AWoDcntXDTAu_IiLeFCE",
+  "text" : "LSB- Balalaika plays. -RSB.",
+  "translations" : {
+    "russian" : "Балалайка играет."
+  },
+  "tokens" : [ {
+    "token" : "lsb",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "balalaika",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "plays",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "play",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "rsb",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTL5gDTAu_IiLfWrH",
+  "text" : "Who plays scrabble?",
+  "translations" : {
+    "russian" : "Кто играет в скрабл?"
+  },
+  "tokens" : [ {
+    "token" : "who",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "plays",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "scrabble",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDeB10DTAu_IiLeFzt",
+  "text" : "He plays drums.",
+  "translations" : {
+    "russian" : "Он играет на ударных."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "plays",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "drum",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDeBcZDTAu_IiLeFza",
+  "text" : "He plays drums? Yeah.",
+  "translations" : {
+    "russian" : "Он играет на барабанах?"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "plays",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "drum",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "yeah",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdQ_CNEXFMlzHK6wo",
   "text" : "No one plays me.",
   "translations" : {
@@ -29,6 +151,366 @@
     "startOffset" : 13,
     "endOffset" : 15,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdvtMDTAu_IiLeFpo",
+  "text" : "Kermit plays a banjo.",
+  "translations" : {
+    "russian" : "Кермит играл на банджо."
+  },
+  "tokens" : [ {
+    "token" : "kermit",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "plays",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "banjo",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEzPs6DTAu_IiLe_Id",
+  "text" : "TINNY MUSIC PLAYS.",
+  "translations" : {
+    "russian" : "ИГРАЕТ МУЗЫКА."
+  },
+  "tokens" : [ {
+    "token" : "tinny",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "music",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "plays",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "play",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE86o6DTAu_IiLfFkS",
+  "text" : "Someone plays the lute.",
+  "translations" : {
+    "russian" : "Кто то играет на лютне."
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "plays",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "lute",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELgkmDTAu_IiLeh3G",
+  "text" : "And plays a nurturing role.",
+  "translations" : {
+    "russian" : "И воспитывает их?"
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "plays",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "nurture",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "role",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjeEyDTAu_IiLeI9T",
+  "text" : "RECORDER PLAYS TUNELESSLY Come in.",
+  "translations" : {
+    "russian" : "Заходите."
+  },
+  "tokens" : [ {
+    "token" : "corder",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "plays",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "tuneless",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "come",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "in",
+    "startOffset" : 31,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqOJMDTAu_IiLeMjh",
+  "text" : "And plays a nurturing role.",
+  "translations" : {
+    "russian" : "И воспитывает их?"
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "plays",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "play",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "nurture",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "role",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECFQPDTAu_IiLeaxf",
+  "text" : "And she plays the cello.",
+  "translations" : {
+    "russian" : "И играет она на виолончели."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "she",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "plays",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "play",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "cello",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEhEfDTAu_IiLfLXP",
+  "text" : "LSB- Ominous music plays -RSB.",
+  "translations" : {
+    "russian" : "Зловещая музыка играет."
+  },
+  "tokens" : [ {
+    "token" : "lsb",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ominous",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "music",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "plays",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "play",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "rsb",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEm6eeDTAu_IiLe2QE",
+  "text" : "LRB- soft jazz plays -RRB.",
+  "translations" : {
+    "russian" : "Играет мягкий джаз."
+  },
+  "tokens" : [ {
+    "token" : "lrb",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "soft",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "jazz",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "plays",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "play",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "rrb",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFW-FIDTAu_IiLfZVH",
+  "text" : "Yankees brilliantly plays the clarinet.",
+  "translations" : {
+    "russian" : "Янки блестяще играет на кларнете."
+  },
+  "tokens" : [ {
+    "token" : "yankee",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "brilliant",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "plays",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "play",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "clarinet",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -67,438 +549,6 @@
     "startOffset" : 29,
     "endOffset" : 32,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdTbmNEXFMlzHK6yy",
-  "text" : "Seldom plays and always purrs.",
-  "translations" : {
-    "russian" : "Редко резвится и всегда урчит."
-  },
-  "tokens" : [ {
-    "token" : "seldom",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "plays",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "play",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "alway",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "purr",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdOSINEXFMlzHK6uR",
-  "text" : "It's their only play.",
-  "translations" : {
-    "russian" : "Это их единственный ход."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "their",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "only",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "play",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdPcGNEXFMlzHK6vT",
-  "text" : "They're playing our song.",
-  "translations" : {
-    "russian" : "Они исполняют нашу песню."
-  },
-  "tokens" : [ {
-    "token" : "they're",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "playing",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "play",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "song",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdQ6KNEXFMlzHK6wj",
-  "text" : "Play to your strengths.",
-  "translations" : {
-    "russian" : "Используй Свои Сильные Стороны."
-  },
-  "tokens" : [ {
-    "token" : "play",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "strengths",
-    "startOffset" : 13,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdQJkNEXFMlzHK6v7",
-  "text" : "Don't play, old man.",
-  "translations" : {
-    "russian" : "Не прикидывайся, старик."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "play",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "old",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "man",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdTEnNEXFMlzHK6yd",
-  "text" : "Play next log entry.",
-  "translations" : {
-    "russian" : "Воспроизвести следующую запись журнала."
-  },
-  "tokens" : [ {
-    "token" : "play",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "next",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "log",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "entry",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggmgINEXFMlzHK9m8",
-  "text" : "I'm a player, Shawn.",
-  "translations" : {
-    "russian" : "Я игрок, Шон."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 4,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "player",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "play",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "shawn",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiiUoNEXFMlzHK_QS",
-  "text" : "I played five sets...",
-  "translations" : {
-    "russian" : "После целых пяти сетов..."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "played",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "play",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "five",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "set",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdNv7NEXFMlzHK6ty",
-  "text" : "This is my play.",
-  "translations" : {
-    "russian" : "Это же мой спектакль!"
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "play",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdP1vNEXFMlzHK6vq",
-  "text" : "No, I'm playing.",
-  "translations" : {
-    "russian" : "Нет, я прикидываюсь."
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "i'm",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "playing",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "play",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdS6HNEXFMlzHK6yV",
-  "text" : "I want eventful play!",
-  "translations" : {
-    "russian" : "Я хочу незабываемые забавы!"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "want",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "eventful",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "play",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmxzbNEXFMlzHLEeO",
-  "text" : "He played slots.",
-  "translations" : {
-    "russian" : "В автоматы играл."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "played",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "play",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "slot",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyf3sNEXFMlzHLU6n",
-  "text" : "He played with me.",
-  "translations" : {
-    "russian" : "And gave me a piggy-back rideОн играл со мной и катал меня на спине."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "played",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "play",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "with",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "me",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdOrBNEXFMlzHK6un",
-  "text" : "Playing nurse, I mean.",
-  "translations" : {
-    "russian" : "В смысле, притворялась медсестрой."
-  },
-  "tokens" : [ {
-    "token" : "playing",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "play",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "nurse",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "i",
-    "startOffset" : 15,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "mean",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

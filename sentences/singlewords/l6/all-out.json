@@ -55,6 +55,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgwNEoNEXFMlzHLR9W",
+  "text" : "All right, everybody out!",
+  "translations" : {
+    "russian" : "Хорошо, все вон!"
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "right",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "everybody",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "out",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwNMrNEXFMlzHLR9e",
   "text" : "All of you, out!",
   "translations" : {
@@ -83,30 +111,30 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwNEoNEXFMlzHLR9W",
-  "text" : "All right, everybody out!",
+  "id" : "AWoERdHTDTAu_IiLemTk",
+  "text" : "Spew it all out.",
   "translations" : {
-    "russian" : "Хорошо, все вон!"
+    "russian" : "Изрыгни, что накопилось."
   },
   "tokens" : [ {
-    "token" : "all",
+    "token" : "spew",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "right",
-    "startOffset" : 4,
-    "endOffset" : 9,
+    "token" : "it",
+    "startOffset" : 5,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "everybody",
-    "startOffset" : 11,
-    "endOffset" : 20,
+    "token" : "all",
+    "startOffset" : 8,
+    "endOffset" : 11,
     "position" : 2
   }, {
     "token" : "out",
-    "startOffset" : 21,
-    "endOffset" : 24,
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 3
   } ],
   "contentScore" : null
@@ -369,6 +397,82 @@
     "token" : "sound",
     "startOffset" : 30,
     "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSNa0DTAu_IiLd_CU",
+  "text" : "All of his alibis check out.",
+  "translations" : {
+    "russian" : "Все его алиби подтвердились."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "alibi",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "check",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "out",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmPsODTAu_IiLe1wR",
+  "text" : "I'm plucking all the hair out.",
+  "translations" : {
+    "russian" : "Я выщипаю все волосы."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pluck",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "all",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "hair",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "out",
+    "startOffset" : 26,
+    "endOffset" : 29,
     "position" : 5
   } ],
   "contentScore" : null

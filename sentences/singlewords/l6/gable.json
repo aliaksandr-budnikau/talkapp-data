@@ -1,4 +1,156 @@
 [ {
+  "id" : "AWoE0olNDTAu_IiLfAGG",
+  "text" : "G.",
+  "translations" : {
+    "russian" : "MorningДоброе."
+  },
+  "tokens" : [ {
+    "token" : "g",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0popDTAu_IiLfAG_",
+  "text" : "G.",
+  "translations" : {
+    "russian" : "Соль!"
+  },
+  "tokens" : [ {
+    "token" : "g",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0ncbDTAu_IiLfAFT",
+  "text" : "Mr. G!",
+  "translations" : {
+    "russian" : "Пан Г.!"
+  },
+  "tokens" : [ {
+    "token" : "mr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "g",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0pP_DTAu_IiLfAGt",
+  "text" : "G God!",
+  "translations" : {
+    "russian" : "Боже!"
+  },
+  "tokens" : [ {
+    "token" : "g",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "god",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0pa-DTAu_IiLfAG0",
+  "text" : "Oh, G...",
+  "translations" : {
+    "russian" : "О, Боже..."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "g",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0naPDTAu_IiLfAFR",
+  "text" : "Mr. G?",
+  "translations" : {
+    "russian" : "Да мистер Джи?"
+  },
+  "tokens" : [ {
+    "token" : "mr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "g",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0pRNDTAu_IiLfAGu",
+  "text" : "Good G.",
+  "translations" : {
+    "russian" : "Боже..."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "g",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0pfXDTAu_IiLfAG4",
+  "text" : "G, Majesty.",
+  "translations" : {
+    "russian" : "Соль, ваше величество."
+  },
+  "tokens" : [ {
+    "token" : "g",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "majesty",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0pZBDTAu_IiLfAGy",
+  "text" : "Dear g.",
+  "translations" : {
+    "russian" : "Боже мой."
+  },
+  "tokens" : [ {
+    "token" : "dear",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "g",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgckGQNEXFMlzHK6IU",
   "text" : "Give them a warning.",
   "translations" : {
@@ -226,308 +378,6 @@
     "token" : "second",
     "startOffset" : 10,
     "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgciJANEXFMlzHK6Gi",
-  "text" : "Give me that stone.",
-  "translations" : {
-    "russian" : "Подай тот камень, вон тот."
-  },
-  "tokens" : [ {
-    "token" : "give",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "g",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "stone",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcnjoNEXFMlzHK6LU",
-  "text" : "Yeah, it has give.",
-  "translations" : {
-    "russian" : "Да, у неё есть эластичность."
-  },
-  "tokens" : [ {
-    "token" : "yeah",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "has",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "give",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "g",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghAq2NEXFMlzHK99y",
-  "text" : "Give yours a heroine.",
-  "translations" : {
-    "russian" : "Твоей песне нужна героиня."
-  },
-  "tokens" : [ {
-    "token" : "give",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "g",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "heroine",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmWviNEXFMlzHLDv-",
-  "text" : "Give me another stick.",
-  "translations" : {
-    "russian" : "Дай мне ещё ветку."
-  },
-  "tokens" : [ {
-    "token" : "give",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "g",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "another",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "stick",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpfjWNEXFMlzHLIVb",
-  "text" : "Give me some credit.",
-  "translations" : {
-    "russian" : "Прояви ко мне уважение."
-  },
-  "tokens" : [ {
-    "token" : "give",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "g",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "some",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "credit",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgskLbNEXFMlzHLMnH",
-  "text" : "Give me that stone.",
-  "translations" : {
-    "russian" : "Подай тот камень, вон тот."
-  },
-  "tokens" : [ {
-    "token" : "give",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "g",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "stone",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgytlUNEXFMlzHLVGT",
-  "text" : "Give him the ticket.",
-  "translations" : {
-    "russian" : "Отдай ему талон."
-  },
-  "tokens" : [ {
-    "token" : "give",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "g",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "him",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "ticket",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpAmvNEXFMlzHLHs_",
-  "text" : "Give me some cover!",
-  "translations" : {
-    "russian" : "Дайте мне какую-нибудь крышку!"
-  },
-  "tokens" : [ {
-    "token" : "give",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "g",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "some",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "cover",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "cove",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpfCJNEXFMlzHLIUx",
-  "text" : "Give me some credit.",
-  "translations" : {
-    "russian" : "Прояви хоть немного доверия."
-  },
-  "tokens" : [ {
-    "token" : "give",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "g",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "some",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "credit",
-    "startOffset" : 13,
-    "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null

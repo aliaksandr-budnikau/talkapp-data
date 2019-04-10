@@ -1,489 +1,237 @@
 [ {
-  "id" : "AWbgsSEbNEXFMlzHLMOK",
-  "text" : "One for sponsorship, one for donations.",
+  "id" : "AWoDoar9DTAu_IiLeLnJ",
+  "text" : "Charge forth fearlessly.",
   "translations" : {
-    "russian" : "Один на спонсорство, другой для пожертвований."
+    "russian" : "Бесстрашно двигайся вперед."
   },
   "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "sponsorship",
-    "startOffset" : 8,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "one",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "for",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "donate",
-    "startOffset" : 29,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdVVeNEXFMlzHK60g",
-  "text" : "A present for you.",
-  "translations" : {
-    "russian" : "Я вам их подарю."
-  },
-  "tokens" : [ {
-    "token" : "a",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "present",
-    "startOffset" : 2,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkSr7NEXFMlzHLAyx",
-  "text" : "Just fuel for survival.",
-  "translations" : {
-    "russian" : "Просто горючее для выживания."
-  },
-  "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "fuel",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "survival",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglfbwNEXFMlzHLCoW",
-  "text" : "How's that for leverage?",
-  "translations" : {
-    "russian" : "Как тебе такой козырь?"
-  },
-  "tokens" : [ {
-    "token" : "how",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "leverage",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnGXFNEXFMlzHLE8p",
-  "text" : "Chef, garnish for lamb.",
-  "translations" : {
-    "russian" : "Шеф, гарнир к ягненку."
-  },
-  "tokens" : [ {
-    "token" : "chef",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "garnish",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "lamb",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnQ_uNEXFMlzHLFKQ",
-  "text" : "Prepare for universal detonation!",
-  "translations" : {
-    "russian" : "Подготовьтесь к запуску на всю вселенную!"
-  },
-  "tokens" : [ {
-    "token" : "prepare",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "universal",
-    "startOffset" : 12,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "detonation",
-    "startOffset" : 22,
-    "endOffset" : 32,
-    "position" : 3
-  }, {
-    "token" : "detonate",
-    "startOffset" : 22,
-    "endOffset" : 32,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnzDANEXFMlzHLGDI",
-  "text" : "Money waits for talent.",
-  "translations" : {
-    "russian" : "Талантливый человек всегда заработает."
-  },
-  "tokens" : [ {
-    "token" : "money",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "wait",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "talent",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgn7t3NEXFMlzHLGRB",
-  "text" : "That's for your circulation.",
-  "translations" : {
-    "russian" : "Это для твоего кровообращения."
-  },
-  "tokens" : [ {
-    "token" : "that",
+    "token" : "charge",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
+    "token" : "forth",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
     "token" : "for",
     "startOffset" : 7,
-    "endOffset" : 10,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "your",
-    "startOffset" : 11,
-    "endOffset" : 15,
+    "token" : "fearless",
+    "startOffset" : 13,
+    "endOffset" : 23,
     "position" : 2
-  }, {
-    "token" : "circulation",
-    "startOffset" : 16,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "circulate",
-    "startOffset" : 16,
-    "endOffset" : 27,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgopcwNEXFMlzHLHO4",
-  "text" : "Stop for a minute.",
+  "id" : "AWoEpODvDTAu_IiLe4BA",
+  "text" : "Bring forth the fowl.",
   "translations" : {
-    "russian" : "Сделай перерыв на две минуты!"
+    "russian" : "Просит дать ей птицу."
   },
   "tokens" : [ {
-    "token" : "stop",
+    "token" : "bring",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "for",
-    "startOffset" : 5,
-    "endOffset" : 8,
+    "token" : "forth",
+    "startOffset" : 6,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "minute",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgo31fNEXFMlzHLHi2",
-  "text" : "Beer for the Berliner.",
-  "translations" : {
-    "russian" : "Пива берлинцу."
-  },
-  "tokens" : [ {
-    "token" : "beer",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "bee",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
     "token" : "for",
-    "startOffset" : 5,
-    "endOffset" : 8,
+    "startOffset" : 6,
+    "endOffset" : 11,
     "position" : 1
   }, {
     "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "berliner",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "berlin",
-    "startOffset" : 13,
-    "endOffset" : 21,
+    "token" : "fowl",
+    "startOffset" : 16,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpVfCNEXFMlzHLIHP",
-  "text" : "Sponsor pays for airtime.",
+  "id" : "AWoFELXxDTAu_IiLfLH8",
+  "text" : "Then forth, dear countrymen.",
   "translations" : {
-    "russian" : "Спонсор платит за эфир."
+    "russian" : "За дело, земляки!"
   },
   "tokens" : [ {
-    "token" : "sponsor",
+    "token" : "th",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "pay",
-    "startOffset" : 8,
-    "endOffset" : 12,
+    "token" : "forth",
+    "startOffset" : 5,
+    "endOffset" : 10,
     "position" : 1
   }, {
     "token" : "for",
-    "startOffset" : 13,
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "dear",
+    "startOffset" : 12,
     "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "airtime",
+    "token" : "countrymen",
     "startOffset" : 17,
-    "endOffset" : 24,
+    "endOffset" : 27,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpdUVNEXFMlzHLISZ",
-  "text" : "We were for credit.",
+  "id" : "AWoE3JwODTAu_IiLfBzR",
+  "text" : "Go forth and conquer.",
   "translations" : {
-    "russian" : "Мы были для кредита."
+    "russian" : "Иди вперед и побеждай."
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "go",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "were",
+    "token" : "forth",
     "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "credit",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpjM1NEXFMlzHLIaq",
-  "text" : "For feeding fish farms.",
-  "translations" : {
-    "russian" : "Для кормления рыбных ферм."
-  },
-  "tokens" : [ {
-    "token" : "for",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "feeding",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "feed",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "fish",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "farm",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrTePNEXFMlzHLKzp",
-  "text" : "Thanks for the potatoes.",
-  "translations" : {
-    "russian" : "Это в благодарность за картошку."
-  },
-  "tokens" : [ {
-    "token" : "thank",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "potatoes",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsNmXNEXFMlzHLMHy",
-  "text" : "For your generation's deeds?",
-  "translations" : {
-    "russian" : "За дела твоего поколения?"
-  },
-  "tokens" : [ {
-    "token" : "for",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "generation",
+    "token" : "for",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "and",
     "startOffset" : 9,
-    "endOffset" : 21,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "ed",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "deed",
-    "startOffset" : 22,
-    "endOffset" : 27,
+    "token" : "conquer",
+    "startOffset" : 13,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguB16NEXFMlzHLOVX",
-  "text" : "You're rooting for Marshall? !",
+  "id" : "AWoE3ZPyDTAu_IiLfB96",
+  "text" : "Go forth and conquer.",
   "translations" : {
-    "russian" : "Ты поддерживаешь Маршалла?"
+    "russian" : "Иди вперед и побеждай."
   },
   "tokens" : [ {
-    "token" : "you're",
+    "token" : "go",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "forth",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "conquer",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDUypIDTAu_IiLeAuo",
+  "text" : "Go forth, and do likewise.",
+  "translations" : {
+    "russian" : "Вперед и далее подобным образом."
+  },
+  "tokens" : [ {
+    "token" : "go",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "forth",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "do",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "likewise",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjI94DTAu_IiLfiRw",
+  "text" : "Ritual blood-letting, so forth.",
+  "translations" : {
+    "russian" : "Ритуальное кровопускание и все такое."
+  },
+  "tokens" : [ {
+    "token" : "ritual",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "root",
+    "token" : "blood",
     "startOffset" : 7,
-    "endOffset" : 14,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "for",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "token" : "letting",
+    "startOffset" : 13,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "marshall",
-    "startOffset" : 19,
-    "endOffset" : 27,
+    "token" : "so",
+    "startOffset" : 22,
+    "endOffset" : 24,
     "position" : 3
+  }, {
+    "token" : "forth",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "for",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

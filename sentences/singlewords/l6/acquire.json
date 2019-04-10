@@ -1,4 +1,75 @@
 [ {
+  "id" : "AWoFA10EDTAu_IiLfIrG",
+  "text" : "Acquire headpiece, Staff of Ra.",
+  "translations" : {
+    "russian" : "Обнаружен набалдашник посоха Ра."
+  },
+  "tokens" : [ {
+    "token" : "acquire",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "headpiece",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "staff",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "ra",
+    "startOffset" : 28,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWa77DTAu_IiLeBrP",
+  "text" : "It's an acquired taste, like anchovies.",
+  "translations" : {
+    "russian" : "К нему хорошо подойдут анчоусы."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "acquire",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "taste",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "like",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "anchovy",
+    "startOffset" : 29,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnaMANEXFMlzHLFZm",
   "text" : "I'm... an acquired taste, no question.",
   "translations" : {
@@ -33,6 +104,44 @@
     "token" : "question",
     "startOffset" : 29,
     "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFB7cMDTAu_IiLfJe_",
+  "text" : "You acquire them and drain them!",
+  "translations" : {
+    "russian" : "Покупаете и вжимаете из них всё сок, кровь, пот!"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "acquire",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "them",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "drain",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "them",
+    "startOffset" : 27,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

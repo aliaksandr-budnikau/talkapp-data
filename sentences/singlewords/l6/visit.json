@@ -83,6 +83,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEjRKHDTAu_IiLezhd",
+  "text" : "And my subsequent visit.",
+  "translations" : {
+    "russian" : "И мой последующий визит."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "subsequent",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "visit",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpQ-UDTAu_IiLe4DE",
+  "text" : "Bathroom visits and duration.",
+  "translations" : {
+    "russian" : "Посещения ванной... и продолжительность."
+  },
+  "tokens" : [ {
+    "token" : "bathroom",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "visit",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "duration",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfCrhNEXFMlzHK8Rm",
   "text" : "Visiting hours, yeah.",
   "translations" : {
@@ -168,6 +224,34 @@
     "token" : "me",
     "startOffset" : 15,
     "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYB-KDTAu_IiLeCWU",
+  "text" : "Pa's visiting his tenants.",
+  "translations" : {
+    "russian" : "Это папашины арендаторы."
+  },
+  "tokens" : [ {
+    "token" : "pa",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "visit",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "tenant",
+    "startOffset" : 18,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
@@ -327,172 +411,68 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgfDNNNEXFMlzHK8SF",
-  "text" : "We're gonna come visit though.",
+  "id" : "AWoDwJOJDTAu_IiLeQGq",
+  "text" : "What about a conjugal visit?",
   "translations" : {
-    "russian" : "Мы прилетим в гости."
+    "russian" : "Как насчет супружеского визита?"
   },
   "tokens" : [ {
-    "token" : "we're",
+    "token" : "what",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "gonna",
-    "startOffset" : 6,
-    "endOffset" : 11,
+    "token" : "about",
+    "startOffset" : 5,
+    "endOffset" : 10,
     "position" : 1
-  }, {
-    "token" : "come",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "visit",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "though",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfDqDNEXFMlzHK8Sf",
-  "text" : "I'm here to visit Charlie.",
-  "translations" : {
-    "russian" : "Я здесь чтобы проведать Чарли!"
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "here",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "visit",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "charlie",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrieUNEXFMlzHLLJr",
-  "text" : "Let's pay him a visit.",
-  "translations" : {
-    "russian" : "Давайте нанесём ему визит."
-  },
-  "tokens" : [ {
-    "token" : "let",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "pay",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
   }, {
     "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
   }, {
-    "token" : "visit",
-    "startOffset" : 16,
+    "token" : "conjugal",
+    "startOffset" : 13,
     "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "visit",
+    "startOffset" : 22,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgfDeyNEXFMlzHK8SV",
-  "text" : "Then I'll come and visit.",
+  "id" : "AWoDwJBCDTAu_IiLeQGi",
+  "text" : "This ain't a conjugal visit.",
   "translations" : {
-    "russian" : "Тогда я приду Вас проведать."
+    "russian" : "Это не супружеский визит."
   },
   "tokens" : [ {
-    "token" : "th",
+    "token" : "this",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "i'll",
+    "token" : "ain't",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "come",
-    "startOffset" : 10,
-    "endOffset" : 14,
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "and",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "token" : "conjugal",
+    "startOffset" : 13,
+    "endOffset" : 21,
     "position" : 3
   }, {
     "token" : "visit",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfEuqNEXFMlzHK8Tc",
-  "text" : "I've once visited Paris myself.",
-  "translations" : {
-    "russian" : "Я однажды бывал в Париже."
-  },
-  "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "once",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "visited",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "visit",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "paris",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "myself",
-    "startOffset" : 24,
-    "endOffset" : 30,
+    "startOffset" : 22,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null

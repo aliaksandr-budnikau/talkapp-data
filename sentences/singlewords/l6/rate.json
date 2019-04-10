@@ -1,4 +1,106 @@
 [ {
+  "id" : "AWoD2UYnDTAu_IiLeTSK",
+  "text" : "Rapid heart rate.",
+  "translations" : {
+    "russian" : "Учащённое сердцебиение."
+  },
+  "tokens" : [ {
+    "token" : "rapid",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "heart",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "rate",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnH2vDTAu_IiLeK9f",
+  "text" : "Weak, erratic heart rate.",
+  "translations" : {
+    "russian" : "Слабый, неустойчивый сердечный ритм."
+  },
+  "tokens" : [ {
+    "token" : "weak",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "erratic",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "heart",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "rate",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDg8oODTAu_IiLeHgm",
+  "text" : "Rapid heart rate.",
+  "translations" : {
+    "russian" : "Учащённое сердцебиение."
+  },
+  "tokens" : [ {
+    "token" : "rapid",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "heart",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "rate",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFY_KhDTAu_IiLfa9j",
+  "text" : "Rate of oscillation.",
+  "translations" : {
+    "russian" : "Оценка колебаний."
+  },
+  "tokens" : [ {
+    "token" : "rate",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "oscillation",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "oscillate",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgq4dfNEXFMlzHLKLW",
   "text" : "Can I double his rate?",
   "translations" : {
@@ -28,6 +130,105 @@
     "token" : "rate",
     "startOffset" : 17,
     "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZk05DTAu_IiLeDOJ",
+  "text" : "I'm a third-Rate artist.",
+  "translations" : {
+    "russian" : "Я третье-сортная художница."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "third",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "rate",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "artist",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmaHdDTAu_IiLe14G",
+  "text" : "What's our rate of descent?",
+  "translations" : {
+    "russian" : "Какая у нас скорость снижения?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "our",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "rate",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "descent",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGHEIDTAu_IiLfMgR",
+  "text" : "This is first-rate idiocy!",
+  "translations" : {
+    "russian" : "Это идиотизм в высшей степени!"
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "first",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "rate",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "idiocy",
+    "startOffset" : 19,
+    "endOffset" : 25,
     "position" : 4
   } ],
   "contentScore" : null
@@ -128,6 +329,82 @@
     "startOffset" : 29,
     "endOffset" : 34,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwfDBDTAu_IiLe9GC",
+  "text" : "Blood pressure, respiration, rate of contractions.",
+  "translations" : {
+    "russian" : "Кровяное давление, дыхание, скорость сокращения."
+  },
+  "tokens" : [ {
+    "token" : "blood",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pressure",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "respiration",
+    "startOffset" : 16,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "rate",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 34,
+    "endOffset" : 36,
+    "position" : 4
+  }, {
+    "token" : "traction",
+    "startOffset" : 37,
+    "endOffset" : 49,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEajS9DTAu_IiLes8P",
+  "text" : "Ghetto drug stuff just doesn't rate.",
+  "translations" : {
+    "russian" : "Все, что касается наркотиков в трущобах, просто не идет в зачет."
+  },
+  "tokens" : [ {
+    "token" : "ghetto",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "drug",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "stuff",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "just",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "doesn't",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "rate",
+    "startOffset" : 31,
+    "endOffset" : 35,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

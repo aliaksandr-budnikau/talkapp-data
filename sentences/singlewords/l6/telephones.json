@@ -1,4 +1,103 @@
 [ {
+  "id" : "AWoEjyMSDTAu_IiLez9A",
+  "text" : "Dot, telephone Mr Butler.",
+  "translations" : {
+    "russian" : "Дот, звони мистеру Батлеру."
+  },
+  "tokens" : [ {
+    "token" : "dot",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "telephone",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "mr",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "butler",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFacG0DTAu_IiLfcLW",
+  "text" : "Telephone switchboard. Information counter.",
+  "translations" : {
+    "russian" : "Телефонный коммутатор, справочное бюро."
+  },
+  "tokens" : [ {
+    "token" : "telephone",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "switchboard",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "information",
+    "startOffset" : 23,
+    "endOffset" : 34,
+    "position" : 2
+  }, {
+    "token" : "formation",
+    "startOffset" : 23,
+    "endOffset" : 34,
+    "position" : 2
+  }, {
+    "token" : "counter",
+    "startOffset" : 35,
+    "endOffset" : 42,
+    "position" : 3
+  }, {
+    "token" : "count",
+    "startOffset" : 35,
+    "endOffset" : 42,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmVJNDTAu_IiLeKhk",
+  "text" : "Technically, in a telephone kiosk.",
+  "translations" : {
+    "russian" : "Технически говоря, в телефонной будке."
+  },
+  "tokens" : [ {
+    "token" : "technical",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "telephone",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "kiosk",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiRUeNEXFMlzHK_Bn",
   "text" : "I mean your telephone number.",
   "translations" : {
@@ -32,6 +131,39 @@
   }, {
     "token" : "numb",
     "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjbI7DTAu_IiLfic3",
+  "text" : "Mr. Meek has just telephoned.",
+  "translations" : {
+    "russian" : "Мистер Мик только что звонил."
+  },
+  "tokens" : [ {
+    "token" : "mr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "meek",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "just",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "telephone",
+    "startOffset" : 18,
     "endOffset" : 28,
     "position" : 4
   } ],
@@ -71,6 +203,158 @@
     "token" : "call",
     "startOffset" : 37,
     "endOffset" : 42,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUTMXDTAu_IiLfXeV",
+  "text" : "I got their damn telephone directory.",
+  "translations" : {
+    "russian" : "Я спёр их телефонный справочник."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "their",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "damn",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "telephone",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "directory",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUTKTDTAu_IiLfXeT",
+  "text" : "A mango. And... a telephone directory.",
+  "translations" : {
+    "russian" : "Манго... и телефонный справочник."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "mango",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "telephone",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "directory",
+    "startOffset" : 28,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUTZJDTAu_IiLfXef",
+  "text" : "I'm still in the telephone directory.",
+  "translations" : {
+    "russian" : "Я до сих пор в телефонном справочнике."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "still",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "telephone",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "directory",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUUgeDTAu_IiLfXfN",
+  "text" : "We'll start with the telephone directory.",
+  "translations" : {
+    "russian" : "Начнем с телефонного каталога."
+  },
+  "tokens" : [ {
+    "token" : "we'll",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "start",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "telephone",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "directory",
+    "startOffset" : 31,
+    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null

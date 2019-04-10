@@ -1,4 +1,185 @@
 [ {
+  "id" : "AWoDupuEDTAu_IiLePMp",
+  "text" : "Bind... gab.",
+  "translations" : {
+    "russian" : "Связь... болтовня."
+  },
+  "tokens" : [ {
+    "token" : "bind",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "gab",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgRf5DTAu_IiLexIK",
+  "text" : "Nothing binds me.",
+  "translations" : {
+    "russian" : "Ничто не связывает меня."
+  },
+  "tokens" : [ {
+    "token" : "nothing",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "binds",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "bind",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgQaCDTAu_IiLexHR",
+  "text" : "We'd better bind him.",
+  "translations" : {
+    "russian" : "Надо его связать."
+  },
+  "tokens" : [ {
+    "token" : "we'd",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "better",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "bind",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "him",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgQecDTAu_IiLexHU",
+  "text" : "You two, bind her!",
+  "translations" : {
+    "russian" : "Вы двое, связать её!"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "two",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "bind",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "her",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgR4UDTAu_IiLexIe",
+  "text" : "This will bind us.",
+  "translations" : {
+    "russian" : "Это будет нас связывать."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "bind",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "us",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuprzDTAu_IiLePMo",
+  "text" : "The Guns Bind Gab.",
+  "translations" : {
+    "russian" : "Оружие Связь Болтовня."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gun",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "bind",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "gab",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDupv1DTAu_IiLePMq",
+  "text" : "Guns bind gab.",
+  "translations" : {
+    "russian" : "Оружие, связь, болтовня."
+  },
+  "tokens" : [ {
+    "token" : "gun",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bind",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "gab",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjyRgNEXFMlzHLAT_",
   "text" : "It has a binding effect.",
   "translations" : {
@@ -66,6 +247,44 @@
     "token" : "us",
     "startOffset" : 19,
     "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgRUaDTAu_IiLexIB",
+  "text" : "We have a binding contract.",
+  "translations" : {
+    "russian" : "У нас с Вами обязательный договор."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "binding",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "bind",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "contract",
+    "startOffset" : 18,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null
@@ -142,6 +361,44 @@
     "token" : "call",
     "startOffset" : 29,
     "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgR2HDTAu_IiLexIc",
+  "text" : "You will not bind his hands!",
+  "translations" : {
+    "russian" : "Не смей связывать ему руки!"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bind",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "his",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "hand",
+    "startOffset" : 22,
+    "endOffset" : 27,
     "position" : 5
   } ],
   "contentScore" : null

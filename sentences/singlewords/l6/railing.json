@@ -88,6 +88,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDjXQgDTAu_IiLeI5h",
+  "text" : "Thoughtless and derailed.",
+  "translations" : {
+    "russian" : "Безрассудная и беспутная."
+  },
+  "tokens" : [ {
+    "token" : "thoughtless",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "rail",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyCChNEXFMlzHLUIB",
   "text" : "All right, use the rail.",
   "translations" : {
@@ -188,6 +211,39 @@
     "token" : "rail",
     "startOffset" : 23,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETa98DTAu_IiLenyX",
+  "text" : "You'll retire from rail service.",
+  "translations" : {
+    "russian" : "Уволишься с железной дороги."
+  },
+  "tokens" : [ {
+    "token" : "you'll",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "retire",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "from",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "rail",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "service",
+    "startOffset" : 24,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null
@@ -420,44 +476,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyBrFNEXFMlzHLUHR",
-  "text" : "There is no third rail, Hannah.",
-  "translations" : {
-    "russian" : "Здесь нет третьего рельса, Ханна."
-  },
-  "tokens" : [ {
-    "token" : "there",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "no",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "third",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "rail",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "hannah",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgyB2zNEXFMlzHLUHo",
   "text" : "Lucy's gone off the rails, Jules.",
   "translations" : {
@@ -492,6 +510,44 @@
     "token" : "jule",
     "startOffset" : 27,
     "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyBrFNEXFMlzHLUHR",
+  "text" : "There is no third rail, Hannah.",
+  "translations" : {
+    "russian" : "Здесь нет третьего рельса, Ханна."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "third",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "rail",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "hannah",
+    "startOffset" : 24,
+    "endOffset" : 30,
     "position" : 5
   } ],
   "contentScore" : null

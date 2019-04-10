@@ -65,6 +65,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFEQ0NDTAu_IiLfLLu",
+  "text" : "Ooh, earth-friendly cereals.",
+  "translations" : {
+    "russian" : "О, экологически чистая крупа."
+  },
+  "tokens" : [ {
+    "token" : "ooh",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "earth",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ear",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "friendly",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "friend",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "cereal",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjr32NEXFMlzHLAOX",
   "text" : "You think it's friendly?",
   "translations" : {
@@ -359,166 +397,193 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsa3KNEXFMlzHLMal",
-  "text" : "I'm not her friend.",
+  "id" : "AWoFRF0rDTAu_IiLfVGA",
+  "text" : "You are friendly, like cacti.",
   "translations" : {
-    "russian" : "Я не её подруга."
+    "russian" : "Вы дружественны, как кактусы."
   },
   "tokens" : [ {
-    "token" : "i'm",
+    "token" : "you",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "not",
+    "token" : "are",
     "startOffset" : 4,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "her",
+    "token" : "friendly",
     "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "friend",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpow8NEXFMlzHLIif",
-  "text" : "Hmm... my room... friend.",
-  "translations" : {
-    "russian" : "Хм... моя подруга... по квартире."
-  },
-  "tokens" : [ {
-    "token" : "hmm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "room",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "friend",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsa8iNEXFMlzHLMas",
-  "text" : "Hello, Ron's friend.",
-  "translations" : {
-    "russian" : "Привет, подруга Рона."
-  },
-  "tokens" : [ {
-    "token" : "hello",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "ron",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "friend",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsbNoNEXFMlzHLMbF",
-  "text" : "Nobody's getting lynched, friend.",
-  "translations" : {
-    "russian" : "Приятель, сегодня никто никого не линчует."
-  },
-  "tokens" : [ {
-    "token" : "nobody",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "getting",
-    "startOffset" : 9,
     "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "lynch",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "friend",
-    "startOffset" : 26,
-    "endOffset" : 32,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsb6DNEXFMlzHLMcC",
-  "text" : "Not mine, my friend's.",
-  "translations" : {
-    "russian" : "Не мое, коллеги."
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "mine",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "friend",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsbnANEXFMlzHLMbt",
-  "text" : "I had a friend...",
-  "translations" : {
-    "russian" : "У меня был товарищ..."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "had",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 6,
-    "endOffset" : 7,
     "position" : 2
   }, {
     "token" : "friend",
     "startOffset" : 8,
-    "endOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "like",
+    "startOffset" : 18,
+    "endOffset" : 22,
     "position" : 3
+  }, {
+    "token" : "cacti",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqjHeDTAu_IiLeMvi",
+  "text" : "We were friendly and courteous.",
+  "translations" : {
+    "russian" : "Мы общались дружелюбно и учтиво."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "were",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "friendly",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "friend",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "courteous",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDXuPgDTAu_IiLeCNF",
+  "text" : "We're just... Friendly little argument.",
+  "translations" : {
+    "russian" : "Мы просто немного поспорили."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "friendly",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "friend",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "little",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "argument",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7SbyDTAu_IiLeVnL",
+  "text" : "We were friendly and courteous.",
+  "translations" : {
+    "russian" : "Мы общались дружелюбно и учтиво."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "were",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "friendly",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "friend",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "courteous",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ8qsDTAu_IiLfU-s",
+  "text" : "You are friendly, like cacti.",
+  "translations" : {
+    "russian" : "Вы дружественны, как кактусы."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "friendly",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "friend",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "like",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "cacti",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

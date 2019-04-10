@@ -167,6 +167,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFRe3VDTAu_IiLfVZk",
+  "text" : "The beggar is Calcutta.",
+  "translations" : {
+    "russian" : "Нищая это Калькутта."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "beggar",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "calcutta",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtJGxNEXFMlzHLNXL",
   "text" : "He's the beggar thief, sir.",
   "translations" : {
@@ -304,6 +332,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEKk0pDTAu_IiLehHN",
+  "text" : "Really? Hustlers, beggars, and pickpockets.",
+  "translations" : {
+    "russian" : "Мошенников, нищих и карманников."
+  },
+  "tokens" : [ {
+    "token" : "ally",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "hustle",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "beggar",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "pickpocket",
+    "startOffset" : 31,
+    "endOffset" : 42,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtJlhNEXFMlzHLNXr",
   "text" : "We are not beggars or criminals.",
   "translations" : {
@@ -418,40 +479,40 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtJRBNEXFMlzHLNXU",
-  "text" : "Leave the crippled beggar to me.",
+  "id" : "AWoE2yr_DTAu_IiLfBkE",
+  "text" : "His success makes other beggars envious.",
   "translations" : {
-    "russian" : "Предоставьте увечного нищего мне."
+    "russian" : "Его успех вызывает у других нищих зависть."
   },
   "tokens" : [ {
-    "token" : "leave",
+    "token" : "his",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 6,
-    "endOffset" : 9,
+    "token" : "success",
+    "startOffset" : 4,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "cripple",
-    "startOffset" : 10,
-    "endOffset" : 18,
+    "token" : "make",
+    "startOffset" : 12,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "beggar",
-    "startOffset" : 19,
-    "endOffset" : 25,
+    "token" : "other",
+    "startOffset" : 18,
+    "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "to",
-    "startOffset" : 26,
-    "endOffset" : 28,
+    "token" : "beggar",
+    "startOffset" : 24,
+    "endOffset" : 31,
     "position" : 4
   }, {
-    "token" : "me",
-    "startOffset" : 29,
-    "endOffset" : 31,
+    "token" : "envious",
+    "startOffset" : 32,
+    "endOffset" : 39,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,38 +1,563 @@
 [ {
-  "id" : "AWbgbRJQNEXFMlzHK49n",
-  "text" : "Five times in South Africa.",
+  "id" : "AWoDal1zDTAu_IiLeD3Y",
+  "text" : "South Athabascan!",
   "translations" : {
-    "russian" : "В Южной Африке принято 5 раз."
+    "russian" : "Южный Атапаск!"
   },
   "tokens" : [ {
-    "token" : "five",
+    "token" : "south",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "sou",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "athabascan",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5s1mDTAu_IiLeU1j",
+  "text" : "Waterloo Station, south entrance.",
+  "translations" : {
+    "russian" : "Вокзал Ватерлоо, южный вход."
+  },
+  "tokens" : [ {
+    "token" : "waterloo",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "station",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "south",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "sou",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "entrance",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDg82JDTAu_IiLeHgu",
+  "text" : "Rapid City, South Dakota.",
+  "translations" : {
+    "russian" : "Рапид-Сити, Южная Дакота."
+  },
+  "tokens" : [ {
+    "token" : "rapid",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "city",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "south",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "sou",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "dakota",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFerWUDTAu_IiLffX7",
+  "text" : "Secure the south hallways.",
+  "translations" : {
+    "russian" : "Осмотри южный проход."
+  },
+  "tokens" : [ {
+    "token" : "secure",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "south",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "sou",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "hallway",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2UqNDTAu_IiLeTSS",
+  "text" : "Rapid City, South Dakota.",
+  "translations" : {
+    "russian" : "Рапид-Сити, Южная Дакота."
+  },
+  "tokens" : [ {
+    "token" : "rapid",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "city",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "south",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "sou",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "dakota",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvn9aDTAu_IiLe8cW",
+  "text" : "Cold Oak, South Dakota.",
+  "translations" : {
+    "russian" : "Колд Оак, Южная Дакота."
+  },
+  "tokens" : [ {
+    "token" : "cold",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "time",
+    "token" : "oak",
     "startOffset" : 5,
-    "endOffset" : 10,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "in",
-    "startOffset" : 11,
-    "endOffset" : 13,
+    "token" : "south",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "sou",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "dakota",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXiGzDTAu_IiLeq4u",
+  "text" : "South Vietnamese, 1 1.",
+  "translations" : {
+    "russian" : "Южно вьетнамцев, 1 1."
+  },
+  "tokens" : [ {
+    "token" : "south",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "sou",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "vietnamese",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "1",
+    "startOffset" : 18,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "1",
+    "startOffset" : 20,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDfvnpDTAu_IiLeGz6",
+  "text" : "Head to the South Lawn!",
+  "translations" : {
+    "russian" : "Бегом на южную лужайку!"
+  },
+  "tokens" : [ {
+    "token" : "head",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
     "position" : 2
   }, {
     "token" : "south",
-    "startOffset" : 14,
-    "endOffset" : 19,
+    "startOffset" : 12,
+    "endOffset" : 17,
     "position" : 3
   }, {
     "token" : "sou",
-    "startOffset" : 14,
-    "endOffset" : 19,
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "lawn",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwN86DTAu_IiLeQJZ",
+  "text" : "Hong Kong, Brazil, South Africa.",
+  "translations" : {
+    "russian" : "Бразилия! ЮАР! Да какая разница!"
+  },
+  "tokens" : [ {
+    "token" : "hong",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "kong",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "brazil",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "south",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "sou",
+    "startOffset" : 19,
+    "endOffset" : 24,
     "position" : 3
   }, {
     "token" : "africa",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESejzDTAu_IiLenEc",
+  "text" : "I'm convalescing in the south.",
+  "translations" : {
+    "russian" : "Я выздоравливаю на юге."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "convalesce",
+    "startOffset" : 4,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "the",
     "startOffset" : 20,
-    "endOffset" : 26,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "south",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "sou",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYkoRDTAu_IiLernn",
+  "text" : "South-southwesterly, gale force seven.",
+  "translations" : {
+    "russian" : "Юго-юго-западный, шторм семь баллов."
+  },
+  "tokens" : [ {
+    "token" : "south",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "sou",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "southwester",
+    "startOffset" : 6,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "gale",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "force",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "seven",
+    "startOffset" : 32,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPpVaDTAu_IiLd9UA",
+  "text" : "Indian, South African, Sudanese, Australian...",
+  "translations" : {
+    "russian" : "Чего? Индусы, южноафриканцы, суданцы, австралийцы... говно, а не народ."
+  },
+  "tokens" : [ {
+    "token" : "indian",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "south",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "sou",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "african",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "sudanese",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "australian",
+    "startOffset" : 33,
+    "endOffset" : 43,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEj7CoDTAu_IiLe0DP",
+  "text" : "Due south, towards the palace.",
+  "translations" : {
+    "russian" : "На юг, к замку."
+  },
+  "tokens" : [ {
+    "token" : "due",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "south",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "sou",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "towards",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "palace",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQr9JDTAu_IiLfUxI",
+  "text" : "We come from South Yorkshire.",
+  "translations" : {
+    "russian" : "Мы приехали из Южного Йоркшира."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "come",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "from",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "south",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "sou",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "yorkshire",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDR_k6DTAu_IiLd-5C",
+  "text" : "The south, minus the accent.",
+  "translations" : {
+    "russian" : "С юга, где нет акцента."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "south",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "sou",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "minus",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "accent",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESds3DTAu_IiLenDu",
+  "text" : "I'm convalescing in the south.",
+  "translations" : {
+    "russian" : "Я выздоравливаю на юге."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "convalesce",
+    "startOffset" : 4,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "south",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "sou",
+    "startOffset" : 24,
+    "endOffset" : 29,
     "position" : 4
   } ],
   "contentScore" : null

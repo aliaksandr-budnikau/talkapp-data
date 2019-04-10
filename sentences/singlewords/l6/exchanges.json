@@ -1,4 +1,106 @@
 [ {
+  "id" : "AWoETfu9DTAu_IiLen2J",
+  "text" : "Labour exchange?",
+  "translations" : {
+    "russian" : "Биржу труда?"
+  },
+  "tokens" : [ {
+    "token" : "labour",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "exchange",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbaoyDTAu_IiLetgV",
+  "text" : "Exchange garlands for now.",
+  "translations" : {
+    "russian" : "А сейчас обменяйтесь гирляндами."
+  },
+  "tokens" : [ {
+    "token" : "exchange",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "garland",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "now",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD29frDTAu_IiLeTll",
+  "text" : "Exchange bureau, Sir.",
+  "translations" : {
+    "russian" : "Обменный пункт, месье."
+  },
+  "tokens" : [ {
+    "token" : "exchange",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "bureau",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "sir",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfXSjDTAu_IiLewaR",
+  "text" : "The Exchange was just robbed.",
+  "translations" : {
+    "russian" : "Биржа ограблена."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "exchange",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "just",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "robbed",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgk1CDNEXFMlzHLBdo",
   "text" : "Indigenous currency retrieval and exchange.",
   "translations" : {
@@ -29,6 +131,191 @@
     "startOffset" : 34,
     "endOffset" : 42,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRV4IDTAu_IiLd-cy",
+  "text" : "We didn't exactly exchange niceties.",
+  "translations" : {
+    "russian" : "Любезностями обменяться не удалось."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "didn't",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "exactly",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "exact",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "exchange",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "nicety",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9Iv_DTAu_IiLfFuR",
+  "text" : "No substitutions, exchanges or refunds.",
+  "translations" : {
+    "russian" : "Никаких замен, возвратов и компенсаций.Теперь я знаю, что сплю."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "substitute",
+    "startOffset" : 3,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "exchange",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "or",
+    "startOffset" : 28,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "fund",
+    "startOffset" : 31,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETf2xDTAu_IiLen2O",
+  "text" : "PA'Number Two to the labour exchange.",
+  "translations" : {
+    "russian" : "Вызываю номер два. Ваш ждут на бирже труда."
+  },
+  "tokens" : [ {
+    "token" : "pa'number",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "two",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "labour",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "exchange",
+    "startOffset" : 28,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbammDTAu_IiLetgU",
+  "text" : "Should they exchange garlands now? Yes.",
+  "translations" : {
+    "russian" : "Теперь им нужно обменяться гирляндами?"
+  },
+  "tokens" : [ {
+    "token" : "should",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "they",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "exchange",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "garland",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "now",
+    "startOffset" : 30,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "yes",
+    "startOffset" : 35,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoENXjLDTAu_IiLejVV",
+  "text" : "All they exchanged were bodily fluids.",
+  "translations" : {
+    "russian" : "Всё, чем они там обменивались, это телесные жидкости."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "they",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "exchange",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "were",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "bodily",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "fluid",
+    "startOffset" : 31,
+    "endOffset" : 37,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

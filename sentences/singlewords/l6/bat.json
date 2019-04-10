@@ -1,4 +1,128 @@
 [ {
+  "id" : "AWoDo9ioDTAu_IiLeL4l",
+  "text" : "Bats.",
+  "translations" : {
+    "russian" : "Летучие мыши."
+  },
+  "tokens" : [ {
+    "token" : "bat",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDo_a7DTAu_IiLeL5g",
+  "text" : "Bats.",
+  "translations" : {
+    "russian" : "Мыши."
+  },
+  "tokens" : [ {
+    "token" : "bat",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDo-E5DTAu_IiLeL41",
+  "text" : "Bats.",
+  "translations" : {
+    "russian" : "Летучих мышей."
+  },
+  "tokens" : [ {
+    "token" : "bat",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDo_qDDTAu_IiLeL5o",
+  "text" : "Bat.",
+  "translations" : {
+    "russian" : "Мышь."
+  },
+  "tokens" : [ {
+    "token" : "bat",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDo_j5DTAu_IiLeL5l",
+  "text" : "DWIGHT Bat.",
+  "translations" : {
+    "russian" : "Мышь."
+  },
+  "tokens" : [ {
+    "token" : "dwight",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "bat",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDpBx-DTAu_IiLeL6Z",
+  "text" : "The Bat.",
+  "translations" : {
+    "russian" : "Это Бэт."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bat",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDpBonDTAu_IiLeL6U",
+  "text" : "Hiya Bat.",
+  "translations" : {
+    "russian" : "Привет, Бэт!"
+  },
+  "tokens" : [ {
+    "token" : "hiya",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bat",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDo_07DTAu_IiLeL5u",
+  "text" : "50 bats.",
+  "translations" : {
+    "russian" : "50 мышей."
+  },
+  "tokens" : [ {
+    "token" : "50",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "bat",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgruZqNEXFMlzHLLbP",
   "text" : "It's a bat signal.",
   "translations" : {
@@ -27,13 +151,186 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxAJrNEXFMlzHLSwB",
-  "text" : "When the bats were flying?",
+  "id" : "AWoDo9AsDTAu_IiLeL4L",
+  "text" : "Stop swinging the bat.",
   "translations" : {
-    "russian" : "Когда ворота были пролетел?"
+    "russian" : "Перестань размахивать битой."
   },
   "tokens" : [ {
-    "token" : "when",
+    "token" : "stop",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "swinging",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "swing",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "bat",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDo9s_DTAu_IiLeL4q",
+  "text" : "They're only bats.",
+  "translations" : {
+    "russian" : "Только летучие мыши."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "only",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "bat",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDo9B-DTAu_IiLeL4M",
+  "text" : "With an iron bat?",
+  "translations" : {
+    "russian" : "Железной битой?"
+  },
+  "tokens" : [ {
+    "token" : "with",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "iron",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bat",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDo9MkDTAu_IiLeL4V",
+  "text" : "A homemade bat?",
+  "translations" : {
+    "russian" : "Домашняя бита?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "homemade",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "bat",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDpClBDTAu_IiLeL6l",
+  "text" : "And bat and catch.",
+  "translations" : {
+    "russian" : "И отбивал, и ловил."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bat",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "catch",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDo8j_DTAu_IiLeL3_",
+  "text" : "Give me the bat.",
+  "translations" : {
+    "russian" : "Отдай мне биту."
+  },
+  "tokens" : [ {
+    "token" : "give",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "g",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "bat",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDo-DHDTAu_IiLeL40",
+  "text" : "Send the bats.",
+  "translations" : {
+    "russian" : "Отправьте летучих мышей."
+  },
+  "tokens" : [ {
+    "token" : "send",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
@@ -47,16 +344,6 @@
     "startOffset" : 9,
     "endOffset" : 13,
     "position" : 2
-  }, {
-    "token" : "were",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "fly",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

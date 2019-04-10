@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoEfgJGDTAu_IiLewhr",
+  "text" : "Gravel deposits.",
+  "translations" : {
+    "russian" : "Месторождения гравия?"
+  },
+  "tokens" : [ {
+    "token" : "gravel",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "posit",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "deposit",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvFeVNEXFMlzHLQYy",
   "text" : "I'll deposit the check.",
   "translations" : {
@@ -29,6 +52,77 @@
     "startOffset" : 17,
     "endOffset" : 22,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfgKFDTAu_IiLewhs",
+  "text" : "Gravel deposits my foot.",
+  "translations" : {
+    "russian" : "Месторождения гравия, какая чепуха."
+  },
+  "tokens" : [ {
+    "token" : "gravel",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "posit",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "deposit",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "foot",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDytsiDTAu_IiLeRfX",
+  "text" : "And they're waiving the deposit.",
+  "translations" : {
+    "russian" : "И они отказались от задатка."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "they're",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "waive",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "deposit",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "posit",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

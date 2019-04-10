@@ -1,4 +1,70 @@
 [ {
+  "id" : "AWoDiDTRDTAu_IiLeIJi",
+  "text" : "Humane execution, painless execution.",
+  "translations" : {
+    "russian" : "Гуманная казнь , безболезненная казнь."
+  },
+  "tokens" : [ {
+    "token" : "humane",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "execution",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "execute",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "painless",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "execution",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 3
+  }, {
+    "token" : "execute",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8y92DTAu_IiLfFfE",
+  "text" : "Volley. Execution probably.",
+  "translations" : {
+    "russian" : "Это залп, должно быть, казнь."
+  },
+  "tokens" : [ {
+    "token" : "volley",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "execution",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "execute",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "probably",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgp5_xNEXFMlzHLI6g",
   "text" : "It's an execution order.",
   "translations" : {
@@ -67,6 +133,34 @@
     "startOffset" : 19,
     "endOffset" : 28,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-n7sDTAu_IiLfG6N",
+  "text" : "Halt the execution!",
+  "translations" : {
+    "russian" : "Остановите казнь."
+  },
+  "tokens" : [ {
+    "token" : "halt",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "execution",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "execute",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -150,6 +244,39 @@
     "token" : "doesn't",
     "startOffset" : 23,
     "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmcqWDTAu_IiLe15_",
+  "text" : "An executive - Jason Kern.",
+  "translations" : {
+    "russian" : "Исполнительный - Джейсон Кёрн."
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "executive",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "execute",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "jason",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "kern",
+    "startOffset" : 21,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
@@ -298,6 +425,115 @@
     "startOffset" : 23,
     "endOffset" : 31,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExM77DTAu_IiLe9pK",
+  "text" : "Those heretics must be executed.",
+  "translations" : {
+    "russian" : "Эти еретики должны быть казнены."
+  },
+  "tokens" : [ {
+    "token" : "those",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "heretic",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "must",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "execute",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUW3cDTAu_IiLeogl",
+  "text" : "What for 12 drawings executed privately?",
+  "translations" : {
+    "russian" : "За двенадцать рисунков, выполненных по частному заказу?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "12",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "drawing",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "execute",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "private",
+    "startOffset" : 30,
+    "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJO5GDTAu_IiLfPCc",
+  "text" : "And their executions are less dainty.",
+  "translations" : {
+    "russian" : "И их смерти не такие изысканные."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "their",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "execute",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "less",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "dainty",
+    "startOffset" : 30,
+    "endOffset" : 36,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

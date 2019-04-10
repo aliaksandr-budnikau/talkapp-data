@@ -1,17 +1,159 @@
 [ {
-  "id" : "AWbgudoQNEXFMlzHLPJi",
-  "text" : "Latinos or Poles?",
+  "id" : "AWoEudXLDTAu_IiLe7ox",
+  "text" : "Pole.",
   "translations" : {
-    "russian" : "Латиносы или Поляки?"
+    "russian" : "Поул."
   },
   "tokens" : [ {
-    "token" : "latino",
+    "token" : "pole",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 4,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuclmDTAu_IiLe7oO",
+  "text" : "Poles.",
+  "translations" : {
+    "russian" : "Поляки."
+  },
+  "tokens" : [ {
+    "token" : "pole",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEucoiDTAu_IiLe7oQ",
+  "text" : "Poles.",
+  "translations" : {
+    "russian" : "Поляки."
+  },
+  "tokens" : [ {
+    "token" : "pole",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEueFVDTAu_IiLe7pQ",
+  "text" : "Poles?",
+  "translations" : {
+    "russian" : "Удочки?"
+  },
+  "tokens" : [ {
+    "token" : "pole",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEudK9DTAu_IiLe7oo",
+  "text" : "Mrs Pole...",
+  "translations" : {
+    "russian" : "Миссис Поул."
+  },
+  "tokens" : [ {
+    "token" : "mrs",
+    "startOffset" : 0,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "or",
-    "startOffset" : 8,
+    "token" : "pole",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEubQnDTAu_IiLe7nS",
+  "text" : "Climb pole!",
+  "translations" : {
+    "russian" : "Влезь на шест!"
+  },
+  "tokens" : [ {
+    "token" : "climb",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pole",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEudL8DTAu_IiLe7op",
+  "text" : "Father Pole?",
+  "translations" : {
+    "russian" : "Отец Поул?"
+  },
+  "tokens" : [ {
+    "token" : "father",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "pole",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEudF1DTAu_IiLe7oj",
+  "text" : "A Pole.",
+  "translations" : {
+    "russian" : "Поляк."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "pole",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuf25DTAu_IiLe7qe",
+  "text" : "Pole position.",
+  "translations" : {
+    "russian" : "Поул-позиция."
+  },
+  "tokens" : [ {
+    "token" : "pole",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "position",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEubLPDTAu_IiLe7nO",
+  "text" : "Invert the poles Terry.",
+  "translations" : {
+    "russian" : "Переключи полюса, Терри."
+  },
+  "tokens" : [ {
+    "token" : "invert",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
     "endOffset" : 10,
     "position" : 1
   }, {
@@ -19,6 +161,179 @@
     "startOffset" : 11,
     "endOffset" : 16,
     "position" : 2
+  }, {
+    "token" : "terry",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEub71DTAu_IiLe7nv",
+  "text" : "LOOK OUT, THE POLE!",
+  "translations" : {
+    "russian" : "Осторожно, столб!"
+  },
+  "tokens" : [ {
+    "token" : "look",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "out",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "pole",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuehLDTAu_IiLe7pi",
+  "text" : "Drop the pole.",
+  "translations" : {
+    "russian" : "Брось палку!"
+  },
+  "tokens" : [ {
+    "token" : "drop",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pole",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEubYqDTAu_IiLe7nY",
+  "text" : "Give me the pole.",
+  "translations" : {
+    "russian" : "Ну, давай мне шест!"
+  },
+  "tokens" : [ {
+    "token" : "give",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "g",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "pole",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEudmEDTAu_IiLe7o8",
+  "text" : "Oh, my fishing pole?",
+  "translations" : {
+    "russian" : "Ох, моя удочка?"
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "fishing",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "fish",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "pole",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEudCqDTAu_IiLe7oh",
+  "text" : "I'm a Pole.",
+  "translations" : {
+    "russian" : "Я поляк."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "pole",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEucbWDTAu_IiLe7oH",
+  "text" : "The traffic sign pole?",
+  "translations" : {
+    "russian" : "К столбу дорожного знака?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "traffic",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "sign",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "pole",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

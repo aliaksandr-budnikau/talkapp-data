@@ -1,4 +1,104 @@
 [ {
+  "id" : "AWoFBZa-DTAu_IiLfJFy",
+  "text" : "Targets obscured.",
+  "translations" : {
+    "russian" : "Цель не видна."
+  },
+  "tokens" : [ {
+    "token" : "target",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "obscure",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBO1nDTAu_IiLfI-A",
+  "text" : "Targets obscured.",
+  "translations" : {
+    "russian" : "Цель не видна."
+  },
+  "tokens" : [ {
+    "token" : "target",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "obscure",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBd35DTAu_IiLfJJM",
+  "text" : "Targets obscured.",
+  "translations" : {
+    "russian" : "Цель не видна."
+  },
+  "tokens" : [ {
+    "token" : "target",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "obscure",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-ot1DTAu_IiLfG62",
+  "text" : "Target has halted!",
+  "translations" : {
+    "russian" : "Цель остановилась!"
+  },
+  "tokens" : [ {
+    "token" : "target",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "has",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "halt",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPWEMDTAu_IiLfTrS",
+  "text" : "A tempting target.",
+  "translations" : {
+    "russian" : "Соблазнительная цель."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "tempting",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "target",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfqRWNEXFMlzHK80E",
   "text" : "Hostile targeting in progress.",
   "translations" : {
@@ -177,10 +277,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgms-nNEXFMlzHLEV3",
-  "text" : "Target range 3. 9 kilometers.",
+  "id" : "AWoD7rglDTAu_IiLeV5P",
+  "text" : "Target vector, July 16...",
   "translations" : {
-    "russian" : "Расстояние до цели 3. 9 километра."
+    "russian" : "Заданный вектор - 16 июля..."
   },
   "tokens" : [ {
     "token" : "target",
@@ -188,139 +288,127 @@
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "range",
+    "token" : "vector",
     "startOffset" : 7,
-    "endOffset" : 12,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "3",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "9",
-    "startOffset" : 16,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "kilometer",
-    "startOffset" : 18,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqvbkNEXFMlzHLJ-t",
-  "text" : "Man, that's some targeted advertising.",
-  "translations" : {
-    "russian" : "Боже, вот это целевая реклама."
-  },
-  "tokens" : [ {
-    "token" : "man",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "some",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "target",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "advertising",
-    "startOffset" : 26,
-    "endOffset" : 37,
-    "position" : 4
-  }, {
-    "token" : "advertise",
-    "startOffset" : 26,
-    "endOffset" : 37,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiREINEXFMlzHK_Bc",
-  "text" : "Production has been consistently below target.",
-  "translations" : {
-    "russian" : "Добыча намного ниже рассчетного количества."
-  },
-  "tokens" : [ {
-    "token" : "production",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "has",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "been",
+    "token" : "july",
     "startOffset" : 15,
     "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "consistent",
+    "token" : "16",
     "startOffset" : 20,
-    "endOffset" : 32,
+    "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "below",
-    "startOffset" : 33,
-    "endOffset" : 38,
-    "position" : 4
-  }, {
-    "token" : "target",
-    "startOffset" : 39,
-    "endOffset" : 45,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnkqwNEXFMlzHLFrI",
-  "text" : "Like Manson, we could target celebrities.",
+  "id" : "AWoD_YnODTAu_IiLeYsD",
+  "text" : "Bravo, target is ascending.",
   "translations" : {
-    "russian" : "Например, Мэнсон, мы могли бы охотиться на знаменитостей."
+    "russian" : "Браво, цель поднимается."
   },
   "tokens" : [ {
-    "token" : "like",
+    "token" : "bravo",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "manson",
-    "startOffset" : 5,
-    "endOffset" : 11,
+    "token" : "target",
+    "startOffset" : 7,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "we",
-    "startOffset" : 13,
-    "endOffset" : 15,
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "could",
-    "startOffset" : 16,
-    "endOffset" : 21,
+    "token" : "ascend",
+    "startOffset" : 17,
+    "endOffset" : 26,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpVCLDTAu_IiLe4GB",
+  "text" : "Targeting accuracy differential 4.3.",
+  "translations" : {
+    "russian" : "Дифференциал точности нацеливания 4. 3."
+  },
+  "tokens" : [ {
+    "token" : "target",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "accuracy",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "differential",
+    "startOffset" : 19,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "4.3",
+    "startOffset" : 32,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvWRjDTAu_IiLe8QB",
+  "text" : "The target was Dresden.",
+  "translations" : {
+    "russian" : "Целью был Дрезден."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
     "token" : "target",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 4
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
   }, {
-    "token" : "celebrity",
-    "startOffset" : 29,
-    "endOffset" : 40,
-    "position" : 5
+    "token" : "was",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "dresden",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDg244DTAu_IiLeHdR",
+  "text" : "100 target velocity.",
+  "translations" : {
+    "russian" : "Стопроцентное ускорение."
+  },
+  "tokens" : [ {
+    "token" : "100",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "target",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "velocity",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

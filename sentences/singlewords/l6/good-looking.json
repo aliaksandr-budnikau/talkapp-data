@@ -1,4 +1,169 @@
 [ {
+  "id" : "AWoD7thZDTAu_IiLeV6o",
+  "text" : "All vectors looking good.",
+  "translations" : {
+    "russian" : "Все векторы выглядят хорошо."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "vector",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "look",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "good",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUFQtDTAu_IiLeoS3",
+  "text" : "She looks good. She smells good.",
+  "translations" : {
+    "russian" : "Такой вкусньiй на вид, аппетитньiй, пахнет вкусно."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "look",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "good",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "she",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "smell",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "good",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlZXiDTAu_IiLeKAj",
+  "text" : "Blond, good-looking, great shape.",
+  "translations" : {
+    "russian" : "Блондин, симпатичный, спортивный."
+  },
+  "tokens" : [ {
+    "token" : "blond",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "good",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "look",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "great",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "shape",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8elzDTAu_IiLeWfI",
+  "text" : "Your valves all look good.",
+  "translations" : {
+    "russian" : "Ваши клапаны в порядке."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "valve",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "all",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "look",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "good",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYg62DTAu_IiLerk4",
+  "text" : "Who's the good-looking gal?",
+  "translations" : {
+    "russian" : "Кто эта милая девушка?"
+  },
+  "tokens" : [ {
+    "token" : "who",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "good",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "look",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "gal",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwCR3NEXFMlzHLRv4",
   "text" : "Northbound lanes are looking good.",
   "translations" : {
@@ -27,6 +192,39 @@
   }, {
     "token" : "good",
     "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsHTMDTAu_IiLeNqi",
+  "text" : "Tall, blond, good-looking Raymond?",
+  "translations" : {
+    "russian" : "Высокого блондина, красавчика Раймонда?"
+  },
+  "tokens" : [ {
+    "token" : "tall",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "blond",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "good",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "look",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "raymond",
+    "startOffset" : 26,
     "endOffset" : 33,
     "position" : 4
   } ],
@@ -62,6 +260,44 @@
     "startOffset" : 20,
     "endOffset" : 27,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD0sIODTAu_IiLeSiw",
+  "text" : "Ooh, that's a good-looking bulldog.",
+  "translations" : {
+    "russian" : "О, а вот симпатичный бульдог."
+  },
+  "tokens" : [ {
+    "token" : "ooh",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "good",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "look",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "bulldog",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -136,6 +372,120 @@
   }, {
     "token" : "swimsuit",
     "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjP2RDTAu_IiLeI1W",
+  "text" : "Roman is ruthless, but good-looking.",
+  "translations" : {
+    "russian" : "Роман жестокий, но симпатичный."
+  },
+  "tokens" : [ {
+    "token" : "roman",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "ruthless",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "but",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "good",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "look",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEORwlDTAu_IiLekAJ",
+  "text" : "Good god almighty, look at you.",
+  "translations" : {
+    "russian" : "Боже всемогущий, посмотри на себя."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "god",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "almighty",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "look",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "at",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "you",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzWDLDTAu_IiLeR1x",
+  "text" : "It looked good in the brochure.",
+  "translations" : {
+    "russian" : "Это хорошо смотрелось в буклете."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "look",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "good",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "brochure",
+    "startOffset" : 22,
     "endOffset" : 30,
     "position" : 5
   } ],

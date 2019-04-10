@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoERUERDTAu_IiLemM-",
+  "text" : "His throat is parched.",
+  "translations" : {
+    "russian" : "Горло у него пересохло."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "throat",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "parch",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERUFfDTAu_IiLemM_",
+  "text" : "His throat is parched.",
+  "translations" : {
+    "russian" : "Горло у него пересохло!"
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "throat",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "parch",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWn5oAduSHZo49ps8uEh",
   "text" : "Yes, slit his throat.",
   "translations" : {
@@ -27,74 +83,347 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvkv-NEXFMlzHLRM2",
-  "text" : "He wasn't holding his throat.",
+  "id" : "AWoERUAmDTAu_IiLemM7",
+  "text" : "Our throats, they're parched.",
   "translations" : {
-    "russian" : "Он не держался за горло."
+    "russian" : "Пересохло."
   },
   "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "wasn't",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "holding",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "hold",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "his",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "throat",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWn5oA-ASHZo49ps8uEl",
-  "text" : "She just slit her throat!",
-  "translations" : {
-    "russian" : "Она только что разрезала ей горло!"
-  },
-  "tokens" : [ {
-    "token" : "she",
+    "token" : "our",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "just",
+    "token" : "throat",
     "startOffset" : 4,
-    "endOffset" : 8,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "slit",
-    "startOffset" : 9,
+    "token" : "they're",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "parch",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERUDDDTAu_IiLemM9",
+  "text" : "Your throat's parched?",
+  "translations" : {
+    "russian" : "Горло пересохло?"
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "throat",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "parch",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVqF0DTAu_IiLephv",
+  "text" : "Your throat is parched.",
+  "translations" : {
+    "russian" : "Тебя мучает жажда."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "throat",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "parch",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVpz_DTAu_IiLephj",
+  "text" : "My throat is parched!",
+  "translations" : {
+    "russian" : "В горле пересохло."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "throat",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "parch",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVpq8DTAu_IiLephc",
+  "text" : "Your throat's parched?",
+  "translations" : {
+    "russian" : "Горло пересохло?"
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "throat",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "parch",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUjcxDTAu_IiLfXp1",
+  "text" : "Cleared my throat, coughed.",
+  "translations" : {
+    "russian" : "Пошуметь, там, или кашлянуть."
+  },
+  "tokens" : [ {
+    "token" : "clear",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "throat",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "cough",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERUbODTAu_IiLemNQ",
+  "text" : "Your throat is parched.",
+  "translations" : {
+    "russian" : "Тебя мучает жажда."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "throat",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "parch",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVpr8DTAu_IiLephd",
+  "text" : "His throat is parched.",
+  "translations" : {
+    "russian" : "Горло у него пересохло."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "throat",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "her",
+    "token" : "parch",
     "startOffset" : 14,
-    "endOffset" : 17,
+    "endOffset" : 21,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVptKDTAu_IiLephe",
+  "text" : "His throat is parched.",
+  "translations" : {
+    "russian" : "Горло у него пересохло!"
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
     "token" : "throat",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "parch",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVpogDTAu_IiLepha",
+  "text" : "Our throats, they're parched.",
+  "translations" : {
+    "russian" : "Пересохло."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "throat",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "they're",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "parch",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVppuDTAu_IiLephb",
+  "text" : "My throat's parched.",
+  "translations" : {
+    "russian" : "Горло пересохло."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "throat",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "parch",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERULWDTAu_IiLemNE",
+  "text" : "My throat is parched!",
+  "translations" : {
+    "russian" : "В горле пересохло."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "throat",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "parch",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERUBlDTAu_IiLemM8",
+  "text" : "My throat's parched.",
+  "translations" : {
+    "russian" : "Горло пересохло."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "throat",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "parch",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

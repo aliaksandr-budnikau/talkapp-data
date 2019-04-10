@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoEaV10DTAu_IiLeszc",
+  "text" : "Genetically modified?",
+  "translations" : {
+    "russian" : "С генной модификацией?"
+  },
+  "tokens" : [ {
+    "token" : "genetically",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "modified",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "modify",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrQ7pNEXFMlzHLKv2",
   "text" : "It's a modified cathode.",
   "translations" : {
@@ -28,6 +51,110 @@
     "token" : "cathode",
     "startOffset" : 16,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaVSZDTAu_IiLeszG",
+  "text" : "A genetically modified hybrid.",
+  "translations" : {
+    "russian" : "Генетически модифицированный гибрид."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "genetically",
+    "startOffset" : 2,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "modified",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "modify",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "hybrid",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwtprDTAu_IiLe9Rk",
+  "text" : "I modified the Frankish weapon.",
+  "translations" : {
+    "russian" : "Я подправил оружие франков."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "modified",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "modify",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "frankish",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "weapon",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoZ6QDTAu_IiLe3aX",
+  "text" : "There is behavioral modification.",
+  "translations" : {
+    "russian" : "Это поведенческая модификация."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "behavioral",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "modification",
+    "startOffset" : 20,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "modify",
+    "startOffset" : 20,
+    "endOffset" : 32,
     "position" : 3
   } ],
   "contentScore" : null

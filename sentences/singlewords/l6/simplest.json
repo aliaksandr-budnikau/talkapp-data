@@ -1,8 +1,8 @@
 [ {
-  "id" : "AWbgftjUNEXFMlzHK82Q",
-  "text" : "Simple answer meeting or not?",
+  "id" : "AWoFNMxGDTAu_IiLfSFi",
+  "text" : "Simple intimacy.",
   "translations" : {
-    "russian" : "Просто ответьте заседание это или нет?"
+    "russian" : "Простая близость."
   },
   "tokens" : [ {
     "token" : "simple",
@@ -10,37 +10,157 @@
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "answer",
+    "token" : "intimacy",
     "startOffset" : 7,
-    "endOffset" : 13,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWa-5DTAu_IiLeqFk",
+  "text" : "Simple ones with simple outcomes.",
+  "translations" : {
+    "russian" : "Простой, с простыми последствиями."
+  },
+  "tokens" : [ {
+    "token" : "simple",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "one",
+    "startOffset" : 7,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "meeting",
-    "startOffset" : 14,
-    "endOffset" : 21,
+    "token" : "with",
+    "startOffset" : 12,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "meet",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "or",
-    "startOffset" : 22,
-    "endOffset" : 24,
+    "token" : "simple",
+    "startOffset" : 17,
+    "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "not",
-    "startOffset" : 25,
-    "endOffset" : 28,
+    "token" : "outcome",
+    "startOffset" : 24,
+    "endOffset" : 32,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgugnONEXFMlzHLPPp",
-  "text" : "It's discrimination, pure and simple.",
+  "id" : "AWoDpStwDTAu_IiLeMDF",
+  "text" : "We're both simple businessmen.",
   "translations" : {
-    "russian" : "Это дискриминация чистой воды."
+    "russian" : "Мы оба простые бизнесмены."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "both",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "simple",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "businessmen",
+    "startOffset" : 18,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8F7wDTAu_IiLeWLi",
+  "text" : "So simple, so sublime.",
+  "translations" : {
+    "russian" : "Как просто, как возвышено."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "simple",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "so",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "sublime",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzYi2DTAu_IiLeR3L",
+  "text" : "Something blunt and simple.",
+  "translations" : {
+    "russian" : "Кем-то тупым и ограниченным."
+  },
+  "tokens" : [ {
+    "token" : "something",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "blunt",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "simple",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGmlYDTAu_IiLeeQN",
+  "text" : "Simple frame job.",
+  "translations" : {
+    "russian" : "Обычная подстава."
+  },
+  "tokens" : [ {
+    "token" : "simple",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "frame",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "job",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExTfwDTAu_IiLe9uC",
+  "text" : "It's simple but sophisticated.",
+  "translations" : {
+    "russian" : "Это просто, но утонченно."
   },
   "tokens" : [ {
     "token" : "it",
@@ -48,40 +168,264 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "discrimination",
+    "token" : "simple",
     "startOffset" : 5,
-    "endOffset" : 19,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "discriminate",
-    "startOffset" : 5,
-    "endOffset" : 19,
-    "position" : 1
-  }, {
-    "token" : "pure",
-    "startOffset" : 21,
-    "endOffset" : 25,
+    "token" : "but",
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "and",
-    "startOffset" : 26,
+    "token" : "sophisticated",
+    "startOffset" : 16,
     "endOffset" : 29,
     "position" : 3
   }, {
-    "token" : "simple",
-    "startOffset" : 30,
-    "endOffset" : 36,
-    "position" : 4
+    "token" : "sophisticate",
+    "startOffset" : 16,
+    "endOffset" : 29,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgla5HNEXFMlzHLCge",
-  "text" : "Very simple storyline, no dialogue.",
+  "id" : "AWoFI-cLDTAu_IiLfO07",
+  "text" : "It's a simple variation.",
   "translations" : {
-    "russian" : "Очень простой сюжет, без диалогов."
+    "russian" : "Это небольшая разновидность."
   },
   "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "simple",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "variation",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "variate",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRAxbDTAu_IiLfVCC",
+  "text" : "Simple quirk of fate.",
+  "translations" : {
+    "russian" : "Просто причуда судьбы."
+  },
+  "tokens" : [ {
+    "token" : "simple",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "quirk",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "fate",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDf-erDTAu_IiLeG8s",
+  "text" : "Oh, the simple bragging.",
+  "translations" : {
+    "russian" : "О, простое хвастовство."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "simple",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "bragging",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjwiMDTAu_IiLeJHi",
+  "text" : "Too simple and foolproof.",
+  "translations" : {
+    "russian" : "Очень просто и очень надежно."
+  },
+  "tokens" : [ {
+    "token" : "too",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "simple",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "foolproof",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnZucDTAu_IiLe2or",
+  "text" : "It's very simple dialectics.",
+  "translations" : {
+    "russian" : "Это очень простая диалектика."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
     "token" : "very",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "simple",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "dialectic",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnaC9DTAu_IiLe2o5",
+  "text" : "It's very simple dialectics.",
+  "translations" : {
+    "russian" : "Простая диалектика."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "very",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "simple",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "dialectic",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDTp4bDTAu_IiLeAA8",
+  "text" : "Amputation is simpler.",
+  "translations" : {
+    "russian" : "Ампутировать проще."
+  },
+  "tokens" : [ {
+    "token" : "amputation",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "amputate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "simple",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoElBZQDTAu_IiLe02a",
+  "text" : "In simple, declarative sentences.",
+  "translations" : {
+    "russian" : "В простых, декларативных предложениях."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "simple",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "declarative",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "sentence",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYla3DTAu_IiLeCoh",
+  "text" : "It's simple arithmetic.",
+  "translations" : {
+    "russian" : "Это чистая математика."
+  },
+  "tokens" : [ {
+    "token" : "it",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
@@ -91,96 +435,10 @@
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "storyline",
+    "token" : "arithmetic",
     "startOffset" : 12,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "no",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "dialogue",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdAnoNEXFMlzHK6iB",
-  "text" : "A simple use in useful package.",
-  "translations" : {
-    "russian" : "Простая в использовании и в удобной упаковке."
-  },
-  "tokens" : [ {
-    "token" : "a",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "simple",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "use",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "useful",
-    "startOffset" : 16,
     "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "package",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzWKONEXFMlzHLWRr",
-  "text" : "You're such a sweet, simple person.",
-  "translations" : {
-    "russian" : "Ты очень приятный и недалёкий человек."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "such",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
     "position" : 2
-  }, {
-    "token" : "sweet",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "simple",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "person",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

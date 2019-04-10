@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEmtyKDTAu_IiLe2Gr",
+  "text" : "Detroit's disappeared!",
+  "translations" : {
+    "russian" : "Детройт исчез!"
+  },
+  "tokens" : [ {
+    "token" : "detroit",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "appear",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgh1-gNEXFMlzHK-sR",
   "text" : "Then the king appeared.",
   "translations" : {
@@ -56,6 +74,90 @@
     "token" : "gate",
     "startOffset" : 16,
     "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjbvqDTAu_IiLeI78",
+  "text" : "I may appear careless.",
+  "translations" : {
+    "russian" : "Кто-то назовёт меня легкомысленным и дерзким."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "may",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "appear",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "careless",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiCxADTAu_IiLeyj9",
+  "text" : "The Prime Minister disappears.",
+  "translations" : {
+    "russian" : "Премьер исчезает."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "prime",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "minister",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "appear",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFOnNDDTAu_IiLfTH4",
+  "text" : "Mr. Rory appears unaffected.",
+  "translations" : {
+    "russian" : "Кажется, на мистера Рори ничто не повлияло."
+  },
+  "tokens" : [ {
+    "token" : "mr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "rory",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "appear",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "affected",
+    "startOffset" : 17,
+    "endOffset" : 27,
     "position" : 3
   } ],
   "contentScore" : null
@@ -149,6 +251,67 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD9yAYDTAu_IiLeXfQ",
+  "text" : "Our superior officer disappeared.",
+  "translations" : {
+    "russian" : "Наш начальник исчез."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "superior",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "officer",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "office",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "appear",
+    "startOffset" : 21,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0R5WDTAu_IiLe_2H",
+  "text" : "The liquid has appeared!",
+  "translations" : {
+    "russian" : "Появилась жидкость!"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "liquid",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "appear",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghvZVNEXFMlzHK-ml",
   "text" : "That I might appear.",
   "translations" : {
@@ -233,252 +396,59 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbght1DNEXFMlzHK-lN",
-  "text" : "Appeared in caravan.",
+  "id" : "AWoEFDQjDTAu_IiLedG1",
+  "text" : "Five wolves appeared today.",
   "translations" : {
-    "russian" : "Появляются один за другим."
+    "russian" : "Пять волков появились сегодня."
   },
   "tokens" : [ {
-    "token" : "appear",
+    "token" : "five",
     "startOffset" : 0,
-    "endOffset" : 8,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "in",
-    "startOffset" : 9,
+    "token" : "wolves",
+    "startOffset" : 5,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "caravan",
+    "token" : "appear",
     "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpXJ9NEXFMlzHLIJm",
-  "text" : "That I might appear.",
-  "translations" : {
-    "russian" : "Что я могу выступить."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "might",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "appear",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpYAINEXFMlzHLIKs",
-  "text" : "Then the king appeared.",
-  "translations" : {
-    "russian" : "И тогда король вышел."
-  },
-  "tokens" : [ {
-    "token" : "th",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "king",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "k",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "appear",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghtivNEXFMlzHK-k9",
-  "text" : "Godzilla appeared in Osaka.",
-  "translations" : {
-    "russian" : "Годзилла появился в Осаке."
-  },
-  "tokens" : [ {
-    "token" : "godzilla",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "appear",
-    "startOffset" : 9,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 18,
     "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "osaka",
+    "token" : "today",
     "startOffset" : 21,
     "endOffset" : 26,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghviXNEXFMlzHK-mu",
-  "text" : "We must appear in person.",
+  "id" : "AWoFRgrBDTAu_IiLfVa-",
+  "text" : "The chamberlain has disappeared.",
   "translations" : {
-    "russian" : "Мы должны выступить лично."
+    "russian" : "Казначей исчез."
   },
   "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "must",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "appear",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "person",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgh1ofNEXFMlzHK-r_",
-  "text" : "In what appears its instability?",
-  "translations" : {
-    "russian" : "В чём проявлялась её нестабильность?"
-  },
-  "tokens" : [ {
-    "token" : "in",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "what",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "appear",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "its",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "stability",
-    "startOffset" : 20,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgh1dwNEXFMlzHK-r0",
-  "text" : "Yeah, so it would appear.",
-  "translations" : {
-    "russian" : "Да, выходит, так."
-  },
-  "tokens" : [ {
-    "token" : "yeah",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "so",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "would",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "appear",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpWgNNEXFMlzHLIIv",
-  "text" : "And there appeared another wonder.",
-  "translations" : {
-    "russian" : "И другое знамение явилось на небе."
-  },
-  "tokens" : [ {
-    "token" : "and",
+    "token" : "the",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "there",
+    "token" : "chamberlain",
     "startOffset" : 4,
-    "endOffset" : 9,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "appear",
-    "startOffset" : 10,
-    "endOffset" : 18,
+    "token" : "has",
+    "startOffset" : 16,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "another",
-    "startOffset" : 19,
-    "endOffset" : 26,
+    "token" : "appear",
+    "startOffset" : 20,
+    "endOffset" : 31,
     "position" : 3
-  }, {
-    "token" : "wonder",
-    "startOffset" : 27,
-    "endOffset" : 33,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

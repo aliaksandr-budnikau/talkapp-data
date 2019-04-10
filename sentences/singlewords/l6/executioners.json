@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoDiDTRDTAu_IiLeIJi",
+  "text" : "Humane execution, painless execution.",
+  "translations" : {
+    "russian" : "Гуманная казнь , безболезненная казнь."
+  },
+  "tokens" : [ {
+    "token" : "humane",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "execution",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "execute",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "painless",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "execution",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 3
+  }, {
+    "token" : "execute",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgigqWNEXFMlzHK_O3",
   "text" : "My execution's set.",
   "translations" : {
@@ -18,6 +56,34 @@
     "token" : "set",
     "startOffset" : 15,
     "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8y92DTAu_IiLfFfE",
+  "text" : "Volley. Execution probably.",
+  "translations" : {
+    "russian" : "Это залп, должно быть, казнь."
+  },
+  "tokens" : [ {
+    "token" : "volley",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "execution",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "execute",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "probably",
+    "startOffset" : 18,
+    "endOffset" : 26,
     "position" : 2
   } ],
   "contentScore" : null
@@ -111,6 +177,34 @@
   }, {
     "token" : "set",
     "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-n7sDTAu_IiLfG6N",
+  "text" : "Halt the execution!",
+  "translations" : {
+    "russian" : "Остановите казнь."
+  },
+  "tokens" : [ {
+    "token" : "halt",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "execution",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "execute",
+    "startOffset" : 9,
     "endOffset" : 18,
     "position" : 2
   } ],

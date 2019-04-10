@@ -1,4 +1,76 @@
 [ {
+  "id" : "AWoD2wZ8DTAu_IiLeTfP",
+  "text" : "Scrap shop.",
+  "translations" : {
+    "russian" : "Свалка."
+  },
+  "tokens" : [ {
+    "token" : "scrap",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "shop",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7DRWDTAu_IiLfEV0",
+  "text" : "PAWN SHOP.",
+  "translations" : {
+    "russian" : "ЛОМБАРД."
+  },
+  "tokens" : [ {
+    "token" : "pawn",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "shop",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVacRDTAu_IiLfYQD",
+  "text" : "Pottery shop.",
+  "translations" : {
+    "russian" : "Гончарный магазин."
+  },
+  "tokens" : [ {
+    "token" : "pottery",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "shop",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5BWVDTAu_IiLfDBw",
+  "text" : "PAWN SHOP.",
+  "translations" : {
+    "russian" : "ЛОМБАРД."
+  },
+  "tokens" : [ {
+    "token" : "pawn",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "shop",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsMSZNEXFMlzHLMF-",
   "text" : "Dad doesn't shop.",
   "translations" : {
@@ -19,6 +91,62 @@
     "startOffset" : 12,
     "endOffset" : 16,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKKw7DTAu_IiLegy9",
+  "text" : "It's a fancy shop.",
+  "translations" : {
+    "russian" : "Ёто крутой магазин."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "fancy",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "shop",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQfACDTAu_IiLfUmi",
+  "text" : "About the yogurt shop?",
+  "translations" : {
+    "russian" : "Насчет кафе йогуртов?"
+  },
+  "tokens" : [ {
+    "token" : "about",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "yogurt",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "shop",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -78,6 +206,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDPXDzDTAu_IiLd9JW",
+  "text" : "Buy Better auto shop.",
+  "translations" : {
+    "russian" : "В автомастерскую."
+  },
+  "tokens" : [ {
+    "token" : "buy",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "better",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "auto",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "shop",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsMHbNEXFMlzHLMFu",
   "text" : "So people can shop.",
   "translations" : {
@@ -106,399 +262,123 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsLPxNEXFMlzHLMEa",
-  "text" : "The shop's not far.",
+  "id" : "AWoDPWv4DTAu_IiLd9JK",
+  "text" : "Auto shop estimate.",
   "translations" : {
-    "russian" : "Магазин тут, недалеко."
+    "russian" : "Автомастерская."
   },
   "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "shop",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "not",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "far",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwxtgNEXFMlzHLShb",
-  "text" : "Shop till you drop!",
-  "translations" : {
-    "russian" : "Покупаешь пока не умираешь!"
-  },
-  "tokens" : [ {
-    "token" : "shop",
+    "token" : "auto",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "till",
+    "token" : "shop",
     "startOffset" : 5,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "you",
+    "token" : "estimate",
     "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "drop",
-    "startOffset" : 14,
     "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsL95NEXFMlzHLMFc",
-  "text" : "My car's in the shop.",
-  "translations" : {
-    "russian" : "Моя машина в мастерской."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "car",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 9,
-    "endOffset" : 11,
     "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "shop",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoT5cNEXFMlzHLGuE",
-  "text" : "He opened a flower shop.",
+  "id" : "AWoEMjwpDTAu_IiLeitX",
+  "text" : "Glorified gift shop.",
   "translations" : {
-    "russian" : "Он открыл цветочный магазин."
+    "russian" : "Славная сувенирная лавка."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "glorify",
     "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "opened",
-    "startOffset" : 3,
     "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "open",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 10,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "flower",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "shop",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsLQQNEXFMlzHLMEb",
-  "text" : "Only museums and no shops.",
-  "translations" : {
-    "russian" : "Одни музеи и никаких магазинов."
-  },
-  "tokens" : [ {
-    "token" : "only",
-    "startOffset" : 0,
-    "endOffset" : 4,
     "position" : 0
-  }, {
-    "token" : "on",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "museum",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "no",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "shop",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsLgHNEXFMlzHLMEx",
-  "text" : "I'll smash up your shop.",
-  "translations" : {
-    "russian" : "Я разгромлю твою лавку!"
-  },
-  "tokens" : [ {
-    "token" : "i'll",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "smash",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "up",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "shop",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsL87NEXFMlzHLMFa",
-  "text" : "Oh, about that chop shop...",
-  "translations" : {
-    "russian" : "О, об этой мастерской."
-  },
-  "tokens" : [ {
-    "token" : "oh",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "about",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "chop",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "shop",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsLWHNEXFMlzHLMEj",
-  "text" : "Welcome to the flower shop...",
-  "translations" : {
-    "russian" : "Добро пожаловать в цветочный магазин..."
-  },
-  "tokens" : [ {
-    "token" : "welcome",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "flower",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "shop",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsLT6NEXFMlzHLMEh",
-  "text" : "I'm just the shop owner.",
-  "translations" : {
-    "russian" : "Я всего лишь владелец магазина."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "just",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "shop",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "owner",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsLL3NEXFMlzHLMEV",
-  "text" : "See that shop over there?",
-  "translations" : {
-    "russian" : "Видишь магазин вон там?"
-  },
-  "tokens" : [ {
-    "token" : "see",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "shop",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "over",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "there",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsLlfNEXFMlzHLME6",
-  "text" : "She's in the gift shop.",
-  "translations" : {
-    "russian" : "Она там, в сувенирной лавке."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
   }, {
     "token" : "gift",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "shop",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsMQcNEXFMlzHLMF7",
-  "text" : "Prefers to shop online anyway.",
-  "translations" : {
-    "russian" : "Предпочитает делать покупки в Интернете.."
-  },
-  "tokens" : [ {
-    "token" : "pref",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
+    "startOffset" : 10,
+    "endOffset" : 14,
     "position" : 1
   }, {
     "token" : "shop",
-    "startOffset" : 11,
-    "endOffset" : 15,
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMdOSDTAu_IiLeioR",
+  "text" : "Glorified gift shop.",
+  "translations" : {
+    "russian" : "Славная сувенирная лавка."
+  },
+  "tokens" : [ {
+    "token" : "glorify",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "gift",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "shop",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7DOaDTAu_IiLfEVy",
+  "text" : "MIKAWAYA PAWN SHOP.",
+  "translations" : {
+    "russian" : "ЛОМБАРД МИКАВА."
+  },
+  "tokens" : [ {
+    "token" : "mikawaya",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "pawn",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "shop",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFHgqDTAu_IiLfLxW",
+  "text" : "It's a fancy shop.",
+  "translations" : {
+    "russian" : "Ёто крутой магазин."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "fancy",
+    "startOffset" : 7,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "online",
-    "startOffset" : 16,
-    "endOffset" : 22,
+    "token" : "shop",
+    "startOffset" : 13,
+    "endOffset" : 17,
     "position" : 3
-  }, {
-    "token" : "anyway",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

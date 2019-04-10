@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoFXYs9DTAu_IiLfZo3",
+  "text" : "Clinical term.",
+  "translations" : {
+    "russian" : "Это уже клиника."
+  },
+  "tokens" : [ {
+    "token" : "clinical",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "term",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbQeeDTAu_IiLfc1X",
+  "text" : "A third-term congressman!",
+  "translations" : {
+    "russian" : "Трижды переизбранный депутат!"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "third",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "term",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "congressman",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfIKgNEXFMlzHK8Wh",
   "text" : "We accept those terms.",
   "translations" : {
@@ -24,6 +70,199 @@
     "startOffset" : 16,
     "endOffset" : 21,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7aESDTAu_IiLeVs0",
+  "text" : "Hence, the term cliffhanger.",
+  "translations" : {
+    "russian" : "Отсюда пошло выражение скалолаз."
+  },
+  "tokens" : [ {
+    "token" : "hence",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "term",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "cliffhanger",
+    "startOffset" : 16,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcVmcDTAu_IiLeE4J",
+  "text" : "Reasonable terms for bachelors.",
+  "translations" : {
+    "russian" : "Отрада холостяков."
+  },
+  "tokens" : [ {
+    "token" : "reasonable",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "reason",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "term",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "bachelor",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrya0DTAu_IiLeNd1",
+  "text" : "We are on intimate terms.",
+  "translations" : {
+    "russian" : "У нас и есть близкие отношения."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "intimate",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "term",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpQMQDTAu_IiLe4Cf",
+  "text" : "I can't... think long-term.",
+  "translations" : {
+    "russian" : "Я не могу думать о долговременном."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "can't",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "think",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "long",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "term",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0K37DTAu_IiLe_x2",
+  "text" : "You're a long-term resident.",
+  "translations" : {
+    "russian" : "Вы же постоянный житель."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "long",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "term",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "resident",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXXv3DTAu_IiLfZoF",
+  "text" : "Sociopath is a clinical term.",
+  "translations" : {
+    "russian" : "Социопат это медицинский термин."
+  },
+  "tokens" : [ {
+    "token" : "sociopath",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "clinical",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "term",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -65,41 +304,211 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgl1o2NEXFMlzHLC-B",
-  "text" : "That's a Hollywood term, but yes.",
+  "id" : "AWoEpIerDTAu_IiLe386",
+  "text" : "No exotic terms, no dissertations.",
   "translations" : {
-    "russian" : "Это голливудский термин, но так и было."
+    "russian" : "Ни тебе экзотических терминов, ни трактатов."
   },
   "tokens" : [ {
-    "token" : "that",
+    "token" : "no",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "a",
-    "startOffset" : 7,
-    "endOffset" : 8,
+    "token" : "exotic",
+    "startOffset" : 3,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "hollywood",
-    "startOffset" : 9,
-    "endOffset" : 18,
+    "token" : "term",
+    "startOffset" : 10,
+    "endOffset" : 15,
     "position" : 2
+  }, {
+    "token" : "no",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "dissertation",
+    "startOffset" : 20,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNHSnDTAu_IiLfSBo",
+  "text" : "We are on intimate terms.",
+  "translations" : {
+    "russian" : "У нас и есть близкие отношения."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "intimate",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 3
   }, {
     "token" : "term",
     "startOffset" : 19,
-    "endOffset" : 23,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgNlaDTAu_IiLfgcu",
+  "text" : "I prefer the term nomad.",
+  "translations" : {
+    "russian" : "Я предпочитаю термин кочевник."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "prefer",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pref",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "term",
+    "startOffset" : 13,
+    "endOffset" : 17,
     "position" : 3
   }, {
-    "token" : "but",
-    "startOffset" : 25,
+    "token" : "nomad",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoKv-DTAu_IiLe3PD",
+  "text" : "I prefer the term dilettante.",
+  "translations" : {
+    "russian" : "Скорее, дилетант."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "prefer",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pref",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "term",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "dilettante",
+    "startOffset" : 18,
     "endOffset" : 28,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaG2ZDTAu_IiLespv",
+  "text" : "I mean in geometrical terms?",
+  "translations" : {
+    "russian" : "Я имею ввиду, в геометрическом смысле."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
   }, {
-    "token" : "yes",
-    "startOffset" : 29,
-    "endOffset" : 32,
-    "position" : 5
+    "token" : "mean",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "geometrical",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "term",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJTSADTAu_IiLegJ-",
+  "text" : "No, it's a volleyball term.",
+  "translations" : {
+    "russian" : "Нет, это волейбольный термин."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "volleyball",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "term",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

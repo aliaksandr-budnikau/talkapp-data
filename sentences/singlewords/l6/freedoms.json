@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEMNDxDTAu_IiLeibb",
+  "text" : "Yes. Rebellion, freedom, love.",
+  "translations" : {
+    "russian" : "Бунт, свобода и любовь."
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "rebellion",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "freedom",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "love",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjosCNEXFMlzHLALn",
   "text" : "It's freedom up there.",
   "translations" : {
@@ -23,6 +51,39 @@
     "token" : "there",
     "startOffset" : 16,
     "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRxHWDTAu_IiLfVnT",
+  "text" : "Shackled only by freedom.",
+  "translations" : {
+    "russian" : "Связанным лишь свободой."
+  },
+  "tokens" : [ {
+    "token" : "shackle",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "only",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "by",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "freedom",
+    "startOffset" : 17,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
@@ -149,78 +210,314 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgh_HONEXFMlzHK-0K",
-  "text" : "Freedom is a length of rope.",
+  "id" : "AWoDkq2oDTAu_IiLeJn1",
+  "text" : "My absolute and unconditional freedom?",
   "translations" : {
-    "russian" : "Свобода - кусок верёвки."
+    "russian" : "Безусловная и абсолютная свобода?"
   },
   "tokens" : [ {
-    "token" : "freedom",
+    "token" : "my",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "is",
-    "startOffset" : 8,
-    "endOffset" : 10,
+    "token" : "absolute",
+    "startOffset" : 3,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "length",
-    "startOffset" : 13,
-    "endOffset" : 19,
+    "token" : "conditional",
+    "startOffset" : 16,
+    "endOffset" : 29,
     "position" : 3
   }, {
-    "token" : "of",
-    "startOffset" : 20,
-    "endOffset" : 22,
+    "token" : "freedom",
+    "startOffset" : 30,
+    "endOffset" : 37,
     "position" : 4
-  }, {
-    "token" : "rope",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgum7rNEXFMlzHLPcN",
-  "text" : "Equality, freedom, the castle for everyone!",
+  "id" : "AWoE3fbkDTAu_IiLfCB3",
+  "text" : "The veil stands for freedom.",
   "translations" : {
-    "russian" : "Равенство, свобода, замок для всех!"
+    "russian" : "Чадра синоним свободы."
   },
   "tokens" : [ {
-    "token" : "equality",
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "veil",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "stand",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "freedom",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRi-zDTAu_IiLfVcq",
+  "text" : "A world crusade for freedom.",
+  "translations" : {
+    "russian" : "Мировой крестовый поход за свободу."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "world",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "crusade",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "freedom",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBkBSDTAu_IiLeaXQ",
+  "text" : "You owe us your freedom.",
+  "translations" : {
+    "russian" : "Вы обязаны нам вашей свободой."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "owe",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "us",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "freedom",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNwnNDTAu_IiLfSf8",
+  "text" : "The Irishman harps on freedom.",
+  "translations" : {
+    "russian" : "Ирландцы требуют свободы."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "irishman",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "harp",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "freedom",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPnYUDTAu_IiLek-R",
+  "text" : "The veil stands for freedom.",
+  "translations" : {
+    "russian" : "Чадра синоним свободы."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "veil",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "stand",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "freedom",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWMTKDTAu_IiLeBkO",
+  "text" : "Violence is the antithesis of freedom.",
+  "translations" : {
+    "russian" : "Насилие, это антитезис свободы."
+  },
+  "tokens" : [ {
+    "token" : "violence",
     "startOffset" : 0,
     "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "freedom",
-    "startOffset" : 10,
-    "endOffset" : 17,
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
     "position" : 1
   }, {
     "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "castle",
-    "startOffset" : 23,
-    "endOffset" : 29,
+    "token" : "antithesis",
+    "startOffset" : 16,
+    "endOffset" : 26,
     "position" : 3
   }, {
-    "token" : "for",
-    "startOffset" : 30,
-    "endOffset" : 33,
+    "token" : "of",
+    "startOffset" : 27,
+    "endOffset" : 29,
     "position" : 4
   }, {
-    "token" : "everyone",
-    "startOffset" : 34,
-    "endOffset" : 42,
+    "token" : "freedom",
+    "startOffset" : 30,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFC4zMDTAu_IiLfKMW",
+  "text" : "For the crime of advocating freedom.",
+  "translations" : {
+    "russian" : "Страшное преступление я защищал свободу!"
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "crime",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "advocate",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "freedom",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFb80uDTAu_IiLfdYI",
+  "text" : "So, we have two competing freedoms.",
+  "translations" : {
+    "russian" : "У нас тут две конкурирующие свободы."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "we",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "two",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "compete",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "freedom",
+    "startOffset" : 26,
+    "endOffset" : 34,
     "position" : 5
   } ],
   "contentScore" : null

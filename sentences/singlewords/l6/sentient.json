@@ -27,6 +27,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFjBLdDTAu_IiLfiMo",
+  "text" : "Hell, sentient leeches.",
+  "translations" : {
+    "russian" : "Черт, живые пиявки."
+  },
+  "tokens" : [ {
+    "token" : "hell",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "sentient",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "leech",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfLAONEXFMlzHK8ZB",
   "text" : "Sentient life forms approaching.",
   "translations" : {
@@ -52,6 +75,39 @@
     "startOffset" : 20,
     "endOffset" : 31,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEg-cVDTAu_IiLexsE",
+  "text" : "Who wants a sentient fungus?",
+  "translations" : {
+    "russian" : "Кому нужны разумные грибы?"
+  },
+  "tokens" : [ {
+    "token" : "who",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "want",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "sentient",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "fungus",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

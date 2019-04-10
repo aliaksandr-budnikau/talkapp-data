@@ -274,6 +274,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFXiAHDTAu_IiLfZvz",
+  "text" : "He shredded my backpack.",
+  "translations" : {
+    "russian" : "Он разрезал мой рюкзак на лоскутки."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "shredded",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "backpack",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglZY6NEXFMlzHLCdx",
   "text" : "I lost the backpack!",
   "translations" : {
@@ -411,34 +439,6 @@
     "startOffset" : 9,
     "endOffset" : 17,
     "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglaX9NEXFMlzHLCfk",
-  "text" : "He's backpacking through Europe.",
-  "translations" : {
-    "russian" : "Он путешествует по Европе."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "backpack",
-    "startOffset" : 5,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "through",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "europe",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

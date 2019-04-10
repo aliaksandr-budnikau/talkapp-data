@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoD26pEDTAu_IiLeTkK",
+  "text" : "The Bureau of Cosmetics...",
+  "translations" : {
+    "russian" : "Отдел благовоний..."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bureau",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "cosmetic",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpBKXNEXFMlzHLHtr",
   "text" : "The plan doesn't cover cosmetic.",
   "translations" : {
@@ -109,6 +137,44 @@
     "token" : "first",
     "startOffset" : 28,
     "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMPU2DTAu_IiLeidR",
+  "text" : "Thirty percent cosmetic, seventy percent reconstructive.",
+  "translations" : {
+    "russian" : "30 косметические, 70 восстановительные."
+  },
+  "tokens" : [ {
+    "token" : "thirty",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "percent",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "cosmetic",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "seventy",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "percent",
+    "startOffset" : 33,
+    "endOffset" : 40,
+    "position" : 4
+  }, {
+    "token" : "reconstructive",
+    "startOffset" : 41,
+    "endOffset" : 55,
     "position" : 5
   } ],
   "contentScore" : null

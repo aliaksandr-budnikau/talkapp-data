@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoEdcQNDTAu_IiLeu6i",
+  "text" : "Pigeon egg.",
+  "translations" : {
+    "russian" : "Голубиные яйца."
+  },
+  "tokens" : [ {
+    "token" : "pigeon",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "egg",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFake6DTAu_IiLfcSa",
+  "text" : "Egg butties?",
+  "translations" : {
+    "russian" : "Бутеры с яйцом?"
+  },
+  "tokens" : [ {
+    "token" : "egg",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "butties",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmdQuNEXFMlzHLD7H",
   "text" : "I fry the eggs.",
   "translations" : {
@@ -23,6 +59,62 @@
     "token" : "egg",
     "startOffset" : 10,
     "endOffset" : 14,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDhldbDTAu_IiLeH5A",
+  "text" : "Ham and egg biscuits.",
+  "translations" : {
+    "russian" : "И бутерброды с ветчиной и сыром."
+  },
+  "tokens" : [ {
+    "token" : "ham",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "egg",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "biscuit",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0BU7DTAu_IiLe_rG",
+  "text" : "Sloppy, slimy eggs again?",
+  "translations" : {
+    "russian" : "Снова мокрые, липкие яйца?"
+  },
+  "tokens" : [ {
+    "token" : "sloppy",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "slimy",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "egg",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "again",
+    "startOffset" : 19,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
@@ -116,6 +208,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDhhpLDTAu_IiLeH22",
+  "text" : "Sandwiches, ham salad, egg salad.",
+  "translations" : {
+    "russian" : "Сэндвичи, салат, ветчина салат, яйца."
+  },
+  "tokens" : [ {
+    "token" : "sandwich",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "ham",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "salad",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "egg",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "salad",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcs5vNEXFMlzHK6QN",
   "text" : "She'd love an egg cream.",
   "translations" : {
@@ -178,6 +303,77 @@
     "token" : "fry",
     "startOffset" : 16,
     "endOffset" : 19,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEw49XDTAu_IiLe9aJ",
+  "text" : "Now my eggs need nourishment.",
+  "translations" : {
+    "russian" : "Теперь моим яйцам необходимо питание."
+  },
+  "tokens" : [ {
+    "token" : "now",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "egg",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "need",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "nourishment",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "nourish",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8-2pDTAu_IiLfFm7",
+  "text" : "Canadian scrambled eggs, how quaint.",
+  "translations" : {
+    "russian" : "Канадский омлет, как необычно."
+  },
+  "tokens" : [ {
+    "token" : "canadian",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "scramble",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "egg",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "how",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "quaint",
+    "startOffset" : 29,
+    "endOffset" : 35,
     "position" : 4
   } ],
   "contentScore" : null
@@ -248,287 +444,36 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnlm2NEXFMlzHLFsr",
-  "text" : "Must be my famous eggs.",
+  "id" : "AWoEdcZvDTAu_IiLeu6q",
+  "text" : "I'm looking for pigeon eggs.",
   "translations" : {
-    "russian" : "Должно быть мои знаменитые яйца."
+    "russian" : "Я ищу голубиные яйца."
   },
   "tokens" : [ {
-    "token" : "must",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "be",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "famous",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "egg",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmdSMNEXFMlzHLD7K",
-  "text" : "Mom is frying some eggs...",
-  "translations" : {
-    "russian" : "Мама сейчас яичницу жарит..."
-  },
-  "tokens" : [ {
-    "token" : "mom",
+    "token" : "i'm",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "is",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "fry",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "some",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "egg",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgngwWNEXFMlzHLFkn",
-  "text" : "Mom is frying some eggs...",
-  "translations" : {
-    "russian" : "Мама сейчас яичницу жарит..."
-  },
-  "tokens" : [ {
-    "token" : "mom",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "fry",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "some",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "egg",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgng3LNEXFMlzHLFkx",
-  "text" : "One less egg to fry.",
-  "translations" : {
-    "russian" : "Жарить меньше на одно яйцо."
-  },
-  "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "less",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "egg",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "fry",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcaN0NEXFMlzHK5_b",
-  "text" : "Got ta get me some eggs.",
-  "translations" : {
-    "russian" : "Собираюсь съесть парочку яиц."
-  },
-  "tokens" : [ {
-    "token" : "got",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "ta",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "get",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "me",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "some",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 4
-  }, {
-    "token" : "egg",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdm9VNEXFMlzHK7BQ",
-  "text" : "Now they're throwing eggs at me.",
-  "translations" : {
-    "russian" : "Теперь они швыряют в меня яйца."
-  },
-  "tokens" : [ {
-    "token" : "now",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "they're",
+    "token" : "look",
     "startOffset" : 4,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "throw",
+    "token" : "for",
     "startOffset" : 12,
-    "endOffset" : 20,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "egg",
-    "startOffset" : 21,
-    "endOffset" : 25,
+    "token" : "pigeon",
+    "startOffset" : 16,
+    "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "at",
-    "startOffset" : 26,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "me",
-    "startOffset" : 29,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzYnINEXFMlzHLWW1",
-  "text" : "Would a Scotch egg have umami?",
-  "translations" : {
-    "russian" : "А у яйца по-шотландски есть умами?"
-  },
-  "tokens" : [ {
-    "token" : "would",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "scotch",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
     "token" : "egg",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "have",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "umami",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvkCcNEXFMlzHLRLb",
-  "text" : "The eggs are about to hatch.",
-  "translations" : {
-    "russian" : "Солдаты уже почти готовы вылупиться из яиц."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "egg",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "about",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "to",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "hatch",
-    "startOffset" : 22,
+    "startOffset" : 23,
     "endOffset" : 27,
-    "position" : 5
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

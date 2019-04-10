@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEvgdwDTAu_IiLe8XS",
+  "text" : "They're officious and dull.",
+  "translations" : {
+    "russian" : "Назойливые и тупые."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "officious",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "dull",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcwXDNEXFMlzHK6TU",
   "text" : "They're duller than the Queen's jubilee.",
   "translations" : {
@@ -33,6 +61,44 @@
     "token" : "jubilee",
     "startOffset" : 32,
     "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjftuDTAu_IiLeI-S",
+  "text" : "It's so dull here, so desolate.",
+  "translations" : {
+    "russian" : "Скучно у нас, пустынно."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "so",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "dull",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "here",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "so",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "desolate",
+    "startOffset" : 22,
+    "endOffset" : 30,
     "position" : 5
   } ],
   "contentScore" : null

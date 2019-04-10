@@ -1,4 +1,200 @@
 [ {
+  "id" : "AWoFMqSTDTAu_IiLfRsF",
+  "text" : "Low frequency, high intensity.",
+  "translations" : {
+    "russian" : "Чем ниже частота, тем выше напряжение."
+  },
+  "tokens" : [ {
+    "token" : "low",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "frequency",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "high",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "tensity",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKE-1DTAu_IiLfPt2",
+  "text" : "Isolate the frequency.",
+  "translations" : {
+    "russian" : "Отдели частоту."
+  },
+  "tokens" : [ {
+    "token" : "isolate",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "frequency",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKPvLDTAu_IiLfP2W",
+  "text" : "Isolate the frequency.",
+  "translations" : {
+    "russian" : "Отдели частоту."
+  },
+  "tokens" : [ {
+    "token" : "isolate",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "frequency",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJ6AZDTAu_IiLfPlK",
+  "text" : "Isolate the frequency.",
+  "translations" : {
+    "russian" : "Отдели частоту."
+  },
+  "tokens" : [ {
+    "token" : "isolate",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "frequency",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoqbtDTAu_IiLe3me",
+  "text" : "Your frequency discriminator's drifting.",
+  "translations" : {
+    "russian" : "Твой частотный детектор колеблется."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "frequency",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "discriminator",
+    "startOffset" : 15,
+    "endOffset" : 30,
+    "position" : 2
+  }, {
+    "token" : "drifting",
+    "startOffset" : 31,
+    "endOffset" : 39,
+    "position" : 3
+  }, {
+    "token" : "drift",
+    "startOffset" : 31,
+    "endOffset" : 39,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRs1MDTAu_IiLd-sl",
+  "text" : "A frequency modulated acoustic lock.",
+  "translations" : {
+    "russian" : "Частотно-модулируемый акустический замок."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "frequency",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "modulate",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "acoustic",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "lock",
+    "startOffset" : 31,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaukVDTAu_IiLetDf",
+  "text" : "Sound frequency's at 300 hertz.",
+  "translations" : {
+    "russian" : "Частота звука была 300 Герц."
+  },
+  "tokens" : [ {
+    "token" : "sound",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "frequency",
+    "startOffset" : 6,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "300",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "hertz",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgit9jNEXFMlzHK_aH",
   "text" : "Does this transmit sound frequencies?",
   "translations" : {
@@ -72,6 +268,44 @@
     "startOffset" : 25,
     "endOffset" : 36,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGz4hDTAu_IiLfNCX",
+  "text" : "All channels and frequencies are clear.",
+  "translations" : {
+    "russian" : "Все каналы и частоты открыты."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "channel",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "frequency",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "are",
+    "startOffset" : 29,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "clear",
+    "startOffset" : 33,
+    "endOffset" : 38,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

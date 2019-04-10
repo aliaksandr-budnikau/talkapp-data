@@ -22,6 +22,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoESrC-DTAu_IiLenOD",
+  "text" : "I won't permit it!",
+  "translations" : {
+    "russian" : "Я не позволю!"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "won't",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "permit",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguTrfNEXFMlzHLO1z",
   "text" : "Yeah, the construction permits.",
   "translations" : {
@@ -279,6 +307,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDXGHEDTAu_IiLeB8H",
+  "text" : "The Arbiter will permit submissions.",
+  "translations" : {
+    "russian" : "Арбитр позволит представить документы."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "arbiter",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "will",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "permit",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "submission",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyjllNEXFMlzHLU9q",
   "text" : "Death certificates, body transport permits.",
   "translations" : {
@@ -407,72 +468,6 @@
     "token" : "permit",
     "startOffset" : 17,
     "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguT2eNEXFMlzHLO2I",
-  "text" : "We got the travel permits.",
-  "translations" : {
-    "russian" : "У нас есть разрешения на выезд."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "travel",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "permit",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguUfeNEXFMlzHLO3c",
-  "text" : "Henry will never permit it.",
-  "translations" : {
-    "russian" : "Генри никогда не допустит этого."
-  },
-  "tokens" : [ {
-    "token" : "henry",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "will",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "never",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "permit",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 24,
-    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null

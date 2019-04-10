@@ -1,4 +1,45 @@
 [ {
+  "id" : "AWoFVvTlDTAu_IiLfYeH",
+  "text" : "Exact quote.",
+  "translations" : {
+    "russian" : "Слово в слово."
+  },
+  "tokens" : [ {
+    "token" : "exact",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "quote",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQfjfDTAu_IiLfUm9",
+  "text" : "Exactly, Yeoman.",
+  "translations" : {
+    "russian" : "Именно так, старшина."
+  },
+  "tokens" : [ {
+    "token" : "exactly",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "exact",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "yeoman",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgurEHNEXFMlzHLPkG",
   "text" : "No, you're exactly right.",
   "translations" : {
@@ -29,6 +70,171 @@
     "startOffset" : 19,
     "endOffset" : 24,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwOK1DTAu_IiLeQJh",
+  "text" : "This ain't exactly Brazil.",
+  "translations" : {
+    "russian" : "Это точно не Бразильский."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ain't",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "exactly",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "exact",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "brazil",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbtOwDTAu_IiLfdL2",
+  "text" : "Exactly as you've specified.",
+  "translations" : {
+    "russian" : "Точно такая, как вы указали."
+  },
+  "tokens" : [ {
+    "token" : "exactly",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "exact",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "as",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "you've",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "specified",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "specify",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdEbyDTAu_IiLfeN1",
+  "text" : "My thoughts exactly, Control.",
+  "translations" : {
+    "russian" : "Вот и я подумал о том же, Контрол."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "thought",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "exactly",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "exact",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "control",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRVFvDTAu_IiLd-cP",
+  "text" : "He's not exactly punctual.",
+  "translations" : {
+    "russian" : "Он не слишком пунктуален."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "exactly",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "exact",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "punctual",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdNg4DTAu_IiLfeUc",
+  "text" : "Supervising what, exactly?",
+  "translations" : {
+    "russian" : "За чем именно он наблюдает?"
+  },
+  "tokens" : [ {
+    "token" : "supervise",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "what",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "exactly",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "exact",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -98,71 +304,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgurCaNEXFMlzHLPkD",
-  "text" : "You're exactly right.",
+  "id" : "AWoDeKkiDTAu_IiLeF5K",
+  "text" : "What exactly is mutton?",
   "translations" : {
-    "russian" : "Вы совершенно правы."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "exactly",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "exact",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "right",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjebvNEXFMlzHLACu",
-  "text" : "Sulfur dioxide, to be exact.",
-  "translations" : {
-    "russian" : "Если конкретнее, двуокиси серы."
-  },
-  "tokens" : [ {
-    "token" : "sulfur",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "dioxide",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "be",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "exact",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpnAbNEXFMlzHLIf-",
-  "text" : "What room is it, exactly?",
-  "translations" : {
-    "russian" : "А какой это номер?"
+    "russian" : "Из чего именно сделана баранина?"
   },
   "tokens" : [ {
     "token" : "what",
@@ -170,291 +315,195 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "room",
+    "token" : "exactly",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "exact",
+    "startOffset" : 5,
+    "endOffset" : 12,
     "position" : 1
   }, {
     "token" : "is",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "it",
     "startOffset" : 13,
     "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "exactly",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "exact",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgx6__NEXFMlzHLT_c",
-  "text" : "Um, that's exactly the point.",
-  "translations" : {
-    "russian" : "В том-то и дело."
-  },
-  "tokens" : [ {
-    "token" : "um",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "exactly",
-    "startOffset" : 11,
-    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "exact",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 19,
+    "token" : "mutton",
+    "startOffset" : 16,
     "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "point",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglFh0NEXFMlzHLB6M",
-  "text" : "Not exactly storming Omaha Beach.",
+  "id" : "AWoDq_fJDTAu_IiLeM_c",
+  "text" : "You ain't exactly discreet.",
   "translations" : {
-    "russian" : "Не сравнимо со штурмом Омаха Бич."
+    "russian" : "Не очень благоразумно с твоей стороны."
   },
   "tokens" : [ {
-    "token" : "not",
+    "token" : "you",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
+    "token" : "ain't",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
     "token" : "exactly",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "exact",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "storm",
-    "startOffset" : 12,
-    "endOffset" : 20,
+    "startOffset" : 10,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "omaha",
-    "startOffset" : 21,
+    "token" : "exact",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "discreet",
+    "startOffset" : 18,
     "endOffset" : 26,
     "position" : 3
-  }, {
-    "token" : "beach",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbzJuNEXFMlzHK5cC",
-  "text" : "Tell me the exact date.",
+  "id" : "AWoD0XLgDTAu_IiLeSYc",
+  "text" : "He's not exactly forthcoming.",
   "translations" : {
-    "russian" : "Скажи мне точное число."
+    "russian" : "Он сейчас не слишком-то общителен."
   },
   "tokens" : [ {
-    "token" : "tell",
+    "token" : "he",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "me",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "exact",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "date",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbAKDNEXFMlzHK4uZ",
-  "text" : "That's exactly what we need.",
-  "translations" : {
-    "russian" : "Именно это нам и нужно."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "exactly",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "exact",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "what",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "we",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "need",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgs2VdNEXFMlzHLM-9",
-  "text" : "Not exactly a social call.",
-  "translations" : {
-    "russian" : "Это далеко не светский визит."
-  },
-  "tokens" : [ {
     "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
   }, {
     "token" : "exactly",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "exact",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
+    "startOffset" : 9,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "social",
-    "startOffset" : 14,
-    "endOffset" : 20,
+    "token" : "exact",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "forthcoming",
+    "startOffset" : 17,
+    "endOffset" : 28,
     "position" : 3
   }, {
-    "token" : "call",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
+    "token" : "forthcome",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyEOpNEXFMlzHLUMq",
-  "text" : "A nerve agent, to be exact.",
+  "id" : "AWoEFprsDTAu_IiLedjf",
+  "text" : "It's not exactly uplifting...",
   "translations" : {
-    "russian" : "Паралитическое вещество, если быть точной."
+    "russian" : "Это не особо поднимает настроение..."
   },
   "tokens" : [ {
-    "token" : "a",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "nerve",
-    "startOffset" : 2,
-    "endOffset" : 7,
+    "token" : "not",
+    "startOffset" : 5,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "agent",
-    "startOffset" : 8,
-    "endOffset" : 13,
+    "token" : "exactly",
+    "startOffset" : 9,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "be",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
     "token" : "exact",
-    "startOffset" : 21,
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "uplift",
+    "startOffset" : 17,
     "endOffset" : 26,
-    "position" : 5
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggXnYNEXFMlzHK9aM",
-  "text" : "A nerve agent, to be exact.",
+  "id" : "AWoEFpqODTAu_IiLedje",
+  "text" : "It's not exactly uplifting.",
   "translations" : {
-    "russian" : "Паралитическое вещество, если быть точной."
+    "russian" : "Это точно не поднимает настроение."
   },
   "tokens" : [ {
-    "token" : "a",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "nerve",
-    "startOffset" : 2,
-    "endOffset" : 7,
+    "token" : "not",
+    "startOffset" : 5,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "agent",
-    "startOffset" : 8,
-    "endOffset" : 13,
+    "token" : "exactly",
+    "startOffset" : 9,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
+    "token" : "exact",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "uplift",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEe4z7DTAu_IiLewBg",
+  "text" : "Both They're commonwealths. Exactly.",
+  "translations" : {
+    "russian" : "Это содружества."
+  },
+  "tokens" : [ {
+    "token" : "both",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "they're",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "commonwealths",
+    "startOffset" : 13,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "exactly",
+    "startOffset" : 28,
+    "endOffset" : 35,
     "position" : 3
   }, {
-    "token" : "be",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
     "token" : "exact",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 5
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoE43hTDTAu_IiLfC7s",
+  "text" : "Spray tan gift certificates.",
+  "translations" : {
+    "russian" : "Подарочные купоны на автозагар."
+  },
+  "tokens" : [ {
+    "token" : "spray",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "tan",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "gift",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "certificate",
+    "startOffset" : 15,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbh7fDTAu_IiLeEcO",
+  "text" : "Certificate of Authenticity.",
+  "translations" : {
+    "russian" : "Сертификат подлинности."
+  },
+  "tokens" : [ {
+    "token" : "certificate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "authenticity",
+    "startOffset" : 15,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2FHvDTAu_IiLfBFZ",
+  "text" : "Birth certificates notarized and authenticated.",
+  "translations" : {
+    "russian" : "Свидетельства о рождении нотариально заверены."
+  },
+  "tokens" : [ {
+    "token" : "birth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "certificate",
+    "startOffset" : 6,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "notarize",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 29,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "authenticated",
+    "startOffset" : 33,
+    "endOffset" : 46,
+    "position" : 4
+  }, {
+    "token" : "authenticate",
+    "startOffset" : 33,
+    "endOffset" : 46,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyjllNEXFMlzHLU9q",
   "text" : "Death certificates, body transport permits.",
   "translations" : {
@@ -28,6 +117,82 @@
     "token" : "permit",
     "startOffset" : 35,
     "endOffset" : 42,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2De8DTAu_IiLfBEV",
+  "text" : "Birth certificates notarized and authenticated.",
+  "translations" : {
+    "russian" : "Свидетельства о рождении нотариально заверены."
+  },
+  "tokens" : [ {
+    "token" : "birth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "certificate",
+    "startOffset" : 6,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "notarize",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 29,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "authenticated",
+    "startOffset" : 33,
+    "endOffset" : 46,
+    "position" : 4
+  }, {
+    "token" : "authenticate",
+    "startOffset" : 33,
+    "endOffset" : 46,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAnygDTAu_IiLfIgQ",
+  "text" : "Birth certificates notarized and authenticated.",
+  "translations" : {
+    "russian" : "Свидетельства о рождении нотариально заверены."
+  },
+  "tokens" : [ {
+    "token" : "birth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "certificate",
+    "startOffset" : 6,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "notarize",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 29,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "authenticated",
+    "startOffset" : 33,
+    "endOffset" : 46,
+    "position" : 4
+  }, {
+    "token" : "authenticate",
+    "startOffset" : 33,
+    "endOffset" : 46,
     "position" : 4
   } ],
   "contentScore" : null
@@ -70,6 +235,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEArp7DTAu_IiLeZsd",
+  "text" : "Traveling certificates should be more accessible.",
+  "translations" : {
+    "russian" : "Туристические путёвки должны быть более доступными."
+  },
+  "tokens" : [ {
+    "token" : "travel",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "certificate",
+    "startOffset" : 10,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "should",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 30,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "more",
+    "startOffset" : 33,
+    "endOffset" : 37,
+    "position" : 4
+  }, {
+    "token" : "accessible",
+    "startOffset" : 38,
+    "endOffset" : 48,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbr2VNEXFMlzHK5Va",
   "text" : "I need your uncle's birth certificate.",
   "translations" : {
@@ -104,6 +307,44 @@
     "token" : "certificate",
     "startOffset" : 26,
     "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESQGMDTAu_IiLem5f",
+  "text" : "This gift certificate's about to expire.",
+  "translations" : {
+    "russian" : "У этого подарочного сертификата скоро закончится срок действия."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "gift",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "certificate",
+    "startOffset" : 10,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "about",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 30,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "expire",
+    "startOffset" : 33,
+    "endOffset" : 39,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoEP7i3DTAu_IiLelNV",
+  "text" : "Gateway portal opened.",
+  "translations" : {
+    "russian" : "Портал Гейтуэй открыт."
+  },
+  "tokens" : [ {
+    "token" : "gateway",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "portal",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "opened",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "open",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0_TsDTAu_IiLfAVq",
+  "text" : "I opened the cranberries.",
+  "translations" : {
+    "russian" : "Я открыл клюкву."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "opened",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "open",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "cranberry",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEUKsDTAu_IiLecim",
+  "text" : "Exterior airlock opened.",
+  "translations" : {
+    "russian" : "Внешний шлюз открыт."
+  },
+  "tokens" : [ {
+    "token" : "exterior",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "airlock",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "opened",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "open",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmI6LNEXFMlzHLDX6",
   "text" : "A funnel just opened.",
   "translations" : {
@@ -65,6 +154,72 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEkeSfDTAu_IiLe0b9",
+  "text" : "You opened a debate.",
+  "translations" : {
+    "russian" : "Это вы начали дискуссию."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "opened",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "open",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "debate",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "bate",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEId18DTAu_IiLefkG",
+  "text" : "I've just reopened it.",
+  "translations" : {
+    "russian" : "Я только что возобновил его."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "opened",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoT5cNEXFMlzHLGuE",
   "text" : "He opened a flower shop.",
   "translations" : {
@@ -100,6 +255,44 @@
     "startOffset" : 19,
     "endOffset" : 23,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEId9RDTAu_IiLefkL",
+  "text" : "Your son's case has been reopened.",
+  "translations" : {
+    "russian" : "Дело вашего сына возобновили."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "son",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "case",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "has",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "been",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "opened",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

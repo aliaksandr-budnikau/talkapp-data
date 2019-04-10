@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoEJXQSDTAu_IiLegM9",
+  "text" : "Out. Courtship calls.",
+  "translations" : {
+    "russian" : "Ухаживание зовёт."
+  },
+  "tokens" : [ {
+    "token" : "out",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "courtship",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvXKhNEXFMlzHLQwN",
   "text" : "No call went out.",
   "translations" : {
@@ -24,6 +47,77 @@
     "startOffset" : 13,
     "endOffset" : 16,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdpgKDTAu_IiLeFmB",
+  "text" : "Into calling out Hurst?",
+  "translations" : {
+    "russian" : "Когда я позвал Херста?"
+  },
+  "tokens" : [ {
+    "token" : "into",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "calling",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "out",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "hurst",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHXBwDTAu_IiLeezG",
+  "text" : "Please refrain from calling out.",
+  "translations" : {
+    "russian" : "Пожалуйста, воздержитесь от высказываний."
+  },
+  "tokens" : [ {
+    "token" : "please",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "refrain",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "from",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "calling",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "call",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "out",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

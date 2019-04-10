@@ -1,4 +1,73 @@
 [ {
+  "id" : "AWoDTBYCDTAu_IiLd_lP",
+  "text" : "Ask Alma.",
+  "translations" : {
+    "russian" : "Спросите Алму."
+  },
+  "tokens" : [ {
+    "token" : "ask",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "alma",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDxJa3DTAu_IiLeQrK",
+  "text" : "Foreman asks.",
+  "translations" : {
+    "russian" : "Мастер другой вопрос."
+  },
+  "tokens" : [ {
+    "token" : "foreman",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "ask",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEj1OKDTAu_IiLez_K",
+  "text" : "Ask him. Ask the janitor.",
+  "translations" : {
+    "russian" : "Спросите уборщика."
+  },
+  "tokens" : [ {
+    "token" : "ask",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "ask",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "janitor",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghGp-NEXFMlzHK-DC",
   "text" : "You asked the man.",
   "translations" : {
@@ -32,6 +101,151 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEBLdmDTAu_IiLeaEk",
+  "text" : "Visitors always ask us.",
+  "translations" : {
+    "russian" : "Визитеры всегда спрашивают нас."
+  },
+  "tokens" : [ {
+    "token" : "visitor",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "alway",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "ask",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "us",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmwOsDTAu_IiLe2Ie",
+  "text" : "He asked for specifications.",
+  "translations" : {
+    "russian" : "Ему нужны были инструкции."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "asked",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "ask",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "specification",
+    "startOffset" : 13,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0bSKDTAu_IiLe_8v",
+  "text" : "Porky, you ask him.",
+  "translations" : {
+    "russian" : "Нет? Порки, спроси его."
+  },
+  "tokens" : [ {
+    "token" : "porky",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ask",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "him",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHuZXDTAu_IiLfNyO",
+  "text" : "Apologize ask forgiveness...",
+  "translations" : {
+    "russian" : "Проси прощения проси прощения..."
+  },
+  "tokens" : [ {
+    "token" : "apologize",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "ask",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "forgiveness",
+    "startOffset" : 14,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "forgive",
+    "startOffset" : 14,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFc6hvDTAu_IiLfeGg",
+  "text" : "Ask him about... Counterpoint.",
+  "translations" : {
+    "russian" : "Спросите его о... контрапункте."
+  },
+  "tokens" : [ {
+    "token" : "ask",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "about",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "counterpoint",
+    "startOffset" : 17,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpfFVNEXFMlzHLIU3",
   "text" : "Don't ask for credit.",
   "translations" : {
@@ -60,467 +274,46 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgn6phNEXFMlzHLGPQ",
-  "text" : "I'm only asking carrying charges.",
+  "id" : "AWoDkuQCDTAu_IiLeJpr",
+  "text" : "Nobody asked for perfection.",
   "translations" : {
-    "russian" : "Я прошу только как за перевозку груза."
+    "russian" : "Никто не просил о совершенстве."
   },
   "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "only",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "ask",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "carry",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "charge",
-    "startOffset" : 25,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpdcZNEXFMlzHLISj",
-  "text" : "Ask her about a credit.",
-  "translations" : {
-    "russian" : "Спроси её о кредите."
-  },
-  "tokens" : [ {
-    "token" : "ask",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "her",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "about",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "credit",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtL-UNEXFMlzHLNaB",
-  "text" : "Ask for a loan- beg.",
-  "translations" : {
-    "russian" : "Попроси взаймы."
-  },
-  "tokens" : [ {
-    "token" : "ask",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "loan",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "beg",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtjvmNEXFMlzHLNqG",
-  "text" : "An indigent asks for money.",
-  "translations" : {
-    "russian" : "Нищий просит у него денег."
-  },
-  "tokens" : [ {
-    "token" : "an",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "indigent",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "ask",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "money",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoFYoNEXFMlzHLGXA",
-  "text" : "You're asking me to gossip?",
-  "translations" : {
-    "russian" : "Вы хотите, чтобы я сплетничала?"
-  },
-  "tokens" : [ {
-    "token" : "you're",
+    "token" : "nobody",
     "startOffset" : 0,
     "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "ask",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "gossip",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl-ElNEXFMlzHLDFG",
-  "text" : "Father, I ask a favor.",
-  "translations" : {
-    "russian" : "Падре, я хотел бы вас попросить..."
-  },
-  "tokens" : [ {
-    "token" : "father",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "ask",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "favor",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl9wFNEXFMlzHLDEn",
-  "text" : "I can ask a favor?",
-  "translations" : {
-    "russian" : "Можно попросить о любезности?"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "can",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "ask",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 10,
-    "endOffset" : 11,
-    "position" : 3
-  }, {
-    "token" : "favor",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl-aTNEXFMlzHLDFx",
-  "text" : "You ask me a favor?",
-  "translations" : {
-    "russian" : "Ты хочешь помочь мне ?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "ask",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 3
-  }, {
-    "token" : "favor",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy_zHNEXFMlzHLVjS",
-  "text" : "I asked for this transfer.",
-  "translations" : {
-    "russian" : "Я просил об этом переносе."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
     "position" : 0
   }, {
     "token" : "asked",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "ask",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "this",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "transfer",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqnVoNEXFMlzHLJzi",
-  "text" : "Could we ask another question?",
-  "translations" : {
-    "russian" : "Мы могли бы задать другой вопрос?"
-  },
-  "tokens" : [ {
-    "token" : "could",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "we",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "ask",
-    "startOffset" : 9,
+    "startOffset" : 7,
     "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "another",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "question",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl9ZeNEXFMlzHLDD6",
-  "text" : "I've got a favor to ask.",
-  "translations" : {
-    "russian" : "Сделай мне одолжение."
-  },
-  "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "favor",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "to",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "ask",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqnZCNEXFMlzHLJzn",
-  "text" : "Let me ask you a question.",
-  "translations" : {
-    "russian" : "Ответь мне на такой вопрос."
-  },
-  "tokens" : [ {
-    "token" : "let",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 4,
-    "endOffset" : 6,
     "position" : 1
   }, {
     "token" : "ask",
     "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 15,
-    "endOffset" : 16,
-    "position" : 4
-  }, {
-    "token" : "question",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsn5-NEXFMlzHLMr_",
-  "text" : "I'm not asking for a handout.",
-  "translations" : {
-    "russian" : "Я не прошу у тебя милостыню."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 4,
-    "endOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "ask",
-    "startOffset" : 8,
-    "endOffset" : 14,
+    "token" : "for",
+    "startOffset" : 13,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "for",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "token" : "perfection",
+    "startOffset" : 17,
+    "endOffset" : 27,
     "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 19,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "handout",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgda4xNEXFMlzHK64a",
-  "text" : "Just ask and ye shall receive.",
+  "id" : "AWoEorzIDTAu_IiLe3nh",
+  "text" : "I'll ask for directions.",
   "translations" : {
-    "russian" : "Просто просите, и получите."
+    "russian" : "Пойду, узнаю дорогу."
   },
   "tokens" : [ {
-    "token" : "just",
+    "token" : "i'll",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
@@ -530,25 +323,132 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "and",
+    "token" : "for",
     "startOffset" : 9,
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "ye",
+    "token" : "directions",
     "startOffset" : 13,
-    "endOffset" : 15,
+    "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "shall",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 4
+    "token" : "direction",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQzqHDTAu_IiLfU3f",
+  "text" : "Ask the treasury secretary.",
+  "translations" : {
+    "russian" : "Спроси секретаря казначейства."
+  },
+  "tokens" : [ {
+    "token" : "ask",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
-    "token" : "receive",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 5
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "treasury",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "secretary",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtUBwDTAu_IiLe62y",
+  "text" : "I overreached in asking.",
+  "translations" : {
+    "russian" : "Я перестарался настаивая на этом."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "overreach",
+    "startOffset" : 2,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "ask",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERM7NDTAu_IiLemHs",
+  "text" : "Ask some other boon.",
+  "translations" : {
+    "russian" : "Попроси о какой-нибудь другой милости."
+  },
+  "tokens" : [ {
+    "token" : "ask",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "some",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "other",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "boon",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFK8qCDTAu_IiLfQY3",
+  "text" : "Ask for a mule.",
+  "translations" : {
+    "russian" : "Попроси мула."
+  },
+  "tokens" : [ {
+    "token" : "ask",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "mule",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

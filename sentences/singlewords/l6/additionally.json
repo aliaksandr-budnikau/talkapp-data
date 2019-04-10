@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEzXZxDTAu_IiLe_Nz",
+  "text" : "He contributed additional information.",
+  "translations" : {
+    "russian" : "Он внес дополнительную информацию."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "contribute",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "additional",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "information",
+    "startOffset" : 26,
+    "endOffset" : 37,
+    "position" : 3
+  }, {
+    "token" : "formation",
+    "startOffset" : 26,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxa9ONEXFMlzHLTOF",
   "text" : "Standby for additional info. Trip.",
   "translations" : {
@@ -60,6 +93,77 @@
   }, {
     "token" : "powder",
     "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtMXKDTAu_IiLeOTo",
+  "text" : "Could you deliver additional ammunition?",
+  "translations" : {
+    "russian" : "Можете ли вы доставить дополнительные боеприпасы?"
+  },
+  "tokens" : [ {
+    "token" : "could",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "deliver",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "liver",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "additional",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "ammunition",
+    "startOffset" : 29,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHoX5DTAu_IiLfNtN",
+  "text" : "Advise if you need additional.",
+  "translations" : {
+    "russian" : "Сообщите, если потребуется подкрепление."
+  },
+  "tokens" : [ {
+    "token" : "advise",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "if",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "need",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "additional",
+    "startOffset" : 19,
     "endOffset" : 29,
     "position" : 4
   } ],

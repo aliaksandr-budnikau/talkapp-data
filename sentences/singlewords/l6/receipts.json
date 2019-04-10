@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoErrLpDTAu_IiLe5w1",
+  "text" : "Proof of receipt?",
+  "translations" : {
+    "russian" : "А как же подтверждение доставки?"
+  },
+  "tokens" : [ {
+    "token" : "proof",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "receipt",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErrIuDTAu_IiLe5wz",
+  "text" : "It's proof of receipt.",
+  "translations" : {
+    "russian" : "Подтверждение доставки!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "proof",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "receipt",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoezNNEXFMlzHLG-0",
   "text" : "I've reviewed all those receipts.",
   "translations" : {
@@ -28,6 +89,44 @@
     "token" : "receipt",
     "startOffset" : 24,
     "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErrJsDTAu_IiLe5w0",
+  "text" : "This is proof of receipt.",
+  "translations" : {
+    "russian" : "Вот подтверждение доставки."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "proof",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "receipt",
+    "startOffset" : 17,
+    "endOffset" : 24,
     "position" : 4
   } ],
   "contentScore" : null
@@ -62,6 +161,44 @@
     "startOffset" : 24,
     "endOffset" : 32,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRueCDTAu_IiLd-tx",
+  "text" : "The actuarial reports, their sales receipts.",
+  "translations" : {
+    "russian" : "Страховые отчёты, их квитанции по продаже."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "actuarial",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "port",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "their",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "sale",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "receipt",
+    "startOffset" : 35,
+    "endOffset" : 43,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoDxyB2DTAu_IiLeQ-u",
+  "text" : "Northern nomadic tribes.",
+  "translations" : {
+    "russian" : "Кочевые племена с севера."
+  },
+  "tokens" : [ {
+    "token" : "northern",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "nomadic",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "tribe",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQFwSDTAu_IiLd9j4",
+  "text" : "Are you northern agitators?",
+  "translations" : {
+    "russian" : "Северные агитаторы?"
+  },
+  "tokens" : [ {
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "northern",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "agitator",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgk0ZSNEXFMlzHLBcv",
   "text" : "The coal belt in Northern China.",
   "translations" : {
@@ -33,6 +84,44 @@
     "token" : "china",
     "startOffset" : 26,
     "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhExJDTAu_IiLexw5",
+  "text" : "The northerners are such fearsome warriors.",
+  "translations" : {
+    "russian" : "Северяне - грозные воины."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "northern",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "such",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "fearsome",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "warrior",
+    "startOffset" : 34,
+    "endOffset" : 42,
     "position" : 5
   } ],
   "contentScore" : null

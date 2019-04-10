@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoD9erLDTAu_IiLeXQf",
+  "text" : "Collision probability... 100.",
+  "translations" : {
+    "russian" : "Возможность столкновения... 100."
+  },
+  "tokens" : [ {
+    "token" : "collision",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "probability",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "100",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgm09TNEXFMlzHLEje",
   "text" : "They're slowing for a traffic collision.",
   "translations" : {
@@ -33,6 +56,82 @@
     "token" : "collision",
     "startOffset" : 30,
     "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfKGgDTAu_IiLffuS",
+  "text" : "Competitor, creditor, corruption, corrosion, collision, crone...",
+  "translations" : {
+    "russian" : "Конкурент, кредитор, коррупция, коррозия, коллизия, крона..."
+  },
+  "tokens" : [ {
+    "token" : "competitor",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "creditor",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "corruption",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 2
+  }, {
+    "token" : "corrosion",
+    "startOffset" : 34,
+    "endOffset" : 43,
+    "position" : 3
+  }, {
+    "token" : "collision",
+    "startOffset" : 45,
+    "endOffset" : 54,
+    "position" : 4
+  }, {
+    "token" : "crone",
+    "startOffset" : 56,
+    "endOffset" : 61,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFiFyWDTAu_IiLfhlt",
+  "text" : "Competitor, creditor, corruption, corrosion, collision, crone...",
+  "translations" : {
+    "russian" : "Конкурент, кредитор, коррупция, коррозия, коллизия, крона..."
+  },
+  "tokens" : [ {
+    "token" : "competitor",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "creditor",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "corruption",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 2
+  }, {
+    "token" : "corrosion",
+    "startOffset" : 34,
+    "endOffset" : 43,
+    "position" : 3
+  }, {
+    "token" : "collision",
+    "startOffset" : 45,
+    "endOffset" : 54,
+    "position" : 4
+  }, {
+    "token" : "crone",
+    "startOffset" : 56,
+    "endOffset" : 61,
     "position" : 5
   } ],
   "contentScore" : null

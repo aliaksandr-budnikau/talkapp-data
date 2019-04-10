@@ -88,6 +88,95 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEKg95DTAu_IiLehEP",
+  "text" : "So, I'm inquiring. Within.",
+  "translations" : {
+    "russian" : "Вот... я спрашиваю... внутри."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "i'm",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "inquiring",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "quiring",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "within",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyPLUDTAu_IiLe-Z-",
+  "text" : "Desire flows within me.",
+  "translations" : {
+    "russian" : "Страсть течет во мне."
+  },
+  "tokens" : [ {
+    "token" : "desire",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "flow",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "within",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCCS6DTAu_IiLfJkH",
+  "text" : "Ammo consumption within tolerance.",
+  "translations" : {
+    "russian" : "Расход боеприпасов в пределах нормы."
+  },
+  "tokens" : [ {
+    "token" : "ammo",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "consumption",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "within",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "tolerance",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjHhcNEXFMlzHK_wP",
   "text" : "Yes, well, within reason.",
   "translations" : {
@@ -195,76 +284,38 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmuGxNEXFMlzHLEYF",
-  "text" : "Well, everything's within normal range.",
+  "id" : "AWoEAOwBDTAu_IiLeZV2",
+  "text" : "It's within his remit.",
   "translations" : {
-    "russian" : "Всё в пределах нормы."
+    "russian" : "Это входит в его компетенцию."
   },
   "tokens" : [ {
-    "token" : "well",
+    "token" : "it",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
-  }, {
-    "token" : "everything's",
-    "startOffset" : 6,
-    "endOffset" : 18,
-    "position" : 1
   }, {
     "token" : "within",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 2
-  }, {
-    "token" : "normal",
-    "startOffset" : 26,
-    "endOffset" : 32,
-    "position" : 3
-  }, {
-    "token" : "range",
-    "startOffset" : 33,
-    "endOffset" : 38,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxj_NNEXFMlzHLTax",
-  "text" : "Camp off there within sight.",
-  "translations" : {
-    "russian" : "Вон там лагерь, в пределах видимости."
-  },
-  "tokens" : [ {
-    "token" : "camp",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "off",
     "startOffset" : 5,
-    "endOffset" : 8,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "there",
-    "startOffset" : 9,
-    "endOffset" : 14,
+    "token" : "his",
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "within",
-    "startOffset" : 15,
+    "token" : "remit",
+    "startOffset" : 16,
     "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "sight",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmtTzNEXFMlzHLEWg",
-  "text" : "Within the right range, you say.",
+  "id" : "AWoEAOuEDTAu_IiLeZV0",
+  "text" : "Within my remit.",
   "translations" : {
-    "russian" : "В правильном диапазоне, вы говорите."
+    "russian" : "В рамках моей компетенции."
   },
   "tokens" : [ {
     "token" : "within",
@@ -272,68 +323,127 @@
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "the",
+    "token" : "my",
     "startOffset" : 7,
-    "endOffset" : 10,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "right",
-    "startOffset" : 11,
-    "endOffset" : 16,
+    "token" : "remit",
+    "startOffset" : 10,
+    "endOffset" : 15,
     "position" : 2
-  }, {
-    "token" : "range",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "you",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "say",
-    "startOffset" : 28,
-    "endOffset" : 31,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgy01pNEXFMlzHLVNI",
-  "text" : "They'll be there within the hour.",
+  "id" : "AWoEyI8YDTAu_IiLe-Vd",
+  "text" : "Desire flows within me.",
   "translations" : {
-    "russian" : "Патруль будет на месте через час."
+    "russian" : "Страсть течет во мне."
   },
   "tokens" : [ {
-    "token" : "they'll",
+    "token" : "desire",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "be",
-    "startOffset" : 8,
-    "endOffset" : 10,
+    "token" : "flow",
+    "startOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "there",
-    "startOffset" : 11,
-    "endOffset" : 16,
+    "token" : "within",
+    "startOffset" : 13,
+    "endOffset" : 19,
     "position" : 2
   }, {
+    "token" : "me",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyV6oDTAu_IiLe-e_",
+  "text" : "Desire flows within me.",
+  "translations" : {
+    "russian" : "Страсть течет во мне."
+  },
+  "tokens" : [ {
+    "token" : "desire",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "flow",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
     "token" : "within",
-    "startOffset" : 17,
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1oH5DTAu_IiLeS-J",
+  "text" : "Anyone within a quarter.",
+  "translations" : {
+    "russian" : "Mile radius of this flaskВсе в радиусе четверти милы от этой колбы."
+  },
+  "tokens" : [ {
+    "token" : "anyone",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "within",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "quarter",
+    "startOffset" : 16,
     "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "the",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
+    "token" : "quart",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgDOwDTAu_IiLew9J",
+  "text" : "Within your purview?",
+  "translations" : {
+    "russian" : "В твою компетенцию?"
+  },
+  "tokens" : [ {
+    "token" : "within",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
   }, {
-    "token" : "hour",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "purview",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

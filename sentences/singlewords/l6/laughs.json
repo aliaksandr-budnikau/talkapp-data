@@ -1,51 +1,190 @@
 [ {
-  "id" : "AWbgpvNGNEXFMlzHLIra",
-  "text" : "LSB- Laughs -RSB- Present company excluded.",
+  "id" : "AWoD-mGCDTAu_IiLeYGi",
+  "text" : "Laughs giddily.",
   "translations" : {
-    "russian" : "О присутствующих речь не идет."
+    "russian" : "Придурковато хихикает."
   },
   "tokens" : [ {
-    "token" : "lsb",
+    "token" : "laughs",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "laughs",
-    "startOffset" : 5,
-    "endOffset" : 11,
+    "token" : "giddily",
+    "startOffset" : 7,
+    "endOffset" : 14,
     "position" : 1
-  }, {
-    "token" : "rsb",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "present",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "company",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 4
-  }, {
-    "token" : "exclude",
-    "startOffset" : 34,
-    "endOffset" : 42,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdWxhNEXFMlzHK611",
-  "text" : "LSB- Laughs -RSB- Present company excluded.",
+  "id" : "AWoEeV4kDTAu_IiLevnR",
+  "text" : "Laughs Bugler.",
   "translations" : {
-    "russian" : "О присутствующих речь не идет."
+    "russian" : "Горнистом."
   },
   "tokens" : [ {
-    "token" : "lsb",
+    "token" : "laughs",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "bugler",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "bugle",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2jDGDTAu_IiLfBZm",
+  "text" : "Endowed. Laughs.",
+  "translations" : {
+    "russian" : "Одаренный? смеется."
+  },
+  "tokens" : [ {
+    "token" : "endow",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "laughs",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBHcMDTAu_IiLeaBk",
+  "text" : "Squeals, Laughs.",
+  "translations" : {
+    "russian" : "Визжит, смеется."
+  },
+  "tokens" : [ {
+    "token" : "squeal",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "laughs",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBE4CDTAu_IiLeZ_o",
+  "text" : "Squeals, Laughs.",
+  "translations" : {
+    "russian" : "Визжит, смеется."
+  },
+  "tokens" : [ {
+    "token" : "squeal",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "laughs",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-3QDDTAu_IiLfHG6",
+  "text" : "Endowed. Laughs.",
+  "translations" : {
+    "russian" : "Одаренный? смеется."
+  },
+  "tokens" : [ {
+    "token" : "endow",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "laughs",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSTM3DTAu_IiLfWA1",
+  "text" : "Laughs Chaplain.",
+  "translations" : {
+    "russian" : "Святой отец."
+  },
+  "tokens" : [ {
+    "token" : "laughs",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "chaplain",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2kvjDTAu_IiLfBa3",
+  "text" : "Endowed. Laughs.",
+  "translations" : {
+    "russian" : "Одаренный? смеется."
+  },
+  "tokens" : [ {
+    "token" : "endow",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "laughs",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2w7PDTAu_IiLeTfd",
+  "text" : "LAUGHS Just scraped it.",
+  "translations" : {
+    "russian" : "Просто поцарапала."
+  },
+  "tokens" : [ {
+    "token" : "laughs",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "scrap",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFi8RADTAu_IiLfiJo",
+  "text" : "Kurt laughs whooping.",
+  "translations" : {
+    "russian" : "Курт смеется возглас."
+  },
+  "tokens" : [ {
+    "token" : "kurt",
+    "startOffset" : 0,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "laughs",
@@ -53,25 +192,188 @@
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "rsb",
+    "token" : "whoop",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeiNXDTAu_IiLevww",
+  "text" : "Laughs Miner hole.",
+  "translations" : {
+    "russian" : "Шахтёрская лунка."
+  },
+  "tokens" : [ {
+    "token" : "laughs",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "miner",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "min",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "hole",
     "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYzlwDTAu_IiLerxw",
+  "text" : "Lots of laughs guaranteed.",
+  "translations" : {
+    "russian" : "Много смеха гарантировано."
+  },
+  "tokens" : [ {
+    "token" : "lot",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "laughs",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "guarantee",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUyVEDTAu_IiLfX0W",
+  "text" : "What's up, Quakers? Laughs.",
+  "translations" : {
+    "russian" : "Как дела, Квакеры?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "quaker",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "quake",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "laughs",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSwB1DTAu_IiLd_Zo",
+  "text" : "Very fine damask. LAUGHS.",
+  "translations" : {
+    "russian" : "Очень тонкая текстура. О."
+  },
+  "tokens" : [ {
+    "token" : "very",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fine",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "damask",
+    "startOffset" : 10,
     "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "present",
+    "token" : "laughs",
     "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYeKPDTAu_IiLeCki",
+  "text" : "Grunts, laughs yes, dandy.",
+  "translations" : {
+    "russian" : "Да, отлично."
+  },
+  "tokens" : [ {
+    "token" : "grunt",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "laughs",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "yes",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "dandy",
+    "startOffset" : 20,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjRxGDTAu_IiLeI2a",
+  "text" : "They're atrocious. -LSB- laughs -RSB.",
+  "translations" : {
+    "russian" : "Они жестокие. смеется."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
   }, {
-    "token" : "company",
-    "startOffset" : 26,
-    "endOffset" : 33,
+    "token" : "atrocious",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "lsb",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "laughs",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "rsb",
+    "startOffset" : 33,
+    "endOffset" : 36,
     "position" : 4
-  }, {
-    "token" : "exclude",
-    "startOffset" : 34,
-    "endOffset" : 42,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

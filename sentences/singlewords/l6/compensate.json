@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoE9Ft8DTAu_IiLfFsC",
+  "text" : "Deferred compensation.",
+  "translations" : {
+    "russian" : "Отсроченная компенсация."
+  },
+  "tokens" : [ {
+    "token" : "deferred",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "compensation",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "compensate",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdTxpDTAu_IiLfeY9",
+  "text" : "Confiscation eschews compensation.",
+  "translations" : {
+    "russian" : "При конфискации нет компенсации."
+  },
+  "tokens" : [ {
+    "token" : "confiscation",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "confiscate",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "eschew",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "compensation",
+    "startOffset" : 21,
+    "endOffset" : 33,
+    "position" : 2
+  }, {
+    "token" : "compensate",
+    "startOffset" : 21,
+    "endOffset" : 33,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoJtENEXFMlzHLGd5",
   "text" : "Next item, executive compensation.",
   "translations" : {
@@ -37,6 +93,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEeiwSDTAu_IiLevxK",
+  "text" : "Compensate all the miners' widows.",
+  "translations" : {
+    "russian" : "Раздай деньги всем вдовам шахтеров."
+  },
+  "tokens" : [ {
+    "token" : "compensate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "all",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "min",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "widow",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxtRUNEXFMlzHLTuO",
   "text" : "I'm compensating for the spatial gradients...",
   "translations" : {
@@ -71,6 +160,44 @@
     "token" : "gradient",
     "startOffset" : 33,
     "endOffset" : 42,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFI4jjDTAu_IiLfOv9",
+  "text" : "I'm compensating for the phase variance.",
+  "translations" : {
+    "russian" : "Я даю компенсацию фазового сдвига."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "compensate",
+    "startOffset" : 4,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "phase",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "variance",
+    "startOffset" : 31,
+    "endOffset" : 39,
     "position" : 5
   } ],
   "contentScore" : null

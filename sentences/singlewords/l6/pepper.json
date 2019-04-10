@@ -1,4 +1,116 @@
 [ {
+  "id" : "AWoEVLZfDTAu_IiLepJ1",
+  "text" : "Bell peppers and mushrooms?",
+  "translations" : {
+    "russian" : "Болгарский перец с грибами?"
+  },
+  "tokens" : [ {
+    "token" : "bell",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "pepper",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "mushroom",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDitxaDTAu_IiLeIiL",
+  "text" : "Matt Murdock, Pepper Potts.",
+  "translations" : {
+    "russian" : "Мэтта Мёрдока, Пеппера Поттса."
+  },
+  "tokens" : [ {
+    "token" : "matt",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "murdock",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "pepper",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "potts",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPD6rDTAu_IiLeklJ",
+  "text" : "That's ghost pepper extract.",
+  "translations" : {
+    "russian" : "Это экстракт перца чили."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "ghost",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "pepper",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "extract",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExan6DTAu_IiLe9zT",
+  "text" : "Major, lark's true pepper.",
+  "translations" : {
+    "russian" : "Майор, истинный перченный жаворонок."
+  },
+  "tokens" : [ {
+    "token" : "major",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "lark",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "true",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "pepper",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmRoINEXFMlzHLDnK",
   "text" : "Look, them peppers want chopping.",
   "translations" : {
@@ -29,6 +141,44 @@
     "startOffset" : 24,
     "endOffset" : 32,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6-b4DTAu_IiLeVZm",
+  "text" : "Pepper transactions are a political minefield.",
+  "translations" : {
+    "russian" : "Вспыльчивость сделок - политическое минное поле."
+  },
+  "tokens" : [ {
+    "token" : "pepper",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "transaction",
+    "startOffset" : 7,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 24,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "political",
+    "startOffset" : 26,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "minefield",
+    "startOffset" : 36,
+    "endOffset" : 45,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

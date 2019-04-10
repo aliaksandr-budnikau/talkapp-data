@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoEy24uDTAu_IiLe-25",
+  "text" : "Gastric tube, tying, etc.",
+  "translations" : {
+    "russian" : "Что будут привязывать и кормить с помощью желудочного зонда."
+  },
+  "tokens" : [ {
+    "token" : "gastric",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tube",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tying",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "etc",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgDk9DTAu_IiLeG_q",
+  "text" : "Tying the knot, huh?",
+  "translations" : {
+    "russian" : "Так вы женитесь? Дай мне Ори."
+  },
+  "tokens" : [ {
+    "token" : "tying",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "knot",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "huh",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyGmJNEXFMlzHLURu",
   "text" : "I'm not tying him up.",
   "translations" : {
@@ -28,6 +84,39 @@
     "token" : "up",
     "startOffset" : 18,
     "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgCvUDTAu_IiLeG_K",
+  "text" : "Tying the big old knot.",
+  "translations" : {
+    "russian" : "Почти что связаны узами брака."
+  },
+  "tokens" : [ {
+    "token" : "tying",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "big",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "old",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "knot",
+    "startOffset" : 18,
+    "endOffset" : 22,
     "position" : 4
   } ],
   "contentScore" : null

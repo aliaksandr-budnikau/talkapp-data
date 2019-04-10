@@ -1,4 +1,70 @@
 [ {
+  "id" : "AWoDqAs6DTAu_IiLeMcE",
+  "text" : "Bob the gardener?",
+  "translations" : {
+    "russian" : "Садовник Боб?"
+  },
+  "tokens" : [ {
+    "token" : "bob",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "gardener",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "garden",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZ9-eDTAu_IiLeDel",
+  "text" : "This is Mrs. Harper's gardener?",
+  "translations" : {
+    "russian" : "Ищете садовника Харперов?"
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "mrs",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "harper",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "gardener",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "garden",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgk5zhNEXFMlzHLBk2",
   "text" : "CITIZENS, PROTECT YOUR GARDENS.",
   "translations" : {
@@ -23,6 +89,62 @@
     "token" : "garden",
     "startOffset" : 23,
     "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDfCb0DTAu_IiLeGZk",
+  "text" : "A cafe, a garden...",
+  "translations" : {
+    "russian" : "Кафе, сад, ха!"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "cafe",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "garden",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGKriDTAu_IiLfMi7",
+  "text" : "A garden needs upkeep.",
+  "translations" : {
+    "russian" : "За садом нужен уход."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "garden",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "need",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "upkeep",
+    "startOffset" : 15,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
@@ -55,6 +177,67 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEIKK-DTAu_IiLefWp",
+  "text" : "Eden Gardens, cabby.",
+  "translations" : {
+    "russian" : "Извозчик, в Иден Гарденс."
+  },
+  "tokens" : [ {
+    "token" : "eden",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ed",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "garden",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "cabby",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFChQJDTAu_IiLfJ7R",
+  "text" : "It's a wilderness garden.",
+  "translations" : {
+    "russian" : "Это дикий сад."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "wilderness",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "wilder",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "garden",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgx2U8NEXFMlzHLT7H",
   "text" : "Front yard vegetable garden.",
   "translations" : {
@@ -80,6 +263,95 @@
     "startOffset" : 21,
     "endOffset" : 27,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbmBwDTAu_IiLeEev",
+  "text" : "Or garden gnomes?",
+  "translations" : {
+    "russian" : "Содовых гномов?"
+  },
+  "tokens" : [ {
+    "token" : "or",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "garden",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "gnome",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbmSWDTAu_IiLeEe5",
+  "text" : "Garden gnomes... screwing of pooches...",
+  "translations" : {
+    "russian" : "Садовые гномики, собачье дерьмо..."
+  },
+  "tokens" : [ {
+    "token" : "garden",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "gnome",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "screw",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "pooch",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgJqdDTAu_IiLfgaQ",
+  "text" : "Mow down the entire garden!",
+  "translations" : {
+    "russian" : "Скоси весь сад."
+  },
+  "tokens" : [ {
+    "token" : "mow",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "down",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "entire",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "garden",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -154,79 +426,69 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgeGRxNEXFMlzHK7cL",
-  "text" : "Oh, you mean the gardening?",
+  "id" : "AWoD3YQuDTAu_IiLeTxz",
+  "text" : "Like the Gardens of Babylon.",
   "translations" : {
-    "russian" : "А, ты имеешь в виду садоводство?"
+    "russian" : "Как Вавилонские Сады."
   },
   "tokens" : [ {
-    "token" : "oh",
+    "token" : "like",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "mean",
-    "startOffset" : 8,
-    "endOffset" : 12,
+    "token" : "garden",
+    "startOffset" : 9,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
+    "token" : "of",
+    "startOffset" : 17,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "gardening",
-    "startOffset" : 17,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "garden",
-    "startOffset" : 17,
-    "endOffset" : 26,
+    "token" : "babylon",
+    "startOffset" : 20,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrPClNEXFMlzHLKtI",
-  "text" : "And my armchair and my garden.",
+  "id" : "AWoFfkLjDTAu_IiLfgA6",
+  "text" : "Mow down the entire garden!",
   "translations" : {
-    "russian" : "Моему креслу и саду."
+    "russian" : "Скоси весь сад."
   },
   "tokens" : [ {
-    "token" : "and",
+    "token" : "mow",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "my",
+    "token" : "down",
     "startOffset" : 4,
-    "endOffset" : 6,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "armchair",
-    "startOffset" : 7,
-    "endOffset" : 15,
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "and",
-    "startOffset" : 16,
+    "token" : "entire",
+    "startOffset" : 13,
     "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "my",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
     "token" : "garden",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 5
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

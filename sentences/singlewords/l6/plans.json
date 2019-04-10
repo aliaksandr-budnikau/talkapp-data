@@ -32,6 +32,57 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDQTMNDTAu_IiLd9tt",
+  "text" : "Some plan, Adagio.",
+  "translations" : {
+    "russian" : "Адажио."
+  },
+  "tokens" : [ {
+    "token" : "some",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "plan",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "adagio",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6mdjDTAu_IiLeVPH",
+  "text" : "Initiate the extraction plan.",
+  "translations" : {
+    "russian" : "Приступи к плану по эвакуации."
+  },
+  "tokens" : [ {
+    "token" : "initiate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "extraction",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "plan",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgm1VtNEXFMlzHLEkL",
   "text" : "Go plan, are slow.",
   "translations" : {
@@ -84,6 +135,240 @@
     "token" : "fair",
     "startOffset" : 19,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcGpIDTAu_IiLet-S",
+  "text" : "Slug had a plan.",
+  "translations" : {
+    "russian" : "Оказалось, что у Мудака есть план."
+  },
+  "tokens" : [ {
+    "token" : "slug",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "plan",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiAcnDTAu_IiLeyhu",
+  "text" : "Quite a complicated plan.",
+  "translations" : {
+    "russian" : "Довольно-таки запутанный план."
+  },
+  "tokens" : [ {
+    "token" : "quite",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "complicated",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "complicate",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "plan",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2n1aDTAu_IiLfBc2",
+  "text" : "I'm devising a plan.",
+  "translations" : {
+    "russian" : "Я разрабатываю план."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "vise",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "plan",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjwQEDTAu_IiLeJHa",
+  "text" : "Finally, a foolproof plan.",
+  "translations" : {
+    "russian" : "Наконец-то надежный план."
+  },
+  "tokens" : [ {
+    "token" : "final",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "foolproof",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "plan",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIuQQDTAu_IiLefvt",
+  "text" : "There's no plan.",
+  "translations" : {
+    "russian" : "Нет никакого плана."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "no",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "plan",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVXoKDTAu_IiLepTb",
+  "text" : "Nick's plan sounds fair.",
+  "translations" : {
+    "russian" : "А вот план Ника звучит справедливо."
+  },
+  "tokens" : [ {
+    "token" : "nick",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "plan",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "sounds",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "fair",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6WCTDTAu_IiLfD6B",
+  "text" : "Marketing, customer retention plans...",
+  "translations" : {
+    "russian" : "Маркетинговый анализ, план сохранения клиентской базы..."
+  },
+  "tokens" : [ {
+    "token" : "marketing",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "market",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "customer",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "custom",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "retention",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "plan",
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFg7CNDTAu_IiLfg4w",
+  "text" : "You plan a burglary.",
+  "translations" : {
+    "russian" : "Вы планируете грабеж."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "plan",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "burglary",
+    "startOffset" : 11,
+    "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null
@@ -169,371 +454,6 @@
     "startOffset" : 30,
     "endOffset" : 37,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbsUXNEXFMlzHK5V2",
-  "text" : "It's not my birth plan.",
-  "translations" : {
-    "russian" : "У меня был другой план родов."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "birth",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "plan",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyOhDNEXFMlzHLUh9",
-  "text" : "Europe plans to pass Japan.",
-  "translations" : {
-    "russian" : "Европа планирует обогнать Японию."
-  },
-  "tokens" : [ {
-    "token" : "europe",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "plan",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "pass",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "japan",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpBKXNEXFMlzHLHtr",
-  "text" : "The plan doesn't cover cosmetic.",
-  "translations" : {
-    "russian" : "Страховка не распространяется на косметику."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "plan",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "doesn't",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "cover",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "cove",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "cosmetic",
-    "startOffset" : 23,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghcYbNEXFMlzHK-WA",
-  "text" : "The plan's still good, love.",
-  "translations" : {
-    "russian" : "План всё равно хороший, дорогая."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "plan",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "still",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "good",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "love",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiymvNEXFMlzHK_eB",
-  "text" : "Your plan is a sound one.",
-  "translations" : {
-    "russian" : "У тебя надежный план."
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "plan",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "sound",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "one",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqTPdNEXFMlzHLJdW",
-  "text" : "Your plan is a sound one.",
-  "translations" : {
-    "russian" : "У тебя надежный план."
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "plan",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "sound",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "one",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggIvyNEXFMlzHK9NS",
-  "text" : "That plan might take a while.",
-  "translations" : {
-    "russian" : "Наверное, на этот план потребуется время."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "plan",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "might",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "take",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 21,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "while",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxdGmNEXFMlzHLTQV",
-  "text" : "That plan might take a while.",
-  "translations" : {
-    "russian" : "Наверное, на этот план потребуется время."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "plan",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "might",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "take",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 21,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "while",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbNpFNEXFMlzHK46f",
-  "text" : "No, Mary's plan will not do.",
-  "translations" : {
-    "russian" : "Нет, план Марии не годится."
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "mary",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "plan",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "will",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "not",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "do",
-    "startOffset" : 25,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbge13VNEXFMlzHK8G1",
-  "text" : "What are your plans, college, travel?",
-  "translations" : {
-    "russian" : "Какой у тебя план, колледж, путешествия?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "plan",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "college",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "travel",
-    "startOffset" : 30,
-    "endOffset" : 36,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoEKh7eDTAu_IiLehE_",
+  "text" : "Inquiring minds.",
+  "translations" : {
+    "russian" : "Пытливые умы."
+  },
+  "tokens" : [ {
+    "token" : "inquiring",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "quiring",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "mind",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgb2qaNEXFMlzHK5fP",
   "text" : "It'll blow her mind.",
   "translations" : {
@@ -55,10 +78,89 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqaUuNEXFMlzHLJnO",
-  "text" : "Never mind it, operator.",
+  "id" : "AWoEKh9rDTAu_IiLehFB",
+  "text" : "Inquiring minds in London?",
   "translations" : {
-    "russian" : "Я передумала, оператор."
+    "russian" : "Пытливые умы Лондона?"
+  },
+  "tokens" : [ {
+    "token" : "inquiring",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "quiring",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "mind",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "london",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwjWCDTAu_IiLe9Jh",
+  "text" : "Rodin's diabolical mind.",
+  "translations" : {
+    "russian" : "Этот дьявол, Роден..."
+  },
+  "tokens" : [ {
+    "token" : "rodin",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "diabolical",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "mind",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyvG7DTAu_IiLe-xJ",
+  "text" : "Mind my manners.",
+  "translations" : {
+    "russian" : "Вежливым."
+  },
+  "tokens" : [ {
+    "token" : "mind",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "manner",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUg3xDTAu_IiLfXoH",
+  "text" : "Never mind my cough.",
+  "translations" : {
+    "russian" : "Эй, оставь в покое мой кашель."
   },
   "tokens" : [ {
     "token" : "never",
@@ -71,124 +173,25 @@
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "it",
+    "token" : "my",
     "startOffset" : 11,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "operator",
-    "startOffset" : 15,
-    "endOffset" : 23,
+    "token" : "cough",
+    "startOffset" : 14,
+    "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgiw75NEXFMlzHK_cn",
-  "text" : "He was of sound mind.",
+  "id" : "AWoD5jtLDTAu_IiLeUxR",
+  "text" : "You mind if I...",
   "translations" : {
-    "russian" : "Он был в здравом уме."
+    "russian" : "Можно?"
   },
   "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "sound",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "mind",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjjOZNEXFMlzHLAG3",
-  "text" : "Gore's mind is wiped clean.",
-  "translations" : {
-    "russian" : "Разум Гора начисто стерт."
-  },
-  "tokens" : [ {
-    "token" : "gore",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "mind",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "wipe",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "clean",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmY41NEXFMlzHLDzl",
-  "text" : "I wouldn't mind a cup.",
-  "translations" : {
-    "russian" : "Не возражал бы против чашки."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "wouldn't",
-    "startOffset" : 2,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "mind",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 16,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "cup",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrgjBNEXFMlzHLLG3",
-  "text" : "The mind can be controlled.",
-  "translations" : {
-    "russian" : "Разумом можно управлять."
-  },
-  "tokens" : [ {
-    "token" : "the",
+    "token" : "you",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
@@ -198,316 +201,22 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "can",
+    "token" : "if",
     "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "be",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "controlled",
-    "startOffset" : 16,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "trolled",
-    "startOffset" : 16,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjjPYNEXFMlzHLAG4",
-  "text" : "Gore's mind is wiped clean.",
-  "translations" : {
-    "russian" : "Разум Гора начисто стёрт."
-  },
-  "tokens" : [ {
-    "token" : "gore",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "mind",
-    "startOffset" : 7,
     "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 12,
-    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "wipe",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "clean",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglSClNEXFMlzHLCQl",
-  "text" : "I don't mind the shock.",
-  "translations" : {
-    "russian" : "Я не против удара током."
-  },
-  "tokens" : [ {
     "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "don't",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "mind",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "shock",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoGeNNEXFMlzHLGYs",
-  "text" : "I treat the human mind!",
-  "translations" : {
-    "russian" : "Я лечу человеческий разум!"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "treat",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "human",
     "startOffset" : 12,
-    "endOffset" : 17,
+    "endOffset" : 13,
     "position" : 3
-  }, {
-    "token" : "mind",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqSSWNEXFMlzHLJb8",
-  "text" : "He was of sound mind.",
+  "id" : "AWoEpDjJDTAu_IiLe35U",
+  "text" : "A disciplined mind...",
   "translations" : {
-    "russian" : "Он был в здравом уме."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "sound",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "mind",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqomqNEXFMlzHLJ1Q",
-  "text" : "There's no question in my mind.",
-  "translations" : {
-    "russian" : "По-моему, здесь нет никаких сомнений."
-  },
-  "tokens" : [ {
-    "token" : "there",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "no",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "question",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "my",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "mind",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglRWkNEXFMlzHLCPT",
-  "text" : "Mind you, it didn't shock me.",
-  "translations" : {
-    "russian" : "Заметьте, меня это не шокирует."
-  },
-  "tokens" : [ {
-    "token" : "mind",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "didn't",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "shock",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "me",
-    "startOffset" : 26,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgni-MNEXFMlzHLFoR",
-  "text" : "It scrambles the mind, you see.",
-  "translations" : {
-    "russian" : "Это схватка разума, вы видете."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "scramble",
-    "startOffset" : 3,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "mind",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "you",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "see",
-    "startOffset" : 27,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsQeeNEXFMlzHLML5",
-  "text" : "He reminded people of their humanity.",
-  "translations" : {
-    "russian" : "Он напомнил людям об их человечности."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "mind",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "people",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "their",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "humanity",
-    "startOffset" : 28,
-    "endOffset" : 36,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgx4DLNEXFMlzHLT8c",
-  "text" : "A narrow mind is easily boggled.",
-  "translations" : {
-    "russian" : "Небольшому уму этого действительно не постичь."
+    "russian" : "Дисциплинированный разум..."
   },
   "tokens" : [ {
     "token" : "a",
@@ -515,30 +224,191 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "narrow",
+    "token" : "disciplined",
     "startOffset" : 2,
-    "endOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "discipline",
+    "startOffset" : 2,
+    "endOffset" : 13,
     "position" : 1
   }, {
     "token" : "mind",
-    "startOffset" : 9,
-    "endOffset" : 13,
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyvLkDTAu_IiLe-xM",
+  "text" : "Mind your manners!",
+  "translations" : {
+    "russian" : "Будьте вежливы!"
+  },
+  "tokens" : [ {
+    "token" : "mind",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "manner",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKH9gDTAu_IiLfPwN",
+  "text" : "Noah's mind was exquisite.",
+  "translations" : {
+    "russian" : "Ной обладал необыкновенно острым умом."
+  },
+  "tokens" : [ {
+    "token" : "noah",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "mind",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "is",
-    "startOffset" : 14,
-    "endOffset" : 16,
+    "token" : "exquisite",
+    "startOffset" : 16,
+    "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDxj76DTAu_IiLeQ30",
+  "text" : "My mind wanders.",
+  "translations" : {
+    "russian" : "Мой разум блуждает."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
   }, {
-    "token" : "easily",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
+    "token" : "mind",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
   }, {
-    "token" : "boggle",
-    "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 5
+    "token" : "wand",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEugsYDTAu_IiLe7rD",
+  "text" : "Nobody minds a scuffle.",
+  "translations" : {
+    "russian" : "Им плевать на драку."
+  },
+  "tokens" : [ {
+    "token" : "nobody",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "mind",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "scuffle",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELL0uDTAu_IiLehl4",
+  "text" : "Never mind, Ted.",
+  "translations" : {
+    "russian" : "Ничего, Тэд."
+  },
+  "tokens" : [ {
+    "token" : "never",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "mind",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ted",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESoUDDTAu_IiLenL7",
+  "text" : "I won't mind.",
+  "translations" : {
+    "russian" : "Противиться я не буду."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "won't",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "mind",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFD6WIDTAu_IiLfK7z",
+  "text" : "Mind the Gap.",
+  "translations" : {
+    "russian" : "Осторожно Зазор."
+  },
+  "tokens" : [ {
+    "token" : "mind",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "gap",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

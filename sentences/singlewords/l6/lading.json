@@ -1,4 +1,144 @@
 [ {
+  "id" : "AWoEh8TUDTAu_IiLeydt",
+  "text" : "Bill of lading?",
+  "translations" : {
+    "russian" : "Какой груз?"
+  },
+  "tokens" : [ {
+    "token" : "bill",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "lading",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "lad",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh7YuDTAu_IiLeycz",
+  "text" : "Bin Laden.",
+  "translations" : {
+    "russian" : "Бин Ладена."
+  },
+  "tokens" : [ {
+    "token" : "bin",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "laden",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "lad",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh7qTDTAu_IiLeydE",
+  "text" : "Bin Laden.",
+  "translations" : {
+    "russian" : "Бин Ладен ваш..."
+  },
+  "tokens" : [ {
+    "token" : "bin",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "laden",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "lad",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh7usDTAu_IiLeydJ",
+  "text" : "A new bin Laden?",
+  "translations" : {
+    "russian" : "Или новым Бен Ладеном?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "new",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "bin",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "laden",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "lad",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh8OMDTAu_IiLeydn",
+  "text" : "Shut it off, Laden!",
+  "translations" : {
+    "russian" : "Отключите это, Лэйдон!"
+  },
+  "tokens" : [ {
+    "token" : "shut",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "off",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "laden",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "lad",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgh6NbNEXFMlzHK-v4",
   "text" : "Big smiles, lads.",
   "translations" : {
@@ -50,74 +190,295 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvjlBNEXFMlzHLRKb",
-  "text" : "Gangway for the captain, lads.",
+  "id" : "AWoFGj4yDTAu_IiLfM1c",
+  "text" : "Avert your eyes, lads!",
   "translations" : {
-    "russian" : "Дорогу капитану."
+    "russian" : "Отвернитесь!"
   },
   "tokens" : [ {
-    "token" : "gangway",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "captain",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "lad",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmN_8NEXFMlzHLDg0",
-  "text" : "Three sheets to the wind, lads...",
-  "translations" : {
-    "russian" : "Три паруса по ветру, парни..."
-  },
-  "tokens" : [ {
-    "token" : "three",
+    "token" : "avert",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "sheet",
+    "token" : "your",
     "startOffset" : 6,
-    "endOffset" : 12,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "to",
-    "startOffset" : 13,
+    "token" : "eye",
+    "startOffset" : 11,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 16,
-    "endOffset" : 19,
+    "token" : "lad",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh7ZsDTAu_IiLeyc0",
+  "text" : "You killed Bin Laden?",
+  "translations" : {
+    "russian" : "Ты убил Бин Ладена?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "kill",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "bin",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "laden",
+    "startOffset" : 15,
+    "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "wind",
-    "startOffset" : 20,
-    "endOffset" : 24,
+    "token" : "lad",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDibkDTAu_IiLfKqp",
+  "text" : "Richard, me bonny lad.",
+  "translations" : {
+    "russian" : "Ричард, я миловидный парень."
+  },
+  "tokens" : [ {
+    "token" : "richard",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "bonny",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "lad",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh7pkDTAu_IiLeydD",
+  "text" : "What's up, bin Laden?",
+  "translations" : {
+    "russian" : "Как дела, Бин Ладен?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "bin",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "laden",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "lad",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFok4DTAu_IiLedik",
+  "text" : "Hoist it up, lads.",
+  "translations" : {
+    "russian" : "Поднимите это вверх, парни."
+  },
+  "tokens" : [ {
+    "token" : "hoist",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "up",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "lad",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFVFSDTAu_IiLedUG",
+  "text" : "You harbored Osama Bin Laden.",
+  "translations" : {
+    "russian" : "Вы укрывали Усаму бен Ладена."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "harbor",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "osama",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "bin",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "laden",
+    "startOffset" : 23,
+    "endOffset" : 28,
     "position" : 4
   }, {
     "token" : "lad",
-    "startOffset" : 26,
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDic4DTAu_IiLfKqq",
+  "text" : "There you go, bonny lad.",
+  "translations" : {
+    "russian" : "Там вы идете, миловидный парень."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "go",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bonny",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "lad",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh8O7DTAu_IiLeydo",
+  "text" : "Laden is unconscious. Tell her.",
+  "translations" : {
+    "russian" : "Лэйдон без сознания."
+  },
+  "tokens" : [ {
+    "token" : "laden",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "lad",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "conscious",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "tell",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "her",
+    "startOffset" : 27,
     "endOffset" : 30,
-    "position" : 5
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE06T9DTAu_IiLfASM",
+  "text" : "Cupid is a knavish lad.",
+  "translations" : {
+    "russian" : "Купидон известный хват."
+  },
+  "tokens" : [ {
+    "token" : "cupid",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "knavish",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "lad",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

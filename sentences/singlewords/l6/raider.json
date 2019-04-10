@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoEfPkPDTAu_IiLewT6",
+  "text" : "Raiding, looting, pillaging, slaughtering.",
+  "translations" : {
+    "russian" : "Рейдерство, грабежи, мародёрство, бойня."
+  },
+  "tokens" : [ {
+    "token" : "raid",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "loot",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "pillage",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "slaughter",
+    "startOffset" : 29,
+    "endOffset" : 41,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpx-GDTAu_IiLe4bL",
+  "text" : "Raiding, looting, pillaging, slaughtering.",
+  "translations" : {
+    "russian" : "Рейдерство, грабежи, мародёрство, бойня."
+  },
+  "tokens" : [ {
+    "token" : "raid",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "loot",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "pillage",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "slaughter",
+    "startOffset" : 29,
+    "endOffset" : 41,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdJW5NEXFMlzHK6p3",
   "text" : "Let's rejoin the raid party.",
   "translations" : {
@@ -28,6 +84,72 @@
     "token" : "party",
     "startOffset" : 22,
     "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZBJ-DTAu_IiLeC4m",
+  "text" : "We can raid their armory.",
+  "translations" : {
+    "russian" : "Мы можем захватить их оружие."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "raid",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "their",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "armory",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfC0gDTAu_IiLffpH",
+  "text" : "Mr. Hui, it's a raid!",
+  "translations" : {
+    "russian" : "Дядя Хой, на нас напали!"
+  },
+  "tokens" : [ {
+    "token" : "mr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "hui",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "raid",
+    "startOffset" : 16,
+    "endOffset" : 20,
     "position" : 4
   } ],
   "contentScore" : null
@@ -62,6 +184,115 @@
     "startOffset" : 26,
     "endOffset" : 37,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmuNuDTAu_IiLeKv7",
+  "text" : "High crime, raided antiquities, unrest.",
+  "translations" : {
+    "russian" : "Высокая преступность, кражи, беспорядки."
+  },
+  "tokens" : [ {
+    "token" : "high",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "crime",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "raid",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "antiquity",
+    "startOffset" : 19,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "unrest",
+    "startOffset" : 32,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDg42CDTAu_IiLeHea",
+  "text" : "It's from the rapid response raid.",
+  "translations" : {
+    "russian" : "Это из рейда быстрого реагирования."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "from",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "rapid",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "response",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "raid",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiJl3DTAu_IiLeyqa",
+  "text" : "I'm from the Red Raiders gang.",
+  "translations" : {
+    "russian" : "Я от Красной бригады Налетчиков."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "from",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "red",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "raid",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "gang",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

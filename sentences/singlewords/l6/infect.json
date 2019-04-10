@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoEz8loDTAu_IiLe_n3",
+  "text" : "The graft is infected.",
+  "translations" : {
+    "russian" : "Трансплантат заражён."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "graft",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "infected",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "infect",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDkBuyDTAu_IiLeJRG",
+  "text" : "Disinfect and bandage it.",
+  "translations" : {
+    "russian" : "Продезинфицируйте и наложите повязку."
+  },
+  "tokens" : [ {
+    "token" : "infect",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "bandage",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_S22DTAu_IiLfHdQ",
+  "text" : "Infected cow dung!",
+  "translations" : {
+    "russian" : "Инфицированный коровий навоз!"
+  },
+  "tokens" : [ {
+    "token" : "infected",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "infect",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "dung",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcbzKNEXFMlzHK6A2",
   "text" : "You can't get infected.",
   "translations" : {
@@ -61,6 +150,34 @@
     "token" : "infect",
     "startOffset" : 14,
     "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDiKi9DTAu_IiLeINr",
+  "text" : "Disinfect and bandage it.",
+  "translations" : {
+    "russian" : "Продезинфицируйте и наложите повязку."
+  },
+  "tokens" : [ {
+    "token" : "infect",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "bandage",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 22,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null

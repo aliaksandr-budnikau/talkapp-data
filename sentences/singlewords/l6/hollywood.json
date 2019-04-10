@@ -139,6 +139,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEXp-1DTAu_IiLeq-U",
+  "text" : "Hollywood, we're losing Viper.",
+  "translations" : {
+    "russian" : "Голливуд, мы теряем Змея."
+  },
+  "tokens" : [ {
+    "token" : "hollywood",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "we're",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "lose",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "viper",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglz9bNEXFMlzHLC83",
   "text" : "I suppose it's Hollywood.",
   "translations" : {
@@ -451,44 +479,6 @@
     "startOffset" : 18,
     "endOffset" : 27,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl1o2NEXFMlzHLC-B",
-  "text" : "That's a Hollywood term, but yes.",
-  "translations" : {
-    "russian" : "Это голливудский термин, но так и было."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 7,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "hollywood",
-    "startOffset" : 9,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "term",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "but",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "yes",
-    "startOffset" : 29,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

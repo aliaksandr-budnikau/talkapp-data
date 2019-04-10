@@ -1,4 +1,168 @@
 [ {
+  "id" : "AWoELx3pDTAu_IiLeiFU",
+  "text" : "Disciplinary confinement 7 times!",
+  "translations" : {
+    "russian" : "Дисциплинарное слушание 7 раз!"
+  },
+  "tokens" : [ {
+    "token" : "disciplinary",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "confinement",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 1
+  }, {
+    "token" : "confine",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 1
+  }, {
+    "token" : "7",
+    "startOffset" : 25,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "time",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfWE5DTAu_IiLewZS",
+  "text" : "Fine robes.",
+  "translations" : {
+    "russian" : "Прекрасные одежды."
+  },
+  "tokens" : [ {
+    "token" : "fine",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "robe",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEy9UvDTAu_IiLe-7d",
+  "text" : "Fine foals.",
+  "translations" : {
+    "russian" : "Отличные жеребята."
+  },
+  "tokens" : [ {
+    "token" : "fine",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "foal",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWxLpDTAu_IiLeB0N",
+  "text" : "Apologetic, fine.",
+  "translations" : {
+    "russian" : "Извинения, отлично."
+  },
+  "tokens" : [ {
+    "token" : "apologetic",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "fine",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUx5HDTAu_IiLfX0H",
+  "text" : "Fine, Quaker.",
+  "translations" : {
+    "russian" : "Ладно, квакер."
+  },
+  "tokens" : [ {
+    "token" : "fine",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "quaker",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "quake",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbQamDTAu_IiLfc1T",
+  "text" : "Fine, Congressman.",
+  "translations" : {
+    "russian" : "Господин депутат."
+  },
+  "tokens" : [ {
+    "token" : "fine",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "congressman",
+    "startOffset" : 6,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQWY5DTAu_IiLd9v_",
+  "text" : "Fine jurist.",
+  "translations" : {
+    "russian" : "Отличным юристом."
+  },
+  "tokens" : [ {
+    "token" : "fine",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "jurist",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAIz9DTAu_IiLeZRV",
+  "text" : "Sighs fine.",
+  "translations" : {
+    "russian" : "Хорошо."
+  },
+  "tokens" : [ {
+    "token" : "sighs",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fine",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkTTtNEXFMlzHLAzy",
   "text" : "My cable's fine.",
   "translations" : {
@@ -50,435 +214,161 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgaxjhNEXFMlzHK4he",
-  "text" : "Yeah, I'm fine.",
+  "id" : "AWoDYdbHDTAu_IiLeCkJ",
+  "text" : "Fine and dandy.",
   "translations" : {
-    "russian" : "Да. я в порядке."
+    "russian" : "Хорошо и Клёво. аналог Цвести и пахнуть."
   },
   "tokens" : [ {
-    "token" : "yeah",
+    "token" : "fine",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "i'm",
-    "startOffset" : 6,
-    "endOffset" : 9,
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "fine",
-    "startOffset" : 10,
+    "token" : "dandy",
+    "startOffset" : 9,
     "endOffset" : 14,
     "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbga_RaNEXFMlzHK4to",
-  "text" : "The weather is fine.",
+  "id" : "AWoEjAl6DTAu_IiLezVG",
+  "text" : "One gulp, that's fine.",
   "translations" : {
-    "russian" : "Погода прекрасная."
+    "russian" : "Один глоток это несерьезно."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "one",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "weather",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "fine",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglJQDNEXFMlzHLCAu",
-  "text" : "Your eyes are fine.",
-  "translations" : {
-    "russian" : "Со зрением у тебя все в порядке."
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "eye",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "fine",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghYmENEXFMlzHK-Sr",
-  "text" : "Your dialogue's fine.",
-  "translations" : {
-    "russian" : "Диалоги у тебя выходят."
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "dialogue's",
-    "startOffset" : 5,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "fine",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgn0uxNEXFMlzHLGFu",
-  "text" : "Fine, like a VIP.",
-  "translations" : {
-    "russian" : "Хорошо, как к VIP персоне."
-  },
-  "tokens" : [ {
-    "token" : "fine",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "vip",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzPF7NEXFMlzHLWDM",
-  "text" : "Fine, fresh start.",
-  "translations" : {
-    "russian" : "Ладно, с чистого листа."
-  },
-  "tokens" : [ {
-    "token" : "fine",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "fresh",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "start",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgd700NEXFMlzHK7TC",
-  "text" : "Suicide suits me just fine.",
-  "translations" : {
-    "russian" : "Самоубийство меня вполне устраивает."
-  },
-  "tokens" : [ {
-    "token" : "suicide",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "suit",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "just",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "fine",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglVYHNEXFMlzHLCWm",
-  "text" : "I've refined your detection method.",
-  "translations" : {
-    "russian" : "Я улучшил ваш метод обнаружения."
-  },
-  "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "refined",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "fine",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "detection",
-    "startOffset" : 18,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "method",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguqfSNEXFMlzHLPjH",
-  "text" : "That should be fine, right?",
-  "translations" : {
-    "russian" : "Будет здорово, не правда ли?"
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "should",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "be",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "fine",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "right",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgd6_WNEXFMlzHK7SR",
-  "text" : "This chair suits you fine.",
-  "translations" : {
-    "russian" : "Это кресло тебе хорошо подходит."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "chair",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "suit",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "fine",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglVRxNEXFMlzHLCWa",
-  "text" : "Attempting to refine it, perhaps.",
-  "translations" : {
-    "russian" : "Скорее всего, чтобы усовершенствовать наркотик."
-  },
-  "tokens" : [ {
-    "token" : "attempt",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "refine",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "fine",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "it",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "perhaps",
-    "startOffset" : 25,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv74HNEXFMlzHLRqa",
-  "text" : "He's an exceptionally fine navigator.",
-  "translations" : {
-    "russian" : "Он невероятно хороший навигатор."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "an",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "exceptional",
-    "startOffset" : 8,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "fine",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "navigator",
-    "startOffset" : 27,
-    "endOffset" : 36,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgazaXNEXFMlzHK4jH",
-  "text" : "I'm fine, he just fusses.",
-  "translations" : {
-    "russian" : "Все хорошо, он зря волнуется."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "fine",
+    "token" : "gulp",
     "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "he",
+    "token" : "that",
     "startOffset" : 10,
-    "endOffset" : 12,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "just",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "token" : "fine",
+    "startOffset" : 17,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "fuss",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguBjXNEXFMlzHLOU0",
-  "text" : "Susie? Root beer's fine for me.",
+  "id" : "AWoE1lHgDTAu_IiLfAvt",
+  "text" : "Err! Fine, but.",
   "translations" : {
-    "russian" : "Мне тоже рутбир."
+    "russian" : "Ладно, но."
   },
   "tokens" : [ {
-    "token" : "susie",
+    "token" : "err",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "fine",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "but",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFM3_GDTAu_IiLfR2c",
+  "text" : "Fine. No more interview.",
+  "translations" : {
+    "russian" : "Отлично, больше никаких допросов."
+  },
+  "tokens" : [ {
+    "token" : "fine",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "no",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "more",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "interview",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFS6CcDTAu_IiLfWds",
+  "text" : "It's a fine cape.",
+  "translations" : {
+    "russian" : "Прекрасный плащ."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "fine",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "cape",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWBRDDTAu_IiLfYqg",
+  "text" : "He'll be fine, Bubbles.",
+  "translations" : {
+    "russian" : "Он будет в порядке, Баблз."
+  },
+  "tokens" : [ {
+    "token" : "he'll",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "root",
-    "startOffset" : 7,
-    "endOffset" : 11,
+    "token" : "be",
+    "startOffset" : 6,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "beer",
-    "startOffset" : 12,
-    "endOffset" : 18,
+    "token" : "fine",
+    "startOffset" : 9,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "fine",
-    "startOffset" : 19,
-    "endOffset" : 23,
+    "token" : "bubble",
+    "startOffset" : 15,
+    "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "for",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "me",
-    "startOffset" : 28,
-    "endOffset" : 30,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

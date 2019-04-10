@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoFRtyBDTAu_IiLfVk8",
+  "text" : "Wooden fetters with caps.",
+  "translations" : {
+    "russian" : "Это... деревянные путы с защелками."
+  },
+  "tokens" : [ {
+    "token" : "wooden",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wood",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fetter",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "caps",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "cap",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgm5XdNEXFMlzHLEq7",
   "text" : "There's a tiny wooden baby.",
   "translations" : {
@@ -34,6 +72,42 @@
     "startOffset" : 22,
     "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvHt5DTAu_IiLe8F6",
+  "text" : "Wood chipper.",
+  "translations" : {
+    "russian" : "Дробилка для дерева."
+  },
+  "tokens" : [ {
+    "token" : "wood",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "chipper",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvHwlDTAu_IiLe8F7",
+  "text" : "Wood chipper.",
+  "translations" : {
+    "russian" : "Значит, дробилка для дерева."
+  },
+  "tokens" : [ {
+    "token" : "wood",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "chipper",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
@@ -93,6 +167,80 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDp6leDTAu_IiLeMYu",
+  "text" : "Wood or lumber?",
+  "translations" : {
+    "russian" : "Бревна или доски?"
+  },
+  "tokens" : [ {
+    "token" : "wood",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "or",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "lumber",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKrJvDTAu_IiLehMR",
+  "text" : "Ah, rowan wood.",
+  "translations" : {
+    "russian" : "Это дерево рябины."
+  },
+  "tokens" : [ {
+    "token" : "ah",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "rowan",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "wood",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDFSCDTAu_IiLfKVj",
+  "text" : "Wood fires, starry skies.",
+  "translations" : {
+    "russian" : "Костёр, звёздное небо."
+  },
+  "tokens" : [ {
+    "token" : "wood",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fire",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "starry",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "sky",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmQB3NEXFMlzHLDkX",
   "text" : "He was chopping wood.",
   "translations" : {
@@ -121,6 +269,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEggX7DTAu_IiLexUW",
+  "text" : "Comb the wood.",
+  "translations" : {
+    "russian" : "Прочесать лес."
+  },
+  "tokens" : [ {
+    "token" : "comb",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "wood",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmQHeNEXFMlzHLDke",
   "text" : "I chopped wood once.",
   "translations" : {
@@ -145,6 +316,72 @@
     "token" : "once",
     "startOffset" : 15,
     "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqvkODTAu_IiLe5Hj",
+  "text" : "The Bretton Woods agreement.",
+  "translations" : {
+    "russian" : "Соглашение по Бреттон Вудс."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bretton",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "woods",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "wood",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "agreement",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "agree",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvHqPDTAu_IiLe8F4",
+  "text" : "Oh, the wood chipper.",
+  "translations" : {
+    "russian" : "Ох, дробилка древесины."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "wood",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "chipper",
+    "startOffset" : 13,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
@@ -199,321 +436,4 @@
     "position" : 2
   } ],
   "contentScore" : null
-}, {
-  "id" : "AWbgdmVCNEXFMlzHK7Aw",
-  "text" : "Don't throw any more woods.",
-  "translations" : {
-    "russian" : "Е кидайте больше поленьев."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "throw",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "any",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "more",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "woods",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "wood",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgh_GANEXFMlzHK-0J",
-  "text" : "Like a length of wood.",
-  "translations" : {
-    "russian" : "Например, куском деревяшки."
-  },
-  "tokens" : [ {
-    "token" : "like",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "length",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "wood",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyNrWNEXFMlzHLUgU",
-  "text" : "You're passing a wooded area.",
-  "translations" : {
-    "russian" : "Вы проезжаете лесной массив."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "passing",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "pass",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 15,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "wood",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "area",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmQFxNEXFMlzHLDkc",
-  "text" : "Yeah, I cut myself chopping wood.",
-  "translations" : {
-    "russian" : "Да, я порезался, когда рубил дрова."
-  },
-  "tokens" : [ {
-    "token" : "yeah",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "cut",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "myself",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "chopping",
-    "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "wood",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm8o3NEXFMlzHLEwP",
-  "text" : "So, you're chopping some wood here?",
-  "translations" : {
-    "russian" : "Значит, вы тут рубите дрова?"
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "you're",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "chopping",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "some",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "wood",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "here",
-    "startOffset" : 30,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm8lNNEXFMlzHLEwI",
-  "text" : "Yeah, I cut myself chopping wood.",
-  "translations" : {
-    "russian" : "Да, я порезался, когда рубил дрова."
-  },
-  "tokens" : [ {
-    "token" : "yeah",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "cut",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "myself",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "chopping",
-    "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "wood",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm83RNEXFMlzHLEwj",
-  "text" : "You haven't chopped the wood yet!",
-  "translations" : {
-    "russian" : "Ты еще дров не нарубил!"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "haven't",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "chopped",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "wood",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "yet",
-    "startOffset" : 29,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvdXDNEXFMlzHLQ9G",
-  "text" : "Crossbows, wooden bullets and automatics?",
-  "translations" : {
-    "russian" : "Арбалеты, деревянные пули и автоматы?"
-  },
-  "tokens" : [ {
-    "token" : "crossbow",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "wooden",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "wood",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "bullet",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 26,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "automatic",
-    "startOffset" : 30,
-    "endOffset" : 40,
-    "position" : 4
-  } ],
-  "contentScore" : "POOR"
-}, {
-  "id" : "AWbgmQC1NEXFMlzHLDkY",
-  "text" : "Chopping wood?",
-  "translations" : {
-    "russian" : "Рубил дрова?"
-  },
-  "tokens" : [ {
-    "token" : "chopping",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "wood",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 1
-  } ],
-  "contentScore" : "POOR"
 } ]

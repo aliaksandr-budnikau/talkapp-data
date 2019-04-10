@@ -1,4 +1,88 @@
 [ {
+  "id" : "AWoEK7HTDTAu_IiLehY8",
+  "text" : "Shift capstan bars.",
+  "translations" : {
+    "russian" : "Перенеси лебедку."
+  },
+  "tokens" : [ {
+    "token" : "shift",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "capstan",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "bars",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "bar",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhQ2ADTAu_IiLfhHY",
+  "text" : "Infection's shifted our margins.",
+  "translations" : {
+    "russian" : "Инфекция распространилась за границы."
+  },
+  "tokens" : [ {
+    "token" : "infection",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "shift",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "our",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "margin",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfk0gDTAu_IiLewlY",
+  "text" : "Centre of gravity shifted.",
+  "translations" : {
+    "russian" : "Сместился центр тяжести."
+  },
+  "tokens" : [ {
+    "token" : "centre",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "gravity",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "shift",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgg3pPNEXFMlzHK918",
   "text" : "Have any extra shifts available?",
   "translations" : {
@@ -34,6 +118,234 @@
     "startOffset" : 22,
     "endOffset" : 31,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEv2ZxDTAu_IiLe8m-",
+  "text" : "The Arc of Infinity is shifting.",
+  "translations" : {
+    "russian" : "Арка Бесконечности перемещается."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "arc",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "infinity",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "is",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "shift",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDTy7VDTAu_IiLeAGY",
+  "text" : "Shift code hidden in an anagram?",
+  "translations" : {
+    "russian" : "Сдвиговый шифр в анаграмме?"
+  },
+  "tokens" : [ {
+    "token" : "shift",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "code",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "hidden",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "an",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "anagram",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEywXCDTAu_IiLe-yI",
+  "text" : "Night shift makes for strange bedfellows.",
+  "translations" : {
+    "russian" : "Ночная смена создана для странных компаньонов."
+  },
+  "tokens" : [ {
+    "token" : "night",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "shift",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "make",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "strange",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "bedfellow",
+    "startOffset" : 30,
+    "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjplcDTAu_IiLfilA",
+  "text" : "Double shifts, round-the-clock simulations.",
+  "translations" : {
+    "russian" : "Двойные смены, круглосуточные симуляции."
+  },
+  "tokens" : [ {
+    "token" : "double",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "shift",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "round",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "clock",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "simulate",
+    "startOffset" : 31,
+    "endOffset" : 42,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExPeGDTAu_IiLe9rD",
+  "text" : "This is certainly no everyday shift!",
+  "translations" : {
+    "russian" : "Это не обычная рубашка."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "certain",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "no",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "everyday",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "shift",
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFOpKZDTAu_IiLfTJW",
+  "text" : "The Arc of Infinity is shifting.",
+  "translations" : {
+    "russian" : "Арка Бесконечности перемещается."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "arc",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "infinity",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "is",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "shift",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

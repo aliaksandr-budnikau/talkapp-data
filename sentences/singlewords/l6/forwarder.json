@@ -27,6 +27,52 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFMrv0DTAu_IiLfRtN",
+  "text" : "Intensify forward firepower!",
+  "translations" : {
+    "russian" : "Усилить мощь передового огня!"
+  },
+  "tokens" : [ {
+    "token" : "intensify",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "forward",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "firepower",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwVv0DTAu_IiLe8-3",
+  "text" : "Duelists, step forward!",
+  "translations" : {
+    "russian" : "Дуэлянты, шаг вперед! Дуэлянты?"
+  },
+  "tokens" : [ {
+    "token" : "duelist",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "step",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "forward",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvcTjNEXFMlzHLQ7C",
   "text" : "Oh, forward and aft?",
   "translations" : {
@@ -52,6 +98,72 @@
     "startOffset" : 16,
     "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMruQDTAu_IiLfRtM",
+  "text" : "Intensify the forward batteries.",
+  "translations" : {
+    "russian" : "Усилить передние батареи."
+  },
+  "tokens" : [ {
+    "token" : "intensify",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "forward",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "battery",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJnjCDTAu_IiLegYv",
+  "text" : "We're still being dragged forward.",
+  "translations" : {
+    "russian" : "И нас все еще тянет вперед."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "still",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "being",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "bee",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "dragged",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "forward",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -88,89 +200,221 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvwjfNEXFMlzHLRZ8",
-  "text" : "Move forward to the double cones.",
+  "id" : "AWoDZgjhDTAu_IiLeDLb",
+  "text" : "Arterial blood spray projected forward.",
   "translations" : {
-    "russian" : "Проезжайте к двойным конусам."
+    "russian" : "Артериальная кровь брызжет вперед."
   },
   "tokens" : [ {
-    "token" : "move",
+    "token" : "arterial",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "blood",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "spray",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "projected",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "project",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "forward",
+    "startOffset" : 31,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEADP2DTAu_IiLeZNH",
+  "text" : "Full hoist to forward sails!",
+  "translations" : {
+    "russian" : "Полный подъём переднего паруса!"
+  },
+  "tokens" : [ {
+    "token" : "full",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "forward",
+    "token" : "hoist",
     "startOffset" : 5,
-    "endOffset" : 12,
+    "endOffset" : 10,
     "position" : 1
   }, {
     "token" : "to",
-    "startOffset" : 13,
-    "endOffset" : 15,
+    "startOffset" : 11,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 16,
-    "endOffset" : 19,
+    "token" : "forward",
+    "startOffset" : 14,
+    "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "double",
-    "startOffset" : 20,
-    "endOffset" : 26,
+    "token" : "sail",
+    "startOffset" : 22,
+    "endOffset" : 27,
     "position" : 4
-  }, {
-    "token" : "e",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqi30NEXFMlzHLJwl",
-  "text" : "We engineered thousands of flash-forwards.",
+  "id" : "AWoEjbhZDTAu_IiLezpX",
+  "text" : "Extraordinary men propel society forward.",
   "translations" : {
-    "russian" : "Мы создали тысячи видений."
+    "russian" : "Экстраординарные люди двигают общество вперед."
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "extraordinary",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 13,
     "position" : 0
   }, {
-    "token" : "engineer",
-    "startOffset" : 3,
-    "endOffset" : 13,
+    "token" : "men",
+    "startOffset" : 14,
+    "endOffset" : 17,
     "position" : 1
   }, {
-    "token" : "thousand",
-    "startOffset" : 14,
-    "endOffset" : 23,
+    "token" : "propel",
+    "startOffset" : 18,
+    "endOffset" : 24,
     "position" : 2
   }, {
-    "token" : "of",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "flash",
-    "startOffset" : 27,
+    "token" : "society",
+    "startOffset" : 25,
     "endOffset" : 32,
-    "position" : 4
+    "position" : 3
   }, {
     "token" : "forward",
     "startOffset" : 33,
-    "endOffset" : 41,
-    "position" : 5
+    "endOffset" : 40,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrUI_NEXFMlzHLK0n",
-  "text" : "Just forward the digital to Maryland.",
+  "id" : "AWoEjb7SDTAu_IiLezpt",
+  "text" : "Extraordinary men propel society forward.",
   "translations" : {
-    "russian" : "Только отправьте цифровую копию в Мэриленд."
+    "russian" : "Экстраординарные люди двигают общество вперед."
   },
   "tokens" : [ {
-    "token" : "just",
+    "token" : "extraordinary",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "men",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "propel",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "society",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "forward",
+    "startOffset" : 33,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJnhFDTAu_IiLegYu",
+  "text" : "We're still being dragged forward.",
+  "translations" : {
+    "russian" : "Нас все еще тянет вперед."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "still",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "being",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "bee",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "dragged",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "forward",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjbvkDTAu_IiLezpk",
+  "text" : "Extraordinary men propel society forward.",
+  "translations" : {
+    "russian" : "Экстраординарные люди двигают общество вперед."
+  },
+  "tokens" : [ {
+    "token" : "extraordinary",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "men",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "propel",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "society",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "forward",
+    "startOffset" : 33,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETyOuDTAu_IiLeoED",
+  "text" : "Step forward, step back, and lunge.",
+  "translations" : {
+    "russian" : "Шаг вперед. Шаг назад. Выпад."
+  },
+  "tokens" : [ {
+    "token" : "step",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
@@ -180,24 +424,100 @@
     "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
+    "token" : "step",
+    "startOffset" : 14,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "digital",
-    "startOffset" : 17,
-    "endOffset" : 24,
+    "token" : "back",
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "to",
+    "token" : "and",
     "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "lunge",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYdf4DTAu_IiLfag0",
+  "text" : "You tilt your back slightly forward.",
+  "translations" : {
+    "russian" : "Ты наклоняешь спину немного вперед."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "tilt",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "back",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "slight",
+    "startOffset" : 19,
     "endOffset" : 27,
     "position" : 4
   }, {
-    "token" : "maryland",
+    "token" : "forward",
     "startOffset" : 28,
-    "endOffset" : 36,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtfb3DTAu_IiLeOe9",
+  "text" : "And my left flank moves forward...",
+  "translations" : {
+    "russian" : "И моя левая сторона перемещает форварда..."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "left",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "flank",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "move",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "forward",
+    "startOffset" : 24,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoFMMOUDTAu_IiLfRVw",
+  "text" : "The convent.",
+  "translations" : {
+    "russian" : "Oh, the nuns.Монастырь!"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "vent",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyDOANEXFMlzHLUKf",
   "text" : "They invented the shunt.",
   "translations" : {
@@ -37,6 +55,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFW3lFDTAu_IiLfZQZ",
+  "text" : "He invented the valve.",
+  "translations" : {
+    "russian" : "Он изобрёл лампу."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "invented",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "vent",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "invent",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "valve",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrnrnNEXFMlzHLLRR",
   "text" : "We are venting drive plasma.",
   "translations" : {
@@ -67,6 +123,44 @@
     "startOffset" : 21,
     "endOffset" : 27,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_HdTDTAu_IiLfHT9",
+  "text" : "Our humble convent is your sanctuary.",
+  "translations" : {
+    "russian" : "Наш скромный монастырь -- ваше убежище."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "humble",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "vent",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "your",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "sanctuary",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

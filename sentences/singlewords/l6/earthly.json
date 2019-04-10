@@ -1,115 +1,504 @@
 [ {
-  "id" : "AWbgkpflNEXFMlzHLBPI",
-  "text" : "You forgot me on earth.",
+  "id" : "AWoER7XTDTAu_IiLemqA",
+  "text" : "Hollow Earth.",
   "translations" : {
-    "russian" : "Ты забыл меня на Земле."
+    "russian" : "В Центре Земли."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "hollow",
     "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "forgot",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "earth",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "ear",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkpjuNEXFMlzHLBPN",
-  "text" : "It was hell on earth.",
-  "translations" : {
-    "russian" : "Это был ад на земле."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 3,
     "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "earth",
+    "startOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "hell",
+    "token" : "ear",
     "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFD9krDTAu_IiLfK-M",
+  "text" : "Earth Examiner.",
+  "translations" : {
+    "russian" : "Земной Ревизор."
+  },
+  "tokens" : [ {
+    "token" : "earth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
-    "token" : "on",
-    "startOffset" : 12,
+    "token" : "ear",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "examiner",
+    "startOffset" : 6,
     "endOffset" : 14,
-    "position" : 3
+    "position" : 1
+  }, {
+    "token" : "examine",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoER7E_DTAu_IiLempw",
+  "text" : "This is Hollow Earth.",
+  "translations" : {
+    "russian" : "Это Центр Земли."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "hollow",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
   }, {
     "token" : "earth",
     "startOffset" : 15,
     "endOffset" : 20,
-    "position" : 4
+    "position" : 3
   }, {
     "token" : "ear",
     "startOffset" : 15,
     "endOffset" : 20,
-    "position" : 4
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgj4P6NEXFMlzHLAYv",
-  "text" : "Earth's atmosphere is 80 percent nitrogen.",
+  "id" : "AWoE3FVWDTAu_IiLfBwa",
+  "text" : "Conquer and rule Earth?",
   "translations" : {
-    "russian" : "Атмосфера Земли на 80 процентов состоит из азота."
+    "russian" : "Завоевать и править Землёй?"
   },
   "tokens" : [ {
-    "token" : "earth",
+    "token" : "conquer",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "atmosphere",
+    "token" : "and",
     "startOffset" : 8,
-    "endOffset" : 18,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "is",
-    "startOffset" : 19,
-    "endOffset" : 21,
+    "token" : "rule",
+    "startOffset" : 12,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "80",
-    "startOffset" : 22,
+    "token" : "earth",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "ear",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3IYjDTAu_IiLfByc",
+  "text" : "I am conquering earth.",
+  "translations" : {
+    "russian" : "Я захватил Землю!"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "conquer",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "earth",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "ear",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEAHRDTAu_IiLfK_9",
+  "text" : "I liked the Earth!",
+  "translations" : {
+    "russian" : "Не нравилась емл !"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "liked",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "earth",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "ear",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFD9VADTAu_IiLfK-B",
+  "text" : "Where's the Earth?",
+  "translations" : {
+    "russian" : "Где же Земля?"
+  },
+  "tokens" : [ {
+    "token" : "where",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "earth",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "ear",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDOwTpDTAu_IiLd8w-",
+  "text" : "Both Earth outposts gone.",
+  "translations" : {
+    "russian" : "Оба аванпоста исчезли."
+  },
+  "tokens" : [ {
+    "token" : "both",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "earth",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ear",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "outpost",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "gone",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3VE2DTAu_IiLfB7D",
+  "text" : "Conquer and rule Earth?",
+  "translations" : {
+    "russian" : "Завоевать и править Землёй?"
+  },
+  "tokens" : [ {
+    "token" : "conquer",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "rule",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "earth",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "ear",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3YBXDTAu_IiLfB9F",
+  "text" : "I am conquering earth.",
+  "translations" : {
+    "russian" : "Я захватил Землю!"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "conquer",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "earth",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "ear",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEQ0NDTAu_IiLfLLu",
+  "text" : "Ooh, earth-friendly cereals.",
+  "translations" : {
+    "russian" : "О, экологически чистая крупа."
+  },
+  "tokens" : [ {
+    "token" : "ooh",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "earth",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ear",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "friendly",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "friend",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "cereal",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEAOYDTAu_IiLfLAB",
+  "text" : "On Earth, England.",
+  "translations" : {
+    "russian" : "Емл , нгли."
+  },
+  "tokens" : [ {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "earth",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "ear",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "england",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFD9a7DTAu_IiLfK-F",
+  "text" : "It's really old earth.",
+  "translations" : {
+    "russian" : "Это действительно старая земля."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ally",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "old",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "earth",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "ear",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFD-xWDTAu_IiLfK_C",
+  "text" : "The Earth people!",
+  "translations" : {
+    "russian" : "Земляне!"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "earth",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "ear",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "people",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5pZ1DTAu_IiLeUz7",
+  "text" : "Stolen from hollow earth?",
+  "translations" : {
+    "russian" : "Выкрал из Полой Земли?"
+  },
+  "tokens" : [ {
+    "token" : "stolen",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "from",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "hollow",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "earth",
+    "startOffset" : 19,
     "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "percent",
-    "startOffset" : 25,
-    "endOffset" : 32,
-    "position" : 4
+    "token" : "ear",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvSYqDTAu_IiLe8NT",
+  "text" : "The earth trembles!",
+  "translations" : {
+    "russian" : "И земля трясётся!"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
-    "token" : "nitrogen",
-    "startOffset" : 33,
-    "endOffset" : 41,
-    "position" : 5
+    "token" : "earth",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "ear",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "trembles",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "tremble",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

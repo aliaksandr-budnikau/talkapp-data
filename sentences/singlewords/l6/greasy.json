@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDccXnDTAu_IiLeE73",
+  "text" : "Greasy black hair, whiskers.",
+  "translations" : {
+    "russian" : "Жирные черные волосы, усы."
+  },
+  "tokens" : [ {
+    "token" : "greasy",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "black",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "hair",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "whisk",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzNFQNEXFMlzHLV--",
   "text" : "Lovely, Greasy, bitter, horrible olives!",
   "translations" : {
@@ -33,6 +61,39 @@
     "token" : "olive",
     "startOffset" : 33,
     "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTM0jDTAu_IiLfWrz",
+  "text" : "Chinese food, greasy, Scrabble board...",
+  "translations" : {
+    "russian" : "Китайская еда, жирный ужин, доска для скраббла...."
+  },
+  "tokens" : [ {
+    "token" : "chinese",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "food",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "greasy",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "scrabble",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "board",
+    "startOffset" : 31,
+    "endOffset" : 36,
     "position" : 4
   } ],
   "contentScore" : null

@@ -1,4 +1,101 @@
 [ {
+  "id" : "AWoFQbnODTAu_IiLfUjz",
+  "text" : "Yemeni passport.",
+  "translations" : {
+    "russian" : "Йеменский паспорт."
+  },
+  "tokens" : [ {
+    "token" : "yemeni",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "passport",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1Kv9DTAu_IiLeSw-",
+  "text" : "My purse and passport.",
+  "translations" : {
+    "russian" : "Мой пасспорт с деньгами!"
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "purse",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "passport",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOwViDTAu_IiLekW9",
+  "text" : "Please insert passport.",
+  "translations" : {
+    "russian" : "Пожалуйста, вставьте паспорт."
+  },
+  "tokens" : [ {
+    "token" : "please",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "insert",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "passport",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdXy1DTAu_IiLfeb_",
+  "text" : "Next you're confiscating passports?",
+  "translations" : {
+    "russian" : "А вы тут же ещё и паспорта изымаете?"
+  },
+  "tokens" : [ {
+    "token" : "next",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you're",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "confiscate",
+    "startOffset" : 12,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "passport",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvbofNEXFMlzHLQ5n",
   "text" : "You have your passport?",
   "translations" : {
@@ -24,6 +121,75 @@
     "startOffset" : 14,
     "endOffset" : 22,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8Q0VDTAu_IiLeWT-",
+  "text" : "A Venezuelan passport?",
+  "translations" : {
+    "russian" : "Венесуэльский паспорт?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "venezuelan",
+    "startOffset" : 2,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "passport",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEO0I2DTAu_IiLekZu",
+  "text" : "Please insert passport.",
+  "translations" : {
+    "russian" : "Пожалуйста, вставьте паспорт."
+  },
+  "tokens" : [ {
+    "token" : "please",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "insert",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "passport",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOqBnDTAu_IiLekSL",
+  "text" : "Please insert passport.",
+  "translations" : {
+    "russian" : "Пожалуйста, вставьте паспорт."
+  },
+  "tokens" : [ {
+    "token" : "please",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "insert",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "passport",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -84,6 +250,39 @@
     "token" : "tough",
     "startOffset" : 27,
     "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDR5WUDTAu_IiLd-00",
+  "text" : "He has an Albanian passport.",
+  "translations" : {
+    "russian" : "У него албанский паспорт."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "has",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "albanian",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "passport",
+    "startOffset" : 19,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
@@ -154,40 +353,111 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvbumNEXFMlzHLQ5z",
-  "text" : "I know you took my passport.",
+  "id" : "AWoFdXx3DTAu_IiLfeb-",
+  "text" : "And we'll be confiscating passports.",
   "translations" : {
-    "russian" : "Я знаю, ты взял мой паспорт."
+    "russian" : "И мы будем изымать паспорта."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "and",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "know",
-    "startOffset" : 2,
+    "token" : "we'll",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "confiscate",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "passport",
+    "startOffset" : 26,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-N_-DTAu_IiLeX0e",
+  "text" : "Do you have a valid passport?",
+  "translations" : {
+    "russian" : "У тебя есть действующий паспорт?"
+  },
+  "tokens" : [ {
+    "token" : "do",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 3,
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "you",
+    "token" : "have",
     "startOffset" : 7,
-    "endOffset" : 10,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "took",
-    "startOffset" : 11,
-    "endOffset" : 15,
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
     "position" : 3
   }, {
-    "token" : "my",
-    "startOffset" : 16,
-    "endOffset" : 18,
+    "token" : "valid",
+    "startOffset" : 14,
+    "endOffset" : 19,
     "position" : 4
   }, {
     "token" : "passport",
-    "startOffset" : 19,
-    "endOffset" : 27,
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkzTIDTAu_IiLe0sM",
+  "text" : "Do you have a valid passport?",
+  "translations" : {
+    "russian" : "У тебя есть действующий паспорт?"
+  },
+  "tokens" : [ {
+    "token" : "do",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 3
+  }, {
+    "token" : "valid",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 4
+  }, {
+    "token" : "passport",
+    "startOffset" : 20,
+    "endOffset" : 28,
     "position" : 5
   } ],
   "contentScore" : null

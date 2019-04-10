@@ -1,84 +1,395 @@
 [ {
-  "id" : "AWbgp0_fNEXFMlzHLIzi",
-  "text" : "My trips are public record.",
+  "id" : "AWoE_Aw9DTAu_IiLfHOo",
+  "text" : "Recording.",
   "translations" : {
-    "russian" : "Информация о моих поездках общедоступна."
+    "russian" : "Записывает?"
   },
   "tokens" : [ {
-    "token" : "my",
+    "token" : "cording",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 9,
     "position" : 0
   }, {
-    "token" : "trip",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "public",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
     "token" : "record",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "cord",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgp1FGNEXFMlzHLIzp",
-  "text" : "I've searched the public record...",
+  "id" : "AWoE-_fADTAu_IiLfHNm",
+  "text" : "Record.",
   "translations" : {
-    "russian" : "Проверил общедоступные документы..."
+    "russian" : "Рекорд."
   },
   "tokens" : [ {
-    "token" : "i've",
+    "token" : "record",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cord",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_BKoDTAu_IiLfHO7",
+  "text" : "Recording.",
+  "translations" : {
+    "russian" : "Записывал."
+  },
+  "tokens" : [ {
+    "token" : "cording",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "record",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-_78DTAu_IiLfHN9",
+  "text" : "A record.",
+  "translations" : {
+    "russian" : "Это рекорд."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "record",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "cord",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDkPyoDTAu_IiLeJZB",
+  "text" : "His record is spotless.",
+  "translations" : {
+    "russian" : "Записи о нём безупречны."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "record",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "cord",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "spotless",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_A2_DTAu_IiLfHOr",
+  "text" : "Lieutenant Sulu recording.",
+  "translations" : {
+    "russian" : "Записывает лейтенант Сулу."
+  },
+  "tokens" : [ {
+    "token" : "lieutenant",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "sulu",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "cording",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "record",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-_FWDTAu_IiLfHNQ",
+  "text" : "Stop this record.",
+  "translations" : {
+    "russian" : "Выключите пластинку."
+  },
+  "tokens" : [ {
+    "token" : "stop",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "search",
+    "token" : "this",
     "startOffset" : 5,
-    "endOffset" : 13,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
+    "token" : "record",
+    "startOffset" : 10,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "public",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "record",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
     "token" : "cord",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 4
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdh5zNEXFMlzHK69j",
-  "text" : "One note on his record...",
+  "id" : "AWoDPuwEDTAu_IiLd9XH",
+  "text" : "Initiate autopilot recording.",
   "translations" : {
-    "russian" : "Одно замечание о его данных..."
+    "russian" : "Включить запись автопилота."
+  },
+  "tokens" : [ {
+    "token" : "initiate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "autopilot",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "cording",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "record",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_CWFDTAu_IiLfHP5",
+  "text" : "Just for the record.",
+  "translations" : {
+    "russian" : "Да так, для протокола."
+  },
+  "tokens" : [ {
+    "token" : "just",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "record",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "cord",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-_oZDTAu_IiLfHNs",
+  "text" : "A record comparable...",
+  "translations" : {
+    "russian" : "Рекорд, сравнимый..."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "record",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "cord",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "comparable",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "compare",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPuEHDTAu_IiLfT-V",
+  "text" : "I record new explorations.",
+  "translations" : {
+    "russian" : "Записываю результаты разведки."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "record",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "cord",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "new",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "exploration",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDkPBaDTAu_IiLeJYn",
+  "text" : "A spotless military record.",
+  "translations" : {
+    "russian" : "У неё безупречный послужной список."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "spotless",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "military",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "record",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "cord",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_AbRDTAu_IiLfHOW",
+  "text" : "You're recording this, yeoman?",
+  "translations" : {
+    "russian" : "Вы записали, старшина?"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cording",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "record",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "yeoman",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE--m1DTAu_IiLfHM4",
+  "text" : "A gramophone record?",
+  "translations" : {
+    "russian" : "Граммофонная запись?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "gramophone",
+    "startOffset" : 2,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "record",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "cord",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDS7_wDTAu_IiLd_hd",
+  "text" : "One vinyl record album...",
+  "translations" : {
+    "russian" : "Одна виниловая пластинка..."
   },
   "tokens" : [ {
     "token" : "one",
@@ -86,106 +397,53 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "note",
+    "token" : "vinyl",
     "startOffset" : 4,
-    "endOffset" : 8,
+    "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "his",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
   }, {
     "token" : "record",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "cord",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgisziNEXFMlzHK_ZH",
-  "text" : "Do those cameras record sound?",
-  "translations" : {
-    "russian" : "Эти камеры записывают и звук?"
-  },
-  "tokens" : [ {
-    "token" : "do",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "those",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "camera",
-    "startOffset" : 9,
+    "startOffset" : 10,
     "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "record",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
     "token" : "cord",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "sound",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqPp0NEXFMlzHLJYc",
-  "text" : "Do those cameras record sound?",
-  "translations" : {
-    "russian" : "Эти камеры записывают и звук?"
-  },
-  "tokens" : [ {
-    "token" : "do",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "those",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "camera",
-    "startOffset" : 9,
+    "startOffset" : 10,
     "endOffset" : 16,
     "position" : 2
   }, {
+    "token" : "album",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZ2APDTAu_IiLeDZU",
+  "text" : "And recorders are 150.",
+  "translations" : {
+    "russian" : "Продольные флейты - 150."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
     "token" : "record",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
   }, {
-    "token" : "cord",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
+    "token" : "are",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
   }, {
-    "token" : "sound",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 4
+    "token" : "150",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

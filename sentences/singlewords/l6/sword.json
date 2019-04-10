@@ -1,8 +1,143 @@
 [ {
-  "id" : "AWbgmzHZNEXFMlzHLEgS",
-  "text" : "Sword A into slot B.",
+  "id" : "AWoFL4J6DTAu_IiLfRGt",
+  "text" : "Hindu swords.",
   "translations" : {
-    "russian" : "Меч А в отверстие Б."
+    "russian" : "Индусские сабли."
+  },
+  "tokens" : [ {
+    "token" : "hindu",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "sword",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJ9n0DTAu_IiLego_",
+  "text" : "Swords sheathed.",
+  "translations" : {
+    "russian" : "Сабли! В ножны!"
+  },
+  "tokens" : [ {
+    "token" : "sword",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "sheathe",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "sheath",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvr53DTAu_IiLeP1M",
+  "text" : "Wrestle or by sword?",
+  "translations" : {
+    "russian" : "Будем драться мечами или поборемся?"
+  },
+  "tokens" : [ {
+    "token" : "wrestle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "or",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "by",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "sword",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzkg2DTAu_IiLeR-G",
+  "text" : "Grunting clanking swords screaming.",
+  "translations" : {
+    "russian" : "Победа стоны звон мечей крики."
+  },
+  "tokens" : [ {
+    "token" : "grunt",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "clanking",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "clank",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "sword",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "screaming",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "scream",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDCJ4DTAu_IiLebg6",
+  "text" : "Spartacus wields practice swords.",
+  "translations" : {
+    "russian" : "Спартак владеет практикой мечей."
+  },
+  "tokens" : [ {
+    "token" : "spartacus",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "wield",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "practice",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "sword",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQk9hDTAu_IiLfUrX",
+  "text" : "Sword in hand, cavalryman.",
+  "translations" : {
+    "russian" : "Шпагу в руки, кавалерист."
   },
   "tokens" : [ {
     "token" : "sword",
@@ -10,177 +145,300 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "a",
+    "token" : "in",
     "startOffset" : 6,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "into",
-    "startOffset" : 8,
+    "token" : "hand",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "cavalryman",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzlV9DTAu_IiLeR-j",
+  "text" : "Grunting clanking swords screaming.",
+  "translations" : {
+    "russian" : "Победа стоны звон мечей крики."
+  },
+  "tokens" : [ {
+    "token" : "grunt",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "clanking",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "clank",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "sword",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "screaming",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "scream",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECzy2DTAu_IiLebVg",
+  "text" : "Spartacus wields practice swords.",
+  "translations" : {
+    "russian" : "Спартак владеет практикой мечей."
+  },
+  "tokens" : [ {
+    "token" : "spartacus",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "wield",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "practice",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "sword",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQlHwDTAu_IiLfUrf",
+  "text" : "Sword in hand, cavalryman.",
+  "translations" : {
+    "russian" : "Шпагу в руки, кавалерист."
+  },
+  "tokens" : [ {
+    "token" : "sword",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "hand",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "cavalryman",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWhhDDTAu_IiLfZAW",
+  "text" : "I snapped my sword!",
+  "translations" : {
+    "russian" : "Я сломал свой меч!"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "snapped",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 10,
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "slot",
+    "token" : "sword",
     "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "b",
-    "startOffset" : 18,
-    "endOffset" : 19,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeKQSNEXFMlzHK7fd",
-  "text" : "Heat your sword in the fire!",
-  "translations" : {
-    "russian" : "Нагрей свой меч в огне!"
-  },
-  "tokens" : [ {
-    "token" : "heat",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "sword",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 16,
     "endOffset" : 18,
     "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "fire",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnISGNEXFMlzHLE_M",
-  "text" : "Heat your sword in the fire!",
+  "id" : "AWoFWm-8DTAu_IiLfZEK",
+  "text" : "I snapped my sword!",
   "translations" : {
-    "russian" : "Нагрей свой меч в огне!"
+    "russian" : "Я сломал свой меч!"
   },
   "tokens" : [ {
-    "token" : "heat",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "your",
-    "startOffset" : 5,
+    "token" : "snapped",
+    "startOffset" : 2,
     "endOffset" : 9,
     "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
   }, {
     "token" : "sword",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 16,
+    "startOffset" : 13,
     "endOffset" : 18,
     "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "fire",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnDADNEXFMlzHLE4X",
-  "text" : "Fear cuts deeper than a sword.",
+  "id" : "AWoE78RqDTAu_IiLfE6x",
+  "text" : "I've enchanted Arthur's sword.",
   "translations" : {
-    "russian" : "Страх ранит больше меча."
+    "russian" : "Я заколдовала меч Артура."
   },
   "tokens" : [ {
-    "token" : "fear",
+    "token" : "i've",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "cut",
+    "token" : "enchant",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "deep",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "than",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 22,
+    "token" : "arthur",
+    "startOffset" : 15,
     "endOffset" : 23,
-    "position" : 4
+    "position" : 2
   }, {
     "token" : "sword",
     "startOffset" : 24,
     "endOffset" : 29,
-    "position" : 5
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyLe1NEXFMlzHLUb1",
-  "text" : "Prepare to taste my bendy sword.",
+  "id" : "AWoFRu76DTAu_IiLfVl1",
+  "text" : "Swords born from shackles.",
   "translations" : {
-    "russian" : "Приготовься отведать моего гибкого меча."
+    "russian" : "Мечи, рождённые из оков."
   },
   "tokens" : [ {
-    "token" : "prepare",
+    "token" : "sword",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "born",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "from",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "shackle",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTqKWDTAu_IiLfXBW",
+  "text" : "Caspian, his sword.",
+  "translations" : {
+    "russian" : "Каспиан, его меч."
+  },
+  "tokens" : [ {
+    "token" : "caspian",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
+    "token" : "his",
+    "startOffset" : 9,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "taste",
-    "startOffset" : 11,
-    "endOffset" : 16,
+    "token" : "sword",
+    "startOffset" : 13,
+    "endOffset" : 18,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdM96DTAu_IiLeuu8",
+  "text" : "It's a sword pommel.",
+  "translations" : {
+    "russian" : "Это навершие меча."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
-    "token" : "my",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "bendy",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
   }, {
     "token" : "sword",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 5
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "pommel",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEs3WiDTAu_IiLe6ji",
+  "text" : "Downward Sword stance.",
+  "translations" : {
+    "russian" : "Нисходящий меч."
+  },
+  "tokens" : [ {
+    "token" : "downward",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "sword",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "stance",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoDVCgRDTAu_IiLeA4w",
+  "text" : "Anecdote accepted.",
+  "translations" : {
+    "russian" : "Шутка принята."
+  },
+  "tokens" : [ {
+    "token" : "anecdote",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "accepted",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "accept",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfIKgNEXFMlzHK8Wh",
   "text" : "We accept those terms.",
   "translations" : {
@@ -177,6 +200,90 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDWw9TDTAu_IiLeB0G",
+  "text" : "Apologetic look accepted.",
+  "translations" : {
+    "russian" : "Извиняющийся взгляд принят."
+  },
+  "tokens" : [ {
+    "token" : "apologetic",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "look",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "accepted",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "accept",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEy9nTDTAu_IiLe-7s",
+  "text" : "Accept my humble sacrifice.",
+  "translations" : {
+    "russian" : "Прими мою смиренную жертву!"
+  },
+  "tokens" : [ {
+    "token" : "accept",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "humble",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "sacrifice",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKjpQDTAu_IiLfQF6",
+  "text" : "Accept each other's foibles.",
+  "translations" : {
+    "russian" : "Примите недостатки друг друга."
+  },
+  "tokens" : [ {
+    "token" : "accept",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "each",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "other",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "foible",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfIQmNEXFMlzHK8Wm",
   "text" : "And I accept that.",
   "translations" : {
@@ -289,201 +396,64 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgfIcFNEXFMlzHK8Ww",
-  "text" : "I accepted the deal!",
+  "id" : "AWoEzD-qDTAu_IiLe_AN",
+  "text" : "Accept my humble sacrifice.",
   "translations" : {
-    "russian" : "Я согласился на соглашение."
+    "russian" : "Прими мою смиренную жертву!"
   },
   "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "accepted",
-    "startOffset" : 2,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
     "token" : "accept",
-    "startOffset" : 2,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "deal",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfIi9NEXFMlzHK8W2",
-  "text" : "I wouldn't have accepted.",
-  "translations" : {
-    "russian" : "Но могла бы не согласиться."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "wouldn't",
-    "startOffset" : 2,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "accepted",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "accept",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfJurNEXFMlzHK8X5",
-  "text" : "I shouldn't accept this...",
-  "translations" : {
-    "russian" : "Я не должна брать это..."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "shouldn't",
-    "startOffset" : 2,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "accept",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "this",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfb-oNEXFMlzHK8nb",
-  "text" : "I accepted the deal!",
-  "translations" : {
-    "russian" : "Я согласился на соглашение."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "accepted",
-    "startOffset" : 2,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "accept",
-    "startOffset" : 2,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "deal",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbZymNEXFMlzHK5FX",
-  "text" : "People were not so accepting.",
-  "translations" : {
-    "russian" : "Люди были не такие понимающие."
-  },
-  "tokens" : [ {
-    "token" : "people",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "were",
+    "token" : "my",
     "startOffset" : 7,
-    "endOffset" : 11,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "not",
-    "startOffset" : 12,
-    "endOffset" : 15,
+    "token" : "humble",
+    "startOffset" : 10,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "so",
-    "startOffset" : 16,
-    "endOffset" : 18,
+    "token" : "sacrifice",
+    "startOffset" : 17,
+    "endOffset" : 26,
     "position" : 3
-  }, {
-    "token" : "accepting",
-    "startOffset" : 19,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "accept",
-    "startOffset" : 19,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgfIYLNEXFMlzHK8Wt",
-  "text" : "Then you'll accept my date?",
+  "id" : "AWoFWdbZDTAu_IiLfY9l",
+  "text" : "The clans have accepted.",
   "translations" : {
-    "russian" : "А ты согласишься со мной поужинать?"
+    "russian" : "Все кланы дали согласие."
   },
   "tokens" : [ {
-    "token" : "th",
+    "token" : "the",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "you'll",
-    "startOffset" : 5,
-    "endOffset" : 11,
+    "token" : "clan",
+    "startOffset" : 4,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "accept",
-    "startOffset" : 12,
-    "endOffset" : 18,
+    "token" : "have",
+    "startOffset" : 10,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "my",
-    "startOffset" : 19,
-    "endOffset" : 21,
+    "token" : "accepted",
+    "startOffset" : 15,
+    "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "date",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
+    "token" : "accept",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

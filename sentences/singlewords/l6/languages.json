@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoDaP2XDTAu_IiLeDqP",
+  "text" : "Language assimilated.",
+  "translations" : {
+    "russian" : "Язык ассимилирован."
+  },
+  "tokens" : [ {
+    "token" : "language",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "assimilate",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFP2qFDTAu_IiLfUFi",
+  "text" : "Developmental language.",
+  "translations" : {
+    "russian" : "Развитие языка."
+  },
+  "tokens" : [ {
+    "token" : "developmental",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "language",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgx9f3NEXFMlzHLUB2",
   "text" : "Language Arts 31 points.",
   "translations" : {
@@ -24,6 +60,105 @@
     "startOffset" : 17,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECVkUDTAu_IiLea-c",
+  "text" : "He can comprehend five languages.",
+  "translations" : {
+    "russian" : "Он понимает 5 языков."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "comprehend",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "five",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "language",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEf1-EDTAu_IiLewy0",
+  "text" : "And, um, use grandiose language.",
+  "translations" : {
+    "russian" : "И, хм, используйте напыщенный язык."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "um",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "use",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "grandiose",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "language",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfrOUDTAu_IiLfgGJ",
+  "text" : "German is a rigid language.",
+  "translations" : {
+    "russian" : "Немецкий жесткий язык."
+  },
+  "tokens" : [ {
+    "token" : "german",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "rigid",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "language",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -137,6 +272,82 @@
     "token" : "subtitle",
     "startOffset" : 27,
     "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPuxjDTAu_IiLfT_D",
+  "text" : "To begin my exploration of language.",
+  "translations" : {
+    "russian" : "Чтобы начать исследовать язык."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "begin",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "exploration",
+    "startOffset" : 12,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "language",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4IRGDTAu_IiLeUIJ",
+  "text" : "I cannot speak the Welsh language.",
+  "translations" : {
+    "russian" : "Я не говорю на валлийском."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "cannot",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "speak",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "welsh",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "language",
+    "startOffset" : 25,
+    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null

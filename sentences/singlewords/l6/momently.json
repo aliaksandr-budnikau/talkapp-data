@@ -1,8 +1,54 @@
 [ {
-  "id" : "AWbgh3AbNEXFMlzHK-tM",
-  "text" : "It's a big moment for you.",
+  "id" : "AWoEuC8iDTAu_IiLe7WK",
+  "text" : "Teachable moment.",
   "translations" : {
-    "russian" : "Это важный момент для тебя."
+    "russian" : "Поучительный момент."
+  },
+  "tokens" : [ {
+    "token" : "teachable",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "moment",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOo33DTAu_IiLekRV",
+  "text" : "A moment's chance encounter.",
+  "translations" : {
+    "russian" : "Минутная случайная встреча."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "moment",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "chance",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "encounter",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqSGSDTAu_IiLe4yP",
+  "text" : "It's a joyful moment...",
+  "translations" : {
+    "russian" : "Это - радостный момент..."
   },
   "tokens" : [ {
     "token" : "it",
@@ -15,70 +61,134 @@
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "big",
+    "token" : "joyful",
     "startOffset" : 7,
-    "endOffset" : 10,
+    "endOffset" : 13,
     "position" : 2
   }, {
     "token" : "moment",
-    "startOffset" : 11,
-    "endOffset" : 17,
+    "startOffset" : 14,
+    "endOffset" : 20,
     "position" : 3
-  }, {
-    "token" : "for",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "you",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmhIRNEXFMlzHLEBf",
-  "text" : "But the moment that bell rings...",
+  "id" : "AWoEqSIeDTAu_IiLe4yR",
+  "text" : "It's a joyful moment...",
   "translations" : {
-    "russian" : "Но как только звенит звонок..."
+    "russian" : "Это - радостный момент..."
   },
   "tokens" : [ {
-    "token" : "but",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "joyful",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "moment",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqSNXDTAu_IiLe4yU",
+  "text" : "It's a joyful moment...",
+  "translations" : {
+    "russian" : "Это - радостный момент..."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "joyful",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "moment",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqSO1DTAu_IiLe4yV",
+  "text" : "It's a joyful moment...",
+  "translations" : {
+    "russian" : "Это - радостный момент..."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "joyful",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "moment",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyECzDTAu_IiLe-R0",
+  "text" : "Just one moment, please.",
+  "translations" : {
+    "russian" : "Можно вас на минутку?"
+  },
+  "tokens" : [ {
+    "token" : "just",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "one",
+    "startOffset" : 5,
+    "endOffset" : 8,
     "position" : 1
   }, {
     "token" : "moment",
-    "startOffset" : 8,
-    "endOffset" : 14,
+    "startOffset" : 9,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "that",
-    "startOffset" : 15,
-    "endOffset" : 19,
+    "token" : "please",
+    "startOffset" : 17,
+    "endOffset" : 23,
     "position" : 3
-  }, {
-    "token" : "bell",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "r",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgt5BzNEXFMlzHLOG7",
-  "text" : "A great moment of civic compromise.",
+  "id" : "AWoDkjBGDTAu_IiLeJji",
+  "text" : "A moment of madness.",
   "translations" : {
-    "russian" : "Великий момент гражданского компромисса."
+    "russian" : "Безумный момент."
   },
   "tokens" : [ {
     "token" : "a",
@@ -86,30 +196,244 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "great",
+    "token" : "moment",
     "startOffset" : 2,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "moment",
-    "startOffset" : 8,
-    "endOffset" : 14,
+    "token" : "of",
+    "startOffset" : 9,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "of",
-    "startOffset" : 15,
-    "endOffset" : 17,
+    "token" : "madness",
+    "startOffset" : 12,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "civic",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
+    "token" : "mad",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqSHQDTAu_IiLe4yQ",
+  "text" : "It's a joyful moment...",
+  "translations" : {
+    "russian" : "Это - радостный момент..."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
-    "token" : "compromise",
-    "startOffset" : 24,
-    "endOffset" : 34,
-    "position" : 5
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "joyful",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "moment",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqSJtDTAu_IiLe4yS",
+  "text" : "It's a joyful moment...",
+  "translations" : {
+    "russian" : "Это - радостный момент..."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "joyful",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "moment",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVgEDDTAu_IiLfYT0",
+  "text" : "Every moment beckons.",
+  "translations" : {
+    "russian" : "Мгновение зовет."
+  },
+  "tokens" : [ {
+    "token" : "every",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "moment",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "beckon",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuDCZDTAu_IiLe7WO",
+  "text" : "The ultimate teachable moment.",
+  "translations" : {
+    "russian" : "Главный поучительный момент."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ultimate",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "teachable",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "moment",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVhVSDTAu_IiLfYUp",
+  "text" : "Every moment beckons.",
+  "translations" : {
+    "russian" : "Мгновение зовет."
+  },
+  "tokens" : [ {
+    "token" : "every",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "moment",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "beckon",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDklDXDTAu_IiLeJks",
+  "text" : "A moment of madness.",
+  "translations" : {
+    "russian" : "Момент помешательства."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "moment",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "madness",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "mad",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqSK7DTAu_IiLe4yT",
+  "text" : "It's a joyful moment...",
+  "translations" : {
+    "russian" : "Это - радостный момент..."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "joyful",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "moment",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyD_oDTAu_IiLe-Ry",
+  "text" : "One moment please, General.",
+  "translations" : {
+    "russian" : "Еще минутку, господин генерал."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "moment",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "please",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "general",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

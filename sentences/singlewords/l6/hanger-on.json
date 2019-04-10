@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoE0ueVDTAu_IiLfAKU",
+  "text" : "Hang on, Wen.",
+  "translations" : {
+    "russian" : "Держись, Вэн."
+  },
+  "tokens" : [ {
+    "token" : "hang",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "wen",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggXT2NEXFMlzHK9Z7",
   "text" : "Hang on a second... agent.",
   "translations" : {
@@ -27,6 +50,39 @@
   }, {
     "token" : "agent",
     "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEx4Y9DTAu_IiLe-JQ",
+  "text" : "Hang on a second, Jasmine!",
+  "translations" : {
+    "russian" : "Секундочку, Джесмин."
+  },
+  "tokens" : [ {
+    "token" : "hang",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "second",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "jasmine",
+    "startOffset" : 18,
     "endOffset" : 25,
     "position" : 4
   } ],

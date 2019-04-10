@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoDbbUuDTAu_IiLeEYE",
+  "text" : "Moscow, London, Athens Paris !",
+  "translations" : {
+    "russian" : "Москва, Лондон, Афины Париж!"
+  },
+  "tokens" : [ {
+    "token" : "moscow",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "london",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "athens",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "paris",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEteb1DTAu_IiLe69j",
+  "text" : "I reached Moscow.",
+  "translations" : {
+    "russian" : "Пришла в Москву."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "reached",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "ached",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "moscow",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvDUoNEXFMlzHLQUZ",
   "text" : "Immediate action traffic, Moscow station.",
   "translations" : {

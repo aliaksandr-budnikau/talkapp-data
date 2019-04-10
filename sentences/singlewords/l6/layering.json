@@ -32,6 +32,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDbrd3DTAu_IiLeEiM",
+  "text" : "Bi-layered liquid, acetone.",
+  "translations" : {
+    "russian" : "Двухслойная жидкость, ацетон."
+  },
+  "tokens" : [ {
+    "token" : "bi",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "layered",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "layer",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "liquid",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "acetone",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgj-X7NEXFMlzHLAeC",
   "text" : "Little extra layer of security.",
   "translations" : {
@@ -66,6 +99,82 @@
     "token" : "security",
     "startOffset" : 22,
     "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDfjhNDTAu_IiLeGtC",
+  "text" : "Triple-layer fudge cake, yo!",
+  "translations" : {
+    "russian" : "Трёхслойный пирог из сливочной помадки, йоу!"
+  },
+  "tokens" : [ {
+    "token" : "triple",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "layer",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "lay",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "fudge",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "cake",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "yo",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESAu7DTAu_IiLemt9",
+  "text" : "Triple-layer fudge cake, yo!",
+  "translations" : {
+    "russian" : "Трёхслойный пирог из сливочной помадки, йоу!"
+  },
+  "tokens" : [ {
+    "token" : "triple",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "layer",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "lay",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "fudge",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "cake",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "yo",
+    "startOffset" : 25,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null

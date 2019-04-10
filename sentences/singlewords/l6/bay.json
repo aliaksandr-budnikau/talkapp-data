@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEeqSjDTAu_IiLev25",
+  "text" : "Get me the fuel bay.",
+  "translations" : {
+    "russian" : "Дайте мне топливный отсек."
+  },
+  "tokens" : [ {
+    "token" : "get",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "fuel",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "bay",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgy9OFNEXFMlzHLVeU",
   "text" : "East Bay Railway train 67.",
   "translations" : {
@@ -28,6 +61,39 @@
     "token" : "67",
     "startOffset" : 23,
     "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzwHgDTAu_IiLeSEY",
+  "text" : "I will mount the bay.",
+  "translations" : {
+    "russian" : "Я сяду на рыжую."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "mount",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "bay",
+    "startOffset" : 17,
+    "endOffset" : 20,
     "position" : 4
   } ],
   "contentScore" : null
@@ -62,6 +128,153 @@
     "startOffset" : 23,
     "endOffset" : 33,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKcPlDTAu_IiLfQAH",
+  "text" : "Turn right at Emerald Bay.",
+  "translations" : {
+    "russian" : "Поворот на Эмеральд Бэй."
+  },
+  "tokens" : [ {
+    "token" : "turn",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "right",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "emerald",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "bay",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFf_41DTAu_IiLfgU-",
+  "text" : "Bay said that you shoved her.",
+  "translations" : {
+    "russian" : "Бей сказала, что ты толкнула ее."
+  },
+  "tokens" : [ {
+    "token" : "bay",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "said",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "that",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "you",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "shove",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "her",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYmrBDTAu_IiLeCpH",
+  "text" : "Oh, my God, the Bay Arcade!",
+  "translations" : {
+    "russian" : "О Боже Берег Аркады!"
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "god",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "bay",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 4
+  }, {
+    "token" : "arcade",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSKCNDTAu_IiLd_AC",
+  "text" : "It overlooks the Bay of Algiers.",
+  "translations" : {
+    "russian" : "С видом на Алжирский залив."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "overlook",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "bay",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "algiers",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

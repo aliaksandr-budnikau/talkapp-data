@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoEZ0mwDTAu_IiLesdT",
+  "text" : "Take paw.",
+  "translations" : {
+    "russian" : "Руку убери!"
+  },
+  "tokens" : [ {
+    "token" : "take",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "paw",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqK8aDTAu_IiLe4s9",
+  "text" : "Take them. Take their virtue.",
+  "translations" : {
+    "russian" : "Взять их.Возьмите их целомудрие."
+  },
+  "tokens" : [ {
+    "token" : "take",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "them",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "take",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "their",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "virtue",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbo-eNEXFMlzHK5S1",
   "text" : "This is taking ages.",
   "translations" : {
@@ -317,152 +368,96 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvceSNEXFMlzHLQ7Z",
-  "text" : "Take the aft guns.",
+  "id" : "AWbgxPbnNEXFMlzHLS_Y",
+  "text" : "There, take this log.",
   "translations" : {
-    "russian" : "Возьми на себя кормовые пушки."
+    "russian" : "Во, возьми-ка себе это полено."
   },
   "tokens" : [ {
-    "token" : "take",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "aft",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "gun",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw9J6NEXFMlzHLStC",
-  "text" : "I'll take this path.",
-  "translations" : {
-    "russian" : "Я проверю эту тропинку до зоны пикников."
-  },
-  "tokens" : [ {
-    "token" : "i'll",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "take",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "path",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "pa",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxfPBNEXFMlzHLTUo",
-  "text" : "Scene six, take three.",
-  "translations" : {
-    "russian" : "Сцена шесть, дубль третий."
-  },
-  "tokens" : [ {
-    "token" : "scene",
+    "token" : "there",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "six",
-    "startOffset" : 6,
-    "endOffset" : 9,
+    "token" : "take",
+    "startOffset" : 7,
+    "endOffset" : 11,
     "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "log",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgxeOSNEXFMlzHLTSr",
+  "text" : "They're taking you away.",
+  "translations" : {
+    "russian" : "Пусть унесут тебя с собой."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "taking",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "take",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "away",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgxhg1NEXFMlzHLTWZ",
+  "text" : "Attention, take strict containment!",
+  "translations" : {
+    "russian" : "Внимание, начинаем захват!"
+  },
+  "tokens" : [ {
+    "token" : "attention",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
   }, {
     "token" : "take",
     "startOffset" : 11,
     "endOffset" : 15,
-    "position" : 2
+    "position" : 1
   }, {
-    "token" : "three",
+    "token" : "strict",
     "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyLEeNEXFMlzHLUa7",
-  "text" : "We'll take the tunnels.",
-  "translations" : {
-    "russian" : "Мы воспользуемся подземным ходом."
-  },
-  "tokens" : [ {
-    "token" : "we'll",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "take",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "tunnel",
-    "startOffset" : 15,
     "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyLk8NEXFMlzHLUb_",
-  "text" : "I'm taking the bus.",
-  "translations" : {
-    "russian" : "Я поеду на автобусе."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "taking",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "take",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "bus",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "token" : "containment",
+    "startOffset" : 23,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "contain",
+    "startOffset" : 23,
+    "endOffset" : 34,
     "position" : 3
   } ],
   "contentScore" : null

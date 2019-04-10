@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFBLblDTAu_IiLfI7c",
+  "text" : "Wealthy recluse, plant hobbyist.",
+  "translations" : {
+    "russian" : "Богатый отшельник, ботаник-любитель."
+  },
+  "tokens" : [ {
+    "token" : "wealthy",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "recluse",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "plant",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "hobbyist",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsrwwNEXFMlzHLMxg",
   "text" : "He's a wealthy philanthropist.",
   "translations" : {
@@ -24,6 +52,44 @@
     "startOffset" : 15,
     "endOffset" : 29,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwtiGDTAu_IiLe9Rf",
+  "text" : "Dr. Frankish, here's a wealthy Madonna.",
+  "translations" : {
+    "russian" : "Доктор Франкиш, здесь богатая Мадонна."
+  },
+  "tokens" : [ {
+    "token" : "dr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "frankish",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "here's",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "wealthy",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "madonna",
+    "startOffset" : 31,
+    "endOffset" : 38,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,32 +1,4 @@
 [ {
-  "id" : "AWbgviewNEXFMlzHLRH_",
-  "text" : "Mechanical shark fin soup.",
-  "translations" : {
-    "russian" : "Сварить суп из плавника механической акулы."
-  },
-  "tokens" : [ {
-    "token" : "mechanical",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "shark",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "fin",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "soup",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgvijpNEXFMlzHLRII",
   "text" : "Shark fin's illegal now?",
   "translations" : {
@@ -51,6 +23,34 @@
     "token" : "now",
     "startOffset" : 20,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgviewNEXFMlzHLRH_",
+  "text" : "Mechanical shark fin soup.",
+  "translations" : {
+    "russian" : "Сварить суп из плавника механической акулы."
+  },
+  "tokens" : [ {
+    "token" : "mechanical",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "shark",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "fin",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "soup",
+    "startOffset" : 21,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
@@ -139,6 +139,52 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFIDawDTAu_IiLfODt",
+  "text" : "Parasites! Sharks! Crooks!",
+  "translations" : {
+    "russian" : "Убирайтесь прочь, мошенники!"
+  },
+  "tokens" : [ {
+    "token" : "parasite",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "shark",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "crook",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFByNPDTAu_IiLfJYG",
+  "text" : "And swamp sharks.",
+  "translations" : {
+    "russian" : "И болотные акулы."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "swamp",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "shark",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeuzMNEXFMlzHK8Ac",
   "text" : "Mechanical shark fin soup.",
   "translations" : {
@@ -164,6 +210,52 @@
     "startOffset" : 21,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuTZCDTAu_IiLeO-3",
+  "text" : "And swamp sharks.",
+  "translations" : {
+    "russian" : "И болотные акулы."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "swamp",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "shark",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBuXfDTAu_IiLfJVP",
+  "text" : "And swamp sharks.",
+  "translations" : {
+    "russian" : "И болотные акулы."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "swamp",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "shark",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -362,110 +454,6 @@
     "startOffset" : 18,
     "endOffset" : 22,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvigONEXFMlzHLRIC",
-  "text" : "And shark's fin soup, too.",
-  "translations" : {
-    "russian" : "И суп из акульего плавника тоже."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "shark",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "fin",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "soup",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "too",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgviTSNEXFMlzHLRHm",
-  "text" : "Shark fin soup is bad.",
-  "translations" : {
-    "russian" : "Суп из акульих плавников вне закона."
-  },
-  "tokens" : [ {
-    "token" : "shark",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "fin",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "soup",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "bad",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkJy3NEXFMlzHLAk4",
-  "text" : "I think sharks think they're slick.",
-  "translations" : {
-    "russian" : "Они там думают, какие они ловкие."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "think",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "shark",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "think",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "they're",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "slick",
-    "startOffset" : 29,
-    "endOffset" : 34,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

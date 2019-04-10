@@ -1,4 +1,106 @@
 [ {
+  "id" : "AWoDSjrXDTAu_IiLd_RG",
+  "text" : "40 degrees in Algeria.",
+  "translations" : {
+    "russian" : "А в Алжире 40-градусная жара."
+  },
+  "tokens" : [ {
+    "token" : "40",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "degree",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "algeria",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoqugDTAu_IiLe3ms",
+  "text" : "Direction, 165 degrees.",
+  "translations" : {
+    "russian" : "Направление, 165 градусов."
+  },
+  "tokens" : [ {
+    "token" : "direction",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "165",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "degree",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFff_LDTAu_IiLff-A",
+  "text" : "Cosine... 48.5 degrees.",
+  "translations" : {
+    "russian" : "Косинус... 48.5 градусов."
+  },
+  "tokens" : [ {
+    "token" : "cosine",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "48.5",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "degree",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7tE0DTAu_IiLeV6U",
+  "text" : "Vector 105 degrees, low.",
+  "translations" : {
+    "russian" : "Вектор 105 градусов, низко."
+  },
+  "tokens" : [ {
+    "token" : "vector",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "105",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "degree",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "low",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqrcQNEXFMlzHLJ5G",
   "text" : "You both got master's degrees.",
   "translations" : {
@@ -28,6 +130,77 @@
     "token" : "degree",
     "startOffset" : 22,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgJvnDTAu_IiLeHDT",
+  "text" : "Rotate the turret 82 degrees.",
+  "translations" : {
+    "russian" : "Поверни башню на 82 градуса."
+  },
+  "tokens" : [ {
+    "token" : "rotate",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "turret",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "82",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "degree",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpO4-DTAu_IiLe4Bk",
+  "text" : "Longitude West, 76 degrees. 26.628.",
+  "translations" : {
+    "russian" : "Западная долгота 76 градусов 26,628."
+  },
+  "tokens" : [ {
+    "token" : "longitude",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "west",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "w",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "76",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "degree",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "26.628",
+    "startOffset" : 28,
+    "endOffset" : 34,
     "position" : 4
   } ],
   "contentScore" : null
@@ -65,6 +238,204 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE_13dDTAu_IiLfH5W",
+  "text" : "Mr. Ravel, starboard 90 degrees.",
+  "translations" : {
+    "russian" : "Мистер Рэйвел, 90 градусов вправо."
+  },
+  "tokens" : [ {
+    "token" : "mr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "ravel",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "starboard",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "90",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "degree",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPN_RDTAu_IiLfTle",
+  "text" : "It vaporizes at 75 degrees.",
+  "translations" : {
+    "russian" : "Он испаряется при 75 градусах."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "vaporize",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "75",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "degree",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcr2mDTAu_IiLeFEB",
+  "text" : "Ooh, yeah, a bachelor's degree.",
+  "translations" : {
+    "russian" : "О-о-о, точно, диплом бакалавра!"
+  },
+  "tokens" : [ {
+    "token" : "ooh",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "yeah",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bachelor",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "degree",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcr0vDTAu_IiLeFEA",
+  "text" : "You have a bachelor's degree.",
+  "translations" : {
+    "russian" : "У тебя есть диплом бакалавра."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "bachelor",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "degree",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgIn6DTAu_IiLeHCp",
+  "text" : "Rotate the turret 82 degrees.",
+  "translations" : {
+    "russian" : "Поверни башню на 82 градуса."
+  },
+  "tokens" : [ {
+    "token" : "rotate",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "turret",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "82",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "degree",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaOcPDTAu_IiLesuk",
+  "text" : "Becky's got a geography degree.",
+  "translations" : {
+    "russian" : "У беки степень по географии."
+  },
+  "tokens" : [ {
+    "token" : "becky",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "geography",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "degree",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgneomNEXFMlzHLFhH",
   "text" : "That's two degrees below boiling.",
   "translations" : {
@@ -98,79 +469,36 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvlzfNEXFMlzHLRPI",
-  "text" : "Holds a master's degree in Philosophy.",
+  "id" : "AWoEiMTfDTAu_IiLeys-",
+  "text" : "With any degree of persuasion.",
   "translations" : {
-    "russian" : "Имеет степень магистра философии."
+    "russian" : "С любой степенью убежденности."
   },
   "tokens" : [ {
-    "token" : "hold",
+    "token" : "with",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "a",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "master",
-    "startOffset" : 8,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "degree",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "in",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "philosophy",
-    "startOffset" : 27,
-    "endOffset" : 37,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgerNoNEXFMlzHK79R",
-  "text" : "Forecast is 70 degrees and sunny.",
-  "translations" : {
-    "russian" : "Прогноз 70 по фаренгейту, и солнечно."
-  },
-  "tokens" : [ {
-    "token" : "forecast",
-    "startOffset" : 0,
+    "token" : "any",
+    "startOffset" : 5,
     "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 9,
-    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "70",
-    "startOffset" : 12,
-    "endOffset" : 14,
+    "token" : "degree",
+    "startOffset" : 9,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "degree",
-    "startOffset" : 15,
-    "endOffset" : 22,
+    "token" : "of",
+    "startOffset" : 16,
+    "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "and",
-    "startOffset" : 23,
-    "endOffset" : 26,
+    "token" : "persuasion",
+    "startOffset" : 19,
+    "endOffset" : 29,
     "position" : 4
-  }, {
-    "token" : "sunny",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

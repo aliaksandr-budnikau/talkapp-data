@@ -1,4 +1,70 @@
 [ {
+  "id" : "AWoFXcSjDTAu_IiLfZrj",
+  "text" : "Values, watchwords, tender years.",
+  "translations" : {
+    "russian" : "О ценностях, девизах, годах юности..."
+  },
+  "tokens" : [ {
+    "token" : "values",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "value",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "watchword",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "tender",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "tend",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "year",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKFyPDTAu_IiLegvJ",
+  "text" : "What's your notional value?",
+  "translations" : {
+    "russian" : "Какая ваша условная стоимость?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "notional",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "value",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrY6iNEXFMlzHLK7f",
   "text" : "I value home and hearth.",
   "translations" : {
@@ -37,6 +103,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFHNbpDTAu_IiLfNXW",
+  "text" : "The Borg value efficiency, not redundancy.",
+  "translations" : {
+    "russian" : "Борги ценят эффективность, а не чрезмерность."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "borg",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "value",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "efficiency",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "not",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "redundancy",
+    "startOffset" : 31,
+    "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguN7mNEXFMlzHLOqb",
   "text" : "I value you as a person.",
   "translations" : {
@@ -71,6 +175,82 @@
     "token" : "person",
     "startOffset" : 17,
     "endOffset" : 23,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVT8hDTAu_IiLepQi",
+  "text" : "The real value is much higher!",
+  "translations" : {
+    "russian" : "В действительности сумма намного больше!"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "real",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "value",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "much",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "high",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoAQVDTAu_IiLe3G8",
+  "text" : "They have absolutely no nutritional value.",
+  "translations" : {
+    "russian" : "Они абсолютно не имеют пищевой ценности."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "absolute",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "no",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "nutritional",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "value",
+    "startOffset" : 36,
+    "endOffset" : 41,
     "position" : 5
   } ],
   "contentScore" : null

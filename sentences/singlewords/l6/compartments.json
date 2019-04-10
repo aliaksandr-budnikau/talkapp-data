@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEYO_vDTAu_IiLerYX",
+  "text" : "Galley's one compartment over.",
+  "translations" : {
+    "russian" : "Камбуз отсеком выше."
+  },
+  "tokens" : [ {
+    "token" : "galley",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "one",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "compartment",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "over",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzFqvNEXFMlzHLVvX",
   "text" : "Everything's in large vertical compartments.",
   "translations" : {
@@ -94,6 +122,39 @@
     "token" : "compartment",
     "startOffset" : 19,
     "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6LTKDTAu_IiLeVDF",
+  "text" : "Make that an overhead compartment.",
+  "translations" : {
+    "russian" : "Считаю, что я был в верхнем отсеке."
+  },
+  "tokens" : [ {
+    "token" : "make",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "overhead",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "compartment",
+    "startOffset" : 22,
+    "endOffset" : 33,
     "position" : 4
   } ],
   "contentScore" : null

@@ -1,4 +1,78 @@
 [ {
+  "id" : "AWoFIsltDTAu_IiLfOl9",
+  "text" : "Surplus soap, apples, leather.",
+  "translations" : {
+    "russian" : "Излишки мыло, яблоки, кожа."
+  },
+  "tokens" : [ {
+    "token" : "surplus",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "soap",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "apple",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "leather",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeuIoDTAu_IiLffaA",
+  "text" : "It's Corinthian leather.",
+  "translations" : {
+    "russian" : "Это коринфская кожа."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "corinthian",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "leather",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeuMSDTAu_IiLffaC",
+  "text" : "Real Corinthian leather?",
+  "translations" : {
+    "russian" : "Настоящая коринфская кожа ?"
+  },
+  "tokens" : [ {
+    "token" : "real",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "corinthian",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "leather",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvg-CNEXFMlzHLRE2",
   "text" : "The truck has leather seats.",
   "translations" : {
@@ -28,6 +102,77 @@
     "token" : "seat",
     "startOffset" : 22,
     "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXYsNDTAu_IiLeqx-",
+  "text" : "Pullover, excellent combination... knit, leather.",
+  "translations" : {
+    "russian" : "Кофточка, прекрасное сочетание вязаного и кожи."
+  },
+  "tokens" : [ {
+    "token" : "pullover",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "excellent",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "combination",
+    "startOffset" : 20,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "knit",
+    "startOffset" : 35,
+    "endOffset" : 39,
+    "position" : 3
+  }, {
+    "token" : "leather",
+    "startOffset" : 41,
+    "endOffset" : 48,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeuKVDTAu_IiLffaB",
+  "text" : "Silk lining. Fine Corinthian leather.",
+  "translations" : {
+    "russian" : "Шелковая подкладка, отличная коринфская кожа."
+  },
+  "tokens" : [ {
+    "token" : "silk",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "lining",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "line",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fine",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "corinthian",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "leather",
+    "startOffset" : 29,
+    "endOffset" : 36,
     "position" : 4
   } ],
   "contentScore" : null

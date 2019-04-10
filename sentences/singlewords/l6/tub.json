@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFB3HlDTAu_IiLfJb0",
+  "text" : "The tub's not draining.",
+  "translations" : {
+    "russian" : "Слив не работает."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "tub",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "drain",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzPifNEXFMlzHLWEI",
   "text" : "You, me the hot tub?",
   "translations" : {
@@ -21,6 +49,39 @@
     "position" : 2
   }, {
     "token" : "hot",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "tub",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvzHODTAu_IiLeP5h",
+  "text" : "Drag him to the tub.",
+  "translations" : {
+    "russian" : "Тащите его в ванну."
+  },
+  "tokens" : [ {
+    "token" : "drag",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "the",
     "startOffset" : 12,
     "endOffset" : 15,
     "position" : 3

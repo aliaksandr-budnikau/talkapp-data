@@ -1,4 +1,163 @@
 [ {
+  "id" : "AWoETQcvDTAu_IiLenqK",
+  "text" : "Fuel gauge.",
+  "translations" : {
+    "russian" : "Топливный датчик."
+  },
+  "tokens" : [ {
+    "token" : "fuel",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "gauge",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErPm-DTAu_IiLe5dp",
+  "text" : "Big gauge.",
+  "translations" : {
+    "russian" : "Большой калибр."
+  },
+  "tokens" : [ {
+    "token" : "big",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gauge",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErPpqDTAu_IiLe5dr",
+  "text" : "18 gauge.",
+  "translations" : {
+    "russian" : "18 калибр."
+  },
+  "tokens" : [ {
+    "token" : "18",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "gauge",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETRBoDTAu_IiLenqr",
+  "text" : "18 gauge.",
+  "translations" : {
+    "russian" : "18 калибр."
+  },
+  "tokens" : [ {
+    "token" : "18",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "gauge",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETQ_bDTAu_IiLenqp",
+  "text" : "Big gauge.",
+  "translations" : {
+    "russian" : "Большой калибр."
+  },
+  "tokens" : [ {
+    "token" : "big",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gauge",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErO1oDTAu_IiLe5dK",
+  "text" : "Fuel gauge.",
+  "translations" : {
+    "russian" : "Топливный датчик."
+  },
+  "tokens" : [ {
+    "token" : "fuel",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "gauge",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErPf4DTAu_IiLe5dl",
+  "text" : "I'll gauge the mood.",
+  "translations" : {
+    "russian" : "Я оценю настроение."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "gauge",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "mood",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErQhWDTAu_IiLe5eT",
+  "text" : "14 gauge needle.",
+  "translations" : {
+    "russian" : "Игла на 14."
+  },
+  "tokens" : [ {
+    "token" : "14",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "gauge",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "needle",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkTlxNEXFMlzHLA0O",
   "text" : "That's 50-gauge cable.",
   "translations" : {
@@ -32,79 +191,184 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxtE3NEXFMlzHLTty",
-  "text" : "So I could gauge his demeanor.",
+  "id" : "AWoETQ7CDTAu_IiLenql",
+  "text" : "I'll gauge the mood.",
   "translations" : {
-    "russian" : "Чтобы я смогла оценить ситуацию."
+    "russian" : "Я оценю настроение."
   },
   "tokens" : [ {
-    "token" : "so",
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "gauge",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "mood",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETR3oDTAu_IiLenrT",
+  "text" : "14 gauge needle.",
+  "translations" : {
+    "russian" : "Игла на 14."
+  },
+  "tokens" : [ {
+    "token" : "14",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "i",
+    "token" : "gauge",
     "startOffset" : 3,
-    "endOffset" : 4,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "could",
-    "startOffset" : 5,
-    "endOffset" : 10,
+    "token" : "needle",
+    "startOffset" : 9,
+    "endOffset" : 15,
     "position" : 2
-  }, {
-    "token" : "gauge",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "his",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "demeanor",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnNXONEXFMlzHLFFs",
-  "text" : "Strange mix for a 12-gauge.",
+  "id" : "AWoErP-LDTAu_IiLe5d7",
+  "text" : "W.C. ten gauge.",
   "translations" : {
-    "russian" : "Странная смесь как для 12-того калибра."
+    "russian" : "А это ружьё десятого калибра."
   },
   "tokens" : [ {
-    "token" : "strange",
+    "token" : "w.c",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ten",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "gauge",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETQZ0DTAu_IiLenqI",
+  "text" : "That's the fuel gauge.",
+  "translations" : {
+    "russian" : "Это датчик топлива."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "fuel",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "gauge",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETRUODTAu_IiLenq7",
+  "text" : "W.C. ten gauge.",
+  "translations" : {
+    "russian" : "А это ружьё десятого калибра."
+  },
+  "tokens" : [ {
+    "token" : "w.c",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ten",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "gauge",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETRv0DTAu_IiLenrO",
+  "text" : "Smaller gauge needle, please.",
+  "translations" : {
+    "russian" : "Иглу поменьше."
+  },
+  "tokens" : [ {
+    "token" : "small",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "mix",
+    "token" : "gauge",
     "startOffset" : 8,
-    "endOffset" : 11,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "for",
-    "startOffset" : 12,
+    "token" : "needle",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "please",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErOydDTAu_IiLe5dI",
+  "text" : "That's the fuel gauge.",
+  "translations" : {
+    "russian" : "Это датчик топлива."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "fuel",
+    "startOffset" : 11,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "a",
-    "startOffset" : 16,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "12",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
     "token" : "gauge",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 5
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

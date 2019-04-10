@@ -1,77 +1,389 @@
 [ {
-  "id" : "AWbgiANzNEXFMlzHK-1J",
-  "text" : "Line in the sand, no puns.",
+  "id" : "AWoFQ-4MDTAu_IiLfVAf",
+  "text" : "Love puns.",
   "translations" : {
-    "russian" : "Черта на песке, никаких каламбуров."
+    "russian" : "Любит игру слов."
   },
   "tokens" : [ {
-    "token" : "line",
+    "token" : "love",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "in",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "sand",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "no",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
     "token" : "pun",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxus2NEXFMlzHLTxQ",
-  "text" : "Line in the sand, no puns.",
+  "id" : "AWoFQ_CFDTAu_IiLfVAn",
+  "text" : "No pun.",
   "translations" : {
-    "russian" : "Черта на песке, никаких каламбуров."
+    "russian" : "Без шуток."
   },
   "tokens" : [ {
-    "token" : "line",
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "pun",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ99-DTAu_IiLfU_w",
+  "text" : "What pun?",
+  "translations" : {
+    "russian" : "Какой каламбур?"
+  },
+  "tokens" : [ {
+    "token" : "what",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "in",
+    "token" : "pun",
     "startOffset" : 5,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "sand",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "no",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-BGDTAu_IiLfU_z",
+  "text" : "A pun?",
+  "translations" : {
+    "russian" : "Каламбур?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
   }, {
     "token" : "pun",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-ohDTAu_IiLfVAV",
+  "text" : "Pun intended.",
+  "translations" : {
+    "russian" : "Игра слов неслучайна."
+  },
+  "tokens" : [ {
+    "token" : "pun",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "intended",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tend",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-9-DTAu_IiLfVAj",
+  "text" : "Pun intended.",
+  "translations" : {
+    "russian" : "Это игра слов."
+  },
+  "tokens" : [ {
+    "token" : "pun",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "intended",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tend",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ_UYDTAu_IiLfVA3",
+  "text" : "Ice puns.",
+  "translations" : {
+    "russian" : "Шутки про лед."
+  },
+  "tokens" : [ {
+    "token" : "ice",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pun",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-DKDTAu_IiLfU_1",
+  "text" : "That's a Latin pun.",
+  "translations" : {
+    "russian" : "Это латинский каламбур."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "latin",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "pun",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-niDTAu_IiLfVAU",
+  "text" : "Pun definitely intended.",
+  "translations" : {
+    "russian" : "Игра слов определенно была бы уместна."
+  },
+  "tokens" : [ {
+    "token" : "pun",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "finitely",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "definite",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "intended",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "tend",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-aqDTAu_IiLfVAH",
+  "text" : "Excuse the pun.",
+  "translations" : {
+    "russian" : "Извини за каламбур."
+  },
+  "tokens" : [ {
+    "token" : "excuse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pun",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-mdDTAu_IiLfVAT",
+  "text" : "That's a pun.",
+  "translations" : {
+    "russian" : "Игра слов."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pun",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-ifDTAu_IiLfVAP",
+  "text" : "It's a pun.",
+  "translations" : {
+    "russian" : "Игра слов."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "pun",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-5wDTAu_IiLfVAg",
+  "text" : "Seriously, no pun intended.",
+  "translations" : {
+    "russian" : "Серьёзно, никакой игры слов."
+  },
+  "tokens" : [ {
+    "token" : "serious",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "no",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "pun",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "intended",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "tend",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-_SDTAu_IiLfVAk",
+  "text" : "No pun intended, huh?",
+  "translations" : {
+    "russian" : "Это игра слов, да?"
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "pun",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "intended",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "tend",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "huh",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-eoDTAu_IiLfVAL",
+  "text" : "Pardon the pun, but...",
+  "translations" : {
+    "russian" : "Простите за каламбур, но..."
+  },
+  "tokens" : [ {
+    "token" : "pardon",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pun",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "but",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ_DpDTAu_IiLfVAp",
+  "text" : "No pun intended.",
+  "translations" : {
+    "russian" : "Без шуток."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "pun",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "intended",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "tend",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

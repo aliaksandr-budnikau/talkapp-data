@@ -1,389 +1,309 @@
 [ {
-  "id" : "AWbgeFL6NEXFMlzHK7bO",
-  "text" : "By dog... not... flowers.",
+  "id" : "AWoD_ndWDTAu_IiLeY3d",
+  "text" : "Dog whines.",
   "translations" : {
-    "russian" : "Собака... не... цветы."
+    "russian" : "Собака скулит."
   },
   "tokens" : [ {
-    "token" : "by",
+    "token" : "dog",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "dog",
-    "startOffset" : 3,
-    "endOffset" : 6,
+    "token" : "whine",
+    "startOffset" : 4,
+    "endOffset" : 10,
     "position" : 1
-  }, {
-    "token" : "not",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "flowers",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "flower",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvvlANEXFMlzHLRZK",
-  "text" : "Confuses the dog's nose.",
+  "id" : "AWoEYG4-DTAu_IiLerSw",
+  "text" : "Dog barks.",
   "translations" : {
-    "russian" : "Они смущают собаке обоняние."
+    "russian" : "Лает собака."
   },
   "tokens" : [ {
-    "token" : "fuse",
+    "token" : "dog",
     "startOffset" : 0,
-    "endOffset" : 8,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
+    "token" : "barks",
+    "startOffset" : 4,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "dog",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "nose",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
+    "token" : "bark",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdtLENEXFMlzHK7F6",
-  "text" : "They treat dogs better...",
+  "id" : "AWoEYHTmDTAu_IiLerTB",
+  "text" : "Dogs Barking.",
   "translations" : {
-    "russian" : "С собаками лучше обращаются..."
+    "russian" : "Лай собак."
   },
   "tokens" : [ {
-    "token" : "they",
+    "token" : "dog",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "treat",
+    "token" : "bark",
     "startOffset" : 5,
-    "endOffset" : 10,
+    "endOffset" : 12,
     "position" : 1
-  }, {
-    "token" : "dog",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "better",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWn5n0XgSHZo49ps8uCY",
-  "text" : "Do... dogs even have ghosts?",
+  "id" : "AWoD_jaODTAu_IiLeY0V",
+  "text" : "Dog whines.",
   "translations" : {
-    "russian" : "А что у собак есть души?"
+    "russian" : "Собака скулит."
   },
   "tokens" : [ {
-    "token" : "do",
+    "token" : "dog",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "whine",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYHVTDTAu_IiLerTC",
+  "text" : "Dog barks.",
+  "translations" : {
+    "russian" : "Лай собак."
+  },
+  "tokens" : [ {
+    "token" : "dog",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "barks",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "bark",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0O4ZDTAu_IiLe_0p",
+  "text" : "Dog breeder.",
+  "translations" : {
+    "russian" : "Заводчик собак."
+  },
+  "tokens" : [ {
+    "token" : "dog",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "breeder",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "breed",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDilQaDTAu_IiLeIdW",
+  "text" : "Idle dogs.",
+  "translations" : {
+    "russian" : "Ленивые собаки."
+  },
+  "tokens" : [ {
+    "token" : "idle",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "dog",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyaU7DTAu_IiLeRVi",
+  "text" : "Dog sledding.",
+  "translations" : {
+    "russian" : "Нет. Собачьи упряжки."
+  },
+  "tokens" : [ {
+    "token" : "dog",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sledding",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExGqWDTAu_IiLe9kf",
+  "text" : "Dog sledding.",
+  "translations" : {
+    "russian" : "Нет. Собачьи упряжки."
+  },
+  "tokens" : [ {
+    "token" : "dog",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sledding",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1A6PDTAu_IiLfAWx",
+  "text" : "Dogs Barking.",
+  "translations" : {
+    "russian" : "Лай собак."
+  },
+  "tokens" : [ {
+    "token" : "dog",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bark",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1ggrDTAu_IiLfAsf",
+  "text" : "STRAY DOGS.",
+  "translations" : {
+    "russian" : "Бездомные."
+  },
+  "tokens" : [ {
+    "token" : "stray",
+    "startOffset" : 0,
+    "endOffset" : 5,
     "position" : 0
   }, {
     "token" : "dog",
     "startOffset" : 6,
     "endOffset" : 10,
     "position" : 1
-  }, {
-    "token" : "even",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "ev",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "have",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "ghost",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguh8iNEXFMlzHLPSR",
-  "text" : "A racist, telepathic guide dog.",
+  "id" : "AWoD_nY9DTAu_IiLeY3Z",
+  "text" : "Dog whines.",
   "translations" : {
-    "russian" : "Расист, телепат, и все это собака-поводырь."
+    "russian" : "Собака скулит."
   },
   "tokens" : [ {
-    "token" : "a",
+    "token" : "dog",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "racist",
-    "startOffset" : 2,
+    "token" : "whine",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcvlqDTAu_IiLeuaD",
+  "text" : "Dog muck.",
+  "translations" : {
+    "russian" : "Собачье дерьмо."
+  },
+  "tokens" : [ {
+    "token" : "dog",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "muck",
+    "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
-  }, {
-    "token" : "telepathic",
-    "startOffset" : 10,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "guide",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "dog",
-    "startOffset" : 27,
-    "endOffset" : 30,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmqhrNEXFMlzHLERt",
-  "text" : "Annie's dog sleeps in the oven.",
+  "id" : "AWoE1fxTDTAu_IiLfAr-",
+  "text" : "Stray dogs?",
   "translations" : {
-    "russian" : "Собака Энни спит в духовке."
+    "russian" : "Бродячие собаки?"
   },
   "tokens" : [ {
-    "token" : "annie",
+    "token" : "stray",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 5,
     "position" : 0
   }, {
     "token" : "dog",
-    "startOffset" : 8,
-    "endOffset" : 11,
+    "startOffset" : 6,
+    "endOffset" : 10,
     "position" : 1
-  }, {
-    "token" : "sleep",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "oven",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsWFnNEXFMlzHLMT8",
-  "text" : "Dog food's got an expiration date.",
+  "id" : "AWoDcCDmDTAu_IiLeEt9",
+  "text" : "Mud Dogs!",
   "translations" : {
-    "russian" : "У корма есть срок годности."
+    "russian" : "Грязные псы !"
   },
   "tokens" : [ {
-    "token" : "dog",
+    "token" : "mud",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "food",
+    "token" : "dog",
     "startOffset" : 4,
-    "endOffset" : 10,
+    "endOffset" : 8,
     "position" : 1
-  }, {
-    "token" : "got",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "an",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "expiration",
-    "startOffset" : 18,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "date",
-    "startOffset" : 29,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdx6GNEXFMlzHK7KK",
-  "text" : "Everybody's favorite treat is hot dogs.",
+  "id" : "AWoD0O8QDTAu_IiLeSUM",
+  "text" : "Heathen dogs.",
   "translations" : {
-    "russian" : "Нестоящее наслаждение - хот-доги."
+    "russian" : "Языческие собаки."
   },
   "tokens" : [ {
-    "token" : "everybody",
+    "token" : "heathen",
     "startOffset" : 0,
-    "endOffset" : 11,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "favorite",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 1
-  }, {
-    "token" : "treat",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 27,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "hot",
-    "startOffset" : 30,
-    "endOffset" : 33,
-    "position" : 4
+    "token" : "heath",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
   }, {
     "token" : "dog",
-    "startOffset" : 34,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzMCQNEXFMlzHLV8w",
-  "text" : "Kind of like a dog whistle.",
-  "translations" : {
-    "russian" : "Похоже на собачий свисток."
-  },
-  "tokens" : [ {
-    "token" : "kind",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "of",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "like",
     "startOffset" : 8,
     "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "dog",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 4
-  }, {
-    "token" : "whistle",
-    "startOffset" : 19,
-    "endOffset" : 26,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcQzANEXFMlzHK529",
-  "text" : "Dog food's got an expiration date.",
-  "translations" : {
-    "russian" : "У корма есть срок годности."
-  },
-  "tokens" : [ {
-    "token" : "dog",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "food",
-    "startOffset" : 4,
-    "endOffset" : 10,
     "position" : 1
-  }, {
-    "token" : "got",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "an",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "expiration",
-    "startOffset" : 18,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "date",
-    "startOffset" : 29,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzL-mNEXFMlzHLV8n",
-  "text" : "What is that, that dog whistle?",
-  "translations" : {
-    "russian" : "Это что, собачий свисток?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "that",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "dog",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "whistle",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

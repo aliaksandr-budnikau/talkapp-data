@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEF8yDDTAu_IiLedxg",
+  "text" : "Your grandfather's a plumber.",
+  "translations" : {
+    "russian" : "Твой дед водопроводчик."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "grandfather",
+    "startOffset" : 5,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 19,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "plumber",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "plumb",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwFkENEXFMlzHLRz0",
   "text" : "That's my grandfather's pocket watch.",
   "translations" : {
@@ -70,6 +103,120 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEfg75DTAu_IiLewiT",
+  "text" : "My grandfather told me it's pirates.",
+  "translations" : {
+    "russian" : "Мой дедушка говорит, что это пираты."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "grandfather",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "told",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "it",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "pirate",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_lXJDTAu_IiLfHsQ",
+  "text" : "Your grandfather sowed with his hands.",
+  "translations" : {
+    "russian" : "Дед твой сеял вручную."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "grandfather",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "sow",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "his",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "hand",
+    "startOffset" : 32,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7DV_DTAu_IiLfEV3",
+  "text" : "The pawn shop is my grandfather's.",
+  "translations" : {
+    "russian" : "Ломбард принадлежал моему деду."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pawn",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "shop",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "my",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 4
+  }, {
+    "token" : "grandfather",
+    "startOffset" : 20,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgm7oMNEXFMlzHLEuu",
   "text" : "My grandfather carved the handle himself.",
   "translations" : {
@@ -104,6 +251,82 @@
     "token" : "himself",
     "startOffset" : 33,
     "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5BaPDTAu_IiLfDBz",
+  "text" : "The pawn shop is my grandfather's.",
+  "translations" : {
+    "russian" : "Ломбард принадлежал моему деду."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pawn",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "shop",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "my",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 4
+  }, {
+    "token" : "grandfather",
+    "startOffset" : 20,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHK_dDTAu_IiLfNVT",
+  "text" : "My grandfather gave me a statue.",
+  "translations" : {
+    "russian" : "Мой дед оставил мне статуэтку."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "grandfather",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "gave",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 23,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "statue",
+    "startOffset" : 25,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,362 +1,57 @@
 [ {
-  "id" : "AWbgnikENEXFMlzHLFnm",
-  "text" : "They'll roast him and eat him.",
+  "id" : "AWoFRwRQDTAu_IiLfVmw",
+  "text" : "Disarm him, shackle him.",
   "translations" : {
-    "russian" : "Его зажарят и съедят."
+    "russian" : "Разоружить и заковать его."
   },
   "tokens" : [ {
-    "token" : "they'll",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "roast",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "eat",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "him",
-    "startOffset" : 26,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbga7tONEXFMlzHK4qj",
-  "text" : "You're inviting him in?",
-  "translations" : {
-    "russian" : "Ты пригласил его внутрь?"
-  },
-  "tokens" : [ {
-    "token" : "you're",
+    "token" : "arm",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "inviting",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "invite",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
     "token" : "him",
-    "startOffset" : 16,
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "shackle",
+    "startOffset" : 12,
     "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "in",
+    "token" : "him",
     "startOffset" : 20,
-    "endOffset" : 22,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgb1TMNEXFMlzHK5eA",
-  "text" : "First blow incapacitates him.",
+  "id" : "AWoDtgRwDTAu_IiLeOfi",
+  "text" : "Flank him!",
   "translations" : {
-    "russian" : "Первым ударом обездвиживает его."
+    "russian" : "Окружите его!"
   },
   "tokens" : [ {
-    "token" : "first",
+    "token" : "flank",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "blow",
+    "token" : "him",
     "startOffset" : 6,
-    "endOffset" : 10,
+    "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "incapacitate",
-    "startOffset" : 11,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "him",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdv5bNEXFMlzHK7IY",
-  "text" : "I gave him treats.",
+  "id" : "AWoDz4BnDTAu_IiLeSIU",
+  "text" : "Wake him!",
   "translations" : {
-    "russian" : "Я давала ему угощения."
+    "russian" : "Буди его!"
   },
   "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "gave",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "treat",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgebXANEXFMlzHK7u2",
-  "text" : "We help him relax.",
-  "translations" : {
-    "russian" : "Мы помогаем ему расслабиться."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "help",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "relax",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgf7cbNEXFMlzHK9Bi",
-  "text" : "Agent, show him out.",
-  "translations" : {
-    "russian" : "Агент, покажите ему выход."
-  },
-  "tokens" : [ {
-    "token" : "agent",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "show",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkXCCNEXFMlzHLA5X",
-  "text" : "I never charged him.",
-  "translations" : {
-    "russian" : "Я никогда не просила с него денег."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "never",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "charged",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "charge",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "him",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkXZONEXFMlzHLA56",
-  "text" : "Are they charging him?",
-  "translations" : {
-    "russian" : "Они что, поручая ему?"
-  },
-  "tokens" : [ {
-    "token" : "are",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "they",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "charge",
-    "startOffset" : 9,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "him",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkll0NEXFMlzHLBKr",
-  "text" : "Agent, show him out.",
-  "translations" : {
-    "russian" : "Агент, покажите ему выход."
-  },
-  "tokens" : [ {
-    "token" : "agent",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "show",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmglINEXFMlzHLEAl",
-  "text" : "I'm ringing him.",
-  "translations" : {
-    "russian" : "Как раз ему звоню."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "ringing",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "ring",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnAIANEXFMlzHLE02",
-  "text" : "Someone cut him up?",
-  "translations" : {
-    "russian" : "Кто-то разрезал его на части?"
-  },
-  "tokens" : [ {
-    "token" : "someone",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "cut",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "up",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgortfNEXFMlzHLHR8",
-  "text" : "Don't censor him!",
-  "translations" : {
-    "russian" : "Что еще за цензура?"
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "censor",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqHMeNEXFMlzHLJMx",
-  "text" : "Show him your game.",
-  "translations" : {
-    "russian" : "Покажи ему твою игру!"
-  },
-  "tokens" : [ {
-    "token" : "show",
+    "token" : "wake",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
@@ -365,100 +60,240 @@
     "startOffset" : 5,
     "endOffset" : 8,
     "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "game",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgurnBNEXFMlzHLPlQ",
-  "text" : "You treat him right.",
+  "id" : "AWoECu_2DTAu_IiLebRg",
+  "text" : "Smack him.",
   "translations" : {
-    "russian" : "Ты справедлив с ним."
+    "russian" : "Врезать ему?"
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "smack",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "treat",
-    "startOffset" : 4,
+    "token" : "him",
+    "startOffset" : 6,
     "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "right",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwb9NNEXFMlzHLSLl",
-  "text" : "Praying you catch him?",
+  "id" : "AWoECwI4DTAu_IiLebSX",
+  "text" : "Smack him!",
   "translations" : {
-    "russian" : "Просите о его поимке?"
+    "russian" : "Шлёпни его!"
   },
   "tokens" : [ {
-    "token" : "pray",
+    "token" : "smack",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEK1gyDTAu_IiLehUW",
+  "text" : "Grab him.",
+  "translations" : {
+    "russian" : "Держи его."
+  },
+  "tokens" : [ {
+    "token" : "grab",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5SLiDTAu_IiLfDMw",
+  "text" : "Detain him.",
+  "translations" : {
+    "russian" : "Задержите его."
+  },
+  "tokens" : [ {
+    "token" : "detain",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5hb2DTAu_IiLfDXX",
+  "text" : "Strangle him?",
+  "translations" : {
+    "russian" : "Удавить его?"
+  },
+  "tokens" : [ {
+    "token" : "strangle",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFb2S-DTAu_IiLfdTB",
+  "text" : "Console him.",
+  "translations" : {
+    "russian" : "Утешь его."
+  },
+  "tokens" : [ {
+    "token" : "console",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "you",
+    "token" : "him",
     "startOffset" : 8,
     "endOffset" : 11,
     "position" : 1
-  }, {
-    "token" : "catch",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "him",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyOb7NEXFMlzHLUh4",
-  "text" : "I will pass him.",
+  "id" : "AWoECrbvDTAu_IiLebOr",
+  "text" : "Smack him!",
   "translations" : {
-    "russian" : "Я его сейчас обгоню, я его объеду."
+    "russian" : "Шлёпни его!"
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "smack",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "will",
-    "startOffset" : 2,
-    "endOffset" : 6,
+    "token" : "him",
+    "startOffset" : 6,
+    "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "pass",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwRhQDTAu_IiLe87k",
+  "text" : "Suffocates him?",
+  "translations" : {
+    "russian" : "Душит?"
+  },
+  "tokens" : [ {
+    "token" : "suffocate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
   }, {
     "token" : "him",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5iP4DTAu_IiLfDXy",
+  "text" : "Strangled him.",
+  "translations" : {
+    "russian" : "Удушил бы его."
+  },
+  "tokens" : [ {
+    "token" : "strangle",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5xMiDTAu_IiLfDhk",
+  "text" : "Strangle him?",
+  "translations" : {
+    "russian" : "Удавить его?"
+  },
+  "tokens" : [ {
+    "token" : "strangle",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5x_GDTAu_IiLfDh_",
+  "text" : "Strangled him.",
+  "translations" : {
+    "russian" : "Удушил бы его."
+  },
+  "tokens" : [ {
+    "token" : "strangle",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6AdaDTAu_IiLfDsS",
+  "text" : "Strangled him.",
+  "translations" : {
+    "russian" : "Удушил бы его."
+  },
+  "tokens" : [ {
+    "token" : "strangle",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6DdiDTAu_IiLfDuH",
+  "text" : "Suffocates him?",
+  "translations" : {
+    "russian" : "Душит?"
+  },
+  "tokens" : [ {
+    "token" : "suffocate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

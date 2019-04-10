@@ -22,6 +22,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFVbhtDTAu_IiLfYQ1",
+  "text" : "Drawing, photography, computers, pottery.",
+  "translations" : {
+    "russian" : "Рисование, фотография, компьютеры, гончарное дело."
+  },
+  "tokens" : [ {
+    "token" : "drawing",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "draw",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "photography",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "compute",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "pottery",
+    "startOffset" : 33,
+    "endOffset" : 40,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvJcVNEXFMlzHLQhD",
   "text" : "Customs form says photography equipment.",
   "translations" : {
@@ -56,6 +89,39 @@
     "token" : "equipment",
     "startOffset" : 30,
     "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVzsUDTAu_IiLepo8",
+  "text" : "We saw the photography exhibition.",
+  "translations" : {
+    "russian" : "Смотрели фото выставку."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "saw",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "photography",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "exhibition",
+    "startOffset" : 23,
+    "endOffset" : 33,
     "position" : 4
   } ],
   "contentScore" : null

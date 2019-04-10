@@ -1,4 +1,182 @@
 [ {
+  "id" : "AWoEyfQHDTAu_IiLe-lu",
+  "text" : "Mom liked jelly beans.",
+  "translations" : {
+    "russian" : "Мама любила драже."
+  },
+  "tokens" : [ {
+    "token" : "mom",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "liked",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "jelly",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "bean",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEAHRDTAu_IiLfK_9",
+  "text" : "I liked the Earth!",
+  "translations" : {
+    "russian" : "Не нравилась емл !"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "liked",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "earth",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "ear",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEl_EoDTAu_IiLe1kH",
+  "text" : "He liked their demo.",
+  "translations" : {
+    "russian" : "Демка ему понравилась."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "liked",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "their",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "demo",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "mo",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFI-GfDTAu_IiLfO0q",
+  "text" : "We always liked variation.",
+  "translations" : {
+    "russian" : "Нам всегда нравились изменения."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "alway",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "liked",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "variation",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "variate",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDpLrWDTAu_IiLeL_c",
+  "text" : "I always liked librarians.",
+  "translations" : {
+    "russian" : "Мне всегда нравились библиотекарши."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "alway",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "liked",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "librarian",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhWruDTAu_IiLfhKf",
+  "text" : "Caruso liked puce.",
+  "translations" : {
+    "russian" : "Карузо нравится багровый."
+  },
+  "tokens" : [ {
+    "token" : "caruso",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "liked",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "puce",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgktBdNEXFMlzHLBUi",
   "text" : "My dad liked game shows.",
   "translations" : {
@@ -28,6 +206,105 @@
     "token" : "show",
     "startOffset" : 18,
     "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE64JODTAu_IiLfEOg",
+  "text" : "Cyrus liked to enslave souls.",
+  "translations" : {
+    "russian" : "Сайрус любил порабощать души."
+  },
+  "tokens" : [ {
+    "token" : "cyrus",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "liked",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "enslave",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "soul",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUW9KDTAu_IiLfXg4",
+  "text" : "He liked the bolt cutters.",
+  "translations" : {
+    "russian" : "Он понравился болторезы."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "liked",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bolt",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "cutter",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1_i7DTAu_IiLfBBj",
+  "text" : "I bet she liked you.",
+  "translations" : {
+    "russian" : "Бьюсь об заклад, вы ей нравились."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "bet",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "she",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "liked",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "you",
+    "startOffset" : 16,
+    "endOffset" : 19,
     "position" : 4
   } ],
   "contentScore" : null
@@ -94,6 +371,39 @@
     "token" : "show",
     "startOffset" : 18,
     "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDOdATDTAu_IiLd8mt",
+  "text" : "I liked the cutout better.",
+  "translations" : {
+    "russian" : "Картонный мне нравился больше."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "liked",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "cutout",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "better",
+    "startOffset" : 19,
+    "endOffset" : 25,
     "position" : 4
   } ],
   "contentScore" : null
@@ -174,78 +484,40 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgn3qBNEXFMlzHLGKd",
-  "text" : "I'm glad you liked the article.",
+  "id" : "AWoDYag8DTAu_IiLeCi6",
+  "text" : "And I thought you liked aristocrats.",
   "translations" : {
-    "russian" : "Я рада, что тебе понравилась статья."
+    "russian" : "И я думала, тебе нравятся аристократы."
   },
   "tokens" : [ {
-    "token" : "i'm",
+    "token" : "and",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "glad",
+    "token" : "i",
     "startOffset" : 4,
-    "endOffset" : 8,
+    "endOffset" : 5,
     "position" : 1
   }, {
-    "token" : "you",
-    "startOffset" : 9,
-    "endOffset" : 12,
+    "token" : "thought",
+    "startOffset" : 6,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "liked",
-    "startOffset" : 13,
-    "endOffset" : 18,
+    "token" : "you",
+    "startOffset" : 14,
+    "endOffset" : 17,
     "position" : 3
   }, {
-    "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "article",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj2oYNEXFMlzHLAXu",
-  "text" : "You said you liked horse manure?",
-  "translations" : {
-    "russian" : "Ты сказал, что тебе нравится лошадиный навоз?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "said",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
     "token" : "liked",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "horse",
-    "startOffset" : 19,
-    "endOffset" : 24,
+    "startOffset" : 18,
+    "endOffset" : 23,
     "position" : 4
   }, {
-    "token" : "manure",
-    "startOffset" : 25,
-    "endOffset" : 31,
+    "token" : "aristocrat",
+    "startOffset" : 24,
+    "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null

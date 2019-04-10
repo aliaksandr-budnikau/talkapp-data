@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEw9amDTAu_IiLe9de",
+  "text" : "No Israel, no consensus.",
+  "translations" : {
+    "russian" : "Нет Израиля - нет консенсуса."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "israel",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "consensus",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqcvdNEXFMlzHLJqi",
   "text" : "Assistant manager's at Beth Israel.",
   "translations" : {
@@ -71,6 +99,44 @@
     "token" : "israel",
     "startOffset" : 28,
     "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDh44fDTAu_IiLeIEC",
+  "text" : "Bedouin village, south of Israel.",
+  "translations" : {
+    "russian" : "АУЛ БЕДУИНОВ НА ЮГЕ ИЗРАИЛЯ."
+  },
+  "tokens" : [ {
+    "token" : "bedouin",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "village",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "south",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "sou",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "israel",
+    "startOffset" : 26,
+    "endOffset" : 32,
     "position" : 4
   } ],
   "contentScore" : null

@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEmVt3DTAu_IiLe10v",
+  "text" : "I got another counterfeit tenner.",
+  "translations" : {
+    "russian" : "У меня еще одна фальшивая десятка."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "another",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "counterfeit",
+    "startOffset" : 14,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "tenner",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdjR9NEXFMlzHK6-e",
   "text" : "Um, these notes are counterfeit, right?",
   "translations" : {
@@ -33,6 +66,44 @@
     "token" : "right",
     "startOffset" : 33,
     "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFg_xgDTAu_IiLfg78",
+  "text" : "Proficient at identity theft, forgery, counterfeiting.",
+  "translations" : {
+    "russian" : "Специалист по краже личных данных, подлоге, подделке."
+  },
+  "tokens" : [ {
+    "token" : "proficient",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "at",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "identity",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "theft",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "forgery",
+    "startOffset" : 30,
+    "endOffset" : 37,
+    "position" : 4
+  }, {
+    "token" : "counterfeit",
+    "startOffset" : 39,
+    "endOffset" : 53,
     "position" : 5
   } ],
   "contentScore" : null

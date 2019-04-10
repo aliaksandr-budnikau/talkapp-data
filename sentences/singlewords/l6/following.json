@@ -1,4 +1,139 @@
 [ {
+  "id" : "AWoDskzIDTAu_IiLeN8i",
+  "text" : "Spotty, Smock, follow me.",
+  "translations" : {
+    "russian" : "Шпрот, Чмок, за мной! Чур, я у окна!"
+  },
+  "tokens" : [ {
+    "token" : "spotty",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "smock",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "follow",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEd0tqDTAu_IiLevNc",
+  "text" : "Following a hunch.",
+  "translations" : {
+    "russian" : "Следую догадке."
+  },
+  "tokens" : [ {
+    "token" : "follow",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "hunch",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_32YDTAu_IiLfH66",
+  "text" : "Complications following heart failure.",
+  "translations" : {
+    "russian" : "Осложнения после сердечной недостаточности."
+  },
+  "tokens" : [ {
+    "token" : "comply",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "follow",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 1
+  }, {
+    "token" : "heart",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "failure",
+    "startOffset" : 30,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYasCDTAu_IiLfaeT",
+  "text" : "Rug was following you.",
+  "translations" : {
+    "russian" : "Раг за тобой следил."
+  },
+  "tokens" : [ {
+    "token" : "rug",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "follow",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "you",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYauGDTAu_IiLfaeV",
+  "text" : "Who was Rug following?",
+  "translations" : {
+    "russian" : "За кем следил Раг?"
+  },
+  "tokens" : [ {
+    "token" : "who",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "rug",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "follow",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgf6YiNEXFMlzHK9Am",
   "text" : "Don't follow me out.",
   "translations" : {
@@ -24,6 +159,174 @@
     "startOffset" : 16,
     "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQ2-YDTAu_IiLd-HC",
+  "text" : "I can follow directions.",
+  "translations" : {
+    "russian" : "Я могу добраться по адресу."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "follow",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "directions",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "direction",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFLPNDTAu_IiLedMu",
+  "text" : "I'm following my gut.",
+  "translations" : {
+    "russian" : "Я следую за своим нутром."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "follow",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "gut",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEImW3DTAu_IiLefqB",
+  "text" : "Then follow the traverse.",
+  "translations" : {
+    "russian" : "Потом последует траверс."
+  },
+  "tokens" : [ {
+    "token" : "th",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "follow",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "traverse",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIy2BDTAu_IiLefy0",
+  "text" : "Then follow the traverse.",
+  "translations" : {
+    "russian" : "Потом последует траверс."
+  },
+  "tokens" : [ {
+    "token" : "th",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "follow",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "traverse",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbgQ_DTAu_IiLetkC",
+  "text" : "Correlate the following hypothesis.",
+  "translations" : {
+    "russian" : "Сравни две гипотезы."
+  },
+  "tokens" : [ {
+    "token" : "correlate",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "follow",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "hypothesis",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdvaNDTAu_IiLevJP",
+  "text" : "Follow... that gondola.",
+  "translations" : {
+    "russian" : "Вперед за той гондолой."
+  },
+  "tokens" : [ {
+    "token" : "follow",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "gondola",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -136,334 +439,6 @@
     "startOffset" : 21,
     "endOffset" : 25,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwK76NEXFMlzHLR7l",
-  "text" : "Don't follow me out.",
-  "translations" : {
-    "russian" : "Не иди за мной."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "follow",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnRrqNEXFMlzHLFLc",
-  "text" : "Just follow the recipe.",
-  "translations" : {
-    "russian" : "Так сделай просто по рецепту."
-  },
-  "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "follow",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "recipe",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkVD_NEXFMlzHLA2h",
-  "text" : "Follow me, charge!",
-  "translations" : {
-    "russian" : "Следуй за мной, заряжай!"
-  },
-  "tokens" : [ {
-    "token" : "follow",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "charge",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkY1-NEXFMlzHLA8P",
-  "text" : "Follow the electrical towers.",
-  "translations" : {
-    "russian" : "Следуй за опорами линий электропередач."
-  },
-  "tokens" : [ {
-    "token" : "follow",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "electrical",
-    "startOffset" : 11,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "tow",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvH-5NEXFMlzHLQeJ",
-  "text" : "Follow the electrical towers.",
-  "translations" : {
-    "russian" : "Следуй за опорами линий электропередач."
-  },
-  "tokens" : [ {
-    "token" : "follow",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "electrical",
-    "startOffset" : 11,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "tow",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyIz_NEXFMlzHLUWI",
-  "text" : "We followed the track.",
-  "translations" : {
-    "russian" : "Прошли по следу до вашего забора."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "follow",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "track",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbuJ3NEXFMlzHK5Xg",
-  "text" : "Victory will follow our banners!",
-  "translations" : {
-    "russian" : "Победа последует за нашими знамёнами!"
-  },
-  "tokens" : [ {
-    "token" : "victory",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "will",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "follow",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "our",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "banner",
-    "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoOuUNEXFMlzHLGmE",
-  "text" : "The story's hard to follow.",
-  "translations" : {
-    "russian" : "Сюжет, какой-то непонятный."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "story",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "hard",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "follow",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgp9tQNEXFMlzHLI_t",
-  "text" : "I was just following orders.",
-  "translations" : {
-    "russian" : "Я только следовал инструкциям."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "just",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "follow",
-    "startOffset" : 11,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "order",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgviaHNEXFMlzHLRHy",
-  "text" : "We'll follow the whale's Fin.",
-  "translations" : {
-    "russian" : "Следуем за плавником Кита."
-  },
-  "tokens" : [ {
-    "token" : "we'll",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "follow",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "whale",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "fin",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkY3YNEXFMlzHLA8R",
-  "text" : "Just follow the damn towers!",
-  "translations" : {
-    "russian" : "Просто следуй за чёртовыми опорами!"
-  },
-  "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "follow",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "damn",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "tow",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

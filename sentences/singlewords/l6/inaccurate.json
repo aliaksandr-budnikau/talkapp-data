@@ -1,4 +1,116 @@
 [ {
+  "id" : "AWoEgT-bDTAu_IiLexKQ",
+  "text" : "Scope's accurate.",
+  "translations" : {
+    "russian" : "Точный прицел."
+  },
+  "tokens" : [ {
+    "token" : "scope",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accurate",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoElY7tDTAu_IiLe1Hu",
+  "text" : "No, scrupulously accurate.",
+  "translations" : {
+    "russian" : "Нет, скрупулёзно точные."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "scrupulous",
+    "startOffset" : 4,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "accurate",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDj35TDTAu_IiLeJLo",
+  "text" : "It is absolutely unerringly accurate.",
+  "translations" : {
+    "russian" : "Абсолютная, безошибочная точность."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 3,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "absolute",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "erring",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "accurate",
+    "startOffset" : 28,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJbUtDTAu_IiLfPMm",
+  "text" : "It's not an accurate measurement.",
+  "translations" : {
+    "russian" : "Это неверный замер."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "accurate",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "measurement",
+    "startOffset" : 21,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "measure",
+    "startOffset" : 21,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwP9hNEXFMlzHLSAH",
   "text" : "That beacon is highly inaccurate.",
   "translations" : {
@@ -29,6 +141,44 @@
     "startOffset" : 22,
     "endOffset" : 32,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwI3GDTAu_IiLe80x",
+  "text" : "That description is not scientifically accurate.",
+  "translations" : {
+    "russian" : "Это описание не совсем научно точно."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "description",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "not",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "scientifically",
+    "startOffset" : 24,
+    "endOffset" : 38,
+    "position" : 4
+  }, {
+    "token" : "accurate",
+    "startOffset" : 39,
+    "endOffset" : 47,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEDqOUDTAu_IiLecBP",
+  "text" : "SLIM Much obliged, Sheriff.",
+  "translations" : {
+    "russian" : "Премного благодарен, шериф."
+  },
+  "tokens" : [ {
+    "token" : "slim",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "much",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "obliged",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "oblige",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "sheriff",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgo7r_NEXFMlzHLHnD",
   "text" : "Same colour hair, slim build.",
   "translations" : {
@@ -28,6 +61,44 @@
     "token" : "build",
     "startOffset" : 23,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsLvqDTAu_IiLeNtX",
+  "text" : "Early 20s, slim, blond hair.",
+  "translations" : {
+    "russian" : "Лет двадцать, худой, белые волосы."
+  },
+  "tokens" : [ {
+    "token" : "early",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ear",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "20s",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "slim",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "blond",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "hair",
+    "startOffset" : 23,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null

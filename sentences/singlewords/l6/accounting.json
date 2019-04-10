@@ -1,4 +1,243 @@
 [ {
+  "id" : "AWoElfFZDTAu_IiLe1Mg",
+  "text" : "Logistics, accounting, manufacturing, distribution.",
+  "translations" : {
+    "russian" : "Логистика, бухучет, производство, распределение."
+  },
+  "tokens" : [ {
+    "token" : "logistic",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "accounting",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "account",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "manufacture",
+    "startOffset" : 23,
+    "endOffset" : 36,
+    "position" : 2
+  }, {
+    "token" : "distribution",
+    "startOffset" : 38,
+    "endOffset" : 50,
+    "position" : 3
+  }, {
+    "token" : "distribute",
+    "startOffset" : 38,
+    "endOffset" : 50,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhp8HDTAu_IiLfhVg",
+  "text" : "Accounts payable.",
+  "translations" : {
+    "russian" : "Счета к оплате."
+  },
+  "tokens" : [ {
+    "token" : "account",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "payable",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "pay",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEklpxDTAu_IiLe0iP",
+  "text" : "On Grandad's account.",
+  "translations" : {
+    "russian" : "Запишите на счет дедушки. Хорошо."
+  },
+  "tokens" : [ {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "grandad's",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "account",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDhRT1DTAu_IiLeHs9",
+  "text" : "Decker froze Bale's accounts.",
+  "translations" : {
+    "russian" : "Декер заморозил счета Бейла."
+  },
+  "tokens" : [ {
+    "token" : "decker",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "deck",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "froze",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "bale",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "account",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFB7UmDTAu_IiLfJe7",
+  "text" : "They're draining my accounts!",
+  "translations" : {
+    "russian" : "Они опустошили мои счета."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "drain",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "account",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDh6jCDTAu_IiLeIFC",
+  "text" : "Decker froze Bale's accounts.",
+  "translations" : {
+    "russian" : "Декер заморозил счета Бейла."
+  },
+  "tokens" : [ {
+    "token" : "decker",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "deck",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "froze",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "bale",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "account",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9OH3DTAu_IiLfFyT",
+  "text" : "Your account is frozen.",
+  "translations" : {
+    "russian" : "Карол? Ваш счёт заморожен."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "account",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "frozen",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDiSQGDTAu_IiLeIR-",
+  "text" : "That accounts for that limp.",
+  "translations" : {
+    "russian" : "Это объясняет, почему он хромает."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "account",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "that",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "limp",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwknjNEXFMlzHLSUP",
   "text" : "Always account for variable change.",
   "translations" : {
@@ -28,6 +267,39 @@
     "token" : "change",
     "startOffset" : 28,
     "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFh5xkDTAu_IiLfhem",
+  "text" : "It's a very robust account.",
+  "translations" : {
+    "russian" : "Это очень надёжный счет."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "very",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "robust",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "account",
+    "startOffset" : 19,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null
@@ -65,40 +337,187 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkXeHNEXFMlzHLA6F",
-  "text" : "Charge it to the Selfridge account.",
+  "id" : "AWoE2-6yDTAu_IiLfBsC",
+  "text" : "On account of the curls.",
   "translations" : {
-    "russian" : "Запишите на счёт Селфриджа."
+    "russian" : "За кудряшки."
   },
   "tokens" : [ {
-    "token" : "charge",
+    "token" : "on",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "it",
-    "startOffset" : 7,
-    "endOffset" : 9,
+    "token" : "account",
+    "startOffset" : 3,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "to",
-    "startOffset" : 10,
-    "endOffset" : 12,
+    "token" : "of",
+    "startOffset" : 11,
+    "endOffset" : 13,
     "position" : 2
   }, {
     "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
+    "startOffset" : 14,
+    "endOffset" : 17,
     "position" : 3
   }, {
-    "token" : "selfridge",
+    "token" : "curl",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEevvVDTAu_IiLev6t",
+  "text" : "What about the mining accounts?",
+  "translations" : {
+    "russian" : "Какова ситуация с добычей специи?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "about",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "mining",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "min",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "account",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgyX3DTAu_IiLeHap",
+  "text" : "The account will be swiftly settled.",
+  "translations" : {
+    "russian" : "Они у нас быстро заплатят по счетам."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "account",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "will",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "be",
     "startOffset" : 17,
-    "endOffset" : 26,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "swift",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "settle",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDOitHDTAu_IiLd8pp",
+  "text" : "Firsthand accounts, theoretical criticism, the anthropological...",
+  "translations" : {
+    "russian" : "Первобытные рукописи, теоретические критические обзоры, антропологические..."
+  },
+  "tokens" : [ {
+    "token" : "firsthand",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "account",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "theoretical",
+    "startOffset" : 20,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "criticism",
+    "startOffset" : 32,
+    "endOffset" : 41,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 43,
+    "endOffset" : 46,
+    "position" : 4
+  }, {
+    "token" : "anthropological",
+    "startOffset" : 47,
+    "endOffset" : 62,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDafmGDTAu_IiLeD0O",
+  "text" : "I've taken your asthma into account.",
+  "translations" : {
+    "russian" : "Я не забыл про твою астму."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "taken",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "asthma",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "into",
+    "startOffset" : 23,
+    "endOffset" : 27,
     "position" : 4
   }, {
     "token" : "account",
-    "startOffset" : 27,
-    "endOffset" : 34,
+    "startOffset" : 28,
+    "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null

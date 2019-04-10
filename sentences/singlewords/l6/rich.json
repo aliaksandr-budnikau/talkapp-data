@@ -1,4 +1,198 @@
 [ {
+  "id" : "AWoDfCWoDTAu_IiLeGZg",
+  "text" : "Cafe Rich.",
+  "translations" : {
+    "russian" : "Кафе Богач."
+  },
+  "tokens" : [ {
+    "token" : "cafe",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "rich",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5c6RDTAu_IiLfDUH",
+  "text" : "Rich Outstanding.",
+  "translations" : {
+    "russian" : "Невероятно."
+  },
+  "tokens" : [ {
+    "token" : "rich",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "outstanding",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFi89wDTAu_IiLfiJ_",
+  "text" : "Whooping I'm rich.",
+  "translations" : {
+    "russian" : "Кричит Я богат!"
+  },
+  "tokens" : [ {
+    "token" : "whoop",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "i'm",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "rich",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDU9yrDTAu_IiLeA1u",
+  "text" : "You're a rich Briton.",
+  "translations" : {
+    "russian" : "Вы богатый англичанин."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "rich",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "briton",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_G4iDTAu_IiLeYe2",
+  "text" : "Rich Greetings, sports fans.",
+  "translations" : {
+    "russian" : "Приветствую, любители спорта."
+  },
+  "tokens" : [ {
+    "token" : "rich",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "greet",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "sport",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "fan",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVaPvDTAu_IiLfYP6",
+  "text" : "Rich from pottery class.",
+  "translations" : {
+    "russian" : "Рич из гончарного класса."
+  },
+  "tokens" : [ {
+    "token" : "rich",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "from",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "pottery",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "class",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAY7qDTAu_IiLeZeH",
+  "text" : "It's rich and foamy.",
+  "translations" : {
+    "russian" : "Густо и с пеной."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "rich",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "foamy",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaaHJDTAu_IiLes2N",
+  "text" : "Rich in germanium.",
+  "translations" : {
+    "russian" : "Это всемирно известная морская соль."
+  },
+  "tokens" : [ {
+    "token" : "rich",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "germanium",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsghHNEXFMlzHLMiu",
   "text" : "Rich people run funny.",
   "translations" : {
@@ -24,6 +218,29 @@
     "startOffset" : 16,
     "endOffset" : 21,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFi858DTAu_IiLfiJ9",
+  "text" : "Whooping I'm rich!",
+  "translations" : {
+    "russian" : "Кричит Я богат!"
+  },
+  "tokens" : [ {
+    "token" : "whoop",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "i'm",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "rich",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -98,6 +315,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEVnvoDTAu_IiLepf_",
+  "text" : "Get off the ledge, Rich!",
+  "translations" : {
+    "russian" : "Отойди от края, Рич!"
+  },
+  "tokens" : [ {
+    "token" : "get",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "off",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "ledge",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "rich",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsqxiNEXFMlzHLMwo",
   "text" : "Then hook a rich patron.",
   "translations" : {
@@ -127,6 +377,44 @@
     "token" : "patron",
     "startOffset" : 17,
     "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSg16DTAu_IiLfWK_",
+  "text" : "Rich and ancient tradition, brother.",
+  "translations" : {
+    "russian" : "Богатая и древняя традиция, брат."
+  },
+  "tokens" : [ {
+    "token" : "rich",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "ancient",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "tradition",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "brother",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "broth",
+    "startOffset" : 28,
+    "endOffset" : 35,
     "position" : 4
   } ],
   "contentScore" : null
@@ -166,115 +454,6 @@
     "startOffset" : 22,
     "endOffset" : 30,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcIGQNEXFMlzHK5vG",
-  "text" : "I was the rich clown.",
-  "translations" : {
-    "russian" : "Этот богатый клоун - я."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "rich",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "clown",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgb9YrNEXFMlzHK5lY",
-  "text" : "It makes for a rich cake.",
-  "translations" : {
-    "russian" : "Тогда фруктовый кекс получается намного вкуснее."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "make",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "rich",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "cake",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghr85NEXFMlzHK-jj",
-  "text" : "I saw these villains getting rich.",
-  "translations" : {
-    "russian" : "Я видел этих разбогатевших негодяев."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "saw",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "these",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "villain",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "getting",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "rich",
-    "startOffset" : 29,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

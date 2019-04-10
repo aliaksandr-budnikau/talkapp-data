@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoFS1PWDTAu_IiLfWaK",
+  "text" : "Cabbage patch.",
+  "translations" : {
+    "russian" : "На капустной грядке."
+  },
+  "tokens" : [ {
+    "token" : "cabbage",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "patch",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFS1OXDTAu_IiLfWaJ",
+  "text" : "Cabbage patch.",
+  "translations" : {
+    "russian" : "Капустная грядка."
+  },
+  "tokens" : [ {
+    "token" : "cabbage",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "patch",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrDt6NEXFMlzHLKcf",
   "text" : "Dispatch, please repeat.",
   "translations" : {
@@ -24,6 +60,62 @@
     "startOffset" : 17,
     "endOffset" : 23,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDx07tDTAu_IiLeRAK",
+  "text" : "Dispatcher 1164 Broadway.",
+  "translations" : {
+    "russian" : "1154 Бродвей."
+  },
+  "tokens" : [ {
+    "token" : "patcher",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "patch",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "1164",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "broadway",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFS1YBDTAu_IiLfWaQ",
+  "text" : "Grandma's little cabbage patch.",
+  "translations" : {
+    "russian" : "Бабушкина малышка с капустной грядки."
+  },
+  "tokens" : [ {
+    "token" : "grandma",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "little",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "cabbage",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "patch",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -89,6 +181,67 @@
     "token" : "patch",
     "startOffset" : 21,
     "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFE7fVDTAu_IiLfLoz",
+  "text" : "Dispatch to Sheriff Bannerman.",
+  "translations" : {
+    "russian" : "Дежурный вызывает шерифа Баннермана."
+  },
+  "tokens" : [ {
+    "token" : "dispatch",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "patch",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "sheriff",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "bannerman",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHhl0DTAu_IiLee6l",
+  "text" : "Beaufort Aero Club patch.",
+  "translations" : {
+    "russian" : "Нашивка авиаклуба Бьюфорта."
+  },
+  "tokens" : [ {
+    "token" : "beaufort",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "aero",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "club",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "patch",
+    "startOffset" : 19,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
@@ -165,6 +318,44 @@
     "token" : "message",
     "startOffset" : 30,
     "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCg4pDTAu_IiLfJ7B",
+  "text" : "It's my Wilderness Survival patch.",
+  "translations" : {
+    "russian" : "Это моя заплатка выживания в дикой местности."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "wilderness",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "wilder",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "survival",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "patch",
+    "startOffset" : 28,
+    "endOffset" : 33,
     "position" : 4
   } ],
   "contentScore" : null

@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEie8eDTAu_IiLey73",
+  "text" : "The Boston-Irish, mademoiselle.",
+  "translations" : {
+    "russian" : "Бостонские ирландки, мадемуазель."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "boston",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "irish",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "mademoiselle",
+    "startOffset" : 18,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgctx_NEXFMlzHK6Q_",
   "text" : "Jello mold, Boston cream pie.",
   "translations" : {
@@ -67,6 +95,44 @@
     "startOffset" : 24,
     "endOffset" : 32,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtB_gDTAu_IiLe6qf",
+  "text" : "Portly fellow, Boston accent, weak bladder.",
+  "translations" : {
+    "russian" : "Дородный мужик, бостонский акцент, слабый мочевой пузырь."
+  },
+  "tokens" : [ {
+    "token" : "portly",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fellow",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "boston",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "accent",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "weak",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "bladder",
+    "startOffset" : 35,
+    "endOffset" : 42,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

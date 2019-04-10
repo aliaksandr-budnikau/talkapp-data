@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoD1RpVDTAu_IiLeS0M",
+  "text" : "Rebel coward!",
+  "translations" : {
+    "russian" : "Ребел трус!"
+  },
+  "tokens" : [ {
+    "token" : "rebel",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "coward",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEidrqDTAu_IiLey69",
+  "text" : "A filthy cowardly traitor!",
+  "translations" : {
+    "russian" : "Подлым, гадким предателем!"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "filthy",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "cowardly",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "coward",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "traitor",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrKZTNEXFMlzHLKmV",
   "text" : "Talk is for cowards.",
   "translations" : {
@@ -23,6 +74,90 @@
     "token" : "coward",
     "startOffset" : 12,
     "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJueTDTAu_IiLegdp",
+  "text" : "You're a coward, sorcerer.",
+  "translations" : {
+    "russian" : "Ты трус, волшебник!"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "coward",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "sorcerer",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdWyQDTAu_IiLeu2O",
+  "text" : "A cowardly thug.",
+  "translations" : {
+    "russian" : "Трус и головорез."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "cowardly",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "coward",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "thug",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKCyTDTAu_IiLegs6",
+  "text" : "They're stupid, putrid cowards.",
+  "translations" : {
+    "russian" : "Они тупые вонючие трусы."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "stupid",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "putrid",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "coward",
+    "startOffset" : 23,
+    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null
@@ -90,6 +225,44 @@
     "startOffset" : 22,
     "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJBcjDTAu_IiLfO3X",
+  "text" : "You're a coward and a traitor!",
+  "translations" : {
+    "russian" : "Ты обманщик и предатель!"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "coward",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 20,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "traitor",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

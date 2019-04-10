@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoDY3bwDTAu_IiLeCy5",
+  "text" : "Barbecue flavour's better.",
+  "translations" : {
+    "russian" : "Со вкусом барбекю они вкуснее."
+  },
+  "tokens" : [ {
+    "token" : "barbecue",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "flavour's",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "better",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZZqQDTAu_IiLeDHJ",
+  "text" : "A barbecued pork flavor.",
+  "translations" : {
+    "russian" : "Тут много фишек... Например, запах гриля в зале..."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "barbecue",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "pork",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "flavor",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmOsXNEXFMlzHLDh8",
   "text" : "You ruined his barbecue.",
   "translations" : {
@@ -56,6 +107,29 @@
   "contentScore" : null
 }, {
   "id" : "AWbgnGA3NEXFMlzHLE8J",
+  "text" : "Barbecue flavour's better.",
+  "translations" : {
+    "russian" : "Со вкусом барбекю они вкуснее."
+  },
+  "tokens" : [ {
+    "token" : "barbecue",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "flavour's",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "better",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDY50gDTAu_IiLeC0L",
   "text" : "Barbecue flavour's better.",
   "translations" : {
     "russian" : "Со вкусом барбекю они вкуснее."
@@ -163,6 +237,39 @@
     "token" : "back",
     "startOffset" : 30,
     "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYnBtDTAu_IiLerpQ",
+  "text" : "A gallon of barbecue sauce.",
+  "translations" : {
+    "russian" : "Четыре литра соуса для барбекю."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "gallon",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "barbecue",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "sauce",
+    "startOffset" : 21,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null
@@ -376,44 +483,6 @@
     "token" : "spareribs",
     "startOffset" : 30,
     "endOffset" : 39,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmO-UNEXFMlzHLDic",
-  "text" : "And five lambs for the barbecue!",
-  "translations" : {
-    "russian" : "И пять ягнят для шашлыков!"
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "five",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "lamb",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "barbecue",
-    "startOffset" : 23,
-    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

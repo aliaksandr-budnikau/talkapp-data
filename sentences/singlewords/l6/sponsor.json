@@ -251,6 +251,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEqvXxDTAu_IiLe5Hb",
+  "text" : "I'll sponsor your concert.",
+  "translations" : {
+    "russian" : "Я проспонсирую ваш концерт."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "sponsor",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "concert",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "cert",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoWysNEXFMlzHLGyk",
   "text" : "My sponsor and personal savior.",
   "translations" : {
@@ -450,39 +483,6 @@
     "token" : "gram",
     "startOffset" : 18,
     "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqTwrNEXFMlzHLJeC",
-  "text" : "Little Paul was his sponsor.",
-  "translations" : {
-    "russian" : "Малыш Пол был его поручителем."
-  },
-  "tokens" : [ {
-    "token" : "little",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "paul",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "was",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "his",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "sponsor",
-    "startOffset" : 20,
-    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null

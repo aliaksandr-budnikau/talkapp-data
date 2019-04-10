@@ -1,38 +1,548 @@
 [ {
-  "id" : "AWbgxSXSNEXFMlzHLTEZ",
-  "text" : "Stand by for altered schedule...",
+  "id" : "AWoFJOnRDTAu_IiLfPCL",
+  "text" : "Altered games.",
   "translations" : {
-    "russian" : "Перейти на нештатное расписание.."
+    "russian" : "Изменили ход игр."
   },
   "tokens" : [ {
-    "token" : "stand",
+    "token" : "altered",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "by",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
+    "token" : "alter",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
   }, {
-    "token" : "for",
-    "startOffset" : 9,
+    "token" : "game",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJLdvDTAu_IiLfO_p",
+  "text" : "They haven't altered course.",
+  "translations" : {
+    "russian" : "Они не меняют курса."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "haven't",
+    "startOffset" : 5,
     "endOffset" : 12,
-    "position" : 2
+    "position" : 1
   }, {
     "token" : "altered",
     "startOffset" : 13,
     "endOffset" : 20,
-    "position" : 3
+    "position" : 2
   }, {
     "token" : "alter",
     "startOffset" : 13,
     "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "course",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJKqhDTAu_IiLfO-9",
+  "text" : "He was surgically altered?",
+  "translations" : {
+    "russian" : "Его внешность была изменена хирургическим путем?"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "surgical",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "altered",
+    "startOffset" : 18,
+    "endOffset" : 25,
     "position" : 3
   }, {
-    "token" : "schedule",
-    "startOffset" : 21,
+    "token" : "alter",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJK_IDTAu_IiLfO_O",
+  "text" : "Brain wave pattern altered.",
+  "translations" : {
+    "russian" : "Параметры программы изменены..."
+  },
+  "tokens" : [ {
+    "token" : "brain",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "wave",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pattern",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "altered",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "alter",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJNcTDTAu_IiLfPBP",
+  "text" : "Have your visions altered?",
+  "translations" : {
+    "russian" : "Ваши ведения изменились?"
+  },
+  "tokens" : [ {
+    "token" : "have",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "vision",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "vise",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "altered",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "alter",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaVVVDTAu_IiLeszI",
+  "text" : "Or genetically altered humans.",
+  "translations" : {
+    "russian" : "Или генетически модифицированные люди, какая разница?"
+  },
+  "tokens" : [ {
+    "token" : "or",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "genetically",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "altered",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "alter",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "humans",
+    "startOffset" : 23,
     "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJKwiDTAu_IiLfO_C",
+  "text" : "It's been altered.",
+  "translations" : {
+    "russian" : "Изменен."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "been",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "altered",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "alter",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJNQ2DTAu_IiLfPBG",
+  "text" : "Your appearance has altered.",
+  "translations" : {
+    "russian" : "И твоя внешность изменилась."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "appearance",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "altered",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "alter",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJKW4DTAu_IiLfO-v",
+  "text" : "It's altered its course.",
+  "translations" : {
+    "russian" : "Объект изменил курс!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "altered",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "alter",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "its",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "course",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJK-KDTAu_IiLfO_N",
+  "text" : "Brain wave pattern altered.",
+  "translations" : {
+    "russian" : "Параметры изменены."
+  },
+  "tokens" : [ {
+    "token" : "brain",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "wave",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pattern",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "altered",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "alter",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJNaQDTAu_IiLfPBN",
+  "text" : "Rain cycles are altered.",
+  "translations" : {
+    "russian" : "Циклы дождей изменились."
+  },
+  "tokens" : [ {
+    "token" : "rain",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cycle",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "altered",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "alter",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgIFoDTAu_IiLexA8",
+  "text" : "I altered my black corset.",
+  "translations" : {
+    "russian" : "Я перешила свой чёрный корсет."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "altered",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "alter",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "black",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "corset",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfGvGDTAu_IiLffr7",
+  "text" : "I altered my black corset.",
+  "translations" : {
+    "russian" : "Я перешила свой чёрный корсет."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "altered",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "alter",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "black",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "corset",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJKuYDTAu_IiLfO_A",
+  "text" : "My programming hasn't been altered.",
+  "translations" : {
+    "russian" : "Моя программа не была изменена."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "programming",
+    "startOffset" : 3,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "hasn't",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "been",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "altered",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "alter",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJK0wDTAu_IiLfO_F",
+  "text" : "His appearance was certainly altered.",
+  "translations" : {
+    "russian" : "Его внешний вид определенно был изменен."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "appearance",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "certain",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "altered",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 4
+  }, {
+    "token" : "alter",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJNeODTAu_IiLfPBR",
+  "text" : "It also altered my palate.",
+  "translations" : {
+    "russian" : "Мои вкусы также изменились."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "also",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "altered",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "alter",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "palate",
+    "startOffset" : 19,
+    "endOffset" : 25,
     "position" : 4
   } ],
   "contentScore" : null

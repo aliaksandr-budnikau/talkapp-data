@@ -1,4 +1,106 @@
 [ {
+  "id" : "AWoDQVTODTAu_IiLd9vP",
+  "text" : "Husband, barrister.",
+  "translations" : {
+    "russian" : "Муж, барристер."
+  },
+  "tokens" : [ {
+    "token" : "husband",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "barrister",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8Oj8DTAu_IiLeWSH",
+  "text" : "Vendetta against her husband?",
+  "translations" : {
+    "russian" : "Вендетты против ее мужа."
+  },
+  "tokens" : [ {
+    "token" : "vendetta",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "against",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "her",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "husband",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEChDgDTAu_IiLebHh",
+  "text" : "Slain husband, missing money.",
+  "translations" : {
+    "russian" : "Да, я знаю, муж убит, деньги исчезли."
+  },
+  "tokens" : [ {
+    "token" : "slain",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "husband",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "miss",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "money",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEy08zDTAu_IiLe-1g",
+  "text" : "Your husband isn't Bluebeard.",
+  "translations" : {
+    "russian" : "Твой муж не Синяя Борода. персонаж мифа, женоубийца."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "husband",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "isn't",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "bluebeard",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkjTnNEXFMlzHLBHp",
   "text" : "Gerald, her husband, died.",
   "translations" : {
@@ -23,6 +125,118 @@
     "token" : "die",
     "startOffset" : 21,
     "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBcV2DTAu_IiLeaRR",
+  "text" : "Diego's father Vina's husband.",
+  "translations" : {
+    "russian" : "Отец Диего, муж Вины."
+  },
+  "tokens" : [ {
+    "token" : "diego",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "father",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "vina",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "husband",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwPqTDTAu_IiLe86H",
+  "text" : "My husband accidentally suffocated.",
+  "translations" : {
+    "russian" : "Мой муж внезапно задохнулся."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "husband",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "accidental",
+    "startOffset" : 11,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "suffocate",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwl81DTAu_IiLe9Ll",
+  "text" : "Father, husband, teacher, deacon.",
+  "translations" : {
+    "russian" : "Отец, муж, учитель, дьякон."
+  },
+  "tokens" : [ {
+    "token" : "father",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "husband",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "teacher",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "deacon",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFflWBDTAu_IiLfgBx",
+  "text" : "You shagged her husband.",
+  "translations" : {
+    "russian" : "Ты трахал её мужа."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "shagged",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "her",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "husband",
+    "startOffset" : 16,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
@@ -55,114 +269,150 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguBq7NEXFMlzHLOVE",
-  "text" : "I'm rooting for your husband.",
+  "id" : "AWoDlrW5DTAu_IiLeKKP",
+  "text" : "My husband impregnated me.",
   "translations" : {
-    "russian" : "Я поддерживаю вашего мужа."
+    "russian" : "Муж оплодотворил меня. Здорово."
   },
   "tokens" : [ {
-    "token" : "i'm",
+    "token" : "my",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "root",
-    "startOffset" : 4,
-    "endOffset" : 11,
+    "token" : "husband",
+    "startOffset" : 3,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "for",
-    "startOffset" : 12,
-    "endOffset" : 15,
+    "token" : "impregnate",
+    "startOffset" : 11,
+    "endOffset" : 22,
     "position" : 2
   }, {
-    "token" : "your",
-    "startOffset" : 16,
-    "endOffset" : 20,
+    "token" : "me",
+    "startOffset" : 23,
+    "endOffset" : 25,
     "position" : 3
-  }, {
-    "token" : "husband",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbGPJNEXFMlzHK4zz",
-  "text" : "What is Kundavi's husband doing?",
+  "id" : "AWoE6F58DTAu_IiLfDvk",
+  "text" : "My husband accidentally suffocated.",
   "translations" : {
-    "russian" : "Чем занимается муж Кундави?"
+    "russian" : "Мой муж внезапно задохнулся."
   },
   "tokens" : [ {
-    "token" : "what",
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "husband",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "accidental",
+    "startOffset" : 11,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "suffocate",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFh5JRDTAu_IiLfheR",
+  "text" : "My husband's so robust.",
+  "translations" : {
+    "russian" : "Мой муж такой сильный."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "husband",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "so",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "robust",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-IJhDTAu_IiLeXwC",
+  "text" : "Your husband prosecuted me.",
+  "translations" : {
+    "russian" : "Ваш муж обвинил меня."
+  },
+  "tokens" : [ {
+    "token" : "your",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "is",
+    "token" : "husband",
     "startOffset" : 5,
-    "endOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "kundavi's",
-    "startOffset" : 8,
-    "endOffset" : 17,
+    "token" : "prosecute",
+    "startOffset" : 13,
+    "endOffset" : 23,
     "position" : 2
   }, {
-    "token" : "husband",
-    "startOffset" : 18,
-    "endOffset" : 25,
+    "token" : "me",
+    "startOffset" : 24,
+    "endOffset" : 26,
     "position" : 3
-  }, {
-    "token" : "doing",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "do",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghayiNEXFMlzHK-Un",
-  "text" : "Do you love your husband?",
+  "id" : "AWoEqNoaDTAu_IiLe4u6",
+  "text" : "Faith in my husband.",
   "translations" : {
-    "russian" : "Вы любите своего мужа?"
+    "russian" : "Верю, в моего мужа."
   },
   "tokens" : [ {
-    "token" : "do",
+    "token" : "faith",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "you",
-    "startOffset" : 3,
-    "endOffset" : 6,
+    "token" : "in",
+    "startOffset" : 6,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "love",
-    "startOffset" : 7,
+    "token" : "my",
+    "startOffset" : 9,
     "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "your",
+    "token" : "husband",
     "startOffset" : 12,
-    "endOffset" : 16,
+    "endOffset" : 19,
     "position" : 3
-  }, {
-    "token" : "husband",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwe_6NEXFMlzHLSOq",
-  "text" : "My husband is quite a catch.",
+  "id" : "AWoE6BJ2DTAu_IiLfDsq",
+  "text" : "My husband accidentally suffocated.",
   "translations" : {
-    "russian" : "Мой муж хорошая добыча."
+    "russian" : "Мой муж внезапно задохнулся."
   },
   "tokens" : [ {
     "token" : "my",
@@ -175,101 +425,15 @@
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "is",
+    "token" : "accidental",
     "startOffset" : 11,
-    "endOffset" : 13,
+    "endOffset" : 23,
     "position" : 2
   }, {
-    "token" : "quite",
-    "startOffset" : 14,
-    "endOffset" : 19,
+    "token" : "suffocate",
+    "startOffset" : 24,
+    "endOffset" : 34,
     "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 20,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "catch",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwe_MNEXFMlzHLSOp",
-  "text" : "My husband is quite a catch.",
-  "translations" : {
-    "russian" : "Мой муж хорошая добыча."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "husband",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "quite",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 20,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "catch",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwfApNEXFMlzHLSOr",
-  "text" : "My husband is quite a catch.",
-  "translations" : {
-    "russian" : "Мой муж хорошая добыча."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "husband",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "quite",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 20,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "catch",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

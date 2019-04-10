@@ -1,4 +1,103 @@
 [ {
+  "id" : "AWoEuMqkDTAu_IiLe7c8",
+  "text" : "Billions. Billions. Billions... in revenue.",
+  "translations" : {
+    "russian" : "Просто миллиардные прибыли."
+  },
+  "tokens" : [ {
+    "token" : "billion",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "billion",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "billion",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 32,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "revenue",
+    "startOffset" : 35,
+    "endOffset" : 42,
+    "position" : 4
+  }, {
+    "token" : "venue",
+    "startOffset" : 35,
+    "endOffset" : 42,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE64jlDTAu_IiLfEOx",
+  "text" : "Billions of people enslaved.",
+  "translations" : {
+    "russian" : "Порабощены миллиарды людей."
+  },
+  "tokens" : [ {
+    "token" : "billion",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "people",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "enslave",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnK0wDTAu_IiLe2c4",
+  "text" : "Two-hundred-billion-dollar deficit.",
+  "translations" : {
+    "russian" : "200-миллиардный дефицит."
+  },
+  "tokens" : [ {
+    "token" : "two",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "hundred",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "billion",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "dollar",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "deficit",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbREINEXFMlzHK49j",
   "text" : "We've seen that 5 billion times.",
   "translations" : {
@@ -33,6 +132,82 @@
     "token" : "time",
     "startOffset" : 26,
     "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnAYhDTAu_IiLe2Uq",
+  "text" : "Without the deficit topping 200 billion?",
+  "translations" : {
+    "russian" : "Без превышения уровня дефицита в 200 миллиардов?"
+  },
+  "tokens" : [ {
+    "token" : "without",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "deficit",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "topping",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "200",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "billion",
+    "startOffset" : 32,
+    "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuMkdDTAu_IiLe7c4",
+  "text" : "Roughly half a billion in revenues.",
+  "translations" : {
+    "russian" : "И порядка пятисот миллионов в прибыли."
+  },
+  "tokens" : [ {
+    "token" : "rough",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "half",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "billion",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "in",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "venue",
+    "startOffset" : 26,
+    "endOffset" : 34,
     "position" : 5
   } ],
   "contentScore" : null

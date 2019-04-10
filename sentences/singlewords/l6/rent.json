@@ -27,6 +27,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDX_5FDTAu_IiLeCVQ",
+  "text" : "Farms, tenants paying rent!",
+  "translations" : {
+    "russian" : "Фермы, владельцы платят ренту!"
+  },
+  "tokens" : [ {
+    "token" : "farm",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "tenant",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "pay",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "rent",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuy1ODTAu_IiLePSL",
+  "text" : "Awesome cottage you're renting.",
+  "translations" : {
+    "russian" : "Потрясающий коттедж вы арендуете."
+  },
+  "tokens" : [ {
+    "token" : "awesome",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "cottage",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "you're",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "rent",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu9naNEXFMlzHLQIm",
   "text" : "Office space for rent.",
   "translations" : {
@@ -52,6 +108,123 @@
     "startOffset" : 17,
     "endOffset" : 21,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYGKtDTAu_IiLeCYd",
+  "text" : "Farms, tenants paying rent!",
+  "translations" : {
+    "russian" : "Фермы, владельцы платят ренту!"
+  },
+  "tokens" : [ {
+    "token" : "farm",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "tenant",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "pay",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "rent",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqhkLDTAu_IiLe49W",
+  "text" : "I rented furnished.",
+  "translations" : {
+    "russian" : "Я снял квартиру со всей обстановкой."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "rent",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "furnished",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "furnish",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEH1OhDTAu_IiLefIA",
+  "text" : "But the rent's outrageous.",
+  "translations" : {
+    "russian" : "Да, но аренда немыслимая."
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "rent",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "outrageous",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBrB4DTAu_IiLeact",
+  "text" : "That villa isn't for rent.",
+  "translations" : {
+    "russian" : "Та вилла не сдается."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "villa",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "isn't",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "rent",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -89,6 +262,115 @@
     "token" : "rent",
     "startOffset" : 25,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEW2OHDTAu_IiLeqZO",
+  "text" : "Subtract monthly expenses and rent.",
+  "translations" : {
+    "russian" : "Вычти ежемесячные расходы и арендную плату."
+  },
+  "tokens" : [ {
+    "token" : "subtract",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "monthly",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "month",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "expense",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "rent",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWzCrDTAu_IiLeqW8",
+  "text" : "Subtract monthly expenses and rent.",
+  "translations" : {
+    "russian" : "Вычти ежемесячные расходы и арендную плату."
+  },
+  "tokens" : [ {
+    "token" : "subtract",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "monthly",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "month",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "expense",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "rent",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgc6PDTAu_IiLfgmY",
+  "text" : "He's renting the craven cottage!",
+  "translations" : {
+    "russian" : "Он арендует коттедж Кравен!"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "rent",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "craven",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "cottage",
+    "startOffset" : 24,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null
@@ -156,6 +438,82 @@
     "startOffset" : 18,
     "endOffset" : 22,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqgGZDTAu_IiLe48W",
+  "text" : "They rented your place furnished.",
+  "translations" : {
+    "russian" : "Твою квартиру сняли вместе с мебелью."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "rent",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "place",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "furnished",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "furnish",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdXTNDTAu_IiLeu2r",
+  "text" : "But these weren't low-rent thugs.",
+  "translations" : {
+    "russian" : "Но это явно были не дешёвые отморозки."
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "these",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "weren't",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "low",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "rent",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "thug",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

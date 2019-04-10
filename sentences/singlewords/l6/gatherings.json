@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEfedZDTAu_IiLewgN",
+  "text" : "Gather round.",
+  "translations" : {
+    "russian" : "All the robbers Собирайтесь все, все разбойники."
+  },
+  "tokens" : [ {
+    "token" : "gather",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "round",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcUnuNEXFMlzHK56a",
   "text" : "Death doesn't gather information.",
   "translations" : {
@@ -423,6 +441,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDww-RDTAu_IiLeQd9",
+  "text" : "A fellowship gathering, mandatory attendance.",
+  "translations" : {
+    "russian" : "Собрание сообщества, присутствие обязательно."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "fellowship",
+    "startOffset" : 2,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "gathering",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "gather",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "mandatory",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "attendance",
+    "startOffset" : 34,
+    "endOffset" : 44,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcUlSNEXFMlzHK56Y",
   "text" : "I will gather your disperse.",
   "translations" : {
@@ -452,77 +508,6 @@
     "token" : "disperse",
     "startOffset" : 19,
     "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcUwwNEXFMlzHK56i",
-  "text" : "Gather the men to formation!",
-  "translations" : {
-    "russian" : "Соберите мужчин в строй!"
-  },
-  "tokens" : [ {
-    "token" : "gather",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "men",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "formation",
-    "startOffset" : 18,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "formate",
-    "startOffset" : 18,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcVqINEXFMlzHK57W",
-  "text" : "You guys ready to gather?",
-  "translations" : {
-    "russian" : "Ребята, готовы к сбору?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "guy",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "ready",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "gather",
-    "startOffset" : 18,
-    "endOffset" : 24,
     "position" : 4
   } ],
   "contentScore" : null

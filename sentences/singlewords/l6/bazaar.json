@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEEVqtDTAu_IiLecj0",
+  "text" : "Exterior, bazaar.",
+  "translations" : {
+    "russian" : "Натура базар."
+  },
+  "tokens" : [ {
+    "token" : "exterior",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "bazaar",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsGHzNEXFMlzHLL9M",
   "text" : "Today is Bazaar!",
   "translations" : {
@@ -256,6 +274,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDZ8yXDTAu_IiLeDd1",
+  "text" : "So I have a Harper's Bazaar.",
+  "translations" : {
+    "russian" : "У меня есть Харпер Базар."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 3,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 3
+  }, {
+    "token" : "harper",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "bazaar",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsGdiNEXFMlzHLL9q",
   "text" : "You bought them from the bazaar?",
   "translations" : {
@@ -393,37 +449,6 @@
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
-  } ],
-  "contentScore" : "POOR"
-}, {
-  "id" : "AWbgsGIyNEXFMlzHLL9N",
-  "text" : "Bazaar.",
-  "translations" : {
-    "russian" : "Базар."
-  },
-  "tokens" : [ {
-    "token" : "bazaar",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  } ],
-  "contentScore" : "POOR"
-}, {
-  "id" : "AWbgsGjoNEXFMlzHLL9z",
-  "text" : "The Bazaar.",
-  "translations" : {
-    "russian" : "На рынок."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "bazaar",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
   } ],
   "contentScore" : "POOR"
 } ]

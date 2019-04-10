@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoEVodTDTAu_IiLepgg",
+  "text" : "Multiple ledges!",
+  "translations" : {
+    "russian" : "Много уступов!"
+  },
+  "tokens" : [ {
+    "token" : "multiple",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "ledge",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7uuJDTAu_IiLeV7d",
+  "text" : "Yes, sir, multiple drones, multiple vectors.",
+  "translations" : {
+    "russian" : "Да, много беспилотников с разных направлений."
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sir",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "multiple",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "drone",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "multiple",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "vector",
+    "startOffset" : 36,
+    "endOffset" : 43,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgojhmNEXFMlzHLHGc",
   "text" : "Submitted multiple intelligence reports.",
   "translations" : {
@@ -27,6 +83,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEN2NRDTAu_IiLejrh",
+  "text" : "Multiple dense lesions.",
+  "translations" : {
+    "russian" : "Множественные плотные поражения."
+  },
+  "tokens" : [ {
+    "token" : "multiple",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "dense",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "lesion",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgj-gPNEXFMlzHLAeK",
   "text" : "We need multiple layers.",
   "translations" : {
@@ -52,6 +131,52 @@
     "startOffset" : 17,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETduhDTAu_IiLen0c",
+  "text" : "Multiple assaults, extortion.",
+  "translations" : {
+    "russian" : "Множество нападений, вымогательство."
+  },
+  "tokens" : [ {
+    "token" : "multiple",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "assault",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "extortion",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFc9eSDTAu_IiLfeIp",
+  "text" : "Contusions, multiple lacerations.",
+  "translations" : {
+    "russian" : "Контузии, множественные разрывы тканей."
+  },
+  "tokens" : [ {
+    "token" : "contuse",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "multiple",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "lacerate",
+    "startOffset" : 21,
+    "endOffset" : 32,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -89,6 +214,300 @@
     "token" : "footprint",
     "startOffset" : 26,
     "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETMQlDTAu_IiLenm_",
+  "text" : "Pericardial effusion, multiple organ failure.",
+  "translations" : {
+    "russian" : "Выпот в перикард, полиорганная недостаточность."
+  },
+  "tokens" : [ {
+    "token" : "pericardial",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "effusion",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "effuse",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "multiple",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 2
+  }, {
+    "token" : "organ",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 3
+  }, {
+    "token" : "failure",
+    "startOffset" : 37,
+    "endOffset" : 44,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfrE1DTAu_IiLewqa",
+  "text" : "So, dial multiple gates simultaneously?",
+  "translations" : {
+    "russian" : "Значит, набирать множество врат одновременно?"
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "dial",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "multiple",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "gates",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "gate",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "simultaneous",
+    "startOffset" : 24,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsFjNDTAu_IiLeNpi",
+  "text" : "Your diagnostics show multiple blockages.",
+  "translations" : {
+    "russian" : "Обследование выявило множественные закупорки."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "diagnostics",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "diagnostic",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "show",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "multiple",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "blockage",
+    "startOffset" : 31,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHYBADTAu_IiLeezy",
+  "text" : "There are multiple suitors bidding.",
+  "translations" : {
+    "russian" : "У нее есть множество поклонников."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "multiple",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "suitor",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "bidding",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETMFHDTAu_IiLenm3",
+  "text" : "Pericardial effusion, multiple organ failure.",
+  "translations" : {
+    "russian" : "Выпот в перикард, полиорганная недостаточность."
+  },
+  "tokens" : [ {
+    "token" : "pericardial",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "effusion",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "effuse",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "multiple",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 2
+  }, {
+    "token" : "organ",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 3
+  }, {
+    "token" : "failure",
+    "startOffset" : 37,
+    "endOffset" : 44,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsD9VDTAu_IiLeNoh",
+  "text" : "Your diagnostics show multiple blockages.",
+  "translations" : {
+    "russian" : "Обследование выявило множественные закупорки."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "diagnostics",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "diagnostic",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "show",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "multiple",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "blockage",
+    "startOffset" : 31,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1uo0DTAu_IiLfA2Q",
+  "text" : "She was stabbed, multiple times.",
+  "translations" : {
+    "russian" : "Её ранили, несколько раз."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "stabbed",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "multiple",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "time",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDh82IDTAu_IiLeIGX",
+  "text" : "Miles, heavily armed, multiple knives.",
+  "translations" : {
+    "russian" : "Майлз, тяжело вооруженный, много ножей."
+  },
+  "tokens" : [ {
+    "token" : "mile",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "heavily",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "armed",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "arm",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "multiple",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "knives",
+    "startOffset" : 31,
+    "endOffset" : 37,
     "position" : 4
   } ],
   "contentScore" : null

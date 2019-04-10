@@ -32,6 +32,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEw2YhDTAu_IiLe9YN",
+  "text" : "Another Hebrew plot exposed!",
+  "translations" : {
+    "russian" : "Очередной еврейский заговор!"
+  },
+  "tokens" : [ {
+    "token" : "another",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "hebrew",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "plot",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "exposed",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "expos",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiMW9NEXFMlzHK--H",
   "text" : "Yo plot against me?",
   "translations" : {
@@ -56,6 +89,34 @@
     "token" : "me",
     "startOffset" : 16,
     "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWft1DTAu_IiLfY_N",
+  "text" : "You're selling cemetery plots.",
+  "translations" : {
+    "russian" : "Вы продаете место на кладбище."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "sell",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "cemetery",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "plot",
+    "startOffset" : 24,
+    "endOffset" : 29,
     "position" : 3
   } ],
   "contentScore" : null
@@ -314,6 +375,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEwiIXDTAu_IiLe9Ik",
+  "text" : "Proof of your devilish plot!",
+  "translations" : {
+    "russian" : "У меня есть доказательство твоего дьявольского плана!"
+  },
+  "tokens" : [ {
+    "token" : "proof",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "devilish",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "plot",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgho5JNEXFMlzHK-g6",
   "text" : "Oh, bravo, nice plot twist.",
   "translations" : {
@@ -380,155 +479,36 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgiMdyNEXFMlzHK--M",
-  "text" : "I can manipulate characters and plots.",
+  "id" : "AWoFJQdIDTAu_IiLfPDt",
+  "text" : "Factions and plots and uncertainty.",
   "translations" : {
-    "russian" : "Я умею манипулировать персонажами и сюжетами."
+    "russian" : "Фракции, заговоры и неопределенность."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "faction",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 8,
     "position" : 0
-  }, {
-    "token" : "can",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "manipulate",
-    "startOffset" : 6,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "character",
-    "startOffset" : 17,
-    "endOffset" : 27,
-    "position" : 3
   }, {
     "token" : "and",
-    "startOffset" : 28,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "plot",
-    "startOffset" : 32,
-    "endOffset" : 37,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiL5KNEXFMlzHK-9w",
-  "text" : "But perhaps this is the plot.",
-  "translations" : {
-    "russian" : "Но, возможно, это и есть заговор."
-  },
-  "tokens" : [ {
-    "token" : "but",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "perhaps",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "plot",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiOK9NEXFMlzHK-_f",
-  "text" : "I think our plot just thickened.",
-  "translations" : {
-    "russian" : "Мне кажется, интрига только что возросла."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "think",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "plot",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "just",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "thicken",
-    "startOffset" : 22,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiM4KNEXFMlzHK--i",
-  "text" : "Not just the plot, but details...",
-  "translations" : {
-    "russian" : "Не только сюжет, а подробнее..."
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "just",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
     "startOffset" : 9,
     "endOffset" : 12,
-    "position" : 2
+    "position" : 1
   }, {
     "token" : "plot",
     "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
+    "endOffset" : 18,
+    "position" : 2
   }, {
-    "token" : "but",
+    "token" : "and",
     "startOffset" : 19,
     "endOffset" : 22,
-    "position" : 4
+    "position" : 3
   }, {
-    "token" : "tail",
+    "token" : "certainty",
     "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 5
+    "endOffset" : 34,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWbgzG4DNEXFMlzHLVx8",
+  "text" : "Now dine with them.",
+  "translations" : {
+    "russian" : "Теперь, поужинай с ними."
+  },
+  "tokens" : [ {
+    "token" : "now",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dine",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "them",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgzHQsNEXFMlzHLVyu",
+  "text" : "Let's dine together tomorrow.",
+  "translations" : {
+    "russian" : "Давай пообедаем вместе."
+  },
+  "tokens" : [ {
+    "token" : "let",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "dine",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "together",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "tomorrow",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzGaBNEXFMlzHLVw7",
   "text" : "Come dine with us.",
   "translations" : {
@@ -93,62 +149,6 @@
     "startOffset" : 12,
     "endOffset" : 16,
     "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzG4DNEXFMlzHLVx8",
-  "text" : "Now dine with them.",
-  "translations" : {
-    "russian" : "Теперь, поужинай с ними."
-  },
-  "tokens" : [ {
-    "token" : "now",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "dine",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "with",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "them",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzHQsNEXFMlzHLVyu",
-  "text" : "Let's dine together tomorrow.",
-  "translations" : {
-    "russian" : "Давай пообедаем вместе."
-  },
-  "tokens" : [ {
-    "token" : "let",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "dine",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "together",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "tomorrow",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {

@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoE_95-DTAu_IiLfH_u",
+  "text" : "Tangled, and Wreck-It Ralph.",
+  "translations" : {
+    "russian" : "Рапунцель и Ральф разрушитель."
+  },
+  "tokens" : [ {
+    "token" : "tangle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "wreck",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "ralph",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgd_6nNEXFMlzHK7Ws",
   "text" : "Good luck diving for wrecks.",
   "translations" : {
@@ -29,6 +62,82 @@
     "startOffset" : 21,
     "endOffset" : 27,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnN5nDTAu_IiLe2fS",
+  "text" : "LOOK DOCTOR, I WRECKED YOUR JEEP.",
+  "translations" : {
+    "russian" : "Доктор, я разбил джип."
+  },
+  "tokens" : [ {
+    "token" : "look",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "doctor",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "i",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "wreck",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "your",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "jeep",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExm7CDTAu_IiLe98b",
+  "text" : "You're a wreck, a pitiful creature!",
+  "translations" : {
+    "russian" : "Ты просто развалина, жалкое существо!"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "wreck",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "pitiful",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "creature",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

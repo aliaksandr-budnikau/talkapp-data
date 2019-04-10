@@ -60,6 +60,77 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDc1-dDTAu_IiLeFJs",
+  "text" : "Grocery store parking lot.",
+  "translations" : {
+    "russian" : "На стоянке у супермаркета."
+  },
+  "tokens" : [ {
+    "token" : "grocery",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "store",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "parking",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "park",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "lot",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD0qCkDTAu_IiLeShm",
+  "text" : "And the parking decal?",
+  "translations" : {
+    "russian" : "А парковочная наклейка?"
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "parking",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "park",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "decal",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "cal",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgn0NFNEXFMlzHLGE6",
   "text" : "VIP parking. Uh-huh.",
   "translations" : {
@@ -122,6 +193,39 @@
     "token" : "ticket",
     "startOffset" : 14,
     "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDYsZDTAu_IiLebzD",
+  "text" : "John Hamilton faculty parking.",
+  "translations" : {
+    "russian" : "Парковка факультета Джона Гамильтона."
+  },
+  "tokens" : [ {
+    "token" : "john",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hamilton",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "faculty",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "parking",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "park",
+    "startOffset" : 22,
+    "endOffset" : 29,
     "position" : 3
   } ],
   "contentScore" : null
@@ -316,194 +420,85 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyaGJNEXFMlzHLU1M",
-  "text" : "Wonderful place to park.",
+  "id" : "AWoFXgCCDTAu_IiLfZuO",
+  "text" : "Sunset Park, Park Slope.",
   "translations" : {
-    "russian" : "Прекрасное место для парковки."
+    "russian" : "Парк Сансет и парк Слоуп."
   },
   "tokens" : [ {
-    "token" : "wonderful",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "place",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "park",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeZVkNEXFMlzHK7tB",
-  "text" : "I'm parked in back.",
-  "translations" : {
-    "russian" : "Жду тебя на парковке."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "park",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "back",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgya1jNEXFMlzHLU15",
-  "text" : "He always parks there.",
-  "translations" : {
-    "russian" : "Он всегда оставляет его вот здесь."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "alway",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "park",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "there",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyaqRNEXFMlzHLU1t",
-  "text" : "We were parked here.",
-  "translations" : {
-    "russian" : "Мы ее здесь оставили."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "were",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "park",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "here",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyaaqNEXFMlzHLU1f",
-  "text" : "I'm parked in back.",
-  "translations" : {
-    "russian" : "Жду тебя на парковке."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "park",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "back",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeWB2NEXFMlzHK7qB",
-  "text" : "Mine's parked outside.",
-  "translations" : {
-    "russian" : "Моя на внешней стоянке."
-  },
-  "tokens" : [ {
-    "token" : "mine's",
+    "token" : "sunset",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
     "token" : "park",
     "startOffset" : 7,
-    "endOffset" : 13,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "outside",
-    "startOffset" : 14,
-    "endOffset" : 21,
+    "token" : "park",
+    "startOffset" : 13,
+    "endOffset" : 17,
     "position" : 2
+  }, {
+    "token" : "slope",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgeZAVNEXFMlzHK7su",
-  "text" : "Wonderful place to park.",
+  "id" : "AWoD0CetDTAu_IiLeSNi",
+  "text" : "LaFayette Park.",
   "translations" : {
-    "russian" : "Прекрасное место для парковки."
+    "russian" : "Booth!Бут!"
   },
   "tokens" : [ {
-    "token" : "wonderful",
+    "token" : "lafayette",
     "startOffset" : 0,
     "endOffset" : 9,
     "position" : 0
   }, {
-    "token" : "place",
+    "token" : "park",
     "startOffset" : 10,
-    "endOffset" : 15,
+    "endOffset" : 14,
     "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3FIaDTAu_IiLfBwQ",
+  "text" : "Oxbow Park.",
+  "translations" : {
+    "russian" : "В парке Оксбоу."
+  },
+  "tokens" : [ {
+    "token" : "oxbow",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
     "token" : "park",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZvcBDTAu_IiLeDVF",
+  "text" : "Park Chancery?",
+  "translations" : {
+    "russian" : "В Чансери-Парк ?"
+  },
+  "tokens" : [ {
+    "token" : "park",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "chancery",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

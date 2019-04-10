@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEfjqADTAu_IiLewke",
+  "text" : "Gravity environment equal.",
+  "translations" : {
+    "russian" : "Гравитация выровнялась."
+  },
+  "tokens" : [ {
+    "token" : "gravity",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "environment",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "environ",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "equal",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkrpuNEXFMlzHLBSV",
   "text" : "Oh, cultural environment...",
   "translations" : {
@@ -193,6 +221,44 @@
     "token" : "environ",
     "startOffset" : 18,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESYjJDTAu_IiLem_s",
+  "text" : "I need environment, some occasion.",
+  "translations" : {
+    "russian" : "Мне нужна среда, события."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "need",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "environment",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "environ",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "some",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "occasion",
+    "startOffset" : 25,
+    "endOffset" : 33,
     "position" : 4
   } ],
   "contentScore" : null

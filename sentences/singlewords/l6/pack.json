@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoDcBQlDTAu_IiLeEti",
+  "text" : "Mud packs.",
+  "translations" : {
+    "russian" : "Грязевые повязки."
+  },
+  "tokens" : [ {
+    "token" : "mud",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "packs",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "pack",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhgxsDTAu_IiLfhQJ",
+  "text" : "Dye packs.",
+  "translations" : {
+    "russian" : "Пакеты с краской."
+  },
+  "tokens" : [ {
+    "token" : "dye",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "packs",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "pack",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglwS6NEXFMlzHLC6u",
   "text" : "I packed my swimsuit.",
   "translations" : {
@@ -177,6 +223,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD_hCkDTAu_IiLeYyb",
+  "text" : "Pack a wallop.",
+  "translations" : {
+    "russian" : "Показывать реальную силу."
+  },
+  "tokens" : [ {
+    "token" : "pack",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "wallop",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgluq0NEXFMlzHLC5v",
   "text" : "Pack your swimsuit.",
   "translations" : {
@@ -284,6 +353,52 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDcdHODTAu_IiLeE8T",
+  "text" : "Pack of whiskers?",
+  "translations" : {
+    "russian" : "Куча усов?"
+  },
+  "tokens" : [ {
+    "token" : "pack",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "whisk",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDhCYDDTAu_IiLeHkC",
+  "text" : "My getaway pack.",
+  "translations" : {
+    "russian" : "Моя сумка для побега."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "getaway",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pack",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnt63NEXFMlzHLF6w",
   "text" : "You're still packing.",
   "translations" : {
@@ -309,151 +424,6 @@
     "startOffset" : 13,
     "endOffset" : 20,
     "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnt_PNEXFMlzHLF60",
-  "text" : "Pack your stuff, Roscoe.",
-  "translations" : {
-    "russian" : "Собирай вещи, Роско."
-  },
-  "tokens" : [ {
-    "token" : "pack",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "stuff",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "roscoe",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnt3QNEXFMlzHLF6q",
-  "text" : "I packed for you.",
-  "translations" : {
-    "russian" : "Я собрал твои вещи."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "packed",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "pack",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnuh-NEXFMlzHLF7t",
-  "text" : "Pack a suitcase, Will.",
-  "translations" : {
-    "russian" : "Пакуй чемоданы, Уилл."
-  },
-  "tokens" : [ {
-    "token" : "pack",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "suitcase",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "will",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnvI0NEXFMlzHLF8t",
-  "text" : "Can't find that pack?",
-  "translations" : {
-    "russian" : "Не можешь найти пакет?"
-  },
-  "tokens" : [ {
-    "token" : "can't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "find",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "pack",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnvjuNEXFMlzHLF9Y",
-  "text" : "The Pack needs you.",
-  "translations" : {
-    "russian" : "Группа нуждается в тебе."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "pack",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "need",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

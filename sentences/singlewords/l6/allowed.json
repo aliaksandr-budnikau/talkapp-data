@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoEBKq0DTAu_IiLeaD_",
+  "text" : "No visitors allowed!",
+  "translations" : {
+    "russian" : "Посетители не допускаются!"
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "visitor",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "allowed",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "allow",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBM4ODTAu_IiLeaFn",
+  "text" : "No visitors allowed!",
+  "translations" : {
+    "russian" : "Посещения запрещены!"
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "visitor",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "allowed",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "allow",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeW9LNEXFMlzHK7q3",
   "text" : "We weren't allowed outside attachments.",
   "translations" : {
@@ -37,117 +93,383 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoK-XNEXFMlzHLGf9",
-  "text" : "Allow me to lead you in.",
+  "id" : "AWoEBP3MDTAu_IiLeaH_",
+  "text" : "Hey, is she allowed visitors?",
   "translations" : {
-    "russian" : "Позволь мне проводить тебя."
+    "russian" : "Здравствуйте, к ней пускают гостей?"
   },
   "tokens" : [ {
-    "token" : "allow",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "lead",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "you",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "in",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguRNxNEXFMlzHLOw3",
-  "text" : "Garcia, did the compound allow outsiders?",
-  "translations" : {
-    "russian" : "Гарсия, на территорию допускались посторонние?"
-  },
-  "tokens" : [ {
-    "token" : "garcia",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "did",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "compound",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "allow",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "outside",
-    "startOffset" : 31,
-    "endOffset" : 40,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgs2-dNEXFMlzHLM_z",
-  "text" : "But my conscience won't allow me.",
-  "translations" : {
-    "russian" : "Но моя совесть не позволяет мне это сделать."
-  },
-  "tokens" : [ {
-    "token" : "but",
+    "token" : "hey",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "my",
-    "startOffset" : 4,
-    "endOffset" : 6,
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "science",
-    "startOffset" : 7,
-    "endOffset" : 17,
+    "token" : "she",
+    "startOffset" : 8,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "won't",
-    "startOffset" : 18,
-    "endOffset" : 23,
+    "token" : "allowed",
+    "startOffset" : 12,
+    "endOffset" : 19,
     "position" : 3
   }, {
     "token" : "allow",
-    "startOffset" : 24,
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "visitor",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFcn2DTAu_IiLedZs",
+  "text" : "He isn't allowed to fold.",
+  "translations" : {
+    "russian" : "Короче, он постепенно продвигается в игре. Как бы, он должен набить руку. Ему нельзя пасовать."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "isn't",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "allowed",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "allow",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "fold",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQ9hrDTAu_IiLd-Lt",
+  "text" : "No battery-powered aides allowed.",
+  "translations" : {
+    "russian" : "Никаких работающих от батареек помощников."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "battery",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "power",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "aide",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "allowed",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "allow",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBPITDTAu_IiLeaHY",
+  "text" : "There are no visitors allowed.",
+  "translations" : {
+    "russian" : "Посетителям вход ещё воспрещён."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "visitor",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "allowed",
+    "startOffset" : 22,
     "endOffset" : 29,
     "position" : 4
   }, {
-    "token" : "me",
-    "startOffset" : 30,
+    "token" : "allow",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqqxeDTAu_IiLe5ER",
+  "text" : "Contractually, they weren't allowed to.",
+  "translations" : {
+    "russian" : "По контракту им бы не было этого позволено."
+  },
+  "tokens" : [ {
+    "token" : "contractual",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "they",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "weren't",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "allowed",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "allow",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 36,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBM6LDTAu_IiLeaFp",
+  "text" : "No visitors allowed. Go back.",
+  "translations" : {
+    "russian" : "Никакие посещения не разрешены."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "visitor",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "allowed",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "allow",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "go",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "back",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-H09DTAu_IiLeXvz",
+  "text" : "No spiders and Visigoths allowed.",
+  "translations" : {
+    "russian" : "Вход паукам и вестготам запрещён."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "spider",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "visigoths",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "allowed",
+    "startOffset" : 25,
     "endOffset" : 32,
-    "position" : 5
+    "position" : 4
+  }, {
+    "token" : "allow",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzZWyDTAu_IiLeR3t",
+  "text" : "I'm allowed to be blunt.",
+  "translations" : {
+    "russian" : "И теперь могу сказать прямо."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "allowed",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "allow",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "blunt",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERRaRDTAu_IiLemLB",
+  "text" : "Not allowed in the paddock.",
+  "translations" : {
+    "russian" : "У загона нельзя."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "allowed",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "allow",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "paddock",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgqeBDTAu_IiLfguc",
+  "text" : "He isn't allowed to fold.",
+  "translations" : {
+    "russian" : "Короче, он постепенно продвигается в игре. Как бы, он должен набить руку. Ему нельзя пасовать."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "isn't",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "allowed",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "allow",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "fold",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

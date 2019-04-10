@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDseuXDTAu_IiLeN46",
+  "text" : "Both nice-looking, blonde.",
+  "translations" : {
+    "russian" : "Оба симпатичные, белокурые."
+  },
+  "tokens" : [ {
+    "token" : "both",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "nice",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "look",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "blonde",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnVmFNEXFMlzHLFR0",
   "text" : "Ooh, some nice-looking spread.",
   "translations" : {
@@ -66,6 +94,44 @@
     "token" : "there",
     "startOffset" : 26,
     "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhdNoDTAu_IiLfhOD",
+  "text" : "Look at you, all nicely starched.",
+  "translations" : {
+    "russian" : "Посмотри на себя, весь такой накрахмаленный."
+  },
+  "tokens" : [ {
+    "token" : "look",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "at",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "all",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "nice",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "starch",
+    "startOffset" : 24,
+    "endOffset" : 32,
     "position" : 5
   } ],
   "contentScore" : null

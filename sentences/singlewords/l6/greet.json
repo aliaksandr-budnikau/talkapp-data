@@ -1,4 +1,78 @@
 [ {
+  "id" : "AWoDOUFmDTAu_IiLd8iZ",
+  "text" : "Greetings, sir abbot!",
+  "translations" : {
+    "russian" : "Приветствую вас, настоятель!"
+  },
+  "tokens" : [ {
+    "token" : "greet",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "sir",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "abbot",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYhbUDTAu_IiLerlO",
+  "text" : "Greetings, pals and gals.",
+  "translations" : {
+    "russian" : "Здорова пацаны и девчонки."
+  },
+  "tokens" : [ {
+    "token" : "greet",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "pal",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "gal",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0D3VDTAu_IiLe_s4",
+  "text" : "Greetings, desert dwellers.",
+  "translations" : {
+    "russian" : "Приветствую вас, жители пустыни."
+  },
+  "tokens" : [ {
+    "token" : "greet",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "desert",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "dweller",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcnxzNEXFMlzHK6Lj",
   "text" : "My greetings, ladies!",
   "translations" : {
@@ -17,6 +91,103 @@
   }, {
     "token" : "lady",
     "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0HDODTAu_IiLe_vD",
+  "text" : "Greetings, desert dwellers.",
+  "translations" : {
+    "russian" : "Приветствую вас, жители пустыни."
+  },
+  "tokens" : [ {
+    "token" : "greet",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "desert",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "dweller",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1ONlDTAu_IiLfAf8",
+  "text" : "ALL MURMUR GREETINGS.",
+  "translations" : {
+    "russian" : "ВСЕ БОРМОЧУТ ПРИВЕТСТВИЯ."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "murmur",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "greet",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_G4iDTAu_IiLeYe2",
+  "text" : "Rich Greetings, sports fans.",
+  "translations" : {
+    "russian" : "Приветствую, любители спорта."
+  },
+  "tokens" : [ {
+    "token" : "rich",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "greet",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "sport",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "fan",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvMviDTAu_IiLePiC",
+  "text" : "ALL MURMUR GREETINGS.",
+  "translations" : {
+    "russian" : "ВСЕ БОРМОЧУТ ПРИВЕТСТВИЯ."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "murmur",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "greet",
+    "startOffset" : 11,
     "endOffset" : 20,
     "position" : 2
   } ],
@@ -47,6 +218,128 @@
     "startOffset" : 18,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJGbtDTAu_IiLfO7i",
+  "text" : "Greetings, my fickle friend.",
+  "translations" : {
+    "russian" : "Поздравляю, мой ненадежный друг."
+  },
+  "tokens" : [ {
+    "token" : "greet",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "fickle",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "friend",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbZfzDTAu_IiLfc8i",
+  "text" : "Greetings, noble metal steed.",
+  "translations" : {
+    "russian" : "Приветствую тебя, благородный железный скакун."
+  },
+  "tokens" : [ {
+    "token" : "greet",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "noble",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "metal",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "steed",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDs_UIDTAu_IiLeOLx",
+  "text" : "How cheerfully we greet you.",
+  "translations" : {
+    "russian" : "Так весело встречаем вас."
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "cheerful",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "we",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "greet",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "you",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwqb5DTAu_IiLeQaE",
+  "text" : "They send you fraternal greetings!",
+  "translations" : {
+    "russian" : "Они шлют вам пламенный братский привет!"
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "send",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "fraternal",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "greet",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -121,41 +414,41 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcn8TNEXFMlzHK6Ls",
-  "text" : "Can we skip the greetings, please?",
+  "id" : "AWoDq7f_DTAu_IiLeM9O",
+  "text" : "The benediction and opening greetings.",
   "translations" : {
-    "russian" : "Мы можем пропустить приветствия, пожалуйста?"
+    "russian" : "Произнести слова благословения и вступительную речь."
   },
   "tokens" : [ {
-    "token" : "can",
+    "token" : "the",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "we",
+    "token" : "benediction",
     "startOffset" : 4,
-    "endOffset" : 6,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "skip",
-    "startOffset" : 7,
-    "endOffset" : 11,
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
+    "token" : "opening",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "open",
+    "startOffset" : 20,
+    "endOffset" : 27,
     "position" : 3
   }, {
     "token" : "greet",
-    "startOffset" : 16,
-    "endOffset" : 25,
+    "startOffset" : 28,
+    "endOffset" : 37,
     "position" : 4
-  }, {
-    "token" : "please",
-    "startOffset" : 27,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

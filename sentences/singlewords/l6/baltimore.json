@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoDlg7zDTAu_IiLeKEp",
+  "text" : "Born Provident Hospital, West Baltimore...",
+  "translations" : {
+    "russian" : "Родился в больнице Провидент, Западный Балтимор..."
+  },
+  "tokens" : [ {
+    "token" : "born",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "provident",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "hospital",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "west",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "w",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "baltimore",
+    "startOffset" : 30,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrFjENEXFMlzHLKfN",
   "text" : "That was after the Baltimore series.",
   "translations" : {
@@ -33,6 +71,44 @@
     "token" : "series",
     "startOffset" : 29,
     "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmaFgDTAu_IiLe14E",
+  "text" : "On our initial descent into, Baltimore...",
+  "translations" : {
+    "russian" : "Заходя на снижение в Балтиморе..."
+  },
+  "tokens" : [ {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "our",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "initial",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "descent",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "into",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "baltimore",
+    "startOffset" : 29,
+    "endOffset" : 38,
     "position" : 5
   } ],
   "contentScore" : null

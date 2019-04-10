@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoEi-k9DTAu_IiLezTk",
+  "text" : "Fly, little gosling, fly!",
+  "translations" : {
+    "russian" : "Давай, гусенок, лети!"
+  },
+  "tokens" : [ {
+    "token" : "fly",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "little",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "gosling",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "fly",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcc8aDTAu_IiLeuNV",
+  "text" : "Fly, little gosling, fly!",
+  "translations" : {
+    "russian" : "Давай, гусенок, лети!"
+  },
+  "tokens" : [ {
+    "token" : "fly",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "little",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "gosling",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "fly",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglDC5NEXFMlzHLB1t",
   "text" : "There's dust flying everywhere.",
   "translations" : {
@@ -23,6 +79,34 @@
     "token" : "everywhere",
     "startOffset" : 20,
     "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgw-X2NEXFMlzHLSuN",
+  "text" : "Or fly, or sail...",
+  "translations" : {
+    "russian" : "Или слетали, или сплавали..."
+  },
+  "tokens" : [ {
+    "token" : "or",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "fly",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "or",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "sail",
+    "startOffset" : 11,
+    "endOffset" : 15,
     "position" : 3
   } ],
   "contentScore" : null
@@ -79,34 +163,6 @@
     "token" : "fly",
     "startOffset" : 17,
     "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw-X2NEXFMlzHLSuN",
-  "text" : "Or fly, or sail...",
-  "translations" : {
-    "russian" : "Или слетали, или сплавали..."
-  },
-  "tokens" : [ {
-    "token" : "or",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "fly",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "or",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "sail",
-    "startOffset" : 11,
-    "endOffset" : 15,
     "position" : 3
   } ],
   "contentScore" : null
@@ -186,6 +242,34 @@
     "token" : "you",
     "startOffset" : 24,
     "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfRueDTAu_IiLffzu",
+  "text" : "Your kite's flying well.",
+  "translations" : {
+    "russian" : "Твой змей классно летает."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "kite",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fly",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "well",
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
@@ -320,104 +404,25 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgw-xONEXFMlzHLSup",
-  "text" : "Fly free, turkey!",
+  "id" : "AWoEdJmbDTAu_IiLeusp",
+  "text" : "The Flying Dutchman.",
   "translations" : {
-    "russian" : "Лети к свободе, индюшка!"
+    "russian" : "Летучий голландец!"
   },
   "tokens" : [ {
-    "token" : "fly",
+    "token" : "the",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "free",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "turkey",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxBbJNEXFMlzHLSxS",
-  "text" : "All right, pop fly.",
-  "translations" : {
-    "russian" : "Так, высокий мяч."
-  },
-  "tokens" : [ {
-    "token" : "all",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "right",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "pop",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
     "token" : "fly",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw_IbNEXFMlzHLSvB",
-  "text" : "These dead flies everywhere?",
-  "translations" : {
-    "russian" : "Повсюду эти мёртвые мухи."
-  },
-  "tokens" : [ {
-    "token" : "these",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "dead",
-    "startOffset" : 6,
+    "startOffset" : 4,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "fly",
+    "token" : "dutchman",
     "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "everywhere",
-    "startOffset" : 17,
-    "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw-5SNEXFMlzHLSuw",
-  "text" : "Insects, flies, spiders.",
-  "translations" : {
-    "russian" : "Насекомых, мух, пауков."
-  },
-  "tokens" : [ {
-    "token" : "sect",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "fly",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "spider",
-    "startOffset" : 16,
-    "endOffset" : 23,
+    "endOffset" : 19,
     "position" : 2
   } ],
   "contentScore" : null

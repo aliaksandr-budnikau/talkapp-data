@@ -1,138 +1,469 @@
 [ {
-  "id" : "AWbgeqRkNEXFMlzHK78b",
-  "text" : "Grow the prettiest sunflowers...",
+  "id" : "AWoEIzrCDTAu_IiLefzY",
+  "text" : "Growth.",
   "translations" : {
-    "russian" : "И вырастим самые красивые подсолнухи..."
+    "russian" : "Рост."
   },
   "tokens" : [ {
+    "token" : "growth",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
     "token" : "grow",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI01CDTAu_IiLef0Q",
+  "text" : "Growth spurt.",
+  "translations" : {
+    "russian" : "Быстро растёт."
+  },
+  "tokens" : [ {
+    "token" : "growth",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "grow",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "spurt",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI2clDTAu_IiLef1g",
+  "text" : "Growth spurt.",
+  "translations" : {
+    "russian" : "Увеличении в объёмах."
+  },
+  "tokens" : [ {
+    "token" : "growth",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "grow",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "spurt",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI0sPDTAu_IiLef0K",
+  "text" : "Growth, everywhere!",
+  "translations" : {
+    "russian" : "Растет. Везде."
+  },
+  "tokens" : [ {
+    "token" : "growth",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "grow",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "everywhere",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI02gDTAu_IiLef0R",
+  "text" : "Growth spurt.",
+  "translations" : {
+    "russian" : "Быстро растёт."
+  },
+  "tokens" : [ {
+    "token" : "growth",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "grow",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "spurt",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI0x2DTAu_IiLef0O",
+  "text" : "The growth is malignant.",
+  "translations" : {
+    "russian" : "Она растет."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "growth",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "grow",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "malignant",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI2F3DTAu_IiLef1R",
+  "text" : "Stunts your growth.",
+  "translations" : {
+    "russian" : "А то не вырастешь."
+  },
+  "tokens" : [ {
+    "token" : "stunt",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "growth",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "grow",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI1ARDTAu_IiLef0Y",
+  "text" : "This is real growth.",
+  "translations" : {
+    "russian" : "Ты растешь."
+  },
+  "tokens" : [ {
+    "token" : "this",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "the",
+    "token" : "is",
     "startOffset" : 5,
-    "endOffset" : 8,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "pretty",
-    "startOffset" : 9,
-    "endOffset" : 18,
+    "token" : "real",
+    "startOffset" : 8,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "sunflower",
-    "startOffset" : 19,
+    "token" : "growth",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "grow",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIzQqDTAu_IiLefzI",
+  "text" : "About potato growth techniques.",
+  "translations" : {
+    "russian" : "О методах роста картофеля."
+  },
+  "tokens" : [ {
+    "token" : "about",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "potato",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "growth",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "grow",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "technique",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI0VxDTAu_IiLefz2",
+  "text" : "Less advancement, less growth.",
+  "translations" : {
+    "russian" : "Нет успеха, нет развития."
+  },
+  "tokens" : [ {
+    "token" : "less",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "advancement",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "advance",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "less",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "growth",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "grow",
+    "startOffset" : 23,
     "endOffset" : 29,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgd9aYNEXFMlzHK7Ub",
-  "text" : "Where do the berries grow?",
+  "id" : "AWoEI2yzDTAu_IiLef1v",
+  "text" : "No assistance, no growth.",
   "translations" : {
-    "russian" : "Где эти ягоды растут?"
+    "russian" : "Без помощи нет прогресса."
   },
   "tokens" : [ {
-    "token" : "where",
+    "token" : "no",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "do",
-    "startOffset" : 6,
-    "endOffset" : 8,
+    "token" : "assistance",
+    "startOffset" : 3,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
+    "token" : "no",
+    "startOffset" : 15,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "berry",
-    "startOffset" : 13,
-    "endOffset" : 20,
+    "token" : "growth",
+    "startOffset" : 18,
+    "endOffset" : 24,
     "position" : 3
   }, {
     "token" : "grow",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguwRTNEXFMlzHLPuM",
-  "text" : "They grow a little more tolerant.",
+  "id" : "AWoEI2t7DTAu_IiLef1r",
+  "text" : "This is growth, Jack.",
   "translations" : {
-    "russian" : "Они становятся более терпимыми."
+    "russian" : "Это прогресс, Джек."
   },
   "tokens" : [ {
-    "token" : "they",
+    "token" : "this",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "grow",
+    "token" : "is",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 10,
-    "endOffset" : 11,
+    "token" : "growth",
+    "startOffset" : 8,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "little",
-    "startOffset" : 12,
-    "endOffset" : 18,
+    "token" : "grow",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "jack",
+    "startOffset" : 16,
+    "endOffset" : 20,
     "position" : 3
-  }, {
-    "token" : "more",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "tolerant",
-    "startOffset" : 24,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmDwLNEXFMlzHLDO-",
-  "text" : "You grow up with june bugs?",
+  "id" : "AWoEI0VDDTAu_IiLefz1",
+  "text" : "Americans For Growth.",
   "translations" : {
-    "russian" : "Ты не видела хрущей? Нет."
+    "russian" : "Американцы во имя развития."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "american",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "growth",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "grow",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI1UyDTAu_IiLef0m",
+  "text" : "The growth is shrinking.",
+  "translations" : {
+    "russian" : "Его опухоль уменьшается."
+  },
+  "tokens" : [ {
+    "token" : "the",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "grow",
+    "token" : "growth",
     "startOffset" : 4,
-    "endOffset" : 8,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "up",
-    "startOffset" : 9,
-    "endOffset" : 11,
+    "token" : "grow",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "with",
-    "startOffset" : 12,
-    "endOffset" : 16,
+    "token" : "shrinking",
+    "startOffset" : 14,
+    "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "june",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
+    "token" : "shrink",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI0nmDTAu_IiLef0G",
+  "text" : "Change is growth, man.",
+  "translations" : {
+    "russian" : "Меняться значит расти, парень."
+  },
+  "tokens" : [ {
+    "token" : "change",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
   }, {
-    "token" : "bug",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 5
+    "token" : "is",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "growth",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "grow",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "man",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI074DTAu_IiLef0V",
+  "text" : "There's hair growth.",
+  "translations" : {
+    "russian" : "Волосы растут."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "hair",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "growth",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "grow",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

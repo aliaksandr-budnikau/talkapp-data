@@ -1,4 +1,68 @@
 [ {
+  "id" : "AWoDoe-cDTAu_IiLeLpV",
+  "text" : "My.",
+  "translations" : {
+    "russian" : "Mask... is permanentМоя... маска... постоянна."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmdeXDTAu_IiLe16k",
+  "text" : "My orb, my...",
+  "translations" : {
+    "russian" : "Мой шар, мой..."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "orb",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7hi5DTAu_IiLfEoo",
+  "text" : "My nursery, my crib.",
+  "translations" : {
+    "russian" : "Моя детская, моя кроватка."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "nursery",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "crib",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvZmCNEXFMlzHLQ1Y",
   "text" : "My team, my call.",
   "translations" : {
@@ -23,6 +87,136 @@
     "token" : "call",
     "startOffset" : 12,
     "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsYnyDTAu_IiLeN1N",
+  "text" : "My... my notebook.",
+  "translations" : {
+    "russian" : "Мою... записную книжку."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "notebook",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-dhMDTAu_IiLfGxr",
+  "text" : "My nursery, my crib.",
+  "translations" : {
+    "russian" : "Моя детская, моя кроватка."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "nursery",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "crib",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1JnUDTAu_IiLeSwb",
+  "text" : "My... my purse.",
+  "translations" : {
+    "russian" : "Моя... моя сумка."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "purse",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEd-2wDTAu_IiLevVN",
+  "text" : "My beauty, my sorrow.",
+  "translations" : {
+    "russian" : "Мое горе!"
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "beauty",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "sorrow",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEp1RUDTAu_IiLe4dX",
+  "text" : "My key, my raincoat.",
+  "translations" : {
+    "russian" : "Плащ."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "key",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "raincoat",
+    "startOffset" : 11,
+    "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null
@@ -55,30 +249,167 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsG2MNEXFMlzHLL-N",
-  "text" : "You're my benefactor in my life.",
+  "id" : "AWoD43frDTAu_IiLeUdY",
+  "text" : "My... my skin mitten.",
   "translations" : {
-    "russian" : "В моей жизни ты - мой благодетель."
+    "russian" : "Моей... кожаной рукавички."
   },
   "tokens" : [ {
-    "token" : "you're",
+    "token" : "my",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 2,
     "position" : 0
   }, {
     "token" : "my",
-    "startOffset" : 7,
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "skin",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "mitten",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "mitt",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAE-RDTAu_IiLeZOZ",
+  "text" : "My reason, my folly.",
+  "translations" : {
+    "russian" : "Мой разум, мое безумие."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "reason",
+    "startOffset" : 3,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "benefactor",
-    "startOffset" : 10,
-    "endOffset" : 20,
+    "token" : "my",
+    "startOffset" : 11,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "in",
-    "startOffset" : 21,
-    "endOffset" : 23,
+    "token" : "folly",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "fol",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEd-3-DTAu_IiLevVO",
+  "text" : "My ugliness, my sorrow.",
+  "translations" : {
+    "russian" : "Мое горе!"
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "ugliness",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "ugly",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "sorrow",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6ai0DTAu_IiLfD8s",
+  "text" : "My nymph, my muse, my lady.",
+  "translations" : {
+    "russian" : "Своей вдохновительницей, Музой, своей Дамой."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "nymph",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "muse",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "my",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "lady",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_aq5DTAu_IiLeYth",
+  "text" : "My breasts, my ovaries, my life.",
+  "translations" : {
+    "russian" : "Моих грудных желез, моих яичников, моей жизни."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "breast",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "ovary",
+    "startOffset" : 15,
+    "endOffset" : 22,
     "position" : 3
   }, {
     "token" : "my",
@@ -93,241 +424,13 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguxO9NEXFMlzHLPwA",
-  "text" : "My apologies, my aeroplane was late.",
+  "id" : "AWoE0rkvDTAu_IiLfAIY",
+  "text" : "My, my, my, whiskey and rye.",
   "translations" : {
-    "russian" : "Прошу прощения, мой аэроплан задержался."
+    "russian" : "Мой, мой, мой, виски и хлебная водка."
   },
   "tokens" : [ {
     "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "apology",
-    "startOffset" : 3,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "aeroplane",
-    "startOffset" : 17,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "was",
-    "startOffset" : 27,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "late",
-    "startOffset" : 31,
-    "endOffset" : 35,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnqnHNEXFMlzHLF1I",
-  "text" : "My dad was... was my idol.",
-  "translations" : {
-    "russian" : "Мой отец был... был моим кумиром."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "dad",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "was",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "was",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "my",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "idol",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqDRYNEXFMlzHLJHT",
-  "text" : "My own sets, my own actors.",
-  "translations" : {
-    "russian" : "Собственные декорации, собственные актеры."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "own",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "set",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "own",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "actor",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtlKLNEXFMlzHLNrj",
-  "text" : "Why my daughter, my penniless daughter.",
-  "translations" : {
-    "russian" : "Почему мою дочь, мою дочь без гроша в кармане."
-  },
-  "tokens" : [ {
-    "token" : "why",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "daughter",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "penniless",
-    "startOffset" : 20,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "daughter",
-    "startOffset" : 30,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcUuzNEXFMlzHK56g",
-  "text" : "Gather my things from my desk.",
-  "translations" : {
-    "russian" : "Собери вещи с моего стола."
-  },
-  "tokens" : [ {
-    "token" : "gather",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "th",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "from",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "my",
-    "startOffset" : 22,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "desk",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgifJaNEXFMlzHK_Nl",
-  "text" : "My own sets, my own actors.",
-  "translations" : {
-    "russian" : "Собственные декорации, собственные актеры."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "own",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "set",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "own",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "actor",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpMJhNEXFMlzHLH8X",
-  "text" : "Oh, my God, my pipe organ!",
-  "translations" : {
-    "russian" : "O, наконец-то, мой орган!"
-  },
-  "tokens" : [ {
-    "token" : "oh",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
@@ -337,223 +440,25 @@
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "god",
-    "startOffset" : 7,
+    "token" : "my",
+    "startOffset" : 8,
     "endOffset" : 10,
     "position" : 2
   }, {
-    "token" : "my",
+    "token" : "whiskey",
     "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "pipe",
-    "startOffset" : 15,
     "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "organ",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrPClNEXFMlzHLKtI",
-  "text" : "And my armchair and my garden.",
-  "translations" : {
-    "russian" : "Моему креслу и саду."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "armchair",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 2
+    "position" : 3
   }, {
     "token" : "and",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "my",
     "startOffset" : 20,
-    "endOffset" : 22,
+    "endOffset" : 23,
     "position" : 4
   }, {
-    "token" : "garden",
-    "startOffset" : 23,
-    "endOffset" : 29,
+    "token" : "rye",
+    "startOffset" : 24,
+    "endOffset" : 27,
     "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghPDQNEXFMlzHK-KZ",
-  "text" : "My dad was... was my idol.",
-  "translations" : {
-    "russian" : "Мой отец был... был моим кумиром."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "dad",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "was",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "was",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "my",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "idol",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgspI7NEXFMlzHLMtv",
-  "text" : "It was my project, my theories.",
-  "translations" : {
-    "russian" : "Это был мой проект, мои теории."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "project",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "my",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "theory",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbfsWNEXFMlzHK5Ku",
-  "text" : "I have my ways.",
-  "translations" : {
-    "russian" : "У меня свои методы."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "have",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "way",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbv2gNEXFMlzHK5ZD",
-  "text" : "That was my date.",
-  "translations" : {
-    "russian" : "Это был тот с кем у меня свидание."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "date",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgb0SeNEXFMlzHK5dE",
-  "text" : "But it's my birthday.",
-  "translations" : {
-    "russian" : "Но сегодня мой день рождения."
-  },
-  "tokens" : [ {
-    "token" : "but",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "birthday",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

@@ -1,32 +1,4 @@
 [ {
-  "id" : "AWbgwGHKNEXFMlzHLR0s",
-  "text" : "DNA, corner pocket.",
-  "translations" : {
-    "russian" : "ДНК в угловой лузе."
-  },
-  "tokens" : [ {
-    "token" : "dna",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "corner",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "corn",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "pocket",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgwGBiNEXFMlzHLR0l",
   "text" : "Eight ball, corner pocket.",
   "translations" : {
@@ -57,6 +29,34 @@
     "startOffset" : 19,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgwGHKNEXFMlzHLR0s",
+  "text" : "DNA, corner pocket.",
+  "translations" : {
+    "russian" : "ДНК в угловой лузе."
+  },
+  "tokens" : [ {
+    "token" : "dna",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "corner",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "corn",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "pocket",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -411,69 +411,59 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwF9JNEXFMlzHLR0d",
-  "text" : "He doesn't like hot pockets.",
+  "id" : "AWoESKCgDTAu_IiLem09",
+  "text" : "You picked Dent's pocket?",
   "translations" : {
-    "russian" : "Он не любит горячие кармашки."
+    "russian" : "Ты залез в карман к Денту?"
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "you",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "doesn't",
-    "startOffset" : 3,
+    "token" : "pick",
+    "startOffset" : 4,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "like",
+    "token" : "dent's",
     "startOffset" : 11,
-    "endOffset" : 15,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "hot",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
     "token" : "pocket",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 4
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwFkENEXFMlzHLRz0",
-  "text" : "That's my grandfather's pocket watch.",
+  "id" : "AWoD6dsBDTAu_IiLeVLV",
+  "text" : "You picked Dent's pocket?",
   "translations" : {
-    "russian" : "Это карманные часы моего деда."
+    "russian" : "Ты залез в карман к Денту?"
   },
   "tokens" : [ {
-    "token" : "that",
+    "token" : "you",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
+    "token" : "pick",
+    "startOffset" : 4,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "grandfather",
-    "startOffset" : 10,
-    "endOffset" : 23,
+    "token" : "dent's",
+    "startOffset" : 11,
+    "endOffset" : 17,
     "position" : 2
   }, {
     "token" : "pocket",
-    "startOffset" : 24,
-    "endOffset" : 30,
+    "startOffset" : 18,
+    "endOffset" : 24,
     "position" : 3
-  }, {
-    "token" : "watch",
-    "startOffset" : 31,
-    "endOffset" : 36,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

@@ -210,6 +210,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEk5qeDTAu_IiLe0wq",
+  "text" : "Virtues - in the middle!",
+  "translations" : {
+    "russian" : "Добродетель - в середине!"
+  },
+  "tokens" : [ {
+    "token" : "virtue",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "middle",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguEmMNEXFMlzHLOZa",
   "text" : "It's the middle trumpet part.",
   "translations" : {
@@ -305,6 +333,39 @@
     "token" : "class",
     "startOffset" : 23,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcH9zDTAu_IiLeExR",
+  "text" : "And trim through the middle.",
+  "translations" : {
+    "russian" : "И отделку по середине."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "trim",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "through",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "middle",
+    "startOffset" : 21,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
@@ -408,105 +469,34 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguEd4NEXFMlzHLOZR",
-  "text" : "What was the middle thing?",
+  "id" : "AWoDhZFNDTAu_IiLeHxn",
+  "text" : "My middle name is misery.",
   "translations" : {
-    "russian" : "Что ты говорил в середине?"
+    "russian" : "Несчастье - моё второе имя."
   },
   "tokens" : [ {
-    "token" : "what",
+    "token" : "my",
     "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "middle",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "thing",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "th",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguFBhNEXFMlzHLOaD",
-  "text" : "You know the middle pedal?",
-  "translations" : {
-    "russian" : "Вы слышали о средней педали?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "know",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "middle",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "pedal",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguEvONEXFMlzHLOZo",
-  "text" : "It's middle of a workday.",
-  "translations" : {
-    "russian" : "В середине рабочего дня?"
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 2,
     "position" : 0
   }, {
     "token" : "middle",
-    "startOffset" : 5,
-    "endOffset" : 11,
+    "startOffset" : 3,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "of",
-    "startOffset" : 12,
+    "token" : "name",
+    "startOffset" : 10,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "a",
+    "token" : "is",
     "startOffset" : 15,
-    "endOffset" : 16,
+    "endOffset" : 17,
     "position" : 3
   }, {
-    "token" : "workday",
-    "startOffset" : 17,
+    "token" : "misery",
+    "startOffset" : 18,
     "endOffset" : 24,
     "position" : 4
   } ],

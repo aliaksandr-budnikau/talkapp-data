@@ -1,27 +1,4 @@
 [ {
-  "id" : "AWbgyC6cNEXFMlzHLUJ0",
-  "text" : "It's a railway!",
-  "translations" : {
-    "russian" : "Это - железная дорога!"
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "railway",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgxs1-NEXFMlzHLTtU",
   "text" : "On the railway embankment.",
   "translations" : {
@@ -90,6 +67,29 @@
     "startOffset" : 23,
     "endOffset" : 31,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyC6cNEXFMlzHLUJ0",
+  "text" : "It's a railway!",
+  "translations" : {
+    "russian" : "Это - железная дорога!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "railway",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {

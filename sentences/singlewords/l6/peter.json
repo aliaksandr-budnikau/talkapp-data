@@ -1,4 +1,119 @@
 [ {
+  "id" : "AWoEZfi0DTAu_IiLesPX",
+  "text" : "Peter Garrison?",
+  "translations" : {
+    "russian" : "Итер аррисон?"
+  },
+  "tokens" : [ {
+    "token" : "peter",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pet",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "garrison",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuXBaDTAu_IiLePBB",
+  "text" : "Peter Boggs?",
+  "translations" : {
+    "russian" : "Кто такой Питер Боггс?"
+  },
+  "tokens" : [ {
+    "token" : "peter",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pet",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "boggs",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuZ1_DTAu_IiLePCw",
+  "text" : "Peter Boggs?",
+  "translations" : {
+    "russian" : "Кто такой Питер Боггс?"
+  },
+  "tokens" : [ {
+    "token" : "peter",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pet",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "boggs",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfJYXDTAu_IiLewOz",
+  "text" : "Peter Quill.",
+  "translations" : {
+    "russian" : "Питер Квилл."
+  },
+  "tokens" : [ {
+    "token" : "peter",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pet",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "quill",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDKoGDTAu_IiLfKZg",
+  "text" : "STARRING PETER.",
+  "translations" : {
+    "russian" : "В ролях Петер."
+  },
+  "tokens" : [ {
+    "token" : "starring",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "peter",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "pet",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbpU8NEXFMlzHK5TH",
   "text" : "An age away, Peter.",
   "translations" : {
@@ -70,450 +185,300 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgg1RlNEXFMlzHK9z1",
-  "text" : "Who is this Peter character?",
+  "id" : "AWoERo-2DTAu_IiLemcR",
+  "text" : "Peter, you're evicted.",
   "translations" : {
-    "russian" : "Что за тип этот Питер?"
+    "russian" : "Питер, ты выселен."
   },
   "tokens" : [ {
-    "token" : "who",
+    "token" : "peter",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "is",
-    "startOffset" : 4,
-    "endOffset" : 6,
+    "token" : "pet",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you're",
+    "startOffset" : 7,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "this",
+    "token" : "evict",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERmhlDTAu_IiLemai",
+  "text" : "Peter, you're evicted.",
+  "translations" : {
+    "russian" : "Питер, ты выселен."
+  },
+  "tokens" : [ {
+    "token" : "peter",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pet",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you're",
     "startOffset" : 7,
-    "endOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "evict",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDu8HvDTAu_IiLePXo",
+  "text" : "Okay, that's gross, Peter.",
+  "translations" : {
+    "russian" : "Хорошо, это грубо, Питер."
+  },
+  "tokens" : [ {
+    "token" : "okay",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "gross",
+    "startOffset" : 13,
+    "endOffset" : 18,
     "position" : 2
   }, {
     "token" : "peter",
-    "startOffset" : 12,
-    "endOffset" : 17,
+    "startOffset" : 20,
+    "endOffset" : 25,
     "position" : 3
   }, {
     "token" : "pet",
-    "startOffset" : 12,
-    "endOffset" : 17,
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE36VmDTAu_IiLfCT1",
+  "text" : "I can lull Peter.",
+  "translations" : {
+    "russian" : "Я могу усыпить бдительность Питера."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "lull",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "peter",
+    "startOffset" : 11,
+    "endOffset" : 16,
     "position" : 3
   }, {
-    "token" : "character",
-    "startOffset" : 18,
+    "token" : "pet",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjcirDTAu_IiLeI8b",
+  "text" : "Peter... shameless as always.",
+  "translations" : {
+    "russian" : "Питер... бесстыдны, как всегда."
+  },
+  "tokens" : [ {
+    "token" : "peter",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pet",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "shameless",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "as",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "alway",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhMm0DTAu_IiLex26",
+  "text" : "With Peter Griffin.",
+  "translations" : {
+    "russian" : "С Питером Гриффином."
+  },
+  "tokens" : [ {
+    "token" : "with",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "peter",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pet",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "griffin",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGawMDTAu_IiLeeHn",
+  "text" : "Peter can't get an erection.",
+  "translations" : {
+    "russian" : "У Питера проблемы с эрекцией."
+  },
+  "tokens" : [ {
+    "token" : "peter",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pet",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "can't",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "get",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "an",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "erection",
+    "startOffset" : 19,
     "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgj-vnNEXFMlzHLAeX",
-  "text" : "No boyfriends, no pets.",
+  "id" : "AWoEMQiwDTAu_IiLeieS",
+  "text" : "Perception drives the reality, peter.",
   "translations" : {
-    "russian" : "Только никаких парней и домашних животных."
+    "russian" : "Восприятие создает реальность, Питер."
   },
   "tokens" : [ {
-    "token" : "no",
+    "token" : "perception",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "drive",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "reality",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "peter",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 4
+  }, {
+    "token" : "pet",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESdBpDTAu_IiLenDO",
+  "text" : "It will absolve him, peter.",
+  "translations" : {
+    "russian" : "Это оправдает его, Питер."
+  },
+  "tokens" : [ {
+    "token" : "it",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "boyfriend",
+    "token" : "will",
     "startOffset" : 3,
-    "endOffset" : 13,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "no",
-    "startOffset" : 15,
-    "endOffset" : 17,
+    "token" : "absolve",
+    "startOffset" : 8,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "pet",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj_f-NEXFMlzHLAfC",
-  "text" : "They are his pets.",
-  "translations" : {
-    "russian" : "Они - его любимцы."
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "his",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "pet",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj_FHNEXFMlzHLAep",
-  "text" : "No girlfriend, no pets.",
-  "translations" : {
-    "russian" : "Ни девушки, ни домашних животных."
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "girlfriend",
-    "startOffset" : 3,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "no",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "pet",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj_llNEXFMlzHLAfG",
-  "text" : "Solomon's purely a pet.",
-  "translations" : {
-    "russian" : "Соломон просто домашний любимец."
-  },
-  "tokens" : [ {
-    "token" : "solomon",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "pure",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 17,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "pet",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkAt9NEXFMlzHLAgF",
-  "text" : "Don't you like pets?",
-  "translations" : {
-    "russian" : "Ты же не любишь животных?"
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "like",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "pet",
-    "startOffset" : 15,
+    "token" : "him",
+    "startOffset" : 16,
     "endOffset" : 19,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkAVsNEXFMlzHLAfx",
-  "text" : "Major Rogers' pet monkey.",
-  "translations" : {
-    "russian" : "Ручные обезьяны майора Роджерса."
-  },
-  "tokens" : [ {
-    "token" : "major",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
   }, {
-    "token" : "roger",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "rog",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "pet",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "monkey",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj_qdNEXFMlzHLAfL",
-  "text" : "Everyone talks to their pets.",
-  "translations" : {
-    "russian" : "Все разговаривают со своими домашними любимцами."
-  },
-  "tokens" : [ {
-    "token" : "everyone",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "talk",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "their",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "pet",
-    "startOffset" : 24,
-    "endOffset" : 28,
+    "token" : "peter",
+    "startOffset" : 21,
+    "endOffset" : 26,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj_5nNEXFMlzHLAfY",
-  "text" : "And those ridiculous pet monkeys.",
-  "translations" : {
-    "russian" : "А её нелепые ручные обезьянки."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "those",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "ridiculous",
-    "startOffset" : 10,
-    "endOffset" : 20,
-    "position" : 2
   }, {
     "token" : "pet",
     "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "monkey",
-    "startOffset" : 25,
-    "endOffset" : 32,
+    "endOffset" : 26,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj_niNEXFMlzHLAfI",
-  "text" : "Kiwanis Club luncheons, lost pets.",
-  "translations" : {
-    "russian" : "Пишет о званых обедах в Киванис и потерянных домашних любимцах."
-  },
-  "tokens" : [ {
-    "token" : "kiwanis",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "club",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "luncheon",
-    "startOffset" : 13,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "lost",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "pet",
-    "startOffset" : 29,
-    "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkAA7NEXFMlzHLAfd",
-  "text" : "He freed my pet monkey.",
-  "translations" : {
-    "russian" : "Он выпустил мою ручную обезьянку."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "free",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "pet",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "monkey",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj_owNEXFMlzHLAfJ",
-  "text" : "That little pet of yours.",
-  "translations" : {
-    "russian" : "Своего маленького любимца."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "little",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "pet",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "your",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv3XuNEXFMlzHLRkE",
-  "text" : "Ship captains didn't have pets.",
-  "translations" : {
-    "russian" : "А капитаны кораблей не держат питомцев."
-  },
-  "tokens" : [ {
-    "token" : "ship",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "captain",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "didn't",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "have",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "pet",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj_dhNEXFMlzHLAfA",
-  "text" : "My pets choose to be here.",
-  "translations" : {
-    "russian" : "Мои любимцы сами выбрали быть здесь."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "pet",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "choose",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "be",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "here",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

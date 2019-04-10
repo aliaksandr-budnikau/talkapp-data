@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEYXnyDTAu_IiLereS",
+  "text" : "Some Vermont-based alums.",
+  "translations" : {
+    "russian" : "Выпускники из Вермонта."
+  },
+  "tokens" : [ {
+    "token" : "some",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "vermont",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "base",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "bas",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "alum",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglmHiNEXFMlzHLCz9",
   "text" : "It's biodegradable... soy-based.",
   "translations" : {
@@ -29,6 +62,153 @@
     "startOffset" : 26,
     "endOffset" : 31,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsz-6DTAu_IiLeOFl",
+  "text" : "She's based in Bogota.",
+  "translations" : {
+    "russian" : "Она живёт в Боготе."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "base",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "bas",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "bogota",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSV2_DTAu_IiLd_H6",
+  "text" : "It's a sulfur-based alkaloid.",
+  "translations" : {
+    "russian" : "Это сернистый алкалоид."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "sulfur",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "base",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "bas",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "alkaloid",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESGb3DTAu_IiLemyQ",
+  "text" : "It's fiction based on reality.",
+  "translations" : {
+    "russian" : "Это художественный фильм на основе реальных событий."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fiction",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "base",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "bas",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "reality",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAxjrDTAu_IiLfIny",
+  "text" : "Based on interview... and merit.",
+  "translations" : {
+    "russian" : "Основано только на интервью... и достоинствах."
+  },
+  "tokens" : [ {
+    "token" : "base",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bas",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "interview",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "merit",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -70,140 +250,41 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglMn0NEXFMlzHLCG3",
-  "text" : "You'll flood your basement!",
+  "id" : "AWoFA_2dDTAu_IiLfIyr",
+  "text" : "Based on interview... and merit.",
   "translations" : {
-    "russian" : "Вы затопите свой подвал!"
+    "russian" : "Основано только на интервью... и достоинствах."
   },
   "tokens" : [ {
-    "token" : "you'll",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "flood",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "basement",
-    "startOffset" : 18,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
     "token" : "base",
-    "startOffset" : 18,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoxaZNEXFMlzHLHY0",
-  "text" : "Jerry... back to field base.",
-  "translations" : {
-    "russian" : "Джерри... обратно на базу."
-  },
-  "tokens" : [ {
-    "token" : "jerry",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "back",
+    "token" : "bas",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "interview",
     "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 14,
-    "endOffset" : 16,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "field",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "base",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxka2NEXFMlzHLTbn",
-  "text" : "Seventh base with shirt off.",
-  "translations" : {
-    "russian" : "Это седьмая база плюс снятая футболка."
-  },
-  "tokens" : [ {
-    "token" : "seven",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "base",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "with",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "shirt",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "off",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguFF6NEXFMlzHLOaL",
-  "text" : "Must be from the military base.",
-  "translations" : {
-    "russian" : "Должно быть с военной базы."
-  },
-  "tokens" : [ {
-    "token" : "must",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "be",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "from",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "military",
-    "startOffset" : 17,
+    "token" : "and",
+    "startOffset" : 22,
     "endOffset" : 25,
-    "position" : 4
+    "position" : 3
   }, {
-    "token" : "base",
+    "token" : "merit",
     "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
+    "endOffset" : 31,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

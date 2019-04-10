@@ -1,4 +1,113 @@
 [ {
+  "id" : "AWoFHoSdDTAu_IiLfNtI",
+  "text" : "Be advised, shots fired!",
+  "translations" : {
+    "russian" : "Нам сообщили, что были выстрелы!"
+  },
+  "tokens" : [ {
+    "token" : "be",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "advised",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "advise",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "shot",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "fired",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "fir",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZ34yDTAu_IiLesfc",
+  "text" : "Shots fired. 2257 heliotrope.",
+  "translations" : {
+    "russian" : "Перестрелка. 2257 Гелиотроп."
+  },
+  "tokens" : [ {
+    "token" : "shot",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fired",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fir",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "2257",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "heliotrope",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEd7GNDTAu_IiLevSV",
+  "text" : "Uh, shots fired by Humps.",
+  "translations" : {
+    "russian" : "Хампс стреляет."
+  },
+  "tokens" : [ {
+    "token" : "uh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "shot",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "fired",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "fir",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "by",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "hump",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggV90NEXFMlzHK9Y1",
   "text" : "They fired over their heads.",
   "translations" : {
@@ -75,6 +184,82 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFLC3mDTAu_IiLfQdt",
+  "text" : "Shots fired at Grayson Manor?",
+  "translations" : {
+    "russian" : "Стрельба в доме Грейсонов?"
+  },
+  "tokens" : [ {
+    "token" : "shot",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fired",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fir",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "grayson",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "manor",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVSVqDTAu_IiLfYKr",
+  "text" : "Mr. Cedar you are fired.",
+  "translations" : {
+    "russian" : "М-р Седар... вы уволены."
+  },
+  "tokens" : [ {
+    "token" : "mr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "cedar",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "fired",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "fir",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgi196NEXFMlzHK_g8",
   "text" : "You're fired, with immediate effect.",
   "translations" : {
@@ -109,6 +294,82 @@
     "token" : "effect",
     "startOffset" : 29,
     "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4OBPDTAu_IiLfChJ",
+  "text" : "Fired for a photo caption.",
+  "translations" : {
+    "russian" : "Уволен! Уволен за подпись к фотографии!"
+  },
+  "tokens" : [ {
+    "token" : "fired",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fir",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "photo",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "caption",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE35a8DTAu_IiLfCTH",
+  "text" : "Fired for a photo caption.",
+  "translations" : {
+    "russian" : "Уволен! Уволен за подпись к фотографии!"
+  },
+  "tokens" : [ {
+    "token" : "fired",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fir",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "photo",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "caption",
+    "startOffset" : 18,
+    "endOffset" : 25,
     "position" : 4
   } ],
   "contentScore" : null

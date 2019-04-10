@@ -32,6 +32,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE05hnDTAu_IiLfARr",
+  "text" : "Trickster's broadcasting again.",
+  "translations" : {
+    "russian" : "Ловкач снова на связи."
+  },
+  "tokens" : [ {
+    "token" : "trickster",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "broadcast",
+    "startOffset" : 12,
+    "endOffset" : 24,
+    "position" : 1
+  }, {
+    "token" : "again",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpZwXNEXFMlzHLINK",
   "text" : "This concludes our broadcast day.",
   "translations" : {
@@ -99,6 +122,39 @@
     "token" : "week",
     "startOffset" : 26,
     "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMxGeDTAu_IiLfRxQ",
+  "text" : "Broadcast her over the Internet ?",
+  "translations" : {
+    "russian" : "Транслировать её через интернет?"
+  },
+  "tokens" : [ {
+    "token" : "broadcast",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "her",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "over",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "internet",
+    "startOffset" : 23,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null
@@ -482,44 +538,6 @@
     "token" : "chad",
     "startOffset" : 33,
     "endOffset" : 37,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpa2qNEXFMlzHLIOn",
-  "text" : "I belong to the broadcasting club.",
-  "translations" : {
-    "russian" : "Я вхожу в клуб радиовещания."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "belong",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "broadcast",
-    "startOffset" : 16,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "club",
-    "startOffset" : 29,
-    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,154 @@
 [ {
+  "id" : "AWoFYHAiDTAu_IiLfaOT",
+  "text" : "Your holster scratches the paint.",
+  "translations" : {
+    "russian" : "Нет, кобура царапает краску."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "holster",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "scratches",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "scratch",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "paint",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFD0xIDTAu_IiLfK3x",
+  "text" : "No scratches, minor tread wear.",
+  "translations" : {
+    "russian" : "Царапин нет, но протектор немного износился."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "scratches",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "scratch",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "minor",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "tread",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "wear",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaAAWDTAu_IiLfbz0",
+  "text" : "Scratch Thorn.",
+  "translations" : {
+    "russian" : "Вычеркиваем Торна."
+  },
+  "tokens" : [ {
+    "token" : "scratch",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "thorn",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-_DxDTAu_IiLfHNP",
+  "text" : "The record's scratched.",
+  "translations" : {
+    "russian" : "Пластинку заело."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "cord",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "scratched",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "scratch",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFl4BDTAu_IiLfMHt",
+  "text" : "If something itches, scratch.",
+  "translations" : {
+    "russian" : "Если зудит, надо почесать."
+  },
+  "tokens" : [ {
+    "token" : "if",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "something",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "itch",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "scratch",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzJMxNEXFMlzHLV21",
   "text" : "I can't stop scratching.",
   "translations" : {
@@ -24,6 +174,77 @@
     "startOffset" : 13,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnhB7DTAu_IiLe2uZ",
+  "text" : "He scratched my jeep.",
+  "translations" : {
+    "russian" : "Он поцарапал мой джип."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "scratched",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "scratch",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "jeep",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYGOpDTAu_IiLfaNn",
+  "text" : "I built the coalition from scratch.",
+  "translations" : {
+    "russian" : "Я основал коалицию."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "built",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "coalition",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "from",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "scratch",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoEfkphDTAu_IiLewlR",
+  "text" : "Gravity platform.",
+  "translations" : {
+    "russian" : "Гравитационная платформа."
+  },
+  "tokens" : [ {
+    "token" : "gravity",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "platform",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuiApDTAu_IiLe7r9",
+  "text" : "Scuffle on the platform...",
+  "translations" : {
+    "russian" : "Драка на платформе."
+  },
+  "tokens" : [ {
+    "token" : "scuffle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "platform",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxRlTNEXFMlzHLTCu",
   "text" : "Refuel on the platform?",
   "translations" : {
@@ -23,6 +69,34 @@
     "token" : "platform",
     "startOffset" : 14,
     "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEB7AfDTAu_IiLeapK",
+  "text" : "A hovering platform? Yes.",
+  "translations" : {
+    "russian" : "Парящая платформа?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "hover",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "platform",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "yes",
+    "startOffset" : 21,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null

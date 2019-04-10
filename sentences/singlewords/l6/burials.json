@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoD3_u1DTAu_IiLeUD3",
+  "text" : "Burial mound.",
+  "translations" : {
+    "russian" : "Погребальный курган."
+  },
+  "tokens" : [ {
+    "token" : "burial",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "mound",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD3_sTDTAu_IiLeUD2",
+  "text" : "Burial mound.",
+  "translations" : {
+    "russian" : "Курган."
+  },
+  "tokens" : [ {
+    "token" : "burial",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "mound",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgd7j-NEXFMlzHK7Sz",
   "text" : "Sea burial suits me.",
   "translations" : {
@@ -24,6 +60,115 @@
     "startOffset" : 17,
     "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWLbiDTAu_IiLfYxO",
+  "text" : "No burials in the churchyard.",
+  "translations" : {
+    "russian" : "Нельзя было хоронить на церковном кладбище."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "burial",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "churchyard",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELV6rDTAu_IiLehuV",
+  "text" : "A burial at sea doesn't resurrect.",
+  "translations" : {
+    "russian" : "Погребенные в море не воскресают."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "burial",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "sea",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "doesn't",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "resurrect",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWem2DTAu_IiLfY-b",
+  "text" : "It's a cemetery, her burial place.",
+  "translations" : {
+    "russian" : "Там кладбище, её обитель."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "cemetery",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "her",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "burial",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "place",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,153 +1,434 @@
 [ {
-  "id" : "AWbgzGTBNEXFMlzHLVwr",
-  "text" : "That dining room looks awfully gloomy.",
+  "id" : "AWoDfKQYDTAu_IiLeGeI",
+  "text" : "Like some awful baroness.",
   "translations" : {
-    "russian" : "А столовая такая мрачная.."
+    "russian" : "Как некоторые ужасные баронессы."
   },
   "tokens" : [ {
-    "token" : "that",
+    "token" : "like",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "din",
+    "token" : "some",
     "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "room",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "look",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "awful",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "gloomy",
-    "startOffset" : 31,
-    "endOffset" : 37,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgivxnNEXFMlzHK_bl",
-  "text" : "You sound awfully certain about that.",
-  "translations" : {
-    "russian" : "Вы сильно уверены в этом."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "sound",
-    "startOffset" : 4,
     "endOffset" : 9,
     "position" : 1
   }, {
     "token" : "awful",
     "startOffset" : 10,
-    "endOffset" : 17,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "certain",
-    "startOffset" : 18,
-    "endOffset" : 25,
+    "token" : "baroness",
+    "startOffset" : 16,
+    "endOffset" : 24,
     "position" : 3
-  }, {
-    "token" : "about",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "that",
-    "startOffset" : 32,
-    "endOffset" : 36,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqRh6NEXFMlzHLJa6",
-  "text" : "You sound awfully certain about that.",
+  "id" : "AWoDlc_ADTAu_IiLeKCf",
+  "text" : "That's awfully polite.",
   "translations" : {
-    "russian" : "Вы сильно уверены в этом."
+    "russian" : "Любезно с его стороны."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "that",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
-  }, {
-    "token" : "sound",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
   }, {
     "token" : "awful",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "certain",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "about",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "that",
-    "startOffset" : 32,
-    "endOffset" : 36,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyQdVNEXFMlzHLUmB",
-  "text" : "That conductor, what an awful man.",
-  "translations" : {
-    "russian" : "Этот дирижер -- жуткий тип."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "conductor",
-    "startOffset" : 5,
+    "startOffset" : 7,
     "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "what",
-    "startOffset" : 16,
-    "endOffset" : 20,
+    "token" : "polite",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUFxqDTAu_IiLeoTN",
+  "text" : "It smells god-awful.",
+  "translations" : {
+    "russian" : "Прорвало канализацию? Такая вонь!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "smell",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "god",
+    "startOffset" : 10,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "an",
-    "startOffset" : 21,
-    "endOffset" : 23,
+    "token" : "awful",
+    "startOffset" : 14,
+    "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKAmkDTAu_IiLegrQ",
+  "text" : "And that awful stench.",
+  "translations" : {
+    "russian" : "И чувствую ужасное зловоние."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
   }, {
     "token" : "awful",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 4
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
   }, {
-    "token" : "man",
-    "startOffset" : 30,
-    "endOffset" : 33,
-    "position" : 5
+    "token" : "stench",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKSg2DTAu_IiLeg45",
+  "text" : "What an awful yell!",
+  "translations" : {
+    "russian" : "Так орёт."
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "awful",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "yell",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUFtwDTAu_IiLeoTK",
+  "text" : "The smell's awful.",
+  "translations" : {
+    "russian" : "Ну и вонь!"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "smell's",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "awful",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvIFVDTAu_IiLe8GK",
+  "text" : "You're awfully chipper today.",
+  "translations" : {
+    "russian" : "А ты сегодня бодрячок."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "awful",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "chipper",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "today",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoElaoKDTAu_IiLe1JG",
+  "text" : "Mister, you're awfully ticklish.",
+  "translations" : {
+    "russian" : "Месье, Вы ужасно щекотливы..."
+  },
+  "tokens" : [ {
+    "token" : "mister",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "mist",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "you're",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "awful",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "ticklish",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUxcLDTAu_IiLfXz2",
+  "text" : "They are awfully boxy.",
+  "translations" : {
+    "russian" : "Они ужасно квадратные."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "awful",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "boxy",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgl-sDTAu_IiLeHTT",
+  "text" : "The picture's awful dusty.",
+  "translations" : {
+    "russian" : "Эта картина ужасно пыльная."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "picture",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "awful",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "dusty",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDt2-zDTAu_IiLeOtb",
+  "text" : "That's morbid and awful.",
+  "translations" : {
+    "russian" : "Это мрачно и ужасно."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "morbid",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "awful",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDxxoVDTAu_IiLeQ-h",
+  "text" : "Vagabonds and awful children.",
+  "translations" : {
+    "russian" : "Бродяг и непослушных детей."
+  },
+  "tokens" : [ {
+    "token" : "vagabond",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "awful",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "children",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKDW7DTAu_IiLegtX",
+  "text" : "Really awful, evil, smelly...",
+  "translations" : {
+    "russian" : "Очень плохие, злые, вонючие..."
+  },
+  "tokens" : [ {
+    "token" : "ally",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "awful",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "evil",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "smelly",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoElYDDDTAu_IiLe1HF",
+  "text" : "That's awfully considerate.",
+  "translations" : {
+    "russian" : "Ужасно предусмотрительно."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "awful",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "considerate",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8_ZtDTAu_IiLfFnS",
+  "text" : "Awfully tempting, wasn't it?",
+  "translations" : {
+    "russian" : "Ужасно заманчиво, не правда ли?"
+  },
+  "tokens" : [ {
+    "token" : "awful",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tempting",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "wasn't",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPU3hDTAu_IiLfTqW",
+  "text" : "Sounds awfully tempting.",
+  "translations" : {
+    "russian" : "Просто ужасно заманчиво."
+  },
+  "tokens" : [ {
+    "token" : "sounds",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "awful",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "tempting",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

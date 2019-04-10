@@ -1,0 +1,47 @@
+[ {
+  "id" : "AWoEqF1oDTAu_IiLe4pZ",
+  "text" : "Extracting bone marrow...",
+  "translations" : {
+    "russian" : "Извлекаю костный мозг..."
+  },
+  "tokens" : [ {
+    "token" : "extract",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "bone",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "marrow",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEeaDDTAu_IiLfLVU",
+  "text" : "Bone marrow malignancy.",
+  "translations" : {
+    "russian" : "Рак костного мозга."
+  },
+  "tokens" : [ {
+    "token" : "bone",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "marrow",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "malignancy",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

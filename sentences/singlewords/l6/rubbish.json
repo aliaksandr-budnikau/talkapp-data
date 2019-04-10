@@ -111,6 +111,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDQUNJDTAu_IiLd9ud",
+  "text" : "That barrister was rubbish.",
+  "translations" : {
+    "russian" : "Адвокат там был дерьмовый."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "barrister",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "rubbish",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkIBtNEXFMlzHLAji",
   "text" : "Maybe he was rubbish.",
   "translations" : {
@@ -420,39 +448,6 @@
     "token" : "rubbish",
     "startOffset" : 17,
     "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkHvpNEXFMlzHLAjW",
-  "text" : "I'm drowning in your rubbish.",
-  "translations" : {
-    "russian" : "Я тону в твоём мусоре."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "drown",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "rubbish",
-    "startOffset" : 21,
-    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null

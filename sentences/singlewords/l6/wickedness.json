@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoE1cOqDTAu_IiLfAph",
+  "text" : "Wicked hammered.",
+  "translations" : {
+    "russian" : "Напился."
+  },
+  "tokens" : [ {
+    "token" : "wicked",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wick",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "hammer",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoRp7NEXFMlzHLGql",
   "text" : "Bless your wicked little heart.",
   "translations" : {
@@ -33,6 +56,44 @@
     "token" : "heart",
     "startOffset" : 25,
     "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEX6orDTAu_IiLerKR",
+  "text" : "He's a naughty, wicked man!",
+  "translations" : {
+    "russian" : "Он непослушный, злобный человек!"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "naughty",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "wicked",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "wick",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "man",
+    "startOffset" : 23,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null

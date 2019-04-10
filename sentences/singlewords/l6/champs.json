@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoFN94rDTAu_IiLfSpi",
+  "text" : "Hey, champ...ion.",
+  "translations" : {
+    "russian" : "Привет, чемп...ион. прим игра слов champ и champion, чавкалка и победитель."
+  },
+  "tokens" : [ {
+    "token" : "hey",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "champ",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ion",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvO6lNEXFMlzHLQnE",
   "text" : "Champ, wait in the hangar.",
   "translations" : {
@@ -29,6 +52,44 @@
     "startOffset" : 19,
     "endOffset" : 25,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQTBqDTAu_IiLd9tl",
+  "text" : "He's got Joey Adagio, lightweight champ.",
+  "translations" : {
+    "russian" : "Чемпион в легком весе Джои Адажио тоже ведь его?"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "joey",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "adagio",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "lightweight",
+    "startOffset" : 22,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "champ",
+    "startOffset" : 34,
+    "endOffset" : 39,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoEi6ZBDTAu_IiLezQZ",
+  "text" : "Goose Creek.",
+  "translations" : {
+    "russian" : "Крик гуся."
+  },
+  "tokens" : [ {
+    "token" : "goose",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "creek",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi2cPDTAu_IiLezNf",
+  "text" : "Goose Creek.",
+  "translations" : {
+    "russian" : "Крик гуся."
+  },
+  "tokens" : [ {
+    "token" : "goose",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "creek",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfvF-NEXFMlzHK83b",
   "text" : "The Poland Creek merger.",
   "translations" : {
@@ -28,6 +64,85 @@
     "token" : "merge",
     "startOffset" : 17,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8ox6DTAu_IiLeWnY",
+  "text" : "Or at Willow Creek.",
+  "translations" : {
+    "russian" : "Ивовый ручей ?"
+  },
+  "tokens" : [ {
+    "token" : "or",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "at",
+    "startOffset" : 3,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "willow",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "creek",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8pxLDTAu_IiLeWoK",
+  "text" : "Willow Creek, sheriff.",
+  "translations" : {
+    "russian" : "Уиллоу-Крик, шериф."
+  },
+  "tokens" : [ {
+    "token" : "willow",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "creek",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "sheriff",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_SeYDTAu_IiLfHc8",
+  "text" : "Out by Cow Creek!",
+  "translations" : {
+    "russian" : "В устье Коровьего ручья!"
+  },
+  "tokens" : [ {
+    "token" : "out",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "by",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "cow",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "creek",
+    "startOffset" : 11,
+    "endOffset" : 16,
     "position" : 3
   } ],
   "contentScore" : null
@@ -62,6 +177,120 @@
     "startOffset" : 17,
     "endOffset" : 22,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5AOSDTAu_IiLeUhF",
+  "text" : "Did you bathe in a creek?",
+  "translations" : {
+    "russian" : "Ты купалась в ручье?"
+  },
+  "tokens" : [ {
+    "token" : "did",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "bathe",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 4
+  }, {
+    "token" : "creek",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVR4DDTAu_IiLfYKJ",
+  "text" : "He's a guard at Cedar Creek.",
+  "translations" : {
+    "russian" : "Он охранник в Кедровой Бухте."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "guard",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "at",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "cedar",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "creek",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8p0mDTAu_IiLeWoN",
+  "text" : "I'm gonna go to Willow Creek.",
+  "translations" : {
+    "russian" : "А я поеду в Уиллоу-крик."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gonna",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "go",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "willow",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "creek",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

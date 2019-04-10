@@ -1,4 +1,137 @@
 [ {
+  "id" : "AWoDlKqEDTAu_IiLeJ5L",
+  "text" : "Squirrel fund ?",
+  "translations" : {
+    "russian" : "Беличьи запасы ?"
+  },
+  "tokens" : [ {
+    "token" : "squirrel",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "fund",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIVbtDTAu_IiLfOSq",
+  "text" : "Hedge funds.",
+  "translations" : {
+    "russian" : "Хедж фонды."
+  },
+  "tokens" : [ {
+    "token" : "hedge",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fund",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIYlmDTAu_IiLfOVV",
+  "text" : "Hedge funds.",
+  "translations" : {
+    "russian" : "Хедж фонды."
+  },
+  "tokens" : [ {
+    "token" : "hedge",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fund",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpzO6DTAu_IiLe4cF",
+  "text" : "You looted pension funds.",
+  "translations" : {
+    "russian" : "Вы ограбили пенсионные фонды."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "loot",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pension",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "fund",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIVmrDTAu_IiLfOS0",
+  "text" : "Yeah, Mr. Hedge Fund.",
+  "translations" : {
+    "russian" : "Да, мистер Инвестиционный Фонд."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "mr",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "hedge",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "fund",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIVlmDTAu_IiLfOSz",
+  "text" : "Another hedge fund?",
+  "translations" : {
+    "russian" : "Хоть намекни. Еше один фонд?"
+  },
+  "tokens" : [ {
+    "token" : "another",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "hedge",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "fund",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdK1JNEXFMlzHK6rM",
   "text" : "He devoured party's fund.",
   "translations" : {
@@ -27,128 +160,24 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglHd9NEXFMlzHLB9q",
-  "text" : "What about our emergency fund?",
+  "id" : "AWoFIVU2DTAu_IiLfOSl",
+  "text" : "Bankers, and hedge funds.",
   "translations" : {
-    "russian" : "Как насчет нашего запасного фонда?"
+    "russian" : "Банкиры и хедж фонды."
   },
   "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "about",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "emergency",
-    "startOffset" : 15,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "fund",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmGJ9NEXFMlzHLDTL",
-  "text" : "What about our emergency fund?",
-  "translations" : {
-    "russian" : "Как насчет нашего запасного фонда?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "about",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "emergency",
-    "startOffset" : 15,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "fund",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy-CYNEXFMlzHLVf1",
-  "text" : "Get him to transfer the funds.",
-  "translations" : {
-    "russian" : "Заставите его перевести вам деньги."
-  },
-  "tokens" : [ {
-    "token" : "get",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "him",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "transfer",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "fund",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghxlGNEXFMlzHK-of",
-  "text" : "Failure to declare funds over 10,000.",
-  "translations" : {
-    "russian" : "Не задекларировал средства свыше 10, 000."
-  },
-  "tokens" : [ {
-    "token" : "failure",
+    "token" : "bank",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
+    "token" : "and",
+    "startOffset" : 9,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "declare",
-    "startOffset" : 11,
+    "token" : "hedge",
+    "startOffset" : 13,
     "endOffset" : 18,
     "position" : 2
   }, {
@@ -156,16 +185,230 @@
     "startOffset" : 19,
     "endOffset" : 24,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIXrnDTAu_IiLfOUk",
+  "text" : "We're a hedge fund.",
+  "translations" : {
+    "russian" : "Мы хедж-фонд."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
-    "token" : "over",
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "hedge",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "fund",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIYxyDTAu_IiLfOVf",
+  "text" : "Yeah, Mr. Hedge Fund.",
+  "translations" : {
+    "russian" : "Да, мистер Инвестиционный Фонд."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "mr",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "hedge",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "fund",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIUh_DTAu_IiLfOR5",
+  "text" : "We're a hedge fund.",
+  "translations" : {
+    "russian" : "Мы хедж-фонд."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "hedge",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "fund",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIVKuDTAu_IiLfOSd",
+  "text" : "Hedge fund manager.",
+  "translations" : {
+    "russian" : "Менеджер хедж-фонда."
+  },
+  "tokens" : [ {
+    "token" : "hedge",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fund",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "manager",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "manage",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIYgjDTAu_IiLfOVQ",
+  "text" : "Bankers, and hedge funds.",
+  "translations" : {
+    "russian" : "Банкиры и хедж фонды."
+  },
+  "tokens" : [ {
+    "token" : "bank",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "hedge",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "fund",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIZA9DTAu_IiLfOVs",
+  "text" : "Hedge fund broker.",
+  "translations" : {
+    "russian" : "Фондовый брокер."
+  },
+  "tokens" : [ {
+    "token" : "hedge",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fund",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "broker",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "broke",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlKu6DTAu_IiLeJ5M",
+  "text" : "Where's the Squirrel Fund?",
+  "translations" : {
+    "russian" : "Где Беличьи запасы ?"
+  },
+  "tokens" : [ {
+    "token" : "where",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "squirrel",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "fund",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6MSFDTAu_IiLeVDl",
+  "text" : "Incidentals and overhead fund.",
+  "translations" : {
+    "russian" : "Побочных расходах и накладных расходах фонда."
+  },
+  "tokens" : [ {
+    "token" : "incidental",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "overhead",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "fund",
     "startOffset" : 25,
     "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "10,000",
-    "startOffset" : 30,
-    "endOffset" : 36,
-    "position" : 5
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

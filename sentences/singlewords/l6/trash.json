@@ -50,6 +50,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoElMh9DTAu_IiLe0-h",
+  "text" : "The trash ordinance.",
+  "translations" : {
+    "russian" : "Постановление о вывозе мусора."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "trash",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "ordinance",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkO3FNEXFMlzHLAs2",
   "text" : "It's trash, trust me.",
   "translations" : {
@@ -449,44 +472,6 @@
   }, {
     "token" : "compactor",
     "startOffset" : 21,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkOwANEXFMlzHLAso",
-  "text" : "Just getting rid of some trash.",
-  "translations" : {
-    "russian" : "Просто избавляюсь от некоторого хлама."
-  },
-  "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "getting",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "rid",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "some",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "trash",
-    "startOffset" : 25,
     "endOffset" : 30,
     "position" : 5
   } ],

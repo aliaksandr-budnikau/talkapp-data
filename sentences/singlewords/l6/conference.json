@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEbmS-DTAu_IiLetoF",
+  "text" : "Press conference?",
+  "translations" : {
+    "russian" : "Пресс-конференцию? Ха?"
+  },
+  "tokens" : [ {
+    "token" : "press",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "conference",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvW65NEXFMlzHLQvt",
   "text" : "I called this conference.",
   "translations" : {
@@ -29,6 +47,359 @@
     "startOffset" : 14,
     "endOffset" : 24,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbmqcDTAu_IiLetoV",
+  "text" : "The real press conference?",
+  "translations" : {
+    "russian" : "Настоящая пресс-конференция?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "real",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "press",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "conference",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbm0sDTAu_IiLetod",
+  "text" : "Nixon's press conference.",
+  "translations" : {
+    "russian" : "Пресс-конференции Никсона."
+  },
+  "tokens" : [ {
+    "token" : "nixon",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "press",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "conference",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbmmCDTAu_IiLetoS",
+  "text" : "Press conference tomorrow.",
+  "translations" : {
+    "russian" : "Завтра пресс-конференция."
+  },
+  "tokens" : [ {
+    "token" : "press",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "conference",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "tomorrow",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbmuGDTAu_IiLetoY",
+  "text" : "The press conference is over.",
+  "translations" : {
+    "russian" : "Пресс-конференция окончена."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "press",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "conference",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "over",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbmUNDTAu_IiLetoG",
+  "text" : "Going to your press conference?",
+  "translations" : {
+    "russian" : "Собираешься на пресс-конференцию?"
+  },
+  "tokens" : [ {
+    "token" : "going",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "go",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "press",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "conference",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbmngDTAu_IiLetoT",
+  "text" : "They're starting the press conference.",
+  "translations" : {
+    "russian" : "Начинается пресс-конференция."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "start",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "press",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "conference",
+    "startOffset" : 27,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQZorDTAu_IiLd9ya",
+  "text" : "Chicago, at the adenocarcinoma conference?",
+  "translations" : {
+    "russian" : "Джеймс Уилсон, да? Чикаго. Конференция по аденокарциноме."
+  },
+  "tokens" : [ {
+    "token" : "chicago",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "at",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "adenocarcinoma",
+    "startOffset" : 16,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "conference",
+    "startOffset" : 31,
+    "endOffset" : 41,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeL7rDTAu_IiLffBD",
+  "text" : "We contacted the conference coordinator.",
+  "translations" : {
+    "russian" : "Мы связались с координатором конференции."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "contacted",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "contact",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "conference",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "coordinator",
+    "startOffset" : 28,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEblYWDTAu_IiLetni",
+  "text" : "We've got a press conference.",
+  "translations" : {
+    "russian" : "Немедленно сообщим прессе. Я здесь."
+  },
+  "tokens" : [ {
+    "token" : "we've",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "press",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "conference",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbmwDDTAu_IiLetoZ",
+  "text" : "There was no press conference.",
+  "translations" : {
+    "russian" : "Что, пресс-конференции не было?"
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "press",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "conference",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbmo-DTAu_IiLetoU",
+  "text" : "This is the real press conference.",
+  "translations" : {
+    "russian" : "Это настоящая пресс-конференция."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "real",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "press",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "conference",
+    "startOffset" : 23,
+    "endOffset" : 33,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -104,6 +475,44 @@
     "token" : "conference",
     "startOffset" : 24,
     "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbo_eDTAu_IiLetqB",
+  "text" : "Don't forget your press conference, Stan.",
+  "translations" : {
+    "russian" : "Стан, не забудь про конференцию с журналистами завтра вечером."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "forget",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "press",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "conference",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "stan",
+    "startOffset" : 36,
+    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null

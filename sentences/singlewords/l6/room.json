@@ -1,4 +1,94 @@
 [ {
+  "id" : "AWoEoyTDDTAu_IiLe3sg",
+  "text" : "Principal's Room.",
+  "translations" : {
+    "russian" : "Кабинет директора."
+  },
+  "tokens" : [ {
+    "token" : "principal's",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "room",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDtHiDTAu_IiLfKyS",
+  "text" : "Dong's room.",
+  "translations" : {
+    "russian" : "В комнате Донга."
+  },
+  "tokens" : [ {
+    "token" : "dong",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "room",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGDbKDTAu_IiLfMdn",
+  "text" : "Ida's room.",
+  "translations" : {
+    "russian" : "В комнате Айды."
+  },
+  "tokens" : [ {
+    "token" : "ida",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "room",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlkj5DTAu_IiLeKGp",
+  "text" : "Spare room.",
+  "translations" : {
+    "russian" : "Свободная комната."
+  },
+  "tokens" : [ {
+    "token" : "spare",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "room",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFN5KCDTAu_IiLfSmB",
+  "text" : "ISO room.",
+  "translations" : {
+    "russian" : "Палата-изолятор."
+  },
+  "tokens" : [ {
+    "token" : "iso",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "room",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdm-jNEXFMlzHK7BR",
   "text" : "Thrown across the room.",
   "translations" : {
@@ -149,6 +239,131 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDwyjrDTAu_IiLeQe2",
+  "text" : "My squad room brethren.",
+  "translations" : {
+    "russian" : "Мои собратья по территории."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "squad",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "room",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "brethren",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEblHQDTAu_IiLetnZ",
+  "text" : "Press room. Huh?",
+  "translations" : {
+    "russian" : "Комната прессы."
+  },
+  "tokens" : [ {
+    "token" : "press",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "room",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "huh",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjtf6DTAu_IiLez5F",
+  "text" : "One twin room.",
+  "translations" : {
+    "russian" : "Двойной."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "twin",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "room",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0IZ7DTAu_IiLe_wB",
+  "text" : "The room, the liquid...",
+  "translations" : {
+    "russian" : "То помещение, жидкость..."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "room",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "liquid",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHYDbDTAu_IiLfNgP",
+  "text" : "Notify Transporter Room.",
+  "translations" : {
+    "russian" : "Сообщите в комнату для телепортаций."
+  },
+  "tokens" : [ {
+    "token" : "notify",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "transport",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "room",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgftocNEXFMlzHK82U",
   "text" : "The association meeting room.",
   "translations" : {
@@ -183,271 +398,6 @@
     "token" : "room",
     "startOffset" : 24,
     "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglbM4NEXFMlzHLCg_",
-  "text" : "Frisbee, leave the room!",
-  "translations" : {
-    "russian" : "Фрисби, выйди из кабинета!"
-  },
-  "tokens" : [ {
-    "token" : "frisbee",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "leave",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "room",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmEWINEXFMlzHLDQF",
-  "text" : "Downstairs dining room - clear!",
-  "translations" : {
-    "russian" : "В гостиной внизу пусто!"
-  },
-  "tokens" : [ {
-    "token" : "downstairs",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "din",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "room",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "clear",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmET7NEXFMlzHLDQC",
-  "text" : "In the dining room?",
-  "translations" : {
-    "russian" : "В гостиной?"
-  },
-  "tokens" : [ {
-    "token" : "in",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "din",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "room",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmEY0NEXFMlzHLDQJ",
-  "text" : "Dining room window?",
-  "translations" : {
-    "russian" : "Окно в гостиной?"
-  },
-  "tokens" : [ {
-    "token" : "din",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "room",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "window",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpnPjNEXFMlzHLIgV",
-  "text" : "No room for slackers.",
-  "translations" : {
-    "russian" : "Лентяям здесь не место."
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "room",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "slack",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpnkyNEXFMlzHLIgy",
-  "text" : "For rent maid's room.",
-  "translations" : {
-    "russian" : "Сдаётся в аренду помещение служанки."
-  },
-  "tokens" : [ {
-    "token" : "for",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "rent",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "maid",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "room",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpow8NEXFMlzHLIif",
-  "text" : "Hmm... my room... friend.",
-  "translations" : {
-    "russian" : "Хм... моя подруга... по квартире."
-  },
-  "tokens" : [ {
-    "token" : "hmm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "room",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "friend",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmEiFNEXFMlzHLDQY",
-  "text" : "Dining room, please.",
-  "translations" : {
-    "russian" : "Ресторан, пожалуйста."
-  },
-  "tokens" : [ {
-    "token" : "din",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "room",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "please",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpmxiNEXFMlzHLIfo",
-  "text" : "Which room, Annie?",
-  "translations" : {
-    "russian" : "Какую комнату, Энни?"
-  },
-  "tokens" : [ {
-    "token" : "which",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "room",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "annie",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpn5DNEXFMlzHLIhQ",
-  "text" : "He's got some room!",
-  "translations" : {
-    "russian" : "У него есть пространство!"
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "some",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "room",
-    "startOffset" : 14,
-    "endOffset" : 18,
     "position" : 3
   } ],
   "contentScore" : null

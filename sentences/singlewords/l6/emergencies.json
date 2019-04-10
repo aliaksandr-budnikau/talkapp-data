@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoFGkXJDTAu_IiLfM1z",
+  "text" : "Emergency averted?",
+  "translations" : {
+    "russian" : "Опасность миновала?"
+  },
+  "tokens" : [ {
+    "token" : "emergency",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "avert",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-qFkDTAu_IiLfG7-",
+  "text" : "Emergency, halt!",
+  "translations" : {
+    "russian" : "Внимание! Аварийная остановка."
+  },
+  "tokens" : [ {
+    "token" : "emergency",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "halt",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglG6LNEXFMlzHLB8r",
   "text" : "What's a good emergency?",
   "translations" : {
@@ -387,57 +423,6 @@
     "token" : "emergency",
     "startOffset" : 12,
     "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmFhMNEXFMlzHLDSF",
-  "text" : "That's emergency money.",
-  "translations" : {
-    "russian" : "Это деньги на непредвиденные обстоятельства."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "emergency",
-    "startOffset" : 7,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "money",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmF7ENEXFMlzHLDSz",
-  "text" : "What kind of emergency?",
-  "translations" : {
-    "russian" : "Что за крайняя необходимость?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "kind",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "emergency",
-    "startOffset" : 13,
-    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null

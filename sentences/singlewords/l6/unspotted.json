@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoFWAsqDTAu_IiLfYqF",
+  "text" : "Bubbles spotted it.",
+  "translations" : {
+    "russian" : "Бабблс ее узнал."
+  },
+  "tokens" : [ {
+    "token" : "bubble",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "spotted",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhFd6DTAu_IiLfg_8",
+  "text" : "Nettles, suspect spotted in area.",
+  "translations" : {
+    "russian" : "Неттлз, подозреваемый в нашем квартале."
+  },
+  "tokens" : [ {
+    "token" : "nettle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "suspect",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "spotted",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "area",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvht4NEXFMlzHLRGS",
   "text" : "He spotted us club seats.",
   "translations" : {
@@ -28,6 +84,39 @@
     "token" : "seat",
     "startOffset" : 19,
     "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAufGDTAu_IiLfIle",
+  "text" : "Spotted... one ugly duckling exiled.",
+  "translations" : {
+    "russian" : "Замечено... Один гадкий утенок сослан."
+  },
+  "tokens" : [ {
+    "token" : "spotted",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "one",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "ugly",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "duckling",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "exile",
+    "startOffset" : 29,
+    "endOffset" : 35,
     "position" : 4
   } ],
   "contentScore" : null

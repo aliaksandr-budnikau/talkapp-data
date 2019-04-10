@@ -266,6 +266,95 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEER70DTAu_IiLecg7",
+  "text" : "You noticed the posture?",
+  "translations" : {
+    "russian" : "Вы заметили положение тела?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "noticed",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "notice",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "posture",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEw-O3DTAu_IiLe9eE",
+  "text" : "You notice any similarities...",
+  "translations" : {
+    "russian" : "Заметила сходство..."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "notice",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "any",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "similarity",
+    "startOffset" : 15,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWv5CDTAu_IiLfZKq",
+  "text" : "Notice the classic lines.",
+  "translations" : {
+    "russian" : "Обратите внимание на классические линии."
+  },
+  "tokens" : [ {
+    "token" : "notice",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "classic",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "line",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpLLiNEXFMlzHLH7H",
   "text" : "And, I mean, everybody noticed.",
   "translations" : {
@@ -399,115 +488,6 @@
     "token" : "yesterday",
     "startOffset" : 16,
     "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpJULNEXFMlzHLH4d",
-  "text" : "Don't think I haven't noticed.",
-  "translations" : {
-    "russian" : "Не думай, что я не заметил."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "think",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "i",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "haven't",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "noticed",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "notice",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpJs0NEXFMlzHLH49",
-  "text" : "You're fighting that eviction notice?",
-  "translations" : {
-    "russian" : "Ты борешься против этого уведомления?"
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "fighting",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "fight",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "eviction",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "notice",
-    "startOffset" : 30,
-    "endOffset" : 36,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpL_xNEXFMlzHLH8I",
-  "text" : "I'm not paid to notice.",
-  "translations" : {
-    "russian" : "Мне за наблюдения не платят."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "paid",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "notice",
-    "startOffset" : 16,
-    "endOffset" : 22,
     "position" : 4
   } ],
   "contentScore" : null

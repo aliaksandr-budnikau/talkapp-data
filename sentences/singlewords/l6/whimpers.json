@@ -1,0 +1,80 @@
+[ {
+  "id" : "AWoE8dxjDTAu_IiLfFQx",
+  "text" : "Muffled whimpering.",
+  "translations" : {
+    "russian" : "Тихо скулит."
+  },
+  "tokens" : [ {
+    "token" : "muffle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "whimper",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvPpGDTAu_IiLePj-",
+  "text" : "BOAR SNARLS, ZAG WHIMPERS.",
+  "translations" : {
+    "russian" : "ВЕПРЬ РЫЧИТ, ЗАГ СКУЛИТ."
+  },
+  "tokens" : [ {
+    "token" : "boar",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "snarl",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "zag",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "whimper",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1TsrDTAu_IiLeS1H",
+  "text" : "Whimpers Where's your rebel camp?",
+  "translations" : {
+    "russian" : "Где ваш повстанческий лагерь?"
+  },
+  "tokens" : [ {
+    "token" : "whimper",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "where",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "rebel",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "camp",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

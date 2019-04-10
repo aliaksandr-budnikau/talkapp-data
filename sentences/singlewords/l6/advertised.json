@@ -253,6 +253,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEmBAMDTAu_IiLe1le",
+  "text" : "Advertisers covet this demographic.",
+  "translations" : {
+    "russian" : "Рекламодатели обожают эту демографическую группу."
+  },
+  "tokens" : [ {
+    "token" : "advertise",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "covet",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "demographic",
+    "startOffset" : 23,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgo6HrNEXFMlzHLHle",
   "text" : "A program-length advertisement!",
   "translations" : {
@@ -505,44 +533,6 @@
     "token" : "advertise",
     "startOffset" : 26,
     "endOffset" : 37,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgo6KXNEXFMlzHLHlh",
-  "text" : "It's an advertisement, Mr. Cole.",
-  "translations" : {
-    "russian" : "Это же реклама, мистер Коул."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "an",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "advertisement",
-    "startOffset" : 8,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "advertise",
-    "startOffset" : 8,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "mr",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "cole",
-    "startOffset" : 27,
-    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null

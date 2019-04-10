@@ -1,219 +1,107 @@
 [ {
-  "id" : "AWbgxXj-NEXFMlzHLTKr",
-  "text" : "It's sonic wave resistant.",
+  "id" : "AWoFZGwlDTAu_IiLfbD1",
+  "text" : "He will not waver.",
   "translations" : {
-    "russian" : "Там защита от звуковых колебаний."
+    "russian" : "Он не дрогнет."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "he",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "sonic",
-    "startOffset" : 5,
-    "endOffset" : 10,
+    "token" : "will",
+    "startOffset" : 3,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "wave",
-    "startOffset" : 11,
-    "endOffset" : 15,
+    "token" : "not",
+    "startOffset" : 8,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "resistant",
-    "startOffset" : 16,
-    "endOffset" : 25,
+    "token" : "waver",
+    "startOffset" : 12,
+    "endOffset" : 17,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjNiRNEXFMlzHK_1i",
-  "text" : "I'm waving at you.",
-  "translations" : {
-    "russian" : "Я машу тебе."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
   }, {
     "token" : "wave",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "at",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 14,
+    "startOffset" : 12,
     "endOffset" : 17,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglSbeNEXFMlzHLCRR",
-  "text" : "Mountains kiss, waves clasp.",
+  "id" : "AWoFZGsnDTAu_IiLfbDx",
+  "text" : "His heartbeat didn't waver.",
   "translations" : {
-    "russian" : "Поцелуй с горами, волн слияний."
+    "russian" : "Его сердцебиение не дрогнуло."
   },
   "tokens" : [ {
-    "token" : "mountain",
+    "token" : "his",
     "startOffset" : 0,
-    "endOffset" : 9,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "kiss",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "wave",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "clasp",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjNw6NEXFMlzHK_1v",
-  "text" : "Don't you dare wave.",
-  "translations" : {
-    "russian" : "Не смей махать."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "dare",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "wave",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjO6bNEXFMlzHK_2y",
-  "text" : "It's sonic wave resistant.",
-  "translations" : {
-    "russian" : "Там защита от звуковых колебаний."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "sonic",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "wave",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "resistant",
-    "startOffset" : 16,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjNjPNEXFMlzHK_1j",
-  "text" : "Don't wave at my murderer!",
-  "translations" : {
-    "russian" : "Не машите моему убийце!"
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "wave",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "at",
-    "startOffset" : 11,
+    "token" : "heartbeat",
+    "startOffset" : 4,
     "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "murderer",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "murder",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxEG7NEXFMlzHLSz-",
-  "text" : "Lift your hand and wave.",
-  "translations" : {
-    "russian" : "Подними руку и помаши."
-  },
-  "tokens" : [ {
-    "token" : "lift",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 5,
-    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "hand",
-    "startOffset" : 10,
-    "endOffset" : 14,
+    "token" : "didn't",
+    "startOffset" : 14,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "and",
-    "startOffset" : 15,
-    "endOffset" : 18,
+    "token" : "waver",
+    "startOffset" : 21,
+    "endOffset" : 26,
     "position" : 3
   }, {
     "token" : "wave",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgiunkNEXFMlzHK_at",
-  "text" : "I have my wave sounds.",
+  "id" : "AWoFZGJLDTAu_IiLfbDV",
+  "text" : "Don't let agents waver.",
   "translations" : {
-    "russian" : "У меня есть мой шум волн."
+    "russian" : "Не позволяйте сотрудникам колебаться."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "let",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "agent",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "waver",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "wave",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZGMjDTAu_IiLfbDX",
+  "text" : "I promised I wouldn't waver...",
+  "translations" : {
+    "russian" : "Я обещаю, что не буду колебаться..."
   },
   "tokens" : [ {
     "token" : "i",
@@ -221,319 +109,386 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "have",
+    "token" : "promise",
     "startOffset" : 2,
-    "endOffset" : 6,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
+    "token" : "i",
+    "startOffset" : 11,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "wave",
-    "startOffset" : 10,
-    "endOffset" : 14,
+    "token" : "wouldn't",
+    "startOffset" : 13,
+    "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "sounds",
-    "startOffset" : 15,
-    "endOffset" : 21,
+    "token" : "waver",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "wave",
+    "startOffset" : 22,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjNF8NEXFMlzHK_1K",
-  "text" : "The second wave is closer?",
+  "id" : "AWoFZG8SDTAu_IiLfbD-",
+  "text" : "See that he doesn't waver.",
   "translations" : {
-    "russian" : "Эта вторая волна, она к нам ближе?"
+    "russian" : "Проследи,что он не сомневается."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "see",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "second",
+    "token" : "that",
     "startOffset" : 4,
-    "endOffset" : 10,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "wave",
-    "startOffset" : 11,
-    "endOffset" : 15,
+    "token" : "he",
+    "startOffset" : 9,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "is",
-    "startOffset" : 16,
-    "endOffset" : 18,
+    "token" : "doesn't",
+    "startOffset" : 12,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "closer",
-    "startOffset" : 19,
+    "token" : "waver",
+    "startOffset" : 20,
     "endOffset" : 25,
     "position" : 4
   }, {
-    "token" : "close",
-    "startOffset" : 19,
+    "token" : "wave",
+    "startOffset" : 20,
     "endOffset" : 25,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglScdNEXFMlzHLCRU",
-  "text" : "This one doesn't have waves.",
+  "id" : "AWoFZHapDTAu_IiLfbEX",
+  "text" : "What if I did waver?",
   "translations" : {
-    "russian" : "Эта волн не имеет."
+    "russian" : "А если бы изменились?"
   },
   "tokens" : [ {
-    "token" : "this",
+    "token" : "what",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "one",
+    "token" : "if",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "i",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "did",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 3
+  }, {
+    "token" : "waver",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 4
+  }, {
+    "token" : "wave",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZHCTDTAu_IiLfbED",
+  "text" : "Are you wavering?",
+  "translations" : {
+    "russian" : "Ты сомневаешься?"
+  },
+  "tokens" : [ {
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "wavering",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "waver",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZHctDTAu_IiLfbEZ",
+  "text" : "If I wavered?",
+  "translations" : {
+    "russian" : "А если бы изменились?"
+  },
+  "tokens" : [ {
+    "token" : "if",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 3,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "waver",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZGQ5DTAu_IiLfbDa",
+  "text" : "You can't be wavering.",
+  "translations" : {
+    "russian" : "У тебя нет причин колебаться."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "can't",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "wavering",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "waver",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZGmWDTAu_IiLfbDr",
+  "text" : "That man never wavered.",
+  "translations" : {
+    "russian" : "Он так и не дрогнул."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "man",
     "startOffset" : 5,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "doesn't",
+    "token" : "never",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "waver",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9PazDTAu_IiLeXE0",
+  "text" : "My allegiance wavered, signora.",
+  "translations" : {
+    "russian" : "Я колебался в своей верности, синьора."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "allegiance",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "waver",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "signora",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZGABDTAu_IiLfbDN",
+  "text" : "My allegiance wavered, signora.",
+  "translations" : {
+    "russian" : "Я колебался в своей верности, синьора."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "allegiance",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "waver",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "signora",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZGgkDTAu_IiLfbDn",
+  "text" : "He never wavered.",
+  "translations" : {
+    "russian" : "Ни разу не дрогнул."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "never",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "waver",
     "startOffset" : 9,
     "endOffset" : 16,
     "position" : 2
-  }, {
-    "token" : "have",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "wave",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqQ2ONEXFMlzHLJaC",
-  "text" : "I have my wave sounds.",
+  "id" : "AWoFZG_bDTAu_IiLfbEA",
+  "text" : "You've never wavered, Jasmine.",
   "translations" : {
-    "russian" : "У меня есть мой шум волн."
+    "russian" : "Ты никогда не сомневалась, Жасмин."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "you've",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "have",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "my",
+    "token" : "never",
     "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "wave",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "sounds",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjNYgNEXFMlzHK_1Z",
-  "text" : "Daphne, your boyfriend's waving at you.",
-  "translations" : {
-    "russian" : "Дафна, тебе машет твой приятель."
-  },
-  "tokens" : [ {
-    "token" : "daphne",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 8,
     "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "boyfriend",
+    "token" : "waver",
     "startOffset" : 13,
-    "endOffset" : 24,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "wave",
-    "startOffset" : 25,
-    "endOffset" : 31,
+    "token" : "jasmine",
+    "startOffset" : 22,
+    "endOffset" : 29,
     "position" : 3
-  }, {
-    "token" : "at",
-    "startOffset" : 32,
-    "endOffset" : 34,
-    "position" : 4
-  }, {
-    "token" : "you",
-    "startOffset" : 35,
-    "endOffset" : 38,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjNSpNEXFMlzHK_1U",
-  "text" : "Fight the waves and you'll drown.",
+  "id" : "AWoFY_PUDTAu_IiLfa9n",
+  "text" : "My wavering self.",
   "translations" : {
-    "russian" : "Борись с волнами - и ты утонешь."
+    "russian" : "Моя нерешительность..."
   },
   "tokens" : [ {
-    "token" : "fight",
+    "token" : "my",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "wave",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "you'll",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "drown",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjNWiNEXFMlzHK_1X",
-  "text" : "Okay, well, let's ride that wave.",
-  "translations" : {
-    "russian" : "Ок, ладно, поймай эту волну."
-  },
-  "tokens" : [ {
-    "token" : "okay",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "well",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "let",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "ride",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "that",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "wave",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjNtQNEXFMlzHK_1s",
-  "text" : "Like waving red at a bull.",
-  "translations" : {
-    "russian" : "Всё равно, что махать красной тряпкой перед быком."
-  },
-  "tokens" : [ {
-    "token" : "like",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "wave",
-    "startOffset" : 5,
+    "token" : "wavering",
+    "startOffset" : 3,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "red",
+    "token" : "waver",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "self",
     "startOffset" : 12,
-    "endOffset" : 15,
+    "endOffset" : 16,
     "position" : 2
-  }, {
-    "token" : "at",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 19,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "bull",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjNbbNEXFMlzHK_1c",
-  "text" : "They cheered, he waved, and wham!",
+  "id" : "AWoFZHYvDTAu_IiLfbEV",
+  "text" : "And, if I had wavered?",
   "translations" : {
-    "russian" : "Они аплодируют, он машет, и вдруг - бац!"
+    "russian" : "А если бы изменились?"
   },
   "tokens" : [ {
-    "token" : "they",
+    "token" : "and",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "cheer",
+    "token" : "if",
     "startOffset" : 5,
-    "endOffset" : 12,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "he",
-    "startOffset" : 14,
-    "endOffset" : 16,
+    "token" : "i",
+    "startOffset" : 8,
+    "endOffset" : 9,
     "position" : 2
   }, {
-    "token" : "wave",
-    "startOffset" : 17,
-    "endOffset" : 22,
+    "token" : "had",
+    "startOffset" : 10,
+    "endOffset" : 13,
     "position" : 3
   }, {
-    "token" : "and",
-    "startOffset" : 24,
-    "endOffset" : 27,
+    "token" : "waver",
+    "startOffset" : 14,
+    "endOffset" : 21,
     "position" : 4
-  }, {
-    "token" : "wham",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

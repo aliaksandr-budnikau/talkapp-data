@@ -1,67 +1,78 @@
 [ {
-  "id" : "AWbgmk2mNEXFMlzHLEH3",
-  "text" : "Hot plates and griddles.",
+  "id" : "AWoFFU-KDTAu_IiLfL7W",
+  "text" : "Plates.",
   "translations" : {
-    "russian" : "Электроплиты и сковородки."
+    "russian" : "Клише."
   },
   "tokens" : [ {
-    "token" : "hot",
+    "token" : "plate",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjjC0DTAu_IiLezvW",
+  "text" : "The plate.",
+  "translations" : {
+    "russian" : "Coin, revenues and moveablesПоместья,деньги,движимостьиутварь."
+  },
+  "tokens" : [ {
+    "token" : "the",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
     "token" : "plate",
     "startOffset" : 4,
-    "endOffset" : 10,
+    "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "griddle",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdFgONEXFMlzHK6mZ",
-  "text" : "A full plate, please!",
+  "id" : "AWoFFQyuDTAu_IiLfL4U",
+  "text" : "What plates?",
   "translations" : {
-    "russian" : "И полную тарелку, пожалуйста!"
+    "russian" : "Какие тарелки?"
   },
   "tokens" : [ {
-    "token" : "a",
+    "token" : "what",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "full",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
     "token" : "plate",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "please",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglkmfNEXFMlzHLCxR",
-  "text" : "DC plates, F793A4.",
+  "id" : "AWoFFQsNDTAu_IiLfL4O",
+  "text" : "Your plate.",
   "translations" : {
-    "russian" : "Номера округа Колумбия, F793A4."
+    "russian" : "Вашу тарелку."
   },
   "tokens" : [ {
-    "token" : "dc",
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "plate",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFTCoDTAu_IiLfL57",
+  "text" : "No plates.",
+  "translations" : {
+    "russian" : "Номерных знаков нет."
+  },
+  "tokens" : [ {
+    "token" : "no",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
@@ -70,244 +81,121 @@
     "startOffset" : 3,
     "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "f793a4",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwurvNEXFMlzHLSee",
-  "text" : "Ali, drop the plate!",
+  "id" : "AWoFFQ98DTAu_IiLfL4c",
+  "text" : "The plate.",
   "translations" : {
-    "russian" : "Али, брось тарелку!"
+    "russian" : "Тарелка."
   },
   "tokens" : [ {
-    "token" : "ali",
+    "token" : "the",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "drop",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
     "token" : "plate",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdFtONEXFMlzHK6mk",
-  "text" : "Also, she broke a plate.",
-  "translations" : {
-    "russian" : "А ещё она тарелку разбила."
-  },
-  "tokens" : [ {
-    "token" : "also",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "she",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "broke",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 16,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "plate",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdG3sNEXFMlzHK6nm",
-  "text" : "I ran the license plate.",
-  "translations" : {
-    "russian" : "Я прогнал номер автомобиля."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "ran",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "license",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "plate",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmac1NEXFMlzHLD2N",
-  "text" : "Hide mum's plate and cutlery.",
-  "translations" : {
-    "russian" : "А вы пока спрячьте мамин прибор."
-  },
-  "tokens" : [ {
-    "token" : "hide",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "mum",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "plate",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "cutlery",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeX95NEXFMlzHK7rx",
-  "text" : "Who brought in outside plates?",
-  "translations" : {
-    "russian" : "Кто принес посторонние тарелки?"
-  },
-  "tokens" : [ {
-    "token" : "who",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "brought",
     "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFSMSDTAu_IiLfL5S",
+  "text" : "Metal plate.",
+  "translations" : {
+    "russian" : "Металическая пластина."
+  },
+  "tokens" : [ {
+    "token" : "metal",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "plate",
+    "startOffset" : 6,
     "endOffset" : 11,
     "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "outside",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "plate",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdGqRNEXFMlzHK6na",
-  "text" : "All right, plate's in position.",
+  "id" : "AWoFFRPqDTAu_IiLfL4m",
+  "text" : "Polish plates.",
   "translations" : {
-    "russian" : "Так, пластинки на месте."
+    "russian" : "У вас польские номера."
   },
   "tokens" : [ {
-    "token" : "all",
+    "token" : "polish",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "right",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
     "token" : "plate",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "position",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 4
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdGLQNEXFMlzHK6nA",
-  "text" : "Possibly a tectonic plate slippage.",
+  "id" : "AWoFFRVrDTAu_IiLfL4r",
+  "text" : "Georgia plates.",
   "translations" : {
-    "russian" : "Возможно, движением тектонических плит."
+    "russian" : "Номера Джорджии."
   },
   "tokens" : [ {
-    "token" : "possibly",
+    "token" : "georgia",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "plate",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFTwjDTAu_IiLfL6d",
+  "text" : "Your plate.",
+  "translations" : {
+    "russian" : "Твое блюдо."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "plate",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFUm6DTAu_IiLfL7G",
+  "text" : "Tectonic plates.",
+  "translations" : {
+    "russian" : "Тектоническая плита."
+  },
+  "tokens" : [ {
+    "token" : "tectonic",
     "startOffset" : 0,
     "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "tectonic",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
     "token" : "plate",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "slippage",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 4
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdGkaNEXFMlzHK6nU",
-  "text" : "The plates have serial numbers.",
+  "id" : "AWoFFVkgDTAu_IiLfL70",
+  "text" : "The plate.",
   "translations" : {
-    "russian" : "Пластинки имеют серийный номер."
+    "russian" : "Тарелочка."
   },
   "tokens" : [ {
     "token" : "the",
@@ -317,187 +205,84 @@
   }, {
     "token" : "plate",
     "startOffset" : 4,
-    "endOffset" : 10,
+    "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "serial",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "numbers",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "numb",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdGxlNEXFMlzHK6ng",
-  "text" : "They got a number plate.",
+  "id" : "AWoFFQ3rDTAu_IiLfL4Y",
+  "text" : "Small plates.",
   "translations" : {
-    "russian" : "У них есть номер автомобиля."
+    "russian" : "Маленькие тарелки."
   },
   "tokens" : [ {
-    "token" : "they",
+    "token" : "small",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "plate",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFSXQDTAu_IiLfL5b",
+  "text" : "The plate.",
+  "translations" : {
+    "russian" : "Пластину."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "plate",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFTEsDTAu_IiLfL59",
+  "text" : "Take the plate number!",
+  "translations" : {
+    "russian" : "Запиши номер машины!"
+  },
+  "tokens" : [ {
+    "token" : "take",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "got",
+    "token" : "the",
     "startOffset" : 5,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "a",
+    "token" : "plate",
     "startOffset" : 9,
-    "endOffset" : 10,
+    "endOffset" : 14,
     "position" : 2
   }, {
     "token" : "number",
-    "startOffset" : 11,
-    "endOffset" : 17,
+    "startOffset" : 15,
+    "endOffset" : 21,
     "position" : 3
   }, {
     "token" : "numb",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "plate",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgirl4NEXFMlzHK_YE",
-  "text" : "It's a silver Chevy, license plate.",
-  "translations" : {
-    "russian" : "Это серебристый Шевроле, номерной знак."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "silver",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "chevy",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "license",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "plate",
-    "startOffset" : 29,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmY7wNEXFMlzHLDzq",
-  "text" : "And forks and plates and cups.",
-  "translations" : {
-    "russian" : "Так же как и вилок, тарелок и чашек."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "fork",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "plate",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "and",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "cup",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdGwnNEXFMlzHK6nf",
-  "text" : "What about the VIN and plates?",
-  "translations" : {
-    "russian" : "Как насчет номера автомобиля и номерного знака?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "about",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "vin",
     "startOffset" : 15,
-    "endOffset" : 18,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "and",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "plate",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdG5pNEXFMlzHK6no",
-  "text" : "Yeah, and what about the plates?",
+  "id" : "AWoFFTlWDTAu_IiLfL6V",
+  "text" : "Yeah, Indiana plates.",
   "translations" : {
-    "russian" : "Да, а что насчет печатных форм?"
+    "russian" : "На машине номера Индианы."
   },
   "tokens" : [ {
     "token" : "yeah",
@@ -505,30 +290,15 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "and",
+    "token" : "indiana",
     "startOffset" : 6,
-    "endOffset" : 9,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "what",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "about",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
     "token" : "plate",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 5
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

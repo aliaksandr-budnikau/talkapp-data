@@ -1,69 +1,333 @@
 [ {
-  "id" : "AWbgvEyZNEXFMlzHLQXa",
-  "text" : "Check witnesses as well.",
+  "id" : "AWoEdCq3DTAu_IiLeunz",
+  "text" : "Witness availability.",
   "translations" : {
-    "russian" : "Как следует проверьте свидетеля."
+    "russian" : "Доступность свидетеля."
   },
   "tokens" : [ {
-    "token" : "check",
+    "token" : "witness",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 7,
     "position" : 0
   }, {
+    "token" : "wit",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "availability",
+    "startOffset" : 8,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEGI2DTAu_IiLecXn",
+  "text" : "Witness tampering.",
+  "translations" : {
+    "russian" : "Подкуп свидетелей."
+  },
+  "tokens" : [ {
     "token" : "witness",
-    "startOffset" : 6,
-    "endOffset" : 15,
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wit",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tamper",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6oKVDTAu_IiLeVP-",
+  "text" : "Witness her unholy gaze.",
+  "translations" : {
+    "russian" : "Свидетельствуйте её нечестивый взор."
+  },
+  "tokens" : [ {
+    "token" : "witness",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wit",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "her",
+    "startOffset" : 8,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "as",
-    "startOffset" : 16,
+    "token" : "unholy",
+    "startOffset" : 12,
     "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "well",
+    "token" : "gaze",
     "startOffset" : 19,
     "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgs5mJNEXFMlzHLNDe",
-  "text" : "Bring on the voluntary witnesses.",
+  "id" : "AWoEEGGpDTAu_IiLecXl",
+  "text" : "Witness tampering, extortion, bribery.",
   "translations" : {
-    "russian" : "Вперед, добровольный свидетель!"
+    "russian" : "Подкуп свидетелей, вымогательство, взятки."
   },
   "tokens" : [ {
-    "token" : "bring",
+    "token" : "witness",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "on",
-    "startOffset" : 6,
-    "endOffset" : 8,
+    "token" : "wit",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tamper",
+    "startOffset" : 8,
+    "endOffset" : 17,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
+    "token" : "extortion",
+    "startOffset" : 19,
+    "endOffset" : 28,
     "position" : 2
   }, {
-    "token" : "voluntary",
-    "startOffset" : 13,
+    "token" : "bribery",
+    "startOffset" : 30,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEgL1DTAu_IiLfLWo",
+  "text" : "Witness her unholy gaze.",
+  "translations" : {
+    "russian" : "Свидетельствуйте её нечестивый взор."
+  },
+  "tokens" : [ {
+    "token" : "witness",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wit",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "her",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "unholy",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "gaze",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6WpUDTAu_IiLeVIG",
+  "text" : "Witness her unholy gaze.",
+  "translations" : {
+    "russian" : "Свидетельствуйте её нечестивый взор."
+  },
+  "tokens" : [ {
+    "token" : "witness",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wit",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "her",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "unholy",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "gaze",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETd87DTAu_IiLen0o",
+  "text" : "Witness tampering, extortion, bribery.",
+  "translations" : {
+    "russian" : "Подкуп свидетелей, вымогательство, взятки."
+  },
+  "tokens" : [ {
+    "token" : "witness",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wit",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tamper",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "extortion",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "bribery",
+    "startOffset" : 30,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIwv9DTAu_IiLefxb",
+  "text" : "Unavailable witness exception, Your Honor.",
+  "translations" : {
+    "russian" : "Незаконный отвод свидетеля, ваша честь."
+  },
+  "tokens" : [ {
+    "token" : "available",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "witness",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "wit",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "exception",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 31,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "honor",
+    "startOffset" : 36,
+    "endOffset" : 41,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoBuHDTAu_IiLe3IF",
+  "text" : "Prepare to witness his miracle.",
+  "translations" : {
+    "russian" : "Приготовься узреть его чудо."
+  },
+  "tokens" : [ {
+    "token" : "prepare",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "witness",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "wit",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "his",
+    "startOffset" : 19,
     "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "witness",
+    "token" : "miracle",
     "startOffset" : 23,
-    "endOffset" : 32,
+    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgi2F9NEXFMlzHK_hC",
-  "text" : "I witnessed effect before cause.",
+  "id" : "AWoEok2KDTAu_IiLe3iX",
+  "text" : "That doesn't disqualify our witness.",
   "translations" : {
-    "russian" : "Я увидел следствие до причины."
+    "russian" : "Это не может дисквалифицировать нашего свидетеля."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "doesn't",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "qualify",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "our",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "witness",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "wit",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2qQgDTAu_IiLfBel",
+  "text" : "I witness this last testament.",
+  "translations" : {
+    "russian" : "Я являюсь свидетелем этой последней воли."
   },
   "tokens" : [ {
     "token" : "i",
@@ -71,68 +335,58 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "witnessed",
-    "startOffset" : 2,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
     "token" : "witness",
     "startOffset" : 2,
-    "endOffset" : 11,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "effect",
-    "startOffset" : 12,
-    "endOffset" : 18,
+    "token" : "wit",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 10,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "before",
-    "startOffset" : 19,
-    "endOffset" : 25,
+    "token" : "last",
+    "startOffset" : 15,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "cause",
-    "startOffset" : 26,
-    "endOffset" : 31,
+    "token" : "testament",
+    "startOffset" : 20,
+    "endOffset" : 29,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgj1R7NEXFMlzHLAWp",
-  "text" : "I witnessed effect before cause.",
+  "id" : "AWoDitn2DTAu_IiLeIiF",
+  "text" : "The famous Potter wit.",
   "translations" : {
-    "russian" : "Я увидел следствие до причины."
+    "russian" : "Известное остроумие Потер."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "the",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "witnessed",
-    "startOffset" : 2,
-    "endOffset" : 11,
+    "token" : "famous",
+    "startOffset" : 4,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "witness",
-    "startOffset" : 2,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "effect",
-    "startOffset" : 12,
-    "endOffset" : 18,
+    "token" : "potter",
+    "startOffset" : 11,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "before",
-    "startOffset" : 19,
-    "endOffset" : 25,
+    "token" : "wit",
+    "startOffset" : 18,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "cause",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

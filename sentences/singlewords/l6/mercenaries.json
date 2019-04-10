@@ -31,4 +31,42 @@
     "position" : 4
   } ],
   "contentScore" : null
+}, {
+  "id" : "AWoE9OPNDTAu_IiLfFyZ",
+  "text" : "All your frozen mercenaries are dead.",
+  "translations" : {
+    "russian" : "Все ваши замороженные наемники мертвы."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "frozen",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "mercenary",
+    "startOffset" : 16,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "are",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "dead",
+    "startOffset" : 32,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
 } ]

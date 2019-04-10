@@ -1,4 +1,121 @@
 [ {
+  "id" : "AWoEWPxPDTAu_IiLep9b",
+  "text" : "Best guess, stress rash.",
+  "translations" : {
+    "russian" : "Лучшая догадка, сыпь от стресса."
+  },
+  "tokens" : [ {
+    "token" : "best",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "b",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "guess",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "stress",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "rash",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbFHeDTAu_IiLetSN",
+  "text" : "Hydrodynamic stress overload.",
+  "translations" : {
+    "russian" : "Гидродинамические перегрузки стресса."
+  },
+  "tokens" : [ {
+    "token" : "hydrodynamic",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "stress",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "overload",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDT0lSDTAu_IiLeAHc",
+  "text" : "Voice stress analyzer.",
+  "translations" : {
+    "russian" : "Анализатор голоса."
+  },
+  "tokens" : [ {
+    "token" : "voice",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "stress",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "analyzer",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "analyze",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnZLiDTAu_IiLe2oN",
+  "text" : "Diagonal stresses on the ideograms.",
+  "translations" : {
+    "russian" : "Диагональный нажим на идеограммах."
+  },
+  "tokens" : [ {
+    "token" : "diagonal",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "stress",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "ideogram",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgohZ5NEXFMlzHLHDB",
   "text" : "I'll stress it in my report.",
   "translations" : {
@@ -33,6 +150,82 @@
     "token" : "port",
     "startOffset" : 21,
     "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhKLADTAu_IiLex1C",
+  "text" : "It's just accumulated fatigue and stress.",
+  "translations" : {
+    "russian" : "Это стресс и накопленная усталость."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "accumulate",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "fatigue",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 30,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "stress",
+    "startOffset" : 34,
+    "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhSi4DTAu_IiLfhIg",
+  "text" : "Well, we're in dire financial stress.",
+  "translations" : {
+    "russian" : "Сейчас наши финансы в ужасном положении."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "we're",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "dire",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "financial",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "stress",
+    "startOffset" : 30,
+    "endOffset" : 36,
     "position" : 5
   } ],
   "contentScore" : null

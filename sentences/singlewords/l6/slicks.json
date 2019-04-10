@@ -27,6 +27,57 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDcBHqDTAu_IiLeEtc",
+  "text" : "Pretty slick, Mud.",
+  "translations" : {
+    "russian" : "Хитро, Мад."
+  },
+  "tokens" : [ {
+    "token" : "pretty",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "slick",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "mud",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFINOODTAu_IiLfOL2",
+  "text" : "Is slick and smooth?",
+  "translations" : {
+    "russian" : "Самый ловкий."
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "slick",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "smooth",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkJp1NEXFMlzHLAkq",
   "text" : "Ooh, pretty slick move.",
   "translations" : {
@@ -108,6 +159,29 @@
     "startOffset" : 19,
     "endOffset" : 22,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBj2NDTAu_IiLfJNm",
+  "text" : "Oh, slick shades.",
+  "translations" : {
+    "russian" : "Крутые очки!"
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "slick",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "shade",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -389,120 +463,6 @@
     "token" : "slick",
     "startOffset" : 29,
     "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkJuONEXFMlzHLAkx",
-  "text" : "Yeah, wasn't he slick about that?",
-  "translations" : {
-    "russian" : "Да, и это было ловко."
-  },
-  "tokens" : [ {
-    "token" : "yeah",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "wasn't",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "he",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "slick",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "about",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "that",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkJy3NEXFMlzHLAk4",
-  "text" : "I think sharks think they're slick.",
-  "translations" : {
-    "russian" : "Они там думают, какие они ловкие."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "think",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "shark",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "think",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "they're",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "slick",
-    "startOffset" : 29,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkKBRNEXFMlzHLAlM",
-  "text" : "We need to make it slick.",
-  "translations" : {
-    "russian" : "Нам нужно, чтобы сделать ее гладкой."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "need",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "make",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 4
-  }, {
-    "token" : "slick",
-    "startOffset" : 19,
-    "endOffset" : 24,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEDxJYDTAu_IiLecGx",
+  "text" : "Seating capacity's 80.",
+  "translations" : {
+    "russian" : "Вместимость... 80."
+  },
+  "tokens" : [ {
+    "token" : "seating",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "seat",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "capacity",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "80",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvgvrNEXFMlzHLREW",
   "text" : "Wait, it's my seat!",
   "translations" : {
@@ -83,6 +111,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE8GAGDTAu_IiLfFBZ",
+  "text" : "With seat belts fastened.",
+  "translations" : {
+    "russian" : "И пристегните ремни."
+  },
+  "tokens" : [ {
+    "token" : "with",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "seat",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "belt",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "fasten",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvhNKNEXFMlzHLRFZ",
   "text" : "Seat here, thank you.",
   "translations" : {
@@ -139,6 +195,138 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE8FhQDTAu_IiLfFBF",
+  "text" : "Fasten your seat belt.",
+  "translations" : {
+    "russian" : "Пристегни ремень безопасности."
+  },
+  "tokens" : [ {
+    "token" : "fasten",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "seat",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "belt",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8Ff7DTAu_IiLfFBE",
+  "text" : "Fasten your seat belt.",
+  "translations" : {
+    "russian" : "Пристегни ремень."
+  },
+  "tokens" : [ {
+    "token" : "fasten",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "seat",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "belt",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-F7VDTAu_IiLfGeP",
+  "text" : "All seats are occupied.",
+  "translations" : {
+    "russian" : "Здесь все места заняты."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "seat",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "occupied",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "occupy",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8GnhDTAu_IiLfFBy",
+  "text" : "Fasten your seat belt.",
+  "translations" : {
+    "russian" : "Пристегнуться!"
+  },
+  "tokens" : [ {
+    "token" : "fasten",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "seat",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "belt",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvhmzNEXFMlzHLRGF",
   "text" : "One seat, please.",
   "translations" : {
@@ -159,6 +347,39 @@
     "startOffset" : 10,
     "endOffset" : 16,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9x08DTAu_IiLfGOG",
+  "text" : "All seats are occupied.",
+  "translations" : {
+    "russian" : "Здесь все места заняты."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "seat",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "occupied",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "occupy",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -185,310 +406,69 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqcdpNEXFMlzHLJqI",
-  "text" : "Not just tickets... floor seats.",
+  "id" : "AWoE8FAHDTAu_IiLfFAs",
+  "text" : "Fasten your seat belts.",
   "translations" : {
-    "russian" : "Не просто билеты... места по периметру площадки."
+    "russian" : "Пристегните ваши ремни."
   },
   "tokens" : [ {
-    "token" : "not",
+    "token" : "fasten",
     "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "just",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "ticket",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "floor",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "seat",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkw4-NEXFMlzHLBYJ",
-  "text" : "We reserved our seats together.",
-  "translations" : {
-    "russian" : "Мы же зарезервировали места рядом друг с другом."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "reserved",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "serve",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "seat",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "together",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvgzWNEXFMlzHLREe",
-  "text" : "I need your seat, buddy.",
-  "translations" : {
-    "russian" : "Мне нужно твое место, приятель."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "need",
-    "startOffset" : 2,
     "endOffset" : 6,
-    "position" : 1
+    "position" : 0
+  }, {
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
   }, {
     "token" : "your",
     "startOffset" : 7,
     "endOffset" : 11,
-    "position" : 2
+    "position" : 1
   }, {
     "token" : "seat",
     "startOffset" : 12,
     "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "buddy",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvh_BNEXFMlzHLRG4",
-  "text" : "Regular seats, but priority boarding.",
-  "translations" : {
-    "russian" : "Обычные кресла, но приоритетная посадка."
-  },
-  "tokens" : [ {
-    "token" : "regular",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "seat",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "but",
-    "startOffset" : 15,
-    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "priority",
-    "startOffset" : 19,
-    "endOffset" : 27,
+    "token" : "belt",
+    "startOffset" : 17,
+    "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "boarding",
-    "startOffset" : 28,
-    "endOffset" : 36,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvhniNEXFMlzHLRGG",
-  "text" : "Take a 10 franc seat.",
+  "id" : "AWoE8FltDTAu_IiLfFBI",
+  "text" : "Fasten your seat belt!",
   "translations" : {
-    "russian" : "Возьми билет за 10 франков."
+    "russian" : "Пристегните ремни безопасности."
   },
   "tokens" : [ {
-    "token" : "take",
+    "token" : "fasten",
     "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
     "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "10",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "franc",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "seat",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvhi5NEXFMlzHLRF8",
-  "text" : "I just seated a guy.",
-  "translations" : {
-    "russian" : "Я только что парня посадила."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "just",
-    "startOffset" : 2,
+    "token" : "fast",
+    "startOffset" : 0,
     "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "seated",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "seat",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "guy",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvhtYNEXFMlzHLRGR",
-  "text" : "The seat that I procured.",
-  "translations" : {
-    "russian" : "Билет, который я приобрел..."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
     "position" : 0
   }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
     "token" : "seat",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 9,
-    "endOffset" : 13,
+    "startOffset" : 12,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "i",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "cure",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvg-CNEXFMlzHLRE2",
-  "text" : "The truck has leather seats.",
-  "translations" : {
-    "russian" : "В грузовике кожаные сиденья."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "truck",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "has",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "leather",
-    "startOffset" : 14,
+    "token" : "belt",
+    "startOffset" : 17,
     "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "seat",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvgvMNEXFMlzHLREV",
-  "text" : "Everyone stays at his seat!",
-  "translations" : {
-    "russian" : "Всем оставаться на местах!"
-  },
-  "tokens" : [ {
-    "token" : "everyone",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "stay",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "at",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "his",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "seat",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

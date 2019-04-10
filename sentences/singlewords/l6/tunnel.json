@@ -55,6 +55,128 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEmB5kDTAu_IiLe1mI",
+  "text" : "What diversion tunnels?",
+  "translations" : {
+    "russian" : "Какие туннели отклонения?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "diversion",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "diverse",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "tunnel",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFe7SUDTAu_IiLffji",
+  "text" : "They tunnel for nourishment.",
+  "translations" : {
+    "russian" : "Роют тоннели, чтобы питаться."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "tunnel",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "nourishment",
+    "startOffset" : 16,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "nourish",
+    "startOffset" : 16,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_-0rDTAu_IiLfIAc",
+  "text" : "Beta blockers, carpal tunnel.",
+  "translations" : {
+    "russian" : "Бета блокаторы, синдром запястного канала."
+  },
+  "tokens" : [ {
+    "token" : "beta",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "blocker",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "carpal",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "tunnel",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyK3PNEXFMlzHLUae",
+  "text" : "My man loves his tunnels.",
+  "translations" : {
+    "russian" : "Мой муж обожал тоннели."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "man",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "love",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "his",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "tunnel",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyK5MNEXFMlzHLUai",
   "text" : "I'm coming down the tunnel.",
   "translations" : {
@@ -93,35 +215,106 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyK3PNEXFMlzHLUae",
-  "text" : "My man loves his tunnels.",
+  "id" : "AWoEEcy-DTAu_IiLecpU",
+  "text" : "This entire tunnel runs downhill.",
   "translations" : {
-    "russian" : "Мой муж обожал тоннели."
+    "russian" : "Этот туннель работает под гору."
   },
   "tokens" : [ {
-    "token" : "my",
+    "token" : "this",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "man",
-    "startOffset" : 3,
-    "endOffset" : 6,
+    "token" : "entire",
+    "startOffset" : 5,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "love",
-    "startOffset" : 7,
-    "endOffset" : 12,
+    "token" : "tunnel",
+    "startOffset" : 12,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "his",
-    "startOffset" : 13,
-    "endOffset" : 16,
+    "token" : "run",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "downhill",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzrQKDTAu_IiLeSBw",
+  "text" : "Underground tunnels on Kennel Road.",
+  "translations" : {
+    "russian" : "Подземный тоннель на Кеннел Роад."
+  },
+  "tokens" : [ {
+    "token" : "underground",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "tunnel",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "kennel",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "road",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_-tVDTAu_IiLfIAV",
+  "text" : "Only after the carpal tunnel.",
+  "translations" : {
+    "russian" : "Только после синдрома запястного канала."
+  },
+  "tokens" : [ {
+    "token" : "only",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "aft",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "carpal",
+    "startOffset" : 15,
+    "endOffset" : 21,
     "position" : 3
   }, {
     "token" : "tunnel",
-    "startOffset" : 17,
-    "endOffset" : 24,
+    "startOffset" : 22,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null
@@ -149,6 +342,44 @@
   }, {
     "token" : "a",
     "startOffset" : 20,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "tunnel",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8Z-BDTAu_IiLeWbY",
+  "text" : "He's in a ventilation tunnel.",
+  "translations" : {
+    "russian" : "Он в вентиляционной шахте."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "ventilation",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "ventilate",
+    "startOffset" : 10,
     "endOffset" : 21,
     "position" : 3
   }, {
@@ -263,268 +494,40 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgn2jfNEXFMlzHLGIq",
-  "text" : "The column goes into the tunnel.",
+  "id" : "AWoEFTwEDTAu_IiLedTF",
+  "text" : "This tunnel leads to the harbor.",
   "translations" : {
-    "russian" : "Колонна идёт в тоннель."
+    "russian" : "Тунель ведет к гавани."
   },
   "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "column",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "goes",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "into",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "tunnel",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyK8nNEXFMlzHLUaq",
-  "text" : "I'll see where this tunnel leads.",
-  "translations" : {
-    "russian" : "Я посмотрю, куда ведет этот тоннель."
-  },
-  "tokens" : [ {
-    "token" : "i'll",
+    "token" : "this",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "see",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "where",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "this",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
     "token" : "tunnel",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
   }, {
     "token" : "lead",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl0SqNEXFMlzHLC9E",
-  "text" : "Pedestrian tunnel at the Hollywood Bowl.",
-  "translations" : {
-    "russian" : "В пешеходном туннели на Голливуд Боул."
-  },
-  "tokens" : [ {
-    "token" : "pedestrian",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "tunnel",
-    "startOffset" : 11,
+    "startOffset" : 12,
     "endOffset" : 17,
-    "position" : 1
+    "position" : 2
   }, {
-    "token" : "at",
+    "token" : "to",
     "startOffset" : 18,
     "endOffset" : 20,
-    "position" : 2
+    "position" : 3
   }, {
     "token" : "the",
     "startOffset" : 21,
     "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "hollywood",
-    "startOffset" : 25,
-    "endOffset" : 34,
     "position" : 4
   }, {
-    "token" : "bowl",
-    "startOffset" : 35,
-    "endOffset" : 39,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyLARNEXFMlzHLUaz",
-  "text" : "In the tunnel under the Luxor.",
-  "translations" : {
-    "russian" : "В тоннеле под Люксором."
-  },
-  "tokens" : [ {
-    "token" : "in",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "tunnel",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "under",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "luxor",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyK1iNEXFMlzHLUaa",
-  "text" : "What about tunnels under Dupont Circle?",
-  "translations" : {
-    "russian" : "Что с туннелями под площадью Дюпон?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "about",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "tunnel",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "under",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "dupont",
+    "token" : "harbor",
     "startOffset" : 25,
     "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "circle",
-    "startOffset" : 32,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyK_DNEXFMlzHLUaw",
-  "text" : "I've seen them in the tunnels.",
-  "translations" : {
-    "russian" : "Я видел их в тоннелях."
-  },
-  "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "seen",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "them",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "tunnel",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyKwpNEXFMlzHLUaR",
-  "text" : "It looks like a... a tunnel!",
-  "translations" : {
-    "russian" : "Похоже на... туннель!"
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "look",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "like",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 19,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "tunnel",
-    "startOffset" : 21,
-    "endOffset" : 27,
     "position" : 5
   } ],
   "contentScore" : null

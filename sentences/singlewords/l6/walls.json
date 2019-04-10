@@ -1,4 +1,83 @@
 [ {
+  "id" : "AWoEH7xeDTAu_IiLefMm",
+  "text" : "Abdominal wall's really swollen.",
+  "translations" : {
+    "russian" : "Опухшая брюшная стенка."
+  },
+  "tokens" : [ {
+    "token" : "abdominal",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "wall",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "ally",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "swollen",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYOtFDTAu_IiLeCc8",
+  "text" : "They're occupying Wall Street.",
+  "translations" : {
+    "russian" : "Оккупируют Уолл-Стрит."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "occupy",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "wall",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "street",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-JP8DTAu_IiLfGg6",
+  "text" : "Occupy Wall Street!",
+  "translations" : {
+    "russian" : "Захвати Уолл Стритт!"
+  },
+  "tokens" : [ {
+    "token" : "occupy",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wall",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "street",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxYEPNEXFMlzHLTLN",
   "text" : "Boom... sad wall.",
   "translations" : {
@@ -22,57 +101,233 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgo7MwNEXFMlzHLHmg",
-  "text" : "A wall of newspaper clippings.",
+  "id" : "AWoDVxo8DTAu_IiLeBW8",
+  "text" : "No wall motion abnormalities.",
   "translations" : {
-    "russian" : "Стена с газетными вырезками."
+    "russian" : "Аномалий движения стенки нет."
   },
   "tokens" : [ {
-    "token" : "a",
+    "token" : "no",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 2,
     "position" : 0
   }, {
     "token" : "wall",
-    "startOffset" : 2,
-    "endOffset" : 6,
+    "startOffset" : 3,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "of",
-    "startOffset" : 7,
-    "endOffset" : 9,
+    "token" : "motion",
+    "startOffset" : 8,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "newspaper",
-    "startOffset" : 10,
-    "endOffset" : 19,
-    "position" : 3
+    "token" : "mote",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
   }, {
-    "token" : "clipping",
-    "startOffset" : 20,
-    "endOffset" : 29,
-    "position" : 4
+    "token" : "abnormality",
+    "startOffset" : 15,
+    "endOffset" : 28,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgukHZNEXFMlzHLPWi",
-  "text" : "I painted the walls white.",
+  "id" : "AWoDydsGDTAu_IiLeRXk",
+  "text" : "The walls... they're projections.",
   "translations" : {
-    "russian" : "Я покрасила стены в белый цвет."
+    "russian" : "Стены... это проекции."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "the",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "painted",
-    "startOffset" : 2,
+    "token" : "wall",
+    "startOffset" : 4,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "paint",
-    "startOffset" : 2,
+    "token" : "they're",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "projection",
+    "startOffset" : 21,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE23alDTAu_IiLfBnS",
+  "text" : "Wailing Wall, open.",
+  "translations" : {
+    "russian" : "Стена Плача открыта."
+  },
+  "tokens" : [ {
+    "token" : "wail",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wall",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "open",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "op",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3lHwDTAu_IiLfCFh",
+  "text" : "Wailing Wall, open.",
+  "translations" : {
+    "russian" : "Стена Плача открыта."
+  },
+  "tokens" : [ {
+    "token" : "wail",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wall",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "open",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "op",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3mtlDTAu_IiLfCGa",
+  "text" : "The Wailing Wall.",
+  "translations" : {
+    "russian" : "Стена Плача."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "wail",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "wall",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3qDUDTAu_IiLfCIu",
+  "text" : "Wailing Wall, open.",
+  "translations" : {
+    "russian" : "Стена Плача открыта."
+  },
+  "tokens" : [ {
+    "token" : "wail",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wall",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "open",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "op",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE244HDTAu_IiLfBoL",
+  "text" : "The Wailing Wall.",
+  "translations" : {
+    "russian" : "Стена Плача."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "wail",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "wall",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3rOUDTAu_IiLfCJn",
+  "text" : "The Wailing Wall.",
+  "translations" : {
+    "russian" : "Стена Плача."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "wail",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "wall",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDe_zHDTAu_IiLeGYB",
+  "text" : "Gonna ram the wall.",
+  "translations" : {
+    "russian" : "Буду таранить стену."
+  },
+  "tokens" : [ {
+    "token" : "gonna",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ram",
+    "startOffset" : 6,
     "endOffset" : 9,
     "position" : 1
   }, {
@@ -83,127 +338,87 @@
   }, {
     "token" : "wall",
     "startOffset" : 14,
-    "endOffset" : 19,
+    "endOffset" : 18,
     "position" : 3
-  }, {
-    "token" : "white",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggrDyNEXFMlzHK9q7",
-  "text" : "You think there's a double Wall?",
+  "id" : "AWoDnYdQDTAu_IiLeLG1",
+  "text" : "A long, continuous wall.",
   "translations" : {
-    "russian" : "Думаешь, двойные стенки?"
+    "russian" : "Длинный, непрерывный вой."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "a",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "think",
-    "startOffset" : 4,
-    "endOffset" : 9,
+    "token" : "long",
+    "startOffset" : 2,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "there",
-    "startOffset" : 10,
-    "endOffset" : 17,
+    "token" : "continuous",
+    "startOffset" : 8,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "a",
-    "startOffset" : 18,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "double",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
     "token" : "wall",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 5
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgq3MaNEXFMlzHLKJg",
-  "text" : "You think there's a double Wall?",
+  "id" : "AWoEGzH4DTAu_IiLeeZP",
+  "text" : "Abdominal wall's really swollen.",
   "translations" : {
-    "russian" : "Думаешь, двойные стенки?"
+    "russian" : "Опухшая брюшная стенка."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "abdominal",
     "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "think",
-    "startOffset" : 4,
     "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "there",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 18,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "double",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
+    "position" : 0
   }, {
     "token" : "wall",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjIvVNEXFMlzHK_xT",
-  "text" : "Well, she sleeps in the wall.",
-  "translations" : {
-    "russian" : "А вот она спит на складной кровати."
-  },
-  "tokens" : [ {
-    "token" : "well",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "she",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "sleep",
     "startOffset" : 10,
     "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "ally",
+    "startOffset" : 17,
+    "endOffset" : 23,
     "position" : 2
   }, {
-    "token" : "in",
-    "startOffset" : 17,
-    "endOffset" : 19,
+    "token" : "swollen",
+    "startOffset" : 24,
+    "endOffset" : 31,
     "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE91MlDTAu_IiLfGQx",
+  "text" : "Occupy Wall Street!",
+  "translations" : {
+    "russian" : "Захвати Уолл Стритт!"
+  },
+  "tokens" : [ {
+    "token" : "occupy",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
   }, {
     "token" : "wall",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 5
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "street",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

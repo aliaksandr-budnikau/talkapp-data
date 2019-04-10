@@ -1,0 +1,77 @@
+[ {
+  "id" : "AWoENdzsDTAu_IiLejZz",
+  "text" : "I see you prescribing medication.",
+  "translations" : {
+    "russian" : "Я вижу, что ты предписываешь лечение."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "see",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "prescribe",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "medication",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "medicate",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoENbr7DTAu_IiLejYg",
+  "text" : "This we prescribe, though no physician.",
+  "translations" : {
+    "russian" : "Не лекарь мы, но в этом смыслим тоже."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "we",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "prescribe",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "though",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "no",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "physician",
+    "startOffset" : 29,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

@@ -1,4 +1,136 @@
 [ {
+  "id" : "AWoDa7b9DTAu_IiLeEEV",
+  "text" : "A dozen athletes?",
+  "translations" : {
+    "russian" : "Дюжину атлетов?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "dozen",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "doz",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "athlete",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFW4eUDTAu_IiLfZRB",
+  "text" : "A dozen assorted?",
+  "translations" : {
+    "russian" : "Дюжину разных?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "dozen",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "doz",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "assort",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbyTiDTAu_IiLetwo",
+  "text" : "Brought a dozen glazed.",
+  "translations" : {
+    "russian" : "Принес десять пирожных с глазурью."
+  },
+  "tokens" : [ {
+    "token" : "brought",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "dozen",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "doz",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "glazed",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "glaze",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPs-BDTAu_IiLd9WG",
+  "text" : "Boiling terrapins by the dozen.",
+  "translations" : {
+    "russian" : "Варил дюжину пресноводных черепах."
+  },
+  "tokens" : [ {
+    "token" : "boil",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "terrapin",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "by",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "dozen",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "doz",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkYgANEXFMlzHLA7u",
   "text" : "Dozens more towards tower three.",
   "translations" : {
@@ -33,6 +165,82 @@
     "token" : "three",
     "startOffset" : 26,
     "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELCyNDTAu_IiLehe9",
+  "text" : "We've sent a dozen ravens.",
+  "translations" : {
+    "russian" : "Мы послали дюжину воронов."
+  },
+  "tokens" : [ {
+    "token" : "we've",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "sent",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "dozen",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "doz",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "raven",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEu8FIDTAu_IiLe791",
+  "text" : "Dad dozing and mom reading.",
+  "translations" : {
+    "russian" : "Папа дремлет, мама читает."
+  },
+  "tokens" : [ {
+    "token" : "dad",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "doz",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "mom",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "reading",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "read",
+    "startOffset" : 19,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null

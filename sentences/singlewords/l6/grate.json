@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoD8YxkDTAu_IiLeWaW",
+  "text" : "Ventilation grates.",
+  "translations" : {
+    "russian" : "Вентиляционные решетки."
+  },
+  "tokens" : [ {
+    "token" : "ventilation",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "ventilate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "grates",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "grate",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnGjxNEXFMlzHLE83",
   "text" : "Holes with steel grating.",
   "translations" : {
@@ -94,6 +122,44 @@
     "token" : "right",
     "startOffset" : 28,
     "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDTP9BDTAu_IiLd_vH",
+  "text" : "There's another grate in the pantry.",
+  "translations" : {
+    "russian" : "Есть ещё одна решётка в кладовке."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "another",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "grate",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "pantry",
+    "startOffset" : 29,
+    "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null

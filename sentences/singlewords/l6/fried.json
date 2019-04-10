@@ -319,6 +319,82 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDsWyBDTAu_IiLeN0F",
+  "text" : "Deep-fried Divinity Square? Yeah.",
+  "translations" : {
+    "russian" : "Божественные Квадратики во фритюре ?"
+  },
+  "tokens" : [ {
+    "token" : "deep",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fried",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "fry",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "divinity",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "square",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "yeah",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbVhuDTAu_IiLfc5a",
+  "text" : "It fried a capacitor already.",
+  "translations" : {
+    "russian" : "От него уже сгорели конденсаторы."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "fried",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "fry",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "capacitor",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "already",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmbogNEXFMlzHLD4X",
   "text" : "Yesterday it was fried porridge.",
   "translations" : {
@@ -468,57 +544,6 @@
     "startOffset" : 23,
     "endOffset" : 28,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmbj3NEXFMlzHLD4M",
-  "text" : "I'm sorry, Fry.",
-  "translations" : {
-    "russian" : "Мне очень жаль, Фрай."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "sorry",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "fry",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmcaiNEXFMlzHLD5v",
-  "text" : "You're Fry's relative.",
-  "translations" : {
-    "russian" : "Вы родственник Фрая."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "fry",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "relative",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "relate",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 2
   } ],
   "contentScore" : null
 } ]

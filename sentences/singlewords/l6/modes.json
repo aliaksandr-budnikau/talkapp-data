@@ -27,6 +27,67 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD_KkgDTAu_IiLeYhl",
+  "text" : "Human interaction mode activated.",
+  "translations" : {
+    "russian" : "Активирован режим взаимодействия с человеком."
+  },
+  "tokens" : [ {
+    "token" : "human",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "interaction",
+    "startOffset" : 6,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "mode",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "activated",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "activate",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFisVuDTAu_IiLfh-7",
+  "text" : "We're in crisis mode.",
+  "translations" : {
+    "russian" : "Мы в кризисном положении."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "crisis",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "mode",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfK8UNEXFMlzHK8Y-",
   "text" : "Operating in data acquisition mode.",
   "translations" : {
@@ -93,6 +154,77 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDQREYDTAu_IiLd9sH",
+  "text" : "Reconfigured in aggression mode, master.",
+  "translations" : {
+    "russian" : "Перехожу в режим агрессии, хозяин."
+  },
+  "tokens" : [ {
+    "token" : "configure",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "aggression",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "mode",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "master",
+    "startOffset" : 33,
+    "endOffset" : 39,
+    "position" : 4
+  }, {
+    "token" : "mast",
+    "startOffset" : 33,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPtv_DTAu_IiLd9Wl",
+  "text" : "Activate autopilot and sleep mode.",
+  "translations" : {
+    "russian" : "Активируйте автопилот и режим сна."
+  },
+  "tokens" : [ {
+    "token" : "activate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "autopilot",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "sleep",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "mode",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguxxoNEXFMlzHLPxC",
   "text" : "I'll put it in airplane mode.",
   "translations" : {
@@ -127,6 +259,44 @@
     "token" : "mode",
     "startOffset" : 24,
     "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFisYIDTAu_IiLfh-9",
+  "text" : "We are in crisis mode, okay?",
+  "translations" : {
+    "russian" : "Мы в кризисном режиме, ясно?"
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "crisis",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "mode",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "okay",
+    "startOffset" : 23,
+    "endOffset" : 27,
     "position" : 5
   } ],
   "contentScore" : null

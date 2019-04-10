@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEihT5DTAu_IiLey9l",
+  "text" : "Take a hike, toots.",
+  "translations" : {
+    "russian" : "Проваливай, дорогуша."
+  },
+  "tokens" : [ {
+    "token" : "take",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "hike",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "toots",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "toot",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeLpJNEXFMlzHK7gu",
   "text" : "She wasn't hiking.",
   "translations" : {
@@ -19,6 +52,39 @@
     "startOffset" : 11,
     "endOffset" : 17,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEw1gHDTAu_IiLe9Xi",
+  "text" : "They hiked in the dunes.",
+  "translations" : {
+    "russian" : "Они путешествовали в дюнах."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hike",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "dune",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

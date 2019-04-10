@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWbgwwhtNEXFMlzHLSgU",
+  "text" : "Your blood count's dropping.",
+  "translations" : {
+    "russian" : "Твое кровяное давление падает."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "blood",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "count's",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "dropping",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgw0j4NEXFMlzHLSkU",
   "text" : "76 and still dropping.",
   "translations" : {
@@ -27,30 +55,58 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwwhtNEXFMlzHLSgU",
-  "text" : "Your blood count's dropping.",
+  "id" : "AWoFctLIDTAu_IiLfd8u",
+  "text" : "I'm constantly dropping stuff.",
   "translations" : {
-    "russian" : "Твое кровяное давление падает."
+    "russian" : "Я вечно все роняю, не переживайте."
   },
   "tokens" : [ {
-    "token" : "your",
+    "token" : "i'm",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "blood",
-    "startOffset" : 5,
-    "endOffset" : 10,
+    "token" : "constant",
+    "startOffset" : 4,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "count's",
-    "startOffset" : 11,
-    "endOffset" : 18,
+    "token" : "dropping",
+    "startOffset" : 15,
+    "endOffset" : 23,
     "position" : 2
   }, {
+    "token" : "stuff",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmWDZDTAu_IiLeKiD",
+  "text" : "Dropping us for Bern?",
+  "translations" : {
+    "russian" : "Бросил нас ради Берна?"
+  },
+  "tokens" : [ {
     "token" : "dropping",
-    "startOffset" : 19,
-    "endOffset" : 27,
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "us",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "bern",
+    "startOffset" : 16,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
@@ -122,6 +178,44 @@
     "token" : "dropping",
     "startOffset" : 13,
     "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFimy_DTAu_IiLfh7J",
+  "text" : "Power curve still dropping, Captain.",
+  "translations" : {
+    "russian" : "Кривая энергии продолжает падать, капитан."
+  },
+  "tokens" : [ {
+    "token" : "power",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pow",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "curve",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "still",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "dropping",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "captain",
+    "startOffset" : 28,
+    "endOffset" : 35,
     "position" : 4
   } ],
   "contentScore" : null
@@ -235,6 +329,110 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD2TSlDTAu_IiLeTRp",
+  "text" : "Her levels are dropping rapidly.",
+  "translations" : {
+    "russian" : "Уровень резко падает."
+  },
+  "tokens" : [ {
+    "token" : "her",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "level",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "dropping",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "rapid",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDg7wrDTAu_IiLeHgF",
+  "text" : "Her levels are dropping rapidly.",
+  "translations" : {
+    "russian" : "Уровень резко падает."
+  },
+  "tokens" : [ {
+    "token" : "her",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "level",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "dropping",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "rapid",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQ2g7DTAu_IiLel31",
+  "text" : "Power curve still dropping, Captain.",
+  "translations" : {
+    "russian" : "Кривая энергии продолжает падать, капитан."
+  },
+  "tokens" : [ {
+    "token" : "power",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pow",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "curve",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "still",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "dropping",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "captain",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfQ1GNEXFMlzHK8d1",
   "text" : "Captain, warp power is dropping.",
   "translations" : {
@@ -269,39 +467,6 @@
     "token" : "dropping",
     "startOffset" : 23,
     "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw1FGNEXFMlzHLSk2",
-  "text" : "I'm dropping your hand temperature.",
-  "translations" : {
-    "russian" : "Понижаю температуру твоей руки."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "dropping",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "hand",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "temperature",
-    "startOffset" : 23,
-    "endOffset" : 34,
     "position" : 4
   } ],
   "contentScore" : null
@@ -369,191 +534,6 @@
     "startOffset" : 17,
     "endOffset" : 25,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw_J5NEXFMlzHLSvC",
-  "text" : "People are dropping like flies.",
-  "translations" : {
-    "russian" : "Люди просто мрут как мухи."
-  },
-  "tokens" : [ {
-    "token" : "people",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "dropping",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "like",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "fly",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgww4RNEXFMlzHLSgo",
-  "text" : "And his pressure is still dropping.",
-  "translations" : {
-    "russian" : "И давление всё ещё падает."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "his",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "pressure",
-    "startOffset" : 8,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "still",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "dropping",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwyVjNEXFMlzHLSiD",
-  "text" : "Dropping a horse on a church?",
-  "translations" : {
-    "russian" : "Падение лошади на церковь?"
-  },
-  "tokens" : [ {
-    "token" : "dropping",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "horse",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 20,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "church",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwwH2NEXFMlzHLSf8",
-  "text" : "Look, I'm dropping you at Moira's.",
-  "translations" : {
-    "russian" : "Слушай, я оставлю тебя у Мойры."
-  },
-  "tokens" : [ {
-    "token" : "look",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "i'm",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "dropping",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "at",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "moira",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwx58NEXFMlzHLShn",
-  "text" : "City councilmen are dropping like flies.",
-  "translations" : {
-    "russian" : "Члены городского совета умирают один за другим."
-  },
-  "tokens" : [ {
-    "token" : "city",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "councilmen",
-    "startOffset" : 5,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "dropping",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "like",
-    "startOffset" : 29,
-    "endOffset" : 33,
-    "position" : 4
-  }, {
-    "token" : "fly",
-    "startOffset" : 34,
-    "endOffset" : 39,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

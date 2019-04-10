@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoE-nNbDTAu_IiLfG5p",
+  "text" : "Platoon halt.",
+  "translations" : {
+    "russian" : "Взвод, стой."
+  },
+  "tokens" : [ {
+    "token" : "platoon",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "halt",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-nLXDTAu_IiLfG5n",
+  "text" : "Platoon halt.",
+  "translations" : {
+    "russian" : "Взвод, стой!"
+  },
+  "tokens" : [ {
+    "token" : "platoon",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "halt",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmSlhNEXFMlzHLDoy",
   "text" : "Platoon 02 now boarding.",
   "translations" : {
@@ -24,6 +60,44 @@
     "startOffset" : 15,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtglsDTAu_IiLeOfw",
+  "text" : "First platoon, left flank! Let's go!",
+  "translations" : {
+    "russian" : "Первый взвод, на левый фланг!"
+  },
+  "tokens" : [ {
+    "token" : "first",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "platoon",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "left",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "flank",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "let",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "go",
+    "startOffset" : 33,
+    "endOffset" : 35,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

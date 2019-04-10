@@ -50,6 +50,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEVUCnDTAu_IiLepQn",
+  "text" : "Nobody bids higher?",
+  "translations" : {
+    "russian" : "Никто не даст больше?"
+  },
+  "tokens" : [ {
+    "token" : "nobody",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "bids",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "bid",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "high",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfWISNEXFMlzHK8iT",
   "text" : "The highest bid was anonymous?",
   "translations" : {
@@ -145,6 +173,44 @@
     "token" : "4.25",
     "startOffset" : 16,
     "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ2rbDTAu_IiLfU57",
+  "text" : "Boyd's been rigging Treasury bids.",
+  "translations" : {
+    "russian" : "Бойд мухлюет с казначейскими векселями."
+  },
+  "tokens" : [ {
+    "token" : "boyd",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "been",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "rigging",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "treasury",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "bids",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "bid",
+    "startOffset" : 29,
+    "endOffset" : 33,
     "position" : 4
   } ],
   "contentScore" : null

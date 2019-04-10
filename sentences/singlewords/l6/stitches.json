@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoDhXH9DTAu_IiLeHwU",
+  "text" : "Stitching of the heel...",
+  "translations" : {
+    "russian" : "Сшивание пятки..."
+  },
+  "tokens" : [ {
+    "token" : "stitching",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "stitch",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "heel",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgszbNNEXFMlzHLM64",
   "text" : "Excellent stitch work, my liege.",
   "translations" : {
@@ -28,6 +61,72 @@
     "token" : "liege",
     "startOffset" : 26,
     "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWDxODTAu_IiLeBgC",
+  "text" : "You need stitches and antibiotics.",
+  "translations" : {
+    "russian" : "Хорошо бы наложить шов и ввести антибиотик."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "need",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "stitch",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "antibiotic",
+    "startOffset" : 22,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEz9jKDTAu_IiLe_oh",
+  "text" : "28 stitches, two skin grafts.",
+  "translations" : {
+    "russian" : "28 швов, 2 пересадки кожи."
+  },
+  "tokens" : [ {
+    "token" : "28",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "stitch",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "two",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "skin",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "graft",
+    "startOffset" : 22,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null

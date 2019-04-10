@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFSd7tDTAu_IiLfWI0",
+  "text" : "Presidential candidate Mitt Romney...",
+  "translations" : {
+    "russian" : "Кандидат на пост Президента Митт Ромни..."
+  },
+  "tokens" : [ {
+    "token" : "presidential",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "candidate",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "mitt",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "romney",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgp52-NEXFMlzHLI6T",
   "text" : "I'm under presidential orders.",
   "translations" : {
@@ -24,6 +52,105 @@
     "startOffset" : 23,
     "endOffset" : 29,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoElHbrDTAu_IiLe065",
+  "text" : "A Presidential Proclamation.",
+  "translations" : {
+    "russian" : "Президентское воззвание."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "presidential",
+    "startOffset" : 2,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "proclamation",
+    "startOffset" : 15,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRoFyDTAu_IiLfVgo",
+  "text" : "Doesn't my presidential campaign need continuity?",
+  "translations" : {
+    "russian" : "Разве моя избирательная кампания не должна быть последовательной? Могу я подумать об этом денек?"
+  },
+  "tokens" : [ {
+    "token" : "doesn't",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "presidential",
+    "startOffset" : 11,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "campaign",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "need",
+    "startOffset" : 33,
+    "endOffset" : 37,
+    "position" : 4
+  }, {
+    "token" : "continuity",
+    "startOffset" : 38,
+    "endOffset" : 48,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFR9sKDTAu_IiLfVwY",
+  "text" : "Doesn't my presidential campaign need continuity?",
+  "translations" : {
+    "russian" : "Разве моя избирательная кампания не должна быть последовательной? Могу я подумать об этом денек?"
+  },
+  "tokens" : [ {
+    "token" : "doesn't",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "presidential",
+    "startOffset" : 11,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "campaign",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "need",
+    "startOffset" : 33,
+    "endOffset" : 37,
+    "position" : 4
+  }, {
+    "token" : "continuity",
+    "startOffset" : 38,
+    "endOffset" : 48,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

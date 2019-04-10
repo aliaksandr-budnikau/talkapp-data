@@ -1,0 +1,42 @@
+[ {
+  "id" : "AWoEnFa8DTAu_IiLe2Yg",
+  "text" : "Nicotine deficiency.",
+  "translations" : {
+    "russian" : "Это все нехватка никотина."
+  },
+  "tokens" : [ {
+    "token" : "nicotine",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "deficiency",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkYtODTAu_IiLe0X8",
+  "text" : "Tar.... nicotine.... ammonia.",
+  "translations" : {
+    "russian" : "Смола, никотин, аммоний."
+  },
+  "tokens" : [ {
+    "token" : "tar",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "nicotine",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "ammonia",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

@@ -32,6 +32,42 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEv-QKDTAu_IiLe8s2",
+  "text" : "Burdock root.",
+  "translations" : {
+    "russian" : "Корень лопуха."
+  },
+  "tokens" : [ {
+    "token" : "burdock",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "root",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNvI2DTAu_IiLfSev",
+  "text" : "Orris root?",
+  "translations" : {
+    "russian" : "Фиалковый корень?"
+  },
+  "tokens" : [ {
+    "token" : "orris",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "root",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrv6zNEXFMlzHLLdZ",
   "text" : "Squares and their roots.",
   "translations" : {
@@ -422,57 +458,6 @@
     "token" : "bee",
     "startOffset" : 17,
     "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguAcoNEXFMlzHLOS-",
-  "text" : "I'm not rooting.",
-  "translations" : {
-    "russian" : "Я и не болею."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "root",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguBpONEXFMlzHLOVC",
-  "text" : "I'm rooting for her.",
-  "translations" : {
-    "russian" : "Я ее поддерживаю."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "root",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "her",
-    "startOffset" : 16,
-    "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null

@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEACzxDTAu_IiLeZMv",
+  "text" : "Vacuuming then Upturned butt.",
+  "translations" : {
+    "russian" : "Поработать ёршиком в его уборной."
+  },
+  "tokens" : [ {
+    "token" : "vacuum",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "th",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "upturn",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "butt",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu9iiNEXFMlzHLQIa",
   "text" : "Space is a cold vacuum.",
   "translations" : {
@@ -29,6 +57,110 @@
     "startOffset" : 16,
     "endOffset" : 22,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIm-qDTAu_IiLefqj",
+  "text" : "Vacuum metal deposition fingerprint restoration.",
+  "translations" : {
+    "russian" : "Реставрация отпечатков пальцев с помощью вакуумного напыления по металлу."
+  },
+  "tokens" : [ {
+    "token" : "vacuum",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "metal",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "deposition",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "fingerprint",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "restoration",
+    "startOffset" : 36,
+    "endOffset" : 47,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZeTpDTAu_IiLfbX4",
+  "text" : "Due to quantum vacuum fluctuations?",
+  "translations" : {
+    "russian" : "Вследствие квантово-вакуумных флуктуаций?"
+  },
+  "tokens" : [ {
+    "token" : "due",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "quantum",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "vacuum",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "fluctuate",
+    "startOffset" : 22,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYZ9xDTAu_IiLfadu",
+  "text" : "She vacuumed part of the rug.",
+  "translations" : {
+    "russian" : "Она пропылесосила только часть ковра."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "vacuum",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "part",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "rug",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

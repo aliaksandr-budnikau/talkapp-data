@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoEtGdSDTAu_IiLe6tv",
+  "text" : "Nuisance buckets.",
+  "translations" : {
+    "russian" : "Неприятный запах."
+  },
+  "tokens" : [ {
+    "token" : "nuisance",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "bucket",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFewzVDTAu_IiLffb-",
+  "text" : "It's my poop bucket.",
+  "translations" : {
+    "russian" : "Это мое ведро с дерьмом."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "poop",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bucket",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgirxXNEXFMlzHK_YO",
   "text" : "In the silver bucket?",
   "translations" : {
@@ -83,6 +129,57 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFXfC4DTAu_IiLfZth",
+  "text" : "A bucket of slop?",
+  "translations" : {
+    "russian" : "Ведро помоев?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "bucket",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "slop",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAKrSDTAu_IiLfIJy",
+  "text" : "Chump's rusty bucket?",
+  "translations" : {
+    "russian" : "Сходим в Ржавое Ведро Чампа?"
+  },
+  "tokens" : [ {
+    "token" : "chump",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "rusty",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "bucket",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgokXTNEXFMlzHLHH5",
   "text" : "A bucket and a scoop.",
   "translations" : {
@@ -112,6 +209,39 @@
     "token" : "scoop",
     "startOffset" : 15,
     "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAKjsDTAu_IiLfIJt",
+  "text" : "That rusty, old tetanus bucket...",
+  "translations" : {
+    "russian" : "Это старое ржавое сито, источник столбняка..."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "rusty",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "old",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "tetanus",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "bucket",
+    "startOffset" : 24,
+    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null
@@ -146,6 +276,77 @@
     "startOffset" : 15,
     "endOffset" : 20,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEK01FDTAu_IiLehTx",
+  "text" : "Hey, everybody, grab a bucket.",
+  "translations" : {
+    "russian" : "Эй, народ, все берите вёдра."
+  },
+  "tokens" : [ {
+    "token" : "hey",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "everybody",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "grab",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "bucket",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYL5-DTAu_IiLerWL",
+  "text" : "And he took my bucket gallantly.",
+  "translations" : {
+    "russian" : "Галантно берет у меня ведро из рук."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "he",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "took",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "bucket",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "gallant",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

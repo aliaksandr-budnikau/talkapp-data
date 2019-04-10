@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoFIJc8DTAu_IiLfOIs",
+  "text" : "Smooth skin.",
+  "translations" : {
+    "russian" : "Гладкая кожа."
+  },
+  "tokens" : [ {
+    "token" : "smooth",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "skin",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgy_jvNEXFMlzHLViu",
   "text" : "It transfers from skin to skin.",
   "translations" : {
@@ -37,41 +55,365 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgucJMNEXFMlzHLPGg",
-  "text" : "Hispanic women have amazing skin.",
+  "id" : "AWoEN2mbDTAu_IiLejr1",
+  "text" : "No skin lesions.",
   "translations" : {
-    "russian" : "У латиноамериканок прекрасная кожа."
+    "russian" : "Нет поражений кожи."
   },
   "tokens" : [ {
-    "token" : "hispanic",
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "skin",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "lesion",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVqkGDTAu_IiLepiI",
+  "text" : "Parched, dry skin.",
+  "translations" : {
+    "russian" : "Сухую кожу."
+  },
+  "tokens" : [ {
+    "token" : "parch",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "dry",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "skin",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEz8okDTAu_IiLe_n5",
+  "text" : "Oh. Nice skin graft.",
+  "translations" : {
+    "russian" : "Отличный трансплантат."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "nice",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "skin",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "graft",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjUAeDTAu_IiLfiYs",
+  "text" : "Little crocodile skin.",
+  "translations" : {
+    "russian" : "Маленький, из крокодильей кожи."
+  },
+  "tokens" : [ {
+    "token" : "little",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "crocodile",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "skin",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjT8SDTAu_IiLfiYo",
+  "text" : "Genuine crocodile skin.",
+  "translations" : {
+    "russian" : "Настоящая крокодилья кожа."
+  },
+  "tokens" : [ {
+    "token" : "genuine",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "crocodile",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "skin",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDU4uMDTAu_IiLeAyc",
+  "text" : "He shed his skin.",
+  "translations" : {
+    "russian" : "Он сбрасывает кожу."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "shed",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "sh",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "skin",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDaISTDTAu_IiLeDlX",
+  "text" : "The same skin complexion.",
+  "translations" : {
+    "russian" : "У вас тот же цвет кожи."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "same",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "skin",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "complexion",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD43frDTAu_IiLeUdY",
+  "text" : "My... my skin mitten.",
+  "translations" : {
+    "russian" : "Моей... кожаной рукавички."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "skin",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "mitten",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "mitt",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDU4nqDTAu_IiLeAyY",
+  "text" : "Rodney's shedding his skin.",
+  "translations" : {
+    "russian" : "Родни сбрасывает кожу."
+  },
+  "tokens" : [ {
+    "token" : "rodney",
     "startOffset" : 0,
     "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "women",
+    "token" : "shedding",
     "startOffset" : 9,
-    "endOffset" : 14,
+    "endOffset" : 17,
     "position" : 1
   }, {
-    "token" : "have",
-    "startOffset" : 15,
-    "endOffset" : 19,
+    "token" : "his",
+    "startOffset" : 18,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "amazing",
-    "startOffset" : 20,
-    "endOffset" : 27,
+    "token" : "skin",
+    "startOffset" : 22,
+    "endOffset" : 26,
     "position" : 3
-  }, {
-    "token" : "amaze",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDufmmDTAu_IiLePGV",
+  "text" : "No skin diseases?",
+  "translations" : {
+    "russian" : "А кожные заболевания?"
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
   }, {
     "token" : "skin",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 4
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "eases",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERU_WDTAu_IiLemNp",
+  "text" : "Parched, dry skin.",
+  "translations" : {
+    "russian" : "Сухую кожу."
+  },
+  "tokens" : [ {
+    "token" : "parch",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "dry",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "skin",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEN2k9DTAu_IiLejr0",
+  "text" : "No skin lesions.",
+  "translations" : {
+    "russian" : "Нет поражений кожи."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "skin",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "lesion",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEN2n5DTAu_IiLejr2",
+  "text" : "No skin lesions.",
+  "translations" : {
+    "russian" : "Поражений кожи нет."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "skin",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "lesion",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEz9cFDTAu_IiLe_oc",
+  "text" : "What about skin grafts?",
+  "translations" : {
+    "russian" : "Как насчет пересадки кожи?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "about",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "skin",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "graft",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

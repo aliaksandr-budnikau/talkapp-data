@@ -98,6 +98,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgySvaNEXFMlzHLUqx",
+  "text" : "Didn't return it?",
+  "translations" : {
+    "russian" : "Ты не отдал ей книгу?"
+  },
+  "tokens" : [ {
+    "token" : "didn't",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "turn",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyTdYNEXFMlzHLUsQ",
   "text" : "May defer their returns...",
   "translations" : {
@@ -131,26 +154,138 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgySvaNEXFMlzHLUqx",
-  "text" : "Didn't return it?",
+  "id" : "AWoD6jsdDTAu_IiLeVN2",
+  "text" : "It's turned inland.",
   "translations" : {
-    "russian" : "Ты не отдал ей книгу?"
+    "russian" : "Нечто оказалось внутри страны."
   },
   "tokens" : [ {
-    "token" : "didn't",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 4,
     "position" : 0
   }, {
+    "token" : "turned",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
     "token" : "turn",
-    "startOffset" : 7,
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "inland",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDVrNDTAu_IiLebwh",
+  "text" : "Turn it around.",
+  "translations" : {
+    "russian" : "Heave!Толкайте!"
+  },
+  "tokens" : [ {
+    "token" : "turn",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "around",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfYrMDTAu_IiLff4q",
+  "text" : "Returning the mower.",
+  "translations" : {
+    "russian" : "Возвращаю косилку."
+  },
+  "tokens" : [ {
+    "token" : "turn",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
     "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "it",
+    "token" : "mower",
     "startOffset" : 14,
-    "endOffset" : 16,
+    "endOffset" : 19,
     "position" : 2
+  }, {
+    "token" : "mow",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgH57DTAu_IiLfgZL",
+  "text" : "Returning the mower.",
+  "translations" : {
+    "russian" : "Возвращаю косилку."
+  },
+  "tokens" : [ {
+    "token" : "turn",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "mower",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "mow",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhEmeDTAu_IiLfg_V",
+  "text" : "Turn on the spigots.",
+  "translations" : {
+    "russian" : "Открой краны."
+  },
+  "tokens" : [ {
+    "token" : "turn",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "spigot",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -318,151 +453,6 @@
     "token" : "asshole",
     "startOffset" : 20,
     "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyR00NEXFMlzHLUo6",
-  "text" : "Then return my calls.",
-  "translations" : {
-    "russian" : "Тогда отвечай на мои звонки."
-  },
-  "tokens" : [ {
-    "token" : "th",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "turn",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "call",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgySWgNEXFMlzHLUp_",
-  "text" : "2009, returns to London.",
-  "translations" : {
-    "russian" : "В 2009 - обратно в Лондон."
-  },
-  "tokens" : [ {
-    "token" : "2009",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "turn",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "london",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWn5oFdGSHZo49ps8uFP",
-  "text" : "He's making deliberate turns.",
-  "translations" : {
-    "russian" : "Он делает преднамеренные повороты."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "making",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "make",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "deliberate",
-    "startOffset" : 12,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "liberate",
-    "startOffset" : 12,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "turn",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgySCfNEXFMlzHLUpY",
-  "text" : "No, not returns.",
-  "translations" : {
-    "russian" : "Нет, никаких возвратов."
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "turn",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgySuMNEXFMlzHLUqu",
-  "text" : "Return the device, woman!",
-  "translations" : {
-    "russian" : "Отдай устройство, женщина."
-  },
-  "tokens" : [ {
-    "token" : "turn",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "vice",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "woman",
-    "startOffset" : 19,
-    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null

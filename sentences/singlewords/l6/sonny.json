@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFEwHTDTAu_IiLfLhV",
+  "text" : "Sonny's casual acquaintances, eh?",
+  "translations" : {
+    "russian" : "Лучайные знакомства -- улана, да!"
+  },
+  "tokens" : [ {
+    "token" : "sonny",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "casual",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "acquaintance",
+    "startOffset" : 15,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "eh",
+    "startOffset" : 30,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgm0FJNEXFMlzHLEh9",
   "text" : "So slow it down, Sonny.",
   "translations" : {
@@ -29,6 +57,44 @@
     "startOffset" : 17,
     "endOffset" : 22,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9mijDTAu_IiLeXWj",
+  "text" : "Sonny, I am such a scatterbrain.",
+  "translations" : {
+    "russian" : "Сыночек, вот я разиня."
+  },
+  "tokens" : [ {
+    "token" : "sonny",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "am",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "such",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 4
+  }, {
+    "token" : "scatterbrain",
+    "startOffset" : 19,
+    "endOffset" : 31,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoEZnsPDTAu_IiLesUz",
+  "text" : "We're grain merchants.",
+  "translations" : {
+    "russian" : "Торгуем зерном..."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "grain",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "merchant",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtlRgNEXFMlzHLNrv",
   "text" : "Nothing but a penniless merchant!",
   "translations" : {
@@ -29,6 +52,181 @@
     "startOffset" : 24,
     "endOffset" : 32,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeigqDTAu_IiLevw_",
+  "text" : "Merchants, miners tinkers, toy-makers.",
+  "translations" : {
+    "russian" : "Торговцы, рудокопы ремесленники, изготовители безделушек."
+  },
+  "tokens" : [ {
+    "token" : "merchant",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "min",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "tinker",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "toy",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "maker",
+    "startOffset" : 31,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEejN1DTAu_IiLevxi",
+  "text" : "Merchants, miners tinkers, toy-makers.",
+  "translations" : {
+    "russian" : "Торговцы, рудокопы ремесленники, изготовители безделушек."
+  },
+  "tokens" : [ {
+    "token" : "merchant",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "min",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "tinker",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "toy",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "maker",
+    "startOffset" : 31,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERynfDTAu_IiLemjd",
+  "text" : "You outstay your welcome, merchant.",
+  "translations" : {
+    "russian" : "Ты исчерпал мое гостеприимство, торговец."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "outstay",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "welcome",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "merchant",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSkvDDTAu_IiLfWN3",
+  "text" : "Merchant banks And yachts at Cannes.",
+  "translations" : {
+    "russian" : "Коммерческие банки и яхты в Каннах."
+  },
+  "tokens" : [ {
+    "token" : "merchant",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "bank",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "yacht",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "at",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "cannes",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWB9LDTAu_IiLfYq8",
+  "text" : "I am a merchant from Kirghiz.",
+  "translations" : {
+    "russian" : "Я торговец из Киргизии."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 2
+  }, {
+    "token" : "merchant",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "from",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "kirghiz",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

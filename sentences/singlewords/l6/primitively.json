@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEIuBXDTAu_IiLefvj",
+  "text" : "No, primitive.",
+  "translations" : {
+    "russian" : "Нет примитивный."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "primitive",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmUSuNEXFMlzHLDru",
   "text" : "Boring films, primitive politics.",
   "translations" : {
@@ -72,6 +90,29 @@
     "startOffset" : 24,
     "endOffset" : 32,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD71SRDTAu_IiLeWAL",
+  "text" : "How delightfully primitive.",
+  "translations" : {
+    "russian" : "Как очаровательно примитивно!"
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "delightful",
+    "startOffset" : 4,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "primitive",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

@@ -1,36 +1,44 @@
 [ {
-  "id" : "AWbguiAcNEXFMlzHLPSW",
-  "text" : "You, sir, am racist.",
+  "id" : "AWoFTacMDTAu_IiLfW19",
+  "text" : "I am.",
   "translations" : {
-    "russian" : "Вы сэр, расист."
+    "russian" : "Thorin the dwarf.Гном Торин."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "sir",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
     "token" : "am",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "racist",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgv1mHNEXFMlzHLRgD",
-  "text" : "I am designated Controller!",
+  "id" : "AWoFTYJKDTAu_IiLfW0V",
+  "text" : "I am.",
   "translations" : {
-    "russian" : "Я буду назначенным Контроллером!"
+    "russian" : "Thorin the dwarf.Гном Торин."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWY0IDTAu_IiLeBqQ",
+  "text" : "I am Anubis.",
+  "translations" : {
+    "russian" : "Я Анубис."
   },
   "tokens" : [ {
     "token" : "i",
@@ -43,22 +51,17 @@
     "endOffset" : 4,
     "position" : 1
   }, {
-    "token" : "designate",
+    "token" : "anubis",
     "startOffset" : 5,
-    "endOffset" : 15,
+    "endOffset" : 11,
     "position" : 2
-  }, {
-    "token" : "controller",
-    "startOffset" : 16,
-    "endOffset" : 26,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgv6ZANEXFMlzHLRpM",
-  "text" : "Am I being grounded?",
+  "id" : "AWoDd0PGDTAu_IiLeFsG",
+  "text" : "Am I bankrupt?",
   "translations" : {
-    "russian" : "Разве не было оснований?"
+    "russian" : "Являюсь ли я банкротом?"
   },
   "tokens" : [ {
     "token" : "am",
@@ -71,177 +74,17 @@
     "endOffset" : 4,
     "position" : 1
   }, {
-    "token" : "being",
+    "token" : "bankrupt",
     "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "bee",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "grounded",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "ground",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbF5qNEXFMlzHK4zd",
-  "text" : "What am I doing?",
-  "translations" : {
-    "russian" : "Что же я делаю?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "am",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "i",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "doing",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "do",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglRRsNEXFMlzHLCPL",
-  "text" : "Well, I am shocked.",
-  "translations" : {
-    "russian" : "Ну я просто в шоке."
-  },
-  "tokens" : [ {
-    "token" : "well",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "am",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "shock",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguJGTNEXFMlzHLOhA",
-  "text" : "I am stateless.",
-  "translations" : {
-    "russian" : "Я ничему не принадлежу."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "am",
-    "startOffset" : 2,
-    "endOffset" : 4,
-    "position" : 1
-  }, {
-    "token" : "stateless",
-    "startOffset" : 5,
-    "endOffset" : 14,
+    "endOffset" : 13,
     "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgi6XjNEXFMlzHK_kn",
-  "text" : "Am I moving cells?",
+  "id" : "AWoDgo5KDTAu_IiLeHVE",
+  "text" : "I am a runaway.",
   "translations" : {
-    "russian" : "Меня переводят в камеру?"
-  },
-  "tokens" : [ {
-    "token" : "am",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 3,
-    "endOffset" : 4,
-    "position" : 1
-  }, {
-    "token" : "moving",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "move",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "cell",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghipNNEXFMlzHK-bc",
-  "text" : "Why am I narrating?",
-  "translations" : {
-    "russian" : "Зачем я это всё рассказываю?"
-  },
-  "tokens" : [ {
-    "token" : "why",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "am",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "i",
-    "startOffset" : 7,
-    "endOffset" : 8,
-    "position" : 2
-  }, {
-    "token" : "narrate",
-    "startOffset" : 9,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnxMaNEXFMlzHLGAD",
-  "text" : "I am a supermodel.",
-  "translations" : {
-    "russian" : "Я же супермодель."
+    "russian" : "Я беглец."
   },
   "tokens" : [ {
     "token" : "i",
@@ -259,83 +102,17 @@
     "endOffset" : 6,
     "position" : 2
   }, {
-    "token" : "supermodel",
+    "token" : "runaway",
     "startOffset" : 7,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbCmnNEXFMlzHK4wi",
-  "text" : "Not while I am here.",
-  "translations" : {
-    "russian" : "Пока я здесь, этому не бывать."
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "while",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "i",
-    "startOffset" : 10,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "am",
-    "startOffset" : 12,
     "endOffset" : 14,
     "position" : 3
-  }, {
-    "token" : "here",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgl9_tNEXFMlzHLDFA",
-  "text" : "Favor... who am I kidding?",
+  "id" : "AWoDhx_XDTAu_IiLeIAE",
+  "text" : "I am Calamity Katie.",
   "translations" : {
-    "russian" : "Да, попросили. Сделай'."
-  },
-  "tokens" : [ {
-    "token" : "favor",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "who",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "am",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "i",
-    "startOffset" : 16,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "kidding",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmoZ9NEXFMlzHLEOM",
-  "text" : "I am not mixed up.",
-  "translations" : {
-    "russian" : "Я ничего не путаю."
+    "russian" : "Я Бедовая Кэйт."
   },
   "tokens" : [ {
     "token" : "i",
@@ -348,136 +125,27 @@
     "endOffset" : 4,
     "position" : 1
   }, {
-    "token" : "not",
+    "token" : "calamity",
     "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 2
-  }, {
-    "token" : "mixed",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "mix",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "up",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgray3NEXFMlzHLK-V",
-  "text" : "I am an image again.",
-  "translations" : {
-    "russian" : "Я - вновь изображение."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "am",
-    "startOffset" : 2,
-    "endOffset" : 4,
-    "position" : 1
-  }, {
-    "token" : "an",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 2
-  }, {
-    "token" : "image",
-    "startOffset" : 8,
     "endOffset" : 13,
-    "position" : 3
+    "position" : 2
   }, {
-    "token" : "again",
+    "token" : "katie",
     "startOffset" : 14,
     "endOffset" : 19,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguVAsNEXFMlzHLO4Z",
-  "text" : "Am I your first American?",
-  "translations" : {
-    "russian" : "А я твой первый американец?"
-  },
-  "tokens" : [ {
-    "token" : "am",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 3,
-    "endOffset" : 4,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "first",
-    "startOffset" : 10,
-    "endOffset" : 15,
     "position" : 3
-  }, {
-    "token" : "american",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxLlxNEXFMlzHLS7h",
-  "text" : "I am in baby land.",
+  "id" : "AWoDmCElDTAu_IiLeKXW",
+  "text" : "And I am enraged.",
   "translations" : {
-    "russian" : "Я в стране малышей."
+    "russian" : "А я разгневан."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "and",
     "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "am",
-    "startOffset" : 2,
-    "endOffset" : 4,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 2
-  }, {
-    "token" : "baby",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 3
-  }, {
-    "token" : "land",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghLQ8NEXFMlzHK-HF",
-  "text" : "Oh, I am the manager.",
-  "translations" : {
-    "russian" : "Ой, я и есть менеджер."
-  },
-  "tokens" : [ {
-    "token" : "oh",
-    "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
     "token" : "i",
@@ -490,20 +158,247 @@
     "endOffset" : 8,
     "position" : 2
   }, {
-    "token" : "the",
+    "token" : "enrage",
     "startOffset" : 9,
-    "endOffset" : 12,
+    "endOffset" : 16,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDoQd5DTAu_IiLeLiG",
+  "text" : "Am I so insignificant?",
+  "translations" : {
+    "russian" : "Считаешь меня настолько ничтожным?"
+  },
+  "tokens" : [ {
+    "token" : "am",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
   }, {
-    "token" : "manager",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 4
+    "token" : "i",
+    "startOffset" : 3,
+    "endOffset" : 4,
+    "position" : 1
   }, {
-    "token" : "manage",
-    "startOffset" : 13,
+    "token" : "so",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 2
+  }, {
+    "token" : "insignificant",
+    "startOffset" : 8,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDooqjDTAu_IiLeLtq",
+  "text" : "But I am devout.",
+  "translations" : {
+    "russian" : "Но я верующий."
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "am",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 2
+  }, {
+    "token" : "devout",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDpWhoDTAu_IiLeMFG",
+  "text" : "I am a businessman.",
+  "translations" : {
+    "russian" : "Я коммерсант."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 2
+  }, {
+    "token" : "businessman",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4ifJDTAu_IiLeUUc",
+  "text" : "Am I wallowing?",
+  "translations" : {
+    "russian" : "Я упиваюсь?"
+  },
+  "tokens" : [ {
+    "token" : "am",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 3,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "wallow",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4kmDDTAu_IiLeUVX",
+  "text" : "I am Count Dracula.",
+  "translations" : {
+    "russian" : "Я граф Дракула."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "count",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "dracula",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4waWDTAu_IiLeUaj",
+  "text" : "I am no barbarian?",
+  "translations" : {
+    "russian" : "Дикарь. Какой я дикарь?"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 2
+  }, {
+    "token" : "barbarian",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_znuDTAu_IiLeZA8",
+  "text" : "Am I tense?",
+  "translations" : {
+    "russian" : "А я напряжена?"
+  },
+  "tokens" : [ {
+    "token" : "am",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 3,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "tense",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7URSDTAu_IiLeVof",
+  "text" : "I am suave.",
+  "translations" : {
+    "russian" : "Я учтивый."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "suave",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAYueDTAu_IiLeZd8",
+  "text" : "I am wagging, Brenda.",
+  "translations" : {
+    "russian" : "Я виляю, Бренда."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "wagging",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "brenda",
+    "startOffset" : 14,
     "endOffset" : 20,
-    "position" : 4
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

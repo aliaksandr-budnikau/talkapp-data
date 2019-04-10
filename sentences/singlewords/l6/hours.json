@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoFW79TDTAu_IiLfZTo",
+  "text" : "Classroom hours.",
+  "translations" : {
+    "russian" : "Часы занятий."
+  },
+  "tokens" : [ {
+    "token" : "classroom",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "hour",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyL20NEXFMlzHLUcf",
   "text" : "OK, an hour's passed.",
   "translations" : {
@@ -23,6 +41,62 @@
     "token" : "pass",
     "startOffset" : 14,
     "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmYVCDTAu_IiLeKjT",
+  "text" : "48 uninterrupted hours...",
+  "translations" : {
+    "russian" : "48 непрерывных часов... BAR."
+  },
+  "tokens" : [ {
+    "token" : "48",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "uninterrupted",
+    "startOffset" : 3,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "interrupted",
+    "startOffset" : 3,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "hour",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFP3n7DTAu_IiLfUGT",
+  "text" : "Visitation hours are over.",
+  "translations" : {
+    "russian" : "Часы посещений окончены."
+  },
+  "tokens" : [ {
+    "token" : "visitation",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "hour",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "over",
+    "startOffset" : 21,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
@@ -177,6 +251,115 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDm5-lDTAu_IiLeK2F",
+  "text" : "Nor disturbance at unreasonable hour.",
+  "translations" : {
+    "russian" : "И на беспокойство в неурочное время."
+  },
+  "tokens" : [ {
+    "token" : "nor",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "disturbance",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "reasonable",
+    "startOffset" : 19,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "reason",
+    "startOffset" : 19,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "hour",
+    "startOffset" : 32,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeEvWDTAu_IiLevZ5",
+  "text" : "Leaves Honolulu in an hour.",
+  "translations" : {
+    "russian" : "Уезжает из Гонолулу через час."
+  },
+  "tokens" : [ {
+    "token" : "leaves",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "leave",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "honolulu",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "an",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "hour",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCV67DTAu_IiLfJy0",
+  "text" : "Long, arduous hours of practice.",
+  "translations" : {
+    "russian" : "Долгие, тяжелые часы практики."
+  },
+  "tokens" : [ {
+    "token" : "long",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "arduous",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "hour",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "practice",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeb82NEXFMlzHK7vZ",
   "text" : "Only one hour to relax.",
   "translations" : {
@@ -321,214 +504,6 @@
     "startOffset" : 20,
     "endOffset" : 25,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyi1uNEXFMlzHLU89",
-  "text" : "Transport said about four hours.",
-  "translations" : {
-    "russian" : "Сможем перевезти часа через 4."
-  },
-  "tokens" : [ {
-    "token" : "transport",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "said",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "about",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "four",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "hour",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgc67SNEXFMlzHK6c1",
-  "text" : "New discovery are made hourly.",
-  "translations" : {
-    "russian" : "Новые открытия делаются ежечасно."
-  },
-  "tokens" : [ {
-    "token" : "new",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "discovery",
-    "startOffset" : 4,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "made",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "hourly",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "hour",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfC0zNEXFMlzHK8Rv",
-  "text" : "Visiting hours are almost over.",
-  "translations" : {
-    "russian" : "Время для посещений почти истекло."
-  },
-  "tokens" : [ {
-    "token" : "visit",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "hour",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "almost",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "over",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguETpNEXFMlzHLOZC",
-  "text" : "Sir, it's after duty hours.",
-  "translations" : {
-    "russian" : "Сэр, только после дежурства."
-  },
-  "tokens" : [ {
-    "token" : "sir",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "aft",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "duty",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "hour",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxASONEXFMlzHLSwK",
-  "text" : "We just flew ten hours.",
-  "translations" : {
-    "russian" : "Мы только что пролетели 10 часов."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "just",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "flew",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "ten",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "hour",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr1zMNEXFMlzHLLl8",
-  "text" : "Let's reconvene in half an hour.",
-  "translations" : {
-    "russian" : "Вернемся к обсуждению через полчаса."
-  },
-  "tokens" : [ {
-    "token" : "let",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "convene",
-    "startOffset" : 6,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "half",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "an",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "hour",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,29 +1,39 @@
 [ {
-  "id" : "AWbgyXQUNEXFMlzHLUyy",
-  "text" : "Hop in your mouth?",
+  "id" : "AWoEUw0rDTAu_IiLeo1A",
+  "text" : "I'd hoped you'd outgrown it.",
   "translations" : {
-    "russian" : "Прыгнуть тебе в клюв?"
+    "russian" : "Я надеялся, что ты перерос это."
   },
   "tokens" : [ {
-    "token" : "hop",
+    "token" : "i'd",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "in",
+    "token" : "hoped",
     "startOffset" : 4,
-    "endOffset" : 6,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "your",
-    "startOffset" : 7,
-    "endOffset" : 11,
+    "token" : "hop",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "you'd",
+    "startOffset" : 10,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "mouth",
-    "startOffset" : 12,
-    "endOffset" : 17,
+    "token" : "outgrown",
+    "startOffset" : 16,
+    "endOffset" : 24,
     "position" : 3
+  }, {
+    "token" : "it",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -52,6 +62,156 @@
     "startOffset" : 15,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyXQUNEXFMlzHLUyy",
+  "text" : "Hop in your mouth?",
+  "translations" : {
+    "russian" : "Прыгнуть тебе в клюв?"
+  },
+  "tokens" : [ {
+    "token" : "hop",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "mouth",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1ka7DTAu_IiLeS8h",
+  "text" : "Hop the takeout, yes.",
+  "translations" : {
+    "russian" : "Скачите и закажем."
+  },
+  "tokens" : [ {
+    "token" : "hop",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "takeout",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "yes",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2uF8DTAu_IiLfBhA",
+  "text" : "I'm hoping it's maturity.",
+  "translations" : {
+    "russian" : "Надеюсь, это зрелость."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "hop",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "maturity",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYqeMDTAu_IiLeCrO",
+  "text" : "Arcade, TV, rap, hip-hop.",
+  "translations" : {
+    "russian" : "Галереи, Тв, рэп, хип-хоп."
+  },
+  "tokens" : [ {
+    "token" : "arcade",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "tv",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "rap",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "hip",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "hop",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4QYzDTAu_IiLeULz",
+  "text" : "I'd been hoping for cushions.",
+  "translations" : {
+    "russian" : "А я-то надеялся на подушки."
+  },
+  "tokens" : [ {
+    "token" : "i'd",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "been",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "hop",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "cushion",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -122,6 +282,44 @@
     "token" : "beach",
     "startOffset" : 22,
     "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDTk0cDTAu_IiLd_9Z",
+  "text" : "You're hoping there's redemption in there.",
+  "translations" : {
+    "russian" : "Вы надеетесь, что его искупление находится там."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "hop",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "there",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "redemption",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "in",
+    "startOffset" : 33,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "there",
+    "startOffset" : 36,
+    "endOffset" : 41,
     "position" : 5
   } ],
   "contentScore" : null
@@ -202,6 +400,82 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDtky1DTAu_IiLeOiZ",
+  "text" : "Really hoping for a combat story.",
+  "translations" : {
+    "russian" : "Очень надеюсь услышать историю о каком-нибудь сражении."
+  },
+  "tokens" : [ {
+    "token" : "ally",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "hop",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 18,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "combat",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "story",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdlM4DTAu_IiLeFjp",
+  "text" : "You're hoping bandits will get me.",
+  "translations" : {
+    "russian" : "Надеетесь, что меня убьют бандиты."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "hop",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "bandit",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "will",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "get",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "me",
+    "startOffset" : 31,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwanwNEXFMlzHLSKN",
   "text" : "I was hoping to catch you.",
   "translations" : {
@@ -274,44 +548,6 @@
     "token" : "hop",
     "startOffset" : 19,
     "endOffset" : 22,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyXgNNEXFMlzHLUy_",
-  "text" : "Come on, Ken-doll, hop up.",
-  "translations" : {
-    "russian" : "Давай, Кен-куклу, прыгать вверх."
-  },
-  "tokens" : [ {
-    "token" : "come",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "on",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "ken",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "doll",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "hop",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "up",
-    "startOffset" : 23,
-    "endOffset" : 25,
     "position" : 5
   } ],
   "contentScore" : null

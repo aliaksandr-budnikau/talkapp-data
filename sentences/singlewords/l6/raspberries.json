@@ -1,4 +1,45 @@
 [ {
+  "id" : "AWoFEbNRDTAu_IiLfLTG",
+  "text" : "Raspberry, strawberry.",
+  "translations" : {
+    "russian" : "Малина, земляника."
+  },
+  "tokens" : [ {
+    "token" : "raspberry",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "strawberry",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEahpDTAu_IiLfLSr",
+  "text" : "Strawberries, raspberries, blackberries.",
+  "translations" : {
+    "russian" : "Клубнику, малину, чернику."
+  },
+  "tokens" : [ {
+    "token" : "strawberry",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "raspberry",
+    "startOffset" : 14,
+    "endOffset" : 25,
+    "position" : 1
+  }, {
+    "token" : "blackberry",
+    "startOffset" : 27,
+    "endOffset" : 39,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgk4X_NEXFMlzHLBis",
   "text" : "Baked brie and raspberry preserves.",
   "translations" : {
@@ -33,6 +74,72 @@
     "token" : "preserve",
     "startOffset" : 25,
     "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyeNZDTAu_IiLe-k9",
+  "text" : "Is there any raspberry jelly?",
+  "translations" : {
+    "russian" : "У нас есть малиновое варенье?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "there",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "any",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "raspberry",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "jelly",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGFb4DTAu_IiLfMfF",
+  "text" : "With a playful raspberry coulis.",
+  "translations" : {
+    "russian" : "С игривым французским соусом кули."
+  },
+  "tokens" : [ {
+    "token" : "with",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "playful",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "raspberry",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "coulis",
+    "startOffset" : 25,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null

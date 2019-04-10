@@ -32,6 +32,159 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFIsltDTAu_IiLfOl9",
+  "text" : "Surplus soap, apples, leather.",
+  "translations" : {
+    "russian" : "Излишки мыло, яблоки, кожа."
+  },
+  "tokens" : [ {
+    "token" : "surplus",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "soap",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "apple",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "leather",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiar4DTAu_IiLey4u",
+  "text" : "Apples, pears, strawberries.",
+  "translations" : {
+    "russian" : "Яблоки, груши, клубнику."
+  },
+  "tokens" : [ {
+    "token" : "apple",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "pear",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "strawberry",
+    "startOffset" : 15,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrWLHDTAu_IiLeNMr",
+  "text" : "The apples are mealy.",
+  "translations" : {
+    "russian" : "Яблоки рыхлые."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "apple",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "mealy",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiN1sDTAu_IiLeyuZ",
+  "text" : "Apples and pears.",
+  "translations" : {
+    "russian" : "Яблоки и груши."
+  },
+  "tokens" : [ {
+    "token" : "apple",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pear",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFL-lvDTAu_IiLfRLk",
+  "text" : "Figs, apples, pears.",
+  "translations" : {
+    "russian" : "Рaстут фиги, яблoки, гpуши."
+  },
+  "tokens" : [ {
+    "token" : "fig",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "apple",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "pear",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiOyQDTAu_IiLeyvQ",
+  "text" : "One apple, one pear.",
+  "translations" : {
+    "russian" : "Один яблочный, другой грушевый."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "apple",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "one",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "pear",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzX2uNEXFMlzHLWVU",
   "text" : "We actually made apple tarts.",
   "translations" : {
@@ -61,6 +214,39 @@
     "token" : "tart",
     "startOffset" : 23,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrZdlDTAu_IiLeNOn",
+  "text" : "Watching an apple fade away.",
+  "translations" : {
+    "russian" : "Смотрит, как увядает яблоко."
+  },
+  "tokens" : [ {
+    "token" : "watch",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "apple",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "fade",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "away",
+    "startOffset" : 23,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
@@ -103,6 +289,110 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFO-VeDTAu_IiLfTZf",
+  "text" : "AnnaBeth, that apple looks enticing.",
+  "translations" : {
+    "russian" : "Анабет, это яблоко выглядит так соблазнительно."
+  },
+  "tokens" : [ {
+    "token" : "annabeth",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "apple",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "look",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "enticing",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "entice",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDUnF8DTAu_IiLeAnQ",
+  "text" : "Banana, pineapple, chocolate and apple.",
+  "translations" : {
+    "russian" : "Банановый, ананасовый, шоколадный и яблочный."
+  },
+  "tokens" : [ {
+    "token" : "banana",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "pineapple",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "chocolate",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 29,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "apple",
+    "startOffset" : 33,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtblIDTAu_IiLe67w",
+  "text" : "I can reach the apple.",
+  "translations" : {
+    "russian" : "Я могу достать яблоко."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "reach",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "apple",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbga4O4NEXFMlzHK4ng",
   "text" : "And an apple in your mouth.",
   "translations" : {
@@ -141,78 +431,78 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgr3EONEXFMlzHLLnv",
-  "text" : "And an apple in your mouth.",
+  "id" : "AWoDrWTHDTAu_IiLeNMx",
+  "text" : "So many apples are disappointingly mealy.",
   "translations" : {
-    "russian" : "И яблоко во рту."
+    "russian" : "А сколько яблок разочаровывает своей рыхлостью!"
   },
   "tokens" : [ {
-    "token" : "and",
+    "token" : "so",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "an",
-    "startOffset" : 4,
-    "endOffset" : 6,
+    "token" : "many",
+    "startOffset" : 3,
+    "endOffset" : 7,
     "position" : 1
   }, {
     "token" : "apple",
-    "startOffset" : 7,
-    "endOffset" : 12,
+    "startOffset" : 8,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "in",
-    "startOffset" : 13,
-    "endOffset" : 15,
+    "token" : "are",
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "your",
-    "startOffset" : 16,
-    "endOffset" : 20,
+    "token" : "disappointing",
+    "startOffset" : 19,
+    "endOffset" : 34,
     "position" : 4
   }, {
-    "token" : "mouth",
-    "startOffset" : 21,
-    "endOffset" : 26,
+    "token" : "mealy",
+    "startOffset" : 35,
+    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgc2ohNEXFMlzHK6Y_",
-  "text" : "You still make organic apple pie?",
+  "id" : "AWoEiav2DTAu_IiLey4x",
+  "text" : "We're talking about apples and pears.",
   "translations" : {
-    "russian" : "А ты все еще готовишь экологический яблочный пирог?"
+    "russian" : "Мы говорим о яблоках и грушах."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "we're",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "still",
-    "startOffset" : 4,
-    "endOffset" : 9,
+    "token" : "talk",
+    "startOffset" : 6,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "make",
-    "startOffset" : 10,
-    "endOffset" : 14,
+    "token" : "about",
+    "startOffset" : 14,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "organic",
-    "startOffset" : 15,
-    "endOffset" : 22,
+    "token" : "apple",
+    "startOffset" : 20,
+    "endOffset" : 26,
     "position" : 3
   }, {
-    "token" : "apple",
-    "startOffset" : 23,
-    "endOffset" : 28,
+    "token" : "and",
+    "startOffset" : 27,
+    "endOffset" : 30,
     "position" : 4
   }, {
-    "token" : "pie",
-    "startOffset" : 29,
-    "endOffset" : 32,
+    "token" : "pear",
+    "startOffset" : 31,
+    "endOffset" : 36,
     "position" : 5
   } ],
   "contentScore" : null

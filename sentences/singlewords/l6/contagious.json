@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoDujJSDTAu_IiLePIn",
+  "text" : "Very contagious disease.",
+  "translations" : {
+    "russian" : "Да. Ты жутко заразный."
+  },
+  "tokens" : [ {
+    "token" : "very",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "contagious",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "disease",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWn5n_w-SHZo49ps8uEc",
   "text" : "Contagious, like yawning.",
   "translations" : {
@@ -24,6 +47,72 @@
     "startOffset" : 17,
     "endOffset" : 24,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmTcEDTAu_IiLe1zG",
+  "text" : "Just be courageous'Cause style's contagious.",
+  "translations" : {
+    "russian" : "Просто будь смелее, Этот стиль заразен."
+  },
+  "tokens" : [ {
+    "token" : "just",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "be",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "courageous'cause",
+    "startOffset" : 8,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "style",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "contagious",
+    "startOffset" : 33,
+    "endOffset" : 43,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDujHHDTAu_IiLePIm",
+  "text" : "You have a contagious disease.",
+  "translations" : {
+    "russian" : "Точно. Ты заразный."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "contagious",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "disease",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

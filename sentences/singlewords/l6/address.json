@@ -1,4 +1,78 @@
 [ {
+  "id" : "AWoDlWnbDTAu_IiLeJ_R",
+  "text" : "Belfast Address.",
+  "translations" : {
+    "russian" : "Адрес в Белфасте."
+  },
+  "tokens" : [ {
+    "token" : "belfast",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "address",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEq6jwDTAu_IiLe5PJ",
+  "text" : "He'll address the Convention.",
+  "translations" : {
+    "russian" : "И он, не колеблясь, возьмет слово в Конвенте."
+  },
+  "tokens" : [ {
+    "token" : "he'll",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "address",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "convention",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbelzDTAu_IiLfdAm",
+  "text" : "I'll address another envelope.",
+  "translations" : {
+    "russian" : "Я напишу новое письмо."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "address",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "another",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "envelope",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnnj_NEXFMlzHLFwA",
   "text" : "Name, address, phone.",
   "translations" : {
@@ -121,48 +195,261 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjxJKNEXFMlzHLAS_",
-  "text" : "Get the address for that greenhouse.",
+  "id" : "AWoE0QywDTAu_IiLe_1S",
+  "text" : "You have the breeder's address?",
   "translations" : {
-    "russian" : "Найдите адрес этой оранжереи."
+    "russian" : "У тебя есть адрес разводчика?"
   },
   "tokens" : [ {
-    "token" : "get",
+    "token" : "you",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "the",
+    "token" : "have",
     "startOffset" : 4,
-    "endOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "breeder's",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "address",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-ifXDTAu_IiLfG1v",
+  "text" : "Full name, address, and occupation.",
+  "translations" : {
+    "russian" : "Полное имя, адрес, род занятий."
+  },
+  "tokens" : [ {
+    "token" : "full",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "name",
+    "startOffset" : 5,
+    "endOffset" : 9,
     "position" : 1
   }, {
     "token" : "address",
-    "startOffset" : 8,
-    "endOffset" : 15,
+    "startOffset" : 11,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "for",
-    "startOffset" : 16,
-    "endOffset" : 19,
+    "token" : "and",
+    "startOffset" : 20,
+    "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "that",
+    "token" : "occupation",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-ieSDTAu_IiLfG1u",
+  "text" : "Full name, address, and occupation.",
+  "translations" : {
+    "russian" : "Полное имя, адрес, род занятий."
+  },
+  "tokens" : [ {
+    "token" : "full",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "name",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "address",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "and",
     "startOffset" : 20,
-    "endOffset" : 24,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "occupation",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDP0vFDTAu_IiLd9az",
+  "text" : "Let's address the division of assets.",
+  "translations" : {
+    "russian" : "Обсудим раздел имущества."
+  },
+  "tokens" : [ {
+    "token" : "let",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "address",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "division",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 27,
+    "endOffset" : 29,
     "position" : 4
   }, {
-    "token" : "greenhouse",
+    "token" : "asset",
+    "startOffset" : 30,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbJTIDTAu_IiLetVA",
+  "text" : "What's the address of this gymnasium?",
+  "translations" : {
+    "russian" : "Какой адрес вашего гимнастического зала ?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "address",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "this",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "gymnasium",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHWMWDTAu_IiLfNet",
+  "text" : "Nobody notifies a change of address.",
+  "translations" : {
+    "russian" : "Да кто сообщает об изменении адреса."
+  },
+  "tokens" : [ {
+    "token" : "nobody",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "notify",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "change",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "of",
     "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "address",
+    "startOffset" : 28,
     "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgySTVNEXFMlzHLUp6",
-  "text" : "There's no return address on it.",
+  "id" : "AWoFHbiJDTAu_IiLfNi6",
+  "text" : "Nobody notifies a change of address.",
   "translations" : {
-    "russian" : "На нем нет обратного адреса."
+    "russian" : "Да кто сообщает об изменении адреса."
+  },
+  "tokens" : [ {
+    "token" : "nobody",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "notify",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "change",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "address",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELBBYDTAu_IiLehdj",
+  "text" : "There's an address on his collar.",
+  "translations" : {
+    "russian" : "Там на ошейнике есть адрес."
   },
   "tokens" : [ {
     "token" : "there",
@@ -170,67 +457,67 @@
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "no",
+    "token" : "an",
     "startOffset" : 8,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "turn",
+    "token" : "address",
     "startOffset" : 11,
-    "endOffset" : 17,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "address",
-    "startOffset" : 18,
-    "endOffset" : 25,
+    "token" : "on",
+    "startOffset" : 19,
+    "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "on",
-    "startOffset" : 26,
-    "endOffset" : 28,
+    "token" : "his",
+    "startOffset" : 22,
+    "endOffset" : 25,
     "position" : 4
   }, {
-    "token" : "it",
-    "startOffset" : 29,
-    "endOffset" : 31,
+    "token" : "collar",
+    "startOffset" : 26,
+    "endOffset" : 32,
     "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgySXPNEXFMlzHLUqA",
-  "text" : "He was clocking the return address.",
+  "id" : "AWoErey2DTAu_IiLe5oK",
+  "text" : "Here's the address of The Mole.",
   "translations" : {
-    "russian" : "Он выяснял обратный адрес."
+    "russian" : "Вот адрес Крота."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "here's",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "was",
-    "startOffset" : 3,
-    "endOffset" : 6,
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "clock",
-    "startOffset" : 7,
-    "endOffset" : 15,
+    "token" : "address",
+    "startOffset" : 11,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 16,
-    "endOffset" : 19,
+    "token" : "of",
+    "startOffset" : 19,
+    "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "turn",
-    "startOffset" : 20,
-    "endOffset" : 26,
+    "token" : "the",
+    "startOffset" : 22,
+    "endOffset" : 25,
     "position" : 4
   }, {
-    "token" : "address",
-    "startOffset" : 27,
-    "endOffset" : 34,
+    "token" : "mole",
+    "startOffset" : 26,
+    "endOffset" : 30,
     "position" : 5
   } ],
   "contentScore" : null

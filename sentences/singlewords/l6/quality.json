@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoE0jtSDTAu_IiLfACy",
+  "text" : "High quality beetles.",
+  "translations" : {
+    "russian" : "Жуки высшего качества."
+  },
+  "tokens" : [ {
+    "token" : "high",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "quality",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "beetle",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmhrwDTAu_IiLeKoZ",
+  "text" : "The quality is unmatched.",
+  "translations" : {
+    "russian" : "Качество бесподобное."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "quality",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "matched",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpM_ONEXFMlzHLH9d",
   "text" : "It has voodoo qualities.",
   "translations" : {
@@ -83,6 +134,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFTFi3DTAu_IiLfWmW",
+  "text" : "200 carats, S1 quality.",
+  "translations" : {
+    "russian" : "Двести каратов, высочайшее качество."
+  },
+  "tokens" : [ {
+    "token" : "200",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "carat",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "s1",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "quality",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpMs6NEXFMlzHLH9D",
   "text" : "Very best quality, good price.",
   "translations" : {
@@ -117,6 +196,72 @@
     "token" : "price",
     "startOffset" : 24,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5fWMDTAu_IiLeUvg",
+  "text" : "Qualities much in demand hereabout.",
+  "translations" : {
+    "russian" : "Весьма востребованные качества здесь."
+  },
+  "tokens" : [ {
+    "token" : "quality",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "much",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "demand",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "hereabout",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5gWrDTAu_IiLeUv4",
+  "text" : "Qualities much in demand hereabout.",
+  "translations" : {
+    "russian" : "Весьма востребованные качества здесь."
+  },
+  "tokens" : [ {
+    "token" : "quality",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "much",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "demand",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "hereabout",
+    "startOffset" : 25,
+    "endOffset" : 34,
     "position" : 4
   } ],
   "contentScore" : null
@@ -353,171 +498,6 @@
     "token" : "quality",
     "startOffset" : 16,
     "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpNQzNEXFMlzHLH9v",
-  "text" : "This is real good quality!",
-  "translations" : {
-    "russian" : "Вот это первый сорт!"
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "real",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "good",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "quality",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjZxWNEXFMlzHK_-l",
-  "text" : "Elizabeth has her qualities, too.",
-  "translations" : {
-    "russian" : "У Элизабет есть также свои достоинства."
-  },
-  "tokens" : [ {
-    "token" : "elizabeth",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "has",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "her",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "quality",
-    "startOffset" : 18,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "too",
-    "startOffset" : 29,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjaJxNEXFMlzHK_-8",
-  "text" : "This is real good quality!",
-  "translations" : {
-    "russian" : "Вот это первый сорт!"
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "real",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "good",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "quality",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpMoxNEXFMlzHLH89",
-  "text" : "It's your one redeeming quality.",
-  "translations" : {
-    "russian" : "Это твое единственное положительное качество."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "one",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "deem",
-    "startOffset" : 14,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "quality",
-    "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpMmkNEXFMlzHLH86",
-  "text" : "The picture quality is great.",
-  "translations" : {
-    "russian" : "Хэ, качество картинки просто супер.."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "picture",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "quality",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "great",
-    "startOffset" : 23,
-    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null

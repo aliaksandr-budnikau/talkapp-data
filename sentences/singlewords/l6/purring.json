@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoFaDiODTAu_IiLfb2w",
+  "text" : "CAT PURRING Hey, slinky.",
+  "translations" : {
+    "russian" : "Эй, Слинки, привет."
+  },
+  "tokens" : [ {
+    "token" : "cat",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "purring",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "purr",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "hey",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "slinky",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFguD2DTAu_IiLfgwx",
+  "text" : "A kitten's purr...",
+  "translations" : {
+    "russian" : "Кошачье мурлыкание..."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "kitten",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "purr",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcdRqDTAu_IiLeE8Z",
+  "text" : "Lots of purrs and whiskers.",
+  "translations" : {
+    "russian" : "Желаю много мурлыканий и усов!"
+  },
+  "tokens" : [ {
+    "token" : "lot",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "purr",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "whisk",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdTbmNEXFMlzHK6yy",
   "text" : "Seldom plays and always purrs.",
   "translations" : {
@@ -34,6 +123,82 @@
     "startOffset" : 24,
     "endOffset" : 29,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgvlIDTAu_IiLfgxr",
+  "text" : "The engine purrs like a kitten.",
+  "translations" : {
+    "russian" : "Мотор урчит словно котик."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "engine",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "purr",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "like",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 22,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "kitten",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFa5ZPDTAu_IiLfcjW",
+  "text" : "There's a compressor over there. Purrs.",
+  "translations" : {
+    "russian" : "Как будто рядом компрессор. Пррр."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "compressor",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "over",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "there",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "purr",
+    "startOffset" : 33,
+    "endOffset" : 38,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

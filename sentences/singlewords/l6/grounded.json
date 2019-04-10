@@ -103,6 +103,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgv5khNEXFMlzHLRob",
+  "text" : "On the ground, now!",
+  "translations" : {
+    "russian" : "На пол, сейчас же!"
+  },
+  "tokens" : [ {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "ground",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "now",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxt34NEXFMlzHLTva",
   "text" : "Food court, ground level.",
   "translations" : {
@@ -131,31 +159,26 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgv5khNEXFMlzHLRob",
-  "text" : "On the ground, now!",
+  "id" : "AWoEUrnDDTAu_IiLeow0",
+  "text" : "Ground, atrium level.",
   "translations" : {
-    "russian" : "На пол, сейчас же!"
+    "russian" : "Нижняя палуба. Атриум."
   },
   "tokens" : [ {
-    "token" : "on",
+    "token" : "ground",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 3,
-    "endOffset" : 6,
+    "token" : "atrium",
+    "startOffset" : 8,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "ground",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "now",
+    "token" : "level",
     "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
+    "endOffset" : 20,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -187,6 +210,225 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDsUSQDTAu_IiLeNyl",
+  "text" : "Several roam the grounds.",
+  "translations" : {
+    "russian" : "Парочка из них бродит по территории."
+  },
+  "tokens" : [ {
+    "token" : "several",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "roam",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "ground",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUq5IDTAu_IiLeowQ",
+  "text" : "Anybody on ground level?",
+  "translations" : {
+    "russian" : "Кто-нибудь есть на первом этаже?"
+  },
+  "tokens" : [ {
+    "token" : "anybody",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ground",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "level",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUq27DTAu_IiLeowP",
+  "text" : "Food court, ground level.",
+  "translations" : {
+    "russian" : "Рестораны на первом этаже."
+  },
+  "tokens" : [ {
+    "token" : "food",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "court",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ground",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "level",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCYT_DTAu_IiLfJ0j",
+  "text" : "Light ground fog.",
+  "translations" : {
+    "russian" : "Небольшой туман."
+  },
+  "tokens" : [ {
+    "token" : "light",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ground",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "fog",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHjlCDTAu_IiLfNpY",
+  "text" : "Notify ground crews.",
+  "translations" : {
+    "russian" : "Известите наземные службы."
+  },
+  "tokens" : [ {
+    "token" : "notify",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "ground",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "crew",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIpAXDTAu_IiLfOjA",
+  "text" : "Ground level preparations completed?",
+  "translations" : {
+    "russian" : "Основные пункты приготовлений завершены?"
+  },
+  "tokens" : [ {
+    "token" : "ground",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "level",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "preparation",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "completed",
+    "startOffset" : 26,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "complete",
+    "startOffset" : 26,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLakYDTAu_IiLfQwG",
+  "text" : "That's grounds for impeachment.",
+  "translations" : {
+    "russian" : "Это основание для импичмента."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "ground",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "impeachment",
+    "startOffset" : 19,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "impeach",
+    "startOffset" : 19,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHZNjDTAu_IiLfNhN",
+  "text" : "Notify ground crews.",
+  "translations" : {
+    "russian" : "Известите наземные службы."
+  },
+  "tokens" : [ {
+    "token" : "notify",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "ground",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "crew",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgv5qoNEXFMlzHLRoh",
   "text" : "On the ground, now!",
   "translations" : {
@@ -212,303 +454,6 @@
     "startOffset" : 15,
     "endOffset" : 18,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv5lvNEXFMlzHLRoc",
-  "text" : "Get on the ground!",
-  "translations" : {
-    "russian" : "Всем лечь на пол!"
-  },
-  "tokens" : [ {
-    "token" : "get",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "on",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "ground",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgh0YkNEXFMlzHK-q5",
-  "text" : "Speed over ground 4.6 knots.",
-  "translations" : {
-    "russian" : "Скорость относительно земли 4, 6 узлов."
-  },
-  "tokens" : [ {
-    "token" : "speed",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "over",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "ground",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "4.6",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "knot",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv5GgNEXFMlzHLRn0",
-  "text" : "Began to give me ground.",
-  "translations" : {
-    "russian" : "То они начали отступать."
-  },
-  "tokens" : [ {
-    "token" : "began",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "give",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "g",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "me",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "ground",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv7vUNEXFMlzHLRqS",
-  "text" : "It's herbs ground into paste.",
-  "translations" : {
-    "russian" : "Это измельченные в порошок травы."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "herb",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "ground",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "into",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "paste",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv7mxNEXFMlzHLRqK",
-  "text" : "It's a ground for dismissal.",
-  "translations" : {
-    "russian" : "Это веская причина для увольнения."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "ground",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "missal",
-    "startOffset" : 18,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv7P1NEXFMlzHLRp5",
-  "text" : "Dude, this is ground cumin.",
-  "translations" : {
-    "russian" : "Чувак, это молотый тмин."
-  },
-  "tokens" : [ {
-    "token" : "dude",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "this",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "ground",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "cumin",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv6OwNEXFMlzHLRpC",
-  "text" : "Obviously, the ground is waterlogged.",
-  "translations" : {
-    "russian" : "Как видите, почва тут заболочена."
-  },
-  "tokens" : [ {
-    "token" : "obvious",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "ground",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 22,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "waterlogged",
-    "startOffset" : 25,
-    "endOffset" : 36,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv47GNEXFMlzHLRnf",
-  "text" : "Get down on the ground!",
-  "translations" : {
-    "russian" : "Всем лечь на землю!"
-  },
-  "tokens" : [ {
-    "token" : "get",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "down",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "ground",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv5YkNEXFMlzHLRoI",
-  "text" : "I'm 5ft from the ground.",
-  "translations" : {
-    "russian" : "Я в пяти футах от пола."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "5ft",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "from",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "ground",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

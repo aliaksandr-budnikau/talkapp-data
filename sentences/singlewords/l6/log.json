@@ -292,6 +292,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEsyKpDTAu_IiLe6gJ",
+  "text" : "Captain's log, supplement.",
+  "translations" : {
+    "russian" : "Бортовой журнал, дополнение."
+  },
+  "tokens" : [ {
+    "token" : "captain",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "log",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "supplement",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "supple",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEs4InDTAu_IiLe6kD",
+  "text" : "Captain's log, supplement.",
+  "translations" : {
+    "russian" : "Журнал капитана, дополнение."
+  },
+  "tokens" : [ {
+    "token" : "captain",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "log",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "supplement",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "supple",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgk1O_NEXFMlzHLBd7",
   "text" : "Captain's Log, supplemental.",
   "translations" : {
@@ -358,67 +414,6 @@
     "startOffset" : 14,
     "endOffset" : 26,
     "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk1tvNEXFMlzHLBem",
-  "text" : "It's only a log.",
-  "translations" : {
-    "russian" : "Это всего лишь бревно."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "only",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 10,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "log",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk2CnNEXFMlzHLBfG",
-  "text" : "Logs everywhere you go.",
-  "translations" : {
-    "russian" : "Регистрирует все места, где вы бываете."
-  },
-  "tokens" : [ {
-    "token" : "log",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "everywhere",
-    "startOffset" : 5,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "go",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

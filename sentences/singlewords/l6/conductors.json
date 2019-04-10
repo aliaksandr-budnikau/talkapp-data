@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWbgyRD5NEXFMlzHLUnR",
+  "text" : "Where's your conductor?",
+  "translations" : {
+    "russian" : "Где ваш художественный руководитель?"
+  },
+  "tokens" : [ {
+    "token" : "where",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "conductor",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyQw2NEXFMlzHLUmq",
   "text" : "Water's a conductor, right?",
   "translations" : {
@@ -24,29 +47,6 @@
     "startOffset" : 21,
     "endOffset" : 26,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyRD5NEXFMlzHLUnR",
-  "text" : "Where's your conductor?",
-  "translations" : {
-    "russian" : "Где ваш художественный руководитель?"
-  },
-  "tokens" : [ {
-    "token" : "where",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "conductor",
-    "startOffset" : 13,
-    "endOffset" : 22,
-    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -102,6 +102,34 @@
     "token" : "conductor",
     "startOffset" : 15,
     "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDb5V7DTAu_IiLeEqN",
+  "text" : "Junkies and ticket conductors.",
+  "translations" : {
+    "russian" : "Hysteric granniesНаркоманы и кондукторы, истеричные бабушки."
+  },
+  "tokens" : [ {
+    "token" : "junkie",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "ticket",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "conductor",
+    "startOffset" : 19,
+    "endOffset" : 29,
     "position" : 3
   } ],
   "contentScore" : null
@@ -172,39 +200,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyQ0BNEXFMlzHLUmx",
-  "text" : "Our bodies are natural conductors.",
-  "translations" : {
-    "russian" : "Наше тело природный проводник."
-  },
-  "tokens" : [ {
-    "token" : "our",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "body",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "natural",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "conductor",
-    "startOffset" : 23,
-    "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgyQTENEXFMlzHLUlu",
   "text" : "Let him be deputy conductor.",
   "translations" : {
@@ -234,6 +229,39 @@
     "token" : "conductor",
     "startOffset" : 18,
     "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyQ0BNEXFMlzHLUmx",
+  "text" : "Our bodies are natural conductors.",
+  "translations" : {
+    "russian" : "Наше тело природный проводник."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "body",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "natural",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "conductor",
+    "startOffset" : 23,
+    "endOffset" : 33,
     "position" : 4
   } ],
   "contentScore" : null

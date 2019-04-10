@@ -1,4 +1,96 @@
 [ {
+  "id" : "AWoE8cBeDTAu_IiLfFPq",
+  "text" : "Muffled explosion.",
+  "translations" : {
+    "russian" : "Приглушенный взрыв."
+  },
+  "tokens" : [ {
+    "token" : "muffle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "explosion",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIPZjDTAu_IiLefaI",
+  "text" : "The explosion occurred.",
+  "translations" : {
+    "russian" : "Произошёл взрыв."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "explosion",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "occurred",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKPXmDTAu_IiLeg2n",
+  "text" : "Screeching and explosions.",
+  "translations" : {
+    "russian" : "Визги и взрывы."
+  },
+  "tokens" : [ {
+    "token" : "screech",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "explosion",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvFj8DTAu_IiLe8EU",
+  "text" : "The explosion atomized him.",
+  "translations" : {
+    "russian" : "Его разорвало взрывом."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "explosion",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "atomize",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "him",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglhojNEXFMlzHLCsL",
   "text" : "Every explosion has an epicentre.",
   "translations" : {
@@ -28,6 +120,105 @@
     "token" : "epicentre",
     "startOffset" : 23,
     "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIPi1DTAu_IiLefaO",
+  "text" : "The explosion has already occurred.",
+  "translations" : {
+    "russian" : "Взрыв уже произошел."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "explosion",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "already",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "occurred",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEckueDTAu_IiLeuSe",
+  "text" : "Explosions Continue Lawson Depth charges.",
+  "translations" : {
+    "russian" : "Глубинные бомбы."
+  },
+  "tokens" : [ {
+    "token" : "explosion",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "continue",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "lawson",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "depth",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "charge",
+    "startOffset" : 33,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbYeVDTAu_IiLfc7u",
+  "text" : "Condor, I heard an explosion.",
+  "translations" : {
+    "russian" : "Кондор, я слышал взрыв."
+  },
+  "tokens" : [ {
+    "token" : "condor",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "heard",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "an",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "explosion",
+    "startOffset" : 19,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null
@@ -62,6 +253,110 @@
     "startOffset" : 23,
     "endOffset" : 32,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKd9ODTAu_IiLehB5",
+  "text" : "LRB- Screeching and explosions -RRB.",
+  "translations" : {
+    "russian" : "Визги и взрывы."
+  },
+  "tokens" : [ {
+    "token" : "lrb",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "screech",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "explosion",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "rrb",
+    "startOffset" : 32,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKd8PDTAu_IiLehB4",
+  "text" : "LRB- Screeching and explosions -RRB.",
+  "translations" : {
+    "russian" : "Визг и взрывы."
+  },
+  "tokens" : [ {
+    "token" : "lrb",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "screech",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "explosion",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "rrb",
+    "startOffset" : 32,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmAakDTAu_IiLe1lH",
+  "text" : "You said the demographic explosion... What?",
+  "translations" : {
+    "russian" : "Вы говорили о демографическом взрыве."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "said",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "demographic",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "explosion",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "what",
+    "startOffset" : 38,
+    "endOffset" : 42,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

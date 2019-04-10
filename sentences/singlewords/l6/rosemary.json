@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoEgTW1DTAu_IiLexJr",
+  "text" : "Oregano, basil, rosemary...",
+  "translations" : {
+    "russian" : "Душица, базилик, розмарин..."
+  },
+  "tokens" : [ {
+    "token" : "oregano",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "basil",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "rosemary",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgTkCDTAu_IiLexJ2",
+  "text" : "Like, basil and rosemary.",
+  "translations" : {
+    "russian" : "Например, базилик или розмарин."
+  },
+  "tokens" : [ {
+    "token" : "like",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "basil",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "rosemary",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgn7ipNEXFMlzHLGQy",
   "text" : "Rosemary to stimulate cerebral circulation.",
   "translations" : {
@@ -33,6 +84,77 @@
     "token" : "circulate",
     "startOffset" : 31,
     "endOffset" : 42,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgTvwDTAu_IiLexKB",
+  "text" : "Seasoned with basil and rosemary.",
+  "translations" : {
+    "russian" : "Приправленного базиликом и розмарином."
+  },
+  "tokens" : [ {
+    "token" : "seasoned",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "season",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "basil",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "rosemary",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeMA0DTAu_IiLffBG",
+  "text" : "Dr. Rosemary Paris, field coordinator.",
+  "translations" : {
+    "russian" : "Доктор Розмари Парис, координатор."
+  },
+  "tokens" : [ {
+    "token" : "dr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "rosemary",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "paris",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "field",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "coordinator",
+    "startOffset" : 26,
+    "endOffset" : 37,
     "position" : 4
   } ],
   "contentScore" : null

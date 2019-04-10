@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoEJvssDTAu_IiLegei",
+  "text" : "Sorcerer supreme.",
+  "translations" : {
+    "russian" : "Верховным магом."
+  },
+  "tokens" : [ {
+    "token" : "sorcerer",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "supreme",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSkKxDTAu_IiLfWNd",
+  "text" : "Potential supreme court nominee.",
+  "translations" : {
+    "russian" : "Потенциальный кандидат в члены верховного суда."
+  },
+  "tokens" : [ {
+    "token" : "potential",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "supreme",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "court",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "nominee",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguso8NEXFMlzHLPnQ",
   "text" : "Yes, Illinois Supreme Court justice.",
   "translations" : {
@@ -65,6 +111,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDZxgODTAu_IiLeDWY",
+  "text" : "How is the Supreme Pontiff?",
+  "translations" : {
+    "russian" : "Как чувствует себя понтифик?"
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "supreme",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "pontiff",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgusr3NEXFMlzHLPnT",
   "text" : "Reality TV show, Supreme Court justice?",
   "translations" : {
@@ -99,6 +178,44 @@
     "token" : "justice",
     "startOffset" : 31,
     "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZxhtDTAu_IiLeDWZ",
+  "text" : "Supreme Pontiff of the Universal Church.",
+  "translations" : {
+    "russian" : "Верховный Понтифик Вселенской Церкви."
+  },
+  "tokens" : [ {
+    "token" : "supreme",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "pontiff",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "universal",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "church",
+    "startOffset" : 33,
+    "endOffset" : 39,
     "position" : 5
   } ],
   "contentScore" : null

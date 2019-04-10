@@ -27,6 +27,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEvWmyDTAu_IiLe8QP",
+  "text" : "Yeah, trip to Dresden.",
+  "translations" : {
+    "russian" : "Да, из Дрездена. Я слышала."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "trip",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "dresden",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbge87uNEXFMlzHK8M_",
   "text" : "Don't trip yourself up.",
   "translations" : {
@@ -80,6 +108,57 @@
     "startOffset" : 17,
     "endOffset" : 20,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgrrgDTAu_IiLeHWp",
+  "text" : "It's a runaway trip.",
+  "translations" : {
+    "russian" : "Раз уж это побег."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "runaway",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "trip",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGiSNDTAu_IiLfM0V",
+  "text" : "Trip averted disaster.",
+  "translations" : {
+    "russian" : "Трип предотвратил катастрофу."
+  },
+  "tokens" : [ {
+    "token" : "trip",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "avert",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "aster",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -389,115 +468,6 @@
     "token" : "trip",
     "startOffset" : 19,
     "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgySR3NEXFMlzHLUp2",
-  "text" : "And for the return trip?",
-  "translations" : {
-    "russian" : "А на обратную поездку?"
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "turn",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "trip",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgp0_fNEXFMlzHLIzi",
-  "text" : "My trips are public record.",
-  "translations" : {
-    "russian" : "Информация о моих поездках общедоступна."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "trip",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "public",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "record",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "cord",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguMZJNEXFMlzHLOng",
-  "text" : "Camping trip was last weekend.",
-  "translations" : {
-    "russian" : "Лагерная поездка была в прошлые выходные."
-  },
-  "tokens" : [ {
-    "token" : "camping",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "camp",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "trip",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "was",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "last",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "weekend",
-    "startOffset" : 22,
-    "endOffset" : 29,
     "position" : 4
   } ],
   "contentScore" : null

@@ -74,4 +74,42 @@
     "position" : 4
   } ],
   "contentScore" : null
+}, {
+  "id" : "AWoDYBGTDTAu_IiLeCV1",
+  "text" : "The new tenant comes tonight.",
+  "translations" : {
+    "russian" : "Сегодня вечером приезжает новый жилец."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "new",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "tenant",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "comes",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "come",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "tonight",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
 } ]

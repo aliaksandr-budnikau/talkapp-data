@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEG4Q3DTAu_IiLeec8",
+  "text" : "A highly acclaimed dentist.",
+  "translations" : {
+    "russian" : "Высоко признанный дантист."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "high",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "acclaim",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "dentist",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbga_wqNEXFMlzHK4uC",
   "text" : "You should visit the dentist.",
   "translations" : {
@@ -29,6 +57,110 @@
     "startOffset" : 21,
     "endOffset" : 28,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmvZODTAu_IiLe2H3",
+  "text" : "I'm the Dentist of Detroit.",
+  "translations" : {
+    "russian" : "Детройтский дантист это я."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "dentist",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "detroit",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSQZlDTAu_IiLd_EQ",
+  "text" : "His dentist backs the alibi.",
+  "translations" : {
+    "russian" : "Дантист обеспечил ему алиби."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dentist",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "back",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "alibi",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEM16rDTAu_IiLei7j",
+  "text" : "The dentist couldn't find any cavities.",
+  "translations" : {
+    "russian" : "Дантист не нашёл ни одной дырки."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dentist",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "couldn't",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "find",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "any",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "cavity",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

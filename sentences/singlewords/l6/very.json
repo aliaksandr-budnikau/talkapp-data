@@ -22,6 +22,123 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDgUAuDTAu_IiLeHJO",
+  "text" : "Very, very clever.",
+  "translations" : {
+    "russian" : "Очень, очень умно."
+  },
+  "tokens" : [ {
+    "token" : "very",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "very",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "clever",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDq-VsDTAu_IiLeM-2",
+  "text" : "Very dignified, very discreet.",
+  "translations" : {
+    "russian" : "Очень благородно, очень сдержанно."
+  },
+  "tokens" : [ {
+    "token" : "very",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "dignified",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "dignify",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "very",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "discreet",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtrOnDTAu_IiLe7F8",
+  "text" : "Very nice, very competent.",
+  "translations" : {
+    "russian" : "Да, он очень грамотный, компетентный."
+  },
+  "tokens" : [ {
+    "token" : "very",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "nice",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "very",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "competent",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEP-6RDTAu_IiLelP3",
+  "text" : "They're very, very selective.",
+  "translations" : {
+    "russian" : "Оно очень, очень избирательно."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "very",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "very",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "selective",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "select",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzXbGNEXFMlzHLWUd",
   "text" : "Very, very sweet.",
   "translations" : {
@@ -45,109 +162,20 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgb-ZYNEXFMlzHK5mU",
-  "text" : "Very religious, burns candles.",
+  "id" : "AWoDgRUHDTAu_IiLeHHr",
+  "text" : "He's very, very docile.",
   "translations" : {
-    "russian" : "Такая религиозная, свечки ставит."
+    "russian" : "Он очень, очень послушен."
   },
   "tokens" : [ {
-    "token" : "very",
+    "token" : "he",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "religious",
+    "token" : "very",
     "startOffset" : 5,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "burns",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "burn",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "candle",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpwmrNEXFMlzHLItV",
-  "text" : "She's great, very present.",
-  "translations" : {
-    "russian" : "Она отличная, современная."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "great",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "very",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "present",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglqUkNEXFMlzHLC3C",
-  "text" : "Not very environmentally conscious.",
-  "translations" : {
-    "russian" : "Она не очень экологически безопасна."
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "very",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "environmental",
-    "startOffset" : 9,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "conscious",
-    "startOffset" : 25,
-    "endOffset" : 34,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgs2t3NEXFMlzHLM_Y",
-  "text" : "She wasn't very social.",
-  "translations" : {
-    "russian" : "Он была не слишком общительна."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "wasn't",
-    "startOffset" : 4,
-    "endOffset" : 10,
+    "endOffset" : 9,
     "position" : 1
   }, {
     "token" : "very",
@@ -155,104 +183,48 @@
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "social",
+    "token" : "docile",
     "startOffset" : 16,
     "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzM23NEXFMlzHLV-e",
-  "text" : "Doesn't sound very appetizing.",
+  "id" : "AWoElWbRDTAu_IiLe1F4",
+  "text" : "Very considerate, very civil.",
   "translations" : {
-    "russian" : "Кажется не слишком аппетитным."
+    "russian" : "Очень тактично, очень вежливо."
   },
   "tokens" : [ {
-    "token" : "doesn't",
+    "token" : "very",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "sound",
-    "startOffset" : 8,
-    "endOffset" : 13,
+    "token" : "considerate",
+    "startOffset" : 5,
+    "endOffset" : 16,
     "position" : 1
   }, {
     "token" : "very",
-    "startOffset" : 14,
-    "endOffset" : 18,
+    "startOffset" : 18,
+    "endOffset" : 22,
     "position" : 2
   }, {
-    "token" : "appetizing",
-    "startOffset" : 19,
-    "endOffset" : 29,
+    "token" : "civil",
+    "startOffset" : 23,
+    "endOffset" : 28,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzM6xNEXFMlzHLV-l",
-  "text" : "Doesn't sound very appetizing.",
+  "id" : "AWoEbAjTDTAu_IiLetPL",
+  "text" : "He's very, very versatile.",
   "translations" : {
-    "russian" : "Звучит не очень аппетитно."
+    "russian" : "Он очень, очень разносторонний."
   },
   "tokens" : [ {
-    "token" : "doesn't",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "sound",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "very",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "appetizing",
-    "startOffset" : 19,
-    "endOffset" : 29,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzM98NEXFMlzHLV-s",
-  "text" : "It wasn't very appetizing.",
-  "translations" : {
-    "russian" : "Он не был очень аппетитным."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "wasn't",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "very",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "appetizing",
-    "startOffset" : 15,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzUl9NEXFMlzHLWOa",
-  "text" : "It's very strong, right?",
-  "translations" : {
-    "russian" : "Очень крепкий, да?"
-  },
-  "tokens" : [ {
-    "token" : "it",
+    "token" : "he",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
@@ -260,62 +232,6 @@
     "token" : "very",
     "startOffset" : 5,
     "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "strong",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "right",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdZXWNEXFMlzHK63w",
-  "text" : "She's great, very present.",
-  "translations" : {
-    "russian" : "Она отличная, современная."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "great",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "very",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "present",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguwX5NEXFMlzHLPuY",
-  "text" : "You're not very tolerant?",
-  "translations" : {
-    "russian" : "Ты не очень терпимый."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 7,
-    "endOffset" : 10,
     "position" : 1
   }, {
     "token" : "very",
@@ -323,17 +239,17 @@
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "tolerant",
+    "token" : "versatile",
     "startOffset" : 16,
-    "endOffset" : 24,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzOHKNEXFMlzHLWBE",
-  "text" : "Very delicious sausages.",
+  "id" : "AWoET0sPDTAu_IiLeoGD",
+  "text" : "Very steep, very steep, very muddy.",
   "translations" : {
-    "russian" : "Очень вкусные сосиски."
+    "russian" : "Очень, очень крутой Ещё и грязь."
   },
   "tokens" : [ {
     "token" : "very",
@@ -341,94 +257,143 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "delicious",
+    "token" : "steep",
     "startOffset" : 5,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "sausage",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyLdINEXFMlzHLUbx",
-  "text" : "She's very bendy.",
-  "translations" : {
-    "russian" : "Она очень гибкая."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "very",
-    "startOffset" : 6,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "bendy",
-    "startOffset" : 11,
+    "token" : "very",
+    "startOffset" : 12,
     "endOffset" : 16,
     "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgljRwNEXFMlzHLCvA",
-  "text" : "Not very environmentally conscious.",
-  "translations" : {
-    "russian" : "Она не очень экологически безопасна."
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
+  }, {
+    "token" : "steep",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
   }, {
     "token" : "very",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
   }, {
-    "token" : "environmental",
-    "startOffset" : 9,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "conscious",
-    "startOffset" : 25,
+    "token" : "muddy",
+    "startOffset" : 29,
     "endOffset" : 34,
-    "position" : 3
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguPbTNEXFMlzHLOtX",
-  "text" : "It's also very illegal.",
+  "id" : "AWoDS4GUDTAu_IiLd_fI",
+  "text" : "Very hunky.",
   "translations" : {
-    "russian" : "К тому же ещё незаконно полученная."
+    "russian" : "With policemen, firemen, mountaineersТолько, чтобы были с мускулистыми мужиками, полицейскими, пожарными, альпинистами."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "very",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "also",
+    "token" : "hunky",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWTA6DTAu_IiLeBnj",
+  "text" : "Very enterprising.",
+  "translations" : {
+    "russian" : "Очень предприимчиво."
+  },
+  "tokens" : [ {
+    "token" : "very",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "enterprising",
+    "startOffset" : 5,
+    "endOffset" : 17,
     "position" : 1
   }, {
+    "token" : "enterprise",
+    "startOffset" : 5,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUJAEDTAu_IiLeoVw",
+  "text" : "Very bossy.",
+  "translations" : {
+    "russian" : "Любящий командовать."
+  },
+  "tokens" : [ {
     "token" : "very",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
-    "token" : "illegal",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
+    "token" : "bossy",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUJqUDTAu_IiLeoWS",
+  "text" : "Very bossy.",
+  "translations" : {
+    "russian" : "Ведут себя как боссы."
+  },
+  "tokens" : [ {
+    "token" : "very",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bossy",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmEERDTAu_IiLe1nv",
+  "text" : "Very demotic.",
+  "translations" : {
+    "russian" : "Этакая простонародная речь."
+  },
+  "tokens" : [ {
+    "token" : "very",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "demotic",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpu9aDTAu_IiLe4Y8",
+  "text" : "Very conscientious.",
+  "translations" : {
+    "russian" : "Очень добросовестная."
+  },
+  "tokens" : [ {
+    "token" : "very",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "conscientious",
+    "startOffset" : 5,
+    "endOffset" : 18,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

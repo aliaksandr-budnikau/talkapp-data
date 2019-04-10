@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDP6R3DTAu_IiLd9dR",
+  "text" : "Transporting asset, elevator C.",
+  "translations" : {
+    "russian" : "Перевозка объекта, лифт С."
+  },
+  "tokens" : [ {
+    "token" : "transport",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "asset",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "elevator",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "c",
+    "startOffset" : 29,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglVtGNEXFMlzHLCXN",
   "text" : "Elevators, radios, secret panels.",
   "translations" : {
@@ -106,6 +134,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDiaO4DTAu_IiLeIXA",
+  "text" : "Turbo elevators inoperative.",
+  "translations" : {
+    "russian" : "Турбоускорители не работают."
+  },
+  "tokens" : [ {
+    "token" : "turbo",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "elevator",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "operative",
+    "startOffset" : 16,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmIgTNEXFMlzHLDXP",
   "text" : "What about the freight elevator?",
   "translations" : {
@@ -172,6 +223,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD_YmPDTAu_IiLeYsC",
+  "text" : "Intruder ascending in Elevator 4.",
+  "translations" : {
+    "russian" : "Нарушитель поднимается на четвертом лифте."
+  },
+  "tokens" : [ {
+    "token" : "intruder",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "intrude",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "ascend",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "elevator",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "4",
+    "startOffset" : 31,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgviPINEXFMlzHLRHd",
   "text" : "She lives in an elevator?",
   "translations" : {
@@ -206,6 +295,110 @@
     "token" : "elevator",
     "startOffset" : 16,
     "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPtJEDTAu_IiLfT9k",
+  "text" : "He's our probationary elevator operator.",
+  "translations" : {
+    "russian" : "Он лифтер на испытательном сроке."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "our",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "probationary",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "elevator",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "operator",
+    "startOffset" : 31,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGprdDTAu_IiLeeSe",
+  "text" : "Intruder ascending in Elevator 4.",
+  "translations" : {
+    "russian" : "Нарушитель поднимается на четвертом лифте."
+  },
+  "tokens" : [ {
+    "token" : "intruder",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "intrude",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "ascend",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "elevator",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "4",
+    "startOffset" : 31,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFer3TDTAu_IiLffYV",
+  "text" : "Main floor hallway, elevator three...",
+  "translations" : {
+    "russian" : "Вестибюль первого этажа, третий лифт... Поднимается."
+  },
+  "tokens" : [ {
+    "token" : "main",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "floor",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "hallway",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "elevator",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "three",
+    "startOffset" : 29,
+    "endOffset" : 34,
     "position" : 4
   } ],
   "contentScore" : null
@@ -313,158 +506,6 @@
     "position" : 4
   }, {
     "token" : "upstairs",
-    "startOffset" : 30,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgviCcNEXFMlzHLRHB",
-  "text" : "Over there is a service elevator.",
-  "translations" : {
-    "russian" : "Вон там находится технический лифт."
-  },
-  "tokens" : [ {
-    "token" : "over",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "there",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "service",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "elevator",
-    "startOffset" : 24,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgviHFNEXFMlzHLRHN",
-  "text" : "It's like the world's slowest elevator.",
-  "translations" : {
-    "russian" : "Это самый медленный лифт в мире!"
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "world",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "slow",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "elevator",
-    "startOffset" : 30,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmIjeNEXFMlzHLDXU",
-  "text" : "Freight elevator is in the back.",
-  "translations" : {
-    "russian" : "Грузовой лифт возле заднего выхода."
-  },
-  "tokens" : [ {
-    "token" : "freight",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "elevator",
-    "startOffset" : 8,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "back",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmIm4NEXFMlzHLDXb",
-  "text" : "They're headed to the freight elevator.",
-  "translations" : {
-    "russian" : "Они вошли в грузовой лифт."
-  },
-  "tokens" : [ {
-    "token" : "they're",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "head",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "freight",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "elevator",
     "startOffset" : 30,
     "endOffset" : 38,
     "position" : 5

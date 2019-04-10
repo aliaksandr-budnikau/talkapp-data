@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoE111hDTAu_IiLfA65",
+  "text" : "Tough customer.",
+  "translations" : {
+    "russian" : "Жестокий."
+  },
+  "tokens" : [ {
+    "token" : "tough",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "customer",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "custom",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgp2zdNEXFMlzHLI2C",
   "text" : "Where's your customer service?",
   "translations" : {
@@ -32,6 +55,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE6WCTDTAu_IiLfD6B",
+  "text" : "Marketing, customer retention plans...",
+  "translations" : {
+    "russian" : "Маркетинговый анализ, план сохранения клиентской базы..."
+  },
+  "tokens" : [ {
+    "token" : "marketing",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "market",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "customer",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "custom",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "retention",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "plan",
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgs7EyNEXFMlzHLNFr",
   "text" : "Where's your customer service?",
   "translations" : {
@@ -61,6 +122,39 @@
     "token" : "service",
     "startOffset" : 22,
     "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1yGXDTAu_IiLfA4R",
+  "text" : "He's a tough customer.",
+  "translations" : {
+    "russian" : "Трудный клиент."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "tough",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "customer",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "custom",
+    "startOffset" : 13,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
@@ -138,6 +232,131 @@
     "startOffset" : 27,
     "endOffset" : 31,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvNnJDTAu_IiLePit",
+  "text" : "Customers Murmuring.",
+  "translations" : {
+    "russian" : "Посетители шепчутся."
+  },
+  "tokens" : [ {
+    "token" : "custom",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "murmuring",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "murmur",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1PM0DTAu_IiLfAgn",
+  "text" : "Customers Murmuring.",
+  "translations" : {
+    "russian" : "Посетители шепчутся."
+  },
+  "tokens" : [ {
+    "token" : "custom",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "murmuring",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "murmur",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvIyKNEXFMlzHLQfr",
+  "text" : "It's a lovely custom!",
+  "translations" : {
+    "russian" : "Восхитительный обычай!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "lovely",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "love",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "custom",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvJ_PNEXFMlzHLQiR",
+  "text" : "Or something custom.",
+  "translations" : {
+    "russian" : "Или сделанный на заказ."
+  },
+  "tokens" : [ {
+    "token" : "or",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "something",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "custom",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvJ45NEXFMlzHLQiF",
+  "text" : "It's the custom.",
+  "translations" : {
+    "russian" : "Так принято."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "custom",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -244,210 +463,6 @@
     "token" : "art",
     "startOffset" : 18,
     "endOffset" : 21,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvKTHNEXFMlzHLQi8",
-  "text" : "Customs? Oh, really?",
-  "translations" : {
-    "russian" : "Таможенный контроль?"
-  },
-  "tokens" : [ {
-    "token" : "custom",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "oh",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "ally",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvIyKNEXFMlzHLQfr",
-  "text" : "It's a lovely custom!",
-  "translations" : {
-    "russian" : "Восхитительный обычай!"
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "lovely",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "love",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "custom",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvJ_PNEXFMlzHLQiR",
-  "text" : "Or something custom.",
-  "translations" : {
-    "russian" : "Или сделанный на заказ."
-  },
-  "tokens" : [ {
-    "token" : "or",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "something",
-    "startOffset" : 3,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "custom",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvJ45NEXFMlzHLQiF",
-  "text" : "It's the custom.",
-  "translations" : {
-    "russian" : "Так принято."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "custom",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvKEeNEXFMlzHLQid",
-  "text" : "Custom, homemade brews.",
-  "translations" : {
-    "russian" : "Сделанные по заказу напитки домашнего производства."
-  },
-  "tokens" : [ {
-    "token" : "custom",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "homemade",
-    "startOffset" : 8,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "brew",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvJ3MNEXFMlzHLQiA",
-  "text" : "Those are our customs.",
-  "translations" : {
-    "russian" : "У нас так принято."
-  },
-  "tokens" : [ {
-    "token" : "those",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "custom",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvJwHNEXFMlzHLQhx",
-  "text" : "It is the custom.",
-  "translations" : {
-    "russian" : "Это заказ."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 3,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "custom",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvJG2NEXFMlzHLQgY",
-  "text" : "Mock our customs.",
-  "translations" : {
-    "russian" : "Высмеиваете наши традиции."
-  },
-  "tokens" : [ {
-    "token" : "mock",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "our",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "custom",
-    "startOffset" : 9,
-    "endOffset" : 16,
     "position" : 2
   } ],
   "contentScore" : null

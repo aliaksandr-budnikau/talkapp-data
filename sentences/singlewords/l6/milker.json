@@ -1,39 +1,29 @@
 [ {
-  "id" : "AWbgmnjyNEXFMlzHLEMv",
-  "text" : "Mixed with milk.",
+  "id" : "AWoE_SxbDTAu_IiLfHdM",
+  "text" : "Cow milk?",
   "translations" : {
-    "russian" : "Смешал с молоком."
+    "russian" : "Коровье?"
   },
   "tokens" : [ {
-    "token" : "mixed",
+    "token" : "cow",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 3,
     "position" : 0
-  }, {
-    "token" : "mix",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "with",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
   }, {
     "token" : "milk",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcs86NEXFMlzHK6QQ",
-  "text" : "With milk an'the cream alack.",
+  "id" : "AWoFY370DTAu_IiLfa3f",
+  "text" : "Goat milk.",
   "translations" : {
-    "russian" : "С молоком и сливками, увы."
+    "russian" : "Козье молоко."
   },
   "tokens" : [ {
-    "token" : "with",
+    "token" : "goat",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
@@ -42,87 +32,313 @@
     "startOffset" : 5,
     "endOffset" : 9,
     "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbW12DTAu_IiLfc6c",
+  "text" : "Condensed milk.",
+  "translations" : {
+    "russian" : "Сгущенное молоко."
+  },
+  "tokens" : [ {
+    "token" : "condense",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
   }, {
-    "token" : "an'the",
+    "token" : "milk",
     "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbXLTDTAu_IiLfc6v",
+  "text" : "Condensed milk.",
+  "translations" : {
+    "russian" : "Есть сгущёнку."
+  },
+  "tokens" : [ {
+    "token" : "condense",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "milk",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFY37FDTAu_IiLfa3e",
+  "text" : "Goats' milk?",
+  "translations" : {
+    "russian" : "Козье молоко?"
+  },
+  "tokens" : [ {
+    "token" : "goat",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "milk",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbVJfDTAu_IiLfc5I",
+  "text" : "Condensed milk.",
+  "translations" : {
+    "russian" : "Есть сгущёнку."
+  },
+  "tokens" : [ {
+    "token" : "condense",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "milk",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbUzjDTAu_IiLfc41",
+  "text" : "Condensed milk.",
+  "translations" : {
+    "russian" : "Сгущенное молоко."
+  },
+  "tokens" : [ {
+    "token" : "condense",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "milk",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFY300DTAu_IiLfa3X",
+  "text" : "Goat's milk.",
+  "translations" : {
+    "russian" : "Козье молоко."
+  },
+  "tokens" : [ {
+    "token" : "goat",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "milk",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh9c3DTAu_IiLeye1",
+  "text" : "It's breast milk!",
+  "translations" : {
+    "russian" : "Это же грудное молоко!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "breast",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "milk",
+    "startOffset" : 12,
     "endOffset" : 16,
     "position" : 2
-  }, {
-    "token" : "cream",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "alack",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguZFUNEXFMlzHLPAX",
-  "text" : "One bar of milk chocolate.",
+  "id" : "AWoEh9gSDTAu_IiLeye5",
+  "text" : "The breast milk.",
   "translations" : {
-    "russian" : "Одна плитка молочного шоколада."
+    "russian" : "Грудное молоко."
   },
   "tokens" : [ {
-    "token" : "one",
+    "token" : "the",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "bar",
+    "token" : "breast",
     "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 8,
     "endOffset" : 10,
-    "position" : 2
+    "position" : 1
   }, {
     "token" : "milk",
     "startOffset" : 11,
     "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "chocolate",
-    "startOffset" : 16,
-    "endOffset" : 25,
-    "position" : 4
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguZFjNEXFMlzHLPAY",
-  "text" : "One bar of milk chocolate.",
+  "id" : "AWoEh90zDTAu_IiLeyfM",
+  "text" : "Regurgitated breast milk.",
   "translations" : {
-    "russian" : "Одна плитка молочного шоколада."
+    "russian" : "Пахнет срыгнутым грудным молоком."
   },
   "tokens" : [ {
-    "token" : "one",
+    "token" : "regurgitate",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "breast",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "milk",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9U1LDTAu_IiLfF3T",
+  "text" : "That's a milk substitute.",
+  "translations" : {
+    "russian" : "Это соевый заменитель молока."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "milk",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "substitute",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKoSqDTAu_IiLfQJA",
+  "text" : "How about skim milk?",
+  "translations" : {
+    "russian" : "Как насчет обезжиренного молока?"
+  },
+  "tokens" : [ {
+    "token" : "how",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "bar",
+    "token" : "about",
     "startOffset" : 4,
-    "endOffset" : 7,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "of",
-    "startOffset" : 8,
-    "endOffset" : 10,
+    "token" : "skim",
+    "startOffset" : 10,
+    "endOffset" : 14,
     "position" : 2
+  }, {
+    "token" : "milk",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKoQADTAu_IiLfQI-",
+  "text" : "No skimmed milk.",
+  "translations" : {
+    "russian" : "Не было обезжиренного молока."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "skimmed",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
   }, {
     "token" : "milk",
     "startOffset" : 11,
     "endOffset" : 15,
-    "position" : 3
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeDqVDTAu_IiLfe7K",
+  "text" : "No skimmed milk.",
+  "translations" : {
+    "russian" : "Не было обезжиренного молока."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
   }, {
-    "token" : "chocolate",
+    "token" : "skimmed",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "milk",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh9mJDTAu_IiLeye_",
+  "text" : "You want breast milk?",
+  "translations" : {
+    "russian" : "Хочешь грудного молочка?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "want",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "breast",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "milk",
     "startOffset" : 16,
-    "endOffset" : 25,
-    "position" : 4
+    "endOffset" : 20,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

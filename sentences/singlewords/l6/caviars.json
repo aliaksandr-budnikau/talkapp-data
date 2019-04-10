@@ -1,4 +1,45 @@
 [ {
+  "id" : "AWoDQ-fODTAu_IiLd-MY",
+  "text" : "Azerbaijani caviar.",
+  "translations" : {
+    "russian" : "Азербайджанская икра."
+  },
+  "tokens" : [ {
+    "token" : "azerbaijani",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "caviar",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEa1SDTAu_IiLfLS3",
+  "text" : "Strawberries, caviar, oysters.",
+  "translations" : {
+    "russian" : "Клубника, икра, устрицы."
+  },
+  "tokens" : [ {
+    "token" : "strawberry",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "caviar",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "oyster",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgytW6NEXFMlzHLVGM",
   "text" : "Was Sally's caviar ticket.",
   "translations" : {
@@ -24,6 +65,72 @@
     "startOffset" : 19,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFL-clDTAu_IiLfRLd",
+  "text" : "Figs, walnuts... and caviar.",
+  "translations" : {
+    "russian" : "Инжир, грецкий орех... и икра."
+  },
+  "tokens" : [ {
+    "token" : "fig",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "walnut",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "caviar",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1MvzDTAu_IiLfAe2",
+  "text" : "Okay, let's not bicker about caviar.",
+  "translations" : {
+    "russian" : "Хорошо, не будем спорить об этом."
+  },
+  "tokens" : [ {
+    "token" : "okay",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "let",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "bicker",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "about",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "caviar",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

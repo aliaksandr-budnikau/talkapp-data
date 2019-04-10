@@ -1,153 +1,484 @@
 [ {
-  "id" : "AWbgod-PNEXFMlzHLG9o",
-  "text" : "Billy definitely hates raves.",
+  "id" : "AWoEcnrIDTAu_IiLeuUg",
+  "text" : "Definitely oppressive.",
   "translations" : {
-    "russian" : "Билли определенно ненавидит вечеринки."
+    "russian" : "Определенно гнетущие."
   },
   "tokens" : [ {
-    "token" : "billy",
+    "token" : "finitely",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 10,
     "position" : 0
   }, {
-    "token" : "bil",
+    "token" : "definite",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "oppressive",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "oppress",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDglkVDTAu_IiLeHTD",
+  "text" : "Vigilant, definitely.",
+  "translations" : {
+    "russian" : "Быть бдительной, определенно."
+  },
+  "tokens" : [ {
+    "token" : "vigilant",
+    "startOffset" : 0,
+    "endOffset" : 8,
     "position" : 0
   }, {
     "token" : "finitely",
-    "startOffset" : 6,
-    "endOffset" : 16,
+    "startOffset" : 10,
+    "endOffset" : 20,
     "position" : 1
   }, {
     "token" : "definite",
-    "startOffset" : 6,
-    "endOffset" : 16,
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDq5enDTAu_IiLeM8A",
+  "text" : "Definitely not medically advisable.",
+  "translations" : {
+    "russian" : "Но медицински не благоразумное."
+  },
+  "tokens" : [ {
+    "token" : "finitely",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "definite",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 11,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "hate",
-    "startOffset" : 17,
-    "endOffset" : 22,
+    "token" : "medical",
+    "startOffset" : 15,
+    "endOffset" : 24,
     "position" : 2
   }, {
-    "token" : "rave",
-    "startOffset" : 23,
+    "token" : "advisable",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "advise",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEO7U9DTAu_IiLekfA",
+  "text" : "After we enlisted, definitely.",
+  "translations" : {
+    "russian" : "Как поступили на службу, о да."
+  },
+  "tokens" : [ {
+    "token" : "aft",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "we",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "enlist",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "finitely",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "definite",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhzsWDTAu_IiLeyVq",
+  "text" : "Definitely clotting better.",
+  "translations" : {
+    "russian" : "Свертываемость лучше."
+  },
+  "tokens" : [ {
+    "token" : "finitely",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "definite",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "clotting",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "better",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9Ak6DTAu_IiLfFoG",
+  "text" : "It's definitely tempting.",
+  "translations" : {
+    "russian" : "Это, безусловно, соблазнительно."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "finitely",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "definite",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "tempting",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLMCVDTAu_IiLfQko",
+  "text" : "They're definitely both clones.",
+  "translations" : {
+    "russian" : "Это определенно клон."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "finitely",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "definite",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "both",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "clone",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-niDTAu_IiLfVAU",
+  "text" : "Pun definitely intended.",
+  "translations" : {
+    "russian" : "Игра слов определенно была бы уместна."
+  },
+  "tokens" : [ {
+    "token" : "pun",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "finitely",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "definite",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "intended",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "tend",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUI0uDTAu_IiLfXXE",
+  "text" : "It's definitely wobbling.",
+  "translations" : {
+    "russian" : "Он точно качается."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "finitely",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "definite",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "wobble",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUb_WDTAu_IiLfXkn",
+  "text" : "It's definitely wobbling.",
+  "translations" : {
+    "russian" : "Он точно качается."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "finitely",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "definite",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "wobble",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVxKUDTAu_IiLeBWp",
+  "text" : "This is definitely anomalous.",
+  "translations" : {
+    "russian" : "Они, безусловно, ненормальны."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "finitely",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "definite",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "anomalous",
+    "startOffset" : 19,
     "endOffset" : 28,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnZGhNEXFMlzHLFX5",
-  "text" : "Women definitely taste like... women.",
+  "id" : "AWoDoFVvDTAu_IiLeLdO",
+  "text" : "It's definitely preposterous.",
   "translations" : {
-    "russian" : "Женщины на вкус наверняка как... женщины."
+    "russian" : "Определённо абсурдное."
   },
   "tokens" : [ {
-    "token" : "women",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "finitely",
-    "startOffset" : 6,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "definite",
-    "startOffset" : 6,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "taste",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "like",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "women",
-    "startOffset" : 31,
-    "endOffset" : 36,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpqkiNEXFMlzHLIk7",
-  "text" : "Definitely worth a second interview.",
-  "translations" : {
-    "russian" : "Однозначно достойна второго собеседования."
-  },
-  "tokens" : [ {
-    "token" : "finitely",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "definite",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "worth",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 17,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "second",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "interview",
-    "startOffset" : 26,
-    "endOffset" : 35,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmGUsNEXFMlzHLDTe",
-  "text" : "Gibbs, Norton's brakes were definitely...",
-  "translations" : {
-    "russian" : "Гиббс, тормоза Нортона, определенно..."
-  },
-  "tokens" : [ {
-    "token" : "gibb",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "norton",
-    "startOffset" : 7,
+    "startOffset" : 5,
     "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "brake",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 2
+    "token" : "definite",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
   }, {
-    "token" : "were",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 3
+    "token" : "preposterous",
+    "startOffset" : 16,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPATWDTAu_IiLekii",
+  "text" : "We're definitely eloping.",
+  "translations" : {
+    "russian" : "Теперь мы точно бежим."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
     "token" : "finitely",
-    "startOffset" : 28,
-    "endOffset" : 38,
-    "position" : 4
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
   }, {
     "token" : "definite",
-    "startOffset" : 28,
-    "endOffset" : 38,
-    "position" : 4
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "elope",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPqS6DTAu_IiLd9Up",
+  "text" : "She's definitely Australian.",
+  "translations" : {
+    "russian" : "Она определенно австралийка."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "finitely",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "definite",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "australian",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdyaVDTAu_IiLeFrG",
+  "text" : "Most definitely not bankrupt.",
+  "translations" : {
+    "russian" : "Вроятнее всего, не банкроты."
+  },
+  "tokens" : [ {
+    "token" : "most",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "finitely",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "definite",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "bankrupt",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8D0-DTAu_IiLfE_3",
+  "text" : "He's definitely sooty enough.",
+  "translations" : {
+    "russian" : "На мой взгляд, он довольно грязный."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "finitely",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "definite",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "sooty",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "enough",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

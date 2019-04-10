@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoDbwBrDTAu_IiLeElB",
+  "text" : "Sis boom bah!",
+  "translations" : {
+    "russian" : "Да! Шиш, бум, бах!"
+  },
+  "tokens" : [ {
+    "token" : "sis",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "boom",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "bah",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRViADTAu_IiLfVSW",
+  "text" : "I'm snowballing here, sis.",
+  "translations" : {
+    "russian" : "Я как снежный ком, сестренка."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "snowball",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "here",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "sis",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvuoONEXFMlzHLRYb",
   "text" : "Sis, is your nose bleeding?",
   "translations" : {
@@ -29,6 +80,44 @@
     "startOffset" : 18,
     "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXN6yDTAu_IiLeqqd",
+  "text" : "Sis, help me sew this on.",
+  "translations" : {
+    "russian" : "Сестра, помоги мне пришить это."
+  },
+  "tokens" : [ {
+    "token" : "sis",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "help",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "sew",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "this",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "on",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

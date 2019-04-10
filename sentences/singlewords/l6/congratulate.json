@@ -1,4 +1,160 @@
 [ {
+  "id" : "AWoDeDhjDTAu_IiLeF04",
+  "text" : "Congratulations, Drum.",
+  "translations" : {
+    "russian" : "Поздравляю, Драм."
+  },
+  "tokens" : [ {
+    "token" : "congratulate",
+    "startOffset" : 0,
+    "endOffset" : 15,
+    "position" : 0
+  }, {
+    "token" : "drum",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDp0QNDTAu_IiLeMVK",
+  "text" : "Congratulations, Tally.",
+  "translations" : {
+    "russian" : "Поздравляю, Талли."
+  },
+  "tokens" : [ {
+    "token" : "congratulate",
+    "startOffset" : 0,
+    "endOffset" : 15,
+    "position" : 0
+  }, {
+    "token" : "tally",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcIttDTAu_IiLfdhc",
+  "text" : "Congratulations, Constable.",
+  "translations" : {
+    "russian" : "Суцваягтгяиа, выяожукайа."
+  },
+  "tokens" : [ {
+    "token" : "congratulate",
+    "startOffset" : 0,
+    "endOffset" : 15,
+    "position" : 0
+  }, {
+    "token" : "constable",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjQmTDTAu_IiLeI1v",
+  "text" : "Congratulations, Ruthless.",
+  "translations" : {
+    "russian" : "Мои поздравления, Руслесс."
+  },
+  "tokens" : [ {
+    "token" : "congratulate",
+    "startOffset" : 0,
+    "endOffset" : 15,
+    "position" : 0
+  }, {
+    "token" : "ruthless",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFG8hhDTAu_IiLfNJa",
+  "text" : "Congratulations, Mr. President Elect.",
+  "translations" : {
+    "russian" : "Поздравляю, господин президент."
+  },
+  "tokens" : [ {
+    "token" : "congratulate",
+    "startOffset" : 0,
+    "endOffset" : 15,
+    "position" : 0
+  }, {
+    "token" : "mr",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "president",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 2
+  }, {
+    "token" : "elect",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVGNKDTAu_IiLfYCC",
+  "text" : "Congratulations on qualifying.",
+  "translations" : {
+    "russian" : "Поздравления по квалификации."
+  },
+  "tokens" : [ {
+    "token" : "congratulate",
+    "startOffset" : 0,
+    "endOffset" : 15,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "qualify",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2XyBDTAu_IiLfBR6",
+  "text" : "Sir, mission accomplished. Congratulations!",
+  "translations" : {
+    "russian" : "Сэр, задание выполнено."
+  },
+  "tokens" : [ {
+    "token" : "sir",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "mission",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "accomplished",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "accomplish",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "congratulate",
+    "startOffset" : 27,
+    "endOffset" : 42,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglkvwNEXFMlzHLCxk",
   "text" : "DC Chen, congratulations.",
   "translations" : {
@@ -23,6 +179,85 @@
     "token" : "congratulate",
     "startOffset" : 9,
     "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwPGRDTAu_IiLeQKD",
+  "text" : "Congratulations for beating Brazil!",
+  "translations" : {
+    "russian" : "Все в порядке. Поздравления за матч с Бразилией!"
+  },
+  "tokens" : [ {
+    "token" : "congratulate",
+    "startOffset" : 0,
+    "endOffset" : 15,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "beating",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "beat",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "brazil",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEX3nPDTAu_IiLerH5",
+  "text" : "Galahad, Percival, congratulations.",
+  "translations" : {
+    "russian" : "Эй! Галахад, Персиваль, поздравляю."
+  },
+  "tokens" : [ {
+    "token" : "galahad",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "percival",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "congratulate",
+    "startOffset" : 19,
+    "endOffset" : 34,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFU98GDTAu_IiLfX8G",
+  "text" : "Congratulations on qualifying.",
+  "translations" : {
+    "russian" : "Поздравления по квалификации."
+  },
+  "tokens" : [ {
+    "token" : "congratulate",
+    "startOffset" : 0,
+    "endOffset" : 15,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "qualify",
+    "startOffset" : 19,
+    "endOffset" : 29,
     "position" : 2
   } ],
   "contentScore" : null
@@ -55,10 +290,61 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpFr8NEXFMlzHLHz0",
-  "text" : "Congratulations on your page 1.",
+  "id" : "AWoFGv06DTAu_IiLfM-8",
+  "text" : "Congratulations, Mr. President Elect.",
   "translations" : {
-    "russian" : "Поздавляю с первой полосой."
+    "russian" : "Поздравляю, господин президент."
+  },
+  "tokens" : [ {
+    "token" : "congratulate",
+    "startOffset" : 0,
+    "endOffset" : 15,
+    "position" : 0
+  }, {
+    "token" : "mr",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "president",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 2
+  }, {
+    "token" : "elect",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1osqDTAu_IiLeS-Z",
+  "text" : "Congratulations, spool stick.",
+  "translations" : {
+    "russian" : "Поздравляю, палочка в катушке."
+  },
+  "tokens" : [ {
+    "token" : "congratulate",
+    "startOffset" : 0,
+    "endOffset" : 15,
+    "position" : 0
+  }, {
+    "token" : "spool",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "stick",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtytGDTAu_IiLe7K9",
+  "text" : "Congratulations on your accomplishment.",
+  "translations" : {
+    "russian" : "Поздравляю Вас с успехом."
   },
   "tokens" : [ {
     "token" : "congratulate",
@@ -76,124 +362,43 @@
     "endOffset" : 23,
     "position" : 2
   }, {
-    "token" : "page",
+    "token" : "accomplishment",
     "startOffset" : 24,
-    "endOffset" : 28,
+    "endOffset" : 38,
     "position" : 3
   }, {
-    "token" : "1",
-    "startOffset" : 29,
-    "endOffset" : 30,
-    "position" : 4
+    "token" : "accomplish",
+    "startOffset" : 24,
+    "endOffset" : 38,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyJ2xNEXFMlzHLUYX",
-  "text" : "And congratulations, right on track.",
+  "id" : "AWoEQVpnDTAu_IiLelfw",
+  "text" : "Congratulations, Mr. President Elect.",
   "translations" : {
-    "russian" : "И вот пожалуйста, всё к тому и идёт."
+    "russian" : "Поздравляю, господин президент."
   },
   "tokens" : [ {
-    "token" : "and",
+    "token" : "congratulate",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 15,
     "position" : 0
   }, {
-    "token" : "congratulate",
-    "startOffset" : 4,
+    "token" : "mr",
+    "startOffset" : 17,
     "endOffset" : 19,
     "position" : 1
   }, {
-    "token" : "right",
+    "token" : "president",
     "startOffset" : 21,
-    "endOffset" : 26,
+    "endOffset" : 30,
     "position" : 2
   }, {
-    "token" : "on",
-    "startOffset" : 27,
-    "endOffset" : 29,
+    "token" : "elect",
+    "startOffset" : 31,
+    "endOffset" : 36,
     "position" : 3
-  }, {
-    "token" : "track",
-    "startOffset" : 30,
-    "endOffset" : 35,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggmhGNEXFMlzHK9m9",
-  "text" : "Congratulations to players five and 11.",
-  "translations" : {
-    "russian" : "Поздравляю для игроков пяти до 11."
-  },
-  "tokens" : [ {
-    "token" : "congratulate",
-    "startOffset" : 0,
-    "endOffset" : 15,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "player",
-    "startOffset" : 19,
-    "endOffset" : 26,
-    "position" : 2
-  }, {
-    "token" : "five",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 3
-  }, {
-    "token" : "and",
-    "startOffset" : 32,
-    "endOffset" : 35,
-    "position" : 4
-  }, {
-    "token" : "11",
-    "startOffset" : 36,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzAMzNEXFMlzHLVkF",
-  "text" : "Congratulations, the transfer was a success.",
-  "translations" : {
-    "russian" : "Поздравляю, перемещение прошло успешно."
-  },
-  "tokens" : [ {
-    "token" : "congratulate",
-    "startOffset" : 0,
-    "endOffset" : 15,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 1
-  }, {
-    "token" : "transfer",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 2
-  }, {
-    "token" : "was",
-    "startOffset" : 30,
-    "endOffset" : 33,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 34,
-    "endOffset" : 35,
-    "position" : 4
-  }, {
-    "token" : "success",
-    "startOffset" : 36,
-    "endOffset" : 43,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -22,6 +22,72 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDPtWLDTAu_IiLd9WU",
+  "text" : "It can't run on autopilot.",
+  "translations" : {
+    "russian" : "Это не работает на автопилоте."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "can't",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "run",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "autopilot",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPuj8DTAu_IiLd9XA",
+  "text" : "It can't run on autopilot.",
+  "translations" : {
+    "russian" : "Это не работает на автопилоте."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "can't",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "run",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "autopilot",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgshg0NEXFMlzHLMkA",
   "text" : "Oh, he's on a run!",
   "translations" : {
@@ -51,6 +117,39 @@
     "token" : "run",
     "startOffset" : 14,
     "endOffset" : 17,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFieiWDTAu_IiLfh1g",
+  "text" : "Cribbage is on the run.",
+  "translations" : {
+    "russian" : "Криббедж сбежал."
+  },
+  "tokens" : [ {
+    "token" : "cribbage",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "run",
+    "startOffset" : 19,
+    "endOffset" : 22,
     "position" : 4
   } ],
   "contentScore" : null
@@ -125,6 +224,120 @@
     "position" : 4
   }, {
     "token" : "track",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnAuADTAu_IiLe2U9",
+  "text" : "This country runs on deficit spending.",
+  "translations" : {
+    "russian" : "В стране бюджетный дефицит."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "country",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "run",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "deficit",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "spend",
+    "startOffset" : 29,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhEI2DTAu_IiLexwb",
+  "text" : "Went on a grog run here.",
+  "translations" : {
+    "russian" : "У нас тут есть грог."
+  },
+  "tokens" : [ {
+    "token" : "went",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "grog",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "run",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 4
+  }, {
+    "token" : "here",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDeiwDDTAu_IiLeGHW",
+  "text" : "You never run on a barge!",
+  "translations" : {
+    "russian" : "Нельзя бегать по барже!"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "never",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "run",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 4
+  }, {
+    "token" : "barge",
     "startOffset" : 19,
     "endOffset" : 24,
     "position" : 5

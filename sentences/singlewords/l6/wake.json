@@ -1,67 +1,359 @@
 [ {
-  "id" : "AWbgoR4kNEXFMlzHLGq-",
-  "text" : "His heart is waking.",
+  "id" : "AWoDz4BnDTAu_IiLeSIU",
+  "text" : "Wake him!",
   "translations" : {
-    "russian" : "Это любовь, его сердце расцвело."
+    "russian" : "Буди его!"
   },
   "tokens" : [ {
-    "token" : "his",
+    "token" : "wake",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "him",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz3d5DTAu_IiLeSIC",
+  "text" : "Wake up!",
+  "translations" : {
+    "russian" : "Ребята, просыпайтесь!"
+  },
+  "tokens" : [ {
+    "token" : "wake",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz5uhDTAu_IiLeSJL",
+  "text" : "Wake up.",
+  "translations" : {
+    "russian" : "Я очарована. Вставайте."
+  },
+  "tokens" : [ {
+    "token" : "wake",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz3RGDTAu_IiLeSH8",
+  "text" : "Wake up.",
+  "translations" : {
+    "russian" : "Просыпайтесь!"
+  },
+  "tokens" : [ {
+    "token" : "wake",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz78SDTAu_IiLeSKN",
+  "text" : "Wake up!",
+  "translations" : {
+    "russian" : "Пробудись!"
+  },
+  "tokens" : [ {
+    "token" : "wake",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz6o1DTAu_IiLeSJo",
+  "text" : "Wake up.",
+  "translations" : {
+    "russian" : "Я не сплю."
+  },
+  "tokens" : [ {
+    "token" : "wake",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz54jDTAu_IiLeSJS",
+  "text" : "Wake up.",
+  "translations" : {
+    "russian" : "Вставайте."
+  },
+  "tokens" : [ {
+    "token" : "wake",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz26dDTAu_IiLeSHw",
+  "text" : "Wake up now.",
+  "translations" : {
+    "russian" : "Теперь просыпайся."
+  },
+  "tokens" : [ {
+    "token" : "wake",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "now",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz5o3DTAu_IiLeSJI",
+  "text" : "Come on, wake up.",
+  "translations" : {
+    "russian" : "Джани. Ну же, вставай."
+  },
+  "tokens" : [ {
+    "token" : "come",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "wake",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "up",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz6tDDTAu_IiLeSJq",
+  "text" : "Jun, wake up!",
+  "translations" : {
+    "russian" : "Дзюн, не спи!"
+  },
+  "tokens" : [ {
+    "token" : "jun",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "heart",
-    "startOffset" : 4,
+    "token" : "wake",
+    "startOffset" : 5,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "is",
+    "token" : "up",
     "startOffset" : 10,
     "endOffset" : 12,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz06CDTAu_IiLeSGy",
+  "text" : "Wake up, Friend Owl.",
+  "translations" : {
+    "russian" : "Проснись, Филин."
+  },
+  "tokens" : [ {
+    "token" : "wake",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "friend",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "owl",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz0wEDTAu_IiLeSGt",
+  "text" : "Wake up, Larry.",
+  "translations" : {
+    "russian" : "Ларри, проснись."
+  },
+  "tokens" : [ {
+    "token" : "wake",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "larry",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz3UzDTAu_IiLeSH-",
+  "text" : "Come on, wake up!",
+  "translations" : {
+    "russian" : "Давайте-же, просыпайтесь!"
+  },
+  "tokens" : [ {
+    "token" : "come",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
   }, {
     "token" : "wake",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "up",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz3XODTAu_IiLeSH_",
+  "text" : "Come on! Wake up!",
+  "translations" : {
+    "russian" : "Давайте, просыпайтесь!"
+  },
+  "tokens" : [ {
+    "token" : "come",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "wake",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "up",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz3bdDTAu_IiLeSIB",
+  "text" : "Wake up, Mrs Vargas.",
+  "translations" : {
+    "russian" : "Просыпайтесь."
+  },
+  "tokens" : [ {
+    "token" : "wake",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "mrs",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "vargas",
     "startOffset" : 13,
     "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbRmyNEXFMlzHK4-C",
-  "text" : "It's time we both wake up.",
+  "id" : "AWoDz3ZZDTAu_IiLeSIA",
+  "text" : "Wake up, brothers!",
   "translations" : {
-    "russian" : "Нам обоим пора проснуться."
+    "russian" : "Братья мои, просыпайтесь!"
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "wake",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "time",
+    "token" : "up",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "we",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "both",
-    "startOffset" : 13,
+    "token" : "broth",
+    "startOffset" : 9,
     "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "wake",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "up",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 5
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

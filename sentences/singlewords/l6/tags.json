@@ -1,4 +1,78 @@
 [ {
+  "id" : "AWoE7QqiDTAu_IiLfEej",
+  "text" : "Expired tags.",
+  "translations" : {
+    "russian" : "Номера просрочены."
+  },
+  "tokens" : [ {
+    "token" : "expired",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "expire",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tag",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7VYgDTAu_IiLfEhf",
+  "text" : "Expired tags.",
+  "translations" : {
+    "russian" : "Номера просрочены."
+  },
+  "tokens" : [ {
+    "token" : "expired",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "expire",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tag",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9pGxDTAu_IiLeXYg",
+  "text" : "What's an Apex tag?",
+  "translations" : {
+    "russian" : "Что за Апекс ?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "apex",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "tag",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgd0EGNEXFMlzHK7MH",
   "text" : "Bag them and tag them.",
   "translations" : {
@@ -28,6 +102,82 @@
     "token" : "them",
     "startOffset" : 17,
     "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7QVwDTAu_IiLfEeX",
+  "text" : "Well... your tags are expired.",
+  "translations" : {
+    "russian" : "Что ж... ваша регистрация просрочена."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tag",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "expired",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "expire",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7VEPDTAu_IiLfEhT",
+  "text" : "Well... your tags are expired.",
+  "translations" : {
+    "russian" : "Что ж... ваша регистрация просрочена."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tag",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "expired",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "expire",
+    "startOffset" : 22,
+    "endOffset" : 29,
     "position" : 4
   } ],
   "contentScore" : null
@@ -62,6 +212,44 @@
     "startOffset" : 17,
     "endOffset" : 21,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELFA0DTAu_IiLehgp",
+  "text" : "Beautiful dog no tags, no collar.",
+  "translations" : {
+    "russian" : "Красивая собака - не бирки, ни ошейника."
+  },
+  "tokens" : [ {
+    "token" : "beautiful",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "dog",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "tag",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "no",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "collar",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

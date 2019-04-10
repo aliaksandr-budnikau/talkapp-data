@@ -1,4 +1,130 @@
 [ {
+  "id" : "AWoD8n12DTAu_IiLeWmm",
+  "text" : "OK, Willow.",
+  "translations" : {
+    "russian" : "Ну, Уиллоу."
+  },
+  "tokens" : [ {
+    "token" : "ok",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "willow",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfq0dDTAu_IiLewqN",
+  "text" : "OK, dial.",
+  "translations" : {
+    "russian" : "Хорошо, набирай."
+  },
+  "tokens" : [ {
+    "token" : "ok",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "dial",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEf_ZkDTAu_IiLew6G",
+  "text" : "OK, dial.",
+  "translations" : {
+    "russian" : "Хорошо, набирай."
+  },
+  "tokens" : [ {
+    "token" : "ok",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "dial",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXUCCDTAu_IiLequw",
+  "text" : "OK, faggot.",
+  "translations" : {
+    "russian" : "Ладно, педрила."
+  },
+  "tokens" : [ {
+    "token" : "ok",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "faggot",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiKZJDTAu_IiLeyrI",
+  "text" : "OK, gang.",
+  "translations" : {
+    "russian" : "Так, ребята, пошли!"
+  },
+  "tokens" : [ {
+    "token" : "ok",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "gang",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1lOFDTAu_IiLfAvz",
+  "text" : "Err... OK.",
+  "translations" : {
+    "russian" : "Хорошо."
+  },
+  "tokens" : [ {
+    "token" : "err",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ok",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1nLXDTAu_IiLfAxF",
+  "text" : "Err... OK.",
+  "translations" : {
+    "russian" : "Хорошо."
+  },
+  "tokens" : [ {
+    "token" : "err",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ok",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmc6wNEXFMlzHLD6g",
   "text" : "OK. OK, two frying pans.",
   "translations" : {
@@ -83,33 +209,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmDCWNEXFMlzHLDNs",
-  "text" : "June OK, Stan?",
+  "id" : "AWoDgOm5DTAu_IiLeHGK",
+  "text" : "OK, you're the chairman.",
   "translations" : {
-    "russian" : "С Джун всё в порядке, Стэн?"
-  },
-  "tokens" : [ {
-    "token" : "june",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "ok",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "stan",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqVDaNEXFMlzHLJf3",
-  "text" : "OK, stations, everybody.",
-  "translations" : {
-    "russian" : "Так, все по местам."
+    "russian" : "Ок, ты Председатель правления!"
   },
   "tokens" : [ {
     "token" : "ok",
@@ -117,367 +220,27 @@
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "station",
+    "token" : "you're",
     "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "everybody",
-    "startOffset" : 14,
-    "endOffset" : 23,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl3ltNEXFMlzHLC_a",
-  "text" : "Goose, Hollywood's OK.",
-  "translations" : {
-    "russian" : "Гусь, с Голливудом все в порядке."
-  },
-  "tokens" : [ {
-    "token" : "goose",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "hollywood",
-    "startOffset" : 7,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "ok",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxQCPNEXFMlzHLS__",
-  "text" : "OK, you fly, I'll navigate.",
-  "translations" : {
-    "russian" : "Ладно, ты полетишь, я буду направлять."
-  },
-  "tokens" : [ {
-    "token" : "ok",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "fly",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "i'll",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "navigate",
-    "startOffset" : 18,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpbRwNEXFMlzHLIPO",
-  "text" : "Let's find your camera, OK?",
-  "translations" : {
-    "russian" : "Давай найдем твой фотоаппарат, хорошо?"
-  },
-  "tokens" : [ {
-    "token" : "let",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "find",
-    "startOffset" : 6,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "your",
+    "token" : "the",
     "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "camera",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "ok",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwt4MNEXFMlzHLSdr",
-  "text" : "Are you OK to dive?",
-  "translations" : {
-    "russian" : "Ты готов к погружению?"
-  },
-  "tokens" : [ {
-    "token" : "are",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "ok",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "dive",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 4
-  }, {
-    "token" : "d",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnTQtNEXFMlzHLFN_",
-  "text" : "OK, two slices of cheese...",
-  "translations" : {
-    "russian" : "Так, два ломтика сыра..."
-  },
-  "tokens" : [ {
-    "token" : "ok",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "two",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "slice",
-    "startOffset" : 8,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "of",
+    "token" : "chairman",
     "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "cheese",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgq2gONEXFMlzHLKIf",
-  "text" : "OK, drop the chit chat.",
-  "translations" : {
-    "russian" : "Это не просто пустая болтовня."
-  },
-  "tokens" : [ {
-    "token" : "ok",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "drop",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "chit",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "chat",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl2g0NEXFMlzHLC-q",
-  "text" : "OK? But all this Hollywood mess...",
-  "translations" : {
-    "russian" : "Но все эти голливудские дела..."
-  },
-  "tokens" : [ {
-    "token" : "ok",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "but",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "all",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "this",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "hollywood",
-    "startOffset" : 17,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "mess",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtXWMNEXFMlzHLNfg",
-  "text" : "OK... and it causes immense distress.",
-  "translations" : {
-    "russian" : "И это вызывает огромные страдания."
-  },
-  "tokens" : [ {
-    "token" : "ok",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "and",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "cause",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "immense",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "distress",
-    "startOffset" : 28,
-    "endOffset" : 36,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvGJhNEXFMlzHLQaR",
-  "text" : "I'll just check the map, OK?",
-  "translations" : {
-    "russian" : "Я сверюсь с картой, ОК?"
-  },
-  "tokens" : [ {
-    "token" : "i'll",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "just",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "check",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "map",
-    "startOffset" : 20,
     "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "ok",
-    "startOffset" : 25,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw08jNEXFMlzHLSks",
-  "text" : "OK, who wants to level drop?",
-  "translations" : {
-    "russian" : "OK, кто хочет понижения уровня?"
-  },
-  "tokens" : [ {
-    "token" : "ok",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "who",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "want",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 14,
-    "endOffset" : 16,
     "position" : 3
-  }, {
-    "token" : "level",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "drop",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmc-LNEXFMlzHLD6m",
-  "text" : "OK, maybe with a frying pan.",
+  "id" : "AWoD6-NfDTAu_IiLeVZf",
+  "text" : "OK, er, a transaction.",
   "translations" : {
-    "russian" : "Тогда сковородкой."
+    "russian" : "Ладно, это была сделка."
   },
   "tokens" : [ {
     "token" : "ok",
@@ -485,30 +248,117 @@
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "maybe",
+    "token" : "er",
     "startOffset" : 4,
-    "endOffset" : 9,
+    "endOffset" : 6,
     "position" : 1
-  }, {
-    "token" : "with",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
   }, {
     "token" : "a",
-    "startOffset" : 15,
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "transaction",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAJmSDTAu_IiLeZR7",
+  "text" : "Kate sighs OK.",
+  "translations" : {
+    "russian" : "Ладно."
+  },
+  "tokens" : [ {
+    "token" : "kate",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "sighs",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ok",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdudZDTAu_IiLevIe",
+  "text" : "Gong Mi-Ok.",
+  "translations" : {
+    "russian" : "Гон Ми Ок."
+  },
+  "tokens" : [ {
+    "token" : "gong",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "mi",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "ok",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnj4GDTAu_IiLe2wi",
+  "text" : "OK, no graphs.",
+  "translations" : {
+    "russian" : "Ладно, никаких графиков."
+  },
+  "tokens" : [ {
+    "token" : "ok",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "no",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "graphs",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4P0CDTAu_IiLfCib",
+  "text" : "At the OK Corral.",
+  "translations" : {
+    "russian" : "На ОК Коралл."
+  },
+  "tokens" : [ {
+    "token" : "at",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "ok",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "corral",
+    "startOffset" : 10,
     "endOffset" : 16,
     "position" : 3
-  }, {
-    "token" : "fry",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "pan",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

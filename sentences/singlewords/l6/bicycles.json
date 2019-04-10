@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoFg9-PDTAu_IiLfg6y",
+  "text" : "Vandalism. Bicycle theft.",
+  "translations" : {
+    "russian" : "Вандализм. Угон велосипедов."
+  },
+  "tokens" : [ {
+    "token" : "vandalism",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "bicycle",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "theft",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjJYnDTAu_IiLezbt",
+  "text" : "BBB Born Before Bicycle!",
+  "translations" : {
+    "russian" : "РДВ, Рождённых До Велосипеда!"
+  },
+  "tokens" : [ {
+    "token" : "bbb",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "born",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "before",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "bicycle",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEU3XvDTAu_IiLeo6I",
+  "text" : "I'm guessing that's from bicycle clips.",
+  "translations" : {
+    "russian" : "Я полагаю, что это от велосипедных клипс."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "guess",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "that",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "from",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "bicycle",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "clip",
+    "startOffset" : 33,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgm1cyNEXFMlzHLEkU",
   "text" : "Slow food, fast bicycles, great schools...",
   "translations" : {
@@ -33,6 +122,44 @@
     "token" : "school",
     "startOffset" : 32,
     "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0aDwDTAu_IiLe_75",
+  "text" : "What use is a giraffe bicycle?",
+  "translations" : {
+    "russian" : "И к слову о жирафах, для чего нужен жираф-велосипед?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "use",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 3
+  }, {
+    "token" : "giraffe",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "bicycle",
+    "startOffset" : 22,
+    "endOffset" : 29,
     "position" : 5
   } ],
   "contentScore" : null

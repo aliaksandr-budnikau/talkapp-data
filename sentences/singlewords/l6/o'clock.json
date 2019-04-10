@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoEmgYfDTAu_IiLe18p",
+  "text" : "Spotter vehicle, nine o'clock.",
+  "translations" : {
+    "russian" : "Наблюдатель на девять часов."
+  },
+  "tokens" : [ {
+    "token" : "spotter",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "vehicle",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "nine",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "o'clock",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsGNYDTAu_IiLe6Cv",
+  "text" : "Ten o'clock, pillbox!",
+  "translations" : {
+    "russian" : "На десять часов, ДЗОТ!"
+  },
+  "tokens" : [ {
+    "token" : "ten",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "o'clock",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "pillbox",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzGobNEXFMlzHLVxa",
   "text" : "At what o'clock did you dine?",
   "translations" : {

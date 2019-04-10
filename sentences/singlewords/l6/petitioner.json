@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoDVXTnDTAu_IiLeBGP",
+  "text" : "Petition for annulment denied.",
+  "translations" : {
+    "russian" : "Петиция об аннулировании отклонена."
+  },
+  "tokens" : [ {
+    "token" : "petition",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "petite",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "annulment",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "annul",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "deny",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggBa4NEXFMlzHK9Gz",
   "text" : "I'm rejecting the petition.",
   "translations" : {
@@ -34,6 +72,82 @@
     "startOffset" : 18,
     "endOffset" : 26,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVYz0DTAu_IiLeBHK",
+  "text" : "Petition for annulment denied.",
+  "translations" : {
+    "russian" : "Петиция об аннулировании отклонена."
+  },
+  "tokens" : [ {
+    "token" : "petition",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "petite",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "annulment",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "annul",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "deny",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDOTonDTAu_IiLd8iL",
+  "text" : "Thank you for petitioning the Abbot.",
+  "translations" : {
+    "russian" : "Спасибо, что походатайствовал перед аббатом."
+  },
+  "tokens" : [ {
+    "token" : "thank",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "petition",
+    "startOffset" : 14,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "abbot",
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

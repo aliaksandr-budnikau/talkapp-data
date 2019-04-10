@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFEF5DDTAu_IiLfLEC",
+  "text" : "Map of New Zealand.",
+  "translations" : {
+    "russian" : "О, Новая Зеландия!"
+  },
+  "tokens" : [ {
+    "token" : "map",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "new",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "zealand",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvGKfNEXFMlzHLQaT",
   "text" : "I checked the map.",
   "translations" : {
@@ -29,6 +57,82 @@
     "startOffset" : 14,
     "endOffset" : 17,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERMdqDTAu_IiLemHX",
+  "text" : "You can draw Boon a map.",
+  "translations" : {
+    "russian" : "Нарисуете Буну карту."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "draw",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "boon",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 18,
+    "endOffset" : 19,
+    "position" : 4
+  }, {
+    "token" : "map",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEx0IWDTAu_IiLe-GH",
+  "text" : "Throw a dart at a map.",
+  "translations" : {
+    "russian" : "Кинь дротик в карту."
+  },
+  "tokens" : [ {
+    "token" : "throw",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "dart",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "at",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 4
+  }, {
+    "token" : "map",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

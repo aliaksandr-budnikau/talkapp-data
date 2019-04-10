@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoE_hMiDTAu_IiLfHow",
+  "text" : "Harassment, intimidation.",
+  "translations" : {
+    "russian" : "Преследование, запугивание."
+  },
+  "tokens" : [ {
+    "token" : "harassment",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "harass",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "intimidation",
+    "startOffset" : 12,
+    "endOffset" : 24,
+    "position" : 1
+  }, {
+    "token" : "intimidate",
+    "startOffset" : 12,
+    "endOffset" : 24,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgd6h-NEXFMlzHK7R5",
   "text" : "A sexual harassment suit.",
   "translations" : {
@@ -29,6 +57,44 @@
     "startOffset" : 20,
     "endOffset" : 24,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgNa0DTAu_IiLexFB",
+  "text" : "This is bordering on harassment.",
+  "translations" : {
+    "russian" : "Это граничит с преследованием."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "border",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "harassment",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "harass",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

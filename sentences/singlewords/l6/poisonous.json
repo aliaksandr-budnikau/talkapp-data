@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoDe7ZmDTAu_IiLeGVg",
+  "text" : "Poisonous tree bark.",
+  "translations" : {
+    "russian" : "Отравленная древесная кора..."
+  },
+  "tokens" : [ {
+    "token" : "poisonous",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "tree",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "bark",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkCzwNEXFMlzHLAhm",
   "text" : "Those things can be poisonous.",
   "translations" : {
@@ -28,6 +51,72 @@
     "token" : "poisonous",
     "startOffset" : 20,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwwlhDTAu_IiLe9T1",
+  "text" : "Egyptian asps are quite poisonous.",
+  "translations" : {
+    "russian" : "Египетские гадюки очень ядовиты."
+  },
+  "tokens" : [ {
+    "token" : "egyptian",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "asp",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "quite",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "poisonous",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXr4eDTAu_IiLeq_q",
+  "text" : "Uh, is this Viper poisonous?",
+  "translations" : {
+    "russian" : "А этот Аспид ядовитый?"
+  },
+  "tokens" : [ {
+    "token" : "uh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "viper",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "poisonous",
+    "startOffset" : 18,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null

@@ -32,6 +32,57 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEog9DDTAu_IiLe3fn",
+  "text" : "I questioned the headmaster.",
+  "translations" : {
+    "russian" : "Я расспросил директора школы."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "questioned",
+    "startOffset" : 2,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "question",
+    "startOffset" : 2,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "headmaster",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExEP_DTAu_IiLe9ip",
+  "text" : "Questions hedgehogs?",
+  "translations" : {
+    "russian" : "Вопросы, ёжики?"
+  },
+  "tokens" : [ {
+    "token" : "question",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "hedgehog",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcvOSNEXFMlzHK6ST",
   "text" : "And invited questions.",
   "translations" : {
@@ -84,6 +135,62 @@
     "token" : "question",
     "startOffset" : 15,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETK54DTAu_IiLenl4",
+  "text" : "You're dodging the question.",
+  "translations" : {
+    "russian" : "Ты увиливаешь от ответа."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dodge",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "question",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGnFEDTAu_IiLfM33",
+  "text" : "Don't evade the question.",
+  "translations" : {
+    "russian" : "Не уклоняйтесь от вопроса."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "evade",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "question",
+    "startOffset" : 16,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
@@ -172,262 +279,66 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqn-JNEXFMlzHLJ0X",
-  "text" : "I answered your question.",
+  "id" : "AWoDS_duDTAu_IiLd_j-",
+  "text" : "Any questions, Sister Alma?",
   "translations" : {
-    "russian" : "Ты спросила - я ответил."
+    "russian" : "Есть вопросы, сестра Алма?"
   },
   "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "answered",
-    "startOffset" : 2,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "answer",
-    "startOffset" : 2,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "question",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqn9KNEXFMlzHLJ0W",
-  "text" : "That's my question.",
-  "translations" : {
-    "russian" : "Это я спрашиваю."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "question",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqorDNEXFMlzHLJ1X",
-  "text" : "No question, captain.",
-  "translations" : {
-    "russian" : "Без сомнений, капитан."
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "question",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "captain",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqpOcNEXFMlzHLJ2I",
-  "text" : "That's not the question.",
-  "translations" : {
-    "russian" : "Дело не в этом."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "question",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqntDNEXFMlzHLJz_",
-  "text" : "We'll question him there?",
-  "translations" : {
-    "russian" : "Может быть там его и допросим?"
-  },
-  "tokens" : [ {
-    "token" : "we'll",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "question",
-    "startOffset" : 6,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "him",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "there",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqpWANEXFMlzHLJ2P",
-  "text" : "That's not my question.",
-  "translations" : {
-    "russian" : "Дело не в этом."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "question",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqpYsNEXFMlzHLJ2T",
-  "text" : "Not my question.",
-  "translations" : {
-    "russian" : "Это не мое дело."
-  },
-  "tokens" : [ {
-    "token" : "not",
+    "token" : "any",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "my",
+    "token" : "question",
     "startOffset" : 4,
-    "endOffset" : 6,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "question",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqp3NNEXFMlzHLJ2-",
-  "text" : "You're questioning my character?",
-  "translations" : {
-    "russian" : "Вы исследуете мою личность?"
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "questioning",
-    "startOffset" : 7,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "question",
-    "startOffset" : 7,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 19,
+    "token" : "sister",
+    "startOffset" : 15,
     "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "character",
+    "token" : "alma",
     "startOffset" : 22,
-    "endOffset" : 31,
+    "endOffset" : 26,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqnv_NEXFMlzHLJ0D",
-  "text" : "I'm questioning Jimal's roommates.",
+  "id" : "AWoD3hj3DTAu_IiLeT2K",
+  "text" : "The question was relevant.",
   "translations" : {
-    "russian" : "Я допрошу соседей по комнате Джималя."
+    "russian" : "Вопрос был уместен."
   },
   "tokens" : [ {
-    "token" : "i'm",
+    "token" : "the",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "questioning",
-    "startOffset" : 4,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
     "token" : "question",
     "startOffset" : 4,
-    "endOffset" : 15,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "jimal's",
-    "startOffset" : 16,
-    "endOffset" : 23,
+    "token" : "was",
+    "startOffset" : 13,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "roommate",
-    "startOffset" : 24,
-    "endOffset" : 33,
+    "token" : "relevant",
+    "startOffset" : 17,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqngXNEXFMlzHLJzy",
-  "text" : "You must have questions.",
+  "id" : "AWoEBqqMDTAu_IiLeacb",
+  "text" : "You want quiz questions?",
   "translations" : {
-    "russian" : "У тебя должны быть вопросы."
+    "russian" : "Нужны вопросы к викторине?"
   },
   "tokens" : [ {
     "token" : "you",
@@ -435,12 +346,12 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "must",
+    "token" : "want",
     "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "have",
+    "token" : "quiz",
     "startOffset" : 9,
     "endOffset" : 13,
     "position" : 2
@@ -448,6 +359,95 @@
     "token" : "question",
     "startOffset" : 14,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkxG9DTAu_IiLe0qm",
+  "text" : "That's a valid question.",
+  "translations" : {
+    "russian" : "Это обоснованное сомнение."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "valid",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "question",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEo6_tDTAu_IiLe3zB",
+  "text" : "The question is moot.",
+  "translations" : {
+    "russian" : "Это спорный вопрос."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "question",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "moot",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQZk7DTAu_IiLfUiK",
+  "text" : "They're questioning the plaintiff.",
+  "translations" : {
+    "russian" : "Допрашивают истца."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "questioning",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "question",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "plaintiff",
+    "startOffset" : 24,
+    "endOffset" : 33,
     "position" : 3
   } ],
   "contentScore" : null

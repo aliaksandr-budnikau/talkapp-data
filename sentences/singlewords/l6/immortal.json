@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoDfIzZDTAu_IiLeGdX",
+  "text" : "The immortal bard, Pinkie.",
+  "translations" : {
+    "russian" : "У бессмертного барда, Пинки."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "immortal",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "bard",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "pinkie",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4p--DTAu_IiLeUX0",
+  "text" : "Vandal is immortal.",
+  "translations" : {
+    "russian" : "Вэндал бессмертный."
+  },
+  "tokens" : [ {
+    "token" : "vandal",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "immortal",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgc2JhNEXFMlzHK6Yj",
   "text" : "We have been made immortal.",
   "translations" : {
@@ -66,6 +117,44 @@
     "token" : "underworld",
     "startOffset" : 26,
     "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjTn_DTAu_IiLfiYZ",
+  "text" : "I mean, crocodiles are not immortal.",
+  "translations" : {
+    "russian" : "Крокодилы тоже не бессмертны."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "mean",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "crocodile",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "not",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "immortal",
+    "startOffset" : 27,
+    "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null

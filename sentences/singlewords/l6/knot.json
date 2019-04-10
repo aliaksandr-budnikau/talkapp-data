@@ -1,4 +1,130 @@
 [ {
+  "id" : "AWoDgB-LDTAu_IiLeG-v",
+  "text" : "No knot.",
+  "translations" : {
+    "russian" : "Узелков нет."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "knot",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXZqaDTAu_IiLfZpk",
+  "text" : "Clinch knots?",
+  "translations" : {
+    "russian" : "Клинч?"
+  },
+  "tokens" : [ {
+    "token" : "clinch",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "knot",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgDZmDTAu_IiLeG_j",
+  "text" : "The knot.",
+  "translations" : {
+    "russian" : "Веревка."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "knot",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7G0ODTAu_IiLfEYA",
+  "text" : "Clinch knots?",
+  "translations" : {
+    "russian" : "Клинч?"
+  },
+  "tokens" : [ {
+    "token" : "clinch",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "knot",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgA_ZDTAu_IiLeG-N",
+  "text" : "15 knots.",
+  "translations" : {
+    "russian" : "Пятнадцать узлов."
+  },
+  "tokens" : [ {
+    "token" : "15",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "knot",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgDSlDTAu_IiLeG_f",
+  "text" : "The knot.",
+  "translations" : {
+    "russian" : "Веревки."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "knot",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7HeRDTAu_IiLfEYg",
+  "text" : "Clinch knots?",
+  "translations" : {
+    "russian" : "Клинч?"
+  },
+  "tokens" : [ {
+    "token" : "clinch",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "knot",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwGvbNEXFMlzHLR1t",
   "text" : "Airspeed 90 knots.",
   "translations" : {
@@ -22,36 +148,212 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgh0YkNEXFMlzHK-q5",
-  "text" : "Speed over ground 4.6 knots.",
+  "id" : "AWoDgBMNDTAu_IiLeG-V",
+  "text" : "Wait, there's a knot.",
   "translations" : {
-    "russian" : "Скорость относительно земли 4, 6 узлов."
+    "russian" : "Постойте, здесь узел."
   },
   "tokens" : [ {
-    "token" : "speed",
+    "token" : "wait",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "there",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "knot",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEu50NDTAu_IiLe78P",
+  "text" : "A 12-knot drift.",
+  "translations" : {
+    "russian" : "Дрейф 12 узлов."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "12",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "knot",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "drift",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgDk9DTAu_IiLeG_q",
+  "text" : "Tying the knot, huh?",
+  "translations" : {
+    "russian" : "Так вы женитесь? Дай мне Ори."
+  },
+  "tokens" : [ {
+    "token" : "tying",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "over",
+    "token" : "the",
     "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "knot",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "huh",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgD9UDTAu_IiLeG_6",
+  "text" : "Who make this knot?",
+  "translations" : {
+    "russian" : "Кто завязал такой узел?"
+  },
+  "tokens" : [ {
+    "token" : "who",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "knot",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgDbWDTAu_IiLeG_k",
+  "text" : "Forget the knot.",
+  "translations" : {
+    "russian" : "Забудь о веревке."
+  },
+  "tokens" : [ {
+    "token" : "forget",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "ground",
+    "token" : "knot",
     "startOffset" : 11,
-    "endOffset" : 17,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgEbADTAu_IiLeHAL",
+  "text" : "It's a blood knot.",
+  "translations" : {
+    "russian" : "Это кровные узы."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "blood",
+    "startOffset" : 7,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "4.6",
-    "startOffset" : 18,
-    "endOffset" : 21,
+    "token" : "knot",
+    "startOffset" : 13,
+    "endOffset" : 17,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgA3kDTAu_IiLeG-I",
+  "text" : "About six knots.",
+  "translations" : {
+    "russian" : "Около шести узлов."
+  },
+  "tokens" : [ {
+    "token" : "about",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "six",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
   }, {
     "token" : "knot",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgCU6DTAu_IiLeG-8",
+  "text" : "See these knots?",
+  "translations" : {
+    "russian" : "Видишь эти узелки?"
+  },
+  "tokens" : [ {
+    "token" : "see",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "these",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "knot",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

@@ -55,6 +55,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgvlUvNEXFMlzHLROJ",
+  "text" : "We can't hold them.",
+  "translations" : {
+    "russian" : "Мы не можем их сдержать."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "can't",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "hold",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "them",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgxnkdNEXFMlzHLTiL",
+  "text" : "Help hold her down?",
+  "translations" : {
+    "russian" : "Помогали удерживать ее до конца?"
+  },
+  "tokens" : [ {
+    "token" : "help",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hold",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "her",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "down",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvmFTNEXFMlzHLRPu",
   "text" : "These doors should hold.",
   "translations" : {
@@ -116,58 +172,183 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvlUvNEXFMlzHLROJ",
-  "text" : "We can't hold them.",
+  "id" : "AWoD6WDVDTAu_IiLeVHy",
+  "text" : "Hold his gaze.",
   "translations" : {
-    "russian" : "Мы не можем их сдержать."
+    "russian" : "Глаза в глаза."
   },
   "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "can't",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
     "token" : "hold",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "them",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxnkdNEXFMlzHLTiL",
-  "text" : "Help hold her down?",
-  "translations" : {
-    "russian" : "Помогали удерживать ее до конца?"
-  },
-  "tokens" : [ {
-    "token" : "help",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "hold",
+    "token" : "his",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "her",
-    "startOffset" : 10,
+    "token" : "gaze",
+    "startOffset" : 9,
     "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEKKjDTAu_IiLecay",
+  "text" : "TIG Whoa! Hold down!",
+  "translations" : {
+    "russian" : "Эй, держите его!"
+  },
+  "tokens" : [ {
+    "token" : "tig",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "whoa",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "hold",
+    "startOffset" : 10,
+    "endOffset" : 14,
     "position" : 2
   }, {
     "token" : "down",
-    "startOffset" : 14,
-    "endOffset" : 18,
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFcBQDTAu_IiLedZN",
+  "text" : "Hold or fold.",
+  "translations" : {
+    "russian" : "Не удержишь, не свернешь."
+  },
+  "tokens" : [ {
+    "token" : "hold",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "or",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "fold",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWjIyDTAu_IiLeqLk",
+  "text" : "Hold his brush?",
+  "translations" : {
+    "russian" : "Подержать кисточку?"
+  },
+  "tokens" : [ {
+    "token" : "hold",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "his",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "brush",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1d4qDTAu_IiLfAqs",
+  "text" : "Hold the hammer.",
+  "translations" : {
+    "russian" : "Осторожнее, курок."
+  },
+  "tokens" : [ {
+    "token" : "hold",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "hammer",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6ky6DTAu_IiLfECz",
+  "text" : "STAMMERING Hey, hold on!",
+  "translations" : {
+    "russian" : "Простите меня."
+  },
+  "tokens" : [ {
+    "token" : "stammering",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "stammer",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "hey",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "hold",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCmBrDTAu_IiLfJ-w",
+  "text" : "Hold the needle properly.",
+  "translations" : {
+    "russian" : "Держи иголку как следует."
+  },
+  "tokens" : [ {
+    "token" : "hold",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "needle",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "proper",
+    "startOffset" : 16,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
@@ -262,207 +443,6 @@
     "token" : "mouth",
     "startOffset" : 20,
     "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvmLqNEXFMlzHLRP7",
-  "text" : "Fire in the hold!",
-  "translations" : {
-    "russian" : "Пожар в трюме!"
-  },
-  "tokens" : [ {
-    "token" : "fire",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "in",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "hold",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvmkJNEXFMlzHLRQw",
-  "text" : "Can you hold, please?",
-  "translations" : {
-    "russian" : "Пожалуйста, не кладите трубку."
-  },
-  "tokens" : [ {
-    "token" : "can",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "hold",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "please",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvkTCNEXFMlzHLRMB",
-  "text" : "Let me hold him.",
-  "translations" : {
-    "russian" : "Дай мне подержать его."
-  },
-  "tokens" : [ {
-    "token" : "let",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "hold",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "him",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvlQmNEXFMlzHLROA",
-  "text" : "Wait, hold the tiara.",
-  "translations" : {
-    "russian" : "Стоп, придержи тиару."
-  },
-  "tokens" : [ {
-    "token" : "wait",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "hold",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "tiara",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvkWlNEXFMlzHLRMI",
-  "text" : "And what's she holding?",
-  "translations" : {
-    "russian" : "А что она держит?"
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "what",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "she",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "holding",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "hold",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvmM4NEXFMlzHLRP-",
-  "text" : "Target their cargo hold.",
-  "translations" : {
-    "russian" : "Нацельтесь на их трюм."
-  },
-  "tokens" : [ {
-    "token" : "target",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "their",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "cargo",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "hold",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjkumNEXFMlzHLAIM",
-  "text" : "Hold him up, honey.",
-  "translations" : {
-    "russian" : "Подними его, милый."
-  },
-  "tokens" : [ {
-    "token" : "hold",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "him",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "up",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "honey",
-    "startOffset" : 13,
-    "endOffset" : 18,
     "position" : 3
   } ],
   "contentScore" : null

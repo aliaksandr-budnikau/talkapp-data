@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoFFRPqDTAu_IiLfL4m",
+  "text" : "Polish plates.",
+  "translations" : {
+    "russian" : "У вас польские номера."
+  },
+  "tokens" : [ {
+    "token" : "polish",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "plate",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtOUlDTAu_IiLeOU5",
+  "text" : "Freshly polished and sharpened.",
+  "translations" : {
+    "russian" : "Только что отполированные и наточенные."
+  },
+  "tokens" : [ {
+    "token" : "freshly",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "polished",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "polish",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "sharpened",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "sharpen",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgw3GhNEXFMlzHLSm2",
   "text" : "An excess of nail polish.",
   "translations" : {
@@ -29,6 +85,82 @@
     "startOffset" : 18,
     "endOffset" : 24,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOY3xDTAu_IiLekFe",
+  "text" : "Give her our Polish subsidiary.",
+  "translations" : {
+    "russian" : "Отдай её нашему польскому филиалу."
+  },
+  "tokens" : [ {
+    "token" : "give",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "g",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "her",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "our",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "polish",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "subsidiary",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaiL4DTAu_IiLes7Z",
+  "text" : "Polish Hetman there with the army.",
+  "translations" : {
+    "russian" : "Там польский гетман с войском."
+  },
+  "tokens" : [ {
+    "token" : "polish",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "hetman",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "there",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "army",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

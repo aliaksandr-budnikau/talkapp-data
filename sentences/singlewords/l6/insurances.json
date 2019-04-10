@@ -1,4 +1,101 @@
 [ {
+  "id" : "AWoE08ElDTAu_IiLfATZ",
+  "text" : "Insurance swindle.",
+  "translations" : {
+    "russian" : "Афера ради страховки."
+  },
+  "tokens" : [ {
+    "token" : "insurance",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "swindle",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRmfuDTAu_IiLd-oN",
+  "text" : "Insurance actuary.",
+  "translations" : {
+    "russian" : "Страховой актуарий."
+  },
+  "tokens" : [ {
+    "token" : "insurance",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "actuary",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDanSUDTAu_IiLeD4J",
+  "text" : "Life insurance, abuse, infidelity...",
+  "translations" : {
+    "russian" : "Страх, жестокое обращение неверность."
+  },
+  "tokens" : [ {
+    "token" : "life",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "insurance",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "abuse",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "fidelity",
+    "startOffset" : 23,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDlvbDTAu_IiLfKtA",
+  "text" : "And soon, health insurance.",
+  "translations" : {
+    "russian" : "У него простуда и скоро у него будет страховка."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "soon",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "health",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "heal",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "insurance",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgo07QNEXFMlzHLHeX",
   "text" : "There's security issues, insurance.",
   "translations" : {
@@ -29,6 +126,151 @@
     "startOffset" : 25,
     "endOffset" : 34,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1LifDTAu_IiLfAd-",
+  "text" : "An obnoxious insurance lobbyist?",
+  "translations" : {
+    "russian" : "Неприятный лоббист из страховой?"
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "obnoxious",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "insurance",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "lobbyist",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7VHqDTAu_IiLfEhV",
+  "text" : "His insurance expired.",
+  "translations" : {
+    "russian" : "Его страховка просрочена."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "insurance",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "expired",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "expire",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDlQVDTAu_IiLfKso",
+  "text" : "Health insurance, my ass.",
+  "translations" : {
+    "russian" : "Медицинская страховка чушь."
+  },
+  "tokens" : [ {
+    "token" : "health",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "heal",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "insurance",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "ass",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGf20DTAu_IiLeeLW",
+  "text" : "Insurance will reimburse him.",
+  "translations" : {
+    "russian" : "Ему все возместят по страховке."
+  },
+  "tokens" : [ {
+    "token" : "insurance",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "reimburse",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "him",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7QYrDTAu_IiLfEeZ",
+  "text" : "His insurance expired.",
+  "translations" : {
+    "russian" : "Его страховка просрочена."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "insurance",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "expired",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "expire",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -66,6 +308,186 @@
     "token" : "it",
     "startOffset" : 25,
     "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7X5NDTAu_IiLfEi7",
+  "text" : "Perhaps when his insurance expires?",
+  "translations" : {
+    "russian" : "Как только закончится страховка?"
+  },
+  "tokens" : [ {
+    "token" : "perhaps",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "when",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "insurance",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "expire",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDmDjDTAu_IiLfKtP",
+  "text" : "I don't have health insurance.",
+  "translations" : {
+    "russian" : "У нас нет страховки."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "don't",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "health",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "heal",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "insurance",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDlSZDTAu_IiLfKsq",
+  "text" : "Do you have health insurance?",
+  "translations" : {
+    "russian" : "У тебя есть медицинская страховка?"
+  },
+  "tokens" : [ {
+    "token" : "do",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "health",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "heal",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "insurance",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQm9dDTAu_IiLd97w",
+  "text" : "Colonial Administration, insurance company guys.",
+  "translations" : {
+    "russian" : "Колониальная администрация, ребята из страховой компании..."
+  },
+  "tokens" : [ {
+    "token" : "colonial",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "administration",
+    "startOffset" : 9,
+    "endOffset" : 23,
+    "position" : 1
+  }, {
+    "token" : "administrate",
+    "startOffset" : 9,
+    "endOffset" : 23,
+    "position" : 1
+  }, {
+    "token" : "insurance",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 2
+  }, {
+    "token" : "company",
+    "startOffset" : 35,
+    "endOffset" : 42,
+    "position" : 3
+  }, {
+    "token" : "guy",
+    "startOffset" : 43,
+    "endOffset" : 47,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7TDPDTAu_IiLfEf_",
+  "text" : "Perhaps when his insurance expires?",
+  "translations" : {
+    "russian" : "Как только закончится страховка?"
+  },
+  "tokens" : [ {
+    "token" : "perhaps",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "when",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "insurance",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "expire",
+    "startOffset" : 27,
+    "endOffset" : 34,
     "position" : 4
   } ],
   "contentScore" : null

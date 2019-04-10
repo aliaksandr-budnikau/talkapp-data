@@ -1,115 +1,354 @@
 [ {
-  "id" : "AWbgiFyZNEXFMlzHK-5e",
-  "text" : "Grave depth And location terrain.",
+  "id" : "AWoEck1FDTAu_IiLeuSi",
+  "text" : "Depth.",
   "translations" : {
-    "russian" : "Глубина захоронения и размещение на местности."
+    "russian" : "Глубинное."
   },
   "tokens" : [ {
-    "token" : "grave",
+    "token" : "depth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEclfsDTAu_IiLeuS8",
+  "text" : "Depth!",
+  "translations" : {
+    "russian" : "Толщина!"
+  },
+  "tokens" : [ {
+    "token" : "depth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcjvtDTAu_IiLeuR7",
+  "text" : "Depth charges!",
+  "translations" : {
+    "russian" : "Глубинные бомбы!"
+  },
+  "tokens" : [ {
+    "token" : "depth",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "depth",
+    "token" : "charge",
     "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEclKkDTAu_IiLeuSu",
+  "text" : "Depth set!",
+  "translations" : {
+    "russian" : "Торпеды."
+  },
+  "tokens" : [ {
+    "token" : "depth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "set",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcjyaDTAu_IiLeuR9",
+  "text" : "Depth charges?",
+  "translations" : {
+    "russian" : "Глубинные бомбы?"
+  },
+  "tokens" : [ {
+    "token" : "depth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "charge",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcjuADTAu_IiLeuR6",
+  "text" : "Depth charges!",
+  "translations" : {
+    "russian" : "Глубинные бомбы."
+  },
+  "tokens" : [ {
+    "token" : "depth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "charge",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEckoIDTAu_IiLeuSa",
+  "text" : "Depth charge.",
+  "translations" : {
+    "russian" : "Глубинная бомба."
+  },
+  "tokens" : [ {
+    "token" : "depth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "charge",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMTurDTAu_IiLeigw",
+  "text" : "GREEK 1X09 Depth Perception.",
+  "translations" : {
+    "russian" : "GREEK 1X09 Ощущение глубины."
+  },
+  "tokens" : [ {
+    "token" : "greek",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "1x09",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "depth",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "perception",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEch2VDTAu_IiLeuQl",
+  "text" : "Depth 58 feet, sir.",
+  "translations" : {
+    "russian" : "Глубина 58 футов, сэр."
+  },
+  "tokens" : [ {
+    "token" : "depth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "58",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "feet",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "sir",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEch5gDTAu_IiLeuQn",
+  "text" : "Depth 45 feet, sir.",
+  "translations" : {
+    "russian" : "Глубина 45 футов, сэр."
+  },
+  "tokens" : [ {
+    "token" : "depth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "45",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "feet",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "sir",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEciqmDTAu_IiLeuRN",
+  "text" : "Good trench depth.",
+  "translations" : {
+    "russian" : "Окоп достаточно глубокий."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "trench",
+    "startOffset" : 5,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "and",
+    "token" : "depth",
     "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEch3jDTAu_IiLeuQm",
+  "text" : "Depth 58 feet, sir.",
+  "translations" : {
+    "russian" : "Глубина 58 футов, сэр."
+  },
+  "tokens" : [ {
+    "token" : "depth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "58",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "feet",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "sir",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEch8bDTAu_IiLeuQp",
+  "text" : "The knowledge, the depth.",
+  "translations" : {
+    "russian" : "Глубина познаний."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "knowledge",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "depth",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEchvADTAu_IiLeuQe",
+  "text" : "Watch our depth!",
+  "translations" : {
+    "russian" : "Держать глубину."
+  },
+  "tokens" : [ {
+    "token" : "watch",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "our",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "depth",
+    "startOffset" : 10,
     "endOffset" : 15,
     "position" : 2
-  }, {
-    "token" : "location",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "locate",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "terrain",
-    "startOffset" : 25,
-    "endOffset" : 32,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgieUKNEXFMlzHK_M3",
-  "text" : "Activate scanners, set for maximum depth.",
+  "id" : "AWoEci02DTAu_IiLeuRU",
+  "text" : "Down to my depth!",
   "translations" : {
-    "russian" : "Включить сканеры, настроить на максимальную глубину."
+    "russian" : "До самого своего дна!"
   },
   "tokens" : [ {
-    "token" : "activate",
+    "token" : "down",
     "startOffset" : 0,
-    "endOffset" : 8,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "scanner",
-    "startOffset" : 9,
-    "endOffset" : 17,
+    "token" : "to",
+    "startOffset" : 5,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "set",
-    "startOffset" : 19,
-    "endOffset" : 22,
+    "token" : "my",
+    "startOffset" : 8,
+    "endOffset" : 10,
     "position" : 2
   }, {
-    "token" : "for",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "maximum",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 4
-  }, {
     "token" : "depth",
-    "startOffset" : 35,
-    "endOffset" : 40,
-    "position" : 5
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqCutNEXFMlzHLJGl",
-  "text" : "Activate scanners, set for maximum depth.",
+  "id" : "AWoEciKnDTAu_IiLeuQ0",
+  "text" : "But the depth.",
   "translations" : {
-    "russian" : "Включить сканеры, настроить на максимальную глубину."
+    "russian" : "Глубоко."
   },
   "tokens" : [ {
-    "token" : "activate",
+    "token" : "but",
     "startOffset" : 0,
-    "endOffset" : 8,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "scanner",
-    "startOffset" : 9,
-    "endOffset" : 17,
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "set",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "maximum",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 4
-  }, {
     "token" : "depth",
-    "startOffset" : 35,
-    "endOffset" : 40,
-    "position" : 5
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoD3PIQDTAu_IiLeTtb",
+  "text" : "It's a... shrimp fest.",
+  "translations" : {
+    "russian" : "Это... креветочный фестиваль."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "shrimp",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "fest",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu2MtNEXFMlzHLP5p",
   "text" : "Even jumbo shrimp?",
   "translations" : {
@@ -55,6 +83,57 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE-mq8DTAu_IiLfG5M",
+  "text" : "Shrimp casserole, half price.",
+  "translations" : {
+    "russian" : "Креветочная запеканка за полцены!"
+  },
+  "tokens" : [ {
+    "token" : "shrimp",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "casserole",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "half",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "price",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1283DTAu_IiLfA7o",
+  "text" : "Shrimping is tough.",
+  "translations" : {
+    "russian" : "Ловля креветок дело непростое."
+  },
+  "tokens" : [ {
+    "token" : "shrimp",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tough",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu2GHNEXFMlzHLP5c",
   "text" : "And a jumbo shrimp cocktail.",
   "translations" : {
@@ -88,24 +167,90 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgv0_LNEXFMlzHLRer",
-  "text" : "You gave him a shrimp tail?",
+  "id" : "AWoEgTzqDTAu_IiLexKF",
+  "text" : "Shrimp basil or veggie fun?",
   "translations" : {
-    "russian" : "Ты дал ему хвосты от креветок?"
+    "russian" : "Креветки с базиликом или овощи?"
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "shrimp",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "gave",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "basil",
+    "startOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "him",
-    "startOffset" : 9,
+    "token" : "or",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "veggie",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "fun",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2vVtDTAu_IiLeTev",
+  "text" : "1989, I was scraping shrimp.",
+  "translations" : {
+    "russian" : "В 1989 я соскребал креветок."
+  },
+  "tokens" : [ {
+    "token" : "1989",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "scrap",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "shrimp",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEV_erDTAu_IiLepxp",
+  "text" : "Look, I made a shrimp claw.",
+  "translations" : {
+    "russian" : "Смотри, я сделал клешню из креветок."
+  },
+  "tokens" : [ {
+    "token" : "look",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "made",
+    "startOffset" : 8,
     "endOffset" : 12,
     "position" : 2
   }, {
@@ -119,7 +264,7 @@
     "endOffset" : 21,
     "position" : 4
   }, {
-    "token" : "tail",
+    "token" : "claw",
     "startOffset" : 22,
     "endOffset" : 26,
     "position" : 5
@@ -160,6 +305,44 @@
     "token" : "shrimp",
     "startOffset" : 29,
     "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgv0_LNEXFMlzHLRer",
+  "text" : "You gave him a shrimp tail?",
+  "translations" : {
+    "russian" : "Ты дал ему хвосты от креветок?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gave",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "him",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "shrimp",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "tail",
+    "startOffset" : 22,
+    "endOffset" : 26,
     "position" : 5
   } ],
   "contentScore" : null

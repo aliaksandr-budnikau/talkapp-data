@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEyfVfDTAu_IiLe-ly",
+  "text" : "Aren't jelly beans more traditional?",
+  "translations" : {
+    "russian" : "Разве драже не более традиционно?"
+  },
+  "tokens" : [ {
+    "token" : "aren't",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "jelly",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "bean",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "more",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "traditional",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrGPANEXFMlzHLKgL",
   "text" : "It's a traditional family sitcom.",
   "translations" : {
@@ -28,6 +61,39 @@
     "token" : "sitcom",
     "startOffset" : 26,
     "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESlG5DTAu_IiLenJf",
+  "text" : "But Marc is so traditional.",
+  "translations" : {
+    "russian" : "Хотя мой Марк такой консервативный."
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "marc",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "so",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "traditional",
+    "startOffset" : 15,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null

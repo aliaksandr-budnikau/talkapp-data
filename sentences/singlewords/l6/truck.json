@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoDT62zDTAu_IiLeALL",
+  "text" : "Decomposing in his truck.",
+  "translations" : {
+    "russian" : "Разлагается в своем грузовике."
+  },
+  "tokens" : [ {
+    "token" : "compose",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "truck",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDczEvDTAu_IiLeFH_",
+  "text" : "Today, a grocery truck.",
+  "translations" : {
+    "russian" : "Сегодня продуктовый магазин."
+  },
+  "tokens" : [ {
+    "token" : "today",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "grocery",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "truck",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDx_JSDTAu_IiLeRFV",
+  "text" : "The Company's armored truck.",
+  "translations" : {
+    "russian" : "Бронированный грузовик Компании."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "company",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "armored",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "armor",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "truck",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzK-XNEXFMlzHLV6k",
   "text" : "Bob Shanghai's food truck.",
   "translations" : {
@@ -27,6 +116,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFAYqcDTAu_IiLfIUm",
+  "text" : "His truck was ambushed.",
+  "translations" : {
+    "russian" : "На их грузовик напали."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "truck",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "ambush",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzKpHNEXFMlzHLV52",
   "text" : "That's a neat truck.",
   "translations" : {
@@ -45,6 +162,85 @@
   }, {
     "token" : "neat",
     "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "truck",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFE592DTAu_IiLfLnv",
+  "text" : "Truck's the common denominator.",
+  "translations" : {
+    "russian" : "Пикап - это общий знаменатель."
+  },
+  "tokens" : [ {
+    "token" : "truck",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "common",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "nominator",
+    "startOffset" : 19,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD0kpqDTAu_IiLeSet",
+  "text" : "Cars. Trucks. Bulldozers.",
+  "translations" : {
+    "russian" : "Машины, грузовики, бульдозеры."
+  },
+  "tokens" : [ {
+    "token" : "car",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "truck",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "bulldoze",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoUqcDTAu_IiLe3Wf",
+  "text" : "Melons in the truck.",
+  "translations" : {
+    "russian" : "Арбузы в грузовике."
+  },
+  "tokens" : [ {
+    "token" : "melon",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
     "endOffset" : 13,
     "position" : 2
   }, {
@@ -126,6 +322,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDyDZuDTAu_IiLeRHt",
+  "text" : "We robbed an armored truck.",
+  "translations" : {
+    "russian" : "Мы напали на инкассаторов, по тем временам рисковый поступок."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "robbed",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "armored",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "armor",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "truck",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyNpJNEXFMlzHLUgP",
   "text" : "That truck's passed three times.",
   "translations" : {
@@ -153,6 +387,39 @@
     "position" : 3
   }, {
     "token" : "time",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjWDQDTAu_IiLfiZ3",
+  "text" : "Start the truck, Sergeant Lapin.",
+  "translations" : {
+    "russian" : "Включить зажигание, сержант."
+  },
+  "tokens" : [ {
+    "token" : "start",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "truck",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "sergeant",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "lapin",
     "startOffset" : 26,
     "endOffset" : 31,
     "position" : 4
@@ -222,262 +489,6 @@
     "startOffset" : 22,
     "endOffset" : 27,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzK5PNEXFMlzHLV6Z",
-  "text" : "Yeah, get another truck, North.",
-  "translations" : {
-    "russian" : "Да-а, найди себе другую тележку, Норт."
-  },
-  "tokens" : [ {
-    "token" : "yeah",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "get",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "another",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "truck",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "north",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "nor",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzKxMNEXFMlzHLV6I",
-  "text" : "I drive a taco truck.",
-  "translations" : {
-    "russian" : "У меня тако на колесах."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "drive",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "taco",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "truck",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzKxbNEXFMlzHLV6J",
-  "text" : "To put my truck down.",
-  "translations" : {
-    "russian" : "Поставлю свою машину на колёса."
-  },
-  "tokens" : [ {
-    "token" : "to",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "put",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "truck",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "down",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzKq0NEXFMlzHLV56",
-  "text" : "They got away in two trucks.",
-  "translations" : {
-    "russian" : "Скрылись на двух грузовиках."
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "away",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "two",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "truck",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzKueNEXFMlzHLV6C",
-  "text" : "You're running parallel to the truck.",
-  "translations" : {
-    "russian" : "Вы едете параллельно с грузовиком."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "running",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "parallel",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 27,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "truck",
-    "startOffset" : 31,
-    "endOffset" : 36,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvJg-NEXFMlzHLQhN",
-  "text" : "Marianne, Customs have found the truck.",
-  "translations" : {
-    "russian" : "Марианн, таможенники нашли грузовик."
-  },
-  "tokens" : [ {
-    "token" : "marianne",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "custom",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "found",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 29,
-    "endOffset" : 32,
-    "position" : 4
-  }, {
-    "token" : "truck",
-    "startOffset" : 33,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzKsSNEXFMlzHLV59",
-  "text" : "They brought a nice red truck.",
-  "translations" : {
-    "russian" : "Они взяли с собой хороший красный грузовик."
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "brought",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "nice",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "red",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "truck",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

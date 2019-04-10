@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWoDxsSvDTAu_IiLeQ75",
+  "text" : "Flag's down, Drifter.",
+  "translations" : {
+    "russian" : "Суши вёсла, бродяга."
+  },
+  "tokens" : [ {
+    "token" : "flag",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "down",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "drifter",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "drift",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDieOeDTAu_IiLeIZV",
+  "text" : "Go up swell and drift down.",
+  "translations" : {
+    "russian" : "Поднимись на гребне и дрейфуй."
+  },
+  "tokens" : [ {
+    "token" : "go",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 3,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "swell",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "drift",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "down",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

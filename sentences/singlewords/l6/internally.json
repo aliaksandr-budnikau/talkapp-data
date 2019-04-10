@@ -1,39 +1,464 @@
 [ {
-  "id" : "AWbgo1l-NEXFMlzHLHfa",
-  "text" : "Eh, that was an internal issue.",
+  "id" : "AWoD-BZrDTAu_IiLeXq7",
+  "text" : "Internal paddles.",
   "translations" : {
-    "russian" : "Это было внутреннее разногласие."
+    "russian" : "Дефибриллятор."
   },
   "tokens" : [ {
-    "token" : "eh",
+    "token" : "internal",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "that",
-    "startOffset" : 4,
+    "token" : "paddle",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEge72DTAu_IiLexS7",
+  "text" : "Internal paddles.",
+  "translations" : {
+    "russian" : "Дефибриллятор."
+  },
+  "tokens" : [ {
+    "token" : "internal",
+    "startOffset" : 0,
     "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "paddle",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEYytDTAu_IiLecmP",
+  "text" : "Internal... and external.",
+  "translations" : {
+    "russian" : "Внутренний и... наружный."
+  },
+  "tokens" : [ {
+    "token" : "internal",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "was",
+    "token" : "external",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuOFrDTAu_IiLe7d5",
+  "text" : "Internal revenue service.",
+  "translations" : {
+    "russian" : "Федеральное налоговое управление."
+  },
+  "tokens" : [ {
+    "token" : "internal",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "revenue",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "venue",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "service",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuNTYDTAu_IiLe7dV",
+  "text" : "Internal Revenue Service.",
+  "translations" : {
+    "russian" : "Внутренняя налоговая служба."
+  },
+  "tokens" : [ {
+    "token" : "internal",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "revenue",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "venue",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "service",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEYPyDTAu_IiLeclz",
+  "text" : "Internal and external labs?",
+  "translations" : {
+    "russian" : "Внутренние и внешние анализы?"
+  },
+  "tokens" : [ {
+    "token" : "internal",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "and",
     "startOffset" : 9,
     "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "external",
+    "startOffset" : 13,
+    "endOffset" : 21,
     "position" : 2
   }, {
+    "token" : "lab",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgeW-DTAu_IiLexSa",
+  "text" : "Internal paddles, please.",
+  "translations" : {
+    "russian" : "Внутренний электрод, пожалуйста."
+  },
+  "tokens" : [ {
+    "token" : "internal",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "paddle",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "please",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEc9HxDTAu_IiLeujw",
+  "text" : "It's an internal beef.",
+  "translations" : {
+    "russian" : "Это их внутренние разборки."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
     "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "internal",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "beef",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwGELDTAu_IiLeQE1",
+  "text" : "Jim Bravura, internal Affairs.",
+  "translations" : {
+    "russian" : "Джим Бравура, Отдел Внутренних Расследований."
+  },
+  "tokens" : [ {
+    "token" : "jim",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bravura",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "internal",
     "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "affair",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-At9DTAu_IiLeXqa",
+  "text" : "Internal paddles, please.",
+  "translations" : {
+    "russian" : "Внутренний электрод, пожалуйста."
+  },
+  "tokens" : [ {
+    "token" : "internal",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "paddle",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "please",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuNSZDTAu_IiLe7dU",
+  "text" : "Bureau of Internal Revenue.",
+  "translations" : {
+    "russian" : "Налоговая служба."
+  },
+  "tokens" : [ {
+    "token" : "bureau",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "internal",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "revenue",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "venue",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvoO0DTAu_IiLePzA",
+  "text" : "She's grappling with herself internally.",
+  "translations" : {
+    "russian" : "Она борется сама с собой."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "grappling",
+    "startOffset" : 6,
     "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "grapple",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "herself",
+    "startOffset" : 21,
+    "endOffset" : 28,
     "position" : 3
   }, {
     "token" : "internal",
-    "startOffset" : 16,
-    "endOffset" : 24,
+    "startOffset" : 29,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2RhsDTAu_IiLeTQ1",
+  "text" : "Internal hemorrhaging, rapid cell deterioration.",
+  "translations" : {
+    "russian" : "Внутреннее кровоизлияние. быстрое клеточное повреждение."
+  },
+  "tokens" : [ {
+    "token" : "internal",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "hemorrhage",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "rapid",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "cell",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "deterioration",
+    "startOffset" : 34,
+    "endOffset" : 47,
     "position" : 4
   }, {
-    "token" : "issue",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 5
+    "token" : "deteriorate",
+    "startOffset" : 34,
+    "endOffset" : 47,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFc8nVDTAu_IiLfeH_",
+  "text" : "Mikhail was in internal counterintelligence.",
+  "translations" : {
+    "russian" : "Михаил был во внутренней контрразведке."
+  },
+  "tokens" : [ {
+    "token" : "mikhail",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "internal",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "counterintelligence",
+    "startOffset" : 24,
+    "endOffset" : 43,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDg6XUDTAu_IiLeHfR",
+  "text" : "Internal hemorrhaging, rapid cell deterioration.",
+  "translations" : {
+    "russian" : "Внутреннее кровоизлияние. быстрое клеточное повреждение."
+  },
+  "tokens" : [ {
+    "token" : "internal",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "hemorrhage",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "rapid",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "cell",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "deterioration",
+    "startOffset" : 34,
+    "endOffset" : 47,
+    "position" : 4
+  }, {
+    "token" : "deteriorate",
+    "startOffset" : 34,
+    "endOffset" : 47,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9atGDTAu_IiLeXNY",
+  "text" : "Head and probable internal injuries.",
+  "translations" : {
+    "russian" : "Вероятное повреждение головы и внутренних органов."
+  },
+  "tokens" : [ {
+    "token" : "head",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "probable",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "prob",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "internal",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "jury",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

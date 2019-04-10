@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoE9KqsDTAu_IiLfFvv",
+  "text" : "Biological mothers, surrogate mothers, lesbian mothers.",
+  "translations" : {
+    "russian" : "Есть биологические матери, суррогатные матери, матери-лесбиянки."
+  },
+  "tokens" : [ {
+    "token" : "biological",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "moth",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "surrogate",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "moth",
+    "startOffset" : 30,
+    "endOffset" : 37,
+    "position" : 3
+  }, {
+    "token" : "lesbian",
+    "startOffset" : 39,
+    "endOffset" : 46,
+    "position" : 4
+  }, {
+    "token" : "moth",
+    "startOffset" : 47,
+    "endOffset" : 54,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcGo-NEXFMlzHK5tx",
   "text" : "Mother and child.",
   "translations" : {
@@ -55,71 +93,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpHVSNEXFMlzHLH12",
-  "text" : "These are my mother.",
+  "id" : "AWoDRxXWDTAu_IiLd-vT",
+  "text" : "A midwife, dear mother!",
   "translations" : {
-    "russian" : "S journalsЭто дневники моей мамы."
-  },
-  "tokens" : [ {
-    "token" : "these",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "mother",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "moth",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxl-WNEXFMlzHLTe0",
-  "text" : "Nice touch, Mother.",
-  "translations" : {
-    "russian" : "Хороший подход, Мама."
-  },
-  "tokens" : [ {
-    "token" : "nice",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "touch",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "mother",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "moth",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcFBMNEXFMlzHK5sR",
-  "text" : "A mother raises her child.",
-  "translations" : {
-    "russian" : "Мать воспитывает своего сына."
+    "russian" : "Акушерку, матушка!"
   },
   "tokens" : [ {
     "token" : "a",
@@ -127,40 +104,101 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "mother",
+    "token" : "midwife",
     "startOffset" : 2,
-    "endOffset" : 8,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "moth",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "raise",
-    "startOffset" : 9,
+    "token" : "dear",
+    "startOffset" : 11,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "her",
+    "token" : "mother",
     "startOffset" : 16,
-    "endOffset" : 19,
+    "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "child",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
+    "token" : "moth",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgejyNNEXFMlzHK72g",
-  "text" : "Sweet mother of sea dragon!",
+  "id" : "AWoDd3nVDTAu_IiLeFt4",
+  "text" : "Mother, we are bankrupt!",
   "translations" : {
-    "russian" : "Милая мать морского дракона!"
+    "russian" : "Мы разорены!"
   },
   "tokens" : [ {
-    "token" : "sweet",
+    "token" : "mother",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "moth",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "we",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "bankrupt",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmkqUDTAu_IiLeKqL",
+  "text" : "Father dead, mother ailing.",
+  "translations" : {
+    "russian" : "Отец мертв, мать болеет."
+  },
+  "tokens" : [ {
+    "token" : "father",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dead",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "mother",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "moth",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "ail",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuf3_DTAu_IiLePGf",
+  "text" : "Unwed mother, no diseases.",
+  "translations" : {
+    "russian" : "Мать-одиночка, без заболеваний."
+  },
+  "tokens" : [ {
+    "token" : "unwed",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
@@ -175,159 +213,159 @@
     "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "of",
+    "token" : "no",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "eases",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1wlIDTAu_IiLeTB9",
+  "text" : "MOTHER I'm a cupboard.",
+  "translations" : {
+    "russian" : "Я буфет."
+  },
+  "tokens" : [ {
+    "token" : "mother",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "moth",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "i'm",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "cupboard",
     "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "sea",
-    "startOffset" : 16,
-    "endOffset" : 19,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "dragon",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvzWLNEXFMlzHLRcJ",
-  "text" : "Mother, put on your mask.",
+  "id" : "AWoEEevyDTAu_IiLecq-",
+  "text" : "They've eluded us, Mother.",
   "translations" : {
-    "russian" : "Мама, надень противогаз."
+    "russian" : "Мамочка, они ускользнули от нас."
   },
   "tokens" : [ {
-    "token" : "mother",
+    "token" : "they've",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "moth",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "put",
+    "token" : "elude",
     "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "mask",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgd78oNEXFMlzHK7TJ",
-  "text" : "Me, which suits his mother!",
-  "translations" : {
-    "russian" : "Мне, которая годится ему в матери!"
-  },
-  "tokens" : [ {
-    "token" : "me",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "which",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "suit",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "his",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "mother",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "moth",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy_jQNEXFMlzHLVit",
-  "text" : "It transferred to my mother.",
-  "translations" : {
-    "russian" : "Оно перешло на мою мать."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "transferred",
-    "startOffset" : 3,
     "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "to",
+    "token" : "us",
     "startOffset" : 15,
     "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "my",
-    "startOffset" : 18,
-    "endOffset" : 20,
+    "token" : "mother",
+    "startOffset" : 19,
+    "endOffset" : 25,
     "position" : 3
   }, {
-    "token" : "mother",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
     "token" : "moth",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsCpiNEXFMlzHLL4e",
-  "text" : "Mother.",
+  "id" : "AWoEMGIiDTAu_IiLeiV1",
+  "text" : "And Wilber's adoptive mother.",
   "translations" : {
-    "russian" : "Give me almsМама, дай мне милостыню."
+    "russian" : "И приемная мать Вилбера."
   },
   "tokens" : [ {
-    "token" : "mother",
+    "token" : "and",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 3,
     "position" : 0
   }, {
+    "token" : "wilber's",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "adoptive",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "adopt",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "mother",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
     "token" : "moth",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
   } ],
-  "contentScore" : "POOR"
+  "contentScore" : null
 }, {
-  "id" : "AWbgsCo0NEXFMlzHLL4d",
-  "text" : "Mother.",
+  "id" : "AWoEXD2fDTAu_IiLeqjP",
+  "text" : "My mother embroidered this.",
   "translations" : {
-    "russian" : "Give me almsМама, дай мне милостыню."
+    "russian" : "Видишь? Это вышила моя мама."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "mother",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "moth",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "embroider",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "this",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi7K3DTAu_IiLezQ_",
+  "text" : "Mother Goose, you pussy!",
+  "translations" : {
+    "russian" : "Ну, что, Гусыня, сладенькая моя!"
   },
   "tokens" : [ {
     "token" : "mother",
@@ -339,6 +377,153 @@
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
+  }, {
+    "token" : "goose",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "pussy",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
   } ],
-  "contentScore" : "POOR"
+  "contentScore" : null
+}, {
+  "id" : "AWoEgmB4DTAu_IiLexY3",
+  "text" : "My mother was Greenlandic.",
+  "translations" : {
+    "russian" : "Моя мать была из Гренландии."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "mother",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "moth",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "greenlandic",
+    "startOffset" : 14,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuDA7DTAu_IiLe7WN",
+  "text" : "Teachable mo- Mother of...",
+  "translations" : {
+    "russian" : "Поучительный м... мать вашу."
+  },
+  "tokens" : [ {
+    "token" : "teachable",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "mo",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "mother",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "moth",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0FdpDTAu_IiLe_t_",
+  "text" : "Holy mother lode!",
+  "translations" : {
+    "russian" : "Святая жила!"
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "mother",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "moth",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "lode",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNuqWDTAu_IiLfSeZ",
+  "text" : "Your mother was Iranian.",
+  "translations" : {
+    "russian" : "Твоя мать была иранкой."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "mother",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "moth",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "iranian",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
 } ]

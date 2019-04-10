@@ -1,105 +1,384 @@
 [ {
-  "id" : "AWbgh10sNEXFMlzHK-sJ",
-  "text" : "So her symptoms appeared previously?",
+  "id" : "AWoEPt5NDTAu_IiLelDU",
+  "text" : "Previously.",
   "translations" : {
-    "russian" : "Значит, ее симптомы проявлялись раньше?"
+    "russian" : "I only had to deal with superiors and subordinatesРаньше-то имел дело только с начальниками и подчинёнными."
   },
   "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "her",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "symptom",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "appear",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
     "token" : "previous",
-    "startOffset" : 25,
-    "endOffset" : 35,
-    "position" : 4
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpX7ANEXFMlzHLIKk",
-  "text" : "So her symptoms appeared previously?",
+  "id" : "AWoDgG2TDTAu_IiLeHBn",
+  "text" : "Previously on Fringe...",
   "translations" : {
-    "russian" : "Значит, ее симптомы проявлялись раньше?"
+    "russian" : "Ранее в сериале..."
   },
   "tokens" : [ {
-    "token" : "so",
+    "token" : "previous",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 10,
     "position" : 0
   }, {
-    "token" : "her",
-    "startOffset" : 3,
-    "endOffset" : 6,
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "symptom",
-    "startOffset" : 7,
-    "endOffset" : 15,
+    "token" : "fringe",
+    "startOffset" : 14,
+    "endOffset" : 20,
     "position" : 2
-  }, {
-    "token" : "appear",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "previous",
-    "startOffset" : 25,
-    "endOffset" : 35,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkgaGNEXFMlzHLBDW",
-  "text" : "That was previously a conservation area...",
+  "id" : "AWoDgINPDTAu_IiLeHCX",
+  "text" : "Previously on Fringe...",
   "translations" : {
-    "russian" : "Это был раньше Заповедник..."
+    "russian" : "В предыдущих сериях..."
   },
   "tokens" : [ {
-    "token" : "that",
+    "token" : "previous",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 10,
     "position" : 0
   }, {
-    "token" : "was",
-    "startOffset" : 5,
-    "endOffset" : 8,
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
     "position" : 1
   }, {
+    "token" : "fringe",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgILmDTAu_IiLeHCW",
+  "text" : "Previously on fringe...",
+  "translations" : {
+    "russian" : "В предыдущих сериях..."
+  },
+  "tokens" : [ {
     "token" : "previous",
-    "startOffset" : 9,
-    "endOffset" : 19,
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "fringe",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaev2DTAu_IiLes5E",
+  "text" : "Previously on heroes.",
+  "translations" : {
+    "russian" : "В предыдущих сериях."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "heroes",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaezBDTAu_IiLes5G",
+  "text" : "Previously on Heroes.",
+  "translations" : {
+    "russian" : "В предыдущей серии."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "heroes",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZ-gGDTAu_IiLeDe5",
+  "text" : "Previously on Harper's Island.",
+  "translations" : {
+    "russian" : "В ПРЕДЫДУЩИХ СЕРИЯХ..."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "harper",
+    "startOffset" : 14,
+    "endOffset" : 22,
     "position" : 2
   }, {
-    "token" : "a",
-    "startOffset" : 20,
+    "token" : "island",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZ-hvDTAu_IiLeDe6",
+  "text" : "Previously on Harper's Island.",
+  "translations" : {
+    "russian" : "В ПРЕДЫДУЩИХ СЕРИЯХ..."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "harper",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "island",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZ-lYDTAu_IiLeDe8",
+  "text" : "Previously on Harper's island.",
+  "translations" : {
+    "russian" : "В ПРЕДЫДУЩИХ СЕРИЯХ..."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "harper",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "island",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgIFqDTAu_IiLeHCT",
+  "text" : "Previously on Fringe.",
+  "translations" : {
+    "russian" : "В предыдущих сериях."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "fringe",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaes6DTAu_IiLes5C",
+  "text" : "Previously, on Heroes...",
+  "translations" : {
+    "russian" : "В предыдущих сериях.."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "heroes",
+    "startOffset" : 15,
     "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaexTDTAu_IiLes5F",
+  "text" : "Previously on Heroes...",
+  "translations" : {
+    "russian" : "В предыдущих сериях.."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "heroes",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaeoxDTAu_IiLes4_",
+  "text" : "Previously on Heroes.",
+  "translations" : {
+    "russian" : "В предыдущих сериях."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "heroes",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaequDTAu_IiLes5A",
+  "text" : "Previously on Heroes.",
+  "translations" : {
+    "russian" : "В предыдущих сериях."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "heroes",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVTRNDTAu_IiLfYLT",
+  "text" : "Previously, on Cedar Cove...",
+  "translations" : {
+    "russian" : "Ранее в сериале..."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "cedar",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "cove",
+    "startOffset" : 21,
+    "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZ-jhDTAu_IiLeDe7",
+  "text" : "Previously on Harper's Island...",
+  "translations" : {
+    "russian" : "В ПРЕДЫДУЩИХ СЕРИЯХ..."
+  },
+  "tokens" : [ {
+    "token" : "previous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
   }, {
-    "token" : "conservation",
-    "startOffset" : 22,
-    "endOffset" : 34,
-    "position" : 4
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
   }, {
-    "token" : "area",
-    "startOffset" : 35,
-    "endOffset" : 39,
-    "position" : 5
+    "token" : "harper",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "island",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

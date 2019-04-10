@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoEepJyDTAu_IiLev2F",
+  "text" : "It's atomic fuel.",
+  "translations" : {
+    "russian" : "Атомное топливо."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "atomic",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fuel",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgl-9dNEXFMlzHLDG0",
   "text" : "Reef, arm atomic warheads.",
   "translations" : {
@@ -24,6 +47,115 @@
     "startOffset" : 17,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgMhwDTAu_IiLfgcF",
+  "text" : "Atomic Cauldron detonation canceled.",
+  "translations" : {
+    "russian" : "Самоуничтожение отменено."
+  },
+  "tokens" : [ {
+    "token" : "atomic",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cauldron",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "detonation",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "detonate",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "canceled",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "cancel",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgMZyDTAu_IiLfgcA",
+  "text" : "Atomic Cauldron detonation countdown initiated.",
+  "translations" : {
+    "russian" : "Начинается обратный отчёт до самоуничтожения."
+  },
+  "tokens" : [ {
+    "token" : "atomic",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cauldron",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "detonation",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "detonate",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "countdown",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 3
+  }, {
+    "token" : "initiate",
+    "startOffset" : 37,
+    "endOffset" : 46,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgLqRDTAu_IiLfgbi",
+  "text" : "Atomic Cauldron fusion increased 2,000.",
+  "translations" : {
+    "russian" : "Синтез Ядерного Котла увеличен на 2000."
+  },
+  "tokens" : [ {
+    "token" : "atomic",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cauldron",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "fusion",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "crease",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "2,000",
+    "startOffset" : 33,
+    "endOffset" : 38,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

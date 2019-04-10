@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFM-3JDTAu_IiLfR7g",
+  "text" : "She's a stage actress.",
+  "translations" : {
+    "russian" : "Она истинная, сценическая актриса."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "stage",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "actress",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggWhNNEXFMlzHK9ZW",
   "text" : "No, we're actresses.",
   "translations" : {
@@ -153,6 +181,34 @@
     "token" : "julian",
     "startOffset" : 18,
     "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMlOUDTAu_IiLfRoT",
+  "text" : "She's a stage actress.",
+  "translations" : {
+    "russian" : "Она истинная, сценическая актриса."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "stage",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "actress",
+    "startOffset" : 14,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
@@ -414,82 +470,6 @@
   "contentScore" : null
 }, {
   "id" : "AWbggzO8NEXFMlzHK9yB",
-  "text" : "She's more of a character actress.",
-  "translations" : {
-    "russian" : "Она, скорее, актриса на характерных ролях."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "more",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "character",
-    "startOffset" : 16,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "actress",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggWfQNEXFMlzHK9ZU",
-  "text" : "I'm just an actress, like you.",
-  "translations" : {
-    "russian" : "Я просто актриса, как и ты."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "just",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "an",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "actress",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "like",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "you",
-    "startOffset" : 26,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggW8KNEXFMlzHK9Zp",
   "text" : "She's more of a character actress.",
   "translations" : {
     "russian" : "Она, скорее, актриса на характерных ролях."

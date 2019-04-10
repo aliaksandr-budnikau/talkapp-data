@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoExq_JDTAu_IiLe9_X",
+  "text" : "Kind, compassionate, generous.",
+  "translations" : {
+    "russian" : "Добрым, сострадательным, щедрым. Ты заказал все серии?"
+  },
+  "tokens" : [ {
+    "token" : "kind",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "compassionate",
+    "startOffset" : 6,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "generous",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsSkaNEXFMlzHLMO0",
   "text" : "Or a generous donor?",
   "translations" : {
@@ -24,6 +47,29 @@
     "startOffset" : 14,
     "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7SxDDTAu_IiLeVna",
+  "text" : "Courteous and generous.",
+  "translations" : {
+    "russian" : "Любезны и щедры."
+  },
+  "tokens" : [ {
+    "token" : "courteous",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "generous",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {

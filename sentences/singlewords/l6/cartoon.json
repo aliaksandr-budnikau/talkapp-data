@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoDP8-pDTAu_IiLd9eg",
+  "text" : "Cartoons have writers?",
+  "translations" : {
+    "russian" : "У мультиков есть сценаристы?"
+  },
+  "tokens" : [ {
+    "token" : "cartoon",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "writ",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgo5JdNEXFMlzHLHkV",
   "text" : "That cartoon was disgusting.",
   "translations" : {
@@ -28,6 +51,34 @@
     "token" : "gusting",
     "startOffset" : 17,
     "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFW4adDTAu_IiLfZQ-",
+  "text" : "Assorted cartoon sound effects.",
+  "translations" : {
+    "russian" : "Разные мультипликационные звуки."
+  },
+  "tokens" : [ {
+    "token" : "assort",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "cartoon",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "sound",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "effect",
+    "startOffset" : 23,
+    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null

@@ -1,0 +1,52 @@
+[ {
+  "id" : "AWoFWMNbDTAu_IiLfYxr",
+  "text" : "Right, storekeeper?",
+  "translations" : {
+    "russian" : "Верно, лавочник?"
+  },
+  "tokens" : [ {
+    "token" : "right",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "storekeeper",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "storekeep",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWMSuDTAu_IiLfYxu",
+  "text" : "No clerks, no storekeepers.",
+  "translations" : {
+    "russian" : "Никаких клерков или владельцев магазинов."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "clerk",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "storekeep",
+    "startOffset" : 14,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+} ]

@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoET0pjDTAu_IiLeoGB",
+  "text" : "No fun.",
+  "translations" : {
+    "russian" : "Muddy.Грязь."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "fun",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVBwtDTAu_IiLeA4S",
+  "text" : "Fun anecdote.",
+  "translations" : {
+    "russian" : "Забавная история."
+  },
+  "tokens" : [ {
+    "token" : "fun",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "anecdote",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiwiNNEXFMlzHK_cQ",
   "text" : "Sounds like fun.",
   "translations" : {
@@ -46,6 +82,34 @@
     "token" : "fun",
     "startOffset" : 15,
     "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0t_kDTAu_IiLfAKA",
+  "text" : "Wen Zhang, have fun!",
+  "translations" : {
+    "russian" : "Вен Чанг, веселись!"
+  },
+  "tokens" : [ {
+    "token" : "wen",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "zhang",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "fun",
+    "startOffset" : 16,
+    "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null
@@ -157,6 +221,90 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEG2mIDTAu_IiLeebt",
+  "text" : "We're having fun! Whoopee!",
+  "translations" : {
+    "russian" : "Нам весело!"
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "fun",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "whoopee",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEX8EADTAu_IiLerLV",
+  "text" : "You gals have fun.",
+  "translations" : {
+    "russian" : "Вам, девчонки, будет весело."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gal",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "fun",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQjR_DTAu_IiLfUqC",
+  "text" : "My cubicle was fun.",
+  "translations" : {
+    "russian" : "Моя кабина была веселой."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "cubicle",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "fun",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcTOVNEXFMlzHK55J",
   "text" : "Family fun night, right.",
   "translations" : {
@@ -261,169 +409,6 @@
     "startOffset" : 19,
     "endOffset" : 22,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqSCINEXFMlzHLJbo",
-  "text" : "Doesn't that sound fun?",
-  "translations" : {
-    "russian" : "Разве это не здорово?"
-  },
-  "tokens" : [ {
-    "token" : "doesn't",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "sound",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "fun",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsewWNEXFMlzHLMgX",
-  "text" : "Family fun night, right.",
-  "translations" : {
-    "russian" : "Вечер развлечений для всей семьи, ясно."
-  },
-  "tokens" : [ {
-    "token" : "family",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "fun",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "night",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "right",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgse1eNEXFMlzHLMgg",
-  "text" : "No tickets, no fun.",
-  "translations" : {
-    "russian" : "Нет билетов, нет развлечений."
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "ticket",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "no",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "fun",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguqaZNEXFMlzHLPi6",
-  "text" : "That'd be fun, right?",
-  "translations" : {
-    "russian" : "Вот было бы здорово, да?"
-  },
-  "tokens" : [ {
-    "token" : "that'd",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "be",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "fun",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "right",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsfh5NEXFMlzHLMhW",
-  "text" : "Okay boys, fun's over.",
-  "translations" : {
-    "russian" : "Окей мальчики, шутки в сторону."
-  },
-  "tokens" : [ {
-    "token" : "okay",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "boy",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "fun",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "over",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguqgQNEXFMlzHLPjK",
-  "text" : "It's fun, right?",
-  "translations" : {
-    "russian" : "Здорово, да?"
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "fun",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "right",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
   } ],
   "contentScore" : null
 } ]

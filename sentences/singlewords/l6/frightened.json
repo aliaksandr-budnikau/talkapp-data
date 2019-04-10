@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoDS_bdDTAu_IiLd_j8",
+  "text" : "The priest is frightened, Alma.",
+  "translations" : {
+    "russian" : "В чем дело, Отто? Священник напуган, Альма."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "priest",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pry",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "frighten",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "alma",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbhzYNEXFMlzHK5Mo",
   "text" : "He's frightened of new ways.",
   "translations" : {
@@ -27,6 +65,82 @@
   }, {
     "token" : "way",
     "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaFu1DTAu_IiLeso_",
+  "text" : "Geological disturbances don't frighten me.",
+  "translations" : {
+    "russian" : "Геологические всплески не пугают меня."
+  },
+  "tokens" : [ {
+    "token" : "geological",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "disturbance",
+    "startOffset" : 11,
+    "endOffset" : 23,
+    "position" : 1
+  }, {
+    "token" : "don't",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "frighten",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 3
+  }, {
+    "token" : "fright",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 3
+  }, {
+    "token" : "me",
+    "startOffset" : 39,
+    "endOffset" : 41,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXhJSDTAu_IiLfZvH",
+  "text" : "Slopes frighten me, you see.",
+  "translations" : {
+    "russian" : "Дело в том, что крутые склоны пугают меня."
+  },
+  "tokens" : [ {
+    "token" : "slope",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "frighten",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "fright",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "you",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "see",
+    "startOffset" : 24,
     "endOffset" : 27,
     "position" : 4
   } ],

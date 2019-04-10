@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoEKRHNDTAu_IiLeg33",
+  "text" : "Seagulls screeching.",
+  "translations" : {
+    "russian" : "Кричат чайки."
+  },
+  "tokens" : [ {
+    "token" : "seagull",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "screech",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKRJaDTAu_IiLeg35",
+  "text" : "Seagull screeching, metallic clang.",
+  "translations" : {
+    "russian" : "Кричит чайка, лязгает металл."
+  },
+  "tokens" : [ {
+    "token" : "seagull",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "screech",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "metallic",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "clang",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyQUiNEXFMlzHLUlx",
   "text" : "Out there is a seagull.",
   "translations" : {

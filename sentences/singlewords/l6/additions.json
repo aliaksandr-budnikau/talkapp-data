@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFKVRCDTAu_IiLfP6w",
+  "text" : "It's a wondrous addition.",
+  "translations" : {
+    "russian" : "Это чудесное дополнение к празднику."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "wondrous",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "addition",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwBJLNEXFMlzHLRul",
   "text" : "That aerial's a recent addition.",
   "translations" : {
@@ -28,6 +56,72 @@
     "token" : "addition",
     "startOffset" : 23,
     "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKwSSDTAu_IiLfQPW",
+  "text" : "In addition to the plum.",
+  "translations" : {
+    "russian" : "В дополнении к сливе."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "addition",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "plum",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKwQuDTAu_IiLfQPV",
+  "text" : "In addition to the plum?",
+  "translations" : {
+    "russian" : "В дополнении к сливе?"
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "addition",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "plum",
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 4
   } ],
   "contentScore" : null

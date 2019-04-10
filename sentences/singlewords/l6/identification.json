@@ -32,6 +32,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE9HPGDTAu_IiLfFtK",
+  "text" : "Identification documents for Lien Mah.",
+  "translations" : {
+    "russian" : "Документы Лиен Ма."
+  },
+  "tokens" : [ {
+    "token" : "identification",
+    "startOffset" : 0,
+    "endOffset" : 14,
+    "position" : 0
+  }, {
+    "token" : "identify",
+    "startOffset" : 0,
+    "endOffset" : 14,
+    "position" : 0
+  }, {
+    "token" : "document",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "lien",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "mah",
+    "startOffset" : 34,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqLfRNEXFMlzHLJSv",
   "text" : "They didn't show any identification.",
   "translations" : {
@@ -66,6 +104,100 @@
     "token" : "identify",
     "startOffset" : 21,
     "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDm5OxDTAu_IiLeK1u",
+  "text" : "No disturbances identified.",
+  "translations" : {
+    "russian" : "Нарушений не зарегистрировано."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "disturbance",
+    "startOffset" : 3,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "identified",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "identify",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtKtXDTAu_IiLe6wr",
+  "text" : "Acknowledge and identify yourself.",
+  "translations" : {
+    "russian" : "Подтвердите и идентифицируйте себя."
+  },
+  "tokens" : [ {
+    "token" : "acknowledge",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "identify",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "yourself",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRat4DTAu_IiLd-gG",
+  "text" : "Source identified as light accelerator.",
+  "translations" : {
+    "russian" : "Источник идентифицирован как световой ускоритель."
+  },
+  "tokens" : [ {
+    "token" : "source",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "identified",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "identify",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "as",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "light",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "accelerator",
+    "startOffset" : 27,
+    "endOffset" : 38,
     "position" : 4
   } ],
   "contentScore" : null
@@ -105,6 +237,196 @@
     "startOffset" : 29,
     "endOffset" : 38,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEppe9DTAu_IiLe4U6",
+  "text" : "Identify the subject, verb and complement.",
+  "translations" : {
+    "russian" : "Укажи подлежащее, сказуемое и дополнение."
+  },
+  "tokens" : [ {
+    "token" : "identify",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "subject",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "verb",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "complement",
+    "startOffset" : 31,
+    "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEswCGDTAu_IiLe6el",
+  "text" : "Identify the subject, verb and complement.",
+  "translations" : {
+    "russian" : "Укажи подлежащее, сказуемое и дополнение."
+  },
+  "tokens" : [ {
+    "token" : "identify",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "subject",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "verb",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "complement",
+    "startOffset" : 31,
+    "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEA6wsDTAu_IiLeZ39",
+  "text" : "This device will identify these vibrations.",
+  "translations" : {
+    "russian" : "Это устройство распознает эти колебания."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "vice",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "will",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "identify",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "these",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "vibrate",
+    "startOffset" : 32,
+    "endOffset" : 42,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsxiEDTAu_IiLe6fo",
+  "text" : "Identify the subject, verb and complement.",
+  "translations" : {
+    "russian" : "Укажи подлежащее, сказуемое и дополнение."
+  },
+  "tokens" : [ {
+    "token" : "identify",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "subject",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "verb",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "complement",
+    "startOffset" : 31,
+    "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEArWnDTAu_IiLeZsO",
+  "text" : "This device will identify these vibrations.",
+  "translations" : {
+    "russian" : "Это устройство распознает эти колебания."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "vice",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "will",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "identify",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "these",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "vibrate",
+    "startOffset" : 32,
+    "endOffset" : 42,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

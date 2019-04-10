@@ -1,4 +1,94 @@
 [ {
+  "id" : "AWoEyepSDTAu_IiLe-lS",
+  "text" : "Jelly beans!",
+  "translations" : {
+    "russian" : "Конфетки!"
+  },
+  "tokens" : [ {
+    "token" : "jelly",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bean",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEye1fDTAu_IiLe-lb",
+  "text" : "Jelly bean?",
+  "translations" : {
+    "russian" : "Конфетку хочешь?"
+  },
+  "tokens" : [ {
+    "token" : "jelly",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bean",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyc9CDTAu_IiLe-kH",
+  "text" : "Jelly bean!",
+  "translations" : {
+    "russian" : "Мармеладка!"
+  },
+  "tokens" : [ {
+    "token" : "jelly",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bean",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD77_5DTAu_IiLeWEl",
+  "text" : "Sumptuous beans.",
+  "translations" : {
+    "russian" : "Великолепные бобы."
+  },
+  "tokens" : [ {
+    "token" : "sumptuous",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "bean",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyc8DDTAu_IiLe-kG",
+  "text" : "Jelly bean!",
+  "translations" : {
+    "russian" : "Мармеладка! Мармеладка!"
+  },
+  "tokens" : [ {
+    "token" : "jelly",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bean",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgni2nNEXFMlzHLFoC",
   "text" : "Roast the beans myself.",
   "translations" : {
@@ -27,36 +117,258 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnTw7NEXFMlzHLFOw",
-  "text" : "You slice the green beans.",
+  "id" : "AWoEyd3LDTAu_IiLe-kt",
+  "text" : "Those are jelly beans.",
   "translations" : {
-    "russian" : "Ты нарезай зеленую фасоль."
+    "russian" : "Это желейные бобы."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "those",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "jelly",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "bean",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyfQHDTAu_IiLe-lu",
+  "text" : "Mom liked jelly beans.",
+  "translations" : {
+    "russian" : "Мама любила драже."
+  },
+  "tokens" : [ {
+    "token" : "mom",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "slice",
+    "token" : "liked",
     "startOffset" : 4,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "the",
+    "token" : "jelly",
     "startOffset" : 10,
-    "endOffset" : 13,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "green",
-    "startOffset" : 14,
-    "endOffset" : 19,
+    "token" : "bean",
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyexWDTAu_IiLe-lY",
+  "text" : "Hey, Jelly Bean.",
+  "translations" : {
+    "russian" : "Привет, конфетка."
+  },
+  "tokens" : [ {
+    "token" : "hey",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "jelly",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
   }, {
     "token" : "bean",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyetrDTAu_IiLe-lV",
+  "text" : "Oh, jelly bean.",
+  "translations" : {
+    "russian" : "О, конфетка."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "jelly",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "bean",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyZP1DTAu_IiLe-ha",
+  "text" : "I like jelly beans.",
+  "translations" : {
+    "russian" : "Мне нравятся конфеты - желе."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "like",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "jelly",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bean",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyc2cDTAu_IiLe-kB",
+  "text" : "Hey, Jelly Bean.",
+  "translations" : {
+    "russian" : "Привет, мармеладка."
+  },
+  "tokens" : [ {
+    "token" : "hey",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "jelly",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "bean",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyemXDTAu_IiLe-lQ",
+  "text" : "I'm sorry, jelly beans.",
+  "translations" : {
+    "russian" : "Простите, конфетки."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sorry",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "jelly",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "bean",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyeu6DTAu_IiLe-lW",
+  "text" : "Oh, jelly bean.",
+  "translations" : {
+    "russian" : "О, конфетка."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "jelly",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "bean",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDReIcDTAu_IiLd-ic",
+  "text" : "3 acres for beans.",
+  "translations" : {
+    "russian" : "Три акра на бобы!"
+  },
+  "tokens" : [ {
+    "token" : "3",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "acre",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "bean",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyc1dDTAu_IiLe-kA",
+  "text" : "Sorry, Jelly Bean.",
+  "translations" : {
+    "russian" : "Прости, мармеладка."
+  },
+  "tokens" : [ {
+    "token" : "sorry",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "jelly",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "bean",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

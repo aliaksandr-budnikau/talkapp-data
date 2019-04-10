@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEdYmeDTAu_IiLeu3q",
+  "text" : "I don't represent thugs.",
+  "translations" : {
+    "russian" : "Я хулиганов не представляю."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "don't",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "represent",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "thug",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvweHNEXFMlzHLRZ3",
   "text" : "These cones represent, uh...",
   "translations" : {
@@ -24,6 +52,128 @@
     "startOffset" : 23,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExJ7dDTAu_IiLe9m8",
+  "text" : "I represent the Diocese.",
+  "translations" : {
+    "russian" : "Я представляю Епархию."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "represent",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "diocese",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdKijDTAu_IiLfeSY",
+  "text" : "These cones represent, uh...",
+  "translations" : {
+    "russian" : "Конусы символизируют..."
+  },
+  "tokens" : [ {
+    "token" : "these",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "e",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "represent",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "uh",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDU1isDTAu_IiLeAwd",
+  "text" : "All you represent is anarchy.",
+  "translations" : {
+    "russian" : "Анархия - вот всё, что ты олицетворяешь."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "represent",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "anarchy",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEW70KDTAu_IiLeqdW",
+  "text" : "Something to represent my strides.",
+  "translations" : {
+    "russian" : "Заявляющая о моём успехе."
+  },
+  "tokens" : [ {
+    "token" : "something",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "represent",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "stride",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -56,6 +206,39 @@
     "token" : "interest",
     "startOffset" : 24,
     "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4oobDTAu_IiLeUXQ",
+  "text" : "Is she into representing vandals?",
+  "translations" : {
+    "russian" : "А она может представлять вандалов?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "she",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "into",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "represent",
+    "startOffset" : 12,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "vandal",
+    "startOffset" : 25,
+    "endOffset" : 32,
     "position" : 4
   } ],
   "contentScore" : null
@@ -120,6 +303,39 @@
     "position" : 3
   }, {
     "token" : "interest",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQDk6DTAu_IiLfUP-",
+  "text" : "Well, you represent the plaintiff.",
+  "translations" : {
+    "russian" : "Ну, вы представляете истца."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "represent",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "plaintiff",
     "startOffset" : 24,
     "endOffset" : 33,
     "position" : 4
@@ -231,6 +447,82 @@
     "token" : "poor",
     "startOffset" : 37,
     "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8F8-DTAu_IiLeWLj",
+  "text" : "How sublime to see someone represent...",
+  "translations" : {
+    "russian" : "Как это возвышено, и даже более того. И так прекрасно я это изображаю..."
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sublime",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "see",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "someone",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "represent",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcAxkDTAu_IiLfdbM",
+  "text" : "And now, representing the Langley Conservatives.",
+  "translations" : {
+    "russian" : "И сейчас, представляя консерваторов Лэнгли."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "now",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "represent",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "langley",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "conservative",
+    "startOffset" : 34,
+    "endOffset" : 47,
     "position" : 5
   } ],
   "contentScore" : null

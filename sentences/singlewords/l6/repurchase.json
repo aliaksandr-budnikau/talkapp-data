@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoFC-r-DTAu_IiLfKQo",
+  "text" : "Not the purchasing, the requisitioning.",
+  "translations" : {
+    "russian" : "Не за закупку. За реквизицию."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "purchase",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "requisition",
+    "startOffset" : 24,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghqZINEXFMlzHK-iO",
   "text" : "Good purchase, twist and pull.",
   "translations" : {
@@ -62,6 +95,44 @@
     "startOffset" : 26,
     "endOffset" : 34,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEx-ohDTAu_IiLe-N4",
+  "text" : "Excuse me, I purchased that baton.",
+  "translations" : {
+    "russian" : "Простите, я купила эту дубинку."
+  },
+  "tokens" : [ {
+    "token" : "excuse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "i",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "purchase",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "that",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "baton",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

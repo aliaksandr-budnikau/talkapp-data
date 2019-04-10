@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoDeBwsDTAu_IiLeFzo",
+  "text" : "Bitching drum solo.",
+  "translations" : {
+    "russian" : "Классное соло на ударных."
+  },
+  "tokens" : [ {
+    "token" : "bitch",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "drum",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "solo",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFg1ELDTAu_IiLfg1C",
+  "text" : "Burglary is a solo sport.",
+  "translations" : {
+    "russian" : "Кража со взломом - это индивидуальный спорт."
+  },
+  "tokens" : [ {
+    "token" : "burglary",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "solo",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "sport",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoZ83NEXFMlzHLG3Z",
   "text" : "A Zoltan Kodaly solo piece.",
   "translations" : {
@@ -29,6 +85,77 @@
     "startOffset" : 21,
     "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMOeZDTAu_IiLeici",
+  "text" : "Han Solo, the Rebellion general?",
+  "translations" : {
+    "russian" : "Хан Соло, генерал Повстанцев?"
+  },
+  "tokens" : [ {
+    "token" : "han",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "solo",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "rebellion",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "general",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYQL_DTAu_IiLeCdp",
+  "text" : "Yeah, well, solo apprehensions are tough.",
+  "translations" : {
+    "russian" : "Да, аресты в одиночку - непростая задача."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "well",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "solo",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "apprehension",
+    "startOffset" : 17,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "are",
+    "startOffset" : 31,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "tough",
+    "startOffset" : 35,
+    "endOffset" : 40,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

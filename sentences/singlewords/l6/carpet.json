@@ -1,4 +1,149 @@
 [ {
+  "id" : "AWoEJhVUDTAu_IiLegUQ",
+  "text" : "Carpet fibers?",
+  "translations" : {
+    "russian" : "Ковровое волокно?"
+  },
+  "tokens" : [ {
+    "token" : "carpet",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fib",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDxnaqDTAu_IiLeQ5j",
+  "text" : "Wandering across your carpet.",
+  "translations" : {
+    "russian" : "Блуждающей по вашему ковру."
+  },
+  "tokens" : [ {
+    "token" : "wander",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "across",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "carpet",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8adsDTAu_IiLfFOp",
+  "text" : "Cork insulation and carpet!",
+  "translations" : {
+    "russian" : "Пробковая изоляция и ковер!"
+  },
+  "tokens" : [ {
+    "token" : "cork",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "insulation",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "insulate",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "carpet",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPeEgDTAu_IiLd9NW",
+  "text" : "They're consistent with automobile carpet.",
+  "translations" : {
+    "russian" : "Они похожи на волокна от автомобильного покрытия."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "consistent",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "automobile",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "carpet",
+    "startOffset" : 35,
+    "endOffset" : 41,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEADCLDTAu_IiLeZM6",
+  "text" : "An upturned carpet and- whoops!",
+  "translations" : {
+    "russian" : "Споткнулась об ковер и упс!"
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "upturn",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "carpet",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "whoop",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjevoNEXFMlzHLAC8",
   "text" : "Footprints in the shag carpet.",
   "translations" : {
@@ -28,6 +173,39 @@
     "token" : "carpet",
     "startOffset" : 23,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlR_EDTAu_IiLeJ9A",
+  "text" : "Yeah right, Berbers are carpets.",
+  "translations" : {
+    "russian" : "Ерунда! Берберы это ковры."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "right",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "berber",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "carpet",
+    "startOffset" : 24,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null
@@ -66,6 +244,82 @@
     "token" : "clean",
     "startOffset" : 23,
     "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFexxnDTAu_IiLffcr",
+  "text" : "And apparently pooping on the carpet.",
+  "translations" : {
+    "russian" : "И, очевидно, гадить на ковёр."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "apparently",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "poop",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "carpet",
+    "startOffset" : 30,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDkOnoDTAu_IiLeJYY",
+  "text" : "I bet your carpets are immaculate.",
+  "translations" : {
+    "russian" : "Готов поспорить, что твои ковры безукоризненны."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "bet",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "carpet",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "are",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "immaculate",
+    "startOffset" : 23,
+    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null

@@ -27,6 +27,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD8pBjDTAu_IiLeWnm",
+  "text" : "Willow's Clearing, back to Dawn.",
+  "translations" : {
+    "russian" : "На Ивовую Поляну, к Дон."
+  },
+  "tokens" : [ {
+    "token" : "willow",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "clearing",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "back",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "dawn",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnpCCNEXFMlzHLFyh",
   "text" : "Is this about clearing your name?",
   "translations" : {
@@ -61,6 +94,44 @@
     "token" : "name",
     "startOffset" : 28,
     "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8pCxDTAu_IiLeWnn",
+  "text" : "We should head to Willow's Clearing.",
+  "translations" : {
+    "russian" : "Нужно идти на Ивовую Поляну."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "should",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "head",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "willow",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "clearing",
+    "startOffset" : 27,
+    "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null

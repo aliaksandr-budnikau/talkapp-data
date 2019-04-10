@@ -1,4 +1,73 @@
 [ {
+  "id" : "AWoFTYuhDTAu_IiLfW0w",
+  "text" : "Dwarf fighter.",
+  "translations" : {
+    "russian" : "Дворф боец."
+  },
+  "tokens" : [ {
+    "token" : "dwarf",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fighter",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "fight",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhBZ6DTAu_IiLexuW",
+  "text" : "Fighter Griffon.",
+  "translations" : {
+    "russian" : "Многоцелевой истребитель Грифон."
+  },
+  "tokens" : [ {
+    "token" : "fighter",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "fight",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "griffon",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTbBUDTAu_IiLfW2Y",
+  "text" : "Dwarf fighter.",
+  "translations" : {
+    "russian" : "Дворф боец."
+  },
+  "tokens" : [ {
+    "token" : "dwarf",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fighter",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "fight",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguzsKNEXFMlzHLP0r",
   "text" : "You're here, fighters.",
   "translations" : {
@@ -23,6 +92,72 @@
     "token" : "fight",
     "startOffset" : 13,
     "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6-3EDTAu_IiLfESv",
+  "text" : "Hardened crime fighter.",
+  "translations" : {
+    "russian" : "Закаленный борец с преступностью."
+  },
+  "tokens" : [ {
+    "token" : "hardened",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "harden",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "crime",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "fighter",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "fight",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeHWHDTAu_IiLfe9q",
+  "text" : "Muster your fighters.",
+  "translations" : {
+    "russian" : "Собирайте своих бойцов."
+  },
+  "tokens" : [ {
+    "token" : "muster",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "must",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fighter",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "fight",
+    "startOffset" : 12,
+    "endOffset" : 20,
     "position" : 2
   } ],
   "contentScore" : null
@@ -192,6 +327,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFBG9VDTAu_IiLfI4C",
+  "text" : "I'm a retired fighter pilot.",
+  "translations" : {
+    "russian" : "Я отставной лётчик-истребитель."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "tired",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "fighter",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "fight",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "pilot",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguz25NEXFMlzHLP08",
   "text" : "Your fighters take on challengers.",
   "translations" : {
@@ -340,219 +513,6 @@
     "token" : "fight",
     "startOffset" : 25,
     "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzJJGNEXFMlzHLV2s",
-  "text" : "Come on. Stop fighting.",
-  "translations" : {
-    "russian" : "Перестаньте драться!"
-  },
-  "tokens" : [ {
-    "token" : "come",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "on",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "stop",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "fighting",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "fight",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgon0CNEXFMlzHLHMg",
-  "text" : "Animals don't stop fighting.",
-  "translations" : {
-    "russian" : "Они дерутся до конца."
-  },
-  "tokens" : [ {
-    "token" : "animal",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "don't",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "stop",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "fighting",
-    "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "fight",
-    "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzJInNEXFMlzHLV2r",
-  "text" : "Stop the fighting, boys.",
-  "translations" : {
-    "russian" : "Ребята, перестаньте драться!"
-  },
-  "tokens" : [ {
-    "token" : "stop",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "fighting",
-    "startOffset" : 9,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "fight",
-    "startOffset" : 9,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "boy",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy8gbNEXFMlzHLVc0",
-  "text" : "Training for my big fight.",
-  "translations" : {
-    "russian" : "Готовлюсь к своему большому бою."
-  },
-  "tokens" : [ {
-    "token" : "training",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "train",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "big",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "fight",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy8ZiNEXFMlzHLVcm",
-  "text" : "Training for his first fight.",
-  "translations" : {
-    "russian" : "Готовимся к первому бою."
-  },
-  "tokens" : [ {
-    "token" : "training",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "train",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "his",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "first",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "fight",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpJs0NEXFMlzHLH49",
-  "text" : "You're fighting that eviction notice?",
-  "translations" : {
-    "russian" : "Ты борешься против этого уведомления?"
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "fighting",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "fight",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "eviction",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "notice",
-    "startOffset" : 30,
-    "endOffset" : 36,
     "position" : 4
   } ],
   "contentScore" : null

@@ -60,6 +60,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoETsEUDTAu_IiLen_Y",
+  "text" : "Colorful, durable blankets and rugs.",
+  "translations" : {
+    "russian" : "Разноцветные, прочные покрывала и ковры."
+  },
+  "tokens" : [ {
+    "token" : "colorful",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "durable",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "blanket",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "rug",
+    "startOffset" : 31,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglrj8NEXFMlzHLC30",
   "text" : "Well, that's a colorful backstory.",
   "translations" : {
@@ -89,6 +122,44 @@
     "token" : "backstory",
     "startOffset" : 24,
     "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1fBsDTAu_IiLfArb",
+  "text" : "How about a colorful rooster?",
+  "translations" : {
+    "russian" : "Как на счет разноцветного петуха?"
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "about",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "colorful",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "rooster",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "roost",
+    "startOffset" : 21,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null

@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoFb81zDTAu_IiLfdYJ",
+  "text" : "Competing technologies.",
+  "translations" : {
+    "russian" : "Конкурирующие технологии."
+  },
+  "tokens" : [ {
+    "token" : "compete",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "technology",
+    "startOffset" : 10,
+    "endOffset" : 22,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMgrXDTAu_IiLfRkp",
+  "text" : "Massachusetts institute of technology.",
+  "translations" : {
+    "russian" : "Масачуссетский технологический институт."
+  },
+  "tokens" : [ {
+    "token" : "massachusetts",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "institute",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "technology",
+    "startOffset" : 27,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxpGwNEXFMlzHLTlS",
   "text" : "Spies love technology upgrades.",
   "translations" : {
@@ -27,78 +73,411 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdV3LNEXFMlzHK60_",
-  "text" : "In our present state of technology?",
+  "id" : "AWoFP3g7DTAu_IiLfUGN",
+  "text" : "Computers, technology, visitations.",
   "translations" : {
-    "russian" : "С нашими нынешними возможностями и технологиями?"
+    "russian" : "Компьютеры, технологии, посещения."
   },
   "tokens" : [ {
-    "token" : "in",
+    "token" : "compute",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 9,
     "position" : 0
   }, {
-    "token" : "our",
-    "startOffset" : 3,
-    "endOffset" : 6,
+    "token" : "technology",
+    "startOffset" : 11,
+    "endOffset" : 21,
     "position" : 1
   }, {
-    "token" : "present",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "state",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "of",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "technology",
-    "startOffset" : 24,
+    "token" : "visitation",
+    "startOffset" : 23,
     "endOffset" : 34,
-    "position" : 5
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpupdNEXFMlzHLIqk",
-  "text" : "In our present state of technology?",
+  "id" : "AWoFTYs9DTAu_IiLfW0v",
+  "text" : "Dwarf Star Technologies.",
   "translations" : {
-    "russian" : "С нашими нынешними возможностями и технологиями?"
+    "russian" : "Дворф Стар Технолоджис."
   },
   "tokens" : [ {
-    "token" : "in",
+    "token" : "dwarf",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "star",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "technology",
+    "startOffset" : 11,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9zTZDTAu_IiLeXgT",
+  "text" : "My technology is superior.",
+  "translations" : {
+    "russian" : "У меня превосходящие технологии."
+  },
+  "tokens" : [ {
+    "token" : "my",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "our",
+    "token" : "technology",
     "startOffset" : 3,
-    "endOffset" : 6,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "present",
-    "startOffset" : 7,
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "superior",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTa__DTAu_IiLfW2X",
+  "text" : "Dwarf Star Technologies.",
+  "translations" : {
+    "russian" : "Дворф Стар Технолоджис."
+  },
+  "tokens" : [ {
+    "token" : "dwarf",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "star",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "technology",
+    "startOffset" : 11,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoENmJXDTAu_IiLejfX",
+  "text" : "So what's this revolutionary technology.",
+  "translations" : {
+    "russian" : "Итак, что же это за революционная технология."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "what",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 10,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "state",
+    "token" : "revolutionary",
     "startOffset" : 15,
-    "endOffset" : 20,
+    "endOffset" : 28,
     "position" : 3
   }, {
+    "token" : "technology",
+    "startOffset" : 29,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvxO3DTAu_IiLe8jF",
+  "text" : "A technology we can't duplicate.",
+  "translations" : {
+    "russian" : "Технология, которую нам не повторить."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "technology",
+    "startOffset" : 2,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "we",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "can't",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "duplicate",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvuEcDTAu_IiLe8g1",
+  "text" : "A technology we can't duplicate.",
+  "translations" : {
+    "russian" : "Технология, которую нам не повторить."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "technology",
+    "startOffset" : 2,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "we",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "can't",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "duplicate",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwG1bDTAu_IiLe8zM",
+  "text" : "A technology we can't duplicate.",
+  "translations" : {
+    "russian" : "Технология, которую нам не повторить."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "technology",
+    "startOffset" : 2,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "we",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "can't",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "duplicate",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLtI4DTAu_IiLfQ-V",
+  "text" : "Cloning technology turned that around.",
+  "translations" : {
+    "russian" : "Наша технология клонирования изменила эту ситуацию."
+  },
+  "tokens" : [ {
+    "token" : "clone",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "technology",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "turned",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "turn",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "that",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "around",
+    "startOffset" : 31,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMgvPDTAu_IiLfRks",
+  "text" : "The Royal Institute of Technology.",
+  "translations" : {
+    "russian" : "Королевский технологический институт."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "royal",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "institute",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
     "token" : "of",
-    "startOffset" : 21,
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "technology",
+    "startOffset" : 23,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD3m8YDTAu_IiLeT4q",
+  "text" : "Someone's imported some high technology.",
+  "translations" : {
+    "russian" : "Кто-то импортировал сюда некоторые высокие технологии."
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "import",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "some",
+    "startOffset" : 19,
     "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "high",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "technology",
+    "startOffset" : 29,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExSnmDTAu_IiLe9tZ",
+  "text" : "Not the most sophisticated technology.",
+  "translations" : {
+    "russian" : "Не самая сложная технология."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "most",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "sophisticated",
+    "startOffset" : 13,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "sophisticate",
+    "startOffset" : 13,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "technology",
+    "startOffset" : 27,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqr9LDTAu_IiLeM0r",
+  "text" : "People of goodwill plus modern technology.",
+  "translations" : {
+    "russian" : "Люди доброй воли плюс современная техника."
+  },
+  "tokens" : [ {
+    "token" : "people",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "goodwill",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "plus",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "modern",
+    "startOffset" : 24,
+    "endOffset" : 30,
     "position" : 4
   }, {
     "token" : "technology",
-    "startOffset" : 24,
-    "endOffset" : 34,
+    "startOffset" : 31,
+    "endOffset" : 41,
     "position" : 5
   } ],
   "contentScore" : null

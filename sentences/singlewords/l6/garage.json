@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoDPcViDTAu_IiLd9MV",
+  "text" : "Automobiles. Garages.",
+  "translations" : {
+    "russian" : "Автомобили!"
+  },
+  "tokens" : [ {
+    "token" : "automobile",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "garage",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeZP9NEXFMlzHK7s9",
   "text" : "Parking garage, St. George's hospital.",
   "translations" : {
@@ -71,6 +89,72 @@
     "token" : "hospital",
     "startOffset" : 29,
     "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5g9XDTAu_IiLeUwI",
+  "text" : "Ask round the garages hereabouts.",
+  "translations" : {
+    "russian" : "Поспрашивай в местных мастерских."
+  },
+  "tokens" : [ {
+    "token" : "ask",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "round",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "garage",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "hereabout",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5gCbDTAu_IiLeUvw",
+  "text" : "Ask round the garages hereabouts.",
+  "translations" : {
+    "russian" : "Поспрашивай в местных мастерских."
+  },
+  "tokens" : [ {
+    "token" : "ask",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "round",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "garage",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "hereabout",
+    "startOffset" : 22,
+    "endOffset" : 32,
     "position" : 4
   } ],
   "contentScore" : null

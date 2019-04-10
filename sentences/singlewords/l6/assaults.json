@@ -1,4 +1,228 @@
 [ {
+  "id" : "AWoEK4DdDTAu_IiLehWb",
+  "text" : "Assault, assault, petty larceny, felony assault.",
+  "translations" : {
+    "russian" : "Разбойное нападение, опять нападение, мелкая кража, тяжкое уголовное преступление."
+  },
+  "tokens" : [ {
+    "token" : "assault",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "assault",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "petty",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "larceny",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "felony",
+    "startOffset" : 33,
+    "endOffset" : 39,
+    "position" : 4
+  }, {
+    "token" : "assault",
+    "startOffset" : 40,
+    "endOffset" : 47,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDt8-QDTAu_IiLeOxE",
+  "text" : "Pimping, extortion, assault.",
+  "translations" : {
+    "russian" : "Сутенерство, вымогательство, насилие."
+  },
+  "tokens" : [ {
+    "token" : "pimp",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "extortion",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "assault",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDxv2KDTAu_IiLeQ9o",
+  "text" : "All Prowlers terminate assault!",
+  "translations" : {
+    "russian" : "Всем Мародерам прекратить атаку!"
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "prowl",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "terminate",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "assault",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5g5LDTAu_IiLfDW8",
+  "text" : "Strangled, repeatedly sexually assaulted.",
+  "translations" : {
+    "russian" : "У всех следы удушения и многократного изнасилования."
+  },
+  "tokens" : [ {
+    "token" : "strangle",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "repeated",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "sexual",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 2
+  }, {
+    "token" : "assault",
+    "startOffset" : 31,
+    "endOffset" : 40,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5wnbDTAu_IiLfDhJ",
+  "text" : "Strangled, repeatedly sexually assaulted.",
+  "translations" : {
+    "russian" : "У всех следы удушения и многократного изнасилования."
+  },
+  "tokens" : [ {
+    "token" : "strangle",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "repeated",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "sexual",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 2
+  }, {
+    "token" : "assault",
+    "startOffset" : 31,
+    "endOffset" : 40,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETduhDTAu_IiLen0c",
+  "text" : "Multiple assaults, extortion.",
+  "translations" : {
+    "russian" : "Множество нападений, вымогательство."
+  },
+  "tokens" : [ {
+    "token" : "multiple",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "assault",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "extortion",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFg2ibDTAu_IiLfg15",
+  "text" : "Larceny, drug dealing, assault.",
+  "translations" : {
+    "russian" : "Воровство, торговля наркотиками, нападение."
+  },
+  "tokens" : [ {
+    "token" : "larceny",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "drug",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "dealing",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "deal",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "assault",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFg7-sDTAu_IiLfg5b",
+  "text" : "Burglary and assault.",
+  "translations" : {
+    "russian" : "Нападение и угроза оружием."
+  },
+  "tokens" : [ {
+    "token" : "burglary",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "assault",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmNNKNEXFMlzHLDfd",
   "text" : "You assaulted Brian Pullman.",
   "translations" : {
@@ -23,6 +247,67 @@
     "token" : "pullman",
     "startOffset" : 20,
     "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgf6hDTAu_IiLeHPz",
+  "text" : "Assault, stalking with intent.",
+  "translations" : {
+    "russian" : "Нападение, преследование с умыслом."
+  },
+  "tokens" : [ {
+    "token" : "assault",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "stalk",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "intent",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "tent",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5_YKDTAu_IiLfDrc",
+  "text" : "Strangled, repeatedly sexually assaulted.",
+  "translations" : {
+    "russian" : "У всех следы удушения и многократного изнасилования."
+  },
+  "tokens" : [ {
+    "token" : "strangle",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "repeated",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "sexual",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 2
+  }, {
+    "token" : "assault",
+    "startOffset" : 31,
+    "endOffset" : 40,
     "position" : 3
   } ],
   "contentScore" : null
@@ -61,6 +346,105 @@
     "token" : "check",
     "startOffset" : 25,
     "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcuH5DTAu_IiLeFFS",
+  "text" : "Assault them with canoe paddles.",
+  "translations" : {
+    "russian" : "Возникает желание ударить их веслом от каноэ."
+  },
+  "tokens" : [ {
+    "token" : "assault",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "them",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "canoe",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "paddle",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEK38YDTAu_IiLehWU",
+  "text" : "Aggravated assault, larceny and arson.",
+  "translations" : {
+    "russian" : "Нападение, кража и поджог."
+  },
+  "tokens" : [ {
+    "token" : "aggravate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "assault",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "larceny",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "arson",
+    "startOffset" : 32,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFg2kCDTAu_IiLfg16",
+  "text" : "Whoa, grand larceny and assault.",
+  "translations" : {
+    "russian" : "Воровство и нападение."
+  },
+  "tokens" : [ {
+    "token" : "whoa",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "grand",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "larceny",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "assault",
+    "startOffset" : 24,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null

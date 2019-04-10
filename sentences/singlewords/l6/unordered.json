@@ -103,6 +103,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDRB0hDTAu_IiLd-Os",
+  "text" : "Who ordered quince tea?",
+  "translations" : {
+    "russian" : "Кто заказывал чай из айвы? Я."
+  },
+  "tokens" : [ {
+    "token" : "who",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ordered",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "order",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "quince",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "tea",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgp6PYNEXFMlzHLI6z",
   "text" : "You ordered the Satan special?",
   "translations" : {
@@ -175,6 +208,44 @@
     "token" : "order",
     "startOffset" : 21,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1pIXDTAu_IiLeS-o",
+  "text" : "We haven't ordered a sideboard.",
+  "translations" : {
+    "russian" : "Мы не заказывали сервант."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "haven't",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ordered",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "order",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 19,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "sideboard",
+    "startOffset" : 21,
+    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null
@@ -293,6 +364,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE5RudDTAu_IiLfDMg",
+  "text" : "I ordered to detain them.",
+  "translations" : {
+    "russian" : "Я распорядился задержать."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "ordered",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "order",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "detain",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "them",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgp8khNEXFMlzHLI-K",
   "text" : "I've ordered another CT scan.",
   "translations" : {
@@ -407,116 +516,78 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgp6hsNEXFMlzHLI7R",
-  "text" : "And hold fire until ordered!",
+  "id" : "AWoDhjyQDTAu_IiLeH4G",
+  "text" : "You ordered a ham sandwich.",
   "translations" : {
-    "russian" : "И стреляйте, пока я не прикажу прекратить."
+    "russian" : "Вы заказали сэндвич с ветчиной."
   },
   "tokens" : [ {
-    "token" : "and",
+    "token" : "you",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "hold",
+    "token" : "ordered",
     "startOffset" : 4,
-    "endOffset" : 8,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "fire",
-    "startOffset" : 9,
+    "token" : "order",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "until",
+    "token" : "ham",
     "startOffset" : 14,
-    "endOffset" : 19,
+    "endOffset" : 17,
     "position" : 3
   }, {
-    "token" : "ordered",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "order",
-    "startOffset" : 20,
-    "endOffset" : 27,
+    "token" : "sandwich",
+    "startOffset" : 18,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgp9iRNEXFMlzHLI_d",
-  "text" : "Just what this doctor ordered.",
+  "id" : "AWoD12-LDTAu_IiLeTEo",
+  "text" : "We haven't ordered a sideboard.",
   "translations" : {
-    "russian" : "То, что доктор прописал."
+    "russian" : "Мы не заказывали сервант."
   },
   "tokens" : [ {
-    "token" : "just",
+    "token" : "we",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "what",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "token" : "haven't",
+    "startOffset" : 3,
+    "endOffset" : 10,
     "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "doctor",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
   }, {
     "token" : "ordered",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "order",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgp9UmNEXFMlzHLI_J",
-  "text" : "Just what the Doctor ordered.",
-  "translations" : {
-    "russian" : "Прямо то, что доктор прописал."
-  },
-  "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "what",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
+    "startOffset" : 11,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "doctor",
-    "startOffset" : 14,
+    "token" : "order",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 19,
     "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "ordered",
+    "token" : "sideboard",
     "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "order",
-    "startOffset" : 21,
-    "endOffset" : 28,
+    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null

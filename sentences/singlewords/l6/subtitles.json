@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoFInN-DTAu_IiLfOhe",
+  "text" : "Edition English subtitle.",
+  "translations" : {
+    "russian" : "Редакция русских субтитров."
+  },
+  "tokens" : [ {
+    "token" : "edition",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "english",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "subtitle",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgi20HNEXFMlzHK_hp",
   "text" : "Subtitles by Red Bee Media Ltd.",
   "translations" : {
@@ -565,44 +588,6 @@
     "token" : "ltd",
     "startOffset" : 27,
     "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqWliNEXFMlzHLJiG",
-  "text" : "Can you watch movies without subtitles?",
-  "translations" : {
-    "russian" : "Можете смотреть кино без субтитров?"
-  },
-  "tokens" : [ {
-    "token" : "can",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "watch",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "movie",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "without",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "subtitle",
-    "startOffset" : 29,
-    "endOffset" : 38,
     "position" : 5
   } ],
   "contentScore" : null

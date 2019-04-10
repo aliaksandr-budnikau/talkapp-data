@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoECShsDTAu_IiLea79",
+  "text" : "What's the spiral shell?",
+  "translations" : {
+    "russian" : "Что за спиральная раковина?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "spiral",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "shell",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfkovNEXFMlzHK8vG",
   "text" : "The shells start to fall.",
   "translations" : {
@@ -28,6 +56,176 @@
     "token" : "fall",
     "startOffset" : 20,
     "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhVFwDTAu_IiLex9m",
+  "text" : "LSB- Shell casing clatters -RSB.",
+  "translations" : {
+    "russian" : "Стучит по корпусу."
+  },
+  "tokens" : [ {
+    "token" : "lsb",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "shell",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "casing",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "case",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "clatter",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "rsb",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJTTYDTAu_IiLfPGA",
+  "text" : "It's a depleted uranium shell.",
+  "translations" : {
+    "russian" : "Пули из обедненного урана."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "deplete",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "uranium",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "shell",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQAUhDTAu_IiLfUNQ",
+  "text" : "It's a depleted uranium shell.",
+  "translations" : {
+    "russian" : "Пули из обедненного урана."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "deplete",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "uranium",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "shell",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJVWKDTAu_IiLfPHu",
+  "text" : "It's a depleted uranium shell.",
+  "translations" : {
+    "russian" : "Пули из обедненного урана."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "deplete",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "uranium",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "shell",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFRLNDTAu_IiLfL4j",
+  "text" : "Old brass plate, the shell.",
+  "translations" : {
+    "russian" : "Старая латунная тарелка, эта скорлупа."
+  },
+  "tokens" : [ {
+    "token" : "old",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "brass",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "plate",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "shell",
+    "startOffset" : 21,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null
@@ -65,6 +263,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFeIeJDTAu_IiLfe-g",
+  "text" : "I need soft shells and culls.",
+  "translations" : {
+    "russian" : "Мне нужна мягких оболочек и отбирает."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "need",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "soft",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "shell",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "cull",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnhITNEXFMlzHLFlK",
   "text" : "I'll fry you in your shells.",
   "translations" : {
@@ -99,6 +335,82 @@
     "token" : "shell",
     "startOffset" : 21,
     "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnYQKDTAu_IiLeLGv",
+  "text" : "19 15 By a continuous shelling.",
+  "translations" : {
+    "russian" : "19 15 ПОД НЕПРЕРЫВНЫМ АРТИЛЛЕРИЙСКИМ ОБСТРЕЛОМ."
+  },
+  "tokens" : [ {
+    "token" : "19",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "15",
+    "startOffset" : 3,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "by",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 3
+  }, {
+    "token" : "continuous",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "shell",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDR8h9DTAu_IiLd-2-",
+  "text" : "The alarm - the air shell's breached.",
+  "translations" : {
+    "russian" : "Тревога - сайт нарушил оболочка воздуха."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "alarm",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "air",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "shell",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "breach",
+    "startOffset" : 28,
+    "endOffset" : 36,
     "position" : 5
   } ],
   "contentScore" : null

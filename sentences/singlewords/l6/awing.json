@@ -1,4 +1,76 @@
 [ {
+  "id" : "AWoEhMEoDTAu_IiLex2h",
+  "text" : "Aw, Griffin!",
+  "translations" : {
+    "russian" : "О, Гриффин!"
+  },
+  "tokens" : [ {
+    "token" : "aw",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "griffin",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPx6HDTAu_IiLfUBu",
+  "text" : "Aw, Trace.",
+  "translations" : {
+    "russian" : "Трейс."
+  },
+  "tokens" : [ {
+    "token" : "aw",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "trace",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExbnbDTAu_IiLe90D",
+  "text" : "Aw, meanie.",
+  "translations" : {
+    "russian" : "Вот злюка."
+  },
+  "tokens" : [ {
+    "token" : "aw",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "meanie",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESBt8DTAu_IiLemus",
+  "text" : "Aw, fudge!",
+  "translations" : {
+    "russian" : "О, блин!"
+  },
+  "tokens" : [ {
+    "token" : "aw",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "fudge",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqPUWNEXFMlzHLJX_",
   "text" : "Aw, that sounds sweet.",
   "translations" : {
@@ -23,6 +95,67 @@
     "token" : "sweet",
     "startOffset" : 16,
     "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQJMaDTAu_IiLd9mW",
+  "text" : "Aw, you look agitated.",
+  "translations" : {
+    "russian" : "О, ты уже на взводе."
+  },
+  "tokens" : [ {
+    "token" : "aw",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "look",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "agitated",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "agitate",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD0TvkDTAu_IiLeSWc",
+  "text" : "Aw, that's all bluster.",
+  "translations" : {
+    "russian" : "А, сплошное хвастовство."
+  },
+  "tokens" : [ {
+    "token" : "aw",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "all",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "bluster",
+    "startOffset" : 15,
+    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
@@ -85,6 +218,118 @@
     "startOffset" : 17,
     "endOffset" : 20,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMxrnDTAu_IiLei4V",
+  "text" : "Aw, they're adorable!",
+  "translations" : {
+    "russian" : "Оу, они восхитительны!"
+  },
+  "tokens" : [ {
+    "token" : "aw",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "they're",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "adorable",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "adore",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRVzPDTAu_IiLfVSk",
+  "text" : "Leg before wicket. Aw!",
+  "translations" : {
+    "russian" : "Нога перед калиткой!"
+  },
+  "tokens" : [ {
+    "token" : "leg",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "before",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "wicket",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "aw",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETfsxDTAu_IiLen2H",
+  "text" : "Breathing laboriously Aw, see.",
+  "translations" : {
+    "russian" : "Ну вот."
+  },
+  "tokens" : [ {
+    "token" : "breathing",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "breath",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "laborious",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "aw",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "see",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8QkvDTAu_IiLfFIR",
+  "text" : "Aw, shut up!",
+  "translations" : {
+    "russian" : "Эй, заткнитесь!"
+  },
+  "tokens" : [ {
+    "token" : "aw",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "shut",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "up",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -154,10 +399,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgiolcNEXFMlzHK_Vu",
-  "text" : "Aw, look at this shot.",
+  "id" : "AWoDzAkODTAu_IiLeRpv",
+  "text" : "Aw. My very first sling.",
   "translations" : {
-    "russian" : "Посмотри на этот кадр."
+    "russian" : "Моя первая повязка."
   },
   "tokens" : [ {
     "token" : "aw",
@@ -165,24 +410,24 @@
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "look",
+    "token" : "my",
     "startOffset" : 4,
-    "endOffset" : 8,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "at",
-    "startOffset" : 9,
+    "token" : "very",
+    "startOffset" : 7,
     "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "this",
+    "token" : "first",
     "startOffset" : 12,
-    "endOffset" : 16,
+    "endOffset" : 17,
     "position" : 3
   }, {
-    "token" : "shot",
-    "startOffset" : 17,
-    "endOffset" : 21,
+    "token" : "sling",
+    "startOffset" : 18,
+    "endOffset" : 23,
     "position" : 4
   } ],
   "contentScore" : null

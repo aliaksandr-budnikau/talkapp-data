@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoDZzlxDTAu_IiLeDXx",
+  "text" : "Architectural salvage.",
+  "translations" : {
+    "russian" : "Архитектурный утиль."
+  },
+  "tokens" : [ {
+    "token" : "architectural",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "salvage",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglQiGNEXFMlzHLCN0",
   "text" : "Some salvaged precious friendships.",
   "translations" : {
@@ -62,6 +80,44 @@
     "startOffset" : 30,
     "endOffset" : 37,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFa6lSDTAu_IiLfckV",
+  "text" : "They must be salvaging the components.",
+  "translations" : {
+    "russian" : "Это, должно быть, утилизация компонентов."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "must",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "salvage",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "component",
+    "startOffset" : 27,
+    "endOffset" : 37,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

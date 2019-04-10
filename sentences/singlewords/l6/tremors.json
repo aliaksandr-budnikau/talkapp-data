@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEZam0DTAu_IiLesMA",
+  "text" : "Those are harmonic tremors.",
+  "translations" : {
+    "russian" : "Это были гармонические толчки."
+  },
+  "tokens" : [ {
+    "token" : "those",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "harmonic",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "tremor",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjRB8NEXFMlzHK_4T",
   "text" : "You saw the tremor, right?",
   "translations" : {
@@ -127,6 +155,44 @@
     "token" : "tremor",
     "startOffset" : 39,
     "endOffset" : 46,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJhDPDTAu_IiLegUE",
+  "text" : "Tremors in the muscle fiber.",
+  "translations" : {
+    "russian" : "Тремор мышечных волокон."
+  },
+  "tokens" : [ {
+    "token" : "tremor",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "muscle",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "fiber",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "fib",
+    "startOffset" : 22,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null

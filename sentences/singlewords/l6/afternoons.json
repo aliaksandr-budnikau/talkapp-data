@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoEZQGYDTAu_IiLesFD",
+  "text" : "Hanover resort. Good afternoon.",
+  "translations" : {
+    "russian" : "Курорт Ганновера."
+  },
+  "tokens" : [ {
+    "token" : "hanover",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "resort",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "sort",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "good",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "afternoon",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFR3ExDTAu_IiLfVrc",
+  "text" : "Good afternoon, candidate.",
+  "translations" : {
+    "russian" : "Добрый день, кандидат."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "afternoon",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "candidate",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtFZRNEXFMlzHLNTb",
   "text" : "Good afternoon, ladies!",
   "translations" : {
@@ -22,6 +78,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEw5bpDTAu_IiLe9af",
+  "text" : "For the afternoon repast.",
+  "translations" : {
+    "russian" : "Для полуденной трапезы."
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "afternoon",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "repast",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghEurNEXFMlzHK-BX",
   "text" : "Good afternoon, ladies!",
   "translations" : {
@@ -39,6 +123,29 @@
     "position" : 1
   }, {
     "token" : "lady",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7FcjDTAu_IiLeVd7",
+  "text" : "Good afternoon, Jasper.",
+  "translations" : {
+    "russian" : "Добрый день, Джаспер."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "afternoon",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "jasper",
     "startOffset" : 16,
     "endOffset" : 22,
     "position" : 2
@@ -79,6 +186,39 @@
     "token" : "afternoon",
     "startOffset" : 25,
     "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEmJWDTAu_IiLecw0",
+  "text" : "Afternoon, ladies, come on in.",
+  "translations" : {
+    "russian" : "Добрый день, леди, заходите."
+  },
+  "tokens" : [ {
+    "token" : "afternoon",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "lady",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "come",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 24,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "in",
+    "startOffset" : 27,
+    "endOffset" : 29,
     "position" : 4
   } ],
   "contentScore" : null
@@ -258,6 +398,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFXTTCDTAu_IiLfZkt",
+  "text" : "Clinic starts 2.00 sharp, this afternoon.",
+  "translations" : {
+    "russian" : "Консультация открывается ровно в 2 часа."
+  },
+  "tokens" : [ {
+    "token" : "clinic",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "start",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "2.00",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "sharp",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "this",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "afternoon",
+    "startOffset" : 31,
+    "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyPRrNEXFMlzHLUjm",
   "text" : "Should I cancel this afternoon's elective?",
   "translations" : {
@@ -292,6 +470,44 @@
     "token" : "elective",
     "startOffset" : 33,
     "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYT_5DTAu_IiLeCfm",
+  "text" : "We, uh, apprehended him this afternoon.",
+  "translations" : {
+    "russian" : "Мы задержали его сегодня вечером."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "uh",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "apprehend",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "him",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "this",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "afternoon",
+    "startOffset" : 29,
+    "endOffset" : 38,
     "position" : 5
   } ],
   "contentScore" : null

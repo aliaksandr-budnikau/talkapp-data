@@ -1,4 +1,83 @@
 [ {
+  "id" : "AWoDpnyUDTAu_IiLeMOQ",
+  "text" : "Ash's biographer.",
+  "translations" : {
+    "russian" : "Мортимер Кроппер? Биограф Эша."
+  },
+  "tokens" : [ {
+    "token" : "ash",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "biographer",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "biograph",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUrYLDTAu_IiLfXva",
+  "text" : "Chestnut. Ash.",
+  "translations" : {
+    "russian" : "Каштан,Ясень..."
+  },
+  "tokens" : [ {
+    "token" : "chestnut",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "ash",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFh4n2DTAu_IiLfhd8",
+  "text" : "Ashes to ashes, robust to dust.",
+  "translations" : {
+    "russian" : "Пепел к пеплу, крепкий к праху."
+  },
+  "tokens" : [ {
+    "token" : "ash",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "ash",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "robust",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "dust",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrua4NEXFMlzHLLbR",
   "text" : "Ashes from a signal fire!",
   "translations" : {
@@ -28,6 +107,77 @@
     "token" : "fire",
     "startOffset" : 20,
     "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWnUWDTAu_IiLeBwU",
+  "text" : "Entrepreneur rises from the ashes.",
+  "translations" : {
+    "russian" : "Предприниматель восстаёт из пепла."
+  },
+  "tokens" : [ {
+    "token" : "entrepreneur",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "rise",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "from",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "ash",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvRr7DTAu_IiLe8Mr",
+  "text" : "Ash, trembling aspen and lime.",
+  "translations" : {
+    "russian" : "Ясень, дрожащие осины и лайм."
+  },
+  "tokens" : [ {
+    "token" : "ash",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "tremble",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "aspen",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "asp",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "lime",
+    "startOffset" : 25,
+    "endOffset" : 29,
     "position" : 4
   } ],
   "contentScore" : null
@@ -94,6 +244,39 @@
     "token" : "sea",
     "startOffset" : 22,
     "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEP2aHDTAu_IiLelJr",
+  "text" : "You can't outrun evil, Ash!",
+  "translations" : {
+    "russian" : "От зла не убежишь, Эш!"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "can't",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "outrun",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "evil",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "ash",
+    "startOffset" : 23,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null
@@ -169,6 +352,44 @@
   }, {
     "token" : "imagine",
     "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFggfxDTAu_IiLfgoj",
+  "text" : "To the cottage. For the ashes.",
+  "translations" : {
+    "russian" : "В загородный дом, чтобы развеять прах."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "cottage",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "ash",
+    "startOffset" : 24,
     "endOffset" : 29,
     "position" : 5
   } ],

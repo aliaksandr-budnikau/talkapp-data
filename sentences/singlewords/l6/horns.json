@@ -1,4 +1,139 @@
 [ {
+  "id" : "AWoDTUukDTAu_IiLd_yc",
+  "text" : "Horns? Embouchure.",
+  "translations" : {
+    "russian" : "Снимите мундштуки."
+  },
+  "tokens" : [ {
+    "token" : "horn",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "embouchure",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBW8PDTAu_IiLeaNO",
+  "text" : "Horns, pointed tail, pitchfork.",
+  "translations" : {
+    "russian" : "Рога, острый хвост, вилы."
+  },
+  "tokens" : [ {
+    "token" : "horn",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pointed",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "point",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "tail",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "pitchfork",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCWwcDTAu_IiLfJzZ",
+  "text" : "The fog horn.",
+  "translations" : {
+    "russian" : "Туманный горн."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "fog",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "horn",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFefAFDTAu_IiLffO3",
+  "text" : "The teeth, hooves, horns...",
+  "translations" : {
+    "russian" : "И нет лошади."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "teeth",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "tee",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "hooves",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "horn",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjs20DTAu_IiLfim3",
+  "text" : "Awesome air horn, Kens.",
+  "translations" : {
+    "russian" : "Отличный пневмогудок, Кензи."
+  },
+  "tokens" : [ {
+    "token" : "awesome",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "air",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "horn",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "ken",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgb4pXNEXFMlzHK5hD",
   "text" : "I'll blow my horn.",
   "translations" : {
@@ -23,6 +158,255 @@
     "token" : "horn",
     "startOffset" : 13,
     "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFegYyDTAu_IiLffP9",
+  "text" : "The teeth, hooves, horns...",
+  "translations" : {
+    "russian" : "И нет лошади."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "teeth",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "tee",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "hooves",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "horn",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBE2VDTAu_IiLeZ_n",
+  "text" : "Tires Squeal Horn Honking.",
+  "translations" : {
+    "russian" : "Визжит покрышка Сигналят."
+  },
+  "tokens" : [ {
+    "token" : "tires",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "tire",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "squeal",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "horn",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "honk",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBHaPDTAu_IiLeaBj",
+  "text" : "Tires Squeal Horn Honking.",
+  "translations" : {
+    "russian" : "Визжит покрышка Сигналят."
+  },
+  "tokens" : [ {
+    "token" : "tires",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "tire",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "squeal",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "horn",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "honk",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKO06DTAu_IiLeg2N",
+  "text" : "Tires Screeching, Horn Honking.",
+  "translations" : {
+    "russian" : "Визг шин, гудки."
+  },
+  "tokens" : [ {
+    "token" : "tires",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "tire",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "screech",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "horn",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "honk",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKPmvDTAu_IiLeg2z",
+  "text" : "Horn honking, tires screech.",
+  "translations" : {
+    "russian" : "Сигналит машина, визжат шины."
+  },
+  "tokens" : [ {
+    "token" : "horn",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "honk",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tires",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "tire",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "screech",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4igADTAu_IiLfCvB",
+  "text" : "SHIP'S HORN BLOWING.",
+  "translations" : {
+    "russian" : "КОРАБЕЛЬНЫЙ ГУДОК."
+  },
+  "tokens" : [ {
+    "token" : "ship's",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "horn",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "blowing",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "blow",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4ieDDTAu_IiLfCvA",
+  "text" : "SHIP'S HORN BLARING.",
+  "translations" : {
+    "russian" : "КОРАБЕЛЬНЫЙ ГУДОК."
+  },
+  "tokens" : [ {
+    "token" : "ship's",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "horn",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "blare",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFederDTAu_IiLffNx",
+  "text" : "The teeth, hooves, horns...",
+  "translations" : {
+    "russian" : "И нет лошади."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "teeth",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "tee",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "hooves",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "horn",
+    "startOffset" : 19,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
@@ -80,72 +464,6 @@
     "startOffset" : 13,
     "endOffset" : 17,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgb20LNEXFMlzHK5fY",
-  "text" : "You must blow the horn.",
-  "translations" : {
-    "russian" : "Ты должен подуть в рог."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "must",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "blow",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "horn",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgb21JNEXFMlzHK5fZ",
-  "text" : "You must blow the horn.",
-  "translations" : {
-    "russian" : "Ты должен подуть в рог."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "must",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "blow",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "horn",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

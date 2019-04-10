@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoDYLyUDTAu_IiLeCba",
+  "text" : "Arguing, discussing, getting advice.",
+  "translations" : {
+    "russian" : "В чем дело? Обсуждаем, советуемся."
+  },
+  "tokens" : [ {
+    "token" : "argue",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "cuss",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "getting",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "advice",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDX7jSDTAu_IiLeCTE",
+  "text" : "Arguing, discussing, getting advice.",
+  "translations" : {
+    "russian" : "В чем дело? Обсуждаем, советуемся."
+  },
+  "tokens" : [ {
+    "token" : "argue",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "cuss",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "getting",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "advice",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0knMDTAu_IiLfADY",
+  "text" : "We were discussing the beetles.",
+  "translations" : {
+    "russian" : "Да, мы говорили про жучков."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "were",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "cuss",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "beetle",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfub-NEXFMlzHK829",
   "text" : "Reading scripts, meetings to discuss.",
   "translations" : {
@@ -75,6 +164,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDSNOoDTAu_IiLd_CL",
+  "text" : "We have to discuss my alibi.",
+  "translations" : {
+    "russian" : "Нам надо обсудить моё алиби."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "cuss",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "my",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "alibi",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgd6hANEXFMlzHK7R4",
   "text" : "We were just discussing the suit.",
   "translations" : {
@@ -109,6 +236,158 @@
     "token" : "suit",
     "startOffset" : 28,
     "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmMF0DTAu_IiLeKcv",
+  "text" : "Ah, but we discuss it endlessly!",
+  "translations" : {
+    "russian" : "Но мы постоянно обсуждаем это."
+  },
+  "tokens" : [ {
+    "token" : "ah",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "but",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "we",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "cuss",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "it",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "endless",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDq5J8DTAu_IiLeM7z",
+  "text" : "Always ready to discuss things sensibly.",
+  "translations" : {
+    "russian" : "Я готов обсудить вещи здраво."
+  },
+  "tokens" : [ {
+    "token" : "alway",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "ready",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "cuss",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "th",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "sensibly",
+    "startOffset" : 31,
+    "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECLPbDTAu_IiLea2K",
+  "text" : "Never discuss this in the Vortex.",
+  "translations" : {
+    "russian" : "Он никогда не обсуждал это в Вортексе."
+  },
+  "tokens" : [ {
+    "token" : "never",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "cuss",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "vortex",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbBvgDTAu_IiLetQD",
+  "text" : "Can't we discuss something more sanitary?",
+  "translations" : {
+    "russian" : "Мы можем обсудить что-то более гигиеническое?"
+  },
+  "tokens" : [ {
+    "token" : "can't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "we",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "cuss",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "something",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "more",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "sanitary",
+    "startOffset" : 32,
+    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null

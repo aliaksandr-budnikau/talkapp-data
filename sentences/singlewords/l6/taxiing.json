@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoDVgGIDTAu_IiLeBL6",
+  "text" : "Taxi has been canceled.",
+  "translations" : {
+    "russian" : "Такси закрыли."
+  },
+  "tokens" : [ {
+    "token" : "taxi",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "has",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "been",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "canceled",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "cancel",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxkkINEXFMlzHLTb9",
   "text" : "Your taxi is quite fast.",
   "translations" : {
@@ -28,6 +61,44 @@
     "token" : "fast",
     "startOffset" : 19,
     "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvE6jDTAu_IiLePdJ",
+  "text" : "My name's Taxi Belle Hooper.",
+  "translations" : {
+    "russian" : "Меня зовут Тэкси Бель Хупер."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "name's",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "taxi",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "belle",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "hooper",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "hoop",
+    "startOffset" : 21,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
@@ -66,6 +137,44 @@
     "token" : "taxi",
     "startOffset" : 18,
     "endOffset" : 22,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDipiIDTAu_IiLeIfx",
+  "text" : "Yeah, bummer about the taxi strike.",
+  "translations" : {
+    "russian" : "Ага, облом из-за забастовки такси."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bummer",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "about",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "taxi",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "strike",
+    "startOffset" : 28,
+    "endOffset" : 34,
     "position" : 5
   } ],
   "contentScore" : null

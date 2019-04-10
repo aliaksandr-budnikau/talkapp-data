@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEdJwsDTAu_IiLeusy",
+  "text" : "The Dutchman's telling everybody.",
+  "translations" : {
+    "russian" : "Ты у нас теперь герой, Дикси. Голландец. Всем говорит, что ты его спас."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dutchman",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "telling",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "tell",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "everybody",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghVzhNEXFMlzHK-QR",
   "text" : "We're telling war stories.",
   "translations" : {
@@ -62,6 +95,82 @@
     "startOffset" : 18,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoES2wHDTAu_IiLenWw",
+  "text" : "The fortune-telling ticket stub.",
+  "translations" : {
+    "russian" : "Гадание по билетикам."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "fortune",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "telling",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "tell",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "ticket",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "stub",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDp1tYDTAu_IiLeMV7",
+  "text" : "Hubert, stop telling tall tales.",
+  "translations" : {
+    "russian" : "Юбер, прекрати рассказывать небылицы."
+  },
+  "tokens" : [ {
+    "token" : "hubert",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "stop",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "telling",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "tell",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "tall",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "tale",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

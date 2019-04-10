@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEEq73DTAu_IiLec0c",
+  "text" : "Give Caroline my regards.",
+  "translations" : {
+    "russian" : "Передавайте от меня привет Каролине."
+  },
+  "tokens" : [ {
+    "token" : "give",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "g",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "caroline",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "regard",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtFRdNEXFMlzHLNTU",
   "text" : "So Caroline's your new lady?",
   "translations" : {
@@ -59,6 +92,39 @@
     "position" : 3
   }, {
     "token" : "delicious",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQa9RDTAu_IiLfUjQ",
+  "text" : "Caroline Poop for the plaintiff.",
+  "translations" : {
+    "russian" : "Кэролайн Пуп со стороны истца."
+  },
+  "tokens" : [ {
+    "token" : "caroline",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "poop",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "plaintiff",
     "startOffset" : 22,
     "endOffset" : 31,
     "position" : 4

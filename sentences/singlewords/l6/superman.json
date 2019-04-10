@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoD6txhDTAu_IiLeVSK",
+  "text" : "You're our inspiration, Superman.",
+  "translations" : {
+    "russian" : "Ты нас вдохновил, Супермен."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "our",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "inspiration",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "superman",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFS8j1DTAu_IiLfWfo",
+  "text" : "Superman wore a cape.",
+  "translations" : {
+    "russian" : "Супермен носил накидку."
+  },
+  "tokens" : [ {
+    "token" : "superman",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "wore",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "cape",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqwGSNEXFMlzHLJ_q",
   "text" : "Yeah, superman here broke protocol...",
   "translations" : {
@@ -28,6 +84,44 @@
     "token" : "protocol",
     "startOffset" : 26,
     "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFF12oDTAu_IiLfMTl",
+  "text" : "Are you playacting a superman?",
+  "translations" : {
+    "russian" : "Разыгрываете из себя сверхчеловека?"
+  },
+  "tokens" : [ {
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "playacting",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "playact",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 19,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "superman",
+    "startOffset" : 21,
+    "endOffset" : 29,
     "position" : 4
   } ],
   "contentScore" : null

@@ -1,4 +1,68 @@
 [ {
+  "id" : "AWoDcAR8DTAu_IiLeEtA",
+  "text" : "Making mud.",
+  "translations" : {
+    "russian" : "Делаю грязь."
+  },
+  "tokens" : [ {
+    "token" : "making",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "mud",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-oaiDTAu_IiLeYIS",
+  "text" : "Making windmills.",
+  "translations" : {
+    "russian" : "Создает ветряные мельницы."
+  },
+  "tokens" : [ {
+    "token" : "making",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "windmill",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDkWTIDTAu_IiLeJch",
+  "text" : "Make way.",
+  "translations" : {
+    "russian" : "Дайте пройти."
+  },
+  "tokens" : [ {
+    "token" : "make",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "way",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgc08FNEXFMlzHK6Xd",
   "text" : "Make a million dollars.",
   "translations" : {
@@ -106,34 +170,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyQH1NEXFMlzHLUlV",
-  "text" : "People, make some concessions.",
-  "translations" : {
-    "russian" : "Люди, идите на некоторые уступки."
-  },
-  "tokens" : [ {
-    "token" : "people",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "make",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "some",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "cession",
-    "startOffset" : 18,
-    "endOffset" : 29,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgzI0HNEXFMlzHLV2A",
   "text" : "Alberto, make him stop!",
   "translations" : {
@@ -162,178 +198,94 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgc9QBNEXFMlzHK6e9",
-  "text" : "What are you making?",
+  "id" : "AWbgyQH1NEXFMlzHLUlV",
+  "text" : "People, make some concessions.",
   "translations" : {
-    "russian" : "Что это вы мастерите?"
+    "russian" : "Люди, идите на некоторые уступки."
   },
   "tokens" : [ {
-    "token" : "what",
+    "token" : "people",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 6,
     "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "making",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "make",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgc-JJNEXFMlzHK6fw",
-  "text" : "Oh, man make fire.",
-  "translations" : {
-    "russian" : "Ого, человек добывает огонь."
-  },
-  "tokens" : [ {
-    "token" : "oh",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "man",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
   }, {
     "token" : "make",
     "startOffset" : 8,
     "endOffset" : 12,
-    "position" : 2
+    "position" : 1
   }, {
-    "token" : "fire",
+    "token" : "some",
     "startOffset" : 13,
     "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk4ZsNEXFMlzHLBiv",
-  "text" : "Make spaghetti and preserves.",
-  "translations" : {
-    "russian" : "Сделайте спагетти и консервы."
-  },
-  "tokens" : [ {
-    "token" : "make",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "spaghetti",
-    "startOffset" : 5,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 15,
-    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "preserve",
-    "startOffset" : 19,
-    "endOffset" : 28,
+    "token" : "cession",
+    "startOffset" : 18,
+    "endOffset" : 29,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsRSdNEXFMlzHLMM-",
-  "text" : "We make a covenant.",
+  "id" : "AWoDccqmDTAu_IiLeE8E",
+  "text" : "Whiskers make me itch.",
   "translations" : {
-    "russian" : "Мы выполняем условия договора."
+    "russian" : "У меня чесотка от бакенбардов."
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "whisk",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 8,
     "position" : 0
   }, {
     "token" : "make",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "covenant",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtIYJNEXFMlzHLNWc",
-  "text" : "Don't make me beg.",
-  "translations" : {
-    "russian" : "Не заставляй меня упрашивать."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "make",
-    "startOffset" : 6,
-    "endOffset" : 10,
+    "startOffset" : 9,
+    "endOffset" : 13,
     "position" : 1
   }, {
     "token" : "me",
-    "startOffset" : 11,
-    "endOffset" : 13,
+    "startOffset" : 14,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "beg",
-    "startOffset" : 14,
-    "endOffset" : 17,
+    "token" : "itch",
+    "startOffset" : 17,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtyEcNEXFMlzHLN7_",
-  "text" : "Make them sweat.",
+  "id" : "AWoDhWFxDTAu_IiLeHvw",
+  "text" : "Necessity makes strange bedfellows.",
   "translations" : {
-    "russian" : "Пусть попотеют."
+    "russian" : "Неизбежность укладывает в одну постель разных людей."
   },
   "tokens" : [ {
-    "token" : "make",
+    "token" : "necessity",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 9,
     "position" : 0
   }, {
-    "token" : "them",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "sweat",
+    "token" : "make",
     "startOffset" : 10,
     "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "strange",
+    "startOffset" : 16,
+    "endOffset" : 23,
     "position" : 2
+  }, {
+    "token" : "bedfellow",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgupYxNEXFMlzHLPg6",
-  "text" : "Make it right, Doc.",
+  "id" : "AWoDkWXXDTAu_IiLeJcj",
+  "text" : "Make it 20.",
   "translations" : {
-    "russian" : "Исправьте их, док."
+    "russian" : "Я дам тебе 20."
   },
   "tokens" : [ {
     "token" : "make",
@@ -346,118 +298,121 @@
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "right",
+    "token" : "20",
     "startOffset" : 8,
-    "endOffset" : 13,
+    "endOffset" : 10,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDkfkvDTAu_IiLeJhn",
+  "text" : "To make people sterile.",
+  "translations" : {
+    "russian" : "Чтобы сделать людей стерильными."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "people",
+    "startOffset" : 8,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "doc",
+    "token" : "sterile",
     "startOffset" : 15,
-    "endOffset" : 18,
+    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWn5oFdGSHZo49ps8uFP",
-  "text" : "He's making deliberate turns.",
+  "id" : "AWoDmbVXDTAu_IiLeKk5",
+  "text" : "Make you infertile, too.",
   "translations" : {
-    "russian" : "Он делает преднамеренные повороты."
+    "russian" : "Сделают тебя бесплодным к тому же."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "make",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "making",
+    "token" : "you",
     "startOffset" : 5,
-    "endOffset" : 11,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "make",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "deliberate",
-    "startOffset" : 12,
-    "endOffset" : 22,
+    "token" : "infertile",
+    "startOffset" : 9,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "liberate",
-    "startOffset" : 12,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "turn",
-    "startOffset" : 23,
-    "endOffset" : 28,
+    "token" : "too",
+    "startOffset" : 20,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnes_NEXFMlzHLFhO",
-  "text" : "We're making braised chicken.",
+  "id" : "AWoDofcKDTAu_IiLeLpl",
+  "text" : "And make him permanent.",
   "translations" : {
-    "russian" : "Сегодня мы тушим курицу."
+    "russian" : "И сделайте его постоянным!"
   },
   "tokens" : [ {
-    "token" : "we're",
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "him",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "permanent",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5FU3DTAu_IiLeUjR",
+  "text" : "Let's make a bath.",
+  "translations" : {
+    "russian" : "Может, искупаемся?"
+  },
+  "tokens" : [ {
+    "token" : "let",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "making",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
     "token" : "make",
     "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "braise",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "chicken",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "chick",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu8OuNEXFMlzHLQFp",
-  "text" : "Make like a rocket.",
-  "translations" : {
-    "russian" : "Делай как ракета."
-  },
-  "tokens" : [ {
-    "token" : "make",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 10,
     "position" : 1
   }, {
     "token" : "a",
-    "startOffset" : 10,
-    "endOffset" : 11,
+    "startOffset" : 11,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "rocket",
-    "startOffset" : 12,
-    "endOffset" : 18,
+    "token" : "bath",
+    "startOffset" : 13,
+    "endOffset" : 17,
     "position" : 3
   } ],
   "contentScore" : null

@@ -1,4 +1,144 @@
 [ {
+  "id" : "AWoFHtBIDTAu_IiLfNxE",
+  "text" : "I'm glad he apologized!",
+  "translations" : {
+    "russian" : "Я рад, что он извинился!"
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "glad",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "he",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "apologize",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDXO2XDTAu_IiLeB_y",
+  "text" : "So glad you approve.",
+  "translations" : {
+    "russian" : "Рад, что тебе нравится."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "glad",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "approve",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDXOyBDTAu_IiLeB_w",
+  "text" : "I'm glad you approve.",
+  "translations" : {
+    "russian" : "Я рад что вам нравится."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "glad",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "approve",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBfrHDTAu_IiLfJKh",
+  "text" : "I'm glad you approve.",
+  "translations" : {
+    "russian" : "Я рада, что ты одобрил."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "glad",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "approve",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDXPm5DTAu_IiLeCAF",
+  "text" : "I'm glad you approve.",
+  "translations" : {
+    "russian" : "Рад, что вам понравилось."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "glad",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "approve",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwasZNEXFMlzHLSKS",
   "text" : "I'm glad I've caught you.",
   "translations" : {
@@ -28,6 +168,39 @@
     "token" : "you",
     "startOffset" : 21,
     "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnoGADTAu_IiLe2z5",
+  "text" : "Sure, I'd be glad to.",
+  "translations" : {
+    "russian" : "Онечно, буду рад помочь."
+  },
+  "tokens" : [ {
+    "token" : "sure",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "i'd",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "glad",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 18,
+    "endOffset" : 20,
     "position" : 4
   } ],
   "contentScore" : null
@@ -98,10 +271,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgn3qBNEXFMlzHLGKd",
-  "text" : "I'm glad you liked the article.",
+  "id" : "AWoDw5PoDTAu_IiLeQis",
+  "text" : "I'm glad you're not squeamish.",
   "translations" : {
-    "russian" : "Я рада, что тебе понравилась статья."
+    "russian" : "Рад, что ты не брезглива."
   },
   "tokens" : [ {
     "token" : "i'm",
@@ -114,24 +287,242 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "you",
+    "token" : "you're",
     "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "not",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "squeamish",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFE3dDDTAu_IiLfLl-",
+  "text" : "Glad to make your acquaintance.",
+  "translations" : {
+    "russian" : "Много слышал о вас, сенатор, рад познакомиться."
+  },
+  "tokens" : [ {
+    "token" : "glad",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "make",
+    "startOffset" : 8,
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "liked",
+    "token" : "your",
     "startOffset" : 13,
-    "endOffset" : 18,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "acquaintance",
+    "startOffset" : 18,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlW2bDTAu_IiLeJ_Z",
+  "text" : "I'm glad to get outta Belfast.",
+  "translations" : {
+    "russian" : "Сматываюсь из Белфаста."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "glad",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "get",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "outta",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "belfast",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDALnDTAu_IiLebfV",
+  "text" : "Ah, I'm glad you're the proprietor.",
+  "translations" : {
+    "russian" : "Я рад, что вы хозяин."
+  },
+  "tokens" : [ {
+    "token" : "ah",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "i'm",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "glad",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "you're",
+    "startOffset" : 13,
+    "endOffset" : 19,
     "position" : 3
   }, {
     "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
+    "startOffset" : 20,
+    "endOffset" : 23,
     "position" : 4
   }, {
-    "token" : "article",
-    "startOffset" : 23,
-    "endOffset" : 30,
+    "token" : "proprietor",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqXPBDTAu_IiLe419",
+  "text" : "Well, I'm glad you're so confident.",
+  "translations" : {
+    "russian" : "Ну, я рада, что вы так в этом уверены."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "i'm",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "glad",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "you're",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "so",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "confident",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPGXQDTAu_IiLekmz",
+  "text" : "I'll be glad to make introductions.",
+  "translations" : {
+    "russian" : "Я с радостью тебя представлю."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "be",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "glad",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "make",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "introduction",
+    "startOffset" : 21,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETIqBDTAu_IiLenkR",
+  "text" : "Yeah, glad we dodged that bullet.",
+  "translations" : {
+    "russian" : "Да, рад, что мы избежали этой пули."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "glad",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "we",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "dodge",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "that",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "bullet",
+    "startOffset" : 26,
+    "endOffset" : 32,
     "position" : 5
   } ],
   "contentScore" : null

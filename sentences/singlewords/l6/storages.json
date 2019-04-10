@@ -1,4 +1,91 @@
 [ {
+  "id" : "AWoEeRBMDTAu_IiLevjk",
+  "text" : "Storage loft.",
+  "translations" : {
+    "russian" : "На складе, а что?"
+  },
+  "tokens" : [ {
+    "token" : "storage",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "loft",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeUMIDTAu_IiLevl8",
+  "text" : "Storage loft.",
+  "translations" : {
+    "russian" : "На складе, а что?"
+  },
+  "tokens" : [ {
+    "token" : "storage",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "loft",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHvmRDTAu_IiLefEA",
+  "text" : "Your storage capacity?",
+  "translations" : {
+    "russian" : "Каков ваш объём?"
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "storage",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "capacity",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoENX-DDTAu_IiLejVp",
+  "text" : "Bodily fluid storage facility?",
+  "translations" : {
+    "russian" : "Целиком жидкое средство хранения?"
+  },
+  "tokens" : [ {
+    "token" : "bodily",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fluid",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "storage",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "facility",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzFh9NEXFMlzHLVvE",
   "text" : "And in the storage compartments.",
   "translations" : {
@@ -32,6 +119,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDU7l2DTAu_IiLeA0V",
+  "text" : "He has a storage shed.",
+  "translations" : {
+    "russian" : "У него есть склад для хранения."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "has",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 2
+  }, {
+    "token" : "storage",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "shed",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "sh",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxxEFNEXFMlzHLT2W",
   "text" : "That's our main backup storage.",
   "translations" : {
@@ -61,6 +186,44 @@
     "token" : "storage",
     "startOffset" : 23,
     "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDUvf5DTAu_IiLeAso",
+  "text" : "Yes, in the storage shed.",
+  "translations" : {
+    "russian" : "Да, в сарае."
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "storage",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "shed",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "sh",
+    "startOffset" : 20,
+    "endOffset" : 24,
     "position" : 4
   } ],
   "contentScore" : null
@@ -141,6 +304,196 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE-fVuDTAu_IiLfGzL",
+  "text" : "Pull the crib out of storage.",
+  "translations" : {
+    "russian" : "Вынашу детскую кроватку из склада."
+  },
+  "tokens" : [ {
+    "token" : "pull",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "crib",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "out",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "storage",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE16j6DTAu_IiLfA-F",
+  "text" : "The storage and transport of pelts.",
+  "translations" : {
+    "russian" : "Храниение и транспортировка шкур."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "storage",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "transport",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "pelt",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7jr5DTAu_IiLfEqI",
+  "text" : "Pull the crib out of storage.",
+  "translations" : {
+    "russian" : "Вынашу детскую кроватку из склада."
+  },
+  "tokens" : [ {
+    "token" : "pull",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "crib",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "out",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "storage",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDR8GmDTAu_IiLd-2s",
+  "text" : "31, silent alarm at Lorenzo Storage.",
+  "translations" : {
+    "russian" : "31, бесшумная тревога на Складах Лоренцо."
+  },
+  "tokens" : [ {
+    "token" : "31",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "silent",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "alarm",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "at",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "lorenzo",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "storage",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE141xDTAu_IiLfA81",
+  "text" : "The storage and transport of pelts.",
+  "translations" : {
+    "russian" : "Храниение и транспортировка шкур."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "storage",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "transport",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "pelt",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgliyhNEXFMlzHLCuM",
   "text" : "Environmental support, storage areas, cooling plant.",
   "translations" : {
@@ -175,82 +528,6 @@
     "token" : "plant",
     "startOffset" : 46,
     "endOffset" : 51,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcR9fNEXFMlzHK54B",
-  "text" : "Here, we have our food storage.",
-  "translations" : {
-    "russian" : "Здесь у нас съестные припасы."
-  },
-  "tokens" : [ {
-    "token" : "here",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "we",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "our",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "food",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "storage",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw2o-NEXFMlzHLSma",
-  "text" : "ETA to Lorenzo Storage, one minute.",
-  "translations" : {
-    "russian" : "Расчетное время прибытия на Склад Лоренцо - одна минута."
-  },
-  "tokens" : [ {
-    "token" : "eta",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "lorenzo",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "storage",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "one",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "minute",
-    "startOffset" : 28,
-    "endOffset" : 34,
     "position" : 5
   } ],
   "contentScore" : null

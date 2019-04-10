@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoFNNXSDTAu_IiLfSGA",
+  "text" : "Warmth, intimacy.",
+  "translations" : {
+    "russian" : "Теплота, интимность."
+  },
+  "tokens" : [ {
+    "token" : "warmth",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "warm",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "intimacy",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnbY4NEXFMlzHLFbn",
   "text" : "Why you're warm now!",
   "translations" : {
@@ -162,6 +185,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDqNVdDTAu_IiLeMjG",
+  "text" : "Warm and nurturing Patrice.",
+  "translations" : {
+    "russian" : "С теплой и заботливой Патрис."
+  },
+  "tokens" : [ {
+    "token" : "warm",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "nurture",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "patrice",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELgC5DTAu_IiLeh2r",
+  "text" : "Warm and nurturing Patrice.",
+  "translations" : {
+    "russian" : "С теплой и заботливой Патрис."
+  },
+  "tokens" : [ {
+    "token" : "warm",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "nurture",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "patrice",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgi-1nNEXFMlzHK_oi",
   "text" : "Nuclear war, global warming.",
   "translations" : {
@@ -251,10 +330,38 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnb9_NEXFMlzHLFcm",
-  "text" : "I feel too warm.",
+  "id" : "AWoELdGmDTAu_IiLeh0O",
+  "text" : "Warm and nurturing Patrice.",
   "translations" : {
-    "russian" : "Что-то мне слишком жарко."
+    "russian" : "С теплой и заботливой Патрис."
+  },
+  "tokens" : [ {
+    "token" : "warm",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "nurture",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "patrice",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERp8IDTAu_IiLemc-",
+  "text" : "I exude warmth.",
+  "translations" : {
+    "russian" : "Я излучаю тепло."
   },
   "tokens" : [ {
     "token" : "i",
@@ -262,228 +369,76 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "feel",
+    "token" : "exude",
     "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "too",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "warm",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgna9yNEXFMlzHLFa5",
-  "text" : "This thing is still warm.",
-  "translations" : {
-    "russian" : "Эта штука все ещё теплая."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "thing",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "th",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "still",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "warm",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnbuXNEXFMlzHLFcN",
-  "text" : "I'll keep you warm enough.",
-  "translations" : {
-    "russian" : "Я помогу тебе согреться."
-  },
-  "tokens" : [ {
-    "token" : "i'll",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "keep",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "warm",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "enough",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtQEMNEXFMlzHLNcZ",
-  "text" : "And the dirt was warm.",
-  "translations" : {
-    "russian" : "И грязь была теплой."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 4,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "dirt",
+    "token" : "warmth",
     "startOffset" : 8,
-    "endOffset" : 12,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "was",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
     "token" : "warm",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgt9YjNEXFMlzHLOOI",
-  "text" : "Perhaps even by global warming.",
+  "id" : "AWoERxxhDTAu_IiLemi1",
+  "text" : "I exude warmth.",
   "translations" : {
-    "russian" : "А может, даже в глобальном потеплении."
+    "russian" : "Я излучаю тепло."
   },
   "tokens" : [ {
-    "token" : "perhaps",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "even",
-    "startOffset" : 8,
-    "endOffset" : 12,
+    "token" : "exude",
+    "startOffset" : 2,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "ev",
+    "token" : "warmth",
     "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "by",
-    "startOffset" : 13,
-    "endOffset" : 15,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "global",
-    "startOffset" : 16,
+    "token" : "warm",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhWD_DTAu_IiLfhKM",
+  "text" : "It'll warm her twaddle.",
+  "translations" : {
+    "russian" : "Это растопит её болтовню."
+  },
+  "tokens" : [ {
+    "token" : "it'll",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "warm",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "her",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "twaddle",
+    "startOffset" : 15,
     "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "warm",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt9ZDNEXFMlzHLOOJ",
-  "text" : "And global warming is real.",
-  "translations" : {
-    "russian" : "И глобальное потепление реально."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "global",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "warm",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "real",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnbFmNEXFMlzHLFbF",
-  "text" : "At least it's warm there.",
-  "translations" : {
-    "russian" : "По крайней мере, здесь тепло."
-  },
-  "tokens" : [ {
-    "token" : "at",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "least",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "warm",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "there",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

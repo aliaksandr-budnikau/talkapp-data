@@ -1,24 +1,339 @@
 [ {
-  "id" : "AWbgxOCENEXFMlzHLS9-",
-  "text" : "Well, land ho.",
+  "id" : "AWoEs_4dDTAu_IiLe6pF",
+  "text" : "Ho, ho, ho, ya big dork!",
   "translations" : {
-    "russian" : "Зато пристал к берегу."
+    "russian" : "Хо, хо, хо и кто теперь дурак!"
   },
   "tokens" : [ {
-    "token" : "well",
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "ho",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "ya",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "big",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 4
+  }, {
+    "token" : "dork",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_UIFDTAu_IiLfHeU",
+  "text" : "Holy cow.",
+  "translations" : {
+    "russian" : "Боже мой."
+  },
+  "tokens" : [ {
+    "token" : "holy",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "land",
-    "startOffset" : 6,
-    "endOffset" : 10,
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
     "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_UAvDTAu_IiLfHeM",
+  "text" : "Holy cow!",
+  "translations" : {
+    "russian" : "О боже!"
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
     "token" : "ho",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyVOlDTAu_IiLeRSB",
+  "text" : "Heave ho!",
+  "translations" : {
+    "russian" : "Взяли!"
+  },
+  "tokens" : [ {
+    "token" : "heave",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyVRRDTAu_IiLeRSD",
+  "text" : "Heave ho!",
+  "translations" : {
+    "russian" : "Три-четыре взяли!"
+  },
+  "tokens" : [ {
+    "token" : "heave",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDTURDTAu_IiLebun",
+  "text" : "Heave ho!",
+  "translations" : {
+    "russian" : "Взяли!"
+  },
+  "tokens" : [ {
+    "token" : "heave",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDTblDTAu_IiLebus",
+  "text" : "Heave ho!",
+  "translations" : {
+    "russian" : "Взяли!"
+  },
+  "tokens" : [ {
+    "token" : "heave",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDVFnDTAu_IiLebwC",
+  "text" : "Heave ho!",
+  "translations" : {
+    "russian" : "Взяли!"
+  },
+  "tokens" : [ {
+    "token" : "heave",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_UDYDTAu_IiLfHeP",
+  "text" : "Holy cow...",
+  "translations" : {
+    "russian" : "Боже!"
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_UGwDTAu_IiLfHeT",
+  "text" : "Holy cow.",
+  "translations" : {
+    "russian" : "Боже."
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDVCMDTAu_IiLebv_",
+  "text" : "Heave ho!",
+  "translations" : {
+    "russian" : "Три-четыре взяли!"
+  },
+  "tokens" : [ {
+    "token" : "heave",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_UFyDTAu_IiLfHeS",
+  "text" : "Holy cow.",
+  "translations" : {
+    "russian" : "Господи Боже."
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_UCTDTAu_IiLfHeO",
+  "text" : "Holy cow.",
+  "translations" : {
+    "russian" : "Боже мой."
+  },
+  "tokens" : [ {
+    "token" : "holy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cow",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyVV6DTAu_IiLeRSG",
+  "text" : "Heave ho!",
+  "translations" : {
+    "russian" : "Взяли!"
+  },
+  "tokens" : [ {
+    "token" : "heave",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDU_wDTAu_IiLebv9",
+  "text" : "Heave ho!",
+  "translations" : {
+    "russian" : "Взяли!"
+  },
+  "tokens" : [ {
+    "token" : "heave",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDTWtDTAu_IiLebup",
+  "text" : "Heave ho!",
+  "translations" : {
+    "russian" : "Три-четыре взяли!"
+  },
+  "tokens" : [ {
+    "token" : "heave",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ho",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

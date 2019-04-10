@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoEU0EQDTAu_IiLeo3l",
+  "text" : "Tie clip!",
+  "translations" : {
+    "russian" : "Эй, зажим для галстука!"
+  },
+  "tokens" : [ {
+    "token" : "tie",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "clip",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEU0LGDTAu_IiLeo3r",
+  "text" : "Tie clip.",
+  "translations" : {
+    "russian" : "Зажим для галстука."
+  },
+  "tokens" : [ {
+    "token" : "tie",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "clip",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyGlKNEXFMlzHLURs",
   "text" : "Yeah, tie me up.",
   "translations" : {
@@ -51,6 +87,62 @@
     "token" : "tie",
     "startOffset" : 10,
     "endOffset" : 13,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECn_ODTAu_IiLebMD",
+  "text" : "His tie was askew.",
+  "translations" : {
+    "russian" : "Его галстук висел криво."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "tie",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "askew",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEU1k9DTAu_IiLeo4v",
+  "text" : "Clip here, tie there.",
+  "translations" : {
+    "russian" : "Подрезал здесь, подвязал там."
+  },
+  "tokens" : [ {
+    "token" : "clip",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "here",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "tie",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "there",
+    "startOffset" : 15,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
@@ -136,6 +228,57 @@
     "startOffset" : 16,
     "endOffset" : 20,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXq36DTAu_IiLfZ3L",
+  "text" : "Tied and gagged.",
+  "translations" : {
+    "russian" : "С кляпом во рту."
+  },
+  "tokens" : [ {
+    "token" : "tie",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ti",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "gagged",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFecJMDTAu_IiLffMz",
+  "text" : "Untie the hoof.",
+  "translations" : {
+    "russian" : "Развяжите копыта."
+  },
+  "tokens" : [ {
+    "token" : "tie",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "hoof",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -276,204 +419,6 @@
     "startOffset" : 12,
     "endOffset" : 15,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyH6oNEXFMlzHLUUW",
-  "text" : "There's a family tie...",
-  "translations" : {
-    "russian" : "Существование семейных уз..."
-  },
-  "tokens" : [ {
-    "token" : "there",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "family",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "tie",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyHmMNEXFMlzHLUTr",
-  "text" : "A tie is unprecedented.",
-  "translations" : {
-    "russian" : "Ничья - вот, что беспрецедентно."
-  },
-  "tokens" : [ {
-    "token" : "a",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "tie",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 2
-  }, {
-    "token" : "unprecedented",
-    "startOffset" : 9,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "precedented",
-    "startOffset" : 9,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyGhQNEXFMlzHLURk",
-  "text" : "Oh, I love your tie.",
-  "translations" : {
-    "russian" : "Мне нравится твой галстук."
-  },
-  "tokens" : [ {
-    "token" : "oh",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 4,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "love",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "tie",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyHdpNEXFMlzHLUTf",
-  "text" : "And right now, we're tied.",
-  "translations" : {
-    "russian" : "И сейчас у нас ничья."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "right",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "now",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "we're",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "tie",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "ti",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyHNANEXFMlzHLUS-",
-  "text" : "Don't be, I'll tie it.",
-  "translations" : {
-    "russian" : "Не надо, я их завяжу."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "be",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "i'll",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "tie",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyG7qNEXFMlzHLUSZ",
-  "text" : "Tie her to the rack.",
-  "translations" : {
-    "russian" : "Привяжите её к решетке."
-  },
-  "tokens" : [ {
-    "token" : "tie",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "her",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "rack",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

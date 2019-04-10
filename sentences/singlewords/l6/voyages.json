@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoD75ctDTAu_IiLeWC2",
+  "text" : "Delightful voyage.",
+  "translations" : {
+    "russian" : "Милая поездочка..."
+  },
+  "tokens" : [ {
+    "token" : "delightful",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "voyage",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgejdNNEXFMlzHK72O",
   "text" : "A sea voyage?",
   "translations" : {
@@ -46,6 +64,67 @@
     "token" : "voyage",
     "startOffset" : 13,
     "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlyISDTAu_IiLeKOB",
+  "text" : "To undertake a voyage.",
+  "translations" : {
+    "russian" : "И предпринять путешествие."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "undertake",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "voyage",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDaOh5DTAu_IiLeDpZ",
+  "text" : "I'll assimilate Voyager, then.",
+  "translations" : {
+    "russian" : "Тогда мне придётся ассимилировать Вояджер."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "assimilate",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "voyager",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "voyage",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "th",
+    "startOffset" : 25,
+    "endOffset" : 29,
     "position" : 3
   } ],
   "contentScore" : null

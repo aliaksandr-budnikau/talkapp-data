@@ -264,6 +264,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEBSqdDTAu_IiLeaKB",
+  "text" : "Item a Vicuna coat.",
+  "translations" : {
+    "russian" : "По пунктам шерсть викуньи!"
+  },
+  "tokens" : [ {
+    "token" : "item",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "vicuna",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "coat",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoJtENEXFMlzHLGd5",
   "text" : "Next item, executive compensation.",
   "translations" : {
@@ -302,6 +330,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDcOFYDTAu_IiLeEz-",
+  "text" : "Item 200 candied chestnuts.",
+  "translations" : {
+    "russian" : "Далее 200 засахаренных каштанов."
+  },
+  "tokens" : [ {
+    "token" : "item",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "200",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "candy",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "chestnut",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoJtyNEXFMlzHLGd6",
   "text" : "Many agenda items left unchecked.",
   "translations" : {
@@ -331,6 +387,39 @@
     "token" : "checked",
     "startOffset" : 23,
     "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5VavDTAu_IiLeUqz",
+  "text" : "Item 17 A Yugoslav sculptor.",
+  "translations" : {
+    "russian" : "Номер 17-й югославский скульптор."
+  },
+  "tokens" : [ {
+    "token" : "item",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "17",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "yugoslav",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "sculptor",
+    "startOffset" : 19,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null
@@ -369,82 +458,6 @@
     "token" : "journal",
     "startOffset" : 27,
     "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoJUiNEXFMlzHLGdS",
-  "text" : "One last item on the checklist.",
-  "translations" : {
-    "russian" : "Итак, последний пункт нашего списка."
-  },
-  "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "last",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "item",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "checklist",
-    "startOffset" : 21,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcU6CNEXFMlzHK56r",
-  "text" : "Gather your personal items, ma am.",
-  "translations" : {
-    "russian" : "Собирайте вещички, мэм."
-  },
-  "tokens" : [ {
-    "token" : "gather",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "personal",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "item",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "ma",
-    "startOffset" : 28,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "am",
-    "startOffset" : 31,
-    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null

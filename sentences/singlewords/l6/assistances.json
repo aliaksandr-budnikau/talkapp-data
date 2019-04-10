@@ -1,4 +1,76 @@
 [ {
+  "id" : "AWoFUU1lDTAu_IiLfXfb",
+  "text" : "Directory assistance.",
+  "translations" : {
+    "russian" : "Справочная, чем я могу помочь вам?"
+  },
+  "tokens" : [ {
+    "token" : "directory",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "assistance",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUU6CDTAu_IiLfXff",
+  "text" : "Directory assistance.",
+  "translations" : {
+    "russian" : "Справочная."
+  },
+  "tokens" : [ {
+    "token" : "directory",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "assistance",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUVXkDTAu_IiLfXfy",
+  "text" : "Directory assistance.",
+  "translations" : {
+    "russian" : "Справочная служба."
+  },
+  "tokens" : [ {
+    "token" : "directory",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "assistance",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUVBYDTAu_IiLfXfk",
+  "text" : "Directory assistance?",
+  "translations" : {
+    "russian" : "Справочный стол?"
+  },
+  "tokens" : [ {
+    "token" : "directory",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "assistance",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsFmONEXFMlzHLL8c",
   "text" : "We solicited military assistance.",
   "translations" : {
@@ -83,6 +155,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEEsehDTAu_IiLec1k",
+  "text" : "And regarding cash assistance...",
+  "translations" : {
+    "russian" : "Что касается финансовой поддержки..."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "regard",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "cash",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "assistance",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUU87DTAu_IiLfXfh",
+  "text" : "Welcome to Directory Assistance.",
+  "translations" : {
+    "russian" : "Вы позвонили в справочную."
+  },
+  "tokens" : [ {
+    "token" : "welcome",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "directory",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "assistance",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsF7XNEXFMlzHLL87",
   "text" : "I require your assistance.",
   "translations" : {
@@ -108,6 +236,62 @@
     "startOffset" : 15,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEI2yzDTAu_IiLef1v",
+  "text" : "No assistance, no growth.",
+  "translations" : {
+    "russian" : "Без помощи нет прогресса."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "assistance",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "growth",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "grow",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUVY4DTAu_IiLfXfz",
+  "text" : "Directory assistance. Yeah.",
+  "translations" : {
+    "russian" : "Справочная служба."
+  },
+  "tokens" : [ {
+    "token" : "directory",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "assistance",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "yeah",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -220,221 +404,41 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsFnrNEXFMlzHLL8e",
-  "text" : "And we appreciate your assistance.",
+  "id" : "AWoFUVCtDTAu_IiLfXfl",
+  "text" : "I only phoned directory assistance.",
   "translations" : {
-    "russian" : "И мы высоко ценим вашу помощь."
+    "russian" : "Я дозвонилась только до справочной."
   },
   "tokens" : [ {
-    "token" : "and",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "we",
-    "startOffset" : 4,
+    "token" : "only",
+    "startOffset" : 2,
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "appreciate",
-    "startOffset" : 7,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "assistance",
-    "startOffset" : 23,
-    "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyq5sNEXFMlzHLVEN",
-  "text" : "They request our assistance urgently.",
-  "translations" : {
-    "russian" : "Они запрашивают неотложное подкрепление."
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "request",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "assistance",
-    "startOffset" : 17,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "urgent",
-    "startOffset" : 28,
-    "endOffset" : 36,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsF9ENEXFMlzHLL89",
-  "text" : "Hasn't Captain Shepherd been of assistance?",
-  "translations" : {
-    "russian" : "Разве капитан Шепарт не оказывает вам содействие?"
-  },
-  "tokens" : [ {
-    "token" : "hasn't",
-    "startOffset" : 0,
+    "token" : "on",
+    "startOffset" : 2,
     "endOffset" : 6,
-    "position" : 0
+    "position" : 1
   }, {
-    "token" : "captain",
+    "token" : "phone",
     "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "shepherd",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "been",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "of",
-    "startOffset" : 29,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "assistance",
-    "startOffset" : 32,
-    "endOffset" : 42,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsF-yNEXFMlzHLL9A",
-  "text" : "Thank you all for your assistance.",
-  "translations" : {
-    "russian" : "Спасибо вам за содействие."
-  },
-  "tokens" : [ {
-    "token" : "thank",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "all",
-    "startOffset" : 10,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "for",
+    "token" : "directory",
     "startOffset" : 14,
-    "endOffset" : 17,
+    "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "your",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
     "token" : "assistance",
-    "startOffset" : 23,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyq_jNEXFMlzHLVEV",
-  "text" : "Requesting immediate medical assistance and backup.",
-  "translations" : {
-    "russian" : "Запрашиваю, как можно скорее, медицинскую бригаду и подкрепление."
-  },
-  "tokens" : [ {
-    "token" : "request",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "immediate",
-    "startOffset" : 11,
-    "endOffset" : 20,
-    "position" : 1
-  }, {
-    "token" : "medical",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 2
-  }, {
-    "token" : "assistance",
-    "startOffset" : 29,
-    "endOffset" : 39,
-    "position" : 3
-  }, {
-    "token" : "and",
-    "startOffset" : 40,
-    "endOffset" : 43,
+    "startOffset" : 24,
+    "endOffset" : 34,
     "position" : 4
-  }, {
-    "token" : "backup",
-    "startOffset" : 44,
-    "endOffset" : 50,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyrEMNEXFMlzHLVEf",
-  "text" : "County Road J, requesting immediate assistance.",
-  "translations" : {
-    "russian" : "Сельская дорога Джей, запрашиваю скорую помощь."
-  },
-  "tokens" : [ {
-    "token" : "county",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "road",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "j",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "request",
-    "startOffset" : 15,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "immediate",
-    "startOffset" : 26,
-    "endOffset" : 35,
-    "position" : 4
-  }, {
-    "token" : "assistance",
-    "startOffset" : 36,
-    "endOffset" : 46,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

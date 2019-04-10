@@ -98,6 +98,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFVPNRDTAu_IiLfYIN",
+  "text" : "The quotas should be reviewed.",
+  "translations" : {
+    "russian" : "Надо нормы пересматривать."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "quota",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "should",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "viewed",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiVvENEXFMlzHK_Fb",
   "text" : "I've reviewed all those receipts.",
   "translations" : {
@@ -334,6 +367,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDrcncDTAu_IiLeNQk",
+  "text" : "Obstructed view. -Signal's fading.",
+  "translations" : {
+    "russian" : "Обзор затруднен, сигнал пропадает."
+  },
+  "tokens" : [ {
+    "token" : "obstructed",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "obstruct",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "view",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "signal's",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "fading",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "fad",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgr8NCNEXFMlzHLLvN",
   "text" : "Your views on marriage?",
   "translations" : {
@@ -463,77 +534,6 @@
     "startOffset" : 13,
     "endOffset" : 17,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr9pjNEXFMlzHLLxf",
-  "text" : "You viewers will know...",
-  "translations" : {
-    "russian" : "Вы, зрители, узнаете..."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "viewer",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "view",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "will",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "know",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr7PxNEXFMlzHLLtz",
-  "text" : "Stunning views, booze on board.",
-  "translations" : {
-    "russian" : "Виды ошеломительные, на борту есть выпивка..."
-  },
-  "tokens" : [ {
-    "token" : "stunning",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "views",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "view",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "booze",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 22,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "board",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoECa7_DTAu_IiLebCv",
+  "text" : "Manual control enabled.",
+  "translations" : {
+    "russian" : "Ручное управление включено."
+  },
+  "tokens" : [ {
+    "token" : "manual",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "control",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "enable",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETjTyDTAu_IiLen43",
+  "text" : "They're doing the manual labour.",
+  "translations" : {
+    "russian" : "Они делают физическую работу."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "doing",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "do",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "manual",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "labour",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyF0DNEXFMlzHLUQH",
   "text" : "Switch to manual helm control.",
   "translations" : {
@@ -28,6 +89,110 @@
     "token" : "control",
     "startOffset" : 22,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETjRlDTAu_IiLen41",
+  "text" : "I don't do manual labour.",
+  "translations" : {
+    "russian" : "Я не делаю грязную работу."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "don't",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "do",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "manual",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "labour",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHx3nDTAu_IiLfN1J",
+  "text" : "Manual dexterity, in your face!",
+  "translations" : {
+    "russian" : "Ловкость рук, выкуси!"
+  },
+  "tokens" : [ {
+    "token" : "manual",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dexterity",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "face",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRW6WDTAu_IiLfVTd",
+  "text" : "Manual of Painting and Calligraphy.",
+  "translations" : {
+    "russian" : "Руководство по живописи и каллиграфии."
+  },
+  "tokens" : [ {
+    "token" : "manual",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "painting",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "paint",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "calligraphy",
+    "startOffset" : 23,
+    "endOffset" : 34,
     "position" : 4
   } ],
   "contentScore" : null

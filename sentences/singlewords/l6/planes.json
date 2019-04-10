@@ -60,6 +60,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDPWAqDTAu_IiLd9Iu",
+  "text" : "Plane, train, automobile, whatever.",
+  "translations" : {
+    "russian" : "Самолет, поезд, автомобиль, что угодно."
+  },
+  "tokens" : [ {
+    "token" : "plane",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "train",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "automobile",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "whatever",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEssNWDTAu_IiLe6cA",
+  "text" : "It's plane, Quixote said...",
+  "translations" : {
+    "russian" : "Это понятно, сказал Кихот..."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "plane",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "quixote",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "said",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxSDRNEXFMlzHLTDt",
   "text" : "Confirming the plane reservations.",
   "translations" : {
@@ -112,6 +168,62 @@
     "token" : "plane",
     "startOffset" : 13,
     "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaawaDTAu_IiLes2p",
+  "text" : "The plane is pressurized.",
+  "translations" : {
+    "russian" : "У нас стабильное давление."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "plane",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "pressurized",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "pressurize",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmgT3DTAu_IiLe18l",
+  "text" : "The plane spotter.",
+  "translations" : {
+    "russian" : "Наблюдатель."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "plane",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "spotter",
+    "startOffset" : 10,
+    "endOffset" : 17,
     "position" : 2
   } ],
   "contentScore" : null
@@ -178,6 +290,39 @@
     "token" : "cabin",
     "startOffset" : 25,
     "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPugwDTAu_IiLd9W-",
+  "text" : "The plane is on autopilot.",
+  "translations" : {
+    "russian" : "Самолет летит на автопилоте."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "plane",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "autopilot",
+    "startOffset" : 16,
+    "endOffset" : 25,
     "position" : 4
   } ],
   "contentScore" : null
@@ -363,196 +508,6 @@
     "token" : "existence",
     "startOffset" : 22,
     "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguo6fNEXFMlzHLPgF",
-  "text" : "Right, the case on the plane.",
-  "translations" : {
-    "russian" : "Точно, инцидент с самолетом."
-  },
-  "tokens" : [ {
-    "token" : "right",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "case",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "plane",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu777NEXFMlzHLQE_",
-  "text" : "It's not easy in a plane.",
-  "translations" : {
-    "russian" : "Это не просто в плоскости."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "easy",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 17,
-    "endOffset" : 18,
-    "position" : 4
-  }, {
-    "token" : "plane",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu786NEXFMlzHLQFC",
-  "text" : "I forgot it on the plane.",
-  "translations" : {
-    "russian" : "Я забыл его на плоскости."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "forgot",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 4
-  }, {
-    "token" : "plane",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxBOdNEXFMlzHLSxE",
-  "text" : "Mr. Reese, who's flying the plane?",
-  "translations" : {
-    "russian" : "Мистер Риз, кто пилотирует самолет?"
-  },
-  "tokens" : [ {
-    "token" : "mr",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "reese",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "who",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "fly",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "plane",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu7sMNEXFMlzHLQEa",
-  "text" : "Is that the plane you saw?",
-  "translations" : {
-    "russian" : "Это тот самолёт, который ты видел?"
-  },
-  "tokens" : [ {
-    "token" : "is",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "plane",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "you",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "saw",
-    "startOffset" : 22,
-    "endOffset" : 25,
     "position" : 5
   } ],
   "contentScore" : null

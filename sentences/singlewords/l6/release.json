@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoDRcBpDTAu_IiLd-g_",
+  "text" : "Release accelerator.",
+  "translations" : {
+    "russian" : "Отпускаю педаль газа."
+  },
+  "tokens" : [ {
+    "token" : "release",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "lease",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "accelerator",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExtMEDTAu_IiLe-BA",
+  "text" : "Compassionate Release.",
+  "translations" : {
+    "russian" : "Освобождение по гуманным соображениям."
+  },
+  "tokens" : [ {
+    "token" : "compassionate",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "release",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "lease",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbzqbNEXFMlzHK5cf",
   "text" : "Lesbian until release date.",
   "translations" : {
@@ -32,269 +78,206 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgv1zDNEXFMlzHLRge",
-  "text" : "The controller will be released.",
+  "id" : "AWoD0RTODTAu_IiLeSVe",
+  "text" : "Release the magma buoy.",
   "translations" : {
-    "russian" : "Придет контролер и выставит ее с треском."
+    "russian" : "Выпуска буя магмы."
   },
   "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "controller",
-    "startOffset" : 4,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "will",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "be",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "released",
-    "startOffset" : 23,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "lease",
-    "startOffset" : 23,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgleHjNEXFMlzHLCmC",
-  "text" : "I want the AC released.",
-  "translations" : {
-    "russian" : "Я хочу, чтобы ты отпустил УК."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "want",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "ac",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "released",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "lease",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmstiNEXFMlzHLEVV",
-  "text" : "Pressure builds, and it's released.",
-  "translations" : {
-    "russian" : "Напряжение нарастает, а потом высвобождается."
-  },
-  "tokens" : [ {
-    "token" : "pressure",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "build",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "it",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "released",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 4
-  }, {
-    "token" : "lease",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfz0KNEXFMlzHK86w",
-  "text" : "Pressure builds, and it's released.",
-  "translations" : {
-    "russian" : "Напряжение нарастает, а потом высвобождается."
-  },
-  "tokens" : [ {
-    "token" : "pressure",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "build",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "it",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "released",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 4
-  }, {
-    "token" : "lease",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpYemNEXFMlzHLILU",
-  "text" : "They've released their tractor beam.",
-  "translations" : {
-    "russian" : "Они отключили тяговый луч."
-  },
-  "tokens" : [ {
-    "token" : "they've",
+    "token" : "release",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "released",
-    "startOffset" : 8,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
     "token" : "lease",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "the",
     "startOffset" : 8,
-    "endOffset" : 16,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "their",
-    "startOffset" : 17,
-    "endOffset" : 22,
+    "token" : "magma",
+    "startOffset" : 12,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "tractor",
-    "startOffset" : 23,
-    "endOffset" : 30,
+    "token" : "buoy",
+    "startOffset" : 18,
+    "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "beam",
-    "startOffset" : 31,
-    "endOffset" : 35,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtoWTNEXFMlzHLNvC",
-  "text" : "They lease pumpkins to poor families.",
+  "id" : "AWoDw83yDTAu_IiLeQkw",
+  "text" : "Release your burden.",
   "translations" : {
-    "russian" : "Тыквы сдают небогатым семьям под дачи."
+    "russian" : "Избавься от своей ноши."
   },
   "tokens" : [ {
-    "token" : "they",
+    "token" : "release",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 7,
     "position" : 0
   }, {
     "token" : "lease",
-    "startOffset" : 5,
-    "endOffset" : 10,
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 8,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "pumpkin",
-    "startOffset" : 11,
+    "token" : "burden",
+    "startOffset" : 13,
     "endOffset" : 19,
     "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "poor",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "family",
-    "startOffset" : 28,
-    "endOffset" : 36,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqOXUNEXFMlzHLJWt",
-  "text" : "Lease them out to other businesses.",
+  "id" : "AWoEHkeLDTAu_IiLee8k",
+  "text" : "Release and indemnification form.",
   "translations" : {
-    "russian" : "Сдадим их другим фирмам."
+    "russian" : "Соглашение на демонстрацию и возмещение..."
   },
   "tokens" : [ {
-    "token" : "lease",
+    "token" : "release",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "them",
-    "startOffset" : 6,
-    "endOffset" : 10,
+    "token" : "lease",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 8,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "out",
-    "startOffset" : 11,
+    "token" : "indemnification",
+    "startOffset" : 12,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "indemnify",
+    "startOffset" : 12,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "form",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEh2aiDTAu_IiLeyYR",
+  "text" : "Release your burden.",
+  "translations" : {
+    "russian" : "Избавься от своей ноши."
+  },
+  "tokens" : [ {
+    "token" : "release",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "lease",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "burden",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVGrFDTAu_IiLeA7h",
+  "text" : "A huge release of anions.",
+  "translations" : {
+    "russian" : "Огромный выброс анионов."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "huge",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "release",
+    "startOffset" : 7,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "to",
+    "token" : "lease",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "of",
     "startOffset" : 15,
     "endOffset" : 17,
     "position" : 3
   }, {
-    "token" : "other",
+    "token" : "anion",
     "startOffset" : 18,
-    "endOffset" : 23,
+    "endOffset" : 24,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7l-uDTAu_IiLeV1R",
+  "text" : "Release me from your generosity.",
+  "translations" : {
+    "russian" : "Освободи меня от своей щедрости."
+  },
+  "tokens" : [ {
+    "token" : "release",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
   }, {
-    "token" : "business",
-    "startOffset" : 24,
-    "endOffset" : 34,
-    "position" : 5
+    "token" : "lease",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "from",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "generosity",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

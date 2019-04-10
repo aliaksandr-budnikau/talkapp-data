@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoFVN-rDTAu_IiLfYHY",
+  "text" : "Quint's monologue.",
+  "translations" : {
+    "russian" : "Монолог Куинта."
+  },
+  "tokens" : [ {
+    "token" : "quint",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "monologue",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghiZGNEXFMlzHK-bN",
   "text" : "When is my monologue?",
   "translations" : {
@@ -80,6 +98,39 @@
     "startOffset" : 9,
     "endOffset" : 18,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFiWHcDTAu_IiLfhv8",
+  "text" : "What about my rustic monologue?",
+  "translations" : {
+    "russian" : "А что насчет моего деревенского монолога?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "about",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "rustic",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "monologue",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

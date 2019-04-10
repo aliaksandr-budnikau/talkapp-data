@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEyMahDTAu_IiLe-YB",
+  "text" : "One gelatin brain mold.",
+  "translations" : {
+    "russian" : "Одна желатиновая форма мозга."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gelatin",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "brain",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "mold",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgctx_NEXFMlzHK6Q_",
   "text" : "Jello mold, Boston cream pie.",
   "translations" : {
@@ -29,6 +57,44 @@
     "startOffset" : 25,
     "endOffset" : 28,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEazlFDTAu_IiLetGr",
+  "text" : "Yeah, it's a hybrid slime mold.",
+  "translations" : {
+    "russian" : "Да, это гибридная форма плесени."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "hybrid",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "slime",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "mold",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

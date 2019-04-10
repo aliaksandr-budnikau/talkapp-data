@@ -235,6 +235,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEeICGDTAu_IiLevce",
+  "text" : "Not celebrating, drowning sorrows.",
+  "translations" : {
+    "russian" : "Не праздную, топлю печаль."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "celebrate",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "drown",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "sorrow",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcB2_NEXFMlzHK5pb",
   "text" : "But today's about celebrating.",
   "translations" : {
@@ -260,6 +288,72 @@
     "startOffset" : 18,
     "endOffset" : 29,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5sOADTAu_IiLeU1Q",
+  "text" : "WILL YOU CELEBRATE WATERLOO, MUM?",
+  "translations" : {
+    "russian" : "Вы будете отмечать Ватерлоо, мэм?"
+  },
+  "tokens" : [ {
+    "token" : "will",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "celebrate",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "waterloo",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "mum",
+    "startOffset" : 29,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-_nyDTAu_IiLeYZU",
+  "text" : "Actually, celebrating a big milestone.",
+  "translations" : {
+    "russian" : "Мы приехали отпраздновать большое событие."
+  },
+  "tokens" : [ {
+    "token" : "actual",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "celebrate",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 22,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "big",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "milestone",
+    "startOffset" : 28,
+    "endOffset" : 37,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -296,6 +390,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD4fDEDTAu_IiLeUSr",
+  "text" : "They don't celebrate VA Day.",
+  "translations" : {
+    "russian" : "Они День Ветеранов не празднуют."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "don't",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "celebrate",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "va",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "day",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcCrCNEXFMlzHK5qK",
   "text" : "We'll celebrate it next Wednesday.",
   "translations" : {
@@ -325,6 +452,44 @@
     "token" : "wednesday",
     "startOffset" : 24,
     "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUyJ2DTAu_IiLfX0P",
+  "text" : "Well, Quakers don't celebrate Christmas.",
+  "translations" : {
+    "russian" : "Квакеры не празднуют Рождество."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "quaker",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "quake",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "don't",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "celebrate",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "christmas",
+    "startOffset" : 30,
+    "endOffset" : 39,
     "position" : 4
   } ],
   "contentScore" : null
@@ -363,44 +528,6 @@
     "token" : "because",
     "startOffset" : 32,
     "endOffset" : 39,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcCPMNEXFMlzHK5pw",
-  "text" : "We were celebrating Brian's 18th birthday.",
-  "translations" : {
-    "russian" : "Мы праздновали 18-летие Брайана."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "were",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "celebrate",
-    "startOffset" : 8,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "brian",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "18th",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 4
-  }, {
-    "token" : "birthday",
-    "startOffset" : 33,
-    "endOffset" : 41,
     "position" : 5
   } ],
   "contentScore" : null

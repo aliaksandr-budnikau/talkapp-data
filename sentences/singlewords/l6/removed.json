@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoFSnqVDTAu_IiLfWQC",
+  "text" : "Moving capital.",
+  "translations" : {
+    "russian" : "Движущийся капитал."
+  },
+  "tokens" : [ {
+    "token" : "moving",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "move",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "capital",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrAvkNEXFMlzHLKX7",
   "text" : "Moving to next panel.",
   "translations" : {
@@ -65,378 +88,76 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdCkLNEXFMlzHK6jv",
-  "text" : "Go move some paper.",
+  "id" : "AWoDSeClDTAu_IiLd_Ng",
+  "text" : "On the moving walkway.",
   "translations" : {
-    "russian" : "Иди-ка таскай бумагу."
+    "russian" : "Он оторвался от нашей помощницы в переходе."
   },
   "tokens" : [ {
-    "token" : "go",
+    "token" : "on",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "move",
+    "token" : "the",
     "startOffset" : 3,
-    "endOffset" : 7,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "some",
-    "startOffset" : 8,
-    "endOffset" : 12,
+    "token" : "moving",
+    "startOffset" : 7,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "paper",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
+    "token" : "move",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
   }, {
-    "token" : "pap",
-    "startOffset" : 13,
-    "endOffset" : 18,
+    "token" : "walkway",
+    "startOffset" : 14,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggqX0NEXFMlzHK9qU",
-  "text" : "Don't move your body.",
+  "id" : "AWoDefhtDTAu_IiLeGFb",
+  "text" : "The barrel is moving...",
   "translations" : {
-    "russian" : "Не двигай своим туловищем."
+    "russian" : "Дуло..."
   },
   "tokens" : [ {
-    "token" : "don't",
+    "token" : "the",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "move",
-    "startOffset" : 6,
+    "token" : "barrel",
+    "startOffset" : 4,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "your",
+    "token" : "is",
     "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "body",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglVyeNEXFMlzHLCXX",
-  "text" : "Moving to next panel.",
-  "translations" : {
-    "russian" : "Переходим к следующей панели."
-  },
-  "tokens" : [ {
-    "token" : "moving",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "move",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "next",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "panel",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgi6XjNEXFMlzHK_kn",
-  "text" : "Am I moving cells?",
-  "translations" : {
-    "russian" : "Меня переводят в камеру?"
-  },
-  "tokens" : [ {
-    "token" : "am",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 3,
-    "endOffset" : 4,
-    "position" : 1
-  }, {
-    "token" : "moving",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "move",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "cell",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkJp1NEXFMlzHLAkq",
-  "text" : "Ooh, pretty slick move.",
-  "translations" : {
-    "russian" : "О, очень скользкий ход."
-  },
-  "tokens" : [ {
-    "token" : "ooh",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "pretty",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "slick",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "move",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmjQ_NEXFMlzHLEFI",
-  "text" : "Go move some paper.",
-  "translations" : {
-    "russian" : "Иди-ка таскай бумагу."
-  },
-  "tokens" : [ {
-    "token" : "go",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "move",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "some",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "paper",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "pap",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm0UDNEXFMlzHLEia",
-  "text" : "God, we move slow.",
-  "translations" : {
-    "russian" : "Боже, какие мы медлительные."
-  },
-  "tokens" : [ {
-    "token" : "god",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "we",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "move",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "slow",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgc7WoNEXFMlzHK6dO",
-  "text" : "Delicate moves are being made.",
-  "translations" : {
-    "russian" : "Все делается крайне осторожно."
-  },
-  "tokens" : [ {
-    "token" : "delicate",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "move",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "being",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "bee",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "made",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiAiyNEXFMlzHK-1b",
-  "text" : "Please, keep the line moving.",
-  "translations" : {
-    "russian" : "Пожалуйста, не задерживайте очередь."
-  },
-  "tokens" : [ {
-    "token" : "please",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "keep",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "line",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "moving",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "move",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgommGNEXFMlzHLHK4",
-  "text" : "Of constant moving and stopping.",
-  "translations" : {
-    "russian" : "В постоянном движении и остановках."
-  },
-  "tokens" : [ {
-    "token" : "of",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "constant",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "moving",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "move",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "stopping",
-    "startOffset" : 23,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqBW2NEXFMlzHLJEp",
-  "text" : "You're moving the Chinese screen?",
-  "translations" : {
-    "russian" : "Ты выносишь китайскую ширму?"
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "moving",
-    "startOffset" : 7,
     "endOffset" : 13,
-    "position" : 1
+    "position" : 2
   }, {
-    "token" : "move",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "the",
+    "token" : "moving",
     "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "chinese",
-    "startOffset" : 18,
-    "endOffset" : 25,
+    "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "screen",
-    "startOffset" : 26,
-    "endOffset" : 32,
-    "position" : 4
+    "token" : "move",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguy3MNEXFMlzHLPzG",
-  "text" : "Let's keep moving, group delta.",
+  "id" : "AWoDtYE4DTAu_IiLeOai",
+  "text" : "Let's move briskly.",
   "translations" : {
-    "russian" : "Пронзительный свист Группа дельта, продолжаем двигаться дальше."
+    "russian" : "Давайте, живо."
   },
   "tokens" : [ {
     "token" : "let",
@@ -444,101 +165,285 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "keep",
+    "token" : "move",
     "startOffset" : 6,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "moving",
+    "token" : "brisk",
     "startOffset" : 11,
-    "endOffset" : 17,
+    "endOffset" : 18,
     "position" : 2
-  }, {
-    "token" : "move",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "group",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "delta",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdOTGNEXFMlzHK6uS",
-  "text" : "Another move has been played.",
+  "id" : "AWoDvSkyDTAu_IiLePls",
+  "text" : "And you're removing warts.",
   "translations" : {
-    "russian" : "Сделан еще один ход."
+    "russian" : "А ты удаляешь всякие наросты."
   },
   "tokens" : [ {
-    "token" : "another",
+    "token" : "and",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you're",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "move",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "wart",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDw2QlDTAu_IiLeQg-",
+  "text" : "Bad move, chump.",
+  "translations" : {
+    "russian" : "Плохой ход, приятель."
+  },
+  "tokens" : [ {
+    "token" : "bad",
+    "startOffset" : 0,
+    "endOffset" : 3,
     "position" : 0
   }, {
     "token" : "move",
-    "startOffset" : 8,
-    "endOffset" : 12,
+    "startOffset" : 4,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "has",
-    "startOffset" : 13,
-    "endOffset" : 16,
+    "token" : "chump",
+    "startOffset" : 10,
+    "endOffset" : 15,
     "position" : 2
-  }, {
-    "token" : "been",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "played",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "play",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkektNEXFMlzHLBBw",
-  "text" : "They move fast, like us.",
+  "id" : "AWoDxEubDTAu_IiLeQoN",
+  "text" : "Remove your encumbrances.",
   "translations" : {
-    "russian" : "Они двигаются так же быстро, как и мы."
+    "russian" : "Можете снять ваши каски."
   },
   "tokens" : [ {
-    "token" : "they",
+    "token" : "move",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "encumbrance",
+    "startOffset" : 12,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFny0DTAu_IiLediB",
+  "text" : "Gully, don't move.",
+  "translations" : {
+    "russian" : "Галли, не двигайся."
+  },
+  "tokens" : [ {
+    "token" : "gully",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "don't",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "move",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEihSrDTAu_IiLey9k",
+  "text" : "Move it, toots!",
+  "translations" : {
+    "russian" : "Подвинь это, дорогуша!"
+  },
+  "tokens" : [ {
+    "token" : "move",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "toots",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "toot",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAgbeDTAu_IiLfIan",
+  "text" : "Moving closer for verification.",
+  "translations" : {
+    "russian" : "Подойдите ближе для проверки."
+  },
+  "tokens" : [ {
+    "token" : "moving",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "move",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "closer",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "close",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "verification",
+    "startOffset" : 18,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJMF4DTAu_IiLfPAJ",
+  "text" : "Make moves, alter things.",
+  "translations" : {
+    "russian" : "Делают ходы, изменяют вещи."
+  },
+  "tokens" : [ {
+    "token" : "make",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "move",
     "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "alter",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "alt",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "th",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTV2XDTAu_IiLfWya",
+  "text" : "Remove this carcass!",
+  "translations" : {
+    "russian" : "Уберите это тело."
+  },
+  "tokens" : [ {
+    "token" : "move",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "this",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "carcass",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFTvl2DTAu_IiLfXFU",
+  "text" : "Your helmet, remove it.",
+  "translations" : {
+    "russian" : "Снимите каску."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "helmet",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "move",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDeMPRDTAu_IiLeF6E",
+  "text" : "Move that mutton!",
+  "translations" : {
+    "russian" : "Пошевели своего барана!"
+  },
+  "tokens" : [ {
+    "token" : "move",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 5,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "fast",
+    "token" : "mutton",
     "startOffset" : 10,
-    "endOffset" : 14,
+    "endOffset" : 16,
     "position" : 2
-  }, {
-    "token" : "like",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "us",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

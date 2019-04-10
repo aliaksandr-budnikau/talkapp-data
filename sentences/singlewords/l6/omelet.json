@@ -1,0 +1,42 @@
+[ {
+  "id" : "AWoEhTAUDTAu_IiLex8A",
+  "text" : "Mushroom omelet.",
+  "translations" : {
+    "russian" : "Грибной омлет."
+  },
+  "tokens" : [ {
+    "token" : "mushroom",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "omelet",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEydl2DTAu_IiLe-kj",
+  "text" : "A jelly omelet.",
+  "translations" : {
+    "russian" : "Со студнем."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "jelly",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "omelet",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

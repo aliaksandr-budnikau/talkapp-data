@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoFMjpNDTAu_IiLfRm3",
+  "text" : "Final stage.",
+  "translations" : {
+    "russian" : "Финальная стадия."
+  },
+  "tokens" : [ {
+    "token" : "final",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "stage",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFM826DTAu_IiLfR6E",
+  "text" : "Final stage.",
+  "translations" : {
+    "russian" : "Финальная стадия."
+  },
+  "tokens" : [ {
+    "token" : "final",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "stage",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbF4sNEXFMlzHK4zc",
   "text" : "I finally did it.",
   "translations" : {
@@ -106,6 +142,67 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFMkGPDTAu_IiLfRnP",
+  "text" : "Final stage of awakening!",
+  "translations" : {
+    "russian" : "Последний этап пробуждения!"
+  },
+  "tokens" : [ {
+    "token" : "final",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "stage",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "awakening",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "awaken",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYwX6DTAu_IiLfaxI",
+  "text" : "Finally, my little minx.",
+  "translations" : {
+    "russian" : "Наконец-то, моя маленькая шалунья."
+  },
+  "tokens" : [ {
+    "token" : "final",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "little",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "minx",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxlh9NEXFMlzHLTd5",
   "text" : "Oh, the final touch.",
   "translations" : {
@@ -134,10 +231,61 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjqfsNEXFMlzHLANN",
-  "text" : "I can finally compost!",
+  "id" : "AWoErH0gDTAu_IiLe5Yb",
+  "text" : "She has finally consented.",
   "translations" : {
-    "russian" : "Наконец-то я смогу удобрять компостом!"
+    "russian" : "Она наконец-то согласилась."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "has",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "final",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "consent",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVLcdDTAu_IiLfYFn",
+  "text" : "Final qualifier's tomorrow.",
+  "translations" : {
+    "russian" : "Завтра финал квалификации."
+  },
+  "tokens" : [ {
+    "token" : "final",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "qualifier",
+    "startOffset" : 6,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "tomorrow",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWlBmDTAu_IiLfZCs",
+  "text" : "I finally snapped.",
+  "translations" : {
+    "russian" : "Все сломалось."
   },
   "tokens" : [ {
     "token" : "i",
@@ -145,27 +293,22 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "can",
+    "token" : "final",
     "startOffset" : 2,
-    "endOffset" : 5,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "final",
-    "startOffset" : 6,
-    "endOffset" : 13,
+    "token" : "snapped",
+    "startOffset" : 10,
+    "endOffset" : 17,
     "position" : 2
-  }, {
-    "token" : "compost",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjsZUNEXFMlzHLAO1",
-  "text" : "Finally, a friendly face.",
+  "id" : "AWoDjwQEDTAu_IiLeJHa",
+  "text" : "Finally, a foolproof plan.",
   "translations" : {
-    "russian" : "Наконец-то хоть одно дружеское лицо."
+    "russian" : "Наконец-то надежный план."
   },
   "tokens" : [ {
     "token" : "final",
@@ -178,228 +321,73 @@
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "friendly",
+    "token" : "foolproof",
     "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "friend",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "face",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvZJuNEXFMlzHLQ0g",
-  "text" : "Final boarding call.",
-  "translations" : {
-    "russian" : "Последнее приглашение на посадку."
-  },
-  "tokens" : [ {
-    "token" : "final",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "boarding",
-    "startOffset" : 6,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "call",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrXmkNEXFMlzHLK5o",
-  "text" : "Amanda's final home...",
-  "translations" : {
-    "russian" : "Последнем приюте Аманды.."
-  },
-  "tokens" : [ {
-    "token" : "amanda",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "final",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "home",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguy0gNEXFMlzHLPzB",
-  "text" : "And finally, there's delta.",
-  "translations" : {
-    "russian" : "И наконец, идет дельта."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "final",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "there",
-    "startOffset" : 13,
     "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "delta",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyqJ2NEXFMlzHLVDg",
-  "text" : "It's his final request.",
-  "translations" : {
-    "russian" : "Это его последняя просьба."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "his",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "final",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "request",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv1hfNEXFMlzHLRf3",
-  "text" : "The marshals finally came through.",
-  "translations" : {
-    "russian" : "Маршалы как раз до них добрались."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "marshal",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "final",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "came",
+    "token" : "plan",
     "startOffset" : 21,
     "endOffset" : 25,
     "position" : 3
-  }, {
-    "token" : "through",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgn7XKNEXFMlzHLGQc",
-  "text" : "It's my final journalism project.",
+  "id" : "AWoErCQ0DTAu_IiLe5Uc",
+  "text" : "She has finally consented.",
   "translations" : {
-    "russian" : "Это мой заключительный проект по журналистике."
+    "russian" : "Она наконец-то согласилась."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "she",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "my",
-    "startOffset" : 5,
+    "token" : "has",
+    "startOffset" : 4,
     "endOffset" : 7,
     "position" : 1
   }, {
     "token" : "final",
     "startOffset" : 8,
-    "endOffset" : 13,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "journalism",
-    "startOffset" : 14,
-    "endOffset" : 24,
+    "token" : "consent",
+    "startOffset" : 16,
+    "endOffset" : 25,
     "position" : 3
-  }, {
-    "token" : "project",
-    "startOffset" : 25,
-    "endOffset" : 32,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgy-SMNEXFMlzHLVgR",
-  "text" : "My transfer finally came through.",
+  "id" : "AWoErCJfDTAu_IiLe5UX",
+  "text" : "She finally consented.",
   "translations" : {
-    "russian" : "Наконец-то пришел мой перевод."
+    "russian" : "Наконец она согласилась."
   },
   "tokens" : [ {
-    "token" : "my",
+    "token" : "she",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "transfer",
-    "startOffset" : 3,
+    "token" : "final",
+    "startOffset" : 4,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "final",
+    "token" : "consent",
     "startOffset" : 12,
-    "endOffset" : 19,
+    "endOffset" : 21,
     "position" : 2
-  }, {
-    "token" : "came",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "through",
-    "startOffset" : 25,
-    "endOffset" : 32,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnD63NEXFMlzHLE5j",
-  "text" : "FINAL CUT - LADIES AND GENTLEMEN.",
+  "id" : "AWoFM9c2DTAu_IiLfR6c",
+  "text" : "Final stage of awakening!",
   "translations" : {
-    "russian" : "ОКОНЧАТЕЛЬНЫЙ МОНТАЖ, - ДАМЫ И ГОСПОДА!"
+    "russian" : "Последний этап пробуждения!"
   },
   "tokens" : [ {
     "token" : "final",
@@ -407,63 +395,25 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "cut",
+    "token" : "stage",
     "startOffset" : 6,
-    "endOffset" : 9,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "lady",
+    "token" : "of",
     "startOffset" : 12,
-    "endOffset" : 18,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "and",
-    "startOffset" : 19,
-    "endOffset" : 22,
+    "token" : "awakening",
+    "startOffset" : 15,
+    "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "gentlemen",
-    "startOffset" : 23,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxlnVNEXFMlzHLTeG",
-  "text" : "I do final touches only.",
-  "translations" : {
-    "russian" : "Я делаю только финальные штрихи."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "do",
-    "startOffset" : 2,
-    "endOffset" : 4,
-    "position" : 1
-  }, {
-    "token" : "final",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "touch",
-    "startOffset" : 11,
-    "endOffset" : 18,
+    "token" : "awaken",
+    "startOffset" : 15,
+    "endOffset" : 24,
     "position" : 3
-  }, {
-    "token" : "only",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "on",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

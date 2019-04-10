@@ -1,62 +1,439 @@
 [ {
-  "id" : "AWbgucvXNEXFMlzHLPHv",
-  "text" : "Ku, you pest!",
+  "id" : "AWoE5m7jDTAu_IiLfDap",
+  "text" : "Pensive.",
   "translations" : {
-    "russian" : "Кю, зараза!"
+    "russian" : "Задумчивой."
   },
   "tokens" : [ {
-    "token" : "ku",
+    "token" : "pensive",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "you",
-    "startOffset" : 4,
+    "token" : "pens",
+    "startOffset" : 0,
     "endOffset" : 7,
-    "position" : 1
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFfz8DTAu_IiLfMDR",
+  "text" : "Straws, pens, toothpicks.",
+  "translations" : {
+    "russian" : "Соломинки, ручки, зубочистки."
+  },
+  "tokens" : [ {
+    "token" : "straw",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
   }, {
-    "token" : "pest",
+    "token" : "pens",
     "startOffset" : 8,
     "endOffset" : 12,
-    "position" : 2
+    "position" : 1
   }, {
     "token" : "p",
     "startOffset" : 8,
     "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "toothpick",
+    "startOffset" : 14,
+    "endOffset" : 24,
     "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgctoeNEXFMlzHK6Q3",
-  "text" : "Chocolate cream thigh... p-pie.",
+  "id" : "AWoE5mywDTAu_IiLfDaj",
+  "text" : "Really pensive.",
   "translations" : {
-    "russian" : "Шоколадно - кремовое бедро- - пирог."
+    "russian" : "Очень задумчивый."
   },
   "tokens" : [ {
-    "token" : "chocolate",
+    "token" : "ally",
     "startOffset" : 0,
-    "endOffset" : 9,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "cream",
-    "startOffset" : 10,
-    "endOffset" : 15,
+    "token" : "pensive",
+    "startOffset" : 7,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "thigh",
-    "startOffset" : 16,
+    "token" : "pens",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5nBqDTAu_IiLfDat",
+  "text" : "So pensive...",
+  "translations" : {
+    "russian" : "Такая задумчивая..."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "pensive",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pens",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5nP0DTAu_IiLfDa1",
+  "text" : "I'm pensive.",
+  "translations" : {
+    "russian" : "Я задумался."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pensive",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "pens",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5m4nDTAu_IiLfDan",
+  "text" : "And pensive.",
+  "translations" : {
+    "russian" : "И задумчива."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pensive",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "pens",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5ndfDTAu_IiLfDa8",
+  "text" : "Pensive? Yeah.",
+  "translations" : {
+    "russian" : "Меланхоличные?"
+  },
+  "tokens" : [ {
+    "token" : "pensive",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "pens",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "yeah",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5m6FDTAu_IiLfDao",
+  "text" : "SONDRA No, not pensive.",
+  "translations" : {
+    "russian" : "Нет, не задумчива."
+  },
+  "tokens" : [ {
+    "token" : "sondra",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "no",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "pensive",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "pens",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5nVMDTAu_IiLfDa4",
+  "text" : "Aren't we pensive!",
+  "translations" : {
+    "russian" : "О чём задумалась?"
+  },
+  "tokens" : [ {
+    "token" : "aren't",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "we",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "pensive",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "pens",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5nDHDTAu_IiLfDau",
+  "text" : "Oh, wow, so pensive.",
+  "translations" : {
+    "russian" : "Ух ты, такая задумчивая."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "wow",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "so",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "pensive",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "pens",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5nMJDTAu_IiLfDaz",
+  "text" : "Still feeling pensive?",
+  "translations" : {
+    "russian" : "Всё ещё задумчивы?"
+  },
+  "tokens" : [ {
+    "token" : "still",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "feeling",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "feel",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "pensive",
+    "startOffset" : 14,
     "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "p",
-    "startOffset" : 25,
-    "endOffset" : 26,
+    "token" : "pens",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5m26DTAu_IiLfDam",
+  "text" : "You look so pensive.",
+  "translations" : {
+    "russian" : "Ты выглядишь таким задумчивым."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "look",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "so",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "pensive",
+    "startOffset" : 12,
+    "endOffset" : 19,
     "position" : 3
   }, {
-    "token" : "pie",
-    "startOffset" : 27,
-    "endOffset" : 30,
-    "position" : 4
+    "token" : "pens",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5m0ODTAu_IiLfDak",
+  "text" : "You Look pensive.",
+  "translations" : {
+    "russian" : "Вы выглядите задумчивым."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "look",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pensive",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "pens",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5nGiDTAu_IiLfDaw",
+  "text" : "I am not pensive!",
+  "translations" : {
+    "russian" : "Я не задумчив!"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 2
+  }, {
+    "token" : "pensive",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "pens",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5nTfDTAu_IiLfDa3",
+  "text" : "You've become pensive.",
+  "translations" : {
+    "russian" : "О чем задумались?"
+  },
+  "tokens" : [ {
+    "token" : "you've",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "become",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "pensive",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "pens",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5qcLDTAu_IiLfDc5",
+  "text" : "You seem... pensive.",
+  "translations" : {
+    "russian" : "Ты кажешься... печальным."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "seem",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pensive",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "pens",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

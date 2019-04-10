@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoD7t-tDTAu_IiLeV69",
+  "text" : "Vector attack.",
+  "translations" : {
+    "russian" : "Нападение зараженного."
+  },
+  "tokens" : [ {
+    "token" : "vector",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "attack",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaZG1DTAu_IiLfcI8",
+  "text" : "COMMUNIST ATTACK!",
+  "translations" : {
+    "russian" : "КОММУНИСТЫ АТАКУЮТ!"
+  },
+  "tokens" : [ {
+    "token" : "communist",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "attack",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgi-bANEXFMlzHK_oK",
   "text" : "We're under nuclear attack.",
   "translations" : {
@@ -23,6 +59,62 @@
     "token" : "attack",
     "startOffset" : 20,
     "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeZbNDTAu_IiLffKw",
+  "text" : "Coordinate your attacks.",
+  "translations" : {
+    "russian" : "Согласуйте атаки."
+  },
+  "tokens" : [ {
+    "token" : "coordinate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "attack",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXqJoDTAu_IiLfZ2l",
+  "text" : "Her attacker gagged her...",
+  "translations" : {
+    "russian" : "Нападавший заткнул ей рот..."
+  },
+  "tokens" : [ {
+    "token" : "her",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "attacker",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "attack",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "gagged",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "her",
+    "startOffset" : 20,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
@@ -83,132 +175,191 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguyyzNEXFMlzHLPy9",
-  "text" : "Colonel, attack pattern Delta.",
+  "id" : "AWoD2XSuDTAu_IiLeTTh",
+  "text" : "A Transient Ischemic Attack.",
   "translations" : {
-    "russian" : "Полковник, атака образца Дельта."
+    "russian" : "Преходящего Ишемического Нарушения мозгового кровообращения."
   },
   "tokens" : [ {
-    "token" : "colonel",
+    "token" : "a",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "attack",
-    "startOffset" : 9,
-    "endOffset" : 15,
+    "token" : "transient",
+    "startOffset" : 2,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "pattern",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "delta",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglKIDNEXFMlzHLCCa",
-  "text" : "Attacked first, then killed.",
-  "translations" : {
-    "russian" : "Сначала на него напали затем убили."
-  },
-  "tokens" : [ {
-    "token" : "attack",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "first",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "th",
-    "startOffset" : 16,
+    "token" : "ischemic",
+    "startOffset" : 12,
     "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "kill",
+    "token" : "attack",
     "startOffset" : 21,
     "endOffset" : 27,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoRGxNEXFMlzHLGpz",
-  "text" : "Maybe it's a heart attack.",
+  "id" : "AWoFDODsDTAu_IiLfKcB",
+  "text" : "Attack the Protector?",
   "translations" : {
-    "russian" : "Может, сердечный приступ?"
+    "russian" : "Нападем на Протектора?"
   },
   "tokens" : [ {
-    "token" : "maybe",
+    "token" : "attack",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "it",
-    "startOffset" : 6,
+    "token" : "the",
+    "startOffset" : 7,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "a",
+    "token" : "protector",
     "startOffset" : 11,
-    "endOffset" : 12,
+    "endOffset" : 20,
     "position" : 2
-  }, {
-    "token" : "heart",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "attack",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoW6gNEXFMlzHLGyv",
-  "text" : "So it's personal, this attack?",
+  "id" : "AWoFGiWUDTAu_IiLfM0Y",
+  "text" : "She averted the attack.",
   "translations" : {
-    "russian" : "Таким образом, это личное нападение?"
+    "russian" : "Она предотвратила атаку."
   },
   "tokens" : [ {
-    "token" : "so",
+    "token" : "she",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "it",
-    "startOffset" : 3,
-    "endOffset" : 7,
+    "token" : "avert",
+    "startOffset" : 4,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "personal",
-    "startOffset" : 8,
-    "endOffset" : 16,
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "this",
-    "startOffset" : 18,
+    "token" : "attack",
+    "startOffset" : 16,
     "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "attack",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoRRBNEXFMlzHLGqC",
-  "text" : "He had a heart attack.",
+  "id" : "AWoFaGXfDTAu_IiLfb5O",
+  "text" : "Terrorist attacks and comedians.",
   "translations" : {
-    "russian" : "Он умер от сердечного приступа."
+    "russian" : "Про террористов и комедии."
+  },
+  "tokens" : [ {
+    "token" : "terrorist",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "attack",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "comedian",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeT6XDTAu_IiLffGv",
+  "text" : "Coordinate your attacks.",
+  "translations" : {
+    "russian" : "Согласуйте атаки."
+  },
+  "tokens" : [ {
+    "token" : "coordinate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "attack",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQjuXDTAu_IiLd95d",
+  "text" : "They advocated guerrilla attacks.",
+  "translations" : {
+    "russian" : "Они были сторонниками партизанских атак."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "advocate",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "guerrilla",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "attack",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjt4XDTAu_IiLeJGF",
+  "text" : "Serenity, optimism, attack.",
+  "translations" : {
+    "russian" : "Спокойствие, оптимизм, атаку."
+  },
+  "tokens" : [ {
+    "token" : "serenity",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "optimism",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "attack",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGTflDTAu_IiLfMpV",
+  "text" : "He eluded his attackers.",
+  "translations" : {
+    "russian" : "Он скрывался от нападавших."
   },
   "tokens" : [ {
     "token" : "he",
@@ -216,314 +367,48 @@
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "had",
+    "token" : "elude",
     "startOffset" : 3,
-    "endOffset" : 6,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 7,
-    "endOffset" : 8,
-    "position" : 2
-  }, {
-    "token" : "heart",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "attack",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnQDyNEXFMlzHLFJF",
-  "text" : "Prepare for a surprise attack.",
-  "translations" : {
-    "russian" : "Приготовьтесь к внезапной атаке."
-  },
-  "tokens" : [ {
-    "token" : "prepare",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
+    "token" : "his",
+    "startOffset" : 10,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "surprise",
+    "token" : "attack",
     "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "attack",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoRD2NEXFMlzHLGpu",
-  "text" : "Father's had a heart attack.",
-  "translations" : {
-    "russian" : "У папы был сердечный приступ."
-  },
-  "tokens" : [ {
-    "token" : "father",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "had",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "heart",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "attack",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwddwNEXFMlzHLSNG",
-  "text" : "Caught all your heart attacks.",
-  "translations" : {
-    "russian" : "Он улавливал все твои сердечные приступы."
-  },
-  "tokens" : [ {
-    "token" : "caught",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "all",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "heart",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "attack",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghtgTNEXFMlzHK-k7",
-  "text" : "Where it'll appear, who it'll attack...",
-  "translations" : {
-    "russian" : "Где он появится, на кого нападёт..."
-  },
-  "tokens" : [ {
-    "token" : "where",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "it'll",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "appear",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "who",
-    "startOffset" : 20,
     "endOffset" : 23,
     "position" : 3
-  }, {
-    "token" : "it'll",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "attack",
-    "startOffset" : 30,
-    "endOffset" : 36,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrhj_NEXFMlzHLLIT",
-  "text" : "Control died of a heart attack.",
+  "id" : "AWoFGhPkDTAu_IiLfMzi",
+  "text" : "He eluded his attackers.",
   "translations" : {
-    "russian" : "Контролер умер от сердечного приступа."
+    "russian" : "Он скрывался от нападавших."
   },
   "tokens" : [ {
-    "token" : "control",
+    "token" : "he",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "die",
-    "startOffset" : 8,
-    "endOffset" : 12,
+    "token" : "elude",
+    "startOffset" : 3,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "of",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 16,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "heart",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "attack",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpWAuNEXFMlzHLIH8",
-  "text" : "Where it'll appear, who it'll attack...",
-  "translations" : {
-    "russian" : "Где он появится, на кого нападёт..."
-  },
-  "tokens" : [ {
-    "token" : "where",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "it'll",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "appear",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "who",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "it'll",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "attack",
-    "startOffset" : 30,
-    "endOffset" : 36,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguzlkNEXFMlzHLP0f",
-  "text" : "That drone attack she's talking about...",
-  "translations" : {
-    "russian" : "Атака беспилотника, о которой она говорит..."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "drone",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "attack",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "she",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "talk",
-    "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "about",
-    "startOffset" : 32,
-    "endOffset" : 37,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoRwgNEXFMlzHLGqw",
-  "text" : "And oops... a new heart attack.",
-  "translations" : {
-    "russian" : "И опа новый инфаркт."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "oops",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
+    "token" : "his",
+    "startOffset" : 10,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "new",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "heart",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
     "token" : "attack",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 5
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

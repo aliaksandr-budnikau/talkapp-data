@@ -1,4 +1,111 @@
 [ {
+  "id" : "AWoFPcRgDTAu_IiLfTvx",
+  "text" : "Wheal Grace.",
+  "translations" : {
+    "russian" : "Уил-Грейс."
+  },
+  "tokens" : [ {
+    "token" : "wheal",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "grace",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjqu6DTAu_IiLeJEW",
+  "text" : "Grace says it's hideous.",
+  "translations" : {
+    "russian" : "Грейс говорит, оно отвратительно."
+  },
+  "tokens" : [ {
+    "token" : "grace",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "says",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "say",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "hideous",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9EfrDTAu_IiLeW8h",
+  "text" : "Disgrace to profession.",
+  "translations" : {
+    "russian" : "Позор профессии."
+  },
+  "tokens" : [ {
+    "token" : "disgrace",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "grace",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "profession",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPcQLDTAu_IiLfTvw",
+  "text" : "Halfway towards Wheal Grace?",
+  "translations" : {
+    "russian" : "На полпути к Уил-Грейс?"
+  },
+  "tokens" : [ {
+    "token" : "halfway",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "towards",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "wheal",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "grace",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguoD5NEXFMlzHLPeZ",
   "text" : "Right, it's a disgrace.",
   "translations" : {
@@ -32,6 +139,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEmHIXDTAu_IiLe1p-",
+  "text" : "NOT NECESSARY, YOUR GRACE.",
+  "translations" : {
+    "russian" : "Нет необходимости, ваша светлость."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "necessary",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "grace",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzX72NEXFMlzHLWVe",
   "text" : "Pomegranate tart, Your Grace?",
   "translations" : {
@@ -57,6 +192,62 @@
     "startOffset" : 23,
     "endOffset" : 28,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPcTEDTAu_IiLfTvy",
+  "text" : "I'm opening Wheal Grace.",
+  "translations" : {
+    "russian" : "Я открываю Уил-Грейс."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "opening",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "open",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "wheal",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "grace",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPcbJDTAu_IiLfTv6",
+  "text" : "And Wheal Grace.",
+  "translations" : {
+    "russian" : "И за Уил-Грейс."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "wheal",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "grace",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -98,13 +289,145 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtsUpNEXFMlzHLNzX",
-  "text" : "I'm the town's magistrate, Your Grace.",
+  "id" : "AWoES0bFDTAu_IiLenU8",
+  "text" : "We exhumed his body, Grace.",
   "translations" : {
-    "russian" : "Я городской магистрат, ваша светлость."
+    "russian" : "Мы эксгумировали тело, Грейс."
   },
   "tokens" : [ {
-    "token" : "i'm",
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "exhume",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "body",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "grace",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz88FDTAu_IiLeSKy",
+  "text" : "Steve, you disgraced the hoop.",
+  "translations" : {
+    "russian" : "Стив, ты позоришь кольцо."
+  },
+  "tokens" : [ {
+    "token" : "steve",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "grace",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "hoop",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFGh1DTAu_IiLedJL",
+  "text" : "Grace Baskin OD'd on pills.",
+  "translations" : {
+    "russian" : "Грейс Баскин умерла от передозировки таблеток."
+  },
+  "tokens" : [ {
+    "token" : "grace",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "baskin",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "od'd",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "pill",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXPuuDTAu_IiLfZiI",
+  "text" : "Grace was in southern climes...",
+  "translations" : {
+    "russian" : "Грейс была в южных краях."
+  },
+  "tokens" : [ {
+    "token" : "grace",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "southern",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "clime",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnLjaDTAu_IiLeK_b",
+  "text" : "For the pointlessness of grace.",
+  "translations" : {
+    "russian" : "Бессмысленность Благодати."
+  },
+  "tokens" : [ {
+    "token" : "for",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
@@ -114,25 +437,63 @@
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "town",
+    "token" : "pointlessness",
     "startOffset" : 8,
-    "endOffset" : 14,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "magistrate",
-    "startOffset" : 15,
+    "token" : "pointless",
+    "startOffset" : 8,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "grace",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoES716DTAu_IiLenap",
+  "text" : "You look ravishing, Hazel Grace.",
+  "translations" : {
+    "russian" : "ОЧаровательно выглядишь, Хэйзел Грэйс."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "look",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "ravishing",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "ravish",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "hazel",
+    "startOffset" : 20,
     "endOffset" : 25,
     "position" : 3
   }, {
-    "token" : "your",
-    "startOffset" : 27,
+    "token" : "grace",
+    "startOffset" : 26,
     "endOffset" : 31,
     "position" : 4
-  }, {
-    "token" : "grace",
-    "startOffset" : 32,
-    "endOffset" : 37,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

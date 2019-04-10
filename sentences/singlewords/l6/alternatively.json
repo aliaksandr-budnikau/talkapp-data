@@ -187,6 +187,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoETPofDTAu_IiLenpm",
+  "text" : "Alternative is your obliteration.",
+  "translations" : {
+    "russian" : "Альтернатива - ваше уничтожение."
+  },
+  "tokens" : [ {
+    "token" : "alternative",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "alternate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "obliteration",
+    "startOffset" : 20,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "obliterate",
+    "startOffset" : 20,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkSKSNEXFMlzHLAx5",
   "text" : "What's the alternative?",
   "translations" : {
@@ -490,44 +528,6 @@
     "token" : "production",
     "startOffset" : 34,
     "endOffset" : 44,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkSBgNEXFMlzHLAxp",
-  "text" : "You leave me no alternative.",
-  "translations" : {
-    "russian" : "Ты не оставляешь мне выбора."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "leave",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "no",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "alternative",
-    "startOffset" : 16,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "alternate",
-    "startOffset" : 16,
-    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null

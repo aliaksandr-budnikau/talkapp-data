@@ -1,4 +1,101 @@
 [ {
+  "id" : "AWoFVhA6DTAu_IiLfYUe",
+  "text" : "Paris beckoned.",
+  "translations" : {
+    "russian" : "Меня манил Париж."
+  },
+  "tokens" : [ {
+    "token" : "paris",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "beckon",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVfzEDTAu_IiLfYTp",
+  "text" : "Paris beckoned.",
+  "translations" : {
+    "russian" : "Меня манил Париж."
+  },
+  "tokens" : [ {
+    "token" : "paris",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "beckon",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtBpCDTAu_IiLe6qP",
+  "text" : "Ritzy, shabby, trashy Paris.",
+  "translations" : {
+    "russian" : "Шикарный, потрепанный, дряной Париж."
+  },
+  "tokens" : [ {
+    "token" : "ritzy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "shabby",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "trashy",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "paris",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdzBYDTAu_IiLfevj",
+  "text" : "Tom Paris is stable.",
+  "translations" : {
+    "russian" : "Том Перис стабилен."
+  },
+  "tokens" : [ {
+    "token" : "tom",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "paris",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "stable",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "st",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiWC8NEXFMlzHK_Fs",
   "text" : "Paris review, 2003.",
   "translations" : {
@@ -19,6 +116,62 @@
     "startOffset" : 14,
     "endOffset" : 18,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDhTAUDTAu_IiLeHt8",
+  "text" : "Ritzy, shabby, trashy Paris.",
+  "translations" : {
+    "russian" : "Шикарный, потрепанный, дряной Париж."
+  },
+  "tokens" : [ {
+    "token" : "ritzy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "shabby",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "trashy",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "paris",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnjFEDTAu_IiLe2v9",
+  "text" : "Between Paris, Beirut, Geneva.",
+  "translations" : {
+    "russian" : "Все время между Парижем, Бейрутом и Женевой."
+  },
+  "tokens" : [ {
+    "token" : "between",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "paris",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "beirut",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "geneva",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -73,6 +226,95 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDbbUuDTAu_IiLeEYE",
+  "text" : "Moscow, London, Athens Paris !",
+  "translations" : {
+    "russian" : "Москва, Лондон, Афины Париж!"
+  },
+  "tokens" : [ {
+    "token" : "moscow",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "london",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "athens",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "paris",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEE6Q7DTAu_IiLedAF",
+  "text" : "Wolves in Paris?",
+  "translations" : {
+    "russian" : "Волки в Париже?"
+  },
+  "tokens" : [ {
+    "token" : "wolves",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "paris",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEyJVDTAu_IiLfLiv",
+  "text" : "You're not acquainted with Paris?",
+  "translations" : {
+    "russian" : "Вы не знакомы с Парижем?"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "acquainted",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "acquaint",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "paris",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfEuqNEXFMlzHK8Tc",
   "text" : "I've once visited Paris myself.",
   "translations" : {
@@ -107,6 +349,77 @@
     "token" : "myself",
     "startOffset" : 24,
     "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7JyDDTAu_IiLeVhC",
+  "text" : "You're not acquainted with Paris?",
+  "translations" : {
+    "russian" : "Вы не знакомы с Парижем?"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "acquainted",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "acquaint",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "paris",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeMA0DTAu_IiLffBG",
+  "text" : "Dr. Rosemary Paris, field coordinator.",
+  "translations" : {
+    "russian" : "Доктор Розмари Парис, координатор."
+  },
+  "tokens" : [ {
+    "token" : "dr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "rosemary",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "paris",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "field",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "coordinator",
+    "startOffset" : 26,
+    "endOffset" : 37,
     "position" : 4
   } ],
   "contentScore" : null
@@ -146,120 +459,6 @@
     "startOffset" : 20,
     "endOffset" : 27,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmOAbNEXFMlzHLDg1",
-  "text" : "Paris seems draped in a sheet.",
-  "translations" : {
-    "russian" : "Париж, кажется, исчез в пелене."
-  },
-  "tokens" : [ {
-    "token" : "paris",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "seem",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "drape",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 22,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "sheet",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmOA6NEXFMlzHLDg2",
-  "text" : "Paris seems draped in a sheet.",
-  "translations" : {
-    "russian" : "Париж, кажется, исчез в пелене."
-  },
-  "tokens" : [ {
-    "token" : "paris",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "seem",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "drape",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 22,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "sheet",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqa-8NEXFMlzHLJoI",
-  "text" : "Let's go to our Paris correspondent...",
-  "translations" : {
-    "russian" : "Передаёт наш корреспондент в Париже..."
-  },
-  "tokens" : [ {
-    "token" : "let",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "go",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "our",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "paris",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "correspondent",
-    "startOffset" : 22,
-    "endOffset" : 35,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

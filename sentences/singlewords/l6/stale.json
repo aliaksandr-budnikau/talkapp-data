@@ -27,6 +27,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgzT6dNEXFMlzHLWNH",
+  "text" : "Oh, stale beer and pepperoni.",
+  "translations" : {
+    "russian" : "Oу, несвежим пивом и пепперони."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "stale",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "beer",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "bee",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "pepperoni",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzUNANEXFMlzHLWNo",
   "text" : "Look, your site is stale.",
   "translations" : {
@@ -93,44 +131,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzT6dNEXFMlzHLWNH",
-  "text" : "Oh, stale beer and pepperoni.",
-  "translations" : {
-    "russian" : "Oу, несвежим пивом и пепперони."
-  },
-  "tokens" : [ {
-    "token" : "oh",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "stale",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "beer",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "bee",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "pepperoni",
-    "startOffset" : 19,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgzT3hNEXFMlzHLWNA",
   "text" : "That lousy cake was stale.",
   "translations" : {
@@ -193,6 +193,39 @@
     "token" : "so",
     "startOffset" : 23,
     "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjcHWDTAu_IiLfidX",
+  "text" : "Stale perfume and brittle bones.",
+  "translations" : {
+    "russian" : "Затхлые духи и хрупкие кости."
+  },
+  "tokens" : [ {
+    "token" : "stale",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "perfume",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "brittle",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "bone",
+    "startOffset" : 26,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null

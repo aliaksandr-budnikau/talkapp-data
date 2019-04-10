@@ -1,4 +1,88 @@
 [ {
+  "id" : "AWoFGirhDTAu_IiLfM0l",
+  "text" : "Danger averted!",
+  "translations" : {
+    "russian" : "Опасность предотвращена!"
+  },
+  "tokens" : [ {
+    "token" : "danger",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dang",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "avert",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIujjDTAu_IiLefv4",
+  "text" : "There's no danger, darling.",
+  "translations" : {
+    "russian" : "Нет никакой опасности, дорогая."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "no",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "danger",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "dang",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "darling",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERqErDTAu_IiLemdD",
+  "text" : "He exudes danger!",
+  "translations" : {
+    "russian" : "Он излучает опасность!"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "exude",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "danger",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "dang",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrRr-NEXFMlzHLKxF",
   "text" : "Tubes of potential danger.",
   "translations" : {
@@ -32,79 +116,300 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtadnNEXFMlzHLNg1",
-  "text" : "Through dangers untold... and hardships unnumbered...",
+  "id" : "AWoEAfBRDTAu_IiLeZix",
+  "text" : "Eruption nearing danger peak.",
   "translations" : {
-    "russian" : "Через неимоверные опасности... и бесконечные трудности..."
+    "russian" : "Извержение приближается к опасному пику."
   },
   "tokens" : [ {
-    "token" : "through",
+    "token" : "eruption",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "dang",
-    "startOffset" : 8,
-    "endOffset" : 15,
+    "token" : "near",
+    "startOffset" : 9,
+    "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "told",
-    "startOffset" : 16,
-    "endOffset" : 22,
+    "token" : "danger",
+    "startOffset" : 17,
+    "endOffset" : 23,
     "position" : 2
   }, {
-    "token" : "and",
-    "startOffset" : 26,
-    "endOffset" : 29,
+    "token" : "dang",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "peak",
+    "startOffset" : 24,
+    "endOffset" : 28,
     "position" : 3
-  }, {
-    "token" : "hardship",
-    "startOffset" : 30,
-    "endOffset" : 39,
-    "position" : 4
-  }, {
-    "token" : "numbered",
-    "startOffset" : 40,
-    "endOffset" : 50,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtahRNEXFMlzHLNg2",
-  "text" : "Through dangers untold and hardships unnumbered...",
+  "id" : "AWoERrcmDTAu_IiLemeF",
+  "text" : "He exudes danger!",
   "translations" : {
-    "russian" : "Через неимоверные опасности и бесконечные трудности..."
+    "russian" : "Он излучает опасность!"
   },
   "tokens" : [ {
-    "token" : "through",
+    "token" : "he",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "dang",
-    "startOffset" : 8,
-    "endOffset" : 15,
+    "token" : "exude",
+    "startOffset" : 3,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "told",
-    "startOffset" : 16,
-    "endOffset" : 22,
+    "token" : "danger",
+    "startOffset" : 10,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "and",
-    "startOffset" : 23,
-    "endOffset" : 26,
+    "token" : "dang",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHQFmDTAu_IiLfNZk",
+  "text" : "Eruption nearing danger peak.",
+  "translations" : {
+    "russian" : "Извержение приближается к опасному пику."
+  },
+  "tokens" : [ {
+    "token" : "eruption",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "near",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "danger",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "dang",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "peak",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERx5mDTAu_IiLemi6",
+  "text" : "He exudes danger!",
+  "translations" : {
+    "russian" : "Он излучает опасность!"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "exude",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "danger",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "dang",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOjZpDTAu_IiLekNL",
+  "text" : "A fantasy encounter with danger.",
+  "translations" : {
+    "russian" : "Виртуальное столкновение со опасностью."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "fantasy",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "encounter",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 20,
+    "endOffset" : 24,
     "position" : 3
   }, {
-    "token" : "hardship",
-    "startOffset" : 27,
-    "endOffset" : 36,
+    "token" : "danger",
+    "startOffset" : 25,
+    "endOffset" : 31,
     "position" : 4
   }, {
-    "token" : "numbered",
-    "startOffset" : 37,
-    "endOffset" : 47,
-    "position" : 5
+    "token" : "dang",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOoUdDTAu_IiLekQ6",
+  "text" : "A fantasy encounter with danger.",
+  "translations" : {
+    "russian" : "Виртуальное столкновение со опасностью."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "fantasy",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "encounter",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "danger",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "dang",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRgnDDTAu_IiLfVa6",
+  "text" : "The chamberlain's in danger now.",
+  "translations" : {
+    "russian" : "Теперь Казначей в опасности."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "chamberlain",
+    "startOffset" : 4,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "danger",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "dang",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "now",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEg81gDTAu_IiLexq1",
+  "text" : "Dang this fancy comb!",
+  "translations" : {
+    "russian" : "Чтоб тебя, чудной гребень!"
+  },
+  "tokens" : [ {
+    "token" : "dang",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "this",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "fancy",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "comb",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGkT6DTAu_IiLfM1x",
+  "text" : "But danger's not yet averted!",
+  "translations" : {
+    "russian" : "Но опасность еще не миновала!"
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "danger",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "yet",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "avert",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

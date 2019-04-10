@@ -144,10 +144,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcIntNEXFMlzHK5vk",
-  "text" : "We should get confetti.",
+  "id" : "AWoDQIpIDTAu_IiLd9l-",
+  "text" : "We should be agitated.",
   "translations" : {
-    "russian" : "Нам надо купить конфетти."
+    "russian" : "Это мы должны нервничать."
   },
   "tokens" : [ {
     "token" : "we",
@@ -160,157 +160,83 @@
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "get",
+    "token" : "be",
     "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "agitated",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "agitate",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_7E9DTAu_IiLeZGq",
+  "text" : "Should I call Psych?",
+  "translations" : {
+    "russian" : "Может вызвать психолога?"
+  },
+  "tokens" : [ {
+    "token" : "should",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 9,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "confetti",
+    "token" : "psych",
     "startOffset" : 14,
-    "endOffset" : 22,
+    "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkQGqNEXFMlzHLAur",
-  "text" : "Should waste no time.",
+  "id" : "AWoDtXZ5DTAu_IiLeOaM",
+  "text" : "It should be brisk.",
   "translations" : {
-    "russian" : "Не следует терять время."
+    "russian" : "Нужно быстрей."
   },
   "tokens" : [ {
-    "token" : "should",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "waste",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "no",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "time",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgp6TiNEXFMlzHLI67",
-  "text" : "Should we order pizza?",
-  "translations" : {
-    "russian" : "Может, закажем пиццу?"
-  },
-  "tokens" : [ {
     "token" : "should",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "we",
-    "startOffset" : 7,
+    "startOffset" : 3,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "order",
+    "token" : "be",
     "startOffset" : 10,
-    "endOffset" : 15,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "pizza",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghP5MNEXFMlzHK-LH",
-  "text" : "Where should press?",
-  "translations" : {
-    "russian" : "Куда надо нажать?"
-  },
-  "tokens" : [ {
-    "token" : "where",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "should",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "press",
+    "token" : "brisk",
     "startOffset" : 13,
     "endOffset" : 18,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkKM_NEXFMlzHLAli",
-  "text" : "You should smoke less.",
-  "translations" : {
-    "russian" : "Вы бы меньше курили."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "should",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "smoke",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "less",
-    "startOffset" : 17,
-    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgohH1NEXFMlzHLHCk",
-  "text" : "Should probably report it.",
+  "id" : "AWoDyLAUDTAu_IiLeRLN",
+  "text" : "I should expel him!",
   "translations" : {
-    "russian" : "Видимо, стоит сообщить об этом."
-  },
-  "tokens" : [ {
-    "token" : "should",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "probably",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "port",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "it",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcoGyNEXFMlzHK6L2",
-  "text" : "I should be happy.",
-  "translations" : {
-    "russian" : "Я должна быть счастлива."
+    "russian" : "Его отчислят!"
   },
   "tokens" : [ {
     "token" : "i",
@@ -323,111 +249,78 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "be",
+    "token" : "expel",
     "startOffset" : 9,
-    "endOffset" : 11,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "happy",
-    "startOffset" : 12,
-    "endOffset" : 17,
+    "token" : "him",
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgfE_gNEXFMlzHK8Tr",
-  "text" : "We should visit Augusta.",
+  "id" : "AWoDy3OvDTAu_IiLeRkp",
+  "text" : "I should expel him!",
   "translations" : {
-    "russian" : "Нужно съездить в Огасту."
+    "russian" : "Его отчислят!"
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 1,
     "position" : 0
   }, {
     "token" : "should",
-    "startOffset" : 3,
-    "endOffset" : 9,
+    "startOffset" : 2,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "visit",
-    "startOffset" : 10,
-    "endOffset" : 15,
+    "token" : "expel",
+    "startOffset" : 9,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "augusta",
-    "startOffset" : 16,
-    "endOffset" : 23,
+    "token" : "him",
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxRTGNEXFMlzHLTCN",
-  "text" : "We should refuel now.",
+  "id" : "AWoECwWyDTAu_IiLebSm",
+  "text" : "I should smack her.",
   "translations" : {
-    "russian" : "Мы должны заправиться сейчас."
+    "russian" : "Надо её отшлёпать."
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 1,
     "position" : 0
   }, {
     "token" : "should",
-    "startOffset" : 3,
-    "endOffset" : 9,
+    "startOffset" : 2,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "fuel",
-    "startOffset" : 10,
-    "endOffset" : 16,
+    "token" : "smack",
+    "startOffset" : 9,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "now",
-    "startOffset" : 17,
-    "endOffset" : 20,
+    "token" : "her",
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbga_wqNEXFMlzHK4uC",
-  "text" : "You should visit the dentist.",
+  "id" : "AWoED-M3DTAu_IiLecRS",
+  "text" : "Should I meddle in?",
   "translations" : {
-    "russian" : "Вам следует сходить к стоматологу."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "should",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "visit",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "dentist",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcYOjNEXFMlzHK59r",
-  "text" : "Should I get the extinguisher?",
-  "translations" : {
-    "russian" : "Мне принести огнетушитель?"
+    "russian" : "Мне вмешаться?"
   },
   "tokens" : [ {
     "token" : "should",
@@ -440,25 +333,132 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "get",
+    "token" : "meddle",
     "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFqAtDTAu_IiLedjv",
+  "text" : "Poetry should be uplifting.",
+  "translations" : {
+    "russian" : "Поэзия должна быть вдохновляющей."
+  },
+  "tokens" : [ {
+    "token" : "poetry",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "should",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "uplift",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGENxDTAu_IiLed29",
+  "text" : "They should ban it.",
+  "translations" : {
+    "russian" : "Такое надо запрещать."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "should",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "ban",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERJYzDTAu_IiLemFP",
+  "text" : "Peeking over your shoulder.",
+  "translations" : {
+    "russian" : "Заглядывал тебе через плечо."
+  },
+  "tokens" : [ {
+    "token" : "peek",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "over",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "shoulder",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "should",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAqZLDTAu_IiLfIiR",
+  "text" : "He should be deported.",
+  "translations" : {
+    "russian" : "Он должен быть депортирован."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "should",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 10,
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "the",
+    "token" : "ported",
     "startOffset" : 13,
-    "endOffset" : 16,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "extinguisher",
-    "startOffset" : 17,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "extinguish",
-    "startOffset" : 17,
-    "endOffset" : 29,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

@@ -223,6 +223,90 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEv3V2DTAu_IiLe8nq",
+  "text" : "Joan of Arc Square.",
+  "translations" : {
+    "russian" : "На площади Жанны д'Арк."
+  },
+  "tokens" : [ {
+    "token" : "joan",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "arc",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "square",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZ6gpDTAu_IiLfbvV",
+  "text" : "Square peg, round hole!",
+  "translations" : {
+    "russian" : "Квадратный колышек в круглую дыру."
+  },
+  "tokens" : [ {
+    "token" : "square",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "peg",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "round",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "hole",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZ3YlDTAu_IiLfbsu",
+  "text" : "Square peg, round hole!",
+  "translations" : {
+    "russian" : "Квадратный колышек в круглую дыру."
+  },
+  "tokens" : [ {
+    "token" : "square",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "peg",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "round",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "hole",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrvzANEXFMlzHLLdM",
   "text" : "Uh-huh, infinity squared.",
   "translations" : {
@@ -350,85 +434,6 @@
     "startOffset" : 22,
     "endOffset" : 27,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrwBZNEXFMlzHLLdj",
-  "text" : "Pictures come in squares.",
-  "translations" : {
-    "russian" : "Ведь фото делают только в квадратах."
-  },
-  "tokens" : [ {
-    "token" : "picture",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "come",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "square",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrwayNEXFMlzHLLeI",
-  "text" : "Don't stand so square.",
-  "translations" : {
-    "russian" : "Не стой так прямо."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "stand",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "so",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "square",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrvxSNEXFMlzHLLdJ",
-  "text" : "Focusing - 1500 squares!",
-  "translations" : {
-    "russian" : "Наводка - 1500 квадратов!"
-  },
-  "tokens" : [ {
-    "token" : "focus",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "1500",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "square",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 2
   } ],
   "contentScore" : null
 } ]

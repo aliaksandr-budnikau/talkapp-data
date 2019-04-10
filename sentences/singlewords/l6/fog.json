@@ -1,8 +1,52 @@
 [ {
-  "id" : "AWbgo1DENEXFMlzHLHei",
-  "text" : "Fog has commitment issues.",
+  "id" : "AWoFCXmzDTAu_IiLfJ0C",
+  "text" : "Fog.",
   "translations" : {
-    "russian" : "У Фога проблемы с принятием решений."
+    "russian" : "Фог."
+  },
+  "tokens" : [ {
+    "token" : "fog",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCZ1JDTAu_IiLfJ1p",
+  "text" : "Fog.",
+  "translations" : {
+    "russian" : "Фог."
+  },
+  "tokens" : [ {
+    "token" : "fog",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCZ0EDTAu_IiLfJ1o",
+  "text" : "I'm Fog.",
+  "translations" : {
+    "russian" : "Я Фог."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "fog",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCZAWDTAu_IiLfJ1C",
+  "text" : "Fog monster?",
+  "translations" : {
+    "russian" : "Туманный монстр?"
   },
   "tokens" : [ {
     "token" : "fog",
@@ -10,25 +54,271 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "has",
+    "token" : "monster",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCZB7DTAu_IiLfJ1D",
+  "text" : "Fog monster.",
+  "translations" : {
+    "russian" : "Туманный монстр."
+  },
+  "tokens" : [ {
+    "token" : "fog",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "monster",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCWy2DTAu_IiLfJzb",
+  "text" : "Fog monster?",
+  "translations" : {
+    "russian" : "Туманный монстр?"
+  },
+  "tokens" : [ {
+    "token" : "fog",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "monster",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCW0LDTAu_IiLfJzc",
+  "text" : "Fog monster.",
+  "translations" : {
+    "russian" : "Туманный монстр."
+  },
+  "tokens" : [ {
+    "token" : "fog",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "monster",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCXleDTAu_IiLfJ0B",
+  "text" : "I'm Fog.",
+  "translations" : {
+    "russian" : "Я Фог."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "fog",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCWHtDTAu_IiLfJy9",
+  "text" : "Fog's coming in.",
+  "translations" : {
+    "russian" : "Туман надвигается."
+  },
+  "tokens" : [ {
+    "token" : "fog",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "come",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "com",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCW-TDTAu_IiLfJzk",
+  "text" : "No fog monster.",
+  "translations" : {
+    "russian" : "Никакого Туманного монстра."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "fog",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "monster",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCW1vDTAu_IiLfJzd",
+  "text" : "A fog monster.",
+  "translations" : {
+    "russian" : "Туманный монстр!"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "fog",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "monster",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCWwcDTAu_IiLfJzZ",
+  "text" : "The fog horn.",
+  "translations" : {
+    "russian" : "Туманный горн."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "fog",
     "startOffset" : 4,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "commitment",
+    "token" : "horn",
     "startOffset" : 8,
-    "endOffset" : 18,
+    "endOffset" : 12,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCZDfDTAu_IiLfJ1E",
+  "text" : "A fog monster.",
+  "translations" : {
+    "russian" : "Туманный монстр!"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
   }, {
-    "token" : "issues",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 3
+    "token" : "fog",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
   }, {
-    "token" : "issue",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 3
+    "token" : "monster",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCY6rDTAu_IiLfJ09",
+  "text" : "In the fog.",
+  "translations" : {
+    "russian" : "В тумане."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "fog",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCWtEDTAu_IiLfJzW",
+  "text" : "In the fog.",
+  "translations" : {
+    "russian" : "В тумане."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "fog",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCYT_DTAu_IiLfJ0j",
+  "text" : "Light ground fog.",
+  "translations" : {
+    "russian" : "Небольшой туман."
+  },
+  "tokens" : [ {
+    "token" : "light",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ground",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "fog",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

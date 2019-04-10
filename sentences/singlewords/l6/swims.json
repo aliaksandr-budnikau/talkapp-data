@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoDeNMoDTAu_IiLeF6m",
+  "text" : "Swim, flounder.",
+  "translations" : {
+    "russian" : "Купайся, барахтайся."
+  },
+  "tokens" : [ {
+    "token" : "swim",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "flounder",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgesU_NEXFMlzHK7-Q",
   "text" : "Now learn to swim.",
   "translations" : {
@@ -103,6 +121,29 @@
     "startOffset" : 12,
     "endOffset" : 20,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDpMJvDTAu_IiLeL_s",
+  "text" : "I can swim.",
+  "translations" : {
+    "russian" : "Я могу плавать."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 2,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "swim",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -363,72 +404,6 @@
     "startOffset" : 17,
     "endOffset" : 22,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgetYnNEXFMlzHK7_M",
-  "text" : "Any coupons for swim lessons?",
-  "translations" : {
-    "russian" : "Там есть купоны для уроков по плаванию?"
-  },
-  "tokens" : [ {
-    "token" : "any",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "coupon",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "swim",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "lesson",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgesGBNEXFMlzHK7-E",
-  "text" : "Don't worry, they can swim.",
-  "translations" : {
-    "russian" : "Да они плавать умеют."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "worry",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "they",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "can",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "swim",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

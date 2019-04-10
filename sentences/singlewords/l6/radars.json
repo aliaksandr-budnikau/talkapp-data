@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEoc6MDTAu_IiLe3ck",
+  "text" : "Or dynamite, radar, submarine, tanks?",
+  "translations" : {
+    "russian" : "Или динамит, радар, подводную лодку, танки?"
+  },
+  "tokens" : [ {
+    "token" : "or",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "dynamite",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "radar",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "submarine",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "tank",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvbTzNEXFMlzHLQ45",
   "text" : "Go get the radar detector.",
   "translations" : {
@@ -146,44 +179,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxQ3PNEXFMlzHLTBU",
-  "text" : "That our radar can't pick up?",
-  "translations" : {
-    "russian" : "Которые не видят наши радары?"
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "our",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "radar",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "can't",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "pick",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "up",
-    "startOffset" : 26,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgxQ-ENEXFMlzHLTBk",
   "text" : "He was not on your radar?",
   "translations" : {
@@ -218,6 +213,44 @@
     "token" : "radar",
     "startOffset" : 19,
     "endOffset" : 24,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgxQ3PNEXFMlzHLTBU",
+  "text" : "That our radar can't pick up?",
+  "translations" : {
+    "russian" : "Которые не видят наши радары?"
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "our",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "radar",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "can't",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "pick",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "up",
+    "startOffset" : 26,
+    "endOffset" : 28,
     "position" : 5
   } ],
   "contentScore" : null

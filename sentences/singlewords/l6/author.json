@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEnzUTDTAu_IiLe280",
+  "text" : "Published author, tap prodigy.",
+  "translations" : {
+    "russian" : "Мало того, что у нее книжка вышла, так еще и гений в чечетке."
+  },
+  "tokens" : [ {
+    "token" : "published",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "publish",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "author",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "tap",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "prodigy",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgssAoNEXFMlzHLMxz",
   "text" : "Philanthropist, author, socialite.",
   "translations" : {
@@ -47,6 +80,72 @@
     "startOffset" : 12,
     "endOffset" : 16,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbMHFDTAu_IiLfcx0",
+  "text" : "MARTIN LUTHER, THEOLOGIAN, AUTHOR, COMPOSER.",
+  "translations" : {
+    "russian" : "Мартин Лютер, богослов, автор."
+  },
+  "tokens" : [ {
+    "token" : "martin",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "luther",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "theologian",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "author",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "composer",
+    "startOffset" : 35,
+    "endOffset" : 43,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsy1JDTAu_IiLeOE8",
+  "text" : "MARTIN LUTHER, THEOLOGIAN, AUTHOR, COMPOSER.",
+  "translations" : {
+    "russian" : "Мартин Лютер, богослов, автор."
+  },
+  "tokens" : [ {
+    "token" : "martin",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "luther",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "theologian",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "author",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "composer",
+    "startOffset" : 35,
+    "endOffset" : 43,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

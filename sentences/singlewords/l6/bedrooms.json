@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoE-hB1DTAu_IiLfG0j",
+  "text" : "Baby... crib, you... bedroom.",
+  "translations" : {
+    "russian" : "Ребёнок в люльку, ты в спальню."
+  },
+  "tokens" : [ {
+    "token" : "baby",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "crib",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "bedroom",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglIESNEXFMlzHLB-p",
   "text" : "She has bedroom eyes.",
   "translations" : {
@@ -27,6 +55,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFYaVBDTAu_IiLfaeB",
+  "text" : "The bedroom rugs.",
+  "translations" : {
+    "russian" : "Коврики в ванной."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bedroom",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "rug",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzG9aNEXFMlzHLVyH",
   "text" : "Forty bedrooms, dining hall.",
   "translations" : {
@@ -51,6 +102,34 @@
     "token" : "hall",
     "startOffset" : 23,
     "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7luyDTAu_IiLfErg",
+  "text" : "Baby... crib, you... bedroom.",
+  "translations" : {
+    "russian" : "Ребёнок в люльку, ты в спальню."
+  },
+  "tokens" : [ {
+    "token" : "baby",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "crib",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "bedroom",
+    "startOffset" : 21,
+    "endOffset" : 28,
     "position" : 3
   } ],
   "contentScore" : null
@@ -93,6 +172,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDlkd9DTAu_IiLeKGn",
+  "text" : "I have a spare bedroom.",
+  "translations" : {
+    "russian" : "У меня есть свободная спальня."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 2
+  }, {
+    "token" : "spare",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "bedroom",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbI6FNEXFMlzHK42M",
   "text" : "Do the bedroom next time around.",
   "translations" : {
@@ -127,6 +239,120 @@
     "token" : "around",
     "startOffset" : 25,
     "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7hpfDTAu_IiLfEow",
+  "text" : "In the bedroom in his crib.",
+  "translations" : {
+    "russian" : "В спальне в колыбели."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "bedroom",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "his",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "crib",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-dqsDTAu_IiLfGxz",
+  "text" : "In the bedroom in his crib.",
+  "translations" : {
+    "russian" : "В спальне в колыбели."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "bedroom",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "his",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "crib",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD78BXDTAu_IiLeWEm",
+  "text" : "Upstairs there are four sumptuous bedrooms.",
+  "translations" : {
+    "russian" : "На втором этаже четыре великолепных спальни."
+  },
+  "tokens" : [ {
+    "token" : "upstairs",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "there",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "four",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "sumptuous",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "bedroom",
+    "startOffset" : 34,
+    "endOffset" : 42,
     "position" : 5
   } ],
   "contentScore" : null

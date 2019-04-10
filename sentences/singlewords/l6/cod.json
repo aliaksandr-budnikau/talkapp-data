@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWoFVOwuDTAu_IiLfYH7",
+  "text" : "Cod quota, 183,243 tons.",
+  "translations" : {
+    "russian" : "Квота трески 183 тонны 243 килограмма. Текущий уровень 20 тонн 686 килограммов."
+  },
+  "tokens" : [ {
+    "token" : "cod",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "quota",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "183,243",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "ton",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDO-75DTAu_IiLd86f",
+  "text" : "Cod save us from gamblers.",
+  "translations" : {
+    "russian" : "Но Бог хранит нас от игроков."
+  },
+  "tokens" : [ {
+    "token" : "cod",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "save",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "us",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "from",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "gamble",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

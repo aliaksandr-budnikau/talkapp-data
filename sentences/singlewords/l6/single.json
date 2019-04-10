@@ -1,4 +1,76 @@
 [ {
+  "id" : "AWoDtE--DTAu_IiLeOPP",
+  "text" : "Single combat.",
+  "translations" : {
+    "russian" : "Поединок."
+  },
+  "tokens" : [ {
+    "token" : "single",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "combat",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtUgfDTAu_IiLeOYh",
+  "text" : "Single combat.",
+  "translations" : {
+    "russian" : "Поединок."
+  },
+  "tokens" : [ {
+    "token" : "single",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "combat",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtUoPDTAu_IiLeOYl",
+  "text" : "Single combat.",
+  "translations" : {
+    "russian" : "Поединок."
+  },
+  "tokens" : [ {
+    "token" : "single",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "combat",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtE5vDTAu_IiLeOPL",
+  "text" : "Single combat.",
+  "translations" : {
+    "russian" : "Поединок."
+  },
+  "tokens" : [ {
+    "token" : "single",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "combat",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgq3NINEXFMlzHLKJh",
   "text" : "Double scotch, single malt.",
   "translations" : {
@@ -213,6 +285,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEoU34DTAu_IiLe3Wq",
+  "text" : "Not a single melon.",
+  "translations" : {
+    "russian" : "Ни одной дыньки."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "single",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "melon",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEM19nDTAu_IiLei7l",
+  "text" : "Not a single cavity.",
+  "translations" : {
+    "russian" : "Ни одной дырки."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "single",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "cavity",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgy2wgNEXFMlzHLVQ8",
   "text" : "And I'm still single.",
   "translations" : {
@@ -241,234 +369,36 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgy2jiNEXFMlzHLVQh",
-  "text" : "Eight, sir, with single occupancy.",
+  "id" : "AWoEh_XgDTAu_IiLeygq",
+  "text" : "Single chicken breast, please.",
   "translations" : {
-    "russian" : "Восемь, сэр, по одному на камеру."
+    "russian" : "Одну куриную грудинку, пожалуйста."
   },
   "tokens" : [ {
-    "token" : "eight",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "sir",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "with",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
     "token" : "single",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "occupancy",
-    "startOffset" : 24,
-    "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy2m_NEXFMlzHLVQo",
-  "text" : "Standard single, that's, er, 34.60.",
-  "translations" : {
-    "russian" : "На одного взрослого получается... 34. 60 фунта."
-  },
-  "tokens" : [ {
-    "token" : "standard",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "single",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "er",
-    "startOffset" : 25,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "34.60",
-    "startOffset" : 29,
-    "endOffset" : 34,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy2kgNEXFMlzHLVQj",
-  "text" : "You're lucky you're single, Alan.",
-  "translations" : {
-    "russian" : "Тебе повезло, что ты один, Алан."
-  },
-  "tokens" : [ {
-    "token" : "you're",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "lucky",
+    "token" : "chicken",
     "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "you're",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "single",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "alan",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy2uzNEXFMlzHLVQ4",
-  "text" : "Hey, fellas, I'm single again!",
-  "translations" : {
-    "russian" : "Эй приятели, я снова одинока!"
-  },
-  "tokens" : [ {
-    "token" : "hey",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "fella",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "i'm",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "single",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "again",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy3lhNEXFMlzHLVSs",
-  "text" : "I'm 27 and I'm single.",
-  "translations" : {
-    "russian" : "Мне 27 и я холост."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "27",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "i'm",
-    "startOffset" : 11,
     "endOffset" : 14,
-    "position" : 3
+    "position" : 1
   }, {
-    "token" : "single",
+    "token" : "chick",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "breast",
     "startOffset" : 15,
     "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy37-NEXFMlzHLVTa",
-  "text" : "Bailey said he was single.",
-  "translations" : {
-    "russian" : "Бейли утверждал, что он холостяк."
-  },
-  "tokens" : [ {
-    "token" : "bailey",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "said",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "he",
-    "startOffset" : 12,
-    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "was",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "single",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy4XVNEXFMlzHLVUU",
-  "text" : "You have any... single grandmothers?",
-  "translations" : {
-    "russian" : "У вас есть... незамужние бабушки?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "have",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "any",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "single",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "grandmother",
+    "token" : "please",
     "startOffset" : 23,
-    "endOffset" : 35,
-    "position" : 4
+    "endOffset" : 29,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

@@ -37,107 +37,67 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjFX8NEXFMlzHK_uW",
-  "text" : "Well done, audience member!",
+  "id" : "AWoEiJP3DTAu_IiLeyqG",
+  "text" : "Gang member.",
   "translations" : {
-    "russian" : "Совершенно верно, зал!"
+    "russian" : "Я бандит."
   },
   "tokens" : [ {
-    "token" : "well",
+    "token" : "gang",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "done",
+    "token" : "member",
     "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBWesDTAu_IiLeaM3",
+  "text" : "My crotch remembers.",
+  "translations" : {
+    "russian" : "А вот мои яйца это помнят."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "crotch",
+    "startOffset" : 3,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "audience",
-    "startOffset" : 11,
+    "token" : "members",
+    "startOffset" : 10,
     "endOffset" : 19,
     "position" : 2
-  }, {
-    "token" : "member",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnX1fNEXFMlzHLFVr",
-  "text" : "I mean who remembers this stuff?",
+  "id" : "AWoEBUeODTAu_IiLeaLc",
+  "text" : "My crotch remembers.",
   "translations" : {
-    "russian" : "Кто помнит эту чепуху?"
+    "russian" : "А вот мои яйца это помнят."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "my",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "mean",
-    "startOffset" : 2,
-    "endOffset" : 6,
+    "token" : "crotch",
+    "startOffset" : 3,
+    "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "who",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
   }, {
     "token" : "members",
-    "startOffset" : 11,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "this",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "stuff",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkrIiNEXFMlzHLBRh",
-  "text" : "You endanger a royal family member.",
-  "translations" : {
-    "russian" : "Ты подвергаешь опасности члена королевской семьи."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "endanger",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 13,
-    "endOffset" : 14,
+    "startOffset" : 10,
+    "endOffset" : 19,
     "position" : 2
-  }, {
-    "token" : "royal",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "family",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "member",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

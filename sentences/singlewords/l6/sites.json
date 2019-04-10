@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoFAEbvDTAu_IiLfIEz",
+  "text" : "It's another infection site.",
+  "translations" : {
+    "russian" : "Еще один очаг заражения."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "another",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "infection",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "site",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7A0TDTAu_IiLeVas",
+  "text" : "See the injection site?",
+  "translations" : {
+    "russian" : "Видишь след от укола?"
+  },
+  "tokens" : [ {
+    "token" : "see",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "injection",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "site",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzUNANEXFMlzHLWNo",
   "text" : "Look, your site is stale.",
   "translations" : {
@@ -65,6 +121,110 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDo0rkDTAu_IiLeLzi",
+  "text" : "I vandalized the construction site.",
+  "translations" : {
+    "russian" : "Я разрушила строительную площадку."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "vandalize",
+    "startOffset" : 2,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "construction",
+    "startOffset" : 17,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "site",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbeZzDTAu_IiLeti4",
+  "text" : "New York's foremost scandal site.",
+  "translations" : {
+    "russian" : "Самым выдающимся скандальным сайтом."
+  },
+  "tokens" : [ {
+    "token" : "new",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "york",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "foremost",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "scandal",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "site",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDiaG7DTAu_IiLeIW6",
+  "text" : "We got three defunct stockyard sites.",
+  "translations" : {
+    "russian" : "Мы получили три исчезнувшие сайты Складское."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "three",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "defunct",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "stockyard",
+    "startOffset" : 21,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "site",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguhQONEXFMlzHLPQ4",
   "text" : "The fuse races towards the site.",
   "translations" : {
@@ -99,6 +259,44 @@
     "token" : "site",
     "startOffset" : 27,
     "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYN07DTAu_IiLeCch",
+  "text" : "Occupy the site, picket his farm.",
+  "translations" : {
+    "russian" : "Занять долину, пикетировать его ферму."
+  },
+  "tokens" : [ {
+    "token" : "occupy",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "site",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "picket",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "his",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "farm",
+    "startOffset" : 28,
+    "endOffset" : 32,
     "position" : 5
   } ],
   "contentScore" : null

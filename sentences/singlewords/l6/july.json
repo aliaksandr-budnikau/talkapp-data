@@ -218,6 +218,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD7rglDTAu_IiLeV5P",
+  "text" : "Target vector, July 16...",
+  "translations" : {
+    "russian" : "Заданный вектор - 16 июля..."
+  },
+  "tokens" : [ {
+    "token" : "target",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "vector",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "july",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "16",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglcdwNEXFMlzHLCjM",
   "text" : "Day 10 22 July.",
   "translations" : {
@@ -430,39 +458,6 @@
     "token" : "july",
     "startOffset" : 32,
     "endOffset" : 36,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgldTjNEXFMlzHLCkq",
-  "text" : "But on July 21, 1997.",
-  "translations" : {
-    "russian" : "Но 21 июня 1997 года."
-  },
-  "tokens" : [ {
-    "token" : "but",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "on",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "july",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "21",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "1997",
-    "startOffset" : 16,
-    "endOffset" : 20,
     "position" : 4
   } ],
   "contentScore" : null

@@ -1,4 +1,75 @@
 [ {
+  "id" : "AWoDvaMvDTAu_IiLePqb",
+  "text" : "It's a woolly mammoth, Dad.",
+  "translations" : {
+    "russian" : "Это шерстистый мамонт, папа."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "woolly",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "wool",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "mammoth",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "dad",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlSPnDTAu_IiLeJ9L",
+  "text" : "The fibers are Berber wool.",
+  "translations" : {
+    "russian" : "Эти волокна это берберская шерсть."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "fib",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "berber",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "wool",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgev6vNEXFMlzHK8Be",
   "text" : "Got the wool cap on, huh?",
   "translations" : {
@@ -33,6 +104,44 @@
     "token" : "huh",
     "startOffset" : 21,
     "endOffset" : 24,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBStoDTAu_IiLeaKE",
+  "text" : "This looks like it's vicuna wool.",
+  "translations" : {
+    "russian" : "Это похоже на шерсть викуньи."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "look",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "like",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "vicuna",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "wool",
+    "startOffset" : 28,
+    "endOffset" : 32,
     "position" : 5
   } ],
   "contentScore" : null

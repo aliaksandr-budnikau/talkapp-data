@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoD2__GDTAu_IiLeTmo",
+  "text" : "Departmental budget crisis?",
+  "translations" : {
+    "russian" : "Ведомственный бюджетный кризис значит?"
+  },
+  "tokens" : [ {
+    "token" : "departmental",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "budget",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "crisis",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2_9ZDTAu_IiLeTmn",
+  "text" : "Departmental budget crisis.",
+  "translations" : {
+    "russian" : "Ведомственный бюджетный кризис."
+  },
+  "tokens" : [ {
+    "token" : "departmental",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "budget",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "crisis",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvl5GNEXFMlzHLRPU",
   "text" : "Our budget won't hold it.",
   "translations" : {
@@ -65,6 +111,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE2ctpDTAu_IiLfBVU",
+  "text" : "I've got a budget to finalize.",
+  "translations" : {
+    "russian" : "Смотри, мне надо завершить бюджет."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "budget",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "finalize",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnA06NEXFMlzHLE1x",
   "text" : "There's been so many budget cuts...",
   "translations" : {
@@ -99,6 +183,82 @@
     "token" : "cut",
     "startOffset" : 28,
     "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQtTFDTAu_IiLfUyO",
+  "text" : "Not enough budget for the manpower.",
+  "translations" : {
+    "russian" : "Не хватает бюджета на рабочую силу."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "enough",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "budget",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "manpower",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2TzEDTAu_IiLfBPU",
+  "text" : "I've got a budget to finalize.",
+  "translations" : {
+    "russian" : "Смотри, мне надо завершить бюджет."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "budget",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "finalize",
+    "startOffset" : 21,
+    "endOffset" : 29,
     "position" : 5
   } ],
   "contentScore" : null

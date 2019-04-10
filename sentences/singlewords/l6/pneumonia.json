@@ -54,4 +54,42 @@
     "position" : 4
   } ],
   "contentScore" : null
+}, {
+  "id" : "AWoDoXTjDTAu_IiLeLli",
+  "text" : "Pneumonia, lung water, so much phlegm...",
+  "translations" : {
+    "russian" : "Пневмония, мокрота в лёгкий."
+  },
+  "tokens" : [ {
+    "token" : "pneumonia",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "lung",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "water",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "so",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "much",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "phlegm",
+    "startOffset" : 31,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
 } ]

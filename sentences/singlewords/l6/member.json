@@ -1,4 +1,45 @@
 [ {
+  "id" : "AWoEiJP3DTAu_IiLeyqG",
+  "text" : "Gang member.",
+  "translations" : {
+    "russian" : "Я бандит."
+  },
+  "tokens" : [ {
+    "token" : "gang",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "member",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiLYJDTAu_IiLeysD",
+  "text" : "A gang member.",
+  "translations" : {
+    "russian" : "Член банды."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "gang",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "member",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjFX8NEXFMlzHK_uW",
   "text" : "Well done, audience member!",
   "translations" : {
@@ -65,6 +106,82 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEwcFRDTAu_IiLe9Dw",
+  "text" : "We're having a legitimate clergy member.",
+  "translations" : {
+    "russian" : "У нас будет полномочный представитель духовенства."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "legitimate",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "clergy",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "member",
+    "startOffset" : 33,
+    "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWc32DTAu_IiLfY9M",
+  "text" : "I'm a member of your tribe.",
+  "translations" : {
+    "russian" : "Я твой соплеменник."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "member",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "your",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "tribe",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkrIiNEXFMlzHLBRh",
   "text" : "You endanger a royal family member.",
   "translations" : {
@@ -99,6 +216,120 @@
     "token" : "member",
     "startOffset" : 28,
     "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiLjpDTAu_IiLeysP",
+  "text" : "Probably not a gang member, Chief.",
+  "translations" : {
+    "russian" : "Вряд ли он член банды, шеф."
+  },
+  "tokens" : [ {
+    "token" : "probably",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "gang",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "member",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "chief",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWNqHDTAu_IiLfYyq",
+  "text" : "He's a member of your clan?",
+  "translations" : {
+    "russian" : "Он из вашего клана?"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "member",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "your",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "clan",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWdNDDTAu_IiLfY9b",
+  "text" : "He's a member of your clan?",
+  "translations" : {
+    "russian" : "Он из вашего клана?"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "member",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "your",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "clan",
+    "startOffset" : 22,
+    "endOffset" : 26,
     "position" : 5
   } ],
   "contentScore" : null

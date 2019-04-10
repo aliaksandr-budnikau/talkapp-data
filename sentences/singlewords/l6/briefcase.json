@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEIMbUDTAu_IiLefYL",
+  "text" : "Three briefcase. Needless clutter.",
+  "translations" : {
+    "russian" : "Ри портфель. злишне загромождать."
+  },
+  "tokens" : [ {
+    "token" : "three",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "briefcase",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "needless",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "clutter",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgn4_NNEXFMlzHLGMl",
   "text" : "He carries my briefcase.",
   "translations" : {
@@ -23,6 +51,34 @@
     "token" : "briefcase",
     "startOffset" : 14,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaKxhDTAu_IiLfb89",
+  "text" : "Silver briefcase, combination 314.",
+  "translations" : {
+    "russian" : "Код три, один, четыре."
+  },
+  "tokens" : [ {
+    "token" : "silver",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "briefcase",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "combination",
+    "startOffset" : 18,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "314",
+    "startOffset" : 30,
+    "endOffset" : 33,
     "position" : 3
   } ],
   "contentScore" : null

@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoE9vm2DTAu_IiLfGMP",
+  "text" : "Litter mates.",
+  "translations" : {
+    "russian" : "Из одного помёта."
+  },
+  "tokens" : [ {
+    "token" : "litter",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "mates",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "mate",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvGgdNEXFMlzHLQbB",
   "text" : "Check mate and mate, mate.",
   "translations" : {
@@ -32,31 +55,57 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgv3CPNEXFMlzHLRjW",
-  "text" : "The captain's a mate.",
+  "id" : "AWoE0o3xDTAu_IiLfAGX",
+  "text" : "G'day, mate!",
   "translations" : {
-    "russian" : "Капитан - мой приятель."
+    "russian" : "Привет, приятель."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "g'day",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "captain",
-    "startOffset" : 4,
-    "endOffset" : 13,
+    "token" : "mate",
+    "startOffset" : 7,
+    "endOffset" : 11,
     "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0ozYDTAu_IiLfAGT",
+  "text" : "G'day, mate!",
+  "translations" : {
+    "russian" : "Привет!"
+  },
+  "tokens" : [ {
+    "token" : "g'day",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
     "token" : "mate",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0owsDTAu_IiLfAGQ",
+  "text" : "G'day, mate.",
+  "translations" : {
+    "russian" : "Привет, дружище."
+  },
+  "tokens" : [ {
+    "token" : "g'day",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "mate",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
@@ -88,6 +137,57 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgv3CPNEXFMlzHLRjW",
+  "text" : "The captain's a mate.",
+  "translations" : {
+    "russian" : "Капитан - мой приятель."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "captain",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "mate",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDh6r3DTAu_IiLeIFJ",
+  "text" : "Mate, hay bales.",
+  "translations" : {
+    "russian" : "Тюк сена, дружище."
+  },
+  "tokens" : [ {
+    "token" : "mate",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hay",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "bale",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgimeYNEXFMlzHK_T3",
   "text" : "I got shot, mate.",
   "translations" : {
@@ -116,6 +216,52 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDhRe_DTAu_IiLeHtE",
+  "text" : "Mate, hay bales.",
+  "translations" : {
+    "russian" : "Тюк сена, дружище."
+  },
+  "tokens" : [ {
+    "token" : "mate",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hay",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "bale",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0o2jDTAu_IiLfAGW",
+  "text" : "Sean. G'day, mate.",
+  "translations" : {
+    "russian" : "Шон, привет парень."
+  },
+  "tokens" : [ {
+    "token" : "sean",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "g'day",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "mate",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgve-MNEXFMlzHLRAj",
   "text" : "My... cabin mate.",
   "translations" : {
@@ -135,6 +281,29 @@
     "token" : "mate",
     "startOffset" : 12,
     "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqBjADTAu_IiLeMcm",
+  "text" : "Two bob, mate.",
+  "translations" : {
+    "russian" : "Два шиллинга, чувак."
+  },
+  "tokens" : [ {
+    "token" : "two",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "bob",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "mate",
+    "startOffset" : 9,
+    "endOffset" : 13,
     "position" : 2
   } ],
   "contentScore" : null
@@ -210,188 +379,41 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvozGNEXFMlzHLRU6",
-  "text" : "We've got engine trouble, mate.",
+  "id" : "AWoDfLxdDTAu_IiLeGfC",
+  "text" : "Inmates aren't authorized to barter.",
   "translations" : {
-    "russian" : "Дружище, у нас проблема с мотором."
+    "russian" : "Заключенным не разрешено заниматься бартером."
   },
   "tokens" : [ {
-    "token" : "we've",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "engine",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "trouble",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
     "token" : "mate",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw4_tNEXFMlzHLSow",
-  "text" : "Sorry, mate, ain't taking fares.",
-  "translations" : {
-    "russian" : "Прости, дружище, я никуда не еду."
-  },
-  "tokens" : [ {
-    "token" : "sorry",
     "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "mate",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "ain't",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "taking",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "take",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "fare",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjgh5NEXFMlzHLAEg",
-  "text" : "Thanks for cleaning the pool, mate.",
-  "translations" : {
-    "russian" : "Спасибо, что почистил бассейн, друг."
-  },
-  "tokens" : [ {
-    "token" : "thank",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "cleaning",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "pool",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "mate",
-    "startOffset" : 30,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv5ikNEXFMlzHLRoZ",
-  "text" : "Get down on the ground, inmate.",
-  "translations" : {
-    "russian" : "Ложись на пол, заключенная."
-  },
-  "tokens" : [ {
-    "token" : "get",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "down",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "ground",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "mate",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl_HdNEXFMlzHLDHF",
-  "text" : "I can't see the reef, mate.",
-  "translations" : {
-    "russian" : "Я не вижу рифа, дружище."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "can't",
-    "startOffset" : 2,
     "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "aren't",
+    "startOffset" : 8,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "see",
-    "startOffset" : 8,
-    "endOffset" : 11,
+    "token" : "authorized",
+    "startOffset" : 15,
+    "endOffset" : 25,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
+    "token" : "authorize",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 26,
+    "endOffset" : 28,
     "position" : 3
   }, {
-    "token" : "reef",
-    "startOffset" : 16,
-    "endOffset" : 20,
+    "token" : "barter",
+    "startOffset" : 29,
+    "endOffset" : 35,
     "position" : 4
-  }, {
-    "token" : "mate",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

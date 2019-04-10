@@ -27,6 +27,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDywynDTAu_IiLeRhF",
+  "text" : "Spartacus, hurling his spear.",
+  "translations" : {
+    "russian" : "Спартак бросает своё копьё."
+  },
+  "tokens" : [ {
+    "token" : "spartacus",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "hurling",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "hurl",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "spear",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdlaMNEXFMlzHK7AE",
   "text" : "Throw your spear at Dad.",
   "translations" : {
@@ -57,6 +90,44 @@
     "startOffset" : 20,
     "endOffset" : 23,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFxaCDTAu_IiLedpK",
+  "text" : "The chieftain gave me a spear.",
+  "translations" : {
+    "russian" : "Жутко интересно. Их вождь подарил мне копье. Замечательный мужик."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "chieftain",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "gave",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 22,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "spear",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

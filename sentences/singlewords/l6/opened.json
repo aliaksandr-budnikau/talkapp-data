@@ -1,4 +1,93 @@
 [ {
+  "id" : "AWoEP7i3DTAu_IiLelNV",
+  "text" : "Gateway portal opened.",
+  "translations" : {
+    "russian" : "Портал Гейтуэй открыт."
+  },
+  "tokens" : [ {
+    "token" : "gateway",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "portal",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "opened",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "open",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0_TsDTAu_IiLfAVq",
+  "text" : "I opened the cranberries.",
+  "translations" : {
+    "russian" : "Я открыл клюкву."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "opened",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "open",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "cranberry",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEUKsDTAu_IiLecim",
+  "text" : "Exterior airlock opened.",
+  "translations" : {
+    "russian" : "Внешний шлюз открыт."
+  },
+  "tokens" : [ {
+    "token" : "exterior",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "airlock",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "opened",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "open",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmI6LNEXFMlzHLDX6",
   "text" : "A funnel just opened.",
   "translations" : {
@@ -65,6 +154,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEkeSfDTAu_IiLe0b9",
+  "text" : "You opened a debate.",
+  "translations" : {
+    "russian" : "Это вы начали дискуссию."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "opened",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "open",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "debate",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "bate",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoT5cNEXFMlzHLGuE",
   "text" : "He opened a flower shop.",
   "translations" : {
@@ -103,274 +230,114 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoT4ONEXFMlzHLGuB",
-  "text" : "Dad, open your eyes!",
+  "id" : "AWoEId18DTAu_IiLefkG",
+  "text" : "I've just reopened it.",
   "translations" : {
-    "russian" : "Папа, открой глаза!"
+    "russian" : "Я только что возобновил его."
   },
   "tokens" : [ {
-    "token" : "dad",
+    "token" : "i've",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "open",
+    "token" : "just",
     "startOffset" : 5,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "op",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "your",
+    "token" : "opened",
     "startOffset" : 10,
-    "endOffset" : 14,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "eye",
-    "startOffset" : 15,
-    "endOffset" : 19,
+    "token" : "it",
+    "startOffset" : 19,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoVygNEXFMlzHLGxC",
-  "text" : "That's the open!",
+  "id" : "AWoE8ORGDTAu_IiLfFGw",
+  "text" : "Open... open that latch.",
   "translations" : {
-    "russian" : "Она отключает силовое поле в шахте!"
+    "russian" : "Открой... открой замок."
   },
   "tokens" : [ {
+    "token" : "open",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "op",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "open",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "op",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
     "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "open",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "op",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvMRCNEXFMlzHLQlC",
-  "text" : "Please, open this gate.",
-  "translations" : {
-    "russian" : "Пожалуйста, откройте ворота."
-  },
-  "tokens" : [ {
-    "token" : "please",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "open",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "op",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "this",
     "startOffset" : 13,
     "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "gate",
+    "token" : "latch",
     "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoTudNEXFMlzHLGtx",
-  "text" : "Open the door... quietly!",
-  "translations" : {
-    "russian" : "Открываем дверь... потихоньку!"
-  },
-  "tokens" : [ {
-    "token" : "open",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "op",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "door",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "quietly",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "quiet",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoVGFNEXFMlzHLGv_",
-  "text" : "You open the door.",
-  "translations" : {
-    "russian" : "Ты отворяешь дверь."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "open",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "op",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "door",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgryFsNEXFMlzHLLgt",
-  "text" : "Keep your eyes open.",
-  "translations" : {
-    "russian" : "Так что смотри."
-  },
-  "tokens" : [ {
-    "token" : "keep",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "eye",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "open",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "op",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzO4_NEXFMlzHLWCu",
-  "text" : "Open up fresh territory.",
-  "translations" : {
-    "russian" : "Осваивает новые территории."
-  },
-  "tokens" : [ {
-    "token" : "open",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "op",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "up",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "fresh",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "territory",
-    "startOffset" : 14,
     "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxAjzNEXFMlzHLSwa",
-  "text" : "Your fly is open.",
+  "id" : "AWoE-vfmDTAu_IiLfHAe",
+  "text" : "Open... open that latch.",
   "translations" : {
-    "russian" : "У тебя ширинка расстегнута."
+    "russian" : "Открой... открой замок."
   },
   "tokens" : [ {
-    "token" : "your",
+    "token" : "open",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "fly",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
+    "token" : "op",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
     "token" : "open",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
   }, {
     "token" : "op",
-    "startOffset" : 12,
-    "endOffset" : 16,
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "that",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "latch",
+    "startOffset" : 18,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxAkxNEXFMlzHLSwb",
-  "text" : "Your fly's open.",
+  "id" : "AWoEId9RDTAu_IiLefkL",
+  "text" : "Your son's case has been reopened.",
   "translations" : {
-    "russian" : "У тебя ширинка расстегнута."
+    "russian" : "Дело вашего сына возобновили."
   },
   "tokens" : [ {
     "token" : "your",
@@ -378,152 +345,30 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "fly's",
+    "token" : "son",
     "startOffset" : 5,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "open",
+    "token" : "case",
     "startOffset" : 11,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "op",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoTyXNEXFMlzHLGt3",
-  "text" : "Open the damn door.",
-  "translations" : {
-    "russian" : "Открой эту чертову дверь."
-  },
-  "tokens" : [ {
-    "token" : "open",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "op",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "damn",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "door",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrx-INEXFMlzHLLgf",
-  "text" : "Eyes open, you hear?",
-  "translations" : {
-    "russian" : "Перед собой смотреть!"
-  },
-  "tokens" : [ {
-    "token" : "eye",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "open",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "op",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "hear",
-    "startOffset" : 15,
+    "token" : "has",
+    "startOffset" : 16,
     "endOffset" : 19,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvOEINEXFMlzHLQmc",
-  "text" : "Open the gate, Alan.",
-  "translations" : {
-    "russian" : "Открой калитку, Алан."
-  },
-  "tokens" : [ {
-    "token" : "open",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
   }, {
-    "token" : "op",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
+    "token" : "been",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 4
   }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "gate",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "alan",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwCTrNEXFMlzHLRv6",
-  "text" : "Quick, that lane's open!",
-  "translations" : {
-    "russian" : "Быстрее, вон свободная полоса!"
-  },
-  "tokens" : [ {
-    "token" : "quick",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "lane",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "open",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "op",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
+    "token" : "opened",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

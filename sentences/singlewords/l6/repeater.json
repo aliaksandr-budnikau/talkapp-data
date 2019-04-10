@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoDaiaZDTAu_IiLeD1f",
+  "text" : "Yeah, astronomical, minute repeater.",
+  "translations" : {
+    "russian" : "Да, астрономические часы, таймер."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "astronomical",
+    "startOffset" : 6,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "minute",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "repeater",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "repeat",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqX4wNEXFMlzHLJj2",
   "text" : "Repeat transmission, boost power.",
   "translations" : {
@@ -57,6 +90,34 @@
     "startOffset" : 17,
     "endOffset" : 23,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGqB6DTAu_IiLeeSs",
+  "text" : "I repeat, ascending now.",
+  "translations" : {
+    "russian" : "Я повторяю, он поднимается наверх."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "repeat",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "ascend",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "now",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -121,6 +182,85 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD_YujDTAu_IiLeYsJ",
+  "text" : "I repeat, ascending now.",
+  "translations" : {
+    "russian" : "Я повторяю, он поднимается наверх."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "repeat",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "ascend",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "now",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtKxSDTAu_IiLe6wu",
+  "text" : "Repeat, do you acknowledge?",
+  "translations" : {
+    "russian" : "Повторяю, вы подтверждаете?"
+  },
+  "tokens" : [ {
+    "token" : "repeat",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "do",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "acknowledge",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKnp7DTAu_IiLehJg",
+  "text" : "Sparrow, I repeat.",
+  "translations" : {
+    "russian" : "Спероу, повторяю."
+  },
+  "tokens" : [ {
+    "token" : "sparrow",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "repeat",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgv0mSNEXFMlzHLRd1",
   "text" : "Computer, repeat stabilizer diagnostic.",
   "translations" : {
@@ -154,6 +294,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFOhXhDTAu_IiLfTDh",
+  "text" : "I repeat, without exceptions.",
+  "translations" : {
+    "russian" : "Повторяю, без исключений."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "repeat",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "without",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "exception",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjhYGDTAu_IiLfigf",
+  "text" : "Squeeze gently, and repeat.",
+  "translations" : {
+    "russian" : "Мягко нажмите на курок, затем повторите."
+  },
+  "tokens" : [ {
+    "token" : "squeeze",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "gently",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "repeat",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrDpwNEXFMlzHLKcX",
   "text" : "Repeat, Great Lady down!",
   "translations" : {
@@ -179,6 +375,34 @@
     "startOffset" : 19,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFarT0DTAu_IiLfcX4",
+  "text" : "Repeat your comment.",
+  "translations" : {
+    "russian" : "Повторите ваше замечание."
+  },
+  "tokens" : [ {
+    "token" : "repeat",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "comment",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "com",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -230,275 +454,6 @@
     "startOffset" : 15,
     "endOffset" : 25,
     "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgg0S0NEXFMlzHK9y8",
-  "text" : "None of these characters repeat.",
-  "translations" : {
-    "russian" : "Ни один из символов не повторяется."
-  },
-  "tokens" : [ {
-    "token" : "none",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "of",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "these",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "character",
-    "startOffset" : 14,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "repeat",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrDyENEXFMlzHLKcn",
-  "text" : "I repeat, I will not...",
-  "translations" : {
-    "russian" : "Я повторяю, я..."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "repeat",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "i",
-    "startOffset" : 10,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "will",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "not",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrEptNEXFMlzHLKd3",
-  "text" : "There was no repeat performance?",
-  "translations" : {
-    "russian" : "И не устроил ей повторное представление?"
-  },
-  "tokens" : [ {
-    "token" : "there",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "no",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "repeat",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "performance",
-    "startOffset" : 20,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyioDNEXFMlzHLU8w",
-  "text" : "Repeat, we have lost transport.",
-  "translations" : {
-    "russian" : "Повторяю, мы потеряли транспорт."
-  },
-  "tokens" : [ {
-    "token" : "repeat",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "we",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "lost",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "transport",
-    "startOffset" : 21,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrDxVNEXFMlzHLKcm",
-  "text" : "I repeat, Blade is down!",
-  "translations" : {
-    "russian" : "Повторяю, Винт упал!"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "repeat",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "blade",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "down",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrEPmNEXFMlzHLKdR",
-  "text" : "One I'd rather not repeat.",
-  "translations" : {
-    "russian" : "Повторения которого мне бы не хотелось."
-  },
-  "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "i'd",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "rather",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "not",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "repeat",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrE0dNEXFMlzHLKeF",
-  "text" : "We have a repeat number.",
-  "translations" : {
-    "russian" : "У нас повторный номер."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "have",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "repeat",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "number",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "numb",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrDrtNEXFMlzHLKcb",
-  "text" : "Repeat, we are floating free.",
-  "translations" : {
-    "russian" : "Повторяю, нас относит прочь."
-  },
-  "tokens" : [ {
-    "token" : "repeat",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "we",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "float",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "free",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoFWCl6DTAu_IiLfYrZ",
+  "text" : "Cattle prods.",
+  "translations" : {
+    "russian" : "Pickaxes.Кирки? Электрические плети?"
+  },
+  "tokens" : [ {
+    "token" : "cattle",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "prod",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLzEyDTAu_IiLfRC0",
+  "text" : "Victor Silver, cattle importer.",
+  "translations" : {
+    "russian" : "Виктор Сильвер, импортер крупного рогатого скота."
+  },
+  "tokens" : [ {
+    "token" : "victor",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "silver",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "cattle",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "importer",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "import",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpkDgNEXFMlzHLIb2",
   "text" : "Cattle feed, but it'll work.",
   "translations" : {
@@ -34,6 +85,120 @@
     "startOffset" : 23,
     "endOffset" : 27,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZemsDTAu_IiLfbYI",
+  "text" : "Cattle deaths, temperature fluctuations electrical storms.",
+  "translations" : {
+    "russian" : "Падёж скота, перепады температуры, грозовые бури."
+  },
+  "tokens" : [ {
+    "token" : "cattle",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "deaths",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "temperature",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "fluctuate",
+    "startOffset" : 27,
+    "endOffset" : 39,
+    "position" : 3
+  }, {
+    "token" : "electrical",
+    "startOffset" : 40,
+    "endOffset" : 50,
+    "position" : 4
+  }, {
+    "token" : "storm",
+    "startOffset" : 51,
+    "endOffset" : 57,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDOajkDTAu_IiLd8ld",
+  "text" : "And abortion in cattle and sheep.",
+  "translations" : {
+    "russian" : "И выкидыши у рогатого скота и овец."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "abortion",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "cattle",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "sheep",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERaUSDTAu_IiLemRj",
+  "text" : "I'll take your cattle to pasture.",
+  "translations" : {
+    "russian" : "Я буду пасти твою скотину."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "take",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "cattle",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "pasture",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

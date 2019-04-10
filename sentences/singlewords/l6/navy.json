@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoD80vGDTAu_IiLeWw1",
+  "text" : "Enlisted in the Navy.",
+  "translations" : {
+    "russian" : "А завербовался на Флот."
+  },
+  "tokens" : [ {
+    "token" : "enlist",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "navy",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEE9eEDTAu_IiLedCe",
+  "text" : "Enlisted in the Navy.",
+  "translations" : {
+    "russian" : "А завербовался на Флот."
+  },
+  "tokens" : [ {
+    "token" : "enlist",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "navy",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwBEZNEXFMlzHLRug",
   "text" : "Aerial surveillance of navy bases?",
   "translations" : {
@@ -104,6 +160,44 @@
     "token" : "oversea",
     "startOffset" : 32,
     "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSSKUDTAu_IiLfWAE",
+  "text" : "Shouldn't the Navy send a chaplain?",
+  "translations" : {
+    "russian" : "Разве Флот не должен послать священника?"
+  },
+  "tokens" : [ {
+    "token" : "shouldn't",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "navy",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "send",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 24,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "chaplain",
+    "startOffset" : 26,
+    "endOffset" : 34,
     "position" : 5
   } ],
   "contentScore" : null

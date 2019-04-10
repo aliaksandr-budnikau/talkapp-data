@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFfDZ4DTAu_IiLffpe",
+  "text" : "Automatic correlative updates.",
+  "translations" : {
+    "russian" : "Автоматические коррелятивные обновления."
+  },
+  "tokens" : [ {
+    "token" : "automatic",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "correlative",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "correlate",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "update",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvdBrNEXFMlzHLQ8c",
   "text" : "Instruments on full automatic.",
   "translations" : {
@@ -23,6 +51,34 @@
     "token" : "automatic",
     "startOffset" : 20,
     "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvdDZNEXFMlzHLQ8g",
+  "text" : "It's not an automatic...",
+  "translations" : {
+    "russian" : "Это не автоматический..."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "automatic",
+    "startOffset" : 12,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
@@ -55,31 +111,107 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvdDZNEXFMlzHLQ8g",
-  "text" : "It's not an automatic...",
+  "id" : "AWoDgJw0DTAu_IiLeHDU",
+  "text" : "Where's the automatic gun turrets?",
   "translations" : {
-    "russian" : "Это не автоматический..."
+    "russian" : "Где пулеметная турель?"
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "where",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "not",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "an",
-    "startOffset" : 9,
+    "token" : "the",
+    "startOffset" : 8,
     "endOffset" : 11,
-    "position" : 2
+    "position" : 1
   }, {
     "token" : "automatic",
     "startOffset" : 12,
     "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "gun",
+    "startOffset" : 22,
+    "endOffset" : 25,
     "position" : 3
+  }, {
+    "token" : "turret",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEq_6pDTAu_IiLe5S3",
+  "text" : "The cartridge ejects, automatic reload.",
+  "translations" : {
+    "russian" : "Выброс былончика из магазина. Автоматическая перезарядка."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "cartridge",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "eject",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "automatic",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "reload",
+    "startOffset" : 32,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvdYBNEXFMlzHLQ9I",
+  "text" : "Vampires are outside with automatic weapons.",
+  "translations" : {
+    "russian" : "Вампиры на улице с автоматами."
+  },
+  "tokens" : [ {
+    "token" : "vampire",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "outside",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "automatic",
+    "startOffset" : 26,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "weapon",
+    "startOffset" : 36,
+    "endOffset" : 43,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -121,40 +253,40 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvdYBNEXFMlzHLQ9I",
-  "text" : "Vampires are outside with automatic weapons.",
+  "id" : "AWoD8l_5DTAu_IiLeWk_",
+  "text" : "Pearl handle on a Colt automatic.",
   "translations" : {
-    "russian" : "Вампиры на улице с автоматами."
+    "russian" : "Искали автоматический Кольт , 45-го калибра с перламутровой рукоятью."
   },
   "tokens" : [ {
-    "token" : "vampire",
+    "token" : "pearl",
     "startOffset" : 0,
-    "endOffset" : 8,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "are",
-    "startOffset" : 9,
+    "token" : "handle",
+    "startOffset" : 6,
     "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "outside",
+    "token" : "on",
     "startOffset" : 13,
-    "endOffset" : 20,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "with",
-    "startOffset" : 21,
-    "endOffset" : 25,
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
     "position" : 3
   }, {
-    "token" : "automatic",
-    "startOffset" : 26,
-    "endOffset" : 35,
+    "token" : "colt",
+    "startOffset" : 18,
+    "endOffset" : 22,
     "position" : 4
   }, {
-    "token" : "weapon",
-    "startOffset" : 36,
-    "endOffset" : 43,
+    "token" : "automatic",
+    "startOffset" : 23,
+    "endOffset" : 32,
     "position" : 5
   } ],
   "contentScore" : null

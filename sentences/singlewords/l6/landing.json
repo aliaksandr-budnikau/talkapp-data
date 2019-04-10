@@ -126,6 +126,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD6mWoDTAu_IiLeVPD",
+  "text" : "Initiating emergency landing procedures.",
+  "translations" : {
+    "russian" : "Приступаю к операции аварийной посадки."
+  },
+  "tokens" : [ {
+    "token" : "initiating",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "emergency",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "landing",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "land",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "procedure",
+    "startOffset" : 29,
+    "endOffset" : 39,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgx88HNEXFMlzHLUBW",
   "text" : "Found their landing point.",
   "translations" : {
@@ -156,6 +189,77 @@
     "startOffset" : 20,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDBJPDTAu_IiLfKSg",
+  "text" : "Alleged moon landing.",
+  "translations" : {
+    "russian" : "О мнимой посадке на луну."
+  },
+  "tokens" : [ {
+    "token" : "alleged",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "allege",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "moon",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "landing",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "land",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgxCFLNEXFMlzHLSx7",
+  "text" : "Dr. Scott, prepare for landing.",
+  "translations" : {
+    "russian" : "Доктор Скотт, приготовьтесь к посадке."
+  },
+  "tokens" : [ {
+    "token" : "dr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "scott",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "prepare",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "landing",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "land",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -235,44 +339,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxCFLNEXFMlzHLSx7",
-  "text" : "Dr. Scott, prepare for landing.",
-  "translations" : {
-    "russian" : "Доктор Скотт, приготовьтесь к посадке."
-  },
-  "tokens" : [ {
-    "token" : "dr",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "scott",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "prepare",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "landing",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "land",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgxCJ0NEXFMlzHLSx_",
   "text" : "30 seconds to landing zone.",
   "translations" : {
@@ -307,6 +373,44 @@
     "token" : "zone",
     "startOffset" : 22,
     "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETpxzDTAu_IiLen9s",
+  "text" : "The landing, not the dismount.",
+  "translations" : {
+    "russian" : "Приземлиться, не значит спешиться."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "landing",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "land",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "mount",
+    "startOffset" : 21,
+    "endOffset" : 29,
     "position" : 4
   } ],
   "contentScore" : null
@@ -387,133 +491,39 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglK6TNEXFMlzHLCD7",
-  "text" : "Probably land face first.",
+  "id" : "AWoDPYjpDTAu_IiLd9KJ",
+  "text" : "Auto land.",
   "translations" : {
-    "russian" : "Скорее всего лицом вниз."
+    "russian" : "Автоматическая посадка."
   },
   "tokens" : [ {
-    "token" : "probably",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "land",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "face",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "first",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxR07NEXFMlzHLTDN",
-  "text" : "It's landed and refueling.",
-  "translations" : {
-    "russian" : "Они заправляются?"
-  },
-  "tokens" : [ {
-    "token" : "it",
+    "token" : "auto",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "land",
     "startOffset" : 5,
-    "endOffset" : 11,
+    "endOffset" : 9,
     "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "fuel",
-    "startOffset" : 16,
-    "endOffset" : 25,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxOCENEXFMlzHLS9-",
-  "text" : "Well, land ho.",
+  "id" : "AWoFEBsJDTAu_IiLfLBC",
+  "text" : "Land Landowner?",
   "translations" : {
-    "russian" : "Зато пристал к берегу."
+    "russian" : "Земле Землевладелец?"
   },
   "tokens" : [ {
-    "token" : "well",
+    "token" : "land",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "land",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "ho",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxCTVNEXFMlzHLSyJ",
-  "text" : "Happy landings, Doctor.",
-  "translations" : {
-    "russian" : "Счастливого приземления, Доктор."
-  },
-  "tokens" : [ {
-    "token" : "happy",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "land",
-    "startOffset" : 6,
+    "token" : "landowner",
+    "startOffset" : 5,
     "endOffset" : 14,
     "position" : 1
-  }, {
-    "token" : "doctor",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxMw5NEXFMlzHLS8r",
-  "text" : "Landed you in treatment.",
-  "translations" : {
-    "russian" : "Это привело к лечению."
-  },
-  "tokens" : [ {
-    "token" : "land",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "treatment",
-    "startOffset" : 14,
-    "endOffset" : 23,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

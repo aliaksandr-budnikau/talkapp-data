@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEENsODTAu_IiLecdj",
+  "text" : "Yes, he admitted it.",
+  "translations" : {
+    "russian" : "Да, он принимал это как должное."
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "he",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "admitted",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgbRalNEXFMlzHK494",
   "text" : "Admitted a couple times.",
   "translations" : {
@@ -24,6 +52,72 @@
     "startOffset" : 18,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBZhIDTAu_IiLeaPH",
+  "text" : "Have you admitted your shortcomings?",
+  "translations" : {
+    "russian" : "Ты уже признал свои недостатки?"
+  },
+  "tokens" : [ {
+    "token" : "have",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "admitted",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "shortcoming",
+    "startOffset" : 23,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgoBZDTAu_IiLexac",
+  "text" : "Yes, and we admitted wrongdoing.",
+  "translations" : {
+    "russian" : "Да, и мы признали свою вину."
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "we",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "admitted",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "wrongdoing",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -62,6 +156,153 @@
     "startOffset" : 26,
     "endOffset" : 29,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgtoYDTAu_IiLexe6",
+  "text" : "Yes, and we admitted wrongdoing.",
+  "translations" : {
+    "russian" : "Да, и мы признали свою вину."
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "we",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "admitted",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "wrongdoing",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnwC7DTAu_IiLeLTf",
+  "text" : "I've admitted I'm powerless over alcohol.",
+  "translations" : {
+    "russian" : "Я признал свое бессилие перед алкоголем."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "admitted",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "i'm",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "powerless",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "over",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "alcohol",
+    "startOffset" : 33,
+    "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEOA-DTAu_IiLecdz",
+  "text" : "They probably admitted our suspect before.",
+  "translations" : {
+    "russian" : "Нашего подозреваемого наверное там уже принимали."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "probably",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "admitted",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "our",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "suspect",
+    "startOffset" : 27,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "before",
+    "startOffset" : 35,
+    "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUtXWDTAu_IiLfXw1",
+  "text" : "She admitted that he seemed contrite.",
+  "translations" : {
+    "russian" : "Она сказала, что он чувствовал раскаяние."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "admitted",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "that",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "he",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "seem",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "contrite",
+    "startOffset" : 28,
+    "endOffset" : 36,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,136 @@
 [ {
+  "id" : "AWoEfOTaDTAu_IiLewS6",
+  "text" : "You killed, pillaged, burned.",
+  "translations" : {
+    "russian" : "Вы убивали, грабили, сжигали."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "kill",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pillage",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "burned",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "burn",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7jr6DTAu_IiLeVzn",
+  "text" : "Burned her eyelids off.",
+  "translations" : {
+    "russian" : "Нахер сожгла ей веки."
+  },
+  "tokens" : [ {
+    "token" : "burned",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "burn",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "her",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "eyelid",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "off",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfPDhDTAu_IiLewTi",
+  "text" : "You killed, pillaged, burned.",
+  "translations" : {
+    "russian" : "Вы убивали, грабили, сжигали."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "kill",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pillage",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "burned",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "burn",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEySghDTAu_IiLe-cZ",
+  "text" : "They burned the harvest...",
+  "translations" : {
+    "russian" : "Они сожгли урожай..."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "burned",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "burn",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "harvest",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjTTeNEXFMlzHK_52",
   "text" : "Bridge burned, Typhoon.",
   "translations" : {
@@ -24,6 +156,120 @@
     "startOffset" : 15,
     "endOffset" : 22,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdsYzDTAu_IiLevG4",
+  "text" : "Jangles burned the house down.",
+  "translations" : {
+    "russian" : "Ключник сжег дом."
+  },
+  "tokens" : [ {
+    "token" : "jangle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "burned",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "burn",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "house",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "down",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJyGjDTAu_IiLfPe2",
+  "text" : "Beau was burned in effigy.",
+  "translations" : {
+    "russian" : "Сожжено чучело Бо."
+  },
+  "tokens" : [ {
+    "token" : "beau",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "burned",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "burn",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "effigy",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJx7PDTAu_IiLfPet",
+  "text" : "She burned me in effigy.",
+  "translations" : {
+    "russian" : "Она сожгла моё чучело!"
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "burned",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "burn",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "effigy",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -62,6 +308,29 @@
     "startOffset" : 24,
     "endOffset" : 33,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpxOsDTAu_IiLe4aq",
+  "text" : "Looting, burning!",
+  "translations" : {
+    "russian" : "Мародерство, пожары."
+  },
+  "tokens" : [ {
+    "token" : "loot",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "burning",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "burn",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
@@ -126,419 +395,140 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmPOrNEXFMlzHLDi_",
-  "text" : "You need another burner?",
+  "id" : "AWoEUCjFDTAu_IiLeoQw",
+  "text" : "I smell something burning.",
   "translations" : {
-    "russian" : "Тебе нужна еще горелка?"
+    "russian" : "Я чувствую, что что-то горит."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "need",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "smell",
+    "startOffset" : 2,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "another",
-    "startOffset" : 9,
-    "endOffset" : 16,
+    "token" : "something",
+    "startOffset" : 8,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "burner",
-    "startOffset" : 17,
-    "endOffset" : 23,
+    "token" : "burning",
+    "startOffset" : 18,
+    "endOffset" : 25,
     "position" : 3
   }, {
     "token" : "burn",
-    "startOffset" : 17,
-    "endOffset" : 23,
+    "startOffset" : 18,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgm2A6NEXFMlzHLElS",
-  "text" : "Stove has six burners.",
+  "id" : "AWoEep0wDTAu_IiLev2j",
+  "text" : "We're just burning fuel.",
   "translations" : {
-    "russian" : "Плита с шестью горелками."
+    "russian" : "Даром тратим горючее."
   },
   "tokens" : [ {
-    "token" : "stove",
+    "token" : "we're",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "has",
+    "token" : "just",
     "startOffset" : 6,
-    "endOffset" : 9,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "six",
-    "startOffset" : 10,
-    "endOffset" : 13,
+    "token" : "burning",
+    "startOffset" : 11,
+    "endOffset" : 18,
     "position" : 2
   }, {
     "token" : "burn",
-    "startOffset" : 14,
-    "endOffset" : 21,
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "fuel",
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmPTjNEXFMlzHLDjI",
-  "text" : "It's got six burners.",
+  "id" : "AWoFKihMDTAu_IiLfQE_",
+  "text" : "It burns my cankers.",
   "translations" : {
-    "russian" : "У неё шесть конфорок."
+    "russian" : "Жидкость для полоскания обжигает мой стоматит."
   },
   "tokens" : [ {
     "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "got",
-    "startOffset" : 5,
+    "token" : "burns",
+    "startOffset" : 3,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "six",
+    "token" : "burn",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "my",
     "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "burn",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmPMuNEXFMlzHLDi6",
-  "text" : "A young steel burner play.",
-  "translations" : {
-    "russian" : "А молодые стали в горелки играть."
-  },
-  "tokens" : [ {
-    "token" : "a",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "young",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "steel",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "burner",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "burn",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "play",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglGwKNEXFMlzHLB8X",
-  "text" : "It's a burner for emergencies.",
-  "translations" : {
-    "russian" : "Это был чрезвычайный случай."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "burner",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "burn",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "emergency",
-    "startOffset" : 18,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmFYqNEXFMlzHLDR4",
-  "text" : "It's a burner for emergencies.",
-  "translations" : {
-    "russian" : "Это был чрезвычайный случай."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "burner",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "burn",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "emergency",
-    "startOffset" : 18,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjtahNEXFMlzHLAPt",
-  "text" : "Must be someone burning garbage.",
-  "translations" : {
-    "russian" : "Наверно, где-то мусор горит."
-  },
-  "tokens" : [ {
-    "token" : "must",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "be",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "someone",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "burning",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "burn",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "garbage",
-    "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmPSVNEXFMlzHLDjG",
-  "text" : "Six burners, built-in griddle...",
-  "translations" : {
-    "russian" : "Шесть горелок, встроенная сковородка..."
-  },
-  "tokens" : [ {
-    "token" : "six",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "burn",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "built",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "griddle",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmPXJNEXFMlzHLDjO",
-  "text" : "Look at all these burners.",
-  "translations" : {
-    "russian" : "Посмотри-ка на эти конфорки."
-  },
-  "tokens" : [ {
-    "token" : "look",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "at",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "all",
-    "startOffset" : 8,
     "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "these",
+    "token" : "canker",
     "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "burn",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmk0aNEXFMlzHLEH0",
-  "text" : "Six burners, built-in griddle...",
-  "translations" : {
-    "russian" : "Шесть горелок, встроенная сковородка..."
-  },
-  "tokens" : [ {
-    "token" : "six",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "burn",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "built",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "griddle",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmPWqNEXFMlzHLDjN",
-  "text" : "I only have four burners.",
-  "translations" : {
-    "russian" : "У меня только 4 конфорки."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "only",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "four",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "burn",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmPUtNEXFMlzHLDjK",
-  "text" : "I bragged about our four burners.",
-  "translations" : {
-    "russian" : "Я хвасталась нашими 4 конфорками."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "bragged",
-    "startOffset" : 2,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "about",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "our",
-    "startOffset" : 16,
     "endOffset" : 19,
     "position" : 3
-  }, {
-    "token" : "four",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQZBfDTAu_IiLfUhs",
+  "text" : "Burning, cutting, biting torture.",
+  "translations" : {
+    "russian" : "Сжигали, резали, грызлись в муках."
+  },
+  "tokens" : [ {
+    "token" : "burning",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
   }, {
     "token" : "burn",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "cutting",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "biting",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "bit",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "torture",
     "startOffset" : 25,
     "endOffset" : 32,
-    "position" : 5
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

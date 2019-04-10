@@ -111,39 +111,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzTltNEXFMlzHLWMb",
-  "text" : "Not too spicy for you?",
-  "translations" : {
-    "russian" : "Не слишком ли остро?"
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "too",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "spicy",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "you",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgzTZgNEXFMlzHLWMD",
   "text" : "Sweet and sour and spicy.",
   "translations" : {
@@ -173,6 +140,39 @@
     "token" : "spicy",
     "startOffset" : 19,
     "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgzTltNEXFMlzHLWMb",
+  "text" : "Not too spicy for you?",
+  "translations" : {
+    "russian" : "Не слишком ли остро?"
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "too",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "spicy",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "you",
+    "startOffset" : 18,
+    "endOffset" : 21,
     "position" : 4
   } ],
   "contentScore" : null

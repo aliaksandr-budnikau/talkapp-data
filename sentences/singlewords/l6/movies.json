@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoEMoaaDTAu_IiLeixB",
+  "text" : "War movie.",
+  "translations" : {
+    "russian" : "Военный фильм."
+  },
+  "tokens" : [ {
+    "token" : "war",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "movie",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDdugDTAu_IiLeb3E",
+  "text" : "Clutch movie.",
+  "translations" : {
+    "russian" : "Это из фильма Клатч."
+  },
+  "tokens" : [ {
+    "token" : "clutch",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "movie",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgh9euNEXFMlzHK-yu",
   "text" : "A cool genre movie.",
   "translations" : {
@@ -23,6 +59,39 @@
     "token" : "movie",
     "startOffset" : 13,
     "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD60CuDTAu_IiLeVVB",
+  "text" : "They're little animated movies.",
+  "translations" : {
+    "russian" : "Они из мультиков."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "little",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "animated",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "animate",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "movie",
+    "startOffset" : 24,
+    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null
@@ -88,6 +157,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEMcIcDTAu_IiLeina",
+  "text" : "Movies that glorify violence.",
+  "translations" : {
+    "russian" : "Фильмы, которые прославляют насилие."
+  },
+  "tokens" : [ {
+    "token" : "movie",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "glorify",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "violence",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMirCDTAu_IiLeisg",
+  "text" : "Movies that glorify violence.",
+  "translations" : {
+    "russian" : "Фильмы, которые прославляют насилие."
+  },
+  "tokens" : [ {
+    "token" : "movie",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "glorify",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "violence",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgc5cCNEXFMlzHK6be",
   "text" : "We'll make the movie.",
   "translations" : {
@@ -113,6 +238,113 @@
     "startOffset" : 15,
     "endOffset" : 20,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlAi5DTAu_IiLeJzr",
+  "text" : "Untitled Awesome Movie.",
+  "translations" : {
+    "russian" : "Ништяк Кино Без Названия."
+  },
+  "tokens" : [ {
+    "token" : "titled",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "awesome",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "movie",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6yfcDTAu_IiLeVUS",
+  "text" : "I love animated movies.",
+  "translations" : {
+    "russian" : "Я люблю мультфильмы!"
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "love",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "animated",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "animate",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "movie",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD60FnDTAu_IiLeVVC",
+  "text" : "Usually animated movies.",
+  "translations" : {
+    "russian" : "Обычно мультики."
+  },
+  "tokens" : [ {
+    "token" : "usual",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "animated",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "animate",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "movie",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDHz6DTAu_IiLfKXd",
+  "text" : "Profession movie star.",
+  "translations" : {
+    "russian" : "Профессия кинозвезда."
+  },
+  "tokens" : [ {
+    "token" : "profession",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "movie",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "star",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -149,6 +381,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEKDmUDTAu_IiLegtg",
+  "text" : "That stinky old movie house?",
+  "translations" : {
+    "russian" : "Этот вонючий старый кинотеатр?"
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "stinky",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "old",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "movie",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "house",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnmxiNEXFMlzHLFuk",
   "text" : "She's starring in the movie.",
   "translations" : {
@@ -179,366 +444,6 @@
     "startOffset" : 22,
     "endOffset" : 27,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgraWENEXFMlzHLK9u",
-  "text" : "Madison has two movie theaters.",
-  "translations" : {
-    "russian" : "В Мэдисоне есть ДВА кинотеатра!"
-  },
-  "tokens" : [ {
-    "token" : "madison",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "has",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "two",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "movie",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "theater",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr2S6NEXFMlzHLLmo",
-  "text" : "The movie's in the alleyway?",
-  "translations" : {
-    "russian" : "Кино будет с черного входа?"
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "movie",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "alleyway",
-    "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgg7buNEXFMlzHK95P",
-  "text" : "She's starring in the movie.",
-  "translations" : {
-    "russian" : "Она играет главную роль в фильме."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "starring",
-    "startOffset" : 6,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "movie",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl07oNEXFMlzHLC9h",
-  "text" : "A movie star from Hollywood.",
-  "translations" : {
-    "russian" : "Кинозвезда из Голливуда."
-  },
-  "tokens" : [ {
-    "token" : "a",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "movie",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "star",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "from",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "hollywood",
-    "startOffset" : 18,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgid23NEXFMlzHK_Me",
-  "text" : "This is like a movie set.",
-  "translations" : {
-    "russian" : "Здесь как на съемочной площадке."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "like",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "movie",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "set",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgi23SNEXFMlzHK_hs",
-  "text" : "Show her a movie with subtitles.",
-  "translations" : {
-    "russian" : "Показать ей фильм с субтитрами."
-  },
-  "tokens" : [ {
-    "token" : "show",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "her",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "movie",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "with",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "subtitle",
-    "startOffset" : 22,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqW23NEXFMlzHLJie",
-  "text" : "Show her a movie with subtitles.",
-  "translations" : {
-    "russian" : "Показать ей фильм с субтитрами."
-  },
-  "tokens" : [ {
-    "token" : "show",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "her",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "movie",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "with",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "subtitle",
-    "startOffset" : 22,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgi2XjNEXFMlzHK_hU",
-  "text" : "Can you watch movies without subtitles?",
-  "translations" : {
-    "russian" : "Можете смотреть кино без субтитров?"
-  },
-  "tokens" : [ {
-    "token" : "can",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "watch",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "movie",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "without",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "subtitle",
-    "startOffset" : 29,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglaJENEXFMlzHLCfH",
-  "text" : "Every book, every movie, every backpack.",
-  "translations" : {
-    "russian" : "Каждая книга, каждый фильм, каждый портфель."
-  },
-  "tokens" : [ {
-    "token" : "every",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "book",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "every",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "movie",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "every",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "backpack",
-    "startOffset" : 31,
-    "endOffset" : 39,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqWliNEXFMlzHLJiG",
-  "text" : "Can you watch movies without subtitles?",
-  "translations" : {
-    "russian" : "Можете смотреть кино без субтитров?"
-  },
-  "tokens" : [ {
-    "token" : "can",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "watch",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "movie",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "without",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "subtitle",
-    "startOffset" : 29,
-    "endOffset" : 38,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

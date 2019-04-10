@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoFIKr3DTAu_IiLfOJt",
+  "text" : "Very smooth transition.",
+  "translations" : {
+    "russian" : "Очень плавная смена разговора."
+  },
+  "tokens" : [ {
+    "token" : "very",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "smooth",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "transition",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgh3RCNEXFMlzHK-tY",
   "text" : "Big transition for him.",
   "translations" : {
@@ -23,6 +46,34 @@
     "token" : "him",
     "startOffset" : 19,
     "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoENJWsDTAu_IiLejKX",
+  "text" : "It should transition seamlessly.",
+  "translations" : {
+    "russian" : "Все должно пройти плавно."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "should",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "transition",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "seamless",
+    "startOffset" : 21,
+    "endOffset" : 31,
     "position" : 3
   } ],
   "contentScore" : null
@@ -57,6 +108,82 @@
     "startOffset" : 26,
     "endOffset" : 33,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIKZjDTAu_IiLfOJg",
+  "text" : "It'll be a very smooth transition.",
+  "translations" : {
+    "russian" : "Для тебя это будет очень плавный переход."
+  },
+  "tokens" : [ {
+    "token" : "it'll",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "be",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "very",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "smooth",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "transition",
+    "startOffset" : 23,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIKitDTAu_IiLfOJn",
+  "text" : "That was a really smooth transition.",
+  "translations" : {
+    "russian" : "Какой плавный переход!"
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "ally",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "smooth",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "transition",
+    "startOffset" : 25,
+    "endOffset" : 35,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

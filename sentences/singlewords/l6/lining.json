@@ -1,4 +1,119 @@
 [ {
+  "id" : "AWoE8afWDTAu_IiLfFOq",
+  "text" : "Cork lining.",
+  "translations" : {
+    "russian" : "Пробковая прокладка."
+  },
+  "tokens" : [ {
+    "token" : "cork",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "lining",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "line",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeuKVDTAu_IiLffaB",
+  "text" : "Silk lining. Fine Corinthian leather.",
+  "translations" : {
+    "russian" : "Шелковая подкладка, отличная коринфская кожа."
+  },
+  "tokens" : [ {
+    "token" : "silk",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "lining",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "line",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fine",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "corinthian",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "leather",
+    "startOffset" : 29,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKB0dDTAu_IiLfPrb",
+  "text" : "Line isolated.",
+  "translations" : {
+    "russian" : "Линия изолирована."
+  },
+  "tokens" : [ {
+    "token" : "line",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "isolate",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKMn8DTAu_IiLfPz7",
+  "text" : "Line isolated.",
+  "translations" : {
+    "russian" : "Линия изолирована."
+  },
+  "tokens" : [ {
+    "token" : "line",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "isolate",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJ3BfDTAu_IiLfPiv",
+  "text" : "Line isolated.",
+  "translations" : {
+    "russian" : "Линия изолирована."
+  },
+  "tokens" : [ {
+    "token" : "line",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "isolate",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiEe2NEXFMlzHK-4t",
   "text" : "I never remember lines.",
   "translations" : {
@@ -55,34 +170,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxwTRNEXFMlzHLT0q",
-  "text" : "People holding line.",
-  "translations" : {
-    "russian" : "Люди выстроены в шеренгу."
-  },
-  "tokens" : [ {
-    "token" : "people",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "holding",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "hold",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "line",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgxucvNEXFMlzHLTwt",
   "text" : "North... on this line.",
   "translations" : {
@@ -112,6 +199,67 @@
     "token" : "line",
     "startOffset" : 17,
     "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgxwTRNEXFMlzHLT0q",
+  "text" : "People holding line.",
+  "translations" : {
+    "russian" : "Люди выстроены в шеренгу."
+  },
+  "tokens" : [ {
+    "token" : "people",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "holding",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "hold",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "line",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvQhMDTAu_IiLe8L2",
+  "text" : "The line imperceptibly trembles.",
+  "translations" : {
+    "russian" : "Эта линия неуловимо дрожит."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "line",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "imperceptibly",
+    "startOffset" : 9,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "trembles",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "tremble",
+    "startOffset" : 23,
+    "endOffset" : 31,
     "position" : 3
   } ],
   "contentScore" : null
@@ -285,169 +433,6 @@
     "token" : "line",
     "startOffset" : 15,
     "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiBfVNEXFMlzHK-2O",
-  "text" : "I like that line.",
-  "translations" : {
-    "russian" : "Мне нравится эта строка."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "line",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxuY1NEXFMlzHLTwl",
-  "text" : "To continue our line.",
-  "translations" : {
-    "russian" : "Чтобы продолжить нашу линию."
-  },
-  "tokens" : [ {
-    "token" : "to",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "continue",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "line",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxwE1NEXFMlzHLT0N",
-  "text" : "You have lines there.",
-  "translations" : {
-    "russian" : "У тебя там морщины."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "have",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "line",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "there",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiEn4NEXFMlzHK-4z",
-  "text" : "Damn you, life line!",
-  "translations" : {
-    "russian" : "Удь прокл та, лини жизни!"
-  },
-  "tokens" : [ {
-    "token" : "damn",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "life",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "line",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguEYCNEXFMlzHLOZI",
-  "text" : "Line of duty.",
-  "translations" : {
-    "russian" : "Ходил на дежурство."
-  },
-  "tokens" : [ {
-    "token" : "line",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "of",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "duty",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxvMlNEXFMlzHLTyV",
-  "text" : "I like that line.",
-  "translations" : {
-    "russian" : "Мне нравится эта строка."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "line",
-    "startOffset" : 12,
-    "endOffset" : 16,
     "position" : 3
   } ],
   "contentScore" : null

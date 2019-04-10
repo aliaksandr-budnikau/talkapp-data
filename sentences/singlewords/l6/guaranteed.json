@@ -1,110 +1,319 @@
 [ {
-  "id" : "AWbgfPWVNEXFMlzHK8c0",
-  "text" : "Will it guarantee me power?",
+  "id" : "AWoEY2WjDTAu_IiLerzp",
+  "text" : "Guaranteed.",
   "translations" : {
-    "russian" : "Это гарантирует мне власть?"
+    "russian" : "Даю гарантию."
   },
   "tokens" : [ {
-    "token" : "will",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
     "token" : "guarantee",
-    "startOffset" : 8,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "me",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "power",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "pow",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguGp_NEXFMlzHLOco",
-  "text" : "There will be guaranteed representation.",
+  "id" : "AWoEYzRdDTAu_IiLerxg",
+  "text" : "Guarantee.",
   "translations" : {
-    "russian" : "Это будет гарантированный протест."
+    "russian" : "Гарантия."
   },
   "tokens" : [ {
-    "token" : "there",
+    "token" : "guarantee",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 9,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYzcPDTAu_IiLerxm",
+  "text" : "Guaranteed.",
+  "translations" : {
+    "russian" : "Гарантированно."
+  },
+  "tokens" : [ {
+    "token" : "guarantee",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYzoMDTAu_IiLerxy",
+  "text" : "Everything guaranteed!",
+  "translations" : {
+    "russian" : "Всё гарантировано!"
+  },
+  "tokens" : [ {
+    "token" : "everything",
+    "startOffset" : 0,
+    "endOffset" : 10,
     "position" : 0
   }, {
-    "token" : "will",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "be",
+    "token" : "guarantee",
     "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYzt0DTAu_IiLerx2",
+  "text" : "Enlightenment GUARANTEED.",
+  "translations" : {
+    "russian" : "ПРОСВЕТЛЕНИЕ ГАРАНТИРОВАНО."
+  },
+  "tokens" : [ {
+    "token" : "enlightenment",
+    "startOffset" : 0,
     "endOffset" : 13,
-    "position" : 2
+    "position" : 0
+  }, {
+    "token" : "enlighten",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
   }, {
     "token" : "guarantee",
     "startOffset" : 14,
     "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "presentation",
-    "startOffset" : 25,
-    "endOffset" : 39,
-    "position" : 4
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjKCHNEXFMlzHK_ye",
-  "text" : "Will it guarantee me power?",
+  "id" : "AWoEYzTaDTAu_IiLerxh",
+  "text" : "What guarantee?",
   "translations" : {
-    "russian" : "Это гарантирует мне власть?"
+    "russian" : "Какая гарантия?"
   },
   "tokens" : [ {
-    "token" : "will",
+    "token" : "what",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "it",
+    "token" : "guarantee",
     "startOffset" : 5,
-    "endOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYzm-DTAu_IiLerxx",
+  "text" : "Guaranteed 100.",
+  "translations" : {
+    "russian" : "Гарантировано 100."
+  },
+  "tokens" : [ {
+    "token" : "guarantee",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "100",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEY0DTDTAu_IiLeryG",
+  "text" : "It's guaranteed.",
+  "translations" : {
+    "russian" : "Обещаю."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "guarantee",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYyQhDTAu_IiLerwu",
+  "text" : "I guarantee.",
+  "translations" : {
+    "russian" : "Я гарантирую."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "guarantee",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEY0foDTAu_IiLeryY",
+  "text" : "I guarantee.",
+  "translations" : {
+    "russian" : "Обещаю вам."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "guarantee",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYybwDTAu_IiLerw2",
+  "text" : "I can guarantee that.",
+  "translations" : {
+    "russian" : "Я могу гарантировать это."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 2,
+    "endOffset" : 5,
     "position" : 1
   }, {
     "token" : "guarantee",
-    "startOffset" : 8,
-    "endOffset" : 17,
+    "startOffset" : 6,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "me",
-    "startOffset" : 18,
+    "token" : "that",
+    "startOffset" : 16,
     "endOffset" : 20,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYy0KDTAu_IiLerxL",
+  "text" : "You want guarantees.",
+  "translations" : {
+    "russian" : "Тебе нужны гарантии."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
-    "token" : "power",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
+    "token" : "want",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
   }, {
-    "token" : "pow",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
+    "token" : "guarantee",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEY0ZCDTAu_IiLeryS",
+  "text" : "Guarantee his anonymity.",
+  "translations" : {
+    "russian" : "И обещать свое молчание."
+  },
+  "tokens" : [ {
+    "token" : "guarantee",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "his",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "anonymity",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEY0vvDTAu_IiLeryh",
+  "text" : "I guarantee you.",
+  "translations" : {
+    "russian" : "Не уверен."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "guarantee",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEY1aeDTAu_IiLery7",
+  "text" : "I guarantee it.",
+  "translations" : {
+    "russian" : "Уверяю вас, да."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "guarantee",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYyHtDTAu_IiLerwp",
+  "text" : "Really, I guarantee it.",
+  "translations" : {
+    "russian" : "Правда, гарантирую."
+  },
+  "tokens" : [ {
+    "token" : "ally",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "guarantee",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

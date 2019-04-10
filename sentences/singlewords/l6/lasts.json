@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoEk2KyDTAu_IiLe0uJ",
+  "text" : "Last December.",
+  "translations" : {
+    "russian" : "В декабре прошлого года."
+  },
+  "tokens" : [ {
+    "token" : "last",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "december",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE56NBDTAu_IiLfDoE",
+  "text" : "Last gasp.",
+  "translations" : {
+    "russian" : "Последний вздох."
+  },
+  "tokens" : [ {
+    "token" : "last",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "gasp",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnoTyNEXFMlzHLFxS",
   "text" : "What's your last name?",
   "translations" : {
@@ -83,29 +119,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvYhkNEXFMlzHLQzF",
-  "text" : "Last call, though.",
-  "translations" : {
-    "russian" : "Последний крик, всё-таки."
-  },
-  "tokens" : [ {
-    "token" : "last",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "call",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "though",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgvS2BNEXFMlzHLQqE",
   "text" : "It didn't last long.",
   "translations" : {
@@ -130,6 +143,202 @@
     "token" : "long",
     "startOffset" : 15,
     "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvYhkNEXFMlzHLQzF",
+  "text" : "Last call, though.",
+  "translations" : {
+    "russian" : "Последний крик, всё-таки."
+  },
+  "tokens" : [ {
+    "token" : "last",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "call",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "though",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDh1jIDTAu_IiLeICE",
+  "text" : "Only misery lasts forever.",
+  "translations" : {
+    "russian" : "Только горе длится вечно."
+  },
+  "tokens" : [ {
+    "token" : "only",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "misery",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "last",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "forever",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDh4LFDTAu_IiLeIDn",
+  "text" : "This misery won't last.",
+  "translations" : {
+    "russian" : "Эти невзгоды долго не продлятся."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "misery",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "won't",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "last",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDGdKDTAu_IiLebkP",
+  "text" : "Last summer in Vladivostok...",
+  "translations" : {
+    "russian" : "С прошлого лета во Владивостоке."
+  },
+  "tokens" : [ {
+    "token" : "last",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "summer",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "vladivostok",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKrXGDTAu_IiLfQLc",
+  "text" : "That's our last tracer.",
+  "translations" : {
+    "russian" : "Это наш последний передатчик."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "our",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "last",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "tracer",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPzCFDTAu_IiLfUCo",
+  "text" : "That's our last tracer.",
+  "translations" : {
+    "russian" : "Это наш последний передатчик."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "our",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "last",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "tracer",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZcifDTAu_IiLfbWZ",
+  "text" : "You hesitated the last.",
+  "translations" : {
+    "russian" : "Ты колебалась до последнего."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "hesitate",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "last",
+    "startOffset" : 18,
+    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
@@ -190,254 +399,35 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjWiTNEXFMlzHK_8D",
-  "text" : "Last night it rained.",
+  "id" : "AWoDhaWMDTAu_IiLeHyl",
+  "text" : "Only misery lasts forever.",
   "translations" : {
-    "russian" : "Прошлой ночью шел дождь."
+    "russian" : "Только горе длится вечно."
   },
   "tokens" : [ {
-    "token" : "last",
+    "token" : "only",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "night",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "it",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "rain",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmzomNEXFMlzHLEhP",
-  "text" : "We spooned last night.",
-  "translations" : {
-    "russian" : "Мы ворковали прошлой ночью."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "spoon",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "last",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "night",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgn2O_NEXFMlzHLGIJ",
-  "text" : "Last column, commission.",
-  "translations" : {
-    "russian" : "Последняя колонка - комиссионное вознаграждение."
-  },
-  "tokens" : [ {
-    "token" : "last",
+    "token" : "on",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "column",
+    "token" : "misery",
     "startOffset" : 5,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "commission",
-    "startOffset" : 13,
-    "endOffset" : 23,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvQ5-NEXFMlzHLQol",
-  "text" : "For my last birthday.",
-  "translations" : {
-    "russian" : "На мой прошлый день рождения."
-  },
-  "tokens" : [ {
-    "token" : "for",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "last",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "birthday",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvRygNEXFMlzHLQpS",
-  "text" : "It wasn't gonna last.",
-  "translations" : {
-    "russian" : "Думала, не продлится."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "wasn't",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "gonna",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "last",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvVcYNEXFMlzHLQsp",
-  "text" : "Photographs last, don't they?",
-  "translations" : {
-    "russian" : "Фотографии ведь сохраняются, правильно?"
-  },
-  "tokens" : [ {
-    "token" : "photographs",
-    "startOffset" : 0,
-    "endOffset" : 11,
-    "position" : 0
-  }, {
     "token" : "last",
     "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "don't",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "they",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwgbUNEXFMlzHLSQE",
-  "text" : "We changed last month.",
-  "translations" : {
-    "russian" : "Мы изменили название в прошлом месяце."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "changed",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "change",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "last",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "month",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvSlLNEXFMlzHLQp3",
-  "text" : "It could not last.",
-  "translations" : {
-    "russian" : "Это не могло продолжаться."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "could",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "not",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "last",
-    "startOffset" : 13,
     "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvR9vNEXFMlzHLQpZ",
-  "text" : "They don't last long.",
-  "translations" : {
-    "russian" : "Это долго не продлится."
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "don't",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "last",
-    "startOffset" : 11,
-    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "long",
-    "startOffset" : 16,
-    "endOffset" : 20,
+    "token" : "forever",
+    "startOffset" : 18,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null

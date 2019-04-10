@@ -1,4 +1,70 @@
 [ {
+  "id" : "AWoFS-B1DTAu_IiLfWgr",
+  "text" : "Graduation caps.",
+  "translations" : {
+    "russian" : "Шапочки выпускника."
+  },
+  "tokens" : [ {
+    "token" : "graduation",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "graduate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "caps",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "cap",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFS-LADTAu_IiLfWgy",
+  "text" : "Are those graduation caps?",
+  "translations" : {
+    "russian" : "Это шапочки выпускников?"
+  },
+  "tokens" : [ {
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "those",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "graduation",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "graduate",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "caps",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "cap",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmCxgNEXFMlzHLDNP",
   "text" : "Just think, graduation in June.",
   "translations" : {
@@ -37,6 +103,77 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFQq8FDTAu_IiLfUwU",
+  "text" : "She's hemming your graduation dress.",
+  "translations" : {
+    "russian" : "Она подшивает твое выпускное платье."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "hemming",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "graduation",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "graduate",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "dress",
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcV7oDTAu_IiLfdro",
+  "text" : "Now he's graduated to smuggling.",
+  "translations" : {
+    "russian" : "Теперь он занимается контрабандой."
+  },
+  "tokens" : [ {
+    "token" : "now",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "he",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "graduate",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "smuggle",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgt65UNEXFMlzHLOKC",
   "text" : "Graduated top of his class.",
   "translations" : {
@@ -66,6 +203,44 @@
     "token" : "class",
     "startOffset" : 21,
     "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDkHRdDTAu_IiLeJUT",
+  "text" : "Zeke, unemployed Culinary Institute graduate.",
+  "translations" : {
+    "russian" : "Зик, стремящийся безработный повар."
+  },
+  "tokens" : [ {
+    "token" : "zeke",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "unemployed",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "employed",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "culinary",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "institute",
+    "startOffset" : 26,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "graduate",
+    "startOffset" : 36,
+    "endOffset" : 44,
     "position" : 4
   } ],
   "contentScore" : null
@@ -108,6 +283,82 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD7PlEDTAu_IiLeVlJ",
+  "text" : "Every graduate becomes a bitter hag!",
+  "translations" : {
+    "russian" : "Каждая выпускница становится злобной каргой."
+  },
+  "tokens" : [ {
+    "token" : "every",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "graduate",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "become",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 23,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "bitter",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "hag",
+    "startOffset" : 32,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEzUduDTAu_IiLe_Lx",
+  "text" : "Yes, students, graduates, undergraduates, faculty, spouses.",
+  "translations" : {
+    "russian" : "Да, студенты, выпускники, старшекурсники, факультативы, супруги."
+  },
+  "tokens" : [ {
+    "token" : "yes",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "student",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "graduate",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "undergraduate",
+    "startOffset" : 26,
+    "endOffset" : 40,
+    "position" : 3
+  }, {
+    "token" : "faculty",
+    "startOffset" : 42,
+    "endOffset" : 49,
+    "position" : 4
+  }, {
+    "token" : "spouse",
+    "startOffset" : 51,
+    "endOffset" : 58,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgn7cyNEXFMlzHLGQo",
   "text" : "She's a recent journalism school graduate.",
   "translations" : {
@@ -142,6 +393,44 @@
     "token" : "graduate",
     "startOffset" : 33,
     "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVmxlDTAu_IiLfYYd",
+  "text" : "Al-Jahwar is a Cambridge graduate.",
+  "translations" : {
+    "russian" : "Аль-Джавар закончил Кэмбридж."
+  },
+  "tokens" : [ {
+    "token" : "al",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "jahwar",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "cambridge",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "graduate",
+    "startOffset" : 25,
+    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null

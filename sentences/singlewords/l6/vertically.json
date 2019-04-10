@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEWLUBDTAu_IiLep6R",
+  "text" : "Vertical stripe...",
+  "translations" : {
+    "russian" : "Вертикальная полоса..."
+  },
+  "tokens" : [ {
+    "token" : "vertical",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "stripe",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguCjUNEXFMlzHLOWT",
   "text" : "You know, vertical integration...",
   "translations" : {
@@ -61,6 +79,39 @@
     "token" : "compartment",
     "startOffset" : 31,
     "endOffset" : 43,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGpyyDTAu_IiLeeSj",
+  "text" : "It must be ascending vertically.",
+  "translations" : {
+    "russian" : "Они должны подниматься вертикально."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "must",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "ascend",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "vertical",
+    "startOffset" : 21,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null

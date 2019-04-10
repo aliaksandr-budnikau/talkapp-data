@@ -1,64 +1,293 @@
 [ {
-  "id" : "AWbgisV_NEXFMlzHK_Yu",
-  "text" : "He sounds so sweet.",
+  "id" : "AWoDnS26DTAu_IiLeLDr",
+  "text" : "Sounds fake.",
   "translations" : {
-    "russian" : "Он звучал там мило."
+    "russian" : "Похоже на фальшивое."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "sounds",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fake",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-llEDTAu_IiLeYGF",
+  "text" : "Sounds frivolous.",
+  "translations" : {
+    "russian" : "Слишком несерьёзно."
+  },
+  "tokens" : [ {
+    "token" : "sounds",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "frivolous",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFO-TqDTAu_IiLfTZd",
+  "text" : "Sounds enticing.",
+  "translations" : {
+    "russian" : "Звучит соблазнительно."
+  },
+  "tokens" : [ {
+    "token" : "sounds",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "enticing",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "entice",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFOFEjDTAu_IiLfSu-",
+  "text" : "Distorted sounds.",
+  "translations" : {
+    "russian" : "Искажённые звуки."
+  },
+  "tokens" : [ {
+    "token" : "distorted",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "distort",
+    "startOffset" : 0,
+    "endOffset" : 9,
     "position" : 0
   }, {
     "token" : "sounds",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "so",
     "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnRQADTAu_IiLeLCs",
+  "text" : "Sounds cool.",
+  "translations" : {
+    "russian" : "Классно звучит."
+  },
+  "tokens" : [ {
+    "token" : "sounds",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cool",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnSJVDTAu_IiLeLDN",
+  "text" : "Those sounds.",
+  "translations" : {
+    "russian" : "Эти звуки."
+  },
+  "tokens" : [ {
+    "token" : "those",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "sounds",
+    "startOffset" : 6,
     "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "sweet",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgiwZqNEXFMlzHK_cI",
-  "text" : "Soda sounds great, Kitty.",
+  "id" : "AWoFPU2MDTAu_IiLfTqV",
+  "text" : "Sounds tempting!",
   "translations" : {
-    "russian" : "Содовая это здорово, Китти."
+    "russian" : "Черт возьми, заманчиво!"
   },
   "tokens" : [ {
-    "token" : "soda",
+    "token" : "sounds",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "tempting",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjwkGDTAu_IiLeJHj",
+  "text" : "Sounds foolproof.",
+  "translations" : {
+    "russian" : "Звучит надёжно."
+  },
+  "tokens" : [ {
+    "token" : "sounds",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "foolproof",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFp9CDTAu_IiLedjt",
+  "text" : "Sounds uplifting.",
+  "translations" : {
+    "russian" : "Жизнеутверждающе."
+  },
+  "tokens" : [ {
+    "token" : "sounds",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "uplift",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnRJSDTAu_IiLeLCn",
+  "text" : "Sounds hilarious.",
+  "translations" : {
+    "russian" : "Звучит забавно."
+  },
+  "tokens" : [ {
+    "token" : "sounds",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "hilarious",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoER6buDTAu_IiLempS",
+  "text" : "Sounds hollow.",
+  "translations" : {
+    "russian" : "Пустота."
+  },
+  "tokens" : [ {
+    "token" : "sounds",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "hollow",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVYYwDTAu_IiLepUD",
+  "text" : "Those sounds.",
+  "translations" : {
+    "russian" : "Эти звуки."
+  },
+  "tokens" : [ {
+    "token" : "those",
+    "startOffset" : 0,
+    "endOffset" : 5,
     "position" : 0
   }, {
     "token" : "sounds",
-    "startOffset" : 5,
-    "endOffset" : 11,
+    "startOffset" : 6,
+    "endOffset" : 12,
     "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1z3eDTAu_IiLfA5c",
+  "text" : "Sounds tough!",
+  "translations" : {
+    "russian" : "Звучит жёстко!"
+  },
+  "tokens" : [ {
+    "token" : "sounds",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
   }, {
-    "token" : "great",
-    "startOffset" : 12,
+    "token" : "tough",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFN_WUDTAu_IiLfSqw",
+  "text" : "Distorted sounds.",
+  "translations" : {
+    "russian" : "Искажённые звуки."
+  },
+  "tokens" : [ {
+    "token" : "distorted",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "distort",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "sounds",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7340DTAu_IiLeWB9",
+  "text" : "Sounds delightful.",
+  "translations" : {
+    "russian" : "Звучит прекрасно."
+  },
+  "tokens" : [ {
+    "token" : "sounds",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "delightful",
+    "startOffset" : 7,
     "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "kitty",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgiwiNNEXFMlzHK_cQ",
-  "text" : "Sounds like fun.",
+  "id" : "AWoEVXqmDTAu_IiLepTd",
+  "text" : "Sounds hilarious.",
   "translations" : {
-    "russian" : "Но это же здорово."
+    "russian" : "Звучит забавно."
   },
   "tokens" : [ {
     "token" : "sounds",
@@ -66,389 +295,10 @@
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "like",
+    "token" : "hilarious",
     "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "fun",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqPUWNEXFMlzHLJX_",
-  "text" : "Aw, that sounds sweet.",
-  "translations" : {
-    "russian" : "О, это звучит мило."
-  },
-  "tokens" : [ {
-    "token" : "aw",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "sounds",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "sweet",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzVpQNEXFMlzHLWQm",
-  "text" : "Hmm, that sounds sweet.",
-  "translations" : {
-    "russian" : "Мм, звучит мило."
-  },
-  "tokens" : [ {
-    "token" : "hmm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "sounds",
-    "startOffset" : 10,
     "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "sweet",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgitPnNEXFMlzHK_Zg",
-  "text" : "Sounds like someone's jealous.",
-  "translations" : {
-    "russian" : "Кажется, кто-то ревнует."
-  },
-  "tokens" : [ {
-    "token" : "sounds",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 7,
-    "endOffset" : 11,
     "position" : 1
-  }, {
-    "token" : "someone",
-    "startOffset" : 12,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "jealous",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgisSVNEXFMlzHK_Yq",
-  "text" : "Aw, that sounds sweet.",
-  "translations" : {
-    "russian" : "О, это звучит мило."
-  },
-  "tokens" : [ {
-    "token" : "aw",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "sounds",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "sweet",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgivnINEXFMlzHK_bd",
-  "text" : "Sounds like wishful thinking.",
-  "translations" : {
-    "russian" : "Ощущение, что ты выдаешь желаемое за действительное."
-  },
-  "tokens" : [ {
-    "token" : "sounds",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "wishful",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "thinking",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "think",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiwjbNEXFMlzHK_cR",
-  "text" : "Sounds lovely, Laura.",
-  "translations" : {
-    "russian" : "Здорово, Лора."
-  },
-  "tokens" : [ {
-    "token" : "sounds",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "lovely",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "love",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "laura",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqPPONEXFMlzHLJX6",
-  "text" : "Nick's plan sounds fair.",
-  "translations" : {
-    "russian" : "А вот план Ника звучит справедливо."
-  },
-  "tokens" : [ {
-    "token" : "nick",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "plan",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "sounds",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "fair",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqP8YNEXFMlzHLJY1",
-  "text" : "Sounds like someone's jealous.",
-  "translations" : {
-    "russian" : "Кажется, кто-то ревнует."
-  },
-  "tokens" : [ {
-    "token" : "sounds",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "someone",
-    "startOffset" : 12,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "jealous",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqRbFNEXFMlzHLJay",
-  "text" : "Sounds like wishful thinking.",
-  "translations" : {
-    "russian" : "Ощущение, что ты выдаешь желаемое за действительное."
-  },
-  "tokens" : [ {
-    "token" : "sounds",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "wishful",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "thinking",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "think",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeOZcNEXFMlzHK7jL",
-  "text" : "Wow, that sounds hot.",
-  "translations" : {
-    "russian" : "Вау, это прозвучало очень жарко."
-  },
-  "tokens" : [ {
-    "token" : "wow",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "sounds",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "hot",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglnXiNEXFMlzHLC1r",
-  "text" : "Sounds like environmental law.",
-  "translations" : {
-    "russian" : "Звучит как законодательство о защите окружающей среды."
-  },
-  "tokens" : [ {
-    "token" : "sounds",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "like",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "environmental",
-    "startOffset" : 12,
-    "endOffset" : 25,
-    "position" : 2
-  }, {
-    "token" : "law",
-    "startOffset" : 26,
-    "endOffset" : 29,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzPxYNEXFMlzHLWEq",
-  "text" : "Wow, that sounds hot.",
-  "translations" : {
-    "russian" : "Вау, это прозвучало очень жарко."
-  },
-  "tokens" : [ {
-    "token" : "wow",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "sounds",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "hot",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcOdONEXFMlzHK50z",
-  "text" : "Sounds, uh, festive.",
-  "translations" : {
-    "russian" : "Звучит, эм, празднично."
-  },
-  "tokens" : [ {
-    "token" : "sounds",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "uh",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "festive",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "fest",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
   } ],
   "contentScore" : null
 } ]

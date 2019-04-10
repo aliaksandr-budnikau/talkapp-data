@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoE1O2mDTAu_IiLfAga",
+  "text" : "CREW MURMURS.",
+  "translations" : {
+    "russian" : "БОРМОТАНИЕ."
+  },
+  "tokens" : [ {
+    "token" : "crew",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "murmur",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvNZEDTAu_IiLePig",
+  "text" : "CREW MURMURS.",
+  "translations" : {
+    "russian" : "БОРМОТАНИЕ."
+  },
+  "tokens" : [ {
+    "token" : "crew",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "murmur",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgv2kmNEXFMlzHLRiW",
   "text" : "Who runs this crew?",
   "translations" : {
@@ -55,6 +91,108 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFQZHaDTAu_IiLfUhy",
+  "text" : "From torture crews, assassinations.",
+  "translations" : {
+    "russian" : "От команд по истязанию и убийств."
+  },
+  "tokens" : [ {
+    "token" : "from",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "torture",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "crew",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "assassinate",
+    "startOffset" : 20,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHjlCDTAu_IiLfNpY",
+  "text" : "Notify ground crews.",
+  "translations" : {
+    "russian" : "Известите наземные службы."
+  },
+  "tokens" : [ {
+    "token" : "notify",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "ground",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "crew",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHZNjDTAu_IiLfNhN",
+  "text" : "Notify ground crews.",
+  "translations" : {
+    "russian" : "Известите наземные службы."
+  },
+  "tokens" : [ {
+    "token" : "notify",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "ground",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "crew",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeGYSDTAu_IiLfe8_",
+  "text" : "Muster your crew.",
+  "translations" : {
+    "russian" : "Собери экипаж."
+  },
+  "tokens" : [ {
+    "token" : "muster",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "must",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "crew",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgv2ISNEXFMlzHLRhV",
   "text" : "He's got camera crews?",
   "translations" : {
@@ -79,6 +217,72 @@
     "token" : "crew",
     "startOffset" : 16,
     "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUXfCDTAu_IiLfXhP",
+  "text" : "The crew used cutters.",
+  "translations" : {
+    "russian" : "Рабочие использовали резаки."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "crew",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "used",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "use",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "us",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "cutter",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgv2v1NEXFMlzHLRix",
+  "text" : "So they're a crew?",
+  "translations" : {
+    "russian" : "Так, они шайка?"
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "they're",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "crew",
+    "startOffset" : 13,
+    "endOffset" : 17,
     "position" : 3
   } ],
   "contentScore" : null
@@ -111,31 +315,82 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgv2v1NEXFMlzHLRix",
-  "text" : "So they're a crew?",
+  "id" : "AWoE1qA2DTAu_IiLfAzH",
+  "text" : "My crew mutinied.",
   "translations" : {
-    "russian" : "Так, они шайка?"
+    "russian" : "Мой экипаж взбунтовался."
   },
   "tokens" : [ {
-    "token" : "so",
+    "token" : "my",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "they're",
+    "token" : "crew",
     "startOffset" : 3,
-    "endOffset" : 10,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
+    "token" : "mutiny",
+    "startOffset" : 8,
+    "endOffset" : 16,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHUN6DTAu_IiLfNdA",
+  "text" : "Notify ground crews.",
+  "translations" : {
+    "russian" : "Известите наземные службы."
+  },
+  "tokens" : [ {
+    "token" : "notify",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "ground",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
   }, {
     "token" : "crew",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgv1_ANEXFMlzHLRg-",
+  "text" : "We must get a crew!",
+  "translations" : {
+    "russian" : "Нам надо набрать команду!"
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "must",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "get",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
     "position" : 3
+  }, {
+    "token" : "crew",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -174,356 +429,6 @@
     "startOffset" : 25,
     "endOffset" : 32,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv1_ANEXFMlzHLRg-",
-  "text" : "We must get a crew!",
-  "translations" : {
-    "russian" : "Нам надо набрать команду!"
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "must",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "get",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "crew",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv2xyNEXFMlzHLRi2",
-  "text" : "Midtown crew's on site now.",
-  "translations" : {
-    "russian" : "Служащие Мидтаунской компании уже на объекте."
-  },
-  "tokens" : [ {
-    "token" : "midtown",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "crew",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "site",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "now",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv2e_NEXFMlzHLRiK",
-  "text" : "All right, pick the crew.",
-  "translations" : {
-    "russian" : "Хорошо, собирай бригаду."
-  },
-  "tokens" : [ {
-    "token" : "all",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "right",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "pick",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "crew",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv243NEXFMlzHLRjC",
-  "text" : "That's a prison road crew.",
-  "translations" : {
-    "russian" : "Это тюремная дорожная компания."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 7,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "prison",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "road",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "crew",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoLbpNEXFMlzHLGgv",
-  "text" : "They can lead a crew.",
-  "translations" : {
-    "russian" : "Они могут руководить бригадой."
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "can",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "lead",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "crew",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv2ipNEXFMlzHLRiS",
-  "text" : "It's not rowing, it's crew.",
-  "translations" : {
-    "russian" : "Не гребцов, а шайки."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "row",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "it",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "crew",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv2MbNEXFMlzHLRhe",
-  "text" : "You want to join the crew?",
-  "translations" : {
-    "russian" : "Хочешь к нам в экипаж?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "want",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "join",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "crew",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvajHNEXFMlzHLQ3Q",
-  "text" : "I can't leave the crew lounge.",
-  "translations" : {
-    "russian" : "Я не могу покинуть комнату отдыха экипажа."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "can't",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "leave",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "crew",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "lounge",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvfI8NEXFMlzHLRA9",
-  "text" : "Everybody back to the crew cabin.",
-  "translations" : {
-    "russian" : "Все назад в кабину экипажа."
-  },
-  "tokens" : [ {
-    "token" : "everybody",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "back",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "crew",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "cabin",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv2SiNEXFMlzHLRhu",
-  "text" : "Sir, all crew back on board.",
-  "translations" : {
-    "russian" : "Сэр, весь экипаж на борту."
-  },
-  "tokens" : [ {
-    "token" : "sir",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "all",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "crew",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "back",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "on",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "board",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

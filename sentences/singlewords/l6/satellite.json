@@ -1,4 +1,68 @@
 [ {
+  "id" : "AWoDzP5gDTAu_IiLeRyK",
+  "text" : "Satellite spatter.",
+  "translations" : {
+    "russian" : "Сопутствующие капли."
+  },
+  "tokens" : [ {
+    "token" : "satellite",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "spatter",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzSu7DTAu_IiLeRz2",
+  "text" : "Satellite spatter.",
+  "translations" : {
+    "russian" : "Сопутствующие капли."
+  },
+  "tokens" : [ {
+    "token" : "satellite",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "spatter",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6MADDTAu_IiLeVDb",
+  "text" : "And every satellite overhead.",
+  "translations" : {
+    "russian" : "И каждый спутник над головой."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "every",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "satellite",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "overhead",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrtZeNEXFMlzHLLZ2",
   "text" : "Hey, this satellite feed...",
   "translations" : {
@@ -210,6 +274,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFdEe-DTAu_IiLfeN3",
+  "text" : "TV Satellite Control. Take over.",
+  "translations" : {
+    "russian" : "Центр управления телевизионным спутником."
+  },
+  "tokens" : [ {
+    "token" : "tv",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "satellite",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "control",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "take",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "over",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgit8FNEXFMlzHK_aG",
   "text" : "One with surround sound, satellite radio.",
   "translations" : {
@@ -286,6 +383,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEaumCDTAu_IiLetDg",
+  "text" : "Task the satellites at 392.6 hertz.",
+  "translations" : {
+    "russian" : "Задайте частоту 392, 6 Герц."
+  },
+  "tokens" : [ {
+    "token" : "task",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "satellite",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "at",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "392.6",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "hertz",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqQY7NEXFMlzHLJZb",
   "text" : "One with surround sound, satellite radio.",
   "translations" : {
@@ -320,6 +455,44 @@
     "token" : "radio",
     "startOffset" : 35,
     "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDXS9lDTAu_IiLeCBe",
+  "text" : "Nurse Garcia, call the satellite pharmacy.",
+  "translations" : {
+    "russian" : "Медсестра Гарсия, звонок из филиала аптеки."
+  },
+  "tokens" : [ {
+    "token" : "nurse",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "garcia",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "call",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "satellite",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "pharmacy",
+    "startOffset" : 33,
+    "endOffset" : 41,
     "position" : 5
   } ],
   "contentScore" : null

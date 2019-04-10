@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoFN9BADTAu_IiLfSo7",
+  "text" : "Ion pod.",
+  "translations" : {
+    "russian" : "Ионная капсула."
+  },
+  "tokens" : [ {
+    "token" : "ion",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pod",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDugS6DTAu_IiLePGx",
+  "text" : "My pod is diseased.",
+  "translations" : {
+    "russian" : "Моя консоль больна."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "pod",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "eased",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgq0Y-NEXFMlzHLKFZ",
   "text" : "The pods have broken!",
   "translations" : {
@@ -24,6 +70,44 @@
     "startOffset" : 14,
     "endOffset" : 20,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDmmzDTAu_IiLeb-Q",
+  "text" : "Pods are susceptible to spore infections.",
+  "translations" : {
+    "russian" : "Консоли чувствительны к споровым инфекциям."
+  },
+  "tokens" : [ {
+    "token" : "pod",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "susceptible",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "spore",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "infection",
+    "startOffset" : 30,
+    "endOffset" : 40,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -185,6 +185,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEW5uTDTAu_IiLeqb1",
+  "text" : "And cue artsy bullshit.",
+  "translations" : {
+    "russian" : "Вот и высокохудожественное дерьмо."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "cue",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "artsy",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "bullshit",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpg_INEXFMlzHLIXe",
   "text" : "That's our cue, kids.",
   "translations" : {
@@ -390,29 +418,6 @@
     "token" : "cue",
     "startOffset" : 11,
     "endOffset" : 14,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpgxNNEXFMlzHLIXK",
-  "text" : "What's my cue?",
-  "translations" : {
-    "russian" : "Какая у меня реплика?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "cue",
-    "startOffset" : 10,
-    "endOffset" : 13,
     "position" : 2
   } ],
   "contentScore" : null

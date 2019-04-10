@@ -1,0 +1,72 @@
+[ {
+  "id" : "AWoFFPcEDTAu_IiLfL3R",
+  "text" : "The gilt work glistened proudly.",
+  "translations" : {
+    "russian" : "Величественно сияла позолота."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gilt",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "work",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "glisten",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "proud",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFPeXDTAu_IiLfL3T",
+  "text" : "This should be gilt, not silver.",
+  "translations" : {
+    "russian" : "Это должно быть позолоченное, а не серебряное."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "should",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "gilt",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "not",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "silver",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

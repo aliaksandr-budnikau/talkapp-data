@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoDijcxDTAu_IiLeIcP",
+  "text" : "Idle talk.",
+  "translations" : {
+    "russian" : "Пустой разговор."
+  },
+  "tokens" : [ {
+    "token" : "idle",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "talk",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkIczNEXFMlzHLAjx",
   "text" : "Rat bastard talks rubbish!",
   "translations" : {
@@ -180,38 +198,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgopT9NEXFMlzHLHOu",
-  "text" : "She can't stop talking.",
+  "id" : "AWoDbkMHDTAu_IiLeEdo",
+  "text" : "You talk to Athena?",
   "translations" : {
-    "russian" : "Она не умолкает ни на минуту."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "can't",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "stop",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "talk",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgopcQNEXFMlzHLHO3",
-  "text" : "You never stopped talking.",
-  "translations" : {
-    "russian" : "Ты болтаешь без умолку."
+    "russian" : "Вы говорили с Афиной?"
   },
   "tokens" : [ {
     "token" : "you",
@@ -219,215 +209,210 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "never",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "stopped",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
     "token" : "talk",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrIq-NEXFMlzHLKjt",
-  "text" : "That's not this talk.",
-  "translations" : {
-    "russian" : "Я не об этом хотел поговорить."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "talk",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrIzRNEXFMlzHLKj-",
-  "text" : "Stop talking, please.",
-  "translations" : {
-    "russian" : "Не разговаривайте, пожалуйста."
-  },
-  "tokens" : [ {
-    "token" : "stop",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "talk",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "please",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrKilNEXFMlzHLKmg",
-  "text" : "You hear talk, though.",
-  "translations" : {
-    "russian" : "Но ходят всякие слухи."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "hear",
     "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "talk",
+    "token" : "to",
     "startOffset" : 9,
-    "endOffset" : 13,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "though",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkJgUNEXFMlzHLAkb",
-  "text" : "What rubbish you talking?",
-  "translations" : {
-    "russian" : "Что за вздор ты несешь?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "rubbish",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "talk",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgonSWNEXFMlzHLHLy",
-  "text" : "Stop talking about dreams!",
-  "translations" : {
-    "russian" : "Кончай уже говорить о снах!"
-  },
-  "tokens" : [ {
-    "token" : "stop",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "talk",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "about",
-    "startOffset" : 13,
+    "token" : "athena",
+    "startOffset" : 12,
     "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "dream",
-    "startOffset" : 19,
-    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgopV6NEXFMlzHLHOw",
-  "text" : "Winnie never stops talking.",
+  "id" : "AWoDlYRlDTAu_IiLeKAA",
+  "text" : "CHIBS Talked to Belfast.",
   "translations" : {
-    "russian" : "Винни всё болтал без умолку."
+    "russian" : "Поговорили с Белфастом."
   },
   "tokens" : [ {
-    "token" : "winnie",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "never",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "stops",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "stop",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "talk",
-    "startOffset" : 19,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrCbXNEXFMlzHLKaa",
-  "text" : "Let's talk about reality.",
-  "translations" : {
-    "russian" : "Давайте поговорим о реальности."
-  },
-  "tokens" : [ {
-    "token" : "let",
+    "token" : "chibs",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
     "token" : "talk",
     "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "belfast",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6ikjDTAu_IiLeVNY",
+  "text" : "Talk about the GDP.",
+  "translations" : {
+    "russian" : "Расскажите о ВВП."
+  },
+  "tokens" : [ {
+    "token" : "talk",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "about",
+    "startOffset" : 5,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "about",
+    "token" : "the",
     "startOffset" : 11,
-    "endOffset" : 16,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "reality",
-    "startOffset" : 17,
-    "endOffset" : 24,
+    "token" : "gdp",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDu2AWDTAu_IiLePUB",
+  "text" : "You're talking generalities.",
+  "translations" : {
+    "russian" : "Вы говорите общими словами."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "talk",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "generality",
+    "startOffset" : 15,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaBQJDTAu_IiLesl-",
+  "text" : "I talked to Henrietta.",
+  "translations" : {
+    "russian" : "Я говорил с Генриеттой."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "talk",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "henrietta",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEi9vPDTAu_IiLezS7",
+  "text" : "Talk to me, Goose.",
+  "translations" : {
+    "russian" : "Не молчи, Гусёнок."
+  },
+  "tokens" : [ {
+    "token" : "talk",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "goose",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1ZDvDTAu_IiLfAnV",
+  "text" : "Walkout... talk about ballsy.",
+  "translations" : {
+    "russian" : "Забастовка... говорит о решительности."
+  },
+  "tokens" : [ {
+    "token" : "walkout",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "talk",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "about",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "ballsy",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3nrHDTAu_IiLfCHG",
+  "text" : "Sirens wailing, people talking.",
+  "translations" : {
+    "russian" : "Завывает сирена, люди разговаривают."
+  },
+  "tokens" : [ {
+    "token" : "sir",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "wail",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "people",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "talk",
+    "startOffset" : 23,
+    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null

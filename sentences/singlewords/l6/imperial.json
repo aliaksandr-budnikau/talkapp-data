@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEy8pBDTAu_IiLe-67",
+  "text" : "Imperial stallions.",
+  "translations" : {
+    "russian" : "Императорские кони."
+  },
+  "tokens" : [ {
+    "token" : "imperial",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "stallion",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgm2viNEXFMlzHLEml",
   "text" : "Imperial crap - tin cans.",
   "translations" : {
@@ -24,6 +42,110 @@
     "startOffset" : 20,
     "endOffset" : 24,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSSkIDTAu_IiLfWAW",
+  "text" : "It's the Imperial Chaplain!",
+  "translations" : {
+    "russian" : "Это Наставник императрицы!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "imperial",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "chaplain",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6fQqDTAu_IiLfD_p",
+  "text" : "Where do the Imperial concubines sleep?",
+  "translations" : {
+    "russian" : "А где опочивальня королевских наложниц?"
+  },
+  "tokens" : [ {
+    "token" : "where",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "do",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "imperial",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "concubine",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "sleep",
+    "startOffset" : 33,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEL85PDTAu_IiLeiOU",
+  "text" : "The Forbidden City, The Imperial Library.",
+  "translations" : {
+    "russian" : "Запретный город, Императорская библиотека."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "forbidden",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "city",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "imperial",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "library",
+    "startOffset" : 33,
+    "endOffset" : 40,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

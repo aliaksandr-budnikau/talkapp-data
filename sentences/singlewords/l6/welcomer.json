@@ -111,10 +111,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdKd8NEXFMlzHK6q3",
-  "text" : "Welcome to the party.",
+  "id" : "AWoDbCo8DTAu_IiLeEI0",
+  "text" : "Welcome to the Atlantis.",
   "translations" : {
-    "russian" : "Добро пожаловать в команду."
+    "russian" : "Добро пожаловать на Атлантиду!"
   },
   "tokens" : [ {
     "token" : "welcome",
@@ -132,17 +132,17 @@
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "party",
+    "token" : "atlantis",
     "startOffset" : 15,
-    "endOffset" : 20,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnHb6NEXFMlzHLE9-",
-  "text" : "Welcome to The Grind.",
+  "id" : "AWoD-Z6UDTAu_IiLeX9Y",
+  "text" : "Welcome to my domain.",
   "translations" : {
-    "russian" : "Добро пожаловать в Гринд."
+    "russian" : "Добро пожаловать в мои владения."
   },
   "tokens" : [ {
     "token" : "welcome",
@@ -155,22 +155,22 @@
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "the",
+    "token" : "my",
     "startOffset" : 11,
-    "endOffset" : 14,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "grind",
-    "startOffset" : 15,
+    "token" : "domain",
+    "startOffset" : 14,
     "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwCgcNEXFMlzHLRwI",
-  "text" : "Welcome to Wisteria lane.",
+  "id" : "AWoEHDQtDTAu_IiLeeks",
+  "text" : "Welcome to Mount Weather.",
   "translations" : {
-    "russian" : "Обро пожаловать на лициниев переулок."
+    "russian" : "Добро пожаловать в Маунт Везер."
   },
   "tokens" : [ {
     "token" : "welcome",
@@ -183,78 +183,190 @@
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "wisteria",
+    "token" : "mount",
     "startOffset" : 11,
-    "endOffset" : 19,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "lane",
-    "startOffset" : 20,
+    "token" : "weather",
+    "startOffset" : 17,
     "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzLi_NEXFMlzHLV7v",
-  "text" : "Where's the welcome wagons?",
+  "id" : "AWoEXkuVDTAu_IiLeq6q",
+  "text" : "Welcome to Havana.",
   "translations" : {
-    "russian" : "Где фургоны с подарками местной продукции?"
+    "russian" : "Добро пожаловать в Гавану."
   },
   "tokens" : [ {
-    "token" : "where",
+    "token" : "welcome",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "the",
+    "token" : "to",
     "startOffset" : 8,
-    "endOffset" : 11,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "havana",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZcXKDTAu_IiLesNJ",
+  "text" : "Welcome to Harmony, stranger.",
+  "translations" : {
+    "russian" : "Добро пожаловать в Гармонию, чужак."
+  },
+  "tokens" : [ {
+    "token" : "welcome",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "harmony",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "stranger",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "strange",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeY_VDTAu_IiLevpt",
+  "text" : "Welcome to Mount Weather.",
+  "translations" : {
+    "russian" : "Добро пожаловать в Маунт Везер."
+  },
+  "tokens" : [ {
+    "token" : "welcome",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "mount",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "weather",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjPcdDTAu_IiLezgK",
+  "text" : "Tributes. We welcome you.",
+  "translations" : {
+    "russian" : "Трибуты, мы приветствуем вас."
+  },
+  "tokens" : [ {
+    "token" : "tribute",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "we",
+    "startOffset" : 10,
+    "endOffset" : 12,
     "position" : 1
   }, {
     "token" : "welcome",
-    "startOffset" : 12,
-    "endOffset" : 19,
+    "startOffset" : 13,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "wagon",
-    "startOffset" : 20,
+    "token" : "you",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEj6Y4DTAu_IiLe0Cy",
+  "text" : "Welcome to Mario's Palace.",
+  "translations" : {
+    "russian" : "Добро пожаловать в Марио Палас!"
+  },
+  "tokens" : [ {
+    "token" : "welcome",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "mario",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "palace",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFK04RDTAu_IiLfQS2",
+  "text" : "Welcome to Pioneer Village.",
+  "translations" : {
+    "russian" : "Добро пожаловать в деревню первопроходцев!"
+  },
+  "tokens" : [ {
+    "token" : "welcome",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pioneer",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "village",
+    "startOffset" : 19,
     "endOffset" : 26,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtFafNEXFMlzHLNTc",
-  "text" : "Welcome, ladies and gentlemen.",
+  "id" : "AWoFTCD4DTAu_IiLfWju",
+  "text" : "Welcome to Caracas.",
   "translations" : {
-    "russian" : "Добро пожаловать, дамы и господа."
-  },
-  "tokens" : [ {
-    "token" : "welcome",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "lady",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "gentlemen",
-    "startOffset" : 20,
-    "endOffset" : 29,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt5QNNEXFMlzHLOHY",
-  "text" : "Welcome to Civic Sushi.",
-  "translations" : {
-    "russian" : "Добро пожаловать в Цивик Суши."
+    "russian" : "Добро пожаловать в Каракас."
   },
   "tokens" : [ {
     "token" : "welcome",
@@ -267,198 +379,61 @@
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "civic",
+    "token" : "caracas",
     "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUU87DTAu_IiLfXfh",
+  "text" : "Welcome to Directory Assistance.",
+  "translations" : {
+    "russian" : "Вы позвонили в справочную."
+  },
+  "tokens" : [ {
+    "token" : "welcome",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "directory",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "assistance",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcAkiDTAu_IiLfdbC",
+  "text" : "Welcome, Langley Conservatives.",
+  "translations" : {
+    "russian" : "Добро пожаловать, Консерваторы Лэнгли."
+  },
+  "tokens" : [ {
+    "token" : "welcome",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "langley",
+    "startOffset" : 9,
     "endOffset" : 16,
-    "position" : 2
+    "position" : 1
   }, {
-    "token" : "sushi",
+    "token" : "conservative",
     "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghEvpNEXFMlzHK-BY",
-  "text" : "Welcome, ladies and gentlemen.",
-  "translations" : {
-    "russian" : "Добро пожаловать, дамы и господа."
-  },
-  "tokens" : [ {
-    "token" : "welcome",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "lady",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 16,
-    "endOffset" : 19,
+    "endOffset" : 30,
     "position" : 2
-  }, {
-    "token" : "gentlemen",
-    "startOffset" : 20,
-    "endOffset" : 29,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt63INEXFMlzHLOJ_",
-  "text" : "Welcome, class of 2011.",
-  "translations" : {
-    "russian" : "Приветствую вас, выпуск 2011."
-  },
-  "tokens" : [ {
-    "token" : "welcome",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "class",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "2011",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgudN4NEXFMlzHLPIv",
-  "text" : "Welcome to the Klan.",
-  "translations" : {
-    "russian" : "Добро пожаловать в Клан."
-  },
-  "tokens" : [ {
-    "token" : "welcome",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "klan",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzLzVNEXFMlzHLV8P",
-  "text" : "We were the welcome wagon.",
-  "translations" : {
-    "russian" : "Мы были радушны вагону."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "were",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "welcome",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "wagon",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfXL7NEXFMlzHK8jN",
-  "text" : "Monsieur, I bid you welcome.",
-  "translations" : {
-    "russian" : "Месье, прошу вас, располагайтесь."
-  },
-  "tokens" : [ {
-    "token" : "monsieur",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 10,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "bid",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "welcome",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgldxGNEXFMlzHLClZ",
-  "text" : "Welcome to the wingding, gentlemen.",
-  "translations" : {
-    "russian" : "Добро пожаловать в мир глюков, господа."
-  },
-  "tokens" : [ {
-    "token" : "welcome",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "wingding",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "gentlemen",
-    "startOffset" : 25,
-    "endOffset" : 34,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

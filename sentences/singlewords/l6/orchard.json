@@ -1,0 +1,57 @@
+[ {
+  "id" : "AWoDqaxvDTAu_IiLeMqw",
+  "text" : "Orchards and fields prosper.",
+  "translations" : {
+    "russian" : "Сады и поля процветают."
+  },
+  "tokens" : [ {
+    "token" : "orchard",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "field",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "prosper",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdVcxDTAu_IiLeFbM",
+  "text" : "Bamboo groves, mango orchards.",
+  "translations" : {
+    "russian" : "Бамбуковые заросли и манговые сады."
+  },
+  "tokens" : [ {
+    "token" : "bamboo",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "grove",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "mango",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "orchard",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+} ]

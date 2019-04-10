@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEHOtgDTAu_IiLees_",
+  "text" : "I shall forego the linens.",
+  "translations" : {
+    "russian" : "Я должен отказаться от белья."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "shall",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "forego",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "linen",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzPCgNEXFMlzHLWDE",
   "text" : "Do you require fresh linens?",
   "translations" : {
@@ -29,6 +62,44 @@
     "startOffset" : 21,
     "endOffset" : 27,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRiQCDTAu_IiLfVcI",
+  "text" : "6 Holland coifs... 2 linen shirts.",
+  "translations" : {
+    "russian" : "6 чепцов из голландского сукна, 2 льняные рубашки..."
+  },
+  "tokens" : [ {
+    "token" : "6",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "holland",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "coif",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "2",
+    "startOffset" : 19,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "linen",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "shirt",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

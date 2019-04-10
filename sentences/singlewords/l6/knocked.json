@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoE9FSPDTAu_IiLfFrt",
+  "text" : "Knocking over Zambia.",
+  "translations" : {
+    "russian" : "Переворот в Замбии."
+  },
+  "tokens" : [ {
+    "token" : "knock",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "over",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "zambia",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvoKHNEXFMlzHLRUV",
   "text" : "The engine'll knock it out.",
   "translations" : {
@@ -28,6 +51,39 @@
     "token" : "out",
     "startOffset" : 23,
     "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsR3tDTAu_IiLe6KV",
+  "text" : "Why would the landlady knock?",
+  "translations" : {
+    "russian" : "Почему хозяйка дома стучала?"
+  },
+  "tokens" : [ {
+    "token" : "why",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "would",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "landlady",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "knock",
+    "startOffset" : 23,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null
@@ -65,6 +121,72 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDz37xDTAu_IiLeSIR",
+  "text" : "Wake Duncan with thy knocking!",
+  "translations" : {
+    "russian" : "Буди Дункана, стук!"
+  },
+  "tokens" : [ {
+    "token" : "wake",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "duncan",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "thy",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "knock",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUtFEDTAu_IiLeox9",
+  "text" : "Knocking on wood and vocalizing.",
+  "translations" : {
+    "russian" : "Стучу по дереву и издаю звуки."
+  },
+  "tokens" : [ {
+    "token" : "knock",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "wood",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "vocalize",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguqUiNEXFMlzHLPix",
   "text" : "It knocked me right out.",
   "translations" : {
@@ -94,6 +216,105 @@
     "token" : "out",
     "startOffset" : 20,
     "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaSFtDTAu_IiLesw-",
+  "text" : "The generator, knock it off!",
+  "translations" : {
+    "russian" : "Генератор! Выключите его!"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "generator",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "knock",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "off",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEelahDTAu_IiLevzR",
+  "text" : "Hey, don't knock townees, okay?",
+  "translations" : {
+    "russian" : "Не трогай деревенских, ладно?"
+  },
+  "tokens" : [ {
+    "token" : "hey",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "don't",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "knock",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "townees",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "okay",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsQVRDTAu_IiLe6JY",
+  "text" : "It's like knocking down dominoes.",
+  "translations" : {
+    "russian" : "Это как сбивать костяшки домино."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "like",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "knock",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "down",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "dominoes",
+    "startOffset" : 24,
+    "endOffset" : 32,
     "position" : 4
   } ],
   "contentScore" : null
@@ -132,6 +353,196 @@
     "token" : "me",
     "startOffset" : 24,
     "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMeMEDTAu_IiLeipB",
+  "text" : "A cheap Eastern European knock-off.",
+  "translations" : {
+    "russian" : "Дешевая подделка из Восточной Европы."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "cheap",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "eastern",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "european",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "knock",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "off",
+    "startOffset" : 31,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQEvODTAu_IiLelUJ",
+  "text" : "So knock yourself out. I'm ejecting.",
+  "translations" : {
+    "russian" : "Ну тогда можешь приступать я катапультируюсь."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "knock",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "yourself",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "out",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "i'm",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "eject",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESw52DTAu_IiLenSV",
+  "text" : "So knock yourself out. I'm ejecting.",
+  "translations" : {
+    "russian" : "Ну тогда можешь приступать я катапультируюсь."
+  },
+  "tokens" : [ {
+    "token" : "so",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "knock",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "yourself",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "out",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "i'm",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "eject",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4ALMDTAu_IiLfCXo",
+  "text" : "L've knocked up a few captions.",
+  "translations" : {
+    "russian" : "Я тут сделал наспех несколько подписей."
+  },
+  "tokens" : [ {
+    "token" : "l've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "knock",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "up",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "few",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "caption",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQiLuDTAu_IiLfUpH",
+  "text" : "He knocked on my cubicle door.",
+  "translations" : {
+    "russian" : "Он постучал в дверь моей кабинки."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "knock",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "cubicle",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "door",
+    "startOffset" : 25,
+    "endOffset" : 29,
     "position" : 5
   } ],
   "contentScore" : null

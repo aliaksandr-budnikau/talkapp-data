@@ -83,6 +83,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFSriYDTAu_IiLfWS1",
+  "text" : "Capital crimes excluded.",
+  "translations" : {
+    "russian" : "За исключением тяжких преступлений."
+  },
+  "tokens" : [ {
+    "token" : "capital",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "crime",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "exclude",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpwEwNEXFMlzHLIsn",
   "text" : "Present company obviously excluded.",
   "translations" : {
@@ -174,6 +197,44 @@
     "startOffset" : 29,
     "endOffset" : 35,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEH2H6DTAu_IiLefIo",
+  "text" : "Angry, resentful, excluded, unloved and poor!",
+  "translations" : {
+    "russian" : "Злой, обиженный, исключённый из завещания, нелюбимый и бедный!"
+  },
+  "tokens" : [ {
+    "token" : "angry",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "resentful",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "exclude",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "loved",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 36,
+    "endOffset" : 39,
+    "position" : 4
+  }, {
+    "token" : "poor",
+    "startOffset" : 40,
+    "endOffset" : 44,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

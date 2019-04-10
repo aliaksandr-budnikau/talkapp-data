@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoE9RkTDTAu_IiLfF03",
+  "text" : "Frozen corpses don't bite.",
+  "translations" : {
+    "russian" : "Замерзшие трупы не кусаются."
+  },
+  "tokens" : [ {
+    "token" : "frozen",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "corps",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "don't",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "bite",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdLbZDTAu_IiLeFVj",
+  "text" : "Embalmed eviscerated corpses don't walk.",
+  "translations" : {
+    "russian" : "Забальзамированные и выпоторошенные трупы не ходят."
+  },
+  "tokens" : [ {
+    "token" : "embalm",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "eviscerate",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "corps",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "don't",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "walk",
+    "startOffset" : 35,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgffMwNEXFMlzHK8qT",
   "text" : "You dissolve corpses for money.",
   "translations" : {
@@ -29,6 +90,115 @@
     "startOffset" : 25,
     "endOffset" : 30,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdIVuDTAu_IiLeFT2",
+  "text" : "Embalmed eviscerated corpses don't walk.",
+  "translations" : {
+    "russian" : "Забальзамированные и выпоторошенные трупы не ходят."
+  },
+  "tokens" : [ {
+    "token" : "embalm",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "eviscerate",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "corps",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "don't",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "walk",
+    "startOffset" : 35,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOTOmDTAu_IiLekBO",
+  "text" : "I've seen you dissect alien corpses.",
+  "translations" : {
+    "russian" : "Я видел, как ты вскрывал трупы."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "seen",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "dissect",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "alien",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "corps",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3zLFDTAu_IiLfCO1",
+  "text" : "Miami makes more corpses than sunburns.",
+  "translations" : {
+    "russian" : "В Майами трупов больше, чем пострадавших от солнечных ожогов."
+  },
+  "tokens" : [ {
+    "token" : "miami",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "more",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "corps",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "than",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "sunburn",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

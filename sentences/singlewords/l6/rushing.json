@@ -301,6 +301,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgyxjTNEXFMlzHLVJp",
+  "text" : "Rush, this is Young.",
+  "translations" : {
+    "russian" : "Раш, это Янг."
+  },
+  "tokens" : [ {
+    "token" : "rush",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "this",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "young",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyyMoNEXFMlzHLVKS",
   "text" : "What's the rush, Ginger?",
   "translations" : {
@@ -403,30 +431,30 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyxjTNEXFMlzHLVJp",
-  "text" : "Rush, this is Young.",
+  "id" : "AWoDxzXZDTAu_IiLeQ_Z",
+  "text" : "No rush, it's fermenting.",
   "translations" : {
-    "russian" : "Раш, это Янг."
+    "russian" : "Не спеши, это бродит."
   },
   "tokens" : [ {
-    "token" : "rush",
+    "token" : "no",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "this",
-    "startOffset" : 6,
-    "endOffset" : 10,
+    "token" : "rush",
+    "startOffset" : 3,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "is",
-    "startOffset" : 11,
+    "token" : "it",
+    "startOffset" : 9,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "young",
+    "token" : "fermenting",
     "startOffset" : 14,
-    "endOffset" : 19,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
@@ -455,34 +483,6 @@
     "token" : "rush",
     "startOffset" : 17,
     "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyySuNEXFMlzHLVKY",
-  "text" : "That's why no rush.",
-  "translations" : {
-    "russian" : "Поэтому не было спешки."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "why",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "no",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "rush",
-    "startOffset" : 14,
-    "endOffset" : 18,
     "position" : 3
   } ],
   "contentScore" : null

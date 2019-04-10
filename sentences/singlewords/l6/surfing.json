@@ -179,6 +179,24 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFG2v2DTAu_IiLfNEt",
+  "text" : "Channel surf?",
+  "translations" : {
+    "russian" : "Переключить каналы?"
+  },
+  "tokens" : [ {
+    "token" : "channel",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "surf",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgx3MJNEXFMlzHLT7k",
   "text" : "Surfed the rail yards?",
   "translations" : {
@@ -204,6 +222,29 @@
     "startOffset" : 16,
     "endOffset" : 21,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIMonDTAu_IiLfOLW",
+  "text" : "Surf it, smooth.",
+  "translations" : {
+    "russian" : "Поглаживай ее, нежно."
+  },
+  "tokens" : [ {
+    "token" : "surf",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "smooth",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

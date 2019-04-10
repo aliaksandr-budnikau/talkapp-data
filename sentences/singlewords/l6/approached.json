@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoDYdkFDTAu_IiLeCkN",
+  "text" : "Approaching dandy.",
+  "translations" : {
+    "russian" : "Где-то рядом с клёво."
+  },
+  "tokens" : [ {
+    "token" : "approach",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "dandy",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfLEnNEXFMlzHK8ZF",
   "text" : "He approaches even now.",
   "translations" : {
@@ -167,6 +185,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFTmAeDTAu_IiLfW-Z",
+  "text" : "Charlie-1 approaching roundabout.",
+  "translations" : {
+    "russian" : "Чарли-1 приближается к кольцу."
+  },
+  "tokens" : [ {
+    "token" : "charlie",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "1",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "approach",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "roundabout",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfLCqNEXFMlzHK8ZD",
   "text" : "Approaching grid perimeter.",
   "translations" : {
@@ -330,109 +376,53 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwG0ENEXFMlzHLR14",
-  "text" : "Sentient life forms approaching.",
+  "id" : "AWoEl3K2DTAu_IiLe1eN",
+  "text" : "Counselors approach the bench.",
   "translations" : {
-    "russian" : "Приближаются разумные формы жизни."
+    "russian" : "Адвокат, подойдите."
   },
   "tokens" : [ {
-    "token" : "sentient",
+    "token" : "counselor",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "approach",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "bench",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEl3L0DTAu_IiLe1eO",
+  "text" : "Approach the bench.",
+  "translations" : {
+    "russian" : "Подойдите."
+  },
+  "tokens" : [ {
+    "token" : "approach",
     "startOffset" : 0,
     "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "life",
+    "token" : "the",
     "startOffset" : 9,
-    "endOffset" : 13,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "form",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "approach",
-    "startOffset" : 20,
-    "endOffset" : 31,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfLAONEXFMlzHK8ZB",
-  "text" : "Sentient life forms approaching.",
-  "translations" : {
-    "russian" : "Приближаются разумные формы жизни."
-  },
-  "tokens" : [ {
-    "token" : "sentient",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "life",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "form",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "approach",
-    "startOffset" : 20,
-    "endOffset" : 31,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfMN0NEXFMlzHK8aI",
-  "text" : "Your approach is different.",
-  "translations" : {
-    "russian" : "Твой подход оказался другим."
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "approach",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "different",
-    "startOffset" : 17,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwHFBNEXFMlzHLR2f",
-  "text" : "He approached me.",
-  "translations" : {
-    "russian" : "Он подошел ко мне."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "approach",
-    "startOffset" : 3,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 14,
-    "endOffset" : 16,
+    "token" : "bench",
+    "startOffset" : 13,
+    "endOffset" : 18,
     "position" : 2
   } ],
   "contentScore" : null

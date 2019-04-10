@@ -1,39 +1,499 @@
 [ {
-  "id" : "AWbgqY4NNEXFMlzHLJlL",
-  "text" : "He transmitted files to us.",
+  "id" : "AWoE4t4oDTAu_IiLfC19",
+  "text" : "Download shared files.",
   "translations" : {
-    "russian" : "Он успел отправить нам файл."
+    "russian" : "Загрузка разделила файлы."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "download",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "transmitted",
-    "startOffset" : 3,
-    "endOffset" : 14,
+    "token" : "shared",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "share",
+    "startOffset" : 9,
+    "endOffset" : 15,
     "position" : 1
   }, {
     "token" : "files",
-    "startOffset" : 15,
-    "endOffset" : 20,
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 2
   }, {
     "token" : "file",
-    "startOffset" : 15,
-    "endOffset" : 20,
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4uefDTAu_IiLfC2T",
+  "text" : "Download shared files.",
+  "translations" : {
+    "russian" : "Загружаю общие данные."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "shared",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "share",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "to",
-    "startOffset" : 21,
-    "endOffset" : 23,
+    "token" : "file",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNdEwDTAu_IiLfSRk",
+  "text" : "I interpret case-files.",
+  "translations" : {
+    "russian" : "Я интерпретирую архивы."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "interpret",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "case",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "files",
+    "startOffset" : 17,
+    "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "us",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 4
+    "token" : "file",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4c1BDTAu_IiLfCrh",
+  "text" : "Downloading the files.",
+  "translations" : {
+    "russian" : "Загружаю файлы."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4m46DTAu_IiLfCxt",
+  "text" : "Downloading secure files.",
+  "translations" : {
+    "russian" : "Загрузка секретных файлов."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "secure",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNDDTDTAu_IiLfR-k",
+  "text" : "I interpret case-files.",
+  "translations" : {
+    "russian" : "Я интерпретирую архивы."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "interpret",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "case",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "files",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "file",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4cx2DTAu_IiLfCre",
+  "text" : "Download shared files.",
+  "translations" : {
+    "russian" : "Загружаю общие данные."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "shared",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "share",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4nDKDTAu_IiLfCx0",
+  "text" : "Download shared files.",
+  "translations" : {
+    "russian" : "Загрузка разделила файлы."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "shared",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "share",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4niMDTAu_IiLfCyK",
+  "text" : "Download shared files.",
+  "translations" : {
+    "russian" : "Загружаю общие данные."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "shared",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "share",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4uh6DTAu_IiLfC2W",
+  "text" : "Downloading the files.",
+  "translations" : {
+    "russian" : "Загружаю файлы."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4nn0DTAu_IiLfCyN",
+  "text" : "Downloading the files.",
+  "translations" : {
+    "russian" : "Загружаю файлы."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4cDZDTAu_IiLfCrB",
+  "text" : "Downloading secure files.",
+  "translations" : {
+    "russian" : "Загрузка секретных файлов."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "secure",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4cR3DTAu_IiLfCrI",
+  "text" : "Download shared files.",
+  "translations" : {
+    "russian" : "Загрузка разделила файлы."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "shared",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "share",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4tnDDTAu_IiLfC12",
+  "text" : "Downloading secure files.",
+  "translations" : {
+    "russian" : "Загрузка секретных файлов."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "secure",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEsnuDTAu_IiLfLe5",
+  "text" : "Misuse of files? Right.",
+  "translations" : {
+    "russian" : "Нецелевое использование?"
+  },
+  "tokens" : [ {
+    "token" : "misuse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "right",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNi3IDTAu_IiLfSVx",
+  "text" : "I interpret case-files.",
+  "translations" : {
+    "russian" : "Я интерпретирую архивы."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "interpret",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "case",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "files",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "file",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoEXEXcDTAu_IiLeqjl",
+  "text" : "Embroidered pillows.",
+  "translations" : {
+    "russian" : "Вышитые подушки."
+  },
+  "tokens" : [ {
+    "token" : "embroider",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "pillow",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXHFjDTAu_IiLeqlg",
+  "text" : "Embroidered pillows.",
+  "translations" : {
+    "russian" : "Вышитые подушки."
+  },
+  "tokens" : [ {
+    "token" : "embroider",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "pillow",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpjQPNEXFMlzHLIav",
   "text" : "Chuck, feeding pillow, stat!",
   "translations" : {
@@ -57,6 +93,361 @@
     "startOffset" : 18,
     "endOffset" : 22,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE6iNeDTAu_IiLfEBB",
+  "text" : "The pillows were indented.",
+  "translations" : {
+    "russian" : "Подушки смещены."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pillow",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "were",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "indented",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "dent",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEl0-6DTAu_IiLe1ck",
+  "text" : "A bench with a pillow.",
+  "translations" : {
+    "russian" : "Лавку и подушку!"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "bench",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "pillow",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnnb_DTAu_IiLe2zX",
+  "text" : "Would you like a pillow?",
+  "translations" : {
+    "russian" : "Может, тебе подушку, красавчик?"
+  },
+  "tokens" : [ {
+    "token" : "would",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "like",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 15,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "pillow",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdDT5DTAu_IiLeuoN",
+  "text" : "Pillows are subject to availability.",
+  "translations" : {
+    "russian" : "Подушки, в зависимости от наличия."
+  },
+  "tokens" : [ {
+    "token" : "pillow",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "subject",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "availability",
+    "startOffset" : 23,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELOTADTAu_IiLehn5",
+  "text" : "Someone to fluff your pillows?",
+  "translations" : {
+    "russian" : "Есть кому подушки взбивать?"
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "fluff",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "pillow",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXGyBDTAu_IiLeqlR",
+  "text" : "A pillow he has embroidered himself.",
+  "translations" : {
+    "russian" : "Подушка, которую он сам вышил."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "pillow",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "he",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "has",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "embroider",
+    "startOffset" : 16,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "himself",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwPTVDTAu_IiLe852",
+  "text" : "This can be the smothering pillow.",
+  "translations" : {
+    "russian" : "Может произойти удушение подушкой."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "smother",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "pillow",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXECNDTAu_IiLeqjW",
+  "text" : "A pillow he has embroidered himself.",
+  "translations" : {
+    "russian" : "Подушка, которую он сам вышил."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "pillow",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "he",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "has",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "embroider",
+    "startOffset" : 16,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "himself",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwNg0DTAu_IiLe84b",
+  "text" : "He smothered Desdemona with a pillow.",
+  "translations" : {
+    "russian" : "Он задушил Дездемону подушкой."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "smother",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "desdemona",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 28,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "pillow",
+    "startOffset" : 30,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZ8vtDTAu_IiLfbxK",
+  "text" : "The pillow acted as a girdle.",
+  "translations" : {
+    "russian" : "Эта подушка была поясом."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pillow",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "act",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "as",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 20,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "girdle",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

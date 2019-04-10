@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoE7ApBDTAu_IiLfEUI",
+  "text" : "Curfew's at sundown.",
+  "translations" : {
+    "russian" : "Комендантский час с заката."
+  },
+  "tokens" : [ {
+    "token" : "curfew",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "at",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "sundown",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVoj-DTAu_IiLeBRT",
+  "text" : "I will rescind the curfew.",
+  "translations" : {
+    "russian" : "Я отменю комендантский час."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "rescind",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "curfew",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqD9UNEXFMlzHLJIR",
   "text" : "Our Governor set a strict curfew.",
   "translations" : {
@@ -71,6 +127,44 @@
     "token" : "curfew",
     "startOffset" : 26,
     "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMh2GDTAu_IiLfRli",
+  "text" : "I am instituting a vampire curfew.",
+  "translations" : {
+    "russian" : "Я ввожу комендантский час для вампиров."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "institute",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "vampire",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "curfew",
+    "startOffset" : 27,
+    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null

@@ -60,6 +60,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDxvb_DTAu_IiLeQ9d",
+  "text" : "Prowler on the scene.",
+  "translations" : {
+    "russian" : "Вор на месте преступления."
+  },
+  "tokens" : [ {
+    "token" : "prowler",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "prowl",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "scene",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggNn4NEXFMlzHK9Rn",
   "text" : "Scene six, take four.",
   "translations" : {
@@ -363,6 +396,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFKyodDTAu_IiLfQRJ",
+  "text" : "Survey the scene.",
+  "translations" : {
+    "russian" : "Осмотри место преступления."
+  },
+  "tokens" : [ {
+    "token" : "survey",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "scene",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggNlcNEXFMlzHK9Rl",
   "text" : "Scene six, take three.",
   "translations" : {
@@ -388,67 +444,6 @@
     "startOffset" : 16,
     "endOffset" : 21,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghlniNEXFMlzHK-eD",
-  "text" : "This scene in Footloose.",
-  "translations" : {
-    "russian" : "Есть эпизод в Footloose..."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "scene",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "footloose",
-    "startOffset" : 14,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghm-jNEXFMlzHK-fO",
-  "text" : "Nothing but a death scene.",
-  "translations" : {
-    "russian" : "Поколение ничто - ничего, кроме мертвого зрелища."
-  },
-  "tokens" : [ {
-    "token" : "nothing",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "but",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "death",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "scene",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

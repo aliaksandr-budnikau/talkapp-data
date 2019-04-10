@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEBtTMDTAu_IiLeaeh",
+  "text" : "Pancakes, toast, popcorn, grapes.",
+  "translations" : {
+    "russian" : "На блинах, тостах, кукурузе, винограде."
+  },
+  "tokens" : [ {
+    "token" : "pancake",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "toast",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "popcorn",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "grape",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsPURNEXFMlzHLMKN",
   "text" : "Which two of you want pancakes?",
   "translations" : {
@@ -33,6 +61,44 @@
     "token" : "pancake",
     "startOffset" : 22,
     "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEz3BVDTAu_IiLe_j8",
+  "text" : "All right, I'll paint a pancake!",
+  "translations" : {
+    "russian" : "Хорошо, нарисую пышку!"
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "right",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "i'll",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "paint",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 22,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "pancake",
+    "startOffset" : 24,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

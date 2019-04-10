@@ -1,0 +1,85 @@
+[ {
+  "id" : "AWoEiOOGDTAu_IiLeyuw",
+  "text" : "Pear tree.",
+  "translations" : {
+    "russian" : "Груша."
+  },
+  "tokens" : [ {
+    "token" : "pear",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "tree",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiOoPDTAu_IiLeyvH",
+  "text" : "Red door, pear tree.",
+  "translations" : {
+    "russian" : "Красная дверь, грушевое дерево."
+  },
+  "tokens" : [ {
+    "token" : "red",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "door",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pear",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "tree",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiO0sDTAu_IiLeyvT",
+  "text" : "I'm talking to the pear tree.",
+  "translations" : {
+    "russian" : "Я вообще говорю с грушевым деревом."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "talk",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "pear",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "tree",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

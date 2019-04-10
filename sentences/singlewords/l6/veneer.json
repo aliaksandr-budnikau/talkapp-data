@@ -1,0 +1,34 @@
+[ {
+  "id" : "AWoEM1ZdDTAu_IiLei7M",
+  "text" : "Plaque, cavities, fake-looking veneers.",
+  "translations" : {
+    "russian" : "Зубной налет, кариес, ненатурально выглядящие коронки."
+  },
+  "tokens" : [ {
+    "token" : "plaque",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cavity",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "fake",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "look",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "veneer",
+    "startOffset" : 31,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

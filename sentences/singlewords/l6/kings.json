@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoFFmkFDTAu_IiLfMIS",
+  "text" : "Sector King, Zulu, King.",
+  "translations" : {
+    "russian" : "Участок Кинг, Зулу, Кинг."
+  },
+  "tokens" : [ {
+    "token" : "sector",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "king",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "k",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "zulu",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "king",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "k",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhplVDTAu_IiLfhVV",
+  "text" : "King prawn.",
+  "translations" : {
+    "russian" : "Королевская креветка."
+  },
+  "tokens" : [ {
+    "token" : "king",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "k",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "prawn",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgh1-gNEXFMlzHK-sR",
   "text" : "Then the king appeared.",
   "translations" : {
@@ -28,6 +89,222 @@
     "token" : "appear",
     "startOffset" : 14,
     "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7VUADTAu_IiLeVpN",
+  "text" : "The politeness of kings.",
+  "translations" : {
+    "russian" : "Вежливость королей."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "politeness",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "polite",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "king",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2spoDTAu_IiLfBgF",
+  "text" : "Second Kings, old testament.",
+  "translations" : {
+    "russian" : "Четвертая книга Царств, Ветхий Завет."
+  },
+  "tokens" : [ {
+    "token" : "second",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "king",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "old",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "testament",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkjLeDTAu_IiLe0f-",
+  "text" : "I'm the King's debtor.",
+  "translations" : {
+    "russian" : "Я должник морского царя."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "king",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "debtor",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3LgpDTAu_IiLfB0c",
+  "text" : "A king conquers.",
+  "translations" : {
+    "russian" : "Король покоряет."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "king",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "k",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "conquers",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "conquer",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCFyIDTAu_IiLfJmr",
+  "text" : "You defy your King?",
+  "translations" : {
+    "russian" : "Ты бросаешь вызов королю?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "defy",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "king",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "k",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3bCZDTAu_IiLfB_F",
+  "text" : "A king conquers.",
+  "translations" : {
+    "russian" : "Король покоряет."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "king",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "k",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "conquers",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "conquer",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSslRDTAu_IiLfWTl",
+  "text" : "The luckiest king's corsair.",
+  "translations" : {
+    "russian" : "Самого удачливого королевского корсара."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "lucky",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "king",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "corsair",
+    "startOffset" : 20,
+    "endOffset" : 27,
     "position" : 3
   } ],
   "contentScore" : null
@@ -93,185 +370,43 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcHQxNEXFMlzHK5uV",
-  "text" : "Your children shall be kings.",
+  "id" : "AWoEGPeQDTAu_IiLed_D",
+  "text" : "You defy your King?",
   "translations" : {
-    "russian" : "Твои потомки будут королями."
+    "russian" : "Ты бросаешь вызов королю?"
   },
   "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "children",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "shall",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "be",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "king",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghKb8NEXFMlzHK-GX",
-  "text" : "Are we not king's men?",
-  "translations" : {
-    "russian" : "Мы - слуги короля?"
-  },
-  "tokens" : [ {
-    "token" : "are",
+    "token" : "you",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "we",
+    "token" : "defy",
     "startOffset" : 4,
-    "endOffset" : 6,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "not",
-    "startOffset" : 7,
-    "endOffset" : 10,
+    "token" : "your",
+    "startOffset" : 9,
+    "endOffset" : 13,
     "position" : 2
   }, {
     "token" : "king",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "men",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsDOKNEXFMlzHLL5O",
-  "text" : "I'll appeal to the king.",
-  "translations" : {
-    "russian" : "Я обращусь к королю."
-  },
-  "tokens" : [ {
-    "token" : "i'll",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "appeal",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
+    "startOffset" : 14,
     "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "king",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
     "token" : "k",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv4LANEXFMlzHLRl2",
-  "text" : "Was Mr King a flyer?",
-  "translations" : {
-    "russian" : "М-р Кинг был пилотом?"
-  },
-  "tokens" : [ {
-    "token" : "was",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "mr",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "king",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "k",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "flyer",
     "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghKc7NEXFMlzHK-GY",
-  "text" : "Are we not king's men?",
-  "translations" : {
-    "russian" : "Так мы - слуги короля?"
-  },
-  "tokens" : [ {
-    "token" : "are",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "we",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "not",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "king",
-    "startOffset" : 11,
-    "endOffset" : 17,
+    "endOffset" : 18,
     "position" : 3
-  }, {
-    "token" : "men",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguUgcNEXFMlzHLO3d",
-  "text" : "The King wouldn't permit it.",
+  "id" : "AWoELKfvDTAu_IiLehk5",
+  "text" : "The Raven King?",
   "translations" : {
-    "russian" : "Король этого не допустит."
+    "russian" : "От Короля-Ворона?"
   },
   "tokens" : [ {
     "token" : "the",
@@ -279,6 +414,34 @@
     "endOffset" : 3,
     "position" : 0
   }, {
+    "token" : "raven",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "king",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "k",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFS30NDTAu_IiLfWcA",
+  "text" : "Nat King Cole.",
+  "translations" : {
+    "russian" : "Туземным королем Коулом."
+  },
+  "tokens" : [ {
+    "token" : "nat",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
     "token" : "king",
     "startOffset" : 4,
     "endOffset" : 8,
@@ -289,96 +452,48 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "wouldn't",
+    "token" : "cole",
     "startOffset" : 9,
-    "endOffset" : 17,
+    "endOffset" : 13,
     "position" : 2
-  }, {
-    "token" : "permit",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 25,
-    "endOffset" : 27,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgy1z_NEXFMlzHLVPE",
-  "text" : "Dale King, from second grade?",
+  "id" : "AWoFUsFIDTAu_IiLfXv6",
+  "text" : "He's passing Chestnut King.",
   "translations" : {
-    "russian" : "Дэйл Кинг из второго класса?"
+    "russian" : "Обходит Гнедого Короля."
   },
   "tokens" : [ {
-    "token" : "dale",
+    "token" : "he",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "king",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "k",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "from",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "second",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "grade",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvI10NEXFMlzHLQf1",
-  "text" : "Nice customs courtesy to great kings.",
-  "translations" : {
-    "russian" : "Ничтожные обычаи склоняются перед великими королями."
-  },
-  "tokens" : [ {
-    "token" : "nice",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "custom",
+    "token" : "passing",
     "startOffset" : 5,
     "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "courtesy",
+    "token" : "pass",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "chestnut",
     "startOffset" : 13,
     "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "to",
+    "token" : "king",
     "startOffset" : 22,
-    "endOffset" : 24,
+    "endOffset" : 26,
     "position" : 3
   }, {
-    "token" : "great",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "king",
-    "startOffset" : 31,
-    "endOffset" : 36,
-    "position" : 5
+    "token" : "k",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoEA5A2DTAu_IiLeZ2o",
+  "text" : "Photographers landscapes, animals.",
+  "translations" : {
+    "russian" : "Фотографировать пейзажи, животных."
+  },
+  "tokens" : [ {
+    "token" : "photographer",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "landscape",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 1
+  }, {
+    "token" : "animal",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgowE9NEXFMlzHLHXS",
   "text" : "No media, no photographers.",
   "translations" : {
@@ -264,6 +287,44 @@
     "token" : "photographer",
     "startOffset" : 17,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEcJcDTAu_IiLeco3",
+  "text" : "Do you mean a freelance photographer?",
+  "translations" : {
+    "russian" : "Такому внештатному фотографу?"
+  },
+  "tokens" : [ {
+    "token" : "do",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "mean",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 3
+  }, {
+    "token" : "freelance",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "photographer",
+    "startOffset" : 24,
+    "endOffset" : 36,
     "position" : 5
   } ],
   "contentScore" : null

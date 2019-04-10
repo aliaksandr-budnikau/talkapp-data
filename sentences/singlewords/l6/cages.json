@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEe5w_DTAu_IiLewCO",
+  "text" : "Commonwealth versus Cage.",
+  "translations" : {
+    "russian" : "Народ против Кейджа."
+  },
+  "tokens" : [ {
+    "token" : "commonwealth",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "commonweal",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "versus",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "cage",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtkN3NEXFMlzHLNqh",
   "text" : "Malnourished, all caged up.",
   "translations" : {
@@ -29,6 +57,82 @@
     "startOffset" : 24,
     "endOffset" : 26,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2fDUDTAu_IiLeTW8",
+  "text" : "Animals rattling in their cages.",
+  "translations" : {
+    "russian" : "Животные грохочут в клетках."
+  },
+  "tokens" : [ {
+    "token" : "animal",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "rattling",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "rattle",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "their",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "cage",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcVlGDTAu_IiLfdrU",
+  "text" : "Endless cages filled with contraband?",
+  "translations" : {
+    "russian" : "Бесконечные клетки, полные контрабандного товара?"
+  },
+  "tokens" : [ {
+    "token" : "endless",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "cage",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "filled",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "fill",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "with",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "contraband",
+    "startOffset" : 26,
+    "endOffset" : 36,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -66,6 +170,272 @@
     "token" : "door",
     "startOffset" : 25,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRkZQDTAu_IiLd-m1",
+  "text" : "Yeah, his cage was very tidy.",
+  "translations" : {
+    "russian" : "Да, его клетка была очень чистой."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "his",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "cage",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "was",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "very",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "tidy",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDwoDKDTAu_IiLeQYq",
+  "text" : "I just rattled Tony Lash's cage.",
+  "translations" : {
+    "russian" : "Я только что запустил ловушку для Тони Лэша."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "rattle",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "tony",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "lash",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "cage",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0MbUDTAu_IiLe_zA",
+  "text" : "First, they cage us like beasts...",
+  "translations" : {
+    "russian" : "Сначала, они посадили нас в клетку как животных..."
+  },
+  "tokens" : [ {
+    "token" : "first",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "they",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "cage",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "us",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "like",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "beast",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFPVyDTAu_IiLfL3L",
+  "text" : "Within a slightly more gilded cage.",
+  "translations" : {
+    "russian" : "В немного более позолоченной клетке."
+  },
+  "tokens" : [ {
+    "token" : "within",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "slight",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "more",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "gild",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "cage",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDex9RDTAu_IiLeGQC",
+  "text" : "Bring the cage and the ram!",
+  "translations" : {
+    "russian" : "Принесите клетку и таран!"
+  },
+  "tokens" : [ {
+    "token" : "bring",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "cage",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "ram",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFPx5DTAu_IiLfL3k",
+  "text" : "Within a slightly more gilded cage.",
+  "translations" : {
+    "russian" : "В немного более позолоченной клетке."
+  },
+  "tokens" : [ {
+    "token" : "within",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "slight",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "more",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "gild",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "cage",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYFFADTAu_IiLfaMq",
+  "text" : "I just rattled Tony Lash's cage.",
+  "translations" : {
+    "russian" : "Я только что запустил ловушку для Тони Лэша."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "rattle",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "tony",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "lash",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "cage",
+    "startOffset" : 27,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoFEoIgDTAu_IiLfLbx",
+  "text" : "Malicious lies.",
+  "translations" : {
+    "russian" : "Злонамеренно лгали."
+  },
+  "tokens" : [ {
+    "token" : "malicious",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "lies",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "lie",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbghm9FNEXFMlzHK-fN",
   "text" : "What scene lies within?",
   "translations" : {
@@ -29,6 +52,100 @@
     "startOffset" : 16,
     "endOffset" : 22,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDr7mDTAu_IiLfKxc",
+  "text" : "Therein lies the problem.",
+  "translations" : {
+    "russian" : "В этом и заключается проблема."
+  },
+  "tokens" : [ {
+    "token" : "therein",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "lies",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "lie",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "problem",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDsRbDTAu_IiLfKxs",
+  "text" : "Therein lies your curse.",
+  "translations" : {
+    "russian" : "В том твое проклятие."
+  },
+  "tokens" : [ {
+    "token" : "therein",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "lies",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "lie",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "curse",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWQL5DTAu_IiLfY0p",
+  "text" : "Here lies Balduin.",
+  "translations" : {
+    "russian" : "Здесь лежит Балдуин."
+  },
+  "tokens" : [ {
+    "token" : "here",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "lies",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "lie",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "balduin",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -70,315 +187,338 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgobWeNEXFMlzHLG5k",
-  "text" : "You're publishing lies!",
+  "id" : "AWoEPoDDDTAu_IiLek-x",
+  "text" : "Lies, secrets, veiled threats.",
   "translations" : {
-    "russian" : "То, что вы печатаете - ложь!"
+    "russian" : "Ложь, секреты, скрытые угрозы."
   },
   "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "publishing",
-    "startOffset" : 7,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "publish",
-    "startOffset" : 7,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
     "token" : "lies",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "lie",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgo7zUNEXFMlzHLHnK",
-  "text" : "It's the colour of lies.",
-  "translations" : {
-    "russian" : "Это же цвет лжи."
-  },
-  "tokens" : [ {
-    "token" : "it",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "colour",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "lies",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
     "token" : "lie",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjgMLNEXFMlzHLAEM",
-  "text" : "Clean coal, dirty lie!",
-  "translations" : {
-    "russian" : "Чистый уголь - грязная ложь!"
-  },
-  "tokens" : [ {
-    "token" : "clean",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "coal",
+    "token" : "secret",
     "startOffset" : 6,
-    "endOffset" : 10,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "dirty",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "lie",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkX3fNEXFMlzHLA6t",
-  "text" : "Clean coal, dirty lie!",
-  "translations" : {
-    "russian" : "Чистый уголь - грязная ложь!"
-  },
-  "tokens" : [ {
-    "token" : "clean",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "coal",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "dirty",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "lie",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzSg9NEXFMlzHLWKQ",
-  "text" : "Ripe fruit relies on green fruit.",
-  "translations" : {
-    "russian" : "Спелый фрукт уповает на зеленый плод."
-  },
-  "tokens" : [ {
-    "token" : "ripe",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "fruit",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "lies",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "green",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "fruit",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeniBNEXFMlzHK756",
-  "text" : "This shower is a lie!",
-  "translations" : {
-    "russian" : "Этот ливень - ложь!"
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "shower",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "show",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "a",
+    "token" : "veil",
     "startOffset" : 15,
-    "endOffset" : 16,
-    "position" : 3
+    "endOffset" : 21,
+    "position" : 2
   }, {
-    "token" : "lie",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
+    "token" : "threat",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqqGGNEXFMlzHLJ3S",
-  "text" : "It's all a lie, Master.",
+  "id" : "AWoFfEMcDTAu_IiLffqG",
+  "text" : "Yeah, lies, deceit, corruption...",
   "translations" : {
-    "russian" : "Все это вранье, Хозяин."
+    "russian" : "Да, ложь, увертки, разложение!"
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "yeah",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "all",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
+    "token" : "lies",
+    "startOffset" : 6,
     "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "lie",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "master",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "mast",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdOpzNEXFMlzHK6um",
-  "text" : "Lie down and play dead.",
-  "translations" : {
-    "russian" : "Лягте и притворитесь мертвыми."
-  },
-  "tokens" : [ {
-    "token" : "lie",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "down",
-    "startOffset" : 4,
-    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "and",
-    "startOffset" : 9,
-    "endOffset" : 12,
+    "token" : "lie",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "deceit",
+    "startOffset" : 12,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "play",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "token" : "corruption",
+    "startOffset" : 20,
+    "endOffset" : 30,
     "position" : 3
-  }, {
-    "token" : "dead",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgegQjNEXFMlzHK7zP",
-  "text" : "Now lie down and rest.",
+  "id" : "AWoEgmOHDTAu_IiLexZC",
+  "text" : "Lies to your misdeeds!",
   "translations" : {
-    "russian" : "А теперь лежи тихо."
+    "russian" : "Лжешь про свое преступление!"
   },
   "tokens" : [ {
-    "token" : "now",
+    "token" : "lies",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "lie",
-    "startOffset" : 4,
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 5,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "down",
+    "token" : "your",
     "startOffset" : 8,
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "and",
+    "token" : "misdeed",
     "startOffset" : 13,
-    "endOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETuKZDTAu_IiLeoA7",
+  "text" : "I can't abide lies.",
+  "translations" : {
+    "russian" : "Терпеть не могу ложь."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "can't",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "abide",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "lies",
+    "startOffset" : 14,
+    "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "rest",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
+    "token" : "lie",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESDSkDTAu_IiLemv1",
+  "text" : "Bullshit Lies Poetic fiction.",
+  "translations" : {
+    "russian" : "Ерунда. Вранье. Поэтические выдумки."
+  },
+  "tokens" : [ {
+    "token" : "bullshit",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
   }, {
-    "token" : "r",
+    "token" : "lies",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "lie",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "poetic",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "fiction",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDsC1DTAu_IiLfKxh",
+  "text" : "Therein lies the rub.",
+  "translations" : {
+    "russian" : "В этом и заключается руб."
+  },
+  "tokens" : [ {
+    "token" : "therein",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "lies",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "lie",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "rub",
     "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9BKeDTAu_IiLeW6b",
+  "text" : "They are lies, falsehoods.",
+  "translations" : {
+    "russian" : "Они фальшивка, ложь."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "lies",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "lie",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "falsehood",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDsBRDTAu_IiLfKxg",
+  "text" : "Therein lies the catch.",
+  "translations" : {
+    "russian" : "В этом и заключается сложность."
+  },
+  "tokens" : [ {
+    "token" : "therein",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "lies",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "lie",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "catch",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDr0ADTAu_IiLfKxX",
+  "text" : "Therein lies the problem.",
+  "translations" : {
+    "russian" : "В этом и есть корень проблемы."
+  },
+  "tokens" : [ {
+    "token" : "therein",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "lies",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "lie",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "problem",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWRK0DTAu_IiLfY1Q",
+  "text" : "Lies, disorder and gossip.",
+  "translations" : {
+    "russian" : "Ложь, беспорядок и сплетни."
+  },
+  "tokens" : [ {
+    "token" : "lies",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "lie",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "disorder",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "order",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "gossip",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

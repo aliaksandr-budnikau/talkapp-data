@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoET2bXDTAu_IiLeoHZ",
+  "text" : "Seamstresses thumbs, well turned.",
+  "translations" : {
+    "russian" : "Пальцы белошвейки....такие изящные."
+  },
+  "tokens" : [ {
+    "token" : "seamstress",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "thumb",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "well",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "turned",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "turn",
+    "startOffset" : 26,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyR7aNEXFMlzHLUpG",
   "text" : "Well, you're not returning my calls.",
   "translations" : {
@@ -31,6 +64,44 @@
     "position" : 4
   }, {
     "token" : "call",
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1cMJDTAu_IiLeS5A",
+  "text" : "Well, thanks for returning my purse.",
+  "translations" : {
+    "russian" : "Еще раз спасибо за мой кошелек."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "thank",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "turn",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "my",
+    "startOffset" : 27,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "purse",
     "startOffset" : 30,
     "endOffset" : 35,
     "position" : 5

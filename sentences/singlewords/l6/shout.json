@@ -1,39 +1,379 @@
 [ {
-  "id" : "AWbghG9ANEXFMlzHK-DS",
-  "text" : "LRB- man shouts in Chinese -RRB.",
+  "id" : "AWoE8cJEDTAu_IiLfFPv",
+  "text" : "Muffled shouting.",
   "translations" : {
-    "russian" : "Человек кричит на китайском."
+    "russian" : "Приглушенный крик."
   },
   "tokens" : [ {
-    "token" : "lrb",
+    "token" : "muffle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "shout",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJOWuDTAu_IiLegGe",
+  "text" : "COMMOTION, SHOUTING.",
+  "translations" : {
+    "russian" : "Суета, возгласы."
+  },
+  "tokens" : [ {
+    "token" : "commotion",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "shout",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFOFW3DTAu_IiLfSvK",
+  "text" : "Distorted shouting.",
+  "translations" : {
+    "russian" : "Искажённый крик."
+  },
+  "tokens" : [ {
+    "token" : "distorted",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "distort",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "shout",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8b_qDTAu_IiLfFPp",
+  "text" : "Muffled Shout.",
+  "translations" : {
+    "russian" : "Приглушенный крик."
+  },
+  "tokens" : [ {
+    "token" : "muffle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "shout",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8cYvDTAu_IiLfFP6",
+  "text" : "Muffled shouts.",
+  "translations" : {
+    "russian" : "Приглушенные вскрики."
+  },
+  "tokens" : [ {
+    "token" : "muffle",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "shout",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFN_bgDTAu_IiLfSq1",
+  "text" : "DISTORTED SHOUT.",
+  "translations" : {
+    "russian" : "Искаженный крик."
+  },
+  "tokens" : [ {
+    "token" : "distorted",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "distort",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "shout",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFN_oDDTAu_IiLfSq8",
+  "text" : "Distorted shouting.",
+  "translations" : {
+    "russian" : "Искажённый крик."
+  },
+  "tokens" : [ {
+    "token" : "distorted",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "distort",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "shout",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFOFMJDTAu_IiLfSvD",
+  "text" : "DISTORTED SHOUT.",
+  "translations" : {
+    "russian" : "Искаженный крик."
+  },
+  "tokens" : [ {
+    "token" : "distorted",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "distort",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "shout",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvNWtDTAu_IiLePie",
+  "text" : "Murmuring Shouts of protest.",
+  "translations" : {
+    "russian" : "Бормотание крики протеста."
+  },
+  "tokens" : [ {
+    "token" : "murmuring",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "murmur",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "shout",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "protest",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExNadDTAu_IiLe9pe",
+  "text" : "ALL SHOUT HERETIC.",
+  "translations" : {
+    "russian" : "Еретичка!"
+  },
+  "tokens" : [ {
+    "token" : "all",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "man",
-    "startOffset" : 5,
-    "endOffset" : 8,
+    "token" : "shout",
+    "startOffset" : 4,
+    "endOffset" : 9,
     "position" : 1
+  }, {
+    "token" : "heretic",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1OzrDTAu_IiLfAgY",
+  "text" : "Murmuring Shouts of protest.",
+  "translations" : {
+    "russian" : "Бормотание крики протеста."
+  },
+  "tokens" : [ {
+    "token" : "murmuring",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "murmur",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "shout",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "protest",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8cTTDTAu_IiLfFP2",
+  "text" : "PANICKED SHOUTING MUFFLED CRIES.",
+  "translations" : {
+    "russian" : "Панические крики Приглушенные крики."
+  },
+  "tokens" : [ {
+    "token" : "panicked",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
   }, {
     "token" : "shout",
     "startOffset" : 9,
-    "endOffset" : 15,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "muffle",
+    "startOffset" : 18,
+    "endOffset" : 25,
     "position" : 2
   }, {
-    "token" : "in",
-    "startOffset" : 16,
-    "endOffset" : 18,
+    "token" : "cries",
+    "startOffset" : 26,
+    "endOffset" : 31,
     "position" : 3
   }, {
-    "token" : "chinese",
-    "startOffset" : 19,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "rrb",
-    "startOffset" : 28,
+    "token" : "cry",
+    "startOffset" : 26,
     "endOffset" : 31,
-    "position" : 5
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZA2YDTAu_IiLfa_A",
+  "text" : "Don't hesitate! Shout!",
+  "translations" : {
+    "russian" : "Кричите, не стесняйтесь."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "hesitate",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "shout",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCQvGDTAu_IiLfJu2",
+  "text" : "Don't hesitate! Shout!",
+  "translations" : {
+    "russian" : "Кричите, не стесняйтесь."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "hesitate",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "shout",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCLdZDTAu_IiLfJq6",
+  "text" : "Don't hesitate! Shout!",
+  "translations" : {
+    "russian" : "Кричите, не стесняйтесь."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "hesitate",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "shout",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsrhzDTAu_IiLeOAn",
+  "text" : "Men shouting exuberantly.",
+  "translations" : {
+    "russian" : "Громкие мужские крики."
+  },
+  "tokens" : [ {
+    "token" : "men",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "shout",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "exuberant",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

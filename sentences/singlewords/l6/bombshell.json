@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoDsJ9WDTAu_IiLeNsR",
+  "text" : "Blond bombshell.",
+  "translations" : {
+    "russian" : "Белокурая бомба."
+  },
+  "tokens" : [ {
+    "token" : "blond",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bombshell",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsfK7DTAu_IiLeN5J",
+  "text" : "Over trots this blonde bombshell.",
+  "translations" : {
+    "russian" : "А тут заходит белокурая бомба."
+  },
+  "tokens" : [ {
+    "token" : "over",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "trot",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "this",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "blonde",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "bombshell",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiQRvNEXFMlzHK_A8",
   "text" : "Bombshell is a troubled production.",
   "translations" : {
@@ -34,6 +85,44 @@
     "startOffset" : 24,
     "endOffset" : 34,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDx2alDTAu_IiLeRA6",
+  "text" : "Bombshell... It's not a Broadway musical.",
+  "translations" : {
+    "russian" : "Но Секс-бомба на данный момент не бродвейский мюзикл."
+  },
+  "tokens" : [ {
+    "token" : "bombshell",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 22,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "broadway",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "musical",
+    "startOffset" : 33,
+    "endOffset" : 40,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -27,6 +27,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgvijpNEXFMlzHLRII",
+  "text" : "Shark fin's illegal now?",
+  "translations" : {
+    "russian" : "Плавники акулы вне закона?"
+  },
+  "tokens" : [ {
+    "token" : "shark",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fin",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "illegal",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "now",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgviewNEXFMlzHLRH_",
   "text" : "Mechanical shark fin soup.",
   "translations" : {
@@ -79,34 +107,6 @@
     "token" : "tasty",
     "startOffset" : 15,
     "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvijpNEXFMlzHLRII",
-  "text" : "Shark fin's illegal now?",
-  "translations" : {
-    "russian" : "Плавники акулы вне закона?"
-  },
-  "tokens" : [ {
-    "token" : "shark",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "fin",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "illegal",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "now",
-    "startOffset" : 20,
-    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
@@ -386,36 +386,31 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgviaHNEXFMlzHLRHy",
-  "text" : "We'll follow the whale's Fin.",
+  "id" : "AWoD8nqHDTAu_IiLeWmV",
+  "text" : "The finest Venetian paintings.",
   "translations" : {
-    "russian" : "Следуем за плавником Кита."
+    "russian" : "Превосходная венецианская картина."
   },
   "tokens" : [ {
-    "token" : "we'll",
+    "token" : "the",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "follow",
-    "startOffset" : 6,
-    "endOffset" : 12,
+    "token" : "fin",
+    "startOffset" : 4,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
+    "token" : "venetian",
+    "startOffset" : 11,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "whale",
-    "startOffset" : 17,
-    "endOffset" : 24,
+    "token" : "painting",
+    "startOffset" : 20,
+    "endOffset" : 29,
     "position" : 3
-  }, {
-    "token" : "fin",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {

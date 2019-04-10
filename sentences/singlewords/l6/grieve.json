@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEcoZiDTAu_IiLeuVC",
+  "text" : "That sullen, grieving look...",
+  "translations" : {
+    "russian" : "Этот угрюмый, печальный взгляд..."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "sullen",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "grieving",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "grieve",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "look",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcIQgNEXFMlzHK5vQ",
   "text" : "We're grieving, you clown!",
   "translations" : {
@@ -29,6 +62,44 @@
     "startOffset" : 20,
     "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_xy_DTAu_IiLeY_e",
+  "text" : "The grieving weighs on him.",
+  "translations" : {
+    "russian" : "Очевидно, траур тяготит его..."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "grieving",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "grieve",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "weighs",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "him",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

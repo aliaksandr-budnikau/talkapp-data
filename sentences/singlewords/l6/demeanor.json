@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDjaMnDTAu_IiLeI7I",
+  "text" : "Careless answer, unprofessional demeanor.",
+  "translations" : {
+    "russian" : "Небрежный ответ, непрофессиональное поведение."
+  },
+  "tokens" : [ {
+    "token" : "careless",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "answer",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "professional",
+    "startOffset" : 17,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "demeanor",
+    "startOffset" : 32,
+    "endOffset" : 40,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxtE3NEXFMlzHLTty",
   "text" : "So I could gauge his demeanor.",
   "translations" : {
@@ -33,6 +61,44 @@
     "token" : "demeanor",
     "startOffset" : 21,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJvrcDTAu_IiLfPc3",
+  "text" : "How would you characterize her demeanor?",
+  "translations" : {
+    "russian" : "Как бы вы охарактеризовали её поведение?"
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "would",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "characterize",
+    "startOffset" : 14,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "her",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "demeanor",
+    "startOffset" : 31,
+    "endOffset" : 39,
     "position" : 5
   } ],
   "contentScore" : null

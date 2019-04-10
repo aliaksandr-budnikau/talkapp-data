@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoD9rerDTAu_IiLeXaW",
+  "text" : "Gray top... Gray topcoats.",
+  "translations" : {
+    "russian" : "Серый верх... серые пальто."
+  },
+  "tokens" : [ {
+    "token" : "gray",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "top",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "gray",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "topcoat",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgawYWNEXFMlzHK4gf",
   "text" : "The runner is gray.",
   "translations" : {
@@ -23,6 +51,57 @@
     "token" : "gray",
     "startOffset" : 14,
     "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDS2qbDTAu_IiLd_eN",
+  "text" : "Gray's Sports Almanac.",
+  "translations" : {
+    "russian" : "Спортивный Альманах Грея."
+  },
+  "tokens" : [ {
+    "token" : "gray",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "sport",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "almanac",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBjtpDTAu_IiLfJNf",
+  "text" : "Shades of gray, darling.",
+  "translations" : {
+    "russian" : "Оттенки серого, дорогая."
+  },
+  "tokens" : [ {
+    "token" : "shade",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "gray",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "darling",
+    "startOffset" : 16,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
@@ -70,6 +149,118 @@
     "startOffset" : 8,
     "endOffset" : 14,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtgnxDTAu_IiLeOfy",
+  "text" : "Got gray sidewalls.",
+  "translations" : {
+    "russian" : "Седой."
+  },
+  "tokens" : [ {
+    "token" : "got",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gray",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "sidewall",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjbakDTAu_IiLezpR",
+  "text" : "Oblige me, Mr Gray.",
+  "translations" : {
+    "russian" : "Сделайте одолжение, мистер Грей."
+  },
+  "tokens" : [ {
+    "token" : "oblige",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "mr",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "gray",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWx_MDTAu_IiLfZMI",
+  "text" : "Code gray, classroom three.",
+  "translations" : {
+    "russian" : "Серый код, третья аудитория."
+  },
+  "tokens" : [ {
+    "token" : "code",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "gray",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "classroom",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "three",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBjnYDTAu_IiLfJNa",
+  "text" : "There are shades of gray.",
+  "translations" : {
+    "russian" : "Между ними еще и оттенки серого."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "shade",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "gray",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -139,6 +330,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFVOK3DTAu_IiLfYHf",
+  "text" : "Bud Gray quintet, Day One.",
+  "translations" : {
+    "russian" : "Квинтет Бада Грея, день первый."
+  },
+  "tokens" : [ {
+    "token" : "bud",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gray",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "quintet",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "day",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "one",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgawZ0NEXFMlzHK4gg",
   "text" : "I run to the gray house.",
   "translations" : {
@@ -173,6 +397,44 @@
     "token" : "house",
     "startOffset" : 18,
     "endOffset" : 23,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4wtZDTAu_IiLeUau",
+  "text" : "We got gray hair ponytail barbarian.",
+  "translations" : {
+    "russian" : "Седой варварский конский хвост."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "gray",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "hair",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "ponytail",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "barbarian",
+    "startOffset" : 26,
+    "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null

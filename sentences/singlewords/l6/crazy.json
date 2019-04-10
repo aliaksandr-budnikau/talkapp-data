@@ -27,6 +27,85 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDnRudDTAu_IiLeLC_",
+  "text" : "It will sound crazy.",
+  "translations" : {
+    "russian" : "Это будет звучать бредово."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "sound",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "crazy",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELLC6DTAu_IiLehlU",
+  "text" : "Raven, are you crazy?",
+  "translations" : {
+    "russian" : "Рэйвэн,ты с ума сошла?"
+  },
+  "tokens" : [ {
+    "token" : "raven",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "crazy",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwqD2DTAu_IiLe9O0",
+  "text" : "Woodpeckers are crazy.",
+  "translations" : {
+    "russian" : "Дятлы вообще атас."
+  },
+  "tokens" : [ {
+    "token" : "woodpecker",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "crazy",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgv4htNEXFMlzHLRmn",
   "text" : "These doctors are crazy.",
   "translations" : {
@@ -55,43 +134,104 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvWxoNEXFMlzHLQvY",
-  "text" : "And they call me crazy.",
+  "id" : "AWoESOtBDTAu_IiLem4e",
+  "text" : "Prolific writer, crazy inventor.",
   "translations" : {
-    "russian" : "И они считают меня психом!"
+    "russian" : "Успешный писатель, сумасшедшый изобретатель."
   },
   "tokens" : [ {
-    "token" : "and",
+    "token" : "prolific",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "they",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "writer",
+    "startOffset" : 9,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "call",
+    "token" : "write",
     "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
+    "endOffset" : 15,
+    "position" : 1
   }, {
-    "token" : "me",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
+    "token" : "writ",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
   }, {
     "token" : "crazy",
     "startOffset" : 17,
     "endOffset" : 22,
-    "position" : 4
+    "position" : 2
+  }, {
+    "token" : "inventor",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtvHjNEXFMlzHLN27",
-  "text" : "Crazy people need lots of strength.",
+  "id" : "AWoEVYGcDTAu_IiLepT1",
+  "text" : "It will sound crazy.",
   "translations" : {
-    "russian" : "Сумасшедшим людям нужно много сил."
+    "russian" : "Это будет звучать бредово."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "sound",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "crazy",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEx4XfDTAu_IiLe-JP",
+  "text" : "Is he crazy, Jasmine?",
+  "translations" : {
+    "russian" : "Он с ума сошёл, Джесмин?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "he",
+    "startOffset" : 3,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "crazy",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "jasmine",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFOD3iDTAu_IiLfSuI",
+  "text" : "Crazy and depraved.",
+  "translations" : {
+    "russian" : "Психи и развратники."
   },
   "tokens" : [ {
     "token" : "crazy",
@@ -99,37 +239,157 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "people",
+    "token" : "and",
     "startOffset" : 6,
-    "endOffset" : 12,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "need",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "token" : "depraved",
+    "startOffset" : 10,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "lot",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "of",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "strength",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 5
+    "token" : "deprave",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvJJDNEXFMlzHLQgc",
-  "text" : "I'm crazy about these old customs.",
+  "id" : "AWoDjYL8DTAu_IiLeI6C",
+  "text" : "He's crazy, he's thoughtless.",
   "translations" : {
-    "russian" : "И что я без ума от их традиций."
+    "russian" : "Он сумасшедший и к тому же легкомысленный."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "crazy",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "he",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "thoughtless",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEefDZDTAu_IiLevuP",
+  "text" : "Crazy hormone swing.",
+  "translations" : {
+    "russian" : "О нет. Гормональное безумие."
+  },
+  "tokens" : [ {
+    "token" : "crazy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "hormone",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "swing",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpJ8tDTAu_IiLe399",
+  "text" : "Too wild and crazy?",
+  "translations" : {
+    "russian" : "Слишком безумно и сумашедше?"
+  },
+  "tokens" : [ {
+    "token" : "too",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "wild",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "crazy",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8khKDTAu_IiLfFVJ",
+  "text" : "Snap it, crazy.",
+  "translations" : {
+    "russian" : "Сними это, ненормальная."
+  },
+  "tokens" : [ {
+    "token" : "snap",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "crazy",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFmA8DTAu_IiLfMHz",
+  "text" : "It itches like crazy.",
+  "translations" : {
+    "russian" : "Зудит, просто с ума сводит."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "itch",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "like",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "crazy",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDkb1CDTAu_IiLeJfm",
+  "text" : "I'm out, crazy madman.",
+  "translations" : {
+    "russian" : "Пойду-ка я, псих ненормальный."
   },
   "tokens" : [ {
     "token" : "i'm",
@@ -137,144 +397,48 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "crazy",
+    "token" : "out",
     "startOffset" : 4,
-    "endOffset" : 9,
+    "endOffset" : 7,
     "position" : 1
-  }, {
-    "token" : "about",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "these",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "old",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "custom",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbZoGNEXFMlzHK5FO",
-  "text" : "Crazy people need lots of strength.",
-  "translations" : {
-    "russian" : "Сумасшедшим людям нужно много сил."
-  },
-  "tokens" : [ {
-    "token" : "crazy",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "people",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "need",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "lot",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "of",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "strength",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxQxINEXFMlzHLTBG",
-  "text" : "That crazy stunt with the parachutes...",
-  "translations" : {
-    "russian" : "Этот безумные трюк с парашютами..."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
   }, {
     "token" : "crazy",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "stunt",
-    "startOffset" : 11,
-    "endOffset" : 16,
+    "startOffset" : 9,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "with",
-    "startOffset" : 17,
+    "token" : "madman",
+    "startOffset" : 15,
     "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "parachute",
-    "startOffset" : 26,
-    "endOffset" : 36,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglEtVNEXFMlzHLB4t",
-  "text" : "That was a crazy storm, huh?",
+  "id" : "AWoEjcoeDTAu_IiLezqQ",
+  "text" : "Too wild and crazy?",
   "translations" : {
-    "russian" : "Сумасшедшая была гроза, да?"
+    "russian" : "Слишком безумно и сумашедше?"
   },
   "tokens" : [ {
-    "token" : "that",
+    "token" : "too",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "was",
-    "startOffset" : 5,
+    "token" : "wild",
+    "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "a",
+    "token" : "and",
     "startOffset" : 9,
-    "endOffset" : 10,
+    "endOffset" : 12,
     "position" : 2
   }, {
     "token" : "crazy",
-    "startOffset" : 11,
-    "endOffset" : 16,
+    "startOffset" : 13,
+    "endOffset" : 18,
     "position" : 3
-  }, {
-    "token" : "storm",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "huh",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

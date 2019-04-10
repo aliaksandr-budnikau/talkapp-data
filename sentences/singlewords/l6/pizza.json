@@ -134,6 +134,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE60CZDTAu_IiLfEMF",
+  "text" : "Our diet precludes pizza.",
+  "translations" : {
+    "russian" : "Наша диета исключает пиццу."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "diet",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "preclude",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "pizza",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdT8UNEXFMlzHK6zQ",
   "text" : "I like pizza, too.",
   "translations" : {
@@ -158,6 +186,34 @@
     "token" : "too",
     "startOffset" : 14,
     "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUYpwDTAu_IiLfXiH",
+  "text" : "The... the... Pizza cutter.",
+  "translations" : {
+    "russian" : "Нож для пиццы."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pizza",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "cutter",
+    "startOffset" : 20,
+    "endOffset" : 26,
     "position" : 3
   } ],
   "contentScore" : null
@@ -191,6 +247,39 @@
     "token" : "guy",
     "startOffset" : 24,
     "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXgB6DTAu_IiLeq3P",
+  "text" : "I'll have a Hawaiian pizza.",
+  "translations" : {
+    "russian" : "Я буду гавайскую пиццу."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "hawaiian",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "pizza",
+    "startOffset" : 21,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null
@@ -381,120 +470,6 @@
   "contentScore" : null
 }, {
   "id" : "AWbgdUAdNEXFMlzHK6zT",
-  "text" : "I'll order a pizza or something.",
-  "translations" : {
-    "russian" : "Пиццу закажу или еще чего-то."
-  },
-  "tokens" : [ {
-    "token" : "i'll",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "order",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "pizza",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "or",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "something",
-    "startOffset" : 22,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdT_PNEXFMlzHK6zS",
-  "text" : "Yes, there's pizza in the oven.",
-  "translations" : {
-    "russian" : "Да, пицца в духовке."
-  },
-  "tokens" : [ {
-    "token" : "yes",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "there",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "pizza",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "oven",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnT8ZNEXFMlzHLFPE",
-  "text" : "And a slice of pepperoni pizza.",
-  "translations" : {
-    "russian" : "И ломоть пиццы с пепперони."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 4,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "slice",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "pepperoni",
-    "startOffset" : 15,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "pizza",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgp6IjNEXFMlzHLI6r",
   "text" : "I'll order a pizza or something.",
   "translations" : {
     "russian" : "Пиццу закажу или еще чего-то."

@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEa9iEDTAu_IiLetNI",
+  "text" : "That's your chest collapsing.",
+  "translations" : {
+    "russian" : "Это сжимается твоя грудная клетка."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "chest",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "ch",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "collapse",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmaF5NEXFMlzHLD1o",
   "text" : "Chest full of cutlery.",
   "translations" : {
@@ -65,31 +98,340 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglkvwNEXFMlzHLCxk",
-  "text" : "DC Chen, congratulations.",
+  "id" : "AWoEQvrzDTAu_IiLely_",
+  "text" : "Just clutched his chest.",
   "translations" : {
-    "russian" : "Детектив Чен, поздравляю."
+    "russian" : "Схватился за грудь."
   },
   "tokens" : [ {
-    "token" : "dc",
+    "token" : "just",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "chen",
-    "startOffset" : 3,
-    "endOffset" : 7,
+    "token" : "clutch",
+    "startOffset" : 5,
+    "endOffset" : 13,
     "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "chest",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
   }, {
     "token" : "ch",
-    "startOffset" : 3,
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExatCDTAu_IiLe9zX",
+  "text" : "A lark in your chest.",
+  "translations" : {
+    "russian" : "Жаворонок у тебя в груди."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "lark",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "chest",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "ch",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQtJZDTAu_IiLelxK",
+  "text" : "She was clutching her chest.",
+  "translations" : {
+    "russian" : "Она хватается за сердце."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 4,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "congratulate",
-    "startOffset" : 9,
-    "endOffset" : 24,
+    "token" : "clutch",
+    "startOffset" : 8,
+    "endOffset" : 17,
     "position" : 2
+  }, {
+    "token" : "her",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "chest",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "ch",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExaw8DTAu_IiLe9za",
+  "text" : "A lark in your chest.",
+  "translations" : {
+    "russian" : "Жаворонок у тебя в груди."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "lark",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "chest",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "ch",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExavuDTAu_IiLe9zZ",
+  "text" : "A lark in your chest.",
+  "translations" : {
+    "russian" : "МОЕЙ ДОЧЕРИ АНЕ, КОТОРАЯ ПРИШЛА Жаворонок у тебя в груди."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "lark",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "chest",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "ch",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1tAkDTAu_IiLfA1N",
+  "text" : "AND STAB WOUND TO CHEST.",
+  "translations" : {
+    "russian" : "И КОЛОТАЯ РАНА В ГРУДНОЙ КЛЕТКЕ."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "stab",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "wound",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "chest",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "ch",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFohtDTAu_IiLedih",
+  "text" : "Hoist up my sea chest.",
+  "translations" : {
+    "russian" : "Поднимите мой морской сундук."
+  },
+  "tokens" : [ {
+    "token" : "hoist",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "sea",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "chest",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "ch",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzhjsDTAu_IiLeR8X",
+  "text" : "Chest and abdomen are clear.",
+  "translations" : {
+    "russian" : "Грудь и брюшина в норме."
+  },
+  "tokens" : [ {
+    "token" : "chest",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ch",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "abdomen",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "clear",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExaugDTAu_IiLe9zY",
+  "text" : "A lark in your chest.",
+  "translations" : {
+    "russian" : "Жаворонок у тебя в груди."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "lark",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "your",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "chest",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "ch",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

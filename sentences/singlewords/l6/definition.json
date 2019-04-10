@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoD3hb0DTAu_IiLeT2F",
+  "text" : "It's a clear, relevant definition.",
+  "translations" : {
+    "russian" : "Это вполне ясное и уместное определение."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "clear",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "relevant",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "definition",
+    "startOffset" : 23,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgw--bNEXFMlzHLSu2",
   "text" : "By definition, he hurts flies.",
   "translations" : {
@@ -28,6 +61,39 @@
     "token" : "fly",
     "startOffset" : 24,
     "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_VFfDTAu_IiLeYpa",
+  "text" : "The very definition of teamwork.",
+  "translations" : {
+    "russian" : "Это и есть взаимодействие."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "very",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "definition",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "teamwork",
+    "startOffset" : 23,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null
@@ -65,6 +131,44 @@
   }, {
     "token" : "correct",
     "startOffset" : 39,
+    "endOffset" : 46,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFebvEDTAu_IiLffMh",
+  "text" : "This repetition's definition could be insanity.",
+  "translations" : {
+    "russian" : "Это определение повторения возможно безумие."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "petition's",
+    "startOffset" : 5,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "definition",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 2
+  }, {
+    "token" : "could",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "be",
+    "startOffset" : 35,
+    "endOffset" : 37,
+    "position" : 4
+  }, {
+    "token" : "sanity",
+    "startOffset" : 38,
     "endOffset" : 46,
     "position" : 5
   } ],

@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEvpH5DTAu_IiLe8dL",
+  "text" : "A white oak stake.",
+  "translations" : {
+    "russian" : "Кол из белого дуба."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "white",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "oak",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "stake",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggrmMNEXFMlzHK9rZ",
   "text" : "Say double the stakes?",
   "translations" : {
@@ -55,6 +83,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEzSkWDTAu_IiLe_Ke",
+  "text" : "Straight, upright. Stiff as stakes.",
+  "translations" : {
+    "russian" : "Мы будем продолжать жить, стоя твёрдо на ногах."
+  },
+  "tokens" : [ {
+    "token" : "straight",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "upright",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "stiff",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "as",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "stake",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggmbPNEXFMlzHK9m4",
   "text" : "You're a small stakes player.",
   "translations" : {
@@ -89,6 +150,105 @@
     "token" : "play",
     "startOffset" : 22,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHhZlDTAu_IiLfNnl",
+  "text" : "My popularity is at stake.",
+  "translations" : {
+    "russian" : "Моя популярность под угрозой."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "popularity",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "at",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "stake",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9ipeDTAu_IiLeXTl",
+  "text" : "Straight, upright. Stiff as stakes.",
+  "translations" : {
+    "russian" : "Мы будем продолжать жить, стоя твёрдо на ногах."
+  },
+  "tokens" : [ {
+    "token" : "straight",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "upright",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "stiff",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "as",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "stake",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqU0NDTAu_IiLe40K",
+  "text" : "The stakes are confidential, Stan.",
+  "translations" : {
+    "russian" : "Ставки секретные, Стэн."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "stake",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "confidential",
+    "startOffset" : 15,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "stan",
+    "startOffset" : 29,
+    "endOffset" : 33,
     "position" : 4
   } ],
   "contentScore" : null

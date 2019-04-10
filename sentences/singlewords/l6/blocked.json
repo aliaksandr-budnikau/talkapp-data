@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoDQAC3DTAu_IiLd9gQ",
+  "text" : "Writer's block?",
+  "translations" : {
+    "russian" : "Творческий кризис?"
+  },
+  "tokens" : [ {
+    "token" : "writer",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "block",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEmmaDTAu_IiLecxJ",
+  "text" : "INWARD BLOCKS.",
+  "translations" : {
+    "russian" : "Внутренние блоки."
+  },
+  "tokens" : [ {
+    "token" : "inward",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "block",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvjocNEXFMlzHLRKh",
   "text" : "Don't block the gangway.",
   "translations" : {
@@ -23,6 +59,113 @@
     "token" : "gangway",
     "startOffset" : 16,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQAGcDTAu_IiLd9gS",
+  "text" : "Still having writer's block?",
+  "translations" : {
+    "russian" : "Все еще творческий ступор?"
+  },
+  "tokens" : [ {
+    "token" : "still",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "writer",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "block",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFL2ODTAu_IiLfL0d",
+  "text" : "A cinder block?",
+  "translations" : {
+    "russian" : "Шлакоблок?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "cinder",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "block",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDP_3sDTAu_IiLd9gJ",
+  "text" : "Yeah, serious writer's block.",
+  "translations" : {
+    "russian" : "У меня творческий кризис. Нужна твоя помощь."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "serious",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "writer",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "block",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFB3PLDTAu_IiLfJb4",
+  "text" : "You're blocking the drain!",
+  "translations" : {
+    "russian" : "Ты перекрыл слив!"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "block",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "drain",
+    "startOffset" : 20,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
@@ -52,6 +195,52 @@
     "startOffset" : 22,
     "endOffset" : 26,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDP__BDTAu_IiLd9gN",
+  "text" : "Writer's block, huh?",
+  "translations" : {
+    "russian" : "Творческий кризис, да?"
+  },
+  "tokens" : [ {
+    "token" : "writer",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "block",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "huh",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQAAVDTAu_IiLd9gO",
+  "text" : "Having writer's block?",
+  "translations" : {
+    "russian" : "Творческий кризис?"
+  },
+  "tokens" : [ {
+    "token" : "have",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "writer",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "block",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -88,363 +277,168 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvCyyNEXFMlzHLQTU",
-  "text" : "They say you're blocking traffic.",
+  "id" : "AWoDP_bmDTAu_IiLd9f5",
+  "text" : "I have a writer's block.",
   "translations" : {
-    "russian" : "Говорят что ты блокируешь движение."
+    "russian" : "У меня писательский блок."
   },
   "tokens" : [ {
-    "token" : "they",
+    "token" : "i",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "say",
-    "startOffset" : 5,
+    "token" : "have",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 2
+  }, {
+    "token" : "writer",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "block",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRhS3DTAu_IiLd-kr",
+  "text" : "40 acres, 26 city blocks.",
+  "translations" : {
+    "russian" : "40 акров, 26 кварталов."
+  },
+  "tokens" : [ {
+    "token" : "40",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "acre",
+    "startOffset" : 3,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "you're",
-    "startOffset" : 9,
-    "endOffset" : 15,
+    "token" : "26",
+    "startOffset" : 10,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "block",
-    "startOffset" : 16,
-    "endOffset" : 24,
+    "token" : "city",
+    "startOffset" : 13,
+    "endOffset" : 17,
     "position" : 3
   }, {
-    "token" : "traffic",
-    "startOffset" : 25,
-    "endOffset" : 32,
+    "token" : "block",
+    "startOffset" : 18,
+    "endOffset" : 24,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvj9kNEXFMlzHLRLQ",
-  "text" : "It's blocking the entire hatch.",
+  "id" : "AWoEQN6UDTAu_IiLela2",
+  "text" : "They're blocking the exported copper.",
   "translations" : {
-    "russian" : "И он закрывает весь люк."
+    "russian" : "Они заблокировали экспорт меди."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "they're",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 7,
     "position" : 0
   }, {
     "token" : "block",
-    "startOffset" : 5,
-    "endOffset" : 13,
+    "startOffset" : 8,
+    "endOffset" : 16,
     "position" : 1
   }, {
     "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
+    "startOffset" : 17,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "entire",
-    "startOffset" : 18,
-    "endOffset" : 24,
+    "token" : "export",
+    "startOffset" : 21,
+    "endOffset" : 29,
     "position" : 3
   }, {
-    "token" : "hatch",
-    "startOffset" : 25,
-    "endOffset" : 30,
+    "token" : "copper",
+    "startOffset" : 30,
+    "endOffset" : 36,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbhAlNEXFMlzHK5L8",
-  "text" : "It's that way two blocks.",
+  "id" : "AWoEWrBHDTAu_IiLeqRK",
+  "text" : "And that's block transfer computation.",
   "translations" : {
-    "russian" : "Два квартала в этом направлении."
+    "russian" : "Это и есть вычисление блочной пересылки."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "block",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "transfer",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "computation",
+    "startOffset" : 26,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFMBrDTAu_IiLfL0k",
+  "text" : "Have over 12,000 cinder blocks.",
+  "translations" : {
+    "russian" : "В нем более 12,000 шлакоблоков."
+  },
+  "tokens" : [ {
+    "token" : "have",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "that",
+    "token" : "over",
     "startOffset" : 5,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "way",
+    "token" : "12,000",
     "startOffset" : 10,
-    "endOffset" : 13,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "two",
-    "startOffset" : 14,
-    "endOffset" : 17,
+    "token" : "cinder",
+    "startOffset" : 17,
+    "endOffset" : 23,
     "position" : 3
   }, {
     "token" : "block",
-    "startOffset" : 18,
-    "endOffset" : 24,
+    "startOffset" : 24,
+    "endOffset" : 30,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzL9GNEXFMlzHLV8j",
-  "text" : "What if the whistle's blocked?",
-  "translations" : {
-    "russian" : "А что если свисток заклинит?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "if",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "whistle's",
-    "startOffset" : 12,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "block",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrOGSNEXFMlzHLKrv",
-  "text" : "Blocks are progressing as forecast, sir.",
-  "translations" : {
-    "russian" : "Блоки продвигаются, согласно прогнозу, сэр."
-  },
-  "tokens" : [ {
-    "token" : "block",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "progress",
-    "startOffset" : 11,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "as",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "forecast",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 4
-  }, {
-    "token" : "sir",
-    "startOffset" : 36,
-    "endOffset" : 39,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxu4UNEXFMlzHLTxm",
-  "text" : "I'm talking lines around the block.",
-  "translations" : {
-    "russian" : "Очередь растянулась на весь квартал."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "talk",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "line",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "around",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "block",
-    "startOffset" : 29,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbteXNEXFMlzHK5W3",
-  "text" : "Somebody's balloons were blocking my billboard.",
-  "translations" : {
-    "russian" : "Чьи-то воздушные шары закрывали мой биллборд."
-  },
-  "tokens" : [ {
-    "token" : "somebody",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "balloon",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 1
-  }, {
-    "token" : "were",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "block",
-    "startOffset" : 25,
-    "endOffset" : 33,
-    "position" : 3
-  }, {
-    "token" : "my",
-    "startOffset" : 34,
-    "endOffset" : 36,
-    "position" : 4
-  }, {
-    "token" : "billboard",
-    "startOffset" : 37,
-    "endOffset" : 46,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiAoaNEXFMlzHK-1f",
-  "text" : "I'm talking lines around the block.",
-  "translations" : {
-    "russian" : "Очередь растянулась на весь квартал."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "talk",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "line",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "around",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "block",
-    "startOffset" : 29,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmORwNEXFMlzHLDhU",
-  "text" : "Somebody's balloons were blocking my billboard.",
-  "translations" : {
-    "russian" : "Чьи-то воздушные шары закрывали мой биллборд."
-  },
-  "tokens" : [ {
-    "token" : "somebody",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "balloon",
-    "startOffset" : 11,
-    "endOffset" : 19,
-    "position" : 1
-  }, {
-    "token" : "were",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "block",
-    "startOffset" : 25,
-    "endOffset" : 33,
-    "position" : 3
-  }, {
-    "token" : "my",
-    "startOffset" : 34,
-    "endOffset" : 36,
-    "position" : 4
-  }, {
-    "token" : "billboard",
-    "startOffset" : 37,
-    "endOffset" : 46,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnQMkNEXFMlzHLFJO",
-  "text" : "Cell block D, prepare for inspection.",
-  "translations" : {
-    "russian" : "Сектор Д, приготовится к инспекции."
-  },
-  "tokens" : [ {
-    "token" : "cell",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "block",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "d",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "prepare",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "for",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "inspection",
-    "startOffset" : 26,
-    "endOffset" : 36,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

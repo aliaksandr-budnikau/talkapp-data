@@ -1,459 +1,309 @@
 [ {
-  "id" : "AWbgs2tYNEXFMlzHLM_X",
-  "text" : "I'm too social, I'm too loud.",
+  "id" : "AWoFX5qnDTAu_IiLfaDa",
+  "text" : "Too old, too jaded.",
   "translations" : {
-    "russian" : "Я слишком общительный, слишком громкий."
+    "russian" : "Слишком старые, слишком измученные."
   },
   "tokens" : [ {
-    "token" : "i'm",
+    "token" : "too",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "too",
+    "token" : "old",
     "startOffset" : 4,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "social",
-    "startOffset" : 8,
-    "endOffset" : 14,
+    "token" : "too",
+    "startOffset" : 9,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "i'm",
-    "startOffset" : 16,
-    "endOffset" : 19,
+    "token" : "jaded",
+    "startOffset" : 13,
+    "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "too",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "loud",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 5
+    "token" : "jade",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgiowrNEXFMlzHK_V1",
-  "text" : "Crack shot, too.",
+  "id" : "AWoDyobFDTAu_IiLeRcu",
+  "text" : "Too conspicuous.",
   "translations" : {
-    "russian" : "Также, отличный кадр."
+    "russian" : "Слишком заметно."
   },
   "tokens" : [ {
-    "token" : "crack",
+    "token" : "too",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "shot",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "too",
-    "startOffset" : 12,
+    "token" : "conspicuous",
+    "startOffset" : 4,
     "endOffset" : 15,
-    "position" : 2
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjkJ-NEXFMlzHLAHs",
-  "text" : "It's too clean.",
+  "id" : "AWoE3u5SDTAu_IiLfCL_",
+  "text" : "Tieback, too.",
   "translations" : {
-    "russian" : "Уж слишком все гладко."
+    "russian" : "И нет шнура для штор."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "tieback",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 7,
     "position" : 0
   }, {
     "token" : "too",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "clean",
     "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
+    "endOffset" : 12,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgldvYNEXFMlzHLClV",
-  "text" : "Your wingding, too.",
+  "id" : "AWoFBMHtDTAu_IiLfI78",
+  "text" : "Too obscure?",
   "translations" : {
-    "russian" : "Припадок твой."
+    "russian" : "Слишком непонятно?"
   },
   "tokens" : [ {
-    "token" : "your",
+    "token" : "too",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "wingding",
-    "startOffset" : 5,
+    "token" : "obscure",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdXuADTAu_IiLeFcY",
+  "text" : "Too commonplace !",
+  "translations" : {
+    "russian" : "Банально!"
+  },
+  "tokens" : [ {
+    "token" : "too",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "commonplace",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyptRDTAu_IiLeRda",
+  "text" : "Too conspicuous.",
+  "translations" : {
+    "russian" : "Слишком бросается в глаза."
+  },
+  "tokens" : [ {
+    "token" : "too",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "conspicuous",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELmSsDTAu_IiLeh70",
+  "text" : "Too civilized.",
+  "translations" : {
+    "russian" : "Нет. Слишком культурно."
+  },
+  "tokens" : [ {
+    "token" : "too",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "civilized",
+    "startOffset" : 4,
     "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "too",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
+    "token" : "civilize",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmzAzNEXFMlzHLEgJ",
-  "text" : "Better time slot, too.",
+  "id" : "AWoE_t9IDTAu_IiLfHzB",
+  "text" : "Too promptly.",
   "translations" : {
-    "russian" : "Покажут в лучшее время."
+    "russian" : "Слишком быстро."
   },
   "tokens" : [ {
-    "token" : "better",
+    "token" : "too",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "prompt",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBWpcDTAu_IiLfJDu",
+  "text" : "Too obscure?",
+  "translations" : {
+    "russian" : "Слишком непонятно?"
+  },
+  "tokens" : [ {
+    "token" : "too",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "obscure",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJ0k0DTAu_IiLegiN",
+  "text" : "Bagpipes, too?",
+  "translations" : {
+    "russian" : "И волынка?"
+  },
+  "tokens" : [ {
+    "token" : "bagpipe",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "too",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDsipADTAu_IiLeN7Q",
+  "text" : "Warsaw too.",
+  "translations" : {
+    "russian" : "Варшава тоже."
+  },
+  "tokens" : [ {
+    "token" : "warsaw",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "time",
+    "token" : "too",
     "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyqBHDTAu_IiLeRdi",
+  "text" : "Too conspicuous.",
+  "translations" : {
+    "russian" : "Слишком явно."
+  },
+  "tokens" : [ {
+    "token" : "too",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "conspicuous",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKDxTDTAu_IiLegtn",
+  "text" : "Too stinky!",
+  "translations" : {
+    "russian" : "Слишком вонючий!"
+  },
+  "tokens" : [ {
+    "token" : "too",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "stinky",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEW3aEDTAu_IiLeqaF",
+  "text" : "Too quaint.",
+  "translations" : {
+    "russian" : "Слишком старомодно."
+  },
+  "tokens" : [ {
+    "token" : "too",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "quaint",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMfPqDTAu_IiLfRjj",
+  "text" : "Too institutional.",
+  "translations" : {
+    "russian" : "Слишком уныло."
+  },
+  "tokens" : [ {
+    "token" : "too",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "institutional",
+    "startOffset" : 4,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBbPhDTAu_IiLfJHI",
+  "text" : "Too obscure?",
+  "translations" : {
+    "russian" : "Слишком непонятно?"
+  },
+  "tokens" : [ {
+    "token" : "too",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "obscure",
+    "startOffset" : 4,
     "endOffset" : 11,
     "position" : 1
-  }, {
-    "token" : "slot",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "too",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnZM3NEXFMlzHLFYC",
-  "text" : "You taste good, too.",
-  "translations" : {
-    "russian" : "Ты тоже хороша на вкус."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "taste",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "good",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "too",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgswh3NEXFMlzHLM28",
-  "text" : "Don't work too hard.",
-  "translations" : {
-    "russian" : "Не трудись слишком много."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "work",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "too",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "hard",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzQVMNEXFMlzHLWF2",
-  "text" : "Stockholm is too hot.",
-  "translations" : {
-    "russian" : "Оставаться в Стокгольме слишком опасно."
-  },
-  "tokens" : [ {
-    "token" : "stockholm",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "too",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "hot",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgx3XINEXFMlzHLT7w",
-  "text" : "Lowlands become too narrow.",
-  "translations" : {
-    "russian" : "Низменности стали слишком узкими."
-  },
-  "tokens" : [ {
-    "token" : "lowlands",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "lowland",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "become",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "too",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "narrow",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgx3WKNEXFMlzHLT7v",
-  "text" : "The road's too narrow.",
-  "translations" : {
-    "russian" : "Дорога слишком узкая."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "road",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "too",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "narrow",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzAwbNEXFMlzHLVlI",
-  "text" : "We're too deep underground.",
-  "translations" : {
-    "russian" : "Мы слишком глубоко под землей."
-  },
-  "tokens" : [ {
-    "token" : "we're",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "too",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "deep",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "underground",
-    "startOffset" : 15,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj3hwNEXFMlzHLAYT",
-  "text" : "His manure's too costly...",
-  "translations" : {
-    "russian" : "Он хочет продать все удобрения слишком дорого..."
-  },
-  "tokens" : [ {
-    "token" : "his",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "manure",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "too",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "costly",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "cost",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnE3KNEXFMlzHLE6v",
-  "text" : "He's cutting a tooth.",
-  "translations" : {
-    "russian" : "У него режется зубик."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "cutting",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "tooth",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "too",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcowTNEXFMlzHK6MZ",
-  "text" : "He's none too happy.",
-  "translations" : {
-    "russian" : "Он не очень доволен."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "none",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "too",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "happy",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgePu5NEXFMlzHK7kX",
-  "text" : "Stockholm is too hot.",
-  "translations" : {
-    "russian" : "Оставаться в Стокгольме слишком опасно."
-  },
-  "tokens" : [ {
-    "token" : "stockholm",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "too",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "hot",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghb_rNEXFMlzHK-Vs",
-  "text" : "I'm scared, too, love.",
-  "translations" : {
-    "russian" : "Я тоже боюсь, дорогая."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "scar",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "too",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "love",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

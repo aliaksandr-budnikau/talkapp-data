@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDXK3mDTAu_IiLeB-G",
+  "text" : "Government approved.",
+  "translations" : {
+    "russian" : "Одобрено правительством."
+  },
+  "tokens" : [ {
+    "token" : "government",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "govern",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "approved",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "approve",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjvtBNEXFMlzHLARs",
   "text" : "What is global government?",
   "translations" : {
@@ -28,6 +56,105 @@
     "token" : "govern",
     "startOffset" : 15,
     "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKXWRDTAu_IiLeg8l",
+  "text" : "Impersonating a government official.",
+  "translations" : {
+    "russian" : "Выдаете себя за правительственного чиновника."
+  },
+  "tokens" : [ {
+    "token" : "impersonate",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "government",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "govern",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "official",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkkxVDTAu_IiLe0hc",
+  "text" : "The government slogan was.",
+  "translations" : {
+    "russian" : "Таков был девиз правительства."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "government",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "govern",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "slogan",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "was",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaQ_uDTAu_IiLfcCI",
+  "text" : "The Colombian government won't.",
+  "translations" : {
+    "russian" : "Колумбийское правительство этого не хочет."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "colombian",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "government",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "govern",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "won't",
+    "startOffset" : 25,
+    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null
@@ -65,10 +192,43 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggqwfNEXFMlzHK9qr",
-  "text" : "The AAU's our governing body.",
+  "id" : "AWoEHzikDTAu_IiLefGz",
+  "text" : "Outrageous Government Conduct.",
   "translations" : {
-    "russian" : "ССЛ наша правительственная организация."
+    "russian" : "Возмутительные действия правительства."
+  },
+  "tokens" : [ {
+    "token" : "outrageous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "government",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "govern",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "conduct",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "duct",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEODA9DTAu_IiLej1C",
+  "text" : "The provisional government disagrees.",
+  "translations" : {
+    "russian" : "Временное Правительство думает иначе."
   },
   "tokens" : [ {
     "token" : "the",
@@ -76,24 +236,293 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "aau's",
+    "token" : "provisional",
     "startOffset" : 4,
-    "endOffset" : 9,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "our",
-    "startOffset" : 10,
+    "token" : "government",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "govern",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "agree",
+    "startOffset" : 27,
+    "endOffset" : 36,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOCfBDTAu_IiLej0o",
+  "text" : "A Provisional Government...",
+  "translations" : {
+    "russian" : "Временное правительство."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "provisional",
+    "startOffset" : 2,
     "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "government",
+    "startOffset" : 14,
+    "endOffset" : 24,
     "position" : 2
   }, {
     "token" : "govern",
     "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEX8CiDTAu_IiLerLU",
+  "text" : "Government gals, right?",
+  "translations" : {
+    "russian" : "Муниципальные девчонки, так?"
+  },
+  "tokens" : [ {
+    "token" : "government",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "govern",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "gal",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "right",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtsunDTAu_IiLe7HA",
+  "text" : "Our achievements in government...",
+  "translations" : {
+    "russian" : "Наши успехи в правительстве..."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "achievement",
+    "startOffset" : 4,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "government",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "govern",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcAgFDTAu_IiLfda_",
+  "text" : "Politician, Conservative government.",
+  "translations" : {
+    "russian" : "Политик, консерваторы."
+  },
+  "tokens" : [ {
+    "token" : "politician",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "conservative",
+    "startOffset" : 12,
+    "endOffset" : 24,
+    "position" : 1
+  }, {
+    "token" : "government",
+    "startOffset" : 25,
+    "endOffset" : 35,
+    "position" : 2
+  }, {
+    "token" : "govern",
+    "startOffset" : 25,
+    "endOffset" : 35,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4HUkDTAu_IiLfCcu",
+  "text" : "Conspiracy to intercept government property.",
+  "translations" : {
+    "russian" : "В заговоре с целью завладеть государственной собственностью. Государственная собственность?"
+  },
+  "tokens" : [ {
+    "token" : "conspiracy",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "intercept",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "government",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "govern",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 3
+  }, {
+    "token" : "property",
+    "startOffset" : 35,
+    "endOffset" : 43,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4DD6DTAu_IiLeUFg",
+  "text" : "We overthrew the government today.",
+  "translations" : {
+    "russian" : "Сегодня, мы свергли правительство."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "overthrew",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "government",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "govern",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "today",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLQPaDTAu_IiLfQoC",
+  "text" : "You are exemplary government employees.",
+  "translations" : {
+    "russian" : "Вы примерные государственные служащие."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "exemplary",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "government",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "govern",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "employee",
+    "startOffset" : 29,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFH38JDTAu_IiLfN51",
+  "text" : "The government has been mismanaged.",
+  "translations" : {
+    "russian" : "Правительство довело страну до кризиса. Что?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "government",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "govern",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "been",
+    "startOffset" : 19,
     "endOffset" : 23,
     "position" : 3
   }, {
-    "token" : "body",
+    "token" : "mismanage",
     "startOffset" : 24,
-    "endOffset" : 28,
+    "endOffset" : 34,
     "position" : 4
   } ],
   "contentScore" : null

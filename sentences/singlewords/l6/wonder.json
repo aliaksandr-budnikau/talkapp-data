@@ -1,4 +1,63 @@
 [ {
+  "id" : "AWoDmNPBDTAu_IiLeKdW",
+  "text" : "Endless wonder?",
+  "translations" : {
+    "russian" : "Бесчисленных чудес?"
+  },
+  "tokens" : [ {
+    "token" : "endless",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wonder",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmNWgDTAu_IiLeKda",
+  "text" : "Endless wonder?",
+  "translations" : {
+    "russian" : "Бесчисленными чудесами?"
+  },
+  "tokens" : [ {
+    "token" : "endless",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wonder",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmNhtDTAu_IiLeKdh",
+  "text" : "Egyptian endless wonder.",
+  "translations" : {
+    "russian" : "Неиссякаемых чудес Египта."
+  },
+  "tokens" : [ {
+    "token" : "egyptian",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "endless",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "wonder",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsySeNEXFMlzHLM5S",
   "text" : "Friendship works such wonders.",
   "translations" : {
@@ -131,6 +190,72 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEKP0KDTAu_IiLeg28",
+  "text" : "I wonder if it screeches.",
+  "translations" : {
+    "russian" : "Интересно, визжит ли она."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "wonder",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "if",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "screech",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5ibKDTAu_IiLeUwy",
+  "text" : "I wonder if anything's wrong?",
+  "translations" : {
+    "russian" : "Может, что-то случилось."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "wonder",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "if",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "anything's",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "wrong",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgk528NEXFMlzHLBk8",
   "text" : "No wonder Fornell's protecting him.",
   "translations" : {
@@ -164,10 +289,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtzuXNEXFMlzHLN-f",
-  "text" : "No wonder it's a difficult labour.",
+  "id" : "AWoE-8aqDTAu_IiLfHLI",
+  "text" : "No wonder George wasn't sweating.",
   "translations" : {
-    "russian" : "Не удивительно, что роды проходят так тяжело!"
+    "russian" : "Тогда ясно, чего он не парится."
   },
   "tokens" : [ {
     "token" : "no",
@@ -180,24 +305,209 @@
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "it",
+    "token" : "george",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "wasn't",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "sweat",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVd4eDTAu_IiLeBKb",
+  "text" : "I wonder if I should cancel.",
+  "translations" : {
+    "russian" : "Удивительно, если бы я отказался."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "wonder",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "if",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "i",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 3
+  }, {
+    "token" : "should",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "cancel",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDd32XDTAu_IiLeFuA",
+  "text" : "No wonder the place is bankrupt!",
+  "translations" : {
+    "russian" : "Конечно, ранчо разорено."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "wonder",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "place",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "is",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "bankrupt",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESqQ7DTAu_IiLenNb",
+  "text" : "No wonder she won't see you!",
+  "translations" : {
+    "russian" : "Не удивительно, что она не хочет тебя видеть!"
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "wonder",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "she",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "won't",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "see",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "you",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoElKIlDTAu_IiLe086",
+  "text" : "I wonder who their decorator is.",
+  "translations" : {
+    "russian" : "Интересно, кто их декоратор."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "wonder",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "who",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "their",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "decorator",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "is",
+    "startOffset" : 29,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEThFaDTAu_IiLen3L",
+  "text" : "No wonder they all vote Labour.",
+  "translations" : {
+    "russian" : "Не удивительно, что они голосуют за лейбористов."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "wonder",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "they",
     "startOffset" : 10,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "a",
+    "token" : "all",
     "startOffset" : 15,
-    "endOffset" : 16,
+    "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "difficult",
-    "startOffset" : 17,
-    "endOffset" : 26,
+    "token" : "vote",
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 4
   }, {
     "token" : "labour",
-    "startOffset" : 27,
-    "endOffset" : 33,
+    "startOffset" : 24,
+    "endOffset" : 30,
     "position" : 5
   } ],
   "contentScore" : null

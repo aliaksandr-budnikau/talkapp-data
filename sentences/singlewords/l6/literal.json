@@ -1,4 +1,114 @@
 [ {
+  "id" : "AWoEQ4wpDTAu_IiLel5h",
+  "text" : "Literally curved.",
+  "translations" : {
+    "russian" : "Буквально изогнутое."
+  },
+  "tokens" : [ {
+    "token" : "literal",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "curved",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "curve",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9TIFDTAu_IiLfF2E",
+  "text" : "Literally freeze!",
+  "translations" : {
+    "russian" : "В буквальном смысле замерла!"
+  },
+  "tokens" : [ {
+    "token" : "literal",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "freeze",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFipWKDTAu_IiLfh81",
+  "text" : "Literally curved.",
+  "translations" : {
+    "russian" : "Буквально изогнутое."
+  },
+  "tokens" : [ {
+    "token" : "literal",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "curved",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "curve",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELA0rDTAu_IiLehdZ",
+  "text" : "Literally, the collar.",
+  "translations" : {
+    "russian" : "В прямом смысле, ошейник."
+  },
+  "tokens" : [ {
+    "token" : "literal",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "collar",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSXrdDTAu_IiLd_JM",
+  "text" : "Symbolism, allegory... literal?",
+  "translations" : {
+    "russian" : "Символизм, аллегория... буквально?"
+  },
+  "tokens" : [ {
+    "token" : "symbolism",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "allegory",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "literal",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgf_oUNEXFMlzHK9FM",
   "text" : "Monogamy literally rejects me.",
   "translations" : {
@@ -23,6 +133,113 @@
     "token" : "me",
     "startOffset" : 27,
     "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEz0M3DTAu_IiLe_iA",
+  "text" : "Well, figurative yeah, literally.",
+  "translations" : {
+    "russian" : "Ну, образно да, в буквальном смысле."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "figurative",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "yeah",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "literal",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFkjaDTAu_IiLfMGt",
+  "text" : "Literally, it itches.",
+  "translations" : {
+    "russian" : "В прямом смысле, чешутся!"
+  },
+  "tokens" : [ {
+    "token" : "literal",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "itch",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVfcpDTAu_IiLfYTa",
+  "text" : "The name literally beckons.",
+  "translations" : {
+    "russian" : "Название буквально манит."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "name",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "literal",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "beckon",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVgsyDTAu_IiLfYUP",
+  "text" : "The name literally beckons.",
+  "translations" : {
+    "russian" : "Название буквально манит."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "name",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "literal",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "beckon",
+    "startOffset" : 19,
+    "endOffset" : 26,
     "position" : 3
   } ],
   "contentScore" : null
@@ -60,41 +277,168 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvZdvNEXFMlzHLQ1F",
-  "text" : "You're literally listening to turkey calls.",
+  "id" : "AWoFBhhmDTAu_IiLfJL3",
+  "text" : "I mean, literally eclipse her.",
   "translations" : {
-    "russian" : "Да ты слушаешь голоса индюшек!"
+    "russian" : "Я имею ввиду в буквально затмевать её."
   },
   "tokens" : [ {
-    "token" : "you're",
+    "token" : "i",
     "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "mean",
+    "startOffset" : 2,
     "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "literal",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "eclipse",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "her",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBQDODTAu_IiLfI-4",
+  "text" : "I mean, literally eclipse her.",
+  "translations" : {
+    "russian" : "Я имею ввиду в буквально затмевать её."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "mean",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "literal",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "eclipse",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "her",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBTN1DTAu_IiLfJBP",
+  "text" : "I mean, literally eclipse her.",
+  "translations" : {
+    "russian" : "Я имею ввиду в буквально затмевать её."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "mean",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "literal",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "eclipse",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "her",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBVHjDTAu_IiLfJCk",
+  "text" : "I mean, literally eclipse her.",
+  "translations" : {
+    "russian" : "Я имею ввиду в буквально затмевать её."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "mean",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "literal",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "eclipse",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "her",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEU1sxDTAu_IiLeo41",
+  "text" : "Somebody literally clipped his wings.",
+  "translations" : {
+    "russian" : "Кто-то,буквально говоря,подрезал ему крылья."
+  },
+  "tokens" : [ {
+    "token" : "somebody",
+    "startOffset" : 0,
+    "endOffset" : 8,
     "position" : 0
   }, {
     "token" : "literal",
-    "startOffset" : 7,
-    "endOffset" : 16,
+    "startOffset" : 9,
+    "endOffset" : 18,
     "position" : 1
   }, {
-    "token" : "listen",
-    "startOffset" : 17,
+    "token" : "clipped",
+    "startOffset" : 19,
     "endOffset" : 26,
     "position" : 2
   }, {
-    "token" : "to",
+    "token" : "his",
     "startOffset" : 27,
-    "endOffset" : 29,
+    "endOffset" : 30,
     "position" : 3
   }, {
-    "token" : "turkey",
-    "startOffset" : 30,
+    "token" : "w",
+    "startOffset" : 31,
     "endOffset" : 36,
     "position" : 4
-  }, {
-    "token" : "call",
-    "startOffset" : 37,
-    "endOffset" : 42,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoDtnHfDTAu_IiLeOj3",
+  "text" : "Suspended animation.",
+  "translations" : {
+    "russian" : "Анабиоз."
+  },
+  "tokens" : [ {
+    "token" : "suspended",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "suspend",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "animation",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "animate",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDXa2wDTAu_IiLeCE7",
+  "text" : "I suspended escrow.",
+  "translations" : {
+    "russian" : "Я просрочил депозит."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "suspended",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "suspend",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "escrow",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguhkPNEXFMlzHLPRe",
   "text" : "Suspend your race.",
   "translations" : {
@@ -19,6 +75,34 @@
     "startOffset" : 13,
     "endOffset" : 17,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMBPbDTAu_IiLeiR0",
+  "text" : "And those suspenders chafed.",
+  "translations" : {
+    "russian" : "И эти подтяжки натирали."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "those",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "suspend",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "chafe",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {

@@ -116,6 +116,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDtckFDTAu_IiLeOdI",
+  "text" : "Hostiles approaching east flank.",
+  "translations" : {
+    "russian" : "Противник приближается с восточного фланга."
+  },
+  "tokens" : [ {
+    "token" : "hostile",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "approach",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "east",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "flank",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfqDbNEXFMlzHK8z7",
   "text" : "Hostile elements will be deleted.",
   "translations" : {
@@ -154,6 +182,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDoWT7DTAu_IiLeLk5",
+  "text" : "You mean sleepless and hostile...",
+  "translations" : {
+    "russian" : "Вы подразумеваете бессонную и недружелюбную..."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "mean",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "sleepless",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "hostile",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfrOINEXFMlzHK80r",
   "text" : "Operated in a hostile territory?",
   "translations" : {
@@ -183,6 +244,72 @@
     "token" : "territory",
     "startOffset" : 22,
     "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMnwXDTAu_IiLeiwf",
+  "text" : "You were vague, hostile, belligerent.",
+  "translations" : {
+    "russian" : "Ты был неувелен, ты был злым, ты был воинственным."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "were",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "vague",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "hostile",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "belligerent",
+    "startOffset" : 25,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdgnrDTAu_IiLfeib",
+  "text" : "Hostiles on the east ridge!",
+  "translations" : {
+    "russian" : "Враги на восточном холме!"
+  },
+  "tokens" : [ {
+    "token" : "hostile",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "east",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "ridge",
+    "startOffset" : 21,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null

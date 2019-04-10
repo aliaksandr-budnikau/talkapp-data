@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDeIQPDTAu_IiLeF3-",
+  "text" : "See that saloon yonder?",
+  "translations" : {
+    "russian" : "Видите вон тот салун?"
+  },
+  "tokens" : [ {
+    "token" : "see",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "saloon",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "yonder",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzLVjNEXFMlzHLV7S",
   "text" : "She's out yonder in the wagon.",
   "translations" : {
@@ -33,6 +61,44 @@
     "token" : "wagon",
     "startOffset" : 24,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0sEfDTAu_IiLfAIt",
+  "text" : "Yonder dwells the great Pearl-Feather.",
+  "translations" : {
+    "russian" : "Там живёт волшебник злобный."
+  },
+  "tokens" : [ {
+    "token" : "yonder",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dwell",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "great",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "pearl",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "feather",
+    "startOffset" : 30,
+    "endOffset" : 37,
     "position" : 5
   } ],
   "contentScore" : null

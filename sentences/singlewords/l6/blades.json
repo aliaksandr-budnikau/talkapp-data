@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoFWlEuDTAu_IiLfZCw",
+  "text" : "Blade snapped.",
+  "translations" : {
+    "russian" : "Лезвие сломалось."
+  },
+  "tokens" : [ {
+    "token" : "blade",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "snapped",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWqUhDTAu_IiLfZGk",
+  "text" : "Blade snapped.",
+  "translations" : {
+    "russian" : "Лезвие сломалось."
+  },
+  "tokens" : [ {
+    "token" : "blade",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "snapped",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvd-9NEXFMlzHLQ-g",
   "text" : "Two Blades of Grass.",
   "translations" : {
@@ -23,6 +59,62 @@
     "token" : "grass",
     "startOffset" : 14,
     "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7edrDTAu_IiLfEnA",
+  "text" : "Stow the blade, please.",
+  "translations" : {
+    "russian" : "Положите клинки, пожалуйста."
+  },
+  "tokens" : [ {
+    "token" : "stow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "blade",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "please",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7n0JDTAu_IiLfEs2",
+  "text" : "Stow the blade, please.",
+  "translations" : {
+    "russian" : "Положите клинки, пожалуйста."
+  },
+  "tokens" : [ {
+    "token" : "stow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "blade",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "please",
+    "startOffset" : 16,
+    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
@@ -57,6 +149,29 @@
     "startOffset" : 19,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE76MoDTAu_IiLfE5Q",
+  "text" : "Enchanted Nordic blade.",
+  "translations" : {
+    "russian" : "Зачарованный скандинавский клинок."
+  },
+  "tokens" : [ {
+    "token" : "enchant",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "nordic",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "blade",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -154,6 +269,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE7ggeDTAu_IiLfEn-",
+  "text" : "Stow the blade, please.",
+  "translations" : {
+    "russian" : "Положите клинки, пожалуйста."
+  },
+  "tokens" : [ {
+    "token" : "stow",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "blade",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "please",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFDIgDTAu_IiLedGv",
+  "text" : "Blade and ET tube.",
+  "translations" : {
+    "russian" : "Ларингоскоп и интубационную трубку."
+  },
+  "tokens" : [ {
+    "token" : "blade",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "et",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "tube",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrDxVNEXFMlzHLKcm",
   "text" : "I repeat, Blade is down!",
   "translations" : {
@@ -220,330 +391,74 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgveHvNEXFMlzHLQ-y",
-  "text" : "The blades that machine grinds?",
+  "id" : "AWoEFbMhDTAu_IiLedYm",
+  "text" : "A short-blade folding knife?",
   "translations" : {
-    "russian" : "Лопасти, которые отшлифовали?"
+    "russian" : "Коротколезвенный складной нож?"
   },
   "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "blade",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "that",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "machine",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "grind",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgveCnNEXFMlzHLQ-o",
-  "text" : "I could feel every blade.",
-  "translations" : {
-    "russian" : "Я чувствовал каждую травинку."
-  },
-  "tokens" : [ {
-    "token" : "i",
+    "token" : "a",
     "startOffset" : 0,
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "could",
+    "token" : "short",
     "startOffset" : 2,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "feel",
+    "token" : "blade",
     "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "every",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "blade",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvdjQNEXFMlzHLQ9j",
-  "text" : "All kinds of blades, sir.",
-  "translations" : {
-    "russian" : "Все виды лезвий, сэр."
-  },
-  "tokens" : [ {
-    "token" : "all",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "kind",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "of",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "blade",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "sir",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvdufNEXFMlzHLQ9-",
-  "text" : "His short blade is the same.",
-  "translations" : {
-    "russian" : "Его короткий клинок такой же."
-  },
-  "tokens" : [ {
-    "token" : "his",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "short",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "blade",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "same",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyBg1NEXFMlzHLUG6",
-  "text" : "Prison shanks have points, not blades.",
-  "translations" : {
-    "russian" : "У тюремных заточек острый только наконечник, а не всё лезвие."
-  },
-  "tokens" : [ {
-    "token" : "prison",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "shank",
-    "startOffset" : 7,
     "endOffset" : 13,
-    "position" : 1
+    "position" : 2
   }, {
-    "token" : "have",
+    "token" : "fold",
     "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "point",
-    "startOffset" : 19,
-    "endOffset" : 25,
+    "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "not",
-    "startOffset" : 27,
-    "endOffset" : 30,
+    "token" : "knife",
+    "startOffset" : 22,
+    "endOffset" : 27,
     "position" : 4
-  }, {
-    "token" : "blade",
-    "startOffset" : 31,
-    "endOffset" : 37,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgveHQNEXFMlzHLQ-x",
-  "text" : "LRB- Helicopter blades continue whirring -RRB.",
+  "id" : "AWoDhUOODTAu_IiLeHup",
+  "text" : "Maybe even some roller blades.",
   "translations" : {
-    "russian" : "Лопасти вертолета, продолжающие трещать."
+    "russian" : "Может быть, даже роликовые коньки."
   },
   "tokens" : [ {
-    "token" : "lrb",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "helicopter",
-    "startOffset" : 5,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "blade",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "continue",
-    "startOffset" : 23,
-    "endOffset" : 31,
-    "position" : 3
-  }, {
-    "token" : "whirring",
-    "startOffset" : 32,
-    "endOffset" : 40,
-    "position" : 4
-  }, {
-    "token" : "rrb",
-    "startOffset" : 42,
-    "endOffset" : 45,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgveCINEXFMlzHLQ-n",
-  "text" : "Every inch, every blade of grass.",
-  "translations" : {
-    "russian" : "Каждую травинку, каждый миллиметр."
-  },
-  "tokens" : [ {
-    "token" : "every",
+    "token" : "maybe",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "inch",
+    "token" : "even",
     "startOffset" : 6,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "every",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "blade",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "of",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "grass",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvdooNEXFMlzHLQ9w",
-  "text" : "Right, right, the flying-fish blade.",
-  "translations" : {
-    "russian" : "С летающей рыбой на лезвии, да?"
-  },
-  "tokens" : [ {
-    "token" : "right",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "right",
-    "startOffset" : 7,
-    "endOffset" : 12,
+    "token" : "ev",
+    "startOffset" : 6,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
+    "token" : "some",
+    "startOffset" : 11,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "fly",
-    "startOffset" : 18,
-    "endOffset" : 24,
+    "token" : "roller",
+    "startOffset" : 16,
+    "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "fish",
-    "startOffset" : 25,
+    "token" : "blade",
+    "startOffset" : 23,
     "endOffset" : 29,
     "position" : 4
-  }, {
-    "token" : "blade",
-    "startOffset" : 30,
-    "endOffset" : 35,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvd5eNEXFMlzHLQ-T",
-  "text" : "And not with that pathetic blade.",
-  "translations" : {
-    "russian" : "С этим жалким клинком?"
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "with",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "that",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "pathetic",
-    "startOffset" : 18,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "blade",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

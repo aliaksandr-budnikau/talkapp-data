@@ -60,6 +60,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEFoYLDTAu_IiLedia",
+  "text" : "Hoist my flag!",
+  "translations" : {
+    "russian" : "Поднять мой флаг."
+  },
+  "tokens" : [ {
+    "token" : "hoist",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "flag",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmvp3NEXFMlzHLEam",
   "text" : "Your flag pin's missing.",
   "translations" : {
@@ -116,6 +139,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEFoguDTAu_IiLedig",
+  "text" : "Hoist the Portuguese flag.",
+  "translations" : {
+    "russian" : "Поднимите потругальский флаг."
+  },
+  "tokens" : [ {
+    "token" : "hoist",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "portuguese",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "flag",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsSyzNEXFMlzHLMPG",
   "text" : "Pretty flags, good quality.",
   "translations" : {
@@ -168,6 +219,34 @@
     "token" : "flag",
     "startOffset" : 11,
     "endOffset" : 15,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsZtIDTAu_IiLe6Pd",
+  "text" : "Quantum mechanics, trains, flags...",
+  "translations" : {
+    "russian" : "Квантовая механика, поезда, флаги..."
+  },
+  "tokens" : [ {
+    "token" : "quantum",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "mechanic",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "train",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "flag",
+    "startOffset" : 27,
+    "endOffset" : 32,
     "position" : 3
   } ],
   "contentScore" : null
@@ -230,6 +309,34 @@
     "startOffset" : 20,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDxsSvDTAu_IiLeQ75",
+  "text" : "Flag's down, Drifter.",
+  "translations" : {
+    "russian" : "Суши вёсла, бродяга."
+  },
+  "tokens" : [ {
+    "token" : "flag",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "down",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "drifter",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "drift",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -332,188 +439,36 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsTZxNEXFMlzHLMQG",
-  "text" : "Hospital security didn't flag this?",
+  "id" : "AWoFZNYnDTAu_IiLfbJa",
+  "text" : "Your authentic swing. That flag.",
   "translations" : {
-    "russian" : "Охрана больницы не отмечала это?"
+    "russian" : "Это пристанище твоего истинного размаха."
   },
   "tokens" : [ {
-    "token" : "hospital",
+    "token" : "your",
     "startOffset" : 0,
-    "endOffset" : 8,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "security",
-    "startOffset" : 9,
-    "endOffset" : 17,
+    "token" : "authentic",
+    "startOffset" : 5,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "didn't",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "flag",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "this",
-    "startOffset" : 30,
-    "endOffset" : 34,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoNOINEXFMlzHLGjq",
-  "text" : "Suicide squad, led by Rick Flag.",
-  "translations" : {
-    "russian" : "Эскадрон самоубийц, под руководством Рика Флэга."
-  },
-  "tokens" : [ {
-    "token" : "suicide",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "squad",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "led",
+    "token" : "swing",
     "startOffset" : 15,
-    "endOffset" : 18,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "by",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "rick",
+    "token" : "that",
     "startOffset" : 22,
     "endOffset" : 26,
-    "position" : 4
+    "position" : 3
   }, {
     "token" : "flag",
     "startOffset" : 27,
     "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsToqNEXFMlzHLMQe",
-  "text" : "You alone could raise the flag.",
-  "translations" : {
-    "russian" : "Ты один мог бы поднять знамя."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "alone",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "could",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "raise",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 22,
-    "endOffset" : 25,
     "position" : 4
-  }, {
-    "token" : "flag",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsTRkNEXFMlzHLMP2",
-  "text" : "Wow, that flag is a lifesaver.",
-  "translations" : {
-    "russian" : "Ого, этот флажок прямо как спасательный круг."
-  },
-  "tokens" : [ {
-    "token" : "wow",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "flag",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 18,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "lifesaver",
-    "startOffset" : 20,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjNhCNEXFMlzHK_1h",
-  "text" : "Waving a white flag, are we?",
-  "translations" : {
-    "russian" : "Машем белым флагом, не так ли?"
-  },
-  "tokens" : [ {
-    "token" : "wave",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 7,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "white",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "flag",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "are",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "we",
-    "startOffset" : 25,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

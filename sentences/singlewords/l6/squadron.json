@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoDPo11DTAu_IiLd9Tv",
+  "text" : "Squadron Leader Barnsby's Australian.",
+  "translations" : {
+    "russian" : "Командир эскадрона Барнсби Австралиец."
+  },
+  "tokens" : [ {
+    "token" : "squadron",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "leader",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "lead",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "barnsby's",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "australian",
+    "startOffset" : 26,
+    "endOffset" : 36,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguxHpNEXFMlzHLPv1",
   "text" : "Same squadron, same aeroplane.",
   "translations" : {
@@ -61,6 +94,44 @@
     "token" : "standby",
     "startOffset" : 31,
     "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7tO0DTAu_IiLeV6c",
+  "text" : "Squadron Vector Alpha. I'm onto three.",
+  "translations" : {
+    "russian" : "Эскадра Вектор Альфа."
+  },
+  "tokens" : [ {
+    "token" : "squadron",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "vector",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "alpha",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "i'm",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "onto",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "three",
+    "startOffset" : 32,
+    "endOffset" : 37,
     "position" : 5
   } ],
   "contentScore" : null

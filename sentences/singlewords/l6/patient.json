@@ -1,143 +1,514 @@
 [ {
-  "id" : "AWbgosaKNEXFMlzHLHSw",
-  "text" : "The cub must be patient.",
+  "id" : "AWoE1O4UDTAu_IiLfAgb",
+  "text" : "Patients Murmuring, Groaning.",
   "translations" : {
-    "russian" : "Детеныш должен быть терпелив."
+    "russian" : "Бормотанье пациентов, стоны."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "patients",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 8,
     "position" : 0
-  }, {
-    "token" : "cub",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "must",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "be",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
   }, {
     "token" : "patient",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw4yxNEXFMlzHLSol",
-  "text" : "How does the patient fare?",
-  "translations" : {
-    "russian" : "Как поживает наш пациент?"
-  },
-  "tokens" : [ {
-    "token" : "how",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "does",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "doe",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
+    "token" : "murmuring",
     "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "patient",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "fare",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmrDHNEXFMlzHLESl",
-  "text" : "Patient admitted to using pot.",
-  "translations" : {
-    "russian" : "Пациент сознался в употреблении травки."
-  },
-  "tokens" : [ {
-    "token" : "patient",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "admitted",
-    "startOffset" : 8,
-    "endOffset" : 16,
+    "endOffset" : 18,
     "position" : 1
   }, {
-    "token" : "to",
-    "startOffset" : 17,
-    "endOffset" : 19,
+    "token" : "murmur",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "groan",
+    "startOffset" : 20,
+    "endOffset" : 28,
     "position" : 2
-  }, {
-    "token" : "use",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "us",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "pot",
-    "startOffset" : 26,
-    "endOffset" : 29,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwrbCNEXFMlzHLSbM",
-  "text" : "Lucy Willis, the thrombosis patient.",
+  "id" : "AWoE_a76DTAu_IiLfHj0",
+  "text" : "You intimidated my patient.",
   "translations" : {
-    "russian" : "Люси Уиллис, пациент с тромбозом."
+    "russian" : "Ты запугал моего пациента."
   },
   "tokens" : [ {
-    "token" : "lucy",
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "intimidate",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "patient",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAAzWDTAu_IiLfIB_",
+  "text" : "The coma patient?",
+  "translations" : {
+    "russian" : "Коматозный пациент?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "coma",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "patient",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQJVaDTAu_IiLd9md",
+  "text" : "Patients seem more agitated.",
+  "translations" : {
+    "russian" : "Пациенты кажутся более нервными."
+  },
+  "tokens" : [ {
+    "token" : "patients",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "patient",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "seem",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "more",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "agitated",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "agitate",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErIoxDTAu_IiLe5ZA",
+  "text" : "With the patient's consent.",
+  "translations" : {
+    "russian" : "И с разрешения пациента."
+  },
+  "tokens" : [ {
+    "token" : "with",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "willi",
+    "token" : "the",
     "startOffset" : 5,
-    "endOffset" : 11,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
+    "token" : "patient's",
+    "startOffset" : 9,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "thrombosis",
-    "startOffset" : 17,
+    "token" : "patient",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "consent",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "sent",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_U83DTAu_IiLfHfD",
+  "text" : "You intimidated my patient.",
+  "translations" : {
+    "russian" : "Ты запугал моего пациента."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "intimidate",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "patient",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFC4kXDTAu_IiLfKML",
+  "text" : "Advocating for my patient.",
+  "translations" : {
+    "russian" : "Защищаю своего пациента."
+  },
+  "tokens" : [ {
+    "token" : "advocate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "patient",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErWbzDTAu_IiLe5iY",
+  "text" : "Five dosages, five patients.",
+  "translations" : {
+    "russian" : "Пять доз, пять пациентов."
+  },
+  "tokens" : [ {
+    "token" : "five",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "dosage",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "five",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "patients",
+    "startOffset" : 19,
     "endOffset" : 27,
     "position" : 3
   }, {
     "token" : "patient",
-    "startOffset" : 28,
-    "endOffset" : 35,
-    "position" : 4
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFABgyDTAu_IiLfICg",
+  "text" : "It's your coma patient.",
+  "translations" : {
+    "russian" : "Это ваш коматозник."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "coma",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "patient",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvNaFDTAu_IiLePih",
+  "text" : "Patients Murmuring, Groaning.",
+  "translations" : {
+    "russian" : "Бормотанье пациентов, стоны."
+  },
+  "tokens" : [ {
+    "token" : "patients",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "patient",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "murmuring",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "murmur",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "groan",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8p-XDTAu_IiLeWoV",
+  "text" : "Patient is David Lasher.",
+  "translations" : {
+    "russian" : "Пациент Дэвид Лашер."
+  },
+  "tokens" : [ {
+    "token" : "patient",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "david",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "lasher",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "lash",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQhSzDTAu_IiLd93s",
+  "text" : "Advocating for my patient.",
+  "translations" : {
+    "russian" : "Защищаю своего пациента."
+  },
+  "tokens" : [ {
+    "token" : "advocate",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "patient",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjUI1DTAu_IiLezjv",
+  "text" : "Therefore, patiently and yielding.",
+  "translations" : {
+    "russian" : "Стерпите и уступите."
+  },
+  "tokens" : [ {
+    "token" : "therefore",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "patient",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "yielding",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "yield",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErC38DTAu_IiLe5VB",
+  "text" : "With the patient's consent.",
+  "translations" : {
+    "russian" : "И с разрешения пациента."
+  },
+  "tokens" : [ {
+    "token" : "with",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "patient's",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "patient",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "consent",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "sent",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ33nDTAu_IiLfU67",
+  "text" : "He victimized helpless patients.",
+  "translations" : {
+    "russian" : "Издевался над беззащитными пациентами."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "victimized",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "victimize",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "helpless",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "patients",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "patient",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdy-NDTAu_IiLfevg",
+  "text" : "Is the patient stable?",
+  "translations" : {
+    "russian" : "Пациент стабилен?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "patient",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "stable",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "st",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

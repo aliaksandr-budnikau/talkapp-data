@@ -319,6 +319,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE9x_FDTAu_IiLfGOP",
+  "text" : "No, the carriage is occupied.",
+  "translations" : {
+    "russian" : "Нет, карета занята."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "carriage",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "occupied",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "occupy",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzEJ7NEXFMlzHLVsQ",
   "text" : "It was a train carriage.",
   "translations" : {
@@ -348,6 +386,44 @@
     "token" : "carriage",
     "startOffset" : 15,
     "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-GHCDTAu_IiLfGeY",
+  "text" : "No, the carriage is occupied.",
+  "translations" : {
+    "russian" : "Нет, карета занята."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "carriage",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "occupied",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "occupy",
+    "startOffset" : 20,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null
@@ -462,82 +538,6 @@
     "token" : "wait",
     "startOffset" : 26,
     "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzDrmNEXFMlzHLVrN",
-  "text" : "Our carriage is ready, my dear.",
-  "translations" : {
-    "russian" : "Наш экипаж готов, дорогая."
-  },
-  "tokens" : [ {
-    "token" : "our",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "carriage",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "ready",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "my",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "dear",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzDybNEXFMlzHLVrc",
-  "text" : "Get it out of the carriage.",
-  "translations" : {
-    "russian" : "Достаньте его из экипажа."
-  },
-  "tokens" : [ {
-    "token" : "get",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "out",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 4
-  }, {
-    "token" : "carriage",
-    "startOffset" : 18,
-    "endOffset" : 26,
     "position" : 5
   } ],
   "contentScore" : null

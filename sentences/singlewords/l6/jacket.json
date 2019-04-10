@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoE45eaDTAu_IiLfC87",
+  "text" : "Tan jacket.",
+  "translations" : {
+    "russian" : "Бежевая куртка."
+  },
+  "tokens" : [ {
+    "token" : "tan",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "jacket",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvGiqNEXFMlzHLQbG",
   "text" : "Light, checked sports jacket.",
   "translations" : {
@@ -32,6 +50,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEUE1lDTAu_IiLeoSg",
+  "text" : "You smelled that jacket.",
+  "translations" : {
+    "russian" : "Может быть. Ты нюхала пиджак."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "smell",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "that",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "jacket",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFC8_9DTAu_IiLfKPZ",
+  "text" : "You're requisitioning my jacket?",
+  "translations" : {
+    "russian" : "Вы реквизируете мой пиджак?"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "requisition",
+    "startOffset" : 7,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "jacket",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglZwaNEXFMlzHLCeb",
   "text" : "Your backpack. This jacket.",
   "translations" : {
@@ -57,6 +131,308 @@
     "startOffset" : 20,
     "endOffset" : 26,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFC8UFDTAu_IiLfKO4",
+  "text" : "You're requisitioning my jacket?",
+  "translations" : {
+    "russian" : "Вы реквизируете мой пиджак?"
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "requisition",
+    "startOffset" : 7,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "jacket",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDP9DDDTAu_IiLd9ei",
+  "text" : "Writers wear sports jackets.",
+  "translations" : {
+    "russian" : "Сценаристы носят спортивные пиджаки."
+  },
+  "tokens" : [ {
+    "token" : "writ",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wear",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "sport",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "jacket",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE44mADTAu_IiLfC8a",
+  "text" : "Shaved head, tan jacket?",
+  "translations" : {
+    "russian" : "Бритый, в коричневой куртке?"
+  },
+  "tokens" : [ {
+    "token" : "shaved",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "shave",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "head",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "tan",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "jacket",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVQ7cDTAu_IiLfYJa",
+  "text" : "Sir, a Kevlar flak jacket.",
+  "translations" : {
+    "russian" : "Сэр, бронежилет."
+  },
+  "tokens" : [ {
+    "token" : "sir",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "kevlar",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "flak",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "jacket",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgGK4DTAu_IiLeHBL",
+  "text" : "A pink suede jacket, fringed.",
+  "translations" : {
+    "russian" : "Розовая замшевая куртка с бахромой."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "pink",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "suede",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "jacket",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "fringe",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWOu0DTAu_IiLep8m",
+  "text" : "Where is my striped jacket?",
+  "translations" : {
+    "russian" : "Где моя полосатая куртка?"
+  },
+  "tokens" : [ {
+    "token" : "where",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "strip",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "jacket",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDxxL5DTAu_IiLeQ-S",
+  "text" : "Orphan, jacket thief, vagabond and mute.",
+  "translations" : {
+    "russian" : "Сирота, воришка, бродяга..."
+  },
+  "tokens" : [ {
+    "token" : "orphan",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "jacket",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "thief",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "vagabond",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 31,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "mute",
+    "startOffset" : 35,
+    "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE44aSDTAu_IiLfC8V",
+  "text" : "The man in the tan jacket?",
+  "translations" : {
+    "russian" : "Мужчина в коричневой куртке?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "man",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "tan",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 4
+  }, {
+    "token" : "jacket",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE44WIDTAu_IiLfC8R",
+  "text" : "The shoulders with the tan jacket?",
+  "translations" : {
+    "russian" : "Того в коричневом пиджаке?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "should",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "tan",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "jacket",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -132,44 +508,6 @@
     "token" : "lead",
     "startOffset" : 28,
     "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpYZ9NEXFMlzHLILM",
-  "text" : "Try to jacket the scanning beam.",
-  "translations" : {
-    "russian" : "Попробуйте заэкранировать сканирующий луч."
-  },
-  "tokens" : [ {
-    "token" : "try",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "jacket",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "scanning",
-    "startOffset" : 18,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "beam",
-    "startOffset" : 27,
-    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

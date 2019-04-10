@@ -1,4 +1,83 @@
 [ {
+  "id" : "AWoFRSOPDTAu_IiLfVPx",
+  "text" : "Route guidance calibrated.",
+  "translations" : {
+    "russian" : "Маршрут откалиброван. Расстояние до места назначения."
+  },
+  "tokens" : [ {
+    "token" : "route",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "guidance",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "calibrated",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "calibrate",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDb6PSDTAu_IiLeEqk",
+  "text" : "Bavarian trade routes.",
+  "translations" : {
+    "russian" : "Баварские торговые пути."
+  },
+  "tokens" : [ {
+    "token" : "bavarian",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "trade",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "route",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRUPjDTAu_IiLfVRW",
+  "text" : "Route guidance calibrated.",
+  "translations" : {
+    "russian" : "Маршрут откалиброван. Расстояние до места назначения."
+  },
+  "tokens" : [ {
+    "token" : "route",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "guidance",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "calibrated",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "calibrate",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyvliNEXFMlzHLVH8",
   "text" : "There's a more challenging route.",
   "translations" : {
@@ -71,6 +150,39 @@
     "token" : "route",
     "startOffset" : 23,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNbL7DTAu_IiLfSP-",
+  "text" : "I rerouted the sensor interface.",
+  "translations" : {
+    "russian" : "Я перенаправила интерфейс сенсоров."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "route",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "sensor",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "interface",
+    "startOffset" : 22,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null
@@ -174,6 +286,72 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFLd0CDTAu_IiLfQyi",
+  "text" : "I rerouted the sensor interface.",
+  "translations" : {
+    "russian" : "Я перенаправила интерфейс сенсоров."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "route",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "sensor",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "interface",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFL8uqDTAu_IiLfRKL",
+  "text" : "Abandoned industrial park, route 7.",
+  "translations" : {
+    "russian" : "Заброшенный индустриальный парк, шоссе семь."
+  },
+  "tokens" : [ {
+    "token" : "abandon",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "industrial",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "park",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "route",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "7",
+    "startOffset" : 33,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgn2ueNEXFMlzHLGI8",
   "text" : "Not the column, the routes!",
   "translations" : {
@@ -203,6 +381,39 @@
     "token" : "route",
     "startOffset" : 20,
     "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyvsnNEXFMlzHLVIB",
+  "text" : "John, NYPD is on route.",
+  "translations" : {
+    "russian" : "Джон, полиция в пути."
+  },
+  "tokens" : [ {
+    "token" : "john",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "nypd",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "route",
+    "startOffset" : 17,
+    "endOffset" : 22,
     "position" : 4
   } ],
   "contentScore" : null
@@ -273,157 +484,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyvsnNEXFMlzHLVIB",
-  "text" : "John, NYPD is on route.",
+  "id" : "AWoELIQ4DTAu_IiLehjM",
+  "text" : "Route one... any old collars?",
   "translations" : {
-    "russian" : "Джон, полиция в пути."
-  },
-  "tokens" : [ {
-    "token" : "john",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "nypd",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "route",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyvV6NEXFMlzHLVHw",
-  "text" : "Randolph said to check Viking routes.",
-  "translations" : {
-    "russian" : "Рэндольф сказал проверить маршруты викингов."
-  },
-  "tokens" : [ {
-    "token" : "randolph",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "said",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "check",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "viking",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "route",
-    "startOffset" : 30,
-    "endOffset" : 36,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyvcgNEXFMlzHLVH1",
-  "text" : "They vary the times, vehicle routes.",
-  "translations" : {
-    "russian" : "Они поменяли время и маршруты машин."
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "vary",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "time",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "vehicle",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "route",
-    "startOffset" : 29,
-    "endOffset" : 35,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgywiWNEXFMlzHLVIo",
-  "text" : "This is the route I took.",
-  "translations" : {
-    "russian" : "Я пришел по этой дороге."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "route",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "i",
-    "startOffset" : 18,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "took",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgywsWNEXFMlzHLVIy",
-  "text" : "Route the message to my quarters.",
-  "translations" : {
-    "russian" : "Направьте сообщение в мою каюту."
+    "russian" : "Отследите кого-нибудь... из прежде арестованных?"
   },
   "tokens" : [ {
     "token" : "route",
@@ -431,144 +495,25 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "the",
+    "token" : "one",
     "startOffset" : 6,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "message",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "my",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "quart",
-    "startOffset" : 24,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgywCGNEXFMlzHLVIR",
-  "text" : "This is an essential service route.",
-  "translations" : {
-    "russian" : "Эта дорога для официального использования."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "an",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "essential",
-    "startOffset" : 11,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "service",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "route",
-    "startOffset" : 29,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvOOYNEXFMlzHLQml",
-  "text" : "The route to the Farthest Gate.",
-  "translations" : {
-    "russian" : "Проход к Дальним Вратам."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "route",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "the",
+    "token" : "any",
     "startOffset" : 13,
     "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "farthest",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "gate",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgywlwNEXFMlzHLVIs",
-  "text" : "So much for the scenic route.",
-  "translations" : {
-    "russian" : "Это перебор, для такой живописной дороги."
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "much",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 8,
-    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
+    "token" : "old",
+    "startOffset" : 17,
+    "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "scenic",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "route",
-    "startOffset" : 23,
+    "token" : "collar",
+    "startOffset" : 21,
     "endOffset" : 28,
-    "position" : 5
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

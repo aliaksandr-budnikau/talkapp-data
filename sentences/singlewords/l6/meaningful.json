@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEwdQuDTAu_IiLe9Ep",
+  "text" : "Group sentiment, very meaningful.",
+  "translations" : {
+    "russian" : "Групповое чувство, очень значимо."
+  },
+  "tokens" : [ {
+    "token" : "group",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "sentiment",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "very",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "meaningful",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwp0YNEXFMlzHLSZn",
   "text" : "You look deep and meaningful.",
   "translations" : {
@@ -29,6 +57,44 @@
     "startOffset" : 18,
     "endOffset" : 28,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEs_VDDTAu_IiLe6os",
+  "text" : "Ah... corrupting dorks is meaningful work.",
+  "translations" : {
+    "russian" : "Развращение ботаников благое дело."
+  },
+  "tokens" : [ {
+    "token" : "ah",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "corrupt",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "dork",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "meaningful",
+    "startOffset" : 26,
+    "endOffset" : 36,
+    "position" : 4
+  }, {
+    "token" : "work",
+    "startOffset" : 37,
+    "endOffset" : 41,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

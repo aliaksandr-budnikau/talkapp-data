@@ -1,0 +1,95 @@
+[ {
+  "id" : "AWoECa1JDTAu_IiLebCr",
+  "text" : "Transmitter enabled.",
+  "translations" : {
+    "russian" : "Передатчик включен."
+  },
+  "tokens" : [ {
+    "token" : "transmitter",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "enable",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEEE3DTAu_IiLfLCw",
+  "text" : "Uh, it's an emergency locator transmitter.",
+  "translations" : {
+    "russian" : "Аварийный приводной передатчик."
+  },
+  "tokens" : [ {
+    "token" : "uh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "emergency",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "locator",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "transmitter",
+    "startOffset" : 30,
+    "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8VDWDTAu_IiLfFLZ",
+  "text" : "You must shut down your transmitter.",
+  "translations" : {
+    "russian" : "Вы должны отключить передатчик."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "must",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "shut",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "down",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "your",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "transmitter",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

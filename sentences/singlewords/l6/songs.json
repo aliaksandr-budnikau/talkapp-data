@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEvbBcDTAu_IiLe8Tc",
+  "text" : "Song thrush.",
+  "translations" : {
+    "russian" : "Певчий дрозд."
+  },
+  "tokens" : [ {
+    "token" : "song",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "thrush",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdPcGNEXFMlzHK6vT",
   "text" : "They're playing our song.",
   "translations" : {
@@ -32,107 +50,395 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdVQHNEXFMlzHK60d",
-  "text" : "Present her with a song.",
+  "id" : "AWoEMisADTAu_IiLeish",
+  "text" : "Javier's songs glorified him.",
   "translations" : {
-    "russian" : "Думаю, ты подаришь ей песню."
+    "russian" : "Песни Хавьера прославляли его."
   },
   "tokens" : [ {
-    "token" : "present",
+    "token" : "javier",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "her",
-    "startOffset" : 8,
-    "endOffset" : 11,
+    "token" : "song",
+    "startOffset" : 9,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "with",
-    "startOffset" : 12,
-    "endOffset" : 16,
+    "token" : "glorify",
+    "startOffset" : 15,
+    "endOffset" : 24,
     "position" : 2
   }, {
-    "token" : "a",
-    "startOffset" : 17,
-    "endOffset" : 18,
+    "token" : "him",
+    "startOffset" : 25,
+    "endOffset" : 28,
     "position" : 3
-  }, {
-    "token" : "song",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpuRDNEXFMlzHLIqC",
-  "text" : "Present her with a song.",
+  "id" : "AWoFjqeiDTAu_IiLfilh",
+  "text" : "Is this Ken Song?",
   "translations" : {
-    "russian" : "Думаю, ты подаришь ей песню."
+    "russian" : "Это Кен Сонг?"
   },
   "tokens" : [ {
-    "token" : "present",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "her",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "with",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 17,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "song",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmz5MNEXFMlzHLEhq",
-  "text" : "We put on a slow song...",
-  "translations" : {
-    "russian" : "Включим медленную песню..."
-  },
-  "tokens" : [ {
-    "token" : "we",
+    "token" : "is",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "put",
+    "token" : "this",
     "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "ken",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "song",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqW0pDTAu_IiLeMoc",
+  "text" : "What's your Thanksgiving song?",
+  "translations" : {
+    "russian" : "А что за праздничная песня?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "thanksgiving",
+    "startOffset" : 12,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "song",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKn41DTAu_IiLehJu",
+  "text" : "THE SONG OF SPARROWS.",
+  "translations" : {
+    "russian" : "ВОРОБЬИНАЯ ПЕСНЯ."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "song",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "sparrow",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8d0GDTAu_IiLfFQz",
+  "text" : "Song continues, muffled.",
+  "translations" : {
+    "russian" : "Панк-рок продолжается, но тихо."
+  },
+  "tokens" : [ {
+    "token" : "song",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "continue",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "muffle",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSsHSDTAu_IiLd_W_",
+  "text" : "How about Alphabet Songs?",
+  "translations" : {
+    "russian" : "Что насчёт алфавитной песенки?"
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "about",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "alphabet",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "song",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8MPcDTAu_IiLeWQQ",
+  "text" : "It's a sublime song.",
+  "translations" : {
+    "russian" : "Та возвышенная песня..."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "on",
+    "token" : "sublime",
     "startOffset" : 7,
-    "endOffset" : 9,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "a",
-    "startOffset" : 10,
-    "endOffset" : 11,
+    "token" : "song",
+    "startOffset" : 15,
+    "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEva71DTAu_IiLe8TY",
+  "text" : "A Sheffield song thrush!",
+  "translations" : {
+    "russian" : "Певчий дрозд Шеффилда!"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
   }, {
-    "token" : "slow",
+    "token" : "sheffield",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "song",
     "startOffset" : 12,
     "endOffset" : 16,
-    "position" : 4
+    "position" : 2
+  }, {
+    "token" : "thrush",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7Z2CDTAu_IiLfEkO",
+  "text" : "Twilight sings a song.",
+  "translations" : {
+    "russian" : "Сумерки заводят песню."
+  },
+  "tokens" : [ {
+    "token" : "twilight",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "s",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 15,
+    "endOffset" : 16,
+    "position" : 2
   }, {
     "token" : "song",
     "startOffset" : 17,
     "endOffset" : 21,
-    "position" : 5
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWwoSDTAu_IiLfZLJ",
+  "text" : "Those songs are classics.",
+  "translations" : {
+    "russian" : "Эти песни - классика."
+  },
+  "tokens" : [ {
+    "token" : "those",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "song",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "classics",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "classic",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEChqHDTAu_IiLebH-",
+  "text" : "This song slays.",
+  "translations" : {
+    "russian" : "Эта песня убивает."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "song",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "slay",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEMcKZDTAu_IiLeinb",
+  "text" : "Javier's songs glorified him.",
+  "translations" : {
+    "russian" : "Песни Хавьера прославляли его."
+  },
+  "tokens" : [ {
+    "token" : "javier",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "song",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "glorify",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "him",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFa2FuDTAu_IiLfcgw",
+  "text" : "I'm composing a song.",
+  "translations" : {
+    "russian" : "Сочиняю песню."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "compose",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "song",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVIKYDTAu_IiLepHX",
+  "text" : "You're satirizing the rap song.",
+  "translations" : {
+    "russian" : "Вы высмеиваете эту рэп-композицию."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "satirize",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "rap",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "song",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

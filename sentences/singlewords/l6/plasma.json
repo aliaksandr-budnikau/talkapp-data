@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoFUXO4DTAu_IiLfXhE",
+  "text" : "Plasma cutter.",
+  "translations" : {
+    "russian" : "Плазменный резак."
+  },
+  "tokens" : [ {
+    "token" : "plasma",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cutter",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrn79NEXFMlzHLLRo",
   "text" : "Immunoglobulin, amino acids, plasma.",
   "translations" : {
@@ -74,6 +92,34 @@
     "token" : "tank",
     "startOffset" : 20,
     "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDtMJgDTAu_IiLeOTf",
+  "text" : "Plasma ammunition is scarce.",
+  "translations" : {
+    "russian" : "Плазменные боеприпасы в дефиците."
+  },
+  "tokens" : [ {
+    "token" : "plasma",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "ammunition",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "scarce",
+    "startOffset" : 21,
+    "endOffset" : 27,
     "position" : 3
   } ],
   "contentScore" : null

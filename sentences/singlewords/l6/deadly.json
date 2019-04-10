@@ -1,106 +1,434 @@
 [ {
-  "id" : "AWbgugcANEXFMlzHLPPU",
-  "text" : "I'm positive he dead.",
+  "id" : "AWoDtUlADTAu_IiLeOYj",
+  "text" : "It was deadly combat.",
   "translations" : {
-    "russian" : "И, определенно, он мертв."
+    "russian" : "Это был поединок до смерти."
   },
   "tokens" : [ {
-    "token" : "i'm",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "positive",
-    "startOffset" : 4,
-    "endOffset" : 12,
+    "token" : "was",
+    "startOffset" : 3,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "he",
-    "startOffset" : 13,
-    "endOffset" : 15,
+    "token" : "deadly",
+    "startOffset" : 7,
+    "endOffset" : 13,
     "position" : 2
   }, {
     "token" : "dead",
-    "startOffset" : 16,
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "combat",
+    "startOffset" : 14,
     "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcGztNEXFMlzHK5t7",
-  "text" : "The child was dead.",
+  "id" : "AWoDtE8ZDTAu_IiLeOPN",
+  "text" : "It was deadly combat.",
   "translations" : {
-    "russian" : "В руках его мертвый младенец лежал."
+    "russian" : "Это был поединок до смерти."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "child",
-    "startOffset" : 4,
-    "endOffset" : 9,
+    "token" : "was",
+    "startOffset" : 3,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "was",
-    "startOffset" : 10,
+    "token" : "deadly",
+    "startOffset" : 7,
     "endOffset" : 13,
     "position" : 2
   }, {
     "token" : "dead",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggUaaNEXFMlzHK9Xg",
-  "text" : "Over my dead body!",
-  "translations" : {
-    "russian" : "Только через мой труп!"
-  },
-  "tokens" : [ {
-    "token" : "over",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "dead",
-    "startOffset" : 8,
-    "endOffset" : 12,
+    "startOffset" : 7,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "body",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "token" : "combat",
+    "startOffset" : 14,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoGGxNEXFMlzHLGYE",
-  "text" : "You gossip, you're dead.",
+  "id" : "AWoFeIw8DTAu_IiLfe-w",
+  "text" : "Paint fumes are deadly.",
   "translations" : {
-    "russian" : "Начнешь болтать и ты мертвец."
+    "russian" : "Пары краски смертельны."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "paint",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fume",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "deadly",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "dead",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBxR7DTAu_IiLeahj",
+  "text" : "But it's deadlier than a Winchester.",
+  "translations" : {
+    "russian" : "Кроме того оно более смертельно, чем винчестер."
+  },
+  "tokens" : [ {
+    "token" : "but",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "gossip",
+    "token" : "it",
     "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "deadly",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "than",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 23,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "winchester",
+    "startOffset" : 25,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEx0WjDTAu_IiLe-GS",
+  "text" : "She's deadlier than a poison dart.",
+  "translations" : {
+    "russian" : "Она смертоноснее, чем стрела с ядом."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "deadly",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "than",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 20,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "poison",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "dart",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoooMDTAu_IiLe3lN",
+  "text" : "Jock's dead.",
+  "translations" : {
+    "russian" : "Джока убили."
+  },
+  "tokens" : [ {
+    "token" : "jock",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dead",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYZZ-DTAu_IiLfadQ",
+  "text" : "Kodak's dead!",
+  "translations" : {
+    "russian" : "Кодак мертв! ?"
+  },
+  "tokens" : [ {
+    "token" : "kodak",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "dead",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfR9nDTAu_IiLffz5",
+  "text" : "Kite's dead.",
+  "translations" : {
+    "russian" : "Кайт мёртв."
+  },
+  "tokens" : [ {
+    "token" : "kite",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dead",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsDlFDTAu_IiLe6BD",
+  "text" : "Cleaves, it's dead, it's dead.",
+  "translations" : {
+    "russian" : "Кливс, оно вырубилось, сдохло."
+  },
+  "tokens" : [ {
+    "token" : "cleave",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "dead",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "dead",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDiPrIDTAu_IiLeIQi",
+  "text" : "Speechless lips, dead eyes.",
+  "translations" : {
+    "russian" : "Безмолвные губы, мёртвые глаза."
+  },
+  "tokens" : [ {
+    "token" : "speechless",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "lip",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "dead",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "eye",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDiyV2DTAu_IiLeIkv",
+  "text" : "Typical dead bum case.",
+  "translations" : {
+    "russian" : "Типичная смерть бродяги."
+  },
+  "tokens" : [ {
+    "token" : "typical",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "dead",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "bum",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "case",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmkqUDTAu_IiLeKqL",
+  "text" : "Father dead, mother ailing.",
+  "translations" : {
+    "russian" : "Отец мертв, мать болеет."
+  },
+  "tokens" : [ {
+    "token" : "father",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dead",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "mother",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "moth",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "ail",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECUHwDTAu_IiLea9U",
+  "text" : "Valentine Chantry is dead.",
+  "translations" : {
+    "russian" : "Валентайн Чантри мертва."
+  },
+  "tokens" : [ {
+    "token" : "valentine",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "chantry",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "dead",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQ3OmDTAu_IiLel4U",
+  "text" : "Dead man's curve.",
+  "translations" : {
+    "russian" : "Поворот мертвеца."
+  },
+  "tokens" : [ {
+    "token" : "dead",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "man's",
+    "startOffset" : 5,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "you're",
-    "startOffset" : 12,
+    "token" : "man",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "curve",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERCwvDTAu_IiLemAi",
+  "text" : "She was pronounced dead.",
+  "translations" : {
+    "russian" : "Ее объявили мертвой."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "pronounced",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "pronounce",
+    "startOffset" : 8,
     "endOffset" : 18,
     "position" : 2
   }, {
@@ -111,379 +439,36 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgt0vxNEXFMlzHLOAB",
-  "text" : "Probably a dead tramp.",
+  "id" : "AWoEToCqDTAu_IiLen8a",
+  "text" : "She was pronounced dead.",
   "translations" : {
-    "russian" : "Вероятно, мертвый бродяга."
+    "russian" : "Ее объявили мертвой."
   },
   "tokens" : [ {
-    "token" : "probably",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "dead",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "tramp",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggUEcNEXFMlzHK9XO",
-  "text" : "Over my dead body!",
-  "translations" : {
-    "russian" : "Только через мой труп!"
-  },
-  "tokens" : [ {
-    "token" : "over",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "dead",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "body",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggUFbNEXFMlzHK9XP",
-  "text" : "Over my dead body.",
-  "translations" : {
-    "russian" : "Только через мой труп."
-  },
-  "tokens" : [ {
-    "token" : "over",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "dead",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "body",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqp3sNEXFMlzHLJ2_",
-  "text" : "The master... is... dead!",
-  "translations" : {
-    "russian" : "Хозяин... мертв."
-  },
-  "tokens" : [ {
-    "token" : "the",
+    "token" : "she",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "master",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "mast",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "dead",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw_IbNEXFMlzHLSvB",
-  "text" : "These dead flies everywhere?",
-  "translations" : {
-    "russian" : "Повсюду эти мёртвые мухи."
-  },
-  "tokens" : [ {
-    "token" : "these",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "dead",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "fly",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "everywhere",
-    "startOffset" : 17,
-    "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghpCbNEXFMlzHK-hC",
-  "text" : "One twist, and he's dead.",
-  "translations" : {
-    "russian" : "Один поворот, и он умер."
-  },
-  "tokens" : [ {
-    "token" : "one",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "twist",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "he",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "dead",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxxSDNEXFMlzHLT2z",
-  "text" : "All the marshals are dead.",
-  "translations" : {
-    "russian" : "Все маршалы мертвы."
-  },
-  "tokens" : [ {
-    "token" : "all",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "the",
+    "token" : "was",
     "startOffset" : 4,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "marshal",
+    "token" : "pronounced",
     "startOffset" : 8,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "are",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "dead",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvD-KNEXFMlzHLQVx",
-  "text" : "There's two dead in baggage.",
-  "translations" : {
-    "russian" : "В багаже двое мертвых."
-  },
-  "tokens" : [ {
-    "token" : "there",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "two",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "dead",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "baggage",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoLrhNEXFMlzHLGhM",
-  "text" : "Your lead's a dead end.",
-  "translations" : {
-    "russian" : "Твоя зацепка привела к тупику."
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "lead's",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "dead",
-    "startOffset" : 14,
     "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "end",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrkY2NEXFMlzHLLMe",
-  "text" : "Dead men don't pay restitution.",
-  "translations" : {
-    "russian" : "Мертвые люди не возмещают ущерб."
-  },
-  "tokens" : [ {
-    "token" : "dead",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "men",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "don't",
-    "startOffset" : 9,
-    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "pay",
-    "startOffset" : 15,
+    "token" : "pronounce",
+    "startOffset" : 8,
     "endOffset" : 18,
-    "position" : 3
+    "position" : 2
   }, {
-    "token" : "restitution",
+    "token" : "dead",
     "startOffset" : 19,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt_W0NEXFMlzHLORH",
-  "text" : "Michael doesn't have dead grass.",
-  "translations" : {
-    "russian" : "У Майкла трава живая."
-  },
-  "tokens" : [ {
-    "token" : "michael",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "doesn't",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "dead",
-    "startOffset" : 21,
-    "endOffset" : 25,
+    "endOffset" : 23,
     "position" : 3
-  }, {
-    "token" : "grass",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwxXCNEXFMlzHLShF",
-  "text" : "You can drop dead anytime.",
-  "translations" : {
-    "russian" : "Вы можете умереть в любую минуту."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "can",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "drop",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "dead",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "anytime",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

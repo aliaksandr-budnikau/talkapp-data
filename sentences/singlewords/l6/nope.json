@@ -1,4 +1,96 @@
 [ {
+  "id" : "AWoFN9xVDTAu_IiLfSpe",
+  "text" : "Ion. Nope.",
+  "translations" : {
+    "russian" : "Ион нет."
+  },
+  "tokens" : [ {
+    "token" : "ion",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "nope",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE42Y8DTAu_IiLfC7A",
+  "text" : "Nope, tanning.",
+  "translations" : {
+    "russian" : "Нет, загораю."
+  },
+  "tokens" : [ {
+    "token" : "nope",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "tanning",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFc1B_DTAu_IiLfeCm",
+  "text" : "Nope, wasn't consulted.",
+  "translations" : {
+    "russian" : "Нет, меня не спросили."
+  },
+  "tokens" : [ {
+    "token" : "nope",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "wasn't",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "consulted",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "consult",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcT_2DTAu_IiLfdqF",
+  "text" : "Nope, wasn't consulted.",
+  "translations" : {
+    "russian" : "Нет, меня не спросили."
+  },
+  "tokens" : [ {
+    "token" : "nope",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "wasn't",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "consulted",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "consult",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgm1EYNEXFMlzHLEjs",
   "text" : "Nope, it's slow.",
   "translations" : {
@@ -19,6 +111,39 @@
     "startOffset" : 11,
     "endOffset" : 15,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYvvJDTAu_IiLeCuQ",
+  "text" : "Nope, it's just regular arithmetic.",
+  "translations" : {
+    "russian" : "Нет, это просто обычная арифметика."
+  },
+  "tokens" : [ {
+    "token" : "nope",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "just",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "regular",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "arithmetic",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -56,6 +181,82 @@
     "token" : "it",
     "startOffset" : 26,
     "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERPqjDTAu_IiLemJs",
+  "text" : "Nope, and no convenience stores either.",
+  "translations" : {
+    "russian" : "И круглосуточных тоже."
+  },
+  "tokens" : [ {
+    "token" : "nope",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "convenience",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "store",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "either",
+    "startOffset" : 32,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-DwnDTAu_IiLfGcf",
+  "text" : "They look like suede, but nope.",
+  "translations" : {
+    "russian" : "Похоже на замшу, ан нет."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "look",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "like",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "suede",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "but",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "nope",
+    "startOffset" : 26,
+    "endOffset" : 30,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,58 @@
 [ {
+  "id" : "AWoERuUADTAu_IiLemgR",
+  "text" : "Fabricate evidence.",
+  "translations" : {
+    "russian" : "Сфабриковать улики."
+  },
+  "tokens" : [ {
+    "token" : "fabricate",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "evidence",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUmttDTAu_IiLeos9",
+  "text" : "Fabricate evidence.",
+  "translations" : {
+    "russian" : "Сфабриковать улики."
+  },
+  "tokens" : [ {
+    "token" : "fabricate",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "evidence",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEEMxDTAu_IiLecWH",
+  "text" : "Evidence tampering.",
+  "translations" : {
+    "russian" : "Фальсификация улик..."
+  },
+  "tokens" : [ {
+    "token" : "evidence",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "tamper",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgogzFNEXFMlzHLHCA",
   "text" : "Police reports, evidence, interviews.",
   "translations" : {
@@ -55,340 +109,296 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsNIlNEXFMlzHLMHH",
-  "text" : "Evidence identification and collection.",
+  "id" : "AWoERv9wDTAu_IiLemhe",
+  "text" : "This... Fabricating evidence...",
   "translations" : {
-    "russian" : "В сборе и идентификации улик."
+    "russian" : "Это... подделка улик..."
   },
   "tokens" : [ {
-    "token" : "evidence",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "identification",
-    "startOffset" : 9,
-    "endOffset" : 23,
-    "position" : 1
-  }, {
-    "token" : "identify",
-    "startOffset" : 9,
-    "endOffset" : 23,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 2
-  }, {
-    "token" : "collection",
-    "startOffset" : 28,
-    "endOffset" : 38,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfe4fNEXFMlzHK8qC",
-  "text" : "Look, it's dissolving our evidence.",
-  "translations" : {
-    "russian" : "Смотри, она растворяет нашу улику."
-  },
-  "tokens" : [ {
-    "token" : "look",
+    "token" : "this",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "it",
-    "startOffset" : 6,
-    "endOffset" : 10,
+    "token" : "fabricate",
+    "startOffset" : 8,
+    "endOffset" : 19,
     "position" : 1
   }, {
-    "token" : "solving",
-    "startOffset" : 11,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "dissolve",
-    "startOffset" : 11,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "our",
-    "startOffset" : 22,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
     "token" : "evidence",
-    "startOffset" : 26,
-    "endOffset" : 34,
-    "position" : 4
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgx9-YNEXFMlzHLUCW",
-  "text" : "The point is, the evidence melted.",
+  "id" : "AWoEQ2KtDTAu_IiLel3i",
+  "text" : "You contrive evidence!",
   "translations" : {
-    "russian" : "Главное что улика растаяла."
+    "russian" : "Ты фабрикуешь доказательства."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "you",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "point",
+    "token" : "contrive",
     "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 10,
     "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "evidence",
-    "startOffset" : 18,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "melt",
-    "startOffset" : 27,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk1_cNEXFMlzHLBfB",
-  "text" : "Had to log some evidence downstairs.",
-  "translations" : {
-    "russian" : "Пришлось зарегистрировать несколько улик."
-  },
-  "tokens" : [ {
-    "token" : "had",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 4,
-    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "log",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "some",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
     "token" : "evidence",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "downstairs",
-    "startOffset" : 25,
-    "endOffset" : 35,
-    "position" : 5
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgofGrNEXFMlzHLG_Y",
-  "text" : "I'll review the evidence at once.",
+  "id" : "AWoEUoOKDTAu_IiLeouK",
+  "text" : "This... Fabricating evidence...",
   "translations" : {
-    "russian" : "Я немедленно пересмотрю показания."
+    "russian" : "Это... подделка улик..."
   },
   "tokens" : [ {
-    "token" : "i'll",
+    "token" : "this",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "review",
-    "startOffset" : 5,
+    "token" : "fabricate",
+    "startOffset" : 8,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "evidence",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtwFCDTAu_IiLe7JX",
+  "text" : "There isn't sufficient evidence.",
+  "translations" : {
+    "russian" : "Нет достаточного количества фактов..."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "isn't",
+    "startOffset" : 6,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "the",
+    "token" : "sufficient",
     "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "evidence",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "at",
-    "startOffset" : 25,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "once",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiWZpNEXFMlzHK_F_",
-  "text" : "I'll review the evidence at once.",
-  "translations" : {
-    "russian" : "Я немедленно пересмотрю показания."
-  },
-  "tokens" : [ {
-    "token" : "i'll",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "review",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "evidence",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "at",
-    "startOffset" : 25,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "once",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgk_DVNEXFMlzHLBuY",
-  "text" : "They act when they see evidence.",
-  "translations" : {
-    "russian" : "Они начнут работать, когда увидят доказательства."
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "act",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "when",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "they",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "see",
-    "startOffset" : 19,
     "endOffset" : 22,
-    "position" : 4
+    "position" : 2
   }, {
     "token" : "evidence",
     "startOffset" : 23,
     "endOffset" : 31,
-    "position" : 5
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxPQINEXFMlzHLS_O",
-  "text" : "Had to log some evidence downstairs.",
+  "id" : "AWoFJDvGDTAu_IiLfO5S",
+  "text" : "Evidence against a traitor!",
   "translations" : {
-    "russian" : "Пришлось зарегистрировать несколько улик."
+    "russian" : "Доказательства предательства!"
   },
   "tokens" : [ {
-    "token" : "had",
+    "token" : "evidence",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "to",
-    "startOffset" : 4,
-    "endOffset" : 6,
+    "token" : "against",
+    "startOffset" : 9,
+    "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "log",
-    "startOffset" : 7,
-    "endOffset" : 10,
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "some",
-    "startOffset" : 11,
-    "endOffset" : 15,
+    "token" : "traitor",
+    "startOffset" : 19,
+    "endOffset" : 26,
     "position" : 3
-  }, {
-    "token" : "evidence",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "downstairs",
-    "startOffset" : 25,
-    "endOffset" : 35,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgeWvgNEXFMlzHK7qp",
-  "text" : "No evidence of attack from outside.",
+  "id" : "AWoFdXghDTAu_IiLfebx",
+  "text" : "Confiscated evidence X23-T45...",
   "translations" : {
-    "russian" : "Нет никаких доказательств нападения извне."
+    "russian" : "Свидетельство конфискации X23-T45..."
   },
   "tokens" : [ {
-    "token" : "no",
+    "token" : "confiscate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "evidence",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "x23",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "t45",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRYFEDTAu_IiLfVUY",
+  "text" : "There's evidence of calcification.",
+  "translations" : {
+    "russian" : "Здесь есть следы отвердения."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "evidence",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "calcification",
+    "startOffset" : 20,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "calcify",
+    "startOffset" : 20,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEEtgDTAu_IiLecWe",
+  "text" : "He tampered with evidence.",
+  "translations" : {
+    "russian" : "Он подделал улики."
+  },
+  "tokens" : [ {
+    "token" : "he",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "evidence",
+    "token" : "tampered",
     "startOffset" : 3,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "of",
+    "token" : "tamper",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "with",
     "startOffset" : 12,
-    "endOffset" : 14,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "attack",
-    "startOffset" : 15,
-    "endOffset" : 21,
+    "token" : "evidence",
+    "startOffset" : 17,
+    "endOffset" : 25,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHS5eDTAu_IiLeewN",
+  "text" : "They withheld evidence.",
+  "translations" : {
+    "russian" : "Они скрывали улики."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
-    "token" : "from",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
+    "token" : "withheld",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
   }, {
-    "token" : "outside",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 5
+    "token" : "evidence",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoER83BDTAu_IiLemrM",
+  "text" : "You contrive evidence!",
+  "translations" : {
+    "russian" : "Ты фабрикуешь доказательства."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "contrive",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "evidence",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_zhSDTAu_IiLfH3a",
+  "text" : "You suppressed evidence.",
+  "translations" : {
+    "russian" : "Вы скрыли факты?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "suppressed",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "suppress",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "evidence",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

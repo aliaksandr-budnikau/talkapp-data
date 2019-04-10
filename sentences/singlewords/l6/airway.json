@@ -1,4 +1,80 @@
 [ {
+  "id" : "AWoEGvjDDTAu_IiLeeWn",
+  "text" : "Tongue swelling, airway's closing.",
+  "translations" : {
+    "russian" : "Язык отёк, дыхательные пути закрыты."
+  },
+  "tokens" : [ {
+    "token" : "tongue",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "swelling",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "swell",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "airway",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "closing",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "close",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEH4BhDTAu_IiLefJ-",
+  "text" : "Tongue swelling, airway's closing.",
+  "translations" : {
+    "russian" : "Язык отёк, дыхательные пути закрыты."
+  },
+  "tokens" : [ {
+    "token" : "tongue",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "swelling",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "swell",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "airway",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "closing",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "close",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgn76ENEXFMlzHLGRV",
   "text" : "ABC's... airway, breathing, circulation.",
   "translations" : {
@@ -34,6 +110,39 @@
     "startOffset" : 28,
     "endOffset" : 39,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8aoKDTAu_IiLfFOw",
+  "text" : "He's got partial airway occlusion!",
+  "translations" : {
+    "russian" : "У него частичная закупорка дыхательных путей!"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "partial",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "airway",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "occlusion",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

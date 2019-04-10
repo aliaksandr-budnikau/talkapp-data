@@ -1,224 +1,13 @@
 [ {
-  "id" : "AWbgsSEbNEXFMlzHLMOK",
-  "text" : "One for sponsorship, one for donations.",
+  "id" : "AWoFR2XVDTAu_IiLfVq7",
+  "text" : "For... for my campaign.",
   "translations" : {
-    "russian" : "Один на спонсорство, другой для пожертвований."
+    "russian" : "Для... для моей кампании."
   },
   "tokens" : [ {
-    "token" : "one",
+    "token" : "for",
     "startOffset" : 0,
     "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "sponsorship",
-    "startOffset" : 8,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "one",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "for",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "donate",
-    "startOffset" : 29,
-    "endOffset" : 38,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdVVeNEXFMlzHK60g",
-  "text" : "A present for you.",
-  "translations" : {
-    "russian" : "Я вам их подарю."
-  },
-  "tokens" : [ {
-    "token" : "a",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "present",
-    "startOffset" : 2,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkSr7NEXFMlzHLAyx",
-  "text" : "Just fuel for survival.",
-  "translations" : {
-    "russian" : "Просто горючее для выживания."
-  },
-  "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "fuel",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "survival",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglfbwNEXFMlzHLCoW",
-  "text" : "How's that for leverage?",
-  "translations" : {
-    "russian" : "Как тебе такой козырь?"
-  },
-  "tokens" : [ {
-    "token" : "how",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "leverage",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnGXFNEXFMlzHLE8p",
-  "text" : "Chef, garnish for lamb.",
-  "translations" : {
-    "russian" : "Шеф, гарнир к ягненку."
-  },
-  "tokens" : [ {
-    "token" : "chef",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "garnish",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "lamb",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnQ_uNEXFMlzHLFKQ",
-  "text" : "Prepare for universal detonation!",
-  "translations" : {
-    "russian" : "Подготовьтесь к запуску на всю вселенную!"
-  },
-  "tokens" : [ {
-    "token" : "prepare",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "universal",
-    "startOffset" : 12,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "detonation",
-    "startOffset" : 22,
-    "endOffset" : 32,
-    "position" : 3
-  }, {
-    "token" : "detonate",
-    "startOffset" : 22,
-    "endOffset" : 32,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnzDANEXFMlzHLGDI",
-  "text" : "Money waits for talent.",
-  "translations" : {
-    "russian" : "Талантливый человек всегда заработает."
-  },
-  "tokens" : [ {
-    "token" : "money",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "wait",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "talent",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgn7t3NEXFMlzHLGRB",
-  "text" : "That's for your circulation.",
-  "translations" : {
-    "russian" : "Это для твоего кровообращения."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
     "position" : 0
   }, {
     "token" : "for",
@@ -226,149 +15,76 @@
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "your",
+    "token" : "my",
     "startOffset" : 11,
-    "endOffset" : 15,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "circulation",
-    "startOffset" : 16,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "circulate",
-    "startOffset" : 16,
-    "endOffset" : 27,
+    "token" : "campaign",
+    "startOffset" : 14,
+    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgopcwNEXFMlzHLHO4",
-  "text" : "Stop for a minute.",
+  "id" : "AWoDZvEWDTAu_IiLeDU2",
+  "text" : "For archaeologists.",
   "translations" : {
-    "russian" : "Сделай перерыв на две минуты!"
+    "russian" : "Для археологов."
   },
   "tokens" : [ {
-    "token" : "stop",
+    "token" : "for",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "for",
-    "startOffset" : 5,
-    "endOffset" : 8,
+    "token" : "archaeologist",
+    "startOffset" : 4,
+    "endOffset" : 18,
     "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "minute",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgo31fNEXFMlzHLHi2",
-  "text" : "Beer for the Berliner.",
+  "id" : "AWoDqU_mDTAu_IiLeMna",
+  "text" : "For Thanksgiving.",
   "translations" : {
-    "russian" : "Пива берлинцу."
+    "russian" : "День благодарения."
   },
   "tokens" : [ {
-    "token" : "beer",
+    "token" : "for",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "bee",
+    "token" : "thanksgiving",
+    "startOffset" : 4,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5EiSDTAu_IiLfDDt",
+  "text" : "Detained for?",
+  "translations" : {
+    "russian" : "За что задержаны?"
+  },
+  "tokens" : [ {
+    "token" : "detain",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 8,
     "position" : 0
   }, {
     "token" : "for",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
     "startOffset" : 9,
     "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "berliner",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "berlin",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpVfCNEXFMlzHLIHP",
-  "text" : "Sponsor pays for airtime.",
-  "translations" : {
-    "russian" : "Спонсор платит за эфир."
-  },
-  "tokens" : [ {
-    "token" : "sponsor",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "pay",
-    "startOffset" : 8,
-    "endOffset" : 12,
     "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "airtime",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpdUVNEXFMlzHLISZ",
-  "text" : "We were for credit.",
+  "id" : "AWoFGYXDDTAu_IiLfMs2",
+  "text" : "For Isabel.",
   "translations" : {
-    "russian" : "Мы были для кредита."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "were",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "credit",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpjM1NEXFMlzHLIaq",
-  "text" : "For feeding fish farms.",
-  "translations" : {
-    "russian" : "Для кормления рыбных ферм."
+    "russian" : "Для Изабель."
   },
   "tokens" : [ {
     "token" : "for",
@@ -376,60 +92,58 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "feeding",
+    "token" : "isabel",
     "startOffset" : 4,
-    "endOffset" : 11,
+    "endOffset" : 10,
     "position" : 1
-  }, {
-    "token" : "feed",
-    "startOffset" : 4,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "fish",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "farm",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrTePNEXFMlzHLKzp",
-  "text" : "Thanks for the potatoes.",
+  "id" : "AWoFg_LrDTAu_IiLfg7k",
+  "text" : "For theft?",
   "translations" : {
-    "russian" : "Это в благодарность за картошку."
+    "russian" : "Для вора?"
   },
   "tokens" : [ {
-    "token" : "thank",
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "theft",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWvxZDTAu_IiLeqUo",
+  "text" : "Forest, brush.",
+  "translations" : {
+    "russian" : "Лес, кусты."
+  },
+  "tokens" : [ {
+    "token" : "forest",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
     "token" : "for",
-    "startOffset" : 7,
-    "endOffset" : 10,
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "brush",
+    "startOffset" : 8,
+    "endOffset" : 13,
     "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "potatoes",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsNmXNEXFMlzHLMHy",
-  "text" : "For your generation's deeds?",
+  "id" : "AWoFZFaqDTAu_IiLfbCt",
+  "text" : "For Waverly.",
   "translations" : {
-    "russian" : "За дела твоего поколения?"
+    "russian" : "Ж За Вейверли."
   },
   "tokens" : [ {
     "token" : "for",
@@ -437,53 +151,164 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "your",
+    "token" : "waverly",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-1IDDTAu_IiLeYR7",
+  "text" : "For eternity.",
+  "translations" : {
+    "russian" : "Вечности."
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "eternity",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnt5uDTAu_IiLe24f",
+  "text" : "For zeta!",
+  "translations" : {
+    "russian" : "За Зету!"
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "zeta",
     "startOffset" : 4,
     "endOffset" : 8,
     "position" : 1
-  }, {
-    "token" : "generation",
-    "startOffset" : 9,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "ed",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "deed",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguB16NEXFMlzHLOVX",
-  "text" : "You're rooting for Marshall? !",
+  "id" : "AWoEr4hDDTAu_IiLe55q",
+  "text" : "For dolly.",
   "translations" : {
-    "russian" : "Ты поддерживаешь Маршалла?"
+    "russian" : "Для куклы."
   },
   "tokens" : [ {
-    "token" : "you're",
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dolly",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5SdmDTAu_IiLfDM9",
+  "text" : "Detained for?",
+  "translations" : {
+    "russian" : "За что задержаны?"
+  },
+  "tokens" : [ {
+    "token" : "detain",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-2YKDTAu_IiLeYSs",
+  "text" : "For eternity.",
+  "translations" : {
+    "russian" : "Навечно."
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "eternity",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWk_fDTAu_IiLeqM6",
+  "text" : "Forest, brush.",
+  "translations" : {
+    "russian" : "Лес, кусты."
+  },
+  "tokens" : [ {
+    "token" : "forest",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "root",
-    "startOffset" : 7,
-    "endOffset" : 14,
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "brush",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEx4UjDTAu_IiLe-JN",
+  "text" : "For jasmine.",
+  "translations" : {
+    "russian" : "Ради Джасмин."
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "jasmine",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE38gvDTAu_IiLfCVV",
+  "text" : "For Fester!",
+  "translations" : {
+    "russian" : "За Фестера!"
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "fester",
+    "startOffset" : 4,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "for",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "marshall",
-    "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 3
+    "token" : "fest",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

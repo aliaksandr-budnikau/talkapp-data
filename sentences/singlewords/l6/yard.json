@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWbgx3MJNEXFMlzHLT7k",
+  "text" : "Surfed the rail yards?",
+  "translations" : {
+    "russian" : "Катались на сортировочной станции?"
+  },
+  "tokens" : [ {
+    "token" : "surf",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "rail",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "yard",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyPKmNEXFMlzHLUjU",
   "text" : "Single season passing yards.",
   "translations" : {
@@ -32,30 +60,30 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgx3MJNEXFMlzHLT7k",
-  "text" : "Surfed the rail yards?",
+  "id" : "AWoD2v5CDTAu_IiLeTfB",
+  "text" : "Down a scrap yard.",
   "translations" : {
-    "russian" : "Катались на сортировочной станции?"
+    "russian" : "На свалке."
   },
   "tokens" : [ {
-    "token" : "surf",
+    "token" : "down",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "rail",
-    "startOffset" : 11,
-    "endOffset" : 15,
+    "token" : "scrap",
+    "startOffset" : 7,
+    "endOffset" : 12,
     "position" : 2
   }, {
     "token" : "yard",
-    "startOffset" : 16,
-    "endOffset" : 21,
+    "startOffset" : 13,
+    "endOffset" : 17,
     "position" : 3
   } ],
   "contentScore" : null
@@ -85,6 +113,52 @@
     "startOffset" : 16,
     "endOffset" : 21,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUJJVDTAu_IiLfXXS",
+  "text" : "In Totter's Yard.",
+  "translations" : {
+    "russian" : "В Тоттер-Ярде."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "totter's",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "yard",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUJt9DTAu_IiLfXXr",
+  "text" : "In Totter's Yard.",
+  "translations" : {
+    "russian" : "В Тоттер-Ярде."
+  },
+  "tokens" : [ {
+    "token" : "in",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "totter's",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "yard",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -243,6 +317,77 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFDs4tDTAu_IiLfKyF",
+  "text" : "Only fifty dongs per yard.",
+  "translations" : {
+    "russian" : "Всего лишь 50 донгов за метр."
+  },
+  "tokens" : [ {
+    "token" : "only",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fifty",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "dong",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "per",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "yard",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2v64DTAu_IiLeTfC",
+  "text" : "Same for the scrap yard.",
+  "translations" : {
+    "russian" : "На свалке тоже."
+  },
+  "tokens" : [ {
+    "token" : "same",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "scrap",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "yard",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiCS6NEXFMlzHK-28",
   "text" : "Super bowl, 50-yard line.",
   "translations" : {
@@ -314,100 +459,34 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxviTNEXFMlzHLTzD",
-  "text" : "Super bowl, 50-yard line.",
+  "id" : "AWoD2wbxDTAu_IiLeTfQ",
+  "text" : "It's a crooked scrap yard.",
   "translations" : {
-    "russian" : "Супер-кубок, первый ряд."
+    "russian" : "Это фиктивная свалка."
   },
   "tokens" : [ {
-    "token" : "super",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "sup",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "bowl",
-    "startOffset" : 6,
-    "endOffset" : 10,
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "50",
-    "startOffset" : 12,
+    "token" : "crooked",
+    "startOffset" : 7,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "yard",
+    "token" : "crook",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "scrap",
     "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "line",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgx1RbNEXFMlzHLT6S",
-  "text" : "So I hit the yard.",
-  "translations" : {
-    "russian" : "Я вышел во двор."
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 3,
-    "endOffset" : 4,
-    "position" : 1
-  }, {
-    "token" : "hit",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 3
-  }, {
-    "token" : "yard",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmIrxNEXFMlzHLDXl",
-  "text" : "Clean up the freight yard.",
-  "translations" : {
-    "russian" : "Почистите площадку для грузов."
-  },
-  "tokens" : [ {
-    "token" : "clean",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "up",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "freight",
-    "startOffset" : 13,
     "endOffset" : 20,
     "position" : 3
   }, {
@@ -415,120 +494,6 @@
     "startOffset" : 21,
     "endOffset" : 25,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxvfINEXFMlzHLTy8",
-  "text" : "We got 50 yard line seats.",
-  "translations" : {
-    "russian" : "Мы сидим рядом с полем."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "50",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "yard",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "line",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "seat",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgx2YmNEXFMlzHLT7J",
-  "text" : "A yard with a rose bush.",
-  "translations" : {
-    "russian" : "Сад с кустом роз."
-  },
-  "tokens" : [ {
-    "token" : "a",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "yard",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "with",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "rose",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 4
-  }, {
-    "token" : "bush",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgx2KMNEXFMlzHLT6_",
-  "text" : "A few hundred yards further on.",
-  "translations" : {
-    "russian" : "На несколько сотен ярдов дальше."
-  },
-  "tokens" : [ {
-    "token" : "a",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "few",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "hundred",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "yard",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "further",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "on",
-    "startOffset" : 28,
-    "endOffset" : 30,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

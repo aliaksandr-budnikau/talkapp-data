@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEN6WuDTAu_IiLejuo",
+  "text" : "Something, something more sinister?",
+  "translations" : {
+    "russian" : "Или... что-то более зловещее?"
+  },
+  "tokens" : [ {
+    "token" : "something",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "something",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "more",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "sinister",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguJ7BNEXFMlzHLOi0",
   "text" : "Something... something alien.",
   "translations" : {
@@ -19,6 +47,152 @@
     "startOffset" : 23,
     "endOffset" : 28,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlMKzDTAu_IiLeJ6C",
+  "text" : "Whitey something.",
+  "translations" : {
+    "russian" : "Уитни, что-то такое."
+  },
+  "tokens" : [ {
+    "token" : "whitey",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "something",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAOzMDTAu_IiLeZV5",
+  "text" : "Something billowy?",
+  "translations" : {
+    "russian" : "Что-ибудь пушистое?"
+  },
+  "tokens" : [ {
+    "token" : "something",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "billowy",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEN8RzDTAu_IiLejwE",
+  "text" : "Something embedded...",
+  "translations" : {
+    "russian" : "Что-то застряло..."
+  },
+  "tokens" : [ {
+    "token" : "something",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "embedded",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOgC-DTAu_IiLekKw",
+  "text" : "Something embedded...",
+  "translations" : {
+    "russian" : "Что-то застряло..."
+  },
+  "tokens" : [ {
+    "token" : "something",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "embedded",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7Uk0DTAu_IiLeVou",
+  "text" : "Something suave!",
+  "translations" : {
+    "russian" : "Что-нибудь вежливое."
+  },
+  "tokens" : [ {
+    "token" : "something",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "suave",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEzRs7DTAu_IiLe_J1",
+  "text" : "Something stiff.",
+  "translations" : {
+    "russian" : "Лучше чего-нибудь покрепче..."
+  },
+  "tokens" : [ {
+    "token" : "something",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "stiff",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtMfbDTAu_IiLe6x3",
+  "text" : "I overlooked something important, something dangerous.",
+  "translations" : {
+    "russian" : "Упустил нечто важное, нечто опасное."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "overlook",
+    "startOffset" : 2,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "something",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "important",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "something",
+    "startOffset" : 34,
+    "endOffset" : 43,
+    "position" : 4
+  }, {
+    "token" : "dangerous",
+    "startOffset" : 44,
+    "endOffset" : 53,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -162,6 +336,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgvJ_PNEXFMlzHLQiR",
+  "text" : "Or something custom.",
+  "translations" : {
+    "russian" : "Или сделанный на заказ."
+  },
+  "tokens" : [ {
+    "token" : "or",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "something",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "custom",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu7PYNEXFMlzHLQDd",
   "text" : "I said something light.",
   "translations" : {
@@ -186,253 +383,6 @@
     "token" : "light",
     "startOffset" : 17,
     "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvJ_PNEXFMlzHLQiR",
-  "text" : "Or something custom.",
-  "translations" : {
-    "russian" : "Или сделанный на заказ."
-  },
-  "tokens" : [ {
-    "token" : "or",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "something",
-    "startOffset" : 3,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "custom",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdq4kNEXFMlzHK7D3",
-  "text" : "Throw something at it!",
-  "translations" : {
-    "russian" : "Запусти в нее чем-нибудь!"
-  },
-  "tokens" : [ {
-    "token" : "throw",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "something",
-    "startOffset" : 6,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "at",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "it",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgli4INEXFMlzHLCuX",
-  "text" : "What about something environmental?",
-  "translations" : {
-    "russian" : "А как насчет чего-нибудь, связанного со средой?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "about",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "something",
-    "startOffset" : 11,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "environmental",
-    "startOffset" : 21,
-    "endOffset" : 34,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnJqtNEXFMlzHLFA5",
-  "text" : "There's something up ahead.",
-  "translations" : {
-    "russian" : "Ам что-то есть наверху."
-  },
-  "tokens" : [ {
-    "token" : "there",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "something",
-    "startOffset" : 8,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "up",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "ahead",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyGvdNEXFMlzHLUSE",
-  "text" : "Tie him to something.",
-  "translations" : {
-    "russian" : "А ты его привяжи."
-  },
-  "tokens" : [ {
-    "token" : "tie",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "him",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "something",
-    "startOffset" : 11,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxADkNEXFMlzHLSv7",
-  "text" : "Something just flew by!",
-  "translations" : {
-    "russian" : "Что-то только что пролетело мимо!"
-  },
-  "tokens" : [ {
-    "token" : "something",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "just",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "flew",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "by",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbBnJNEXFMlzHK4vt",
-  "text" : "Louis, is something wrong?",
-  "translations" : {
-    "russian" : "Луис, что случилось?"
-  },
-  "tokens" : [ {
-    "token" : "louis",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "something",
-    "startOffset" : 10,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "wrong",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgklThNEXFMlzHLBKR",
-  "text" : "There's something out there.",
-  "translations" : {
-    "russian" : "Там снаружи кто-то есть."
-  },
-  "tokens" : [ {
-    "token" : "there",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "something",
-    "startOffset" : 8,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "out",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "there",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglpNWNEXFMlzHLC2Z",
-  "text" : "What about something environmental?",
-  "translations" : {
-    "russian" : "А как насчет чего-нибудь, связанного со средой?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "about",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "something",
-    "startOffset" : 11,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "environmental",
-    "startOffset" : 21,
-    "endOffset" : 34,
     "position" : 3
   } ],
   "contentScore" : null

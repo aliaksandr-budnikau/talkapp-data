@@ -1,0 +1,62 @@
+[ {
+  "id" : "AWoFMH5nDTAu_IiLfRSy",
+  "text" : "Gold enamel, diamond inlay.",
+  "translations" : {
+    "russian" : "О, это золотая инкрустация, внутри сплошной бриллиант."
+  },
+  "tokens" : [ {
+    "token" : "gold",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "enamel",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "diamond",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "inlay",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6h-tDTAu_IiLeVNK",
+  "text" : "Thru the enamel, I think.",
+  "translations" : {
+    "russian" : "Сойдет скоро."
+  },
+  "tokens" : [ {
+    "token" : "thru",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "enamel",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "i",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "think",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

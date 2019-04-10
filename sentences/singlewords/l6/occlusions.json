@@ -1,0 +1,52 @@
+[ {
+  "id" : "AWoE8axUDTAu_IiLfFO2",
+  "text" : "No occlusions.",
+  "translations" : {
+    "russian" : "Никаких окклюзий."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "occlusion",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8aoKDTAu_IiLfFOw",
+  "text" : "He's got partial airway occlusion!",
+  "translations" : {
+    "russian" : "У него частичная закупорка дыхательных путей!"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "partial",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "airway",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "occlusion",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

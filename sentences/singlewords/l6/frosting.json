@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEC-7_DTAu_IiLebeX",
+  "text" : "Yummy frosting, though.",
+  "translations" : {
+    "russian" : "Крем ничего, вкусный."
+  },
+  "tokens" : [ {
+    "token" : "yummy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "frosting",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "frost",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "though",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgl34gNEXFMlzHLC_o",
   "text" : "We're frosting cupcakes.",
   "translations" : {
@@ -65,6 +93,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEM3VDDTAu_IiLei8n",
+  "text" : "Frosting's gonna give you cavities.",
+  "translations" : {
+    "russian" : "От глазури дырки в зубах."
+  },
+  "tokens" : [ {
+    "token" : "frosting",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "gonna",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "give",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "g",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "you",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "cavity",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnFLaNEXFMlzHLE7J",
   "text" : "Well, defrost him.",
   "translations" : {
@@ -126,6 +192,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEwmYLDTAu_IiLe9L7",
+  "text" : "For what? Eliminating Deacon Frost.",
+  "translations" : {
+    "russian" : "За устранение Дикона Фроста."
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "what",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "eliminate",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "deacon",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "frost",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnFSANEXFMlzHLE7R",
   "text" : "Two, or I'm defrosting the freezer.",
   "translations" : {
@@ -160,6 +259,44 @@
     "token" : "freezer",
     "startOffset" : 27,
     "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDw5JCDTAu_IiLeQio",
+  "text" : "That lady's as squeamish as Frost.",
+  "translations" : {
+    "russian" : "Эта леди так же брезглива, как Фрост."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "lady",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "as",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "squeamish",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "as",
+    "startOffset" : 25,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "frost",
+    "startOffset" : 28,
+    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null

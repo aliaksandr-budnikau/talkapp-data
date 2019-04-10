@@ -1,4 +1,83 @@
 [ {
+  "id" : "AWoFNbOFDTAu_IiLfSQA",
+  "text" : "Transporter interface link.",
+  "translations" : {
+    "russian" : "Интерфейс транспортера."
+  },
+  "tokens" : [ {
+    "token" : "transport",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "interface",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "link",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKq2sDTAu_IiLfQLA",
+  "text" : "Link that Tracer in.",
+  "translations" : {
+    "russian" : "Подключи Искатель."
+  },
+  "tokens" : [ {
+    "token" : "link",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "tracer",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPyf9DTAu_IiLfUCM",
+  "text" : "Link that Tracer in.",
+  "translations" : {
+    "russian" : "Подключи Искатель."
+  },
+  "tokens" : [ {
+    "token" : "link",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "tracer",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzYxoNEXFMlzHLWXL",
   "text" : "He's the weak link here.",
   "translations" : {
@@ -137,6 +216,44 @@
     "token" : "link",
     "startOffset" : 25,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfeCSDTAu_IiLewf6",
+  "text" : "No link to the robbers there.",
+  "translations" : {
+    "russian" : "Никаких связей с грабителями."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "link",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "robber",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "there",
+    "startOffset" : 23,
+    "endOffset" : 28,
     "position" : 5
   } ],
   "contentScore" : null

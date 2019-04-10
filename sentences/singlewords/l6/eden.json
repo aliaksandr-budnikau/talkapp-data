@@ -1,4 +1,108 @@
 [ {
+  "id" : "AWoEIKK-DTAu_IiLefWp",
+  "text" : "Eden Gardens, cabby.",
+  "translations" : {
+    "russian" : "Извозчик, в Иден Гарденс."
+  },
+  "tokens" : [ {
+    "token" : "eden",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ed",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "garden",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "cabby",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEff7LDTAu_IiLewhe",
+  "text" : "Gloria burgle. Eden valley police.",
+  "translations" : {
+    "russian" : "Глория Бёргл, полиция Иден Вэлли."
+  },
+  "tokens" : [ {
+    "token" : "gloria",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "burgle",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "eden",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "ed",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "valley",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "police",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEw2fIDTAu_IiLe9YT",
+  "text" : "Eden is a Hebrew word.",
+  "translations" : {
+    "russian" : "Эдем-это еврейское слово."
+  },
+  "tokens" : [ {
+    "token" : "eden",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ed",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "hebrew",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "word",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsNmXNEXFMlzHLMHy",
   "text" : "For your generation's deeds?",
   "translations" : {
@@ -28,6 +132,39 @@
     "token" : "deed",
     "startOffset" : 22,
     "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJ05VDTAu_IiLegia",
+  "text" : "Your deed of manumission.",
+  "translations" : {
+    "russian" : "Вот свидетельство об освобождении от рабства."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "deed",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "ed",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "manumission",
+    "startOffset" : 13,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
@@ -93,6 +230,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEU42_DTAu_IiLeo7W",
+  "text" : "ED Hello, Snip.",
+  "translations" : {
+    "russian" : "Привет, Малыш."
+  },
+  "tokens" : [ {
+    "token" : "ed",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "e",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "hello",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "snip",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgsOZoNEXFMlzHLMI5",
   "text" : "Reading your deeds again?",
   "translations" : {
@@ -128,6 +293,186 @@
     "startOffset" : 19,
     "endOffset" : 24,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDk9JkDTAu_IiLeJxy",
+  "text" : "ED Hello, Snip.",
+  "translations" : {
+    "russian" : "Привет, Малыш."
+  },
+  "tokens" : [ {
+    "token" : "ed",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "e",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "hello",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "snip",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjoLyDTAu_IiLeJC9",
+  "text" : "No good deed goes unpunished.",
+  "translations" : {
+    "russian" : "Ни одно доброе дело не останется безнаказанным."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "good",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "deed",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "ed",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "goes",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "punished",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjoF_DTAu_IiLeJC5",
+  "text" : "No good deed goes unpunished.",
+  "translations" : {
+    "russian" : "Ни одно доброе дело не остаётся безнаказанным."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "good",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "deed",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "ed",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "goes",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "punished",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjodsDTAu_IiLeJDF",
+  "text" : "No good deed goes unpunished.",
+  "translations" : {
+    "russian" : "Ни одно доброе дело не остается безнаказанным."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "good",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "deed",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "ed",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "goes",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "punished",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFa-TKDTAu_IiLfcnA",
+  "text" : "Just make yourself comfortable, Ed.",
+  "translations" : {
+    "russian" : "Устраивайся, где удобно."
+  },
+  "tokens" : [ {
+    "token" : "just",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "yourself",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "comfortable",
+    "startOffset" : 19,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "ed",
+    "startOffset" : 32,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "e",
+    "startOffset" : 32,
+    "endOffset" : 34,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -169,116 +514,40 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsOz_NEXFMlzHLMJf",
-  "text" : "Here's to your great deed!",
+  "id" : "AWoFQy4kDTAu_IiLfU22",
+  "text" : "We found Ed Lusk's cauldron.",
   "translations" : {
-    "russian" : "За ваш достойный подражания подвиг."
+    "russian" : "Мы нашли котел Эда Ласка."
   },
   "tokens" : [ {
-    "token" : "here's",
+    "token" : "we",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "to",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "great",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "deed",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "ed",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsOvGNEXFMlzHLMJX",
-  "text" : "The deed to Nolan's house...",
-  "translations" : {
-    "russian" : "Документы на дом Нолана..."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "deed",
-    "startOffset" : 4,
+    "token" : "found",
+    "startOffset" : 3,
     "endOffset" : 8,
     "position" : 1
   }, {
     "token" : "ed",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "to",
     "startOffset" : 9,
     "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "nolan",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "house",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsOv1NEXFMlzHLMJY",
-  "text" : "Per the family land deeds.",
-  "translations" : {
-    "russian" : "В соответствии с документами на землю."
-  },
-  "tokens" : [ {
-    "token" : "per",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "family",
-    "startOffset" : 8,
-    "endOffset" : 14,
+    "token" : "e",
+    "startOffset" : 9,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "land",
-    "startOffset" : 15,
-    "endOffset" : 19,
+    "token" : "lusk's",
+    "startOffset" : 12,
+    "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "ed",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "deed",
-    "startOffset" : 20,
-    "endOffset" : 25,
+    "token" : "cauldron",
+    "startOffset" : 19,
+    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null

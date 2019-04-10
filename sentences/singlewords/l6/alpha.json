@@ -1,4 +1,78 @@
 [ {
+  "id" : "AWoFUu50DTAu_IiLfXx7",
+  "text" : "Alpha Quadrant?",
+  "translations" : {
+    "russian" : "Альфа Квадрант?"
+  },
+  "tokens" : [ {
+    "token" : "alpha",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "quadrant",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4E3CDTAu_IiLfCbJ",
+  "text" : "Alpha 4, overdrive failed!",
+  "translations" : {
+    "russian" : "Альфа 4, двигатель поврежден."
+  },
+  "tokens" : [ {
+    "token" : "alpha",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "4",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "overdrive",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "fail",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUwYEDTAu_IiLfXzK",
+  "text" : "Destination alpha Quadrant.",
+  "translations" : {
+    "russian" : "Место назначения альфа-квадрант."
+  },
+  "tokens" : [ {
+    "token" : "destination",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "destinate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "alpha",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "quadrant",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrg6fNEXFMlzHLLHZ",
   "text" : "This is Alpha Control.",
   "translations" : {
@@ -73,7 +147,86 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDtcelDTAu_IiLeOdE",
+  "text" : "Alpha Team, flank left!",
+  "translations" : {
+    "russian" : "Первый взвод, левый фланг!"
+  },
+  "tokens" : [ {
+    "token" : "alpha",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "team",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "flank",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "left",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrg5wNEXFMlzHLLHY",
+  "text" : "This is Alpha Control.",
+  "translations" : {
+    "russian" : "Говорит Центр управления."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "alpha",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "control",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFV1STDTAu_IiLfYiQ",
+  "text" : "Ghost Alpha Kilo.",
+  "translations" : {
+    "russian" : "Призрак Альфа Кило."
+  },
+  "tokens" : [ {
+    "token" : "ghost",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "alpha",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "kilo",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdEg7DTAu_IiLfeN5",
   "text" : "This is Alpha Control.",
   "translations" : {
     "russian" : "Говорит Центр управления."
@@ -129,117 +282,143 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvi2JNEXFMlzHLRI1",
-  "text" : "Deck 6, Section 28-Alpha.",
+  "id" : "AWoFUwMRDTAu_IiLfXy9",
+  "text" : "We're in Alpha Quadrant.",
   "translations" : {
-    "russian" : "Палуба 6, секция 28-альфа."
+    "russian" : "Она состоится в квадрате Альфа."
   },
   "tokens" : [ {
-    "token" : "deck",
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "alpha",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "quadrant",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdEdQDTAu_IiLfeN2",
+  "text" : "This is Alpha Control.",
+  "translations" : {
+    "russian" : "Говорит центр управления Альфа."
+  },
+  "tokens" : [ {
+    "token" : "this",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "ck",
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "alpha",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "control",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdEf8DTAu_IiLfeN4",
+  "text" : "This is Alpha Control.",
+  "translations" : {
+    "russian" : "Говорит Центр управления."
+  },
+  "tokens" : [ {
+    "token" : "this",
     "startOffset" : 0,
     "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "alpha",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "control",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdEkGDTAu_IiLfeN8",
+  "text" : "Hello, Alpha Control.",
+  "translations" : {
+    "russian" : "Вызываю центр управления Альфа."
+  },
+  "tokens" : [ {
+    "token" : "hello",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "alpha",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "control",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESwwFDTAu_IiLenSO",
+  "text" : "Alpha 6 ejected in time.",
+  "translations" : {
+    "russian" : "Альфа 6 вовремя катапультировался."
+  },
+  "tokens" : [ {
+    "token" : "alpha",
+    "startOffset" : 0,
+    "endOffset" : 5,
     "position" : 0
   }, {
     "token" : "6",
-    "startOffset" : 5,
-    "endOffset" : 6,
+    "startOffset" : 6,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "section",
+    "token" : "eject",
     "startOffset" : 8,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "28",
+    "token" : "in",
     "startOffset" : 16,
     "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "alpha",
+    "token" : "time",
     "startOffset" : 19,
-    "endOffset" : 24,
+    "endOffset" : 23,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrg9bNEXFMlzHLLHe",
-  "text" : "White House, this is Alpha Control.",
-  "translations" : {
-    "russian" : "Белый Дом, это Центр Управления Альфа."
-  },
-  "tokens" : [ {
-    "token" : "white",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "house",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "alpha",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "control",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrg7ONEXFMlzHLLHa",
-  "text" : "Alpha Control, this is Jupiter 2!",
-  "translations" : {
-    "russian" : "Центр управления Альфа! Это Юпитер 2!"
-  },
-  "tokens" : [ {
-    "token" : "alpha",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "control",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "jupiter",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "2",
-    "startOffset" : 31,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

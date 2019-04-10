@@ -1,37 +1,4 @@
 [ {
-  "id" : "AWbgv0HgNEXFMlzHLRcx",
-  "text" : "What's that on the propeller?",
-  "translations" : {
-    "russian" : "Что это на гребном винте?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "propeller",
-    "startOffset" : 19,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgvz5WNEXFMlzHLRcj",
   "text" : "With little propellers that spin.",
   "translations" : {
@@ -61,6 +28,39 @@
     "token" : "spin",
     "startOffset" : 28,
     "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgv0HgNEXFMlzHLRcx",
+  "text" : "What's that on the propeller?",
+  "translations" : {
+    "russian" : "Что это на гребном винте?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "propeller",
+    "startOffset" : 19,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null

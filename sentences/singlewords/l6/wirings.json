@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoE3E13DTAu_IiLfBwB",
+  "text" : "Exposed wiring, unlicensed subcontractor.",
+  "translations" : {
+    "russian" : "Открытая проводка, субподрядчик без лицензии."
+  },
+  "tokens" : [ {
+    "token" : "exposed",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "expos",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wiring",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "licensed",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "subcontractor",
+    "startOffset" : 27,
+    "endOffset" : 40,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqYSINEXFMlzHLJkZ",
   "text" : "The transmission, the wiring system.",
   "translations" : {
@@ -29,6 +62,82 @@
     "startOffset" : 29,
     "endOffset" : 35,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdlfGDTAu_IiLfel4",
+  "text" : "I rearranged the wiring configuration.",
+  "translations" : {
+    "russian" : "Я изменил конфигурацию проводов."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "arranged",
+    "startOffset" : 2,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "wiring",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "configuration",
+    "startOffset" : 24,
+    "endOffset" : 37,
+    "position" : 4
+  }, {
+    "token" : "figuration",
+    "startOffset" : 24,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEm2LMDTAu_IiLe2M6",
+  "text" : "Rickety staircases, faulty wiring, gay poltergeists.",
+  "translations" : {
+    "russian" : "Шаткие лестницы, неисправная проводка, призраки-геи."
+  },
+  "tokens" : [ {
+    "token" : "rickety",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "staircase",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "faulty",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "wiring",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "gay",
+    "startOffset" : 35,
+    "endOffset" : 38,
+    "position" : 4
+  }, {
+    "token" : "poltergeist",
+    "startOffset" : 39,
+    "endOffset" : 51,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

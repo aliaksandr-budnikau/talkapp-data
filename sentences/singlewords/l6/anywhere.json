@@ -1,4 +1,98 @@
 [ {
+  "id" : "AWoEkwIJDTAu_IiLe0p3",
+  "text" : "Valid for anywhere.",
+  "translations" : {
+    "russian" : "Действителен повсюду."
+  },
+  "tokens" : [ {
+    "token" : "valid",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "for",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "anywhere",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDfXsADTAu_IiLeGl_",
+  "text" : "Let's go anywhere, to Barcelona!",
+  "translations" : {
+    "russian" : "Поедем в любое место Барселоны."
+  },
+  "tokens" : [ {
+    "token" : "let",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "go",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "anywhere",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "barcelona",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDy-AYDTAu_IiLeRoO",
+  "text" : "Don't just fling it anywhere.",
+  "translations" : {
+    "russian" : "Не бросай его где попало."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "fling",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "fl",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "anywhere",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfjYJNEXFMlzHK8t-",
   "text" : "The falls aren't going anywhere.",
   "translations" : {
@@ -33,6 +127,110 @@
     "token" : "anywhere",
     "startOffset" : 23,
     "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDyUGiDTAu_IiLeRRP",
+  "text" : "Don't just fling it anywhere.",
+  "translations" : {
+    "russian" : "Не бросай его где попало."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "fling",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "fl",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "anywhere",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEISFRDTAu_IiLefb_",
+  "text" : "It could have occurred anywhere.",
+  "translations" : {
+    "russian" : "Это могло случиться где угодно."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "could",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "occurred",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "anywhere",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDfu-DTAu_IiLfKov",
+  "text" : "I can't find Bluebell anywhere.",
+  "translations" : {
+    "russian" : "Я нигде не могу найти Колокольчика."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "can't",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "find",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bluebell",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "anywhere",
+    "startOffset" : 22,
+    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null
@@ -212,6 +410,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD1JtcDTAu_IiLeSwe",
+  "text" : "They just throw their purse anywhere.",
+  "translations" : {
+    "russian" : "Они просто разбрасывают свои сумки где попало."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "throw",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "their",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "purse",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "anywhere",
+    "startOffset" : 28,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdo18NEXFMlzHK7Cj",
   "text" : "Yeah, just throw that stuff anywhere.",
   "translations" : {
@@ -250,6 +486,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEj1huDTAu_IiLez_Z",
+  "text" : "You could be a janitor anywhere.",
+  "translations" : {
+    "russian" : "Ты мог быть уборщиком где угодно."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "could",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "janitor",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "anywhere",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgp5qCNEXFMlzHLI6B",
   "text" : "You see any running shoes anywhere?",
   "translations" : {
@@ -284,82 +558,6 @@
     "token" : "anywhere",
     "startOffset" : 26,
     "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw-m-NEXFMlzHLSue",
-  "text" : "I don't want to fly anywhere.",
-  "translations" : {
-    "russian" : "Я не хочу лететь никуда."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "don't",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "want",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "fly",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 4
-  }, {
-    "token" : "anywhere",
-    "startOffset" : 20,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxfCnNEXFMlzHLTUW",
-  "text" : "You don't take the train anywhere.",
-  "translations" : {
-    "russian" : "Ты не ездишь никуда на поездах."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "don't",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "take",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "train",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "anywhere",
-    "startOffset" : 25,
-    "endOffset" : 33,
     "position" : 5
   } ],
   "contentScore" : null

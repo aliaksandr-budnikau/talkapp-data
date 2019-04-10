@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoD9uiSDTAu_IiLeXcp",
+  "text" : "Top priority.",
+  "translations" : {
+    "russian" : "Высший приоритет."
+  },
+  "tokens" : [ {
+    "token" : "top",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "priority",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxaqrNEXFMlzHLTN1",
   "text" : "Standby for priority.",
   "translations" : {
@@ -18,6 +36,108 @@
     "token" : "priority",
     "startOffset" : 12,
     "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaYj3DTAu_IiLfcIg",
+  "text" : "Outriders top priority.",
+  "translations" : {
+    "russian" : "Эскорт высшего приоритета."
+  },
+  "tokens" : [ {
+    "token" : "outrider",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "top",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "priority",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9upIDTAu_IiLeXcu",
+  "text" : "That's your top priority.",
+  "translations" : {
+    "russian" : "Это высший приоритет."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "top",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "priority",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9ujRDTAu_IiLeXcq",
+  "text" : "This is top priority.",
+  "translations" : {
+    "russian" : "Это высший приоритет!"
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "top",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "priority",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9urFDTAu_IiLeXcv",
+  "text" : "Outriders top priority.",
+  "translations" : {
+    "russian" : "Эскорт высшего приоритета."
+  },
+  "tokens" : [ {
+    "token" : "outrider",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "top",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "priority",
+    "startOffset" : 14,
+    "endOffset" : 22,
     "position" : 2
   } ],
   "contentScore" : null
@@ -52,6 +172,219 @@
     "startOffset" : 28,
     "endOffset" : 36,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDVK7DTAu_IiLfKhJ",
+  "text" : "Sometimes other priorities assert themselves.",
+  "translations" : {
+    "russian" : "Иногда о себе заявляют другие приоритеты."
+  },
+  "tokens" : [ {
+    "token" : "sometime",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "other",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "priority",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "assert",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "themselves",
+    "startOffset" : 34,
+    "endOffset" : 44,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9uW0DTAu_IiLeXcg",
+  "text" : "Your top priority is soup.",
+  "translations" : {
+    "russian" : "А для тебя самое главное суп."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "top",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "priority",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "soup",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFDTaWDTAu_IiLfKf6",
+  "text" : "Sometimes other priorities assert themselves.",
+  "translations" : {
+    "russian" : "Иногда о себе заявляют другие приоритеты."
+  },
+  "tokens" : [ {
+    "token" : "sometime",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "other",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "priority",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "assert",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "themselves",
+    "startOffset" : 34,
+    "endOffset" : 44,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBletDTAu_IiLfJO0",
+  "text" : "Shade's my only priority now.",
+  "translations" : {
+    "russian" : "Сейчас меня заботит только Шэйд."
+  },
+  "tokens" : [ {
+    "token" : "shade",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "only",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "priority",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "now",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9uhUDTAu_IiLeXco",
+  "text" : "Emergency order from Control, top priority.",
+  "translations" : {
+    "russian" : "Чрезвычайный приказ от Контроля, высший приоритет."
+  },
+  "tokens" : [ {
+    "token" : "emergency",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "order",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "from",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "control",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "top",
+    "startOffset" : 30,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "priority",
+    "startOffset" : 34,
+    "endOffset" : 42,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFh70qDTAu_IiLfhfw",
+  "text" : "Fortifications at Suribachi are the priority.",
+  "translations" : {
+    "russian" : "Самое главное - укрепления на Сурибати."
+  },
+  "tokens" : [ {
+    "token" : "fortification",
+    "startOffset" : 0,
+    "endOffset" : 14,
+    "position" : 0
+  }, {
+    "token" : "at",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "suribachi",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 32,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "priority",
+    "startOffset" : 36,
+    "endOffset" : 44,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {

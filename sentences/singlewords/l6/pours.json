@@ -1,5 +1,61 @@
 [ {
+  "id" : "AWoDciXhDTAu_IiLeE_R",
+  "text" : "Pour the Flask.",
+  "translations" : {
+    "russian" : "Выливай флягу."
+  },
+  "tokens" : [ {
+    "token" : "pour",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "flask",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeEEmNEXFMlzHK7aQ",
+  "text" : "Fans pour onto the field.",
+  "translations" : {
+    "russian" : "На поле высыпали болельщики."
+  },
+  "tokens" : [ {
+    "token" : "fan",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "pour",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "onto",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "field",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_E6wDTAu_IiLeYdV",
   "text" : "Fans pour onto the field.",
   "translations" : {
     "russian" : "На поле высыпали болельщики."
@@ -104,6 +160,82 @@
     "token" : "myself",
     "startOffset" : 28,
     "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD33UbDTAu_IiLeUAP",
+  "text" : "He poured it into the flowerpot?",
+  "translations" : {
+    "russian" : "Он вылил его в цветочный горшок?"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "pour",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "into",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "flowerpot",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeIK6DTAu_IiLevcl",
+  "text" : "Pour your sorrow on my bosom.",
+  "translations" : {
+    "russian" : "Не держите печаль в себе."
+  },
+  "tokens" : [ {
+    "token" : "pour",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "sorrow",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "my",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "bosom",
+    "startOffset" : 23,
+    "endOffset" : 28,
     "position" : 5
   } ],
   "contentScore" : null

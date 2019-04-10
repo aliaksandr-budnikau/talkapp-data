@@ -1,0 +1,77 @@
+[ {
+  "id" : "AWoEWU0tDTAu_IiLeqBF",
+  "text" : "Expired lots, diluted samples.",
+  "translations" : {
+    "russian" : "Много просроченных, разбавленных образцов."
+  },
+  "tokens" : [ {
+    "token" : "expired",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "expire",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "lot",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "diluted",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "dilute",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "sample",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWVGiDTAu_IiLeqBS",
+  "text" : "I'm diluting it out with saline.",
+  "translations" : {
+    "russian" : "Я разбавлю его солевым раствором."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dilute",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "out",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "with",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "saline",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

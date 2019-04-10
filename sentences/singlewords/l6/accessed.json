@@ -1,4 +1,45 @@
 [ {
+  "id" : "AWoEL8I5DTAu_IiLeiNt",
+  "text" : "Access forbidden.",
+  "translations" : {
+    "russian" : "Проезд запрещён."
+  },
+  "tokens" : [ {
+    "token" : "access",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "forbidden",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDf-Z1DTAu_IiLeG8q",
+  "text" : "Brags about access.",
+  "translations" : {
+    "russian" : "Хвалится доступом."
+  },
+  "tokens" : [ {
+    "token" : "brag",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "about",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "access",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgp1ipNEXFMlzHLI0R",
   "text" : "Didn't have any access.",
   "translations" : {
@@ -24,6 +65,62 @@
     "startOffset" : 16,
     "endOffset" : 22,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESDtsDTAu_IiLemwL",
+  "text" : "Accessing science fiction.",
+  "translations" : {
+    "russian" : "Научная фантастика."
+  },
+  "tokens" : [ {
+    "token" : "access",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "science",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "fiction",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGITjDTAu_IiLfMhM",
+  "text" : "Access to Baal's own chamber.",
+  "translations" : {
+    "russian" : "Доступ к собственным покоям Баала."
+  },
+  "tokens" : [ {
+    "token" : "access",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "baal",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "own",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "chamber",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -61,6 +158,72 @@
     "token" : "point",
     "startOffset" : 23,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE69ADDTAu_IiLfERf",
+  "text" : "Our clientele demands constant access.",
+  "translations" : {
+    "russian" : "Наша клиентура нуждается в постоянном доступе."
+  },
+  "tokens" : [ {
+    "token" : "our",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "clientele",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "demand",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "constant",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "access",
+    "startOffset" : 31,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUUe6DTAu_IiLfXfM",
+  "text" : "To access the company directory.",
+  "translations" : {
+    "russian" : "Для доступа к каталогу компании. Ого."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "access",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "company",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "directory",
+    "startOffset" : 22,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null
@@ -136,6 +299,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD1m1BDTAu_IiLeS9k",
+  "text" : "He had access to the flask.",
+  "translations" : {
+    "russian" : "У него был доступ к фляжке."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "access",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "flask",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvj8lNEXFMlzHLRLO",
   "text" : "And the pipes have access hatches.",
   "translations" : {
@@ -174,6 +375,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEovnlDTAu_IiLe3qd",
+  "text" : "Repeat, do not access the disk.",
+  "translations" : {
+    "russian" : "Повторяю, не пытайтесь получить доступ к диску."
+  },
+  "tokens" : [ {
+    "token" : "repeat",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "do",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "access",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "disk",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyMXRNEXFMlzHLUdf",
   "text" : "You're gonna need an access pass.",
   "translations" : {
@@ -208,6 +447,44 @@
     "token" : "pass",
     "startOffset" : 28,
     "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNbZPDTAu_IiLfSQJ",
+  "text" : "Someone cut off our interface access.",
+  "translations" : {
+    "russian" : "Кто-то отключил нас от интерфейса."
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "cut",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "off",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "our",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "interface",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "access",
+    "startOffset" : 30,
+    "endOffset" : 36,
     "position" : 5
   } ],
   "contentScore" : null

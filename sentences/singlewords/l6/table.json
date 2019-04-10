@@ -1,4 +1,121 @@
 [ {
+  "id" : "AWoFKHRCDTAu_IiLfPvr",
+  "text" : "This table is exquisite.",
+  "translations" : {
+    "russian" : "До чего изысканный стол."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "table",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "t",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "exquisite",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBBmqDTAu_IiLeZ9K",
+  "text" : "Table vise, ta...",
+  "translations" : {
+    "russian" : "Тиски, ти..."
+  },
+  "tokens" : [ {
+    "token" : "table",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "t",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "vise",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ta",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYVmVDTAu_IiLerc9",
+  "text" : "Mr. Cravat's table.",
+  "translations" : {
+    "russian" : "Столик мистера Кравэта."
+  },
+  "tokens" : [ {
+    "token" : "mr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "cravat",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "table",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "t",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEBBw7DTAu_IiLeZ9P",
+  "text" : "Table vise, ta...",
+  "translations" : {
+    "russian" : "Тиски, ти..."
+  },
+  "tokens" : [ {
+    "token" : "table",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "t",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "vise",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ta",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvFY9NEXFMlzHLQYo",
   "text" : "Check for table three.",
   "translations" : {
@@ -66,6 +183,82 @@
     "token" : "please",
     "startOffset" : 22,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEK9xxDTAu_IiLeha-",
+  "text" : "Let's just topple the table.",
+  "translations" : {
+    "russian" : "Давай просто опрокинем стол."
+  },
+  "tokens" : [ {
+    "token" : "let",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "topple",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "table",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "t",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuZmJDTAu_IiLe7mG",
+  "text" : "And table lamps were negotiable.",
+  "translations" : {
+    "russian" : "Настольные лампы были договорными."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "table",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "t",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "lamp",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "were",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "negotiable",
+    "startOffset" : 21,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null
@@ -146,6 +339,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEfxx6DTAu_IiLewvv",
+  "text" : "The launcher's off the table.",
+  "translations" : {
+    "russian" : "Пусковые установки у нас не в планах."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "launcher",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "off",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "table",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "t",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggGKYNEXFMlzHK9K_",
   "text" : "The six times table too.",
   "translations" : {
@@ -222,6 +453,82 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDpmwzDTAu_IiLeMNq",
+  "text" : "It's like a billiard table.",
+  "translations" : {
+    "russian" : "Гладкая, как бильярдный стол."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "like",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "billiard",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "table",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "t",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIMIRDTAu_IiLefX_",
+  "text" : "A kitchen table isn't clutter.",
+  "translations" : {
+    "russian" : "Обеденный стол это не хлам."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "kitchen",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "table",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "t",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "isn't",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "clutter",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggHKmNEXFMlzHK9L4",
   "text" : "No comics at the table.",
   "translations" : {
@@ -259,179 +566,4 @@
     "position" : 4
   } ],
   "contentScore" : null
-}, {
-  "id" : "AWbgzHDwNEXFMlzHLVyV",
-  "text" : "On your dining room table.",
-  "translations" : {
-    "russian" : "На твоем обеденном столе."
-  },
-  "tokens" : [ {
-    "token" : "on",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "din",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "room",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "table",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "t",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzHBFNEXFMlzHLVyO",
-  "text" : "The fireplace, our dining table.",
-  "translations" : {
-    "russian" : "Камин, обеденный стол..."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "fireplace",
-    "startOffset" : 4,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "our",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "din",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "table",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "t",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcOYFNEXFMlzHK50u",
-  "text" : "To your festive tables.",
-  "translations" : {
-    "russian" : "К твоим праздничным столам."
-  },
-  "tokens" : [ {
-    "token" : "to",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "festive",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "fest",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "table",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggF1oNEXFMlzHK9Kt",
-  "text" : "We better clear these tables.",
-  "translations" : {
-    "russian" : "Нам лучше убрать эти столы."
-  },
-  "tokens" : [ {
-    "token" : "we",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "better",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "clear",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "these",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "table",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggFtlNEXFMlzHK9Kl",
-  "text" : "Refrigerator, closet, seat, table.",
-  "translations" : {
-    "russian" : "Рефрижератор, шкаф, сидение, стол."
-  },
-  "tokens" : [ {
-    "token" : "refrigerator",
-    "startOffset" : 0,
-    "endOffset" : 12,
-    "position" : 0
-  }, {
-    "token" : "closet",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 1
-  }, {
-    "token" : "seat",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 2
-  }, {
-    "token" : "table",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 3
-  }, {
-    "token" : "t",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 3
-  } ],
-  "contentScore" : "POOR"
 } ]

@@ -55,6 +55,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgv8OkNEXFMlzHLRqo",
+  "text" : "My Navigator, Tom.",
+  "translations" : {
+    "russian" : "Мой Навигатор, Том."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "navigator",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tom",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgv8frNEXFMlzHLRq1",
   "text" : "Except my other navigators.",
   "translations" : {
@@ -80,29 +103,6 @@
     "startOffset" : 16,
     "endOffset" : 26,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv8OkNEXFMlzHLRqo",
-  "text" : "My Navigator, Tom.",
-  "translations" : {
-    "russian" : "Мой Навигатор, Том."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "navigator",
-    "startOffset" : 3,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "tom",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -352,6 +352,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgv8xANEXFMlzHLRrB",
+  "text" : "William Adams, the navigator, is dead.",
+  "translations" : {
+    "russian" : "Уильям Адамс, мореплаватель, умер."
+  },
+  "tokens" : [ {
+    "token" : "william",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "adam",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "navigator",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "is",
+    "startOffset" : 30,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "dead",
+    "startOffset" : 33,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgv8EzNEXFMlzHLRqi",
   "text" : "Damn the Guild and their navigators.",
   "translations" : {
@@ -424,44 +462,6 @@
     "token" : "navigator",
     "startOffset" : 18,
     "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv8xANEXFMlzHLRrB",
-  "text" : "William Adams, the navigator, is dead.",
-  "translations" : {
-    "russian" : "Уильям Адамс, мореплаватель, умер."
-  },
-  "tokens" : [ {
-    "token" : "william",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "adam",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "navigator",
-    "startOffset" : 19,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "is",
-    "startOffset" : 30,
-    "endOffset" : 32,
-    "position" : 4
-  }, {
-    "token" : "dead",
-    "startOffset" : 33,
-    "endOffset" : 37,
     "position" : 5
   } ],
   "contentScore" : null

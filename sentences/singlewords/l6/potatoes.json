@@ -27,6 +27,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEhU8PDTAu_IiLex9f",
+  "text" : "And mushrooms and potatoes...",
+  "translations" : {
+    "russian" : "С грибками, с помидорчиками..."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "mushroom",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "potatoes",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnPU7NEXFMlzHLFIJ",
   "text" : "Now start peeling potatoes.",
   "translations" : {
@@ -205,6 +233,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEVCvJDTAu_IiLepDF",
+  "text" : "Potatoes, odd scrap of meat.",
+  "translations" : {
+    "russian" : "Картошку, какой-то кусок мяса."
+  },
+  "tokens" : [ {
+    "token" : "potatoes",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "odd",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "scrap",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "meat",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrTWsNEXFMlzHLKze",
   "text" : "No one touches my potatoes.",
   "translations" : {
@@ -234,6 +295,72 @@
     "token" : "potatoes",
     "startOffset" : 18,
     "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEc5uaDTAu_IiLeuhL",
+  "text" : "Roast beef rare, potatoes brown...",
+  "translations" : {
+    "russian" : "Ростбиф и картофель."
+  },
+  "tokens" : [ {
+    "token" : "roast",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "beef",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "rare",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "potatoes",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "brown",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFep4DDTAu_IiLffW3",
+  "text" : "This hallway smells like potatoes.",
+  "translations" : {
+    "russian" : "В коридоре пахнет картошкой."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hallway",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "smell",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "like",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "potatoes",
+    "startOffset" : 25,
+    "endOffset" : 33,
     "position" : 4
   } ],
   "contentScore" : null
@@ -372,77 +499,6 @@
     "startOffset" : 28,
     "endOffset" : 36,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrTj3NEXFMlzHLKzw",
-  "text" : "Okay, Patrick, load the potatoes!",
-  "translations" : {
-    "russian" : "Так, Патрик, заряжай картошку!"
-  },
-  "tokens" : [ {
-    "token" : "okay",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "patrick",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "load",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "potatoes",
-    "startOffset" : 24,
-    "endOffset" : 32,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrTpeNEXFMlzHLKz4",
-  "text" : "The meat and potatoes of geology.",
-  "translations" : {
-    "russian" : "Мясо и картофель геологии."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "meat",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "potatoes",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "of",
-    "startOffset" : 22,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "geology",
-    "startOffset" : 25,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

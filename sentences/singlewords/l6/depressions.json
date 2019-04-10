@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDWNwTDTAu_IiLeBk9",
+  "text" : "Third, anticyclones and depressions.",
+  "translations" : {
+    "russian" : "Третий, циклоны и антициклоны."
+  },
+  "tokens" : [ {
+    "token" : "third",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "anticyclone",
+    "startOffset" : 7,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "depression",
+    "startOffset" : 24,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgukm7NEXFMlzHLPXh",
   "text" : "Denial, depression, acceptance.",
   "translations" : {
@@ -107,6 +135,39 @@
     "token" : "yes",
     "startOffset" : 20,
     "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9eFFDTAu_IiLeXP-",
+  "text" : "Manic depression, 42 percent probability.",
+  "translations" : {
+    "russian" : "Маниакальной депрессии 42 вероятностью."
+  },
+  "tokens" : [ {
+    "token" : "manic",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "depression",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "42",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "percent",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "probability",
+    "startOffset" : 29,
+    "endOffset" : 40,
     "position" : 4
   } ],
   "contentScore" : null

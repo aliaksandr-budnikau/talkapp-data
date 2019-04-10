@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoEAUhiDTAu_IiLeZaa",
+  "text" : "Sum Smith's wage.",
+  "translations" : {
+    "russian" : "Стоимостью зарплата кузнеца."
+  },
+  "tokens" : [ {
+    "token" : "sum",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "smith",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "wage",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvKA8NEXFMlzHLQiV",
   "text" : "Custom 38, Smith Wesson.",
   "translations" : {
@@ -24,6 +47,143 @@
     "startOffset" : 17,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-MZHDTAu_IiLeXzT",
+  "text" : "Nicholas Smith, perfect vicar.",
+  "translations" : {
+    "russian" : "Николас Смит, идеальнь й падре."
+  },
+  "tokens" : [ {
+    "token" : "nicholas",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "smith",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "perfect",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "vicar",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8i6ADTAu_IiLeWik",
+  "text" : "A verbal flourish, Mr. Smith.",
+  "translations" : {
+    "russian" : "Словесное украшение, м-р Смит."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "verbal",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "flourish",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "mr",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "smith",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD6lVjDTAu_IiLeVOk",
+  "text" : "Initiate total deactivation, Mr Smith.",
+  "translations" : {
+    "russian" : "Начинайте общую деактивацию, мистер Смит."
+  },
+  "tokens" : [ {
+    "token" : "initiate",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "total",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "activation",
+    "startOffset" : 15,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "activate",
+    "startOffset" : 15,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "mr",
+    "startOffset" : 29,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "smith",
+    "startOffset" : 32,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExWcRDTAu_IiLe9wP",
+  "text" : "Smith and Brown sophisticated ancestry !",
+  "translations" : {
+    "russian" : "Смит и Браун замысловатая этимология."
+  },
+  "tokens" : [ {
+    "token" : "smith",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "brown",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "sophisticated",
+    "startOffset" : 16,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "sophisticate",
+    "startOffset" : 16,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "ancestry",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

@@ -1,0 +1,57 @@
+[ {
+  "id" : "AWoFhp8HDTAu_IiLfhVg",
+  "text" : "Accounts payable.",
+  "translations" : {
+    "russian" : "Счета к оплате."
+  },
+  "tokens" : [ {
+    "token" : "account",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "payable",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "pay",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhqAPDTAu_IiLfhVi",
+  "text" : "Payable upon delivery.",
+  "translations" : {
+    "russian" : "Оплата после доставки."
+  },
+  "tokens" : [ {
+    "token" : "payable",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "pay",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "upon",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "delivery",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "livery",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

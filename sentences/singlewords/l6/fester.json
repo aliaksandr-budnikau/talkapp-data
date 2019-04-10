@@ -1,135 +1,383 @@
 [ {
-  "id" : "AWbgcONVNEXFMlzHK50k",
-  "text" : "Well, isn't this festive?",
+  "id" : "AWoE38VTDTAu_IiLfCVM",
+  "text" : "Fester.",
   "translations" : {
-    "russian" : "Ну разве здесь не празднично?"
+    "russian" : "Фестер."
   },
   "tokens" : [ {
-    "token" : "well",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "isn't",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "festive",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "fest",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcO6hNEXFMlzHK51N",
-  "text" : "Well, that was festive.",
-  "translations" : {
-    "russian" : "Ну, это было весело."
-  },
-  "tokens" : [ {
-    "token" : "well",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "was",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "festive",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "fest",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcOdONEXFMlzHK50z",
-  "text" : "Sounds, uh, festive.",
-  "translations" : {
-    "russian" : "Звучит, эм, празднично."
-  },
-  "tokens" : [ {
-    "token" : "sounds",
+    "token" : "fester",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "uh",
-    "startOffset" : 8,
+    "token" : "fest",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE38YeDTAu_IiLfCVP",
+  "text" : "Fester.",
+  "translations" : {
+    "russian" : "Фестер."
+  },
+  "tokens" : [ {
+    "token" : "fester",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fest",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE38pxDTAu_IiLfCVb",
+  "text" : "Fester Addams.",
+  "translations" : {
+    "russian" : "Фестера Аддамса."
+  },
+  "tokens" : [ {
+    "token" : "fester",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fest",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "addams",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE38gvDTAu_IiLfCVV",
+  "text" : "For Fester!",
+  "translations" : {
+    "russian" : "За Фестера!"
+  },
+  "tokens" : [ {
+    "token" : "for",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "fester",
+    "startOffset" : 4,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "festive",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
+    "token" : "fest",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE38d2DTAu_IiLfCVT",
+  "text" : "Fester adores Gomez.",
+  "translations" : {
+    "russian" : "Но Фестер обожает Гомеса."
+  },
+  "tokens" : [ {
+    "token" : "fester",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
   }, {
     "token" : "fest",
-    "startOffset" : 12,
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "adore",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "gomez",
+    "startOffset" : 14,
     "endOffset" : 19,
     "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcOYFNEXFMlzHK50u",
-  "text" : "To your festive tables.",
+  "id" : "AWoE38idDTAu_IiLfCVW",
+  "text" : "For Fester, a brother.",
   "translations" : {
-    "russian" : "К твоим праздничным столам."
+    "russian" : "За Фестера, твоего брата!"
   },
   "tokens" : [ {
-    "token" : "to",
+    "token" : "for",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "your",
-    "startOffset" : 3,
-    "endOffset" : 7,
+    "token" : "fester",
+    "startOffset" : 4,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "festive",
-    "startOffset" : 8,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
     "token" : "fest",
-    "startOffset" : 8,
-    "endOffset" : 15,
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 12,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "table",
-    "startOffset" : 16,
-    "endOffset" : 22,
+    "token" : "brother",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "broth",
+    "startOffset" : 14,
+    "endOffset" : 21,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcOhnNEXFMlzHK503",
-  "text" : "The attire is festive cocktail!",
+  "id" : "AWoE38oUDTAu_IiLfCVa",
+  "text" : "They're waiting for Fester.",
   "translations" : {
-    "russian" : "Дресс-код - праздничный коктейль!"
+    "russian" : "Они ждут Фестера."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "wait",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "fester",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "fest",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjNhmDTAu_IiLezew",
+  "text" : "Fester, all tribute to thee.",
+  "translations" : {
+    "russian" : "Фестер! Всё в твою честь..."
+  },
+  "tokens" : [ {
+    "token" : "fester",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fest",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "all",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "tribute",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "thee",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE38TmDTAu_IiLfCVK",
+  "text" : "Fester, all tribute to thee.",
+  "translations" : {
+    "russian" : "Фестер! Всё в твою честь..."
+  },
+  "tokens" : [ {
+    "token" : "fester",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fest",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "all",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "tribute",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "thee",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE39SzDTAu_IiLfCVz",
+  "text" : "Festering sores!",
+  "translations" : {
+    "russian" : "Гнойные раны!"
+  },
+  "tokens" : [ {
+    "token" : "fester",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "sore",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3-GGDTAu_IiLfCWS",
+  "text" : "Oozing, festering.",
+  "translations" : {
+    "russian" : "Сочащейся, гноящейся.."
+  },
+  "tokens" : [ {
+    "token" : "ooze",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fester",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE386nDTAu_IiLfCVl",
+  "text" : "It's festering.",
+  "translations" : {
+    "russian" : "Она гноится."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fester",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE39UBDTAu_IiLfCV0",
+  "text" : "Festering boil.",
+  "translations" : {
+    "russian" : "Гнойный нарыв."
+  },
+  "tokens" : [ {
+    "token" : "fester",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "boil",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE38vJDTAu_IiLfCVe",
+  "text" : "They're festering.",
+  "translations" : {
+    "russian" : "Гноится."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "fester",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE385KDTAu_IiLfCVk",
+  "text" : "It's festering a bit.",
+  "translations" : {
+    "russian" : "Немного гноится."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fester",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 15,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "bit",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE388FDTAu_IiLfCVm",
+  "text" : "The wound is festering.",
+  "translations" : {
+    "russian" : "Рана гноится."
   },
   "tokens" : [ {
     "token" : "the",
@@ -137,144 +385,20 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "attire",
+    "token" : "wound",
     "startOffset" : 4,
-    "endOffset" : 10,
+    "endOffset" : 9,
     "position" : 1
   }, {
     "token" : "is",
-    "startOffset" : 11,
-    "endOffset" : 13,
+    "startOffset" : 10,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "festive",
-    "startOffset" : 14,
-    "endOffset" : 21,
+    "token" : "fester",
+    "startOffset" : 13,
+    "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "fest",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "cocktail",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnSlgNEXFMlzHLFM5",
-  "text" : "And at this festive season.",
-  "translations" : {
-    "russian" : "И в праздничное время."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "at",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "festive",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "fest",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "season",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcOLYNEXFMlzHK50i",
-  "text" : "And at this festive season.",
-  "translations" : {
-    "russian" : "И в праздничное время."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "at",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "festive",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "fest",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "season",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgelYQNEXFMlzHK739",
-  "text" : "And at this festive season.",
-  "translations" : {
-    "russian" : "И в праздничное время."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "at",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "this",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "festive",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "fest",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "season",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

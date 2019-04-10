@@ -65,10 +65,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyBBTNEXFMlzHLUF2",
-  "text" : "To point us to Charlotte.",
+  "id" : "AWoDUjuPDTAu_IiLeAlD",
+  "text" : "To analyze!",
   "translations" : {
-    "russian" : "Чтобы навести нас на Шарлотту."
+    "russian" : "Отправьте на экспертизу."
   },
   "tokens" : [ {
     "token" : "to",
@@ -76,141 +76,179 @@
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "point",
+    "token" : "analyze",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-4jHDTAu_IiLeYT7",
+  "text" : "To eternity.",
+  "translations" : {
+    "russian" : "Во веки веков!"
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "eternity",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD39hIDTAu_IiLeUC5",
+  "text" : "To Valenciennes!",
+  "translations" : {
+    "russian" : "В Валансьен!"
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "valenciennes",
+    "startOffset" : 3,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8c5ZDTAu_IiLfFQR",
+  "text" : "To muffle...",
+  "translations" : {
+    "russian" : "Чтобы заглушить..."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "muffle",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDTD_TDTAu_IiLd_nC",
+  "text" : "To Albion!",
+  "translations" : {
+    "russian" : "На Альбион!"
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "albion",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD81eGDTAu_IiLeWxZ",
+  "text" : "To enlist.",
+  "translations" : {
+    "russian" : "Пойти в армию."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "enlist",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_USNDTAu_IiLeYo0",
+  "text" : "To teamwork.",
+  "translations" : {
+    "russian" : "За команду."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "teamwork",
+    "startOffset" : 3,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEd7RcDTAu_IiLevSe",
+  "text" : "To humping.",
+  "translations" : {
+    "russian" : "За секс."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "hump",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEX3s2DTAu_IiLerH-",
+  "text" : "To Galahad.",
+  "translations" : {
+    "russian" : "За Галахада."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "galahad",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1jOIDTAu_IiLfAud",
+  "text" : "To stray.",
+  "translations" : {
+    "russian" : "Сбиться с пути."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "stray",
     "startOffset" : 3,
     "endOffset" : 8,
     "position" : 1
-  }, {
-    "token" : "us",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "charlotte",
-    "startOffset" : 15,
-    "endOffset" : 24,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnQB1NEXFMlzHLFJD",
-  "text" : "Prepare to go to warp.",
+  "id" : "AWoDUQPfDTAu_IiLeAYp",
+  "text" : "To analyze!",
   "translations" : {
-    "russian" : "Приготовьтесь перейти в варп."
-  },
-  "tokens" : [ {
-    "token" : "prepare",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "go",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "warp",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglUb4NEXFMlzHLCU5",
-  "text" : "Please to walk to guard station.",
-  "translations" : {
-    "russian" : "Следуй к пункту охраны."
-  },
-  "tokens" : [ {
-    "token" : "please",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "walk",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "guard",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "station",
-    "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmxE0NEXFMlzHLEdE",
-  "text" : "Uh, saucepans to get back to?",
-  "translations" : {
-    "russian" : "Тебе не нужно обратно к кастрюлям?"
-  },
-  "tokens" : [ {
-    "token" : "uh",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "saucepan",
-    "startOffset" : 4,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "get",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "back",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "to",
-    "startOffset" : 26,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdPDcNEXFMlzHK6u-",
-  "text" : "To that flames to play it?",
-  "translations" : {
-    "russian" : "Что значит исполнять?"
+    "russian" : "Отправьте на экспертизу."
   },
   "tokens" : [ {
     "token" : "to",
@@ -218,37 +256,17 @@
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "that",
+    "token" : "analyze",
     "startOffset" : 3,
-    "endOffset" : 7,
+    "endOffset" : 10,
     "position" : 1
-  }, {
-    "token" : "flame",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "play",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "it",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvnXFNEXFMlzHLRSi",
-  "text" : "To love her and to hold.",
+  "id" : "AWoD8d33DTAu_IiLeWei",
+  "text" : "To Hungary.",
   "translations" : {
-    "russian" : "Любить и обладать..."
+    "russian" : "В Венгрию."
   },
   "tokens" : [ {
     "token" : "to",
@@ -256,329 +274,46 @@
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "love",
+    "token" : "hungary",
     "startOffset" : 3,
-    "endOffset" : 7,
+    "endOffset" : 10,
     "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-4W6DTAu_IiLeYTz",
+  "text" : "To eternity.",
+  "translations" : {
+    "russian" : "Во веки веков!"
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
   }, {
-    "token" : "her",
-    "startOffset" : 8,
+    "token" : "eternity",
+    "startOffset" : 3,
     "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "to",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 4
-  }, {
-    "token" : "hold",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 5
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqVXbNEXFMlzHLJgU",
-  "text" : "Please to walk to guard station.",
+  "id" : "AWoD_UDjDTAu_IiLeYom",
+  "text" : "To teamwork.",
   "translations" : {
-    "russian" : "Следуй к пункту охраны."
+    "russian" : "Команда."
   },
   "tokens" : [ {
-    "token" : "please",
+    "token" : "to",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "to",
-    "startOffset" : 7,
-    "endOffset" : 9,
+    "token" : "teamwork",
+    "startOffset" : 3,
+    "endOffset" : 11,
     "position" : 1
-  }, {
-    "token" : "walk",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "guard",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "station",
-    "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrZXlNEXFMlzHLK8M",
-  "text" : "Want to go to the cinema?",
-  "translations" : {
-    "russian" : "Пойдешь со мной в кино?"
-  },
-  "tokens" : [ {
-    "token" : "want",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "go",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 4
-  }, {
-    "token" : "cinema",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghraLNEXFMlzHK-jG",
-  "text" : "Hero to some, villain to others?",
-  "translations" : {
-    "russian" : "Героем для одних и злодеем для других?"
-  },
-  "tokens" : [ {
-    "token" : "hero",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "some",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "villain",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "to",
-    "startOffset" : 22,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "other",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgttVFNEXFMlzHLN0q",
-  "text" : "Want us to starve to death?",
-  "translations" : {
-    "russian" : "Хочешь, чтобы мы умерли от голода?"
-  },
-  "tokens" : [ {
-    "token" : "want",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "us",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "starve",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "to",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "death",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvVjgNEXFMlzHLQs6",
-  "text" : "Last to rise, first to worry.",
-  "translations" : {
-    "russian" : "Кто поздно встает, тому Бог НЕ подает."
-  },
-  "tokens" : [ {
-    "token" : "last",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "rise",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "first",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "to",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "worry",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyeBsNEXFMlzHLU47",
-  "text" : "Just started to learn to ride.",
-  "translations" : {
-    "russian" : "Она берет уроки верховой езды."
-  },
-  "tokens" : [ {
-    "token" : "just",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "start",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "learn",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "to",
-    "startOffset" : 22,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "ride",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt6OmNEXFMlzHLOI9",
-  "text" : "I need to go to class.",
-  "translations" : {
-    "russian" : "Мне пора на урок."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "need",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "go",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 3
-  }, {
-    "token" : "to",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 4
-  }, {
-    "token" : "class",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgayYQNEXFMlzHK4iM",
-  "text" : "Sorry to bother you.",
-  "translations" : {
-    "russian" : "Извините, что я вам докучаю."
-  },
-  "tokens" : [ {
-    "token" : "sorry",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "bother",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "both",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "you",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,124 @@
 [ {
+  "id" : "AWoEefvXDTAu_IiLevuw",
+  "text" : "Queen Clarion!",
+  "translations" : {
+    "russian" : "Королева Клэрион!"
+  },
+  "tokens" : [ {
+    "token" : "queen",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "clarion",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeftKDTAu_IiLevuu",
+  "text" : "Queen Clarion.",
+  "translations" : {
+    "russian" : "Королева Клэрион."
+  },
+  "tokens" : [ {
+    "token" : "queen",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "clarion",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEChEeDTAu_IiLebHi",
+  "text" : "Slain by his queen.",
+  "translations" : {
+    "russian" : "Убит его королевой."
+  },
+  "tokens" : [ {
+    "token" : "slain",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "by",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "queen",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4_vhDTAu_IiLfDAy",
+  "text" : "PAWN TO QUEEN'S FOUR!",
+  "translations" : {
+    "russian" : "Как? Пешка на королева-четыре !"
+  },
+  "tokens" : [ {
+    "token" : "pawn",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "queen",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "four",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7B6XDTAu_IiLfEU3",
+  "text" : "Pawn to Queen's four!",
+  "translations" : {
+    "russian" : "Как? Пешка на королева-четыре !"
+  },
+  "tokens" : [ {
+    "token" : "pawn",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "queen",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "four",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgb9WuNEXFMlzHK5lW",
   "text" : "Patty's own queen cakes.",
   "translations" : {
@@ -52,6 +172,85 @@
     "startOffset" : 15,
     "endOffset" : 21,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoXAoDTAu_IiLe3YO",
+  "text" : "Queen, diplomat, white knight.",
+  "translations" : {
+    "russian" : "Королева, дипломат, светлый рыцарь."
+  },
+  "tokens" : [ {
+    "token" : "queen",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "diplomat",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "white",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "knight",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3EiEDTAu_IiLfBvv",
+  "text" : "Don't jilt a queen.",
+  "translations" : {
+    "russian" : "Не бросайте королеву."
+  },
+  "tokens" : [ {
+    "token" : "don't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "jilt",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "queen",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE7CBMDTAu_IiLfEU7",
+  "text" : "Pawns jump queen.",
+  "translations" : {
+    "russian" : "Пешка берет Королеву!"
+  },
+  "tokens" : [ {
+    "token" : "pawn",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "jump",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "queen",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -111,10 +310,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoRSPNEXFMlzHLGqE",
-  "text" : "Queen of Hearts, that's me.",
+  "id" : "AWoEefuJDTAu_IiLevuv",
+  "text" : "Queen Clarion, Your Illustriousness!",
   "translations" : {
-    "russian" : "Дама червей это я."
+    "russian" : "Королева Клэрион, сиятельнейшая!"
   },
   "tokens" : [ {
     "token" : "queen",
@@ -122,276 +321,109 @@
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "of",
+    "token" : "clarion",
     "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "heart",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "that",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "me",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsVpDNEXFMlzHLMTR",
-  "text" : "Beauty queens eat baby food.",
-  "translations" : {
-    "russian" : "Только королевы красоты кушают детское питание."
-  },
-  "tokens" : [ {
-    "token" : "beauty",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "queen",
-    "startOffset" : 7,
     "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "eat",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "baby",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "food",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcQDRNEXFMlzHK52S",
-  "text" : "Beauty queens eat baby food.",
-  "translations" : {
-    "russian" : "Только королевы красоты кушают детское питание."
-  },
-  "tokens" : [ {
-    "token" : "beauty",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "queen",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "eat",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "baby",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "food",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj6JkNEXFMlzHLAaV",
-  "text" : "Leonard Levitt, Ozone Park, Queens.",
-  "translations" : {
-    "russian" : "Леонард Левитт, Озон Парк, Квинс."
-  },
-  "tokens" : [ {
-    "token" : "leonard",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "levitt",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "ozone",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "park",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "queen",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcwXDNEXFMlzHK6TU",
-  "text" : "They're duller than the Queen's jubilee.",
-  "translations" : {
-    "russian" : "Они более унылые, чем гости на юбилее королевы."
-  },
-  "tokens" : [ {
-    "token" : "they're",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "dull",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "than",
+    "token" : "your",
     "startOffset" : 15,
     "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "the",
+    "token" : "illustriousness",
     "startOffset" : 20,
-    "endOffset" : 23,
+    "endOffset" : 35,
     "position" : 3
   }, {
-    "token" : "queen",
-    "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "jubilee",
-    "startOffset" : 32,
-    "endOffset" : 39,
-    "position" : 5
+    "token" : "illustrious",
+    "startOffset" : 20,
+    "endOffset" : 35,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgn1oXNEXFMlzHLGHK",
-  "text" : "Queens, hierarchy and no Brooklyn wannabes.",
+  "id" : "AWoE7B4qDTAu_IiLfEU2",
+  "text" : "PAWN TO QUEEN'S FOUR!",
   "translations" : {
-    "russian" : "Королевам, иерархии, и чтобы никаких Бруклинских выскочек."
+    "russian" : "Как? Пешка на королева-четыре !"
   },
   "tokens" : [ {
-    "token" : "queen",
+    "token" : "pawn",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "hierarchy",
+    "token" : "to",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "queen",
     "startOffset" : 8,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 18,
-    "endOffset" : 21,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "no",
-    "startOffset" : 22,
-    "endOffset" : 24,
+    "token" : "four",
+    "startOffset" : 16,
+    "endOffset" : 20,
     "position" : 3
-  }, {
-    "token" : "brooklyn",
-    "startOffset" : 25,
-    "endOffset" : 33,
-    "position" : 4
-  }, {
-    "token" : "wannabe",
-    "startOffset" : 34,
-    "endOffset" : 42,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgekcMNEXFMlzHK73I",
-  "text" : "From season two of Queen Bee.",
+  "id" : "AWoEgI0SDTAu_IiLexBg",
+  "text" : "Rook to Queen's Bishop.",
   "translations" : {
-    "russian" : "Из второго сезона Королевы конкурса."
+    "russian" : "Ладья взяла слона ферзя."
   },
   "tokens" : [ {
-    "token" : "from",
+    "token" : "rook",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "season",
+    "token" : "to",
     "startOffset" : 5,
-    "endOffset" : 11,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "two",
-    "startOffset" : 12,
+    "token" : "queen",
+    "startOffset" : 8,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "of",
+    "token" : "bishop",
     "startOffset" : 16,
-    "endOffset" : 18,
+    "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "queen",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "bee",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnSFSNEXFMlzHLFME",
-  "text" : "From season two of Queen Bee.",
+  "id" : "AWoEcqauDTAu_IiLeuWe",
+  "text" : "The Queen of Putrescence.",
   "translations" : {
-    "russian" : "Из второго сезона Королевы конкурса."
+    "russian" : "Фу."
   },
   "tokens" : [ {
-    "token" : "from",
+    "token" : "the",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "season",
-    "startOffset" : 5,
-    "endOffset" : 11,
+    "token" : "queen",
+    "startOffset" : 4,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "two",
-    "startOffset" : 12,
-    "endOffset" : 15,
+    "token" : "of",
+    "startOffset" : 10,
+    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "of",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "queen",
-    "startOffset" : 19,
+    "token" : "putrescence",
+    "startOffset" : 13,
     "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "bee",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 5
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

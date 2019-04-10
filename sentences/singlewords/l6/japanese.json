@@ -1,4 +1,83 @@
 [ {
+  "id" : "AWoDg38ADTAu_IiLeHd5",
+  "text" : "Tony speaks fluent Japanese.",
+  "translations" : {
+    "russian" : "Тони бегло говорит на японском."
+  },
+  "tokens" : [ {
+    "token" : "tony",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "speak",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fluent",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "japanese",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZOc4DTAu_IiLesD9",
+  "text" : "Japanese Hey Han...",
+  "translations" : {
+    "russian" : "Эй, Хэн."
+  },
+  "tokens" : [ {
+    "token" : "japanese",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "hey",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "han",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEr7NuDTAu_IiLe57c",
+  "text" : "Not my Japanese weevils!",
+  "translations" : {
+    "russian" : "Только не японских долгоносиков!"
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "japanese",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "weevil",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgt4C6NEXFMlzHLOFT",
   "text" : "No, she's a Japanese citizen.",
   "translations" : {
@@ -28,6 +107,39 @@
     "token" : "citizen",
     "startOffset" : 21,
     "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFV3vODTAu_IiLfYj8",
+  "text" : "Do they wear Japanese kimonos?",
+  "translations" : {
+    "russian" : "А кимоно они носят?"
+  },
+  "tokens" : [ {
+    "token" : "do",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "they",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "wear",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "japanese",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "kimono",
+    "startOffset" : 22,
+    "endOffset" : 29,
     "position" : 4
   } ],
   "contentScore" : null
@@ -66,6 +178,110 @@
     "token" : "pack",
     "startOffset" : 30,
     "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdxNgDTAu_IiLeFqb",
+  "text" : "These are real Japanese banknotes.",
+  "translations" : {
+    "russian" : "Это настоящие японские банкноты."
+  },
+  "tokens" : [ {
+    "token" : "these",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "real",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "japanese",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "banknote",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEk8L6DTAu_IiLe0yl",
+  "text" : "I recited a Japanese poem.",
+  "translations" : {
+    "russian" : "Я декламировала японское стихотворение."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "cite",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "japanese",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "poem",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMuBDDTAu_IiLfRu7",
+  "text" : "Okay, you're defending Japanese internment?",
+  "translations" : {
+    "russian" : "Окей, ты защищаешь японских интернированных?"
+  },
+  "tokens" : [ {
+    "token" : "okay",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you're",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "fend",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "japanese",
+    "startOffset" : 23,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "internment",
+    "startOffset" : 32,
+    "endOffset" : 42,
+    "position" : 4
+  }, {
+    "token" : "intern",
+    "startOffset" : 32,
+    "endOffset" : 42,
     "position" : 4
   } ],
   "contentScore" : null
@@ -133,6 +349,148 @@
     "startOffset" : 26,
     "endOffset" : 29,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVbklDTAu_IiLfYQ3",
+  "text" : "I study Japanese and pottery.",
+  "translations" : {
+    "russian" : "Я изучаю японский и гончарное дело."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "study",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "japanese",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "pottery",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEk_OEDTAu_IiLe001",
+  "text" : "I recited a Japanese poem.",
+  "translations" : {
+    "russian" : "Я декламировала японское стихотворение."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "cite",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "japanese",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "poem",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDal3xDTAu_IiLeD3Z",
+  "text" : "COPRODUCED BY SOZOSHA AND JAPANESE ATG.",
+  "translations" : {
+    "russian" : "Совместное производство Содзёся и Японского СТА."
+  },
+  "tokens" : [ {
+    "token" : "coproduced",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "by",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "sozosha",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "japanese",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "atg",
+    "startOffset" : 35,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFiYFTDTAu_IiLfhxO",
+  "text" : "You sawed off little Japanese cretin.",
+  "translations" : {
+    "russian" : "Ты долбаный маленький японский кретин."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "saw",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "off",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "little",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "japanese",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "cretin",
+    "startOffset" : 30,
+    "endOffset" : 36,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

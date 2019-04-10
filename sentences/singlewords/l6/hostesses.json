@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoE-k8SDTAu_IiLfG3w",
+  "text" : "Occupation, hostess.",
+  "translations" : {
+    "russian" : "Работала хостесс."
+  },
+  "tokens" : [ {
+    "token" : "occupation",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "hostess",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqgOCNEXFMlzHLJvN",
   "text" : "The hostess, treat bone?",
   "translations" : {
@@ -335,6 +353,44 @@
     "token" : "hostess",
     "startOffset" : 19,
     "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgbIiDTAu_IiLeHNP",
+  "text" : "Aren't we an attentive little hostess?",
+  "translations" : {
+    "russian" : "Какая ты заботливая хозяюшка."
+  },
+  "tokens" : [ {
+    "token" : "aren't",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "we",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "attentive",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "little",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "hostess",
+    "startOffset" : 30,
+    "endOffset" : 37,
     "position" : 5
   } ],
   "contentScore" : null

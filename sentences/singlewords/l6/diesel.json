@@ -1,4 +1,45 @@
 [ {
+  "id" : "AWoFeLiSDTAu_IiLffAy",
+  "text" : "Diesel fumes.",
+  "translations" : {
+    "russian" : "Выхлопы."
+  },
+  "tokens" : [ {
+    "token" : "diesel",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fume",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeLYvDTAu_IiLffAp",
+  "text" : "No diesel fumes.",
+  "translations" : {
+    "russian" : "Никаких дизельных выхлопов."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "diesel",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "fume",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkaG4NEXFMlzHLA-P",
   "text" : "Our car uses diesel.",
   "translations" : {

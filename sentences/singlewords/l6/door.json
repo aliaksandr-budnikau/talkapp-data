@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoD2aoJDTAu_IiLeTU_",
+  "text" : "Door rattles.",
+  "translations" : {
+    "russian" : "Дверь гремит."
+  },
+  "tokens" : [ {
+    "token" : "door",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "rattle",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZVmzDTAu_IiLeDEp",
+  "text" : "Reinforced doors.",
+  "translations" : {
+    "russian" : "Укрепленные двери."
+  },
+  "tokens" : [ {
+    "token" : "reinforced",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "reinforce",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "doors",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "door",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkmDXNEXFMlzHLBLM",
   "text" : "One door in, one door out.",
   "translations" : {
@@ -202,6 +248,72 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDZUgvDTAu_IiLeDD5",
+  "text" : "Reinforced steel, iron doors.",
+  "translations" : {
+    "russian" : "Усиленная сталь, железные двери."
+  },
+  "tokens" : [ {
+    "token" : "reinforced",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "reinforce",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "steel",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "iron",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "doors",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "door",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8RC_DTAu_IiLfFIn",
+  "text" : "Well, shut the door.",
+  "translations" : {
+    "russian" : "Так закрой дверь."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "shut",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "door",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgf7aPNEXFMlzHK9Bg",
   "text" : "Out the back door.",
   "translations" : {
@@ -352,138 +464,36 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgr_YnNEXFMlzHLLz7",
-  "text" : "Still watching the door.",
+  "id" : "AWoDZVcXDTAu_IiLeDEh",
+  "text" : "Backup doors reinforced.",
   "translations" : {
-    "russian" : "Все еще наблюдает за дверью."
+    "russian" : "Запасные двери укреплены..."
   },
   "tokens" : [ {
-    "token" : "still",
+    "token" : "backup",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "watch",
-    "startOffset" : 6,
-    "endOffset" : 14,
+    "token" : "doors",
+    "startOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
     "token" : "door",
-    "startOffset" : 19,
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "reinforced",
+    "startOffset" : 13,
     "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy5FCNEXFMlzHLVVw",
-  "text" : "Through the door!",
-  "translations" : {
-    "russian" : "Через дверь!"
-  },
-  "tokens" : [ {
-    "token" : "through",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "door",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgflf7NEXFMlzHK8v5",
-  "text" : "Through the door!",
-  "translations" : {
-    "russian" : "Через дверь!"
-  },
-  "tokens" : [ {
-    "token" : "through",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "door",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoTyXNEXFMlzHLGt3",
-  "text" : "Open the damn door.",
-  "translations" : {
-    "russian" : "Открой эту чертову дверь."
-  },
-  "tokens" : [ {
-    "token" : "open",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "op",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "damn",
-    "startOffset" : 9,
-    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "door",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwIIsNEXFMlzHLR4r",
-  "text" : "Suspects approaching front door.",
-  "translations" : {
-    "russian" : "Подозреваемые у главного входа."
-  },
-  "tokens" : [ {
-    "token" : "suspect",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "approach",
-    "startOffset" : 9,
-    "endOffset" : 20,
-    "position" : 1
-  }, {
-    "token" : "front",
-    "startOffset" : 21,
-    "endOffset" : 26,
+    "token" : "reinforce",
+    "startOffset" : 13,
+    "endOffset" : 23,
     "position" : 2
-  }, {
-    "token" : "door",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

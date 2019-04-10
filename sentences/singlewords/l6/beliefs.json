@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEKZeeDTAu_IiLeg-X",
+  "text" : "Belief comes with imagination.",
+  "translations" : {
+    "russian" : "Вера приходит с воображением."
+  },
+  "tokens" : [ {
+    "token" : "belief",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "comes",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "come",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "imagination",
+    "startOffset" : 18,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguWSdNEXFMlzHLO69",
   "text" : "Yes, his bigoted beliefs!",
   "translations" : {
@@ -62,6 +95,44 @@
     "startOffset" : 20,
     "endOffset" : 27,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyxWjDTAu_IiLe-y5",
+  "text" : "She espoused these beliefs, as well?",
+  "translations" : {
+    "russian" : "Она тоже поддерживала эти убеждения?"
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "espouse",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "these",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "belief",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "as",
+    "startOffset" : 28,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "well",
+    "startOffset" : 31,
+    "endOffset" : 35,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

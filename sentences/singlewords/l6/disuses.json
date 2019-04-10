@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoD_UUKDTAu_IiLeYo2",
+  "text" : "Use teamwork!",
+  "translations" : {
+    "russian" : "Дружно, как одна команда!"
+  },
+  "tokens" : [ {
+    "token" : "use",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "teamwork",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfz6MDTAu_IiLewxR",
+  "text" : "Use grenades.",
+  "translations" : {
+    "russian" : "Возьми гранаты."
+  },
+  "tokens" : [ {
+    "token" : "use",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "grenade",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjIHSNEXFMlzHK_ww",
   "text" : "Use your skills, use it well!",
   "translations" : {
@@ -37,6 +73,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE8kHHDTAu_IiLfFU4",
+  "text" : "Use that finger, use that snap.",
+  "translations" : {
+    "russian" : "Да, работай руками и щёлкай пальцами."
+  },
+  "tokens" : [ {
+    "token" : "use",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "finger",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "use",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "that",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "snap",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglZ_zNEXFMlzHLCe1",
   "text" : "They use colorful backpacks.",
   "translations" : {
@@ -65,109 +139,94 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmEwuNEXFMlzHLDQz",
-  "text" : "Use the emergency number.",
+  "id" : "AWoDYLjIDTAu_IiLeCbS",
+  "text" : "It's no use arguing.",
   "translations" : {
-    "russian" : "Набери номер экстренного вызова."
+    "russian" : "Не будем даже обсуждать. Не нравится, что она полноприводная?"
   },
   "tokens" : [ {
-    "token" : "use",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 4,
+    "token" : "no",
+    "startOffset" : 5,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "emergency",
+    "token" : "use",
     "startOffset" : 8,
-    "endOffset" : 17,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "number",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "numb",
-    "startOffset" : 18,
-    "endOffset" : 24,
+    "token" : "argue",
+    "startOffset" : 12,
+    "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmGNINEXFMlzHLDTQ",
-  "text" : "Never use the brakes.",
+  "id" : "AWoDiujKDTAu_IiLeIij",
+  "text" : "Potters use a...",
   "translations" : {
-    "russian" : "Никогда не пользоваться тормозами."
+    "russian" : "Гончары используют..."
   },
   "tokens" : [ {
-    "token" : "never",
+    "token" : "potter",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 7,
     "position" : 0
   }, {
     "token" : "use",
-    "startOffset" : 6,
-    "endOffset" : 9,
+    "startOffset" : 8,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 10,
+    "token" : "a",
+    "startOffset" : 12,
     "endOffset" : 13,
     "position" : 2
-  }, {
-    "token" : "brake",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvey-NEXFMlzHLRAP",
-  "text" : "Madison used cabin 9.",
+  "id" : "AWoEBfE-DTAu_IiLeaTV",
+  "text" : "Accusing is no use.",
   "translations" : {
-    "russian" : "Мэдисон пользовалась домиком 9."
+    "russian" : "Обвинения бесполезны."
   },
   "tokens" : [ {
-    "token" : "madison",
+    "token" : "accusing",
     "startOffset" : 0,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "used",
-    "startOffset" : 8,
-    "endOffset" : 12,
+    "token" : "accuse",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "use",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "us",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "cabin",
-    "startOffset" : 13,
-    "endOffset" : 18,
+    "token" : "no",
+    "startOffset" : 12,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "9",
-    "startOffset" : 19,
-    "endOffset" : 20,
+    "token" : "use",
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgviB9NEXFMlzHLRHA",
-  "text" : "I never use elevators.",
+  "id" : "AWoEBzZADTAu_IiLeajL",
+  "text" : "I use the swirl.",
   "translations" : {
-    "russian" : "Я никогда не езжу на лифте."
+    "russian" : "Я использую вращение."
   },
   "tokens" : [ {
     "token" : "i",
@@ -175,309 +234,167 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "never",
+    "token" : "use",
     "startOffset" : 2,
-    "endOffset" : 7,
+    "endOffset" : 5,
     "position" : 1
   }, {
-    "token" : "use",
-    "startOffset" : 8,
-    "endOffset" : 11,
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
     "position" : 2
   }, {
-    "token" : "elevator",
-    "startOffset" : 12,
-    "endOffset" : 21,
+    "token" : "swirl",
+    "startOffset" : 10,
+    "endOffset" : 15,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkaG4NEXFMlzHLA-P",
-  "text" : "Our car uses diesel.",
+  "id" : "AWoD1P95DTAu_IiLeSzW",
+  "text" : "Using our imagination, rebelling?",
   "translations" : {
-    "russian" : "Наша машина использует дизель."
+    "russian" : "Что мы дали волю воображению? Восстали?"
   },
   "tokens" : [ {
+    "token" : "use",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "us",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
     "token" : "our",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "imagination",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "belling",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQsMlDTAu_IiLelwg",
+  "text" : "Use the clutch.",
+  "translations" : {
+    "russian" : "Используй сцепление."
+  },
+  "tokens" : [ {
+    "token" : "use",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "car",
+    "token" : "the",
     "startOffset" : 4,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "use",
+    "token" : "clutch",
     "startOffset" : 8,
-    "endOffset" : 12,
+    "endOffset" : 14,
     "position" : 2
-  }, {
-    "token" : "us",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "diesel",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmbOoNEXFMlzHLD3l",
-  "text" : "Luke, use the fork.",
+  "id" : "AWoEZjN8DTAu_IiLesR3",
+  "text" : "They use harpoons, firearms.",
   "translations" : {
-    "russian" : "Люк, используй вилку."
+    "russian" : "Они используют гарпуны, огнестрельное оружие."
   },
   "tokens" : [ {
-    "token" : "luke",
+    "token" : "they",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "use",
-    "startOffset" : 6,
-    "endOffset" : 9,
+    "startOffset" : 5,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
+    "token" : "harpoon",
+    "startOffset" : 9,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "fork",
-    "startOffset" : 14,
-    "endOffset" : 18,
+    "token" : "firearm",
+    "startOffset" : 19,
+    "endOffset" : 27,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpN8PNEXFMlzHLH-k",
-  "text" : "First they use men.",
+  "id" : "AWoEfzpGDTAu_IiLewxE",
+  "text" : "Use the rocket launcher!",
   "translations" : {
-    "russian" : "Then get rid of them like old ragsИспользуют мужчин, чтобы потом выбросить их, как ненужную ветошь!"
+    "russian" : "Пусти ракету."
   },
   "tokens" : [ {
-    "token" : "first",
+    "token" : "use",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "they",
-    "startOffset" : 6,
-    "endOffset" : 10,
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "use",
-    "startOffset" : 11,
+    "token" : "rocket",
+    "startOffset" : 8,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "men",
+    "token" : "launcher",
     "startOffset" : 15,
-    "endOffset" : 18,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgle17NEXFMlzHLCnV",
-  "text" : "We must use leverage.",
+  "id" : "AWoEzeggDTAu_IiLe_Sv",
+  "text" : "I'll use the Colt.",
   "translations" : {
-    "russian" : "Сделаем рычаг."
+    "russian" : "Будешь пользоваться кольтом."
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "i'll",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "must",
-    "startOffset" : 3,
-    "endOffset" : 7,
+    "token" : "use",
+    "startOffset" : 5,
+    "endOffset" : 8,
     "position" : 1
-  }, {
-    "token" : "use",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "leverage",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguzhqNEXFMlzHLP0W",
-  "text" : "Why use a drone?",
-  "translations" : {
-    "russian" : "Зачем использовать беспилотный самолет?"
-  },
-  "tokens" : [ {
-    "token" : "why",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "use",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "drone",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglGIINEXFMlzHLB7S",
-  "text" : "Use the emergency number.",
-  "translations" : {
-    "russian" : "Набери номер экстренного вызова."
-  },
-  "tokens" : [ {
-    "token" : "use",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
   }, {
     "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "emergency",
-    "startOffset" : 8,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "number",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "numb",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxXfVNEXFMlzHLTKm",
-  "text" : "Use the sonic screwdriver.",
-  "translations" : {
-    "russian" : "Используй звуковую отвёртку."
-  },
-  "tokens" : [ {
-    "token" : "use",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "sonic",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "screwdriver",
-    "startOffset" : 14,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj3xINEXFMlzHLAYd",
-  "text" : "We're using argon and nitrogen.",
-  "translations" : {
-    "russian" : "Мы используем аргон и азот."
-  },
-  "tokens" : [ {
-    "token" : "we're",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "use",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "us",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "argon",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "nitrogen",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgle9ANEXFMlzHLCne",
-  "text" : "You're using it as leverage.",
-  "translations" : {
-    "russian" : "Ты используешь её, как рычаг."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "use",
-    "startOffset" : 7,
+    "startOffset" : 9,
     "endOffset" : 12,
-    "position" : 1
+    "position" : 2
   }, {
-    "token" : "us",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "it",
+    "token" : "colt",
     "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "as",
-    "startOffset" : 16,
-    "endOffset" : 18,
+    "endOffset" : 17,
     "position" : 3
-  }, {
-    "token" : "leverage",
-    "startOffset" : 19,
-    "endOffset" : 27,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvnskNEXFMlzHLRTQ",
-  "text" : "Use communicators instead of intercom.",
+  "id" : "AWoE-ymADTAu_IiLfHDD",
+  "text" : "Use your clout.",
   "translations" : {
-    "russian" : "Используйте коммуникаторы вместо интеркома."
+    "russian" : "Используй связи."
   },
   "tokens" : [ {
     "token" : "use",
@@ -485,25 +402,53 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "communicator",
+    "token" : "your",
     "startOffset" : 4,
-    "endOffset" : 17,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "instead",
-    "startOffset" : 18,
-    "endOffset" : 25,
+    "token" : "clout",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBjfyDTAu_IiLfJNU",
+  "text" : "She used 26 shades.",
+  "translations" : {
+    "russian" : "Она использовала 26 оттенков."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "used",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "use",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "us",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "26",
+    "startOffset" : 9,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "of",
-    "startOffset" : 26,
-    "endOffset" : 28,
+    "token" : "shade",
+    "startOffset" : 12,
+    "endOffset" : 18,
     "position" : 3
-  }, {
-    "token" : "intercom",
-    "startOffset" : 29,
-    "endOffset" : 37,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

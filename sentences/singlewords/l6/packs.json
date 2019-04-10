@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoDcBQlDTAu_IiLeEti",
+  "text" : "Mud packs.",
+  "translations" : {
+    "russian" : "Грязевые повязки."
+  },
+  "tokens" : [ {
+    "token" : "mud",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "packs",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "pack",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhgxsDTAu_IiLfhQJ",
+  "text" : "Dye packs.",
+  "translations" : {
+    "russian" : "Пакеты с краской."
+  },
+  "tokens" : [ {
+    "token" : "dye",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "packs",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "pack",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnwCONEXFMlzHLF-L",
   "text" : "Our packs are buried.",
   "translations" : {
@@ -507,67 +553,6 @@
     "token" : "pack",
     "startOffset" : 9,
     "endOffset" : 13,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnudINEXFMlzHLF7k",
-  "text" : "I'll start packing boxes.",
-  "translations" : {
-    "russian" : "Я начну паковать коробки."
-  },
-  "tokens" : [ {
-    "token" : "i'll",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "start",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "packing",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "pack",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "box",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnueFNEXFMlzHLF7m",
-  "text" : "Pack a bag... fast.",
-  "translations" : {
-    "russian" : "Пакуй вещи... быстро."
-  },
-  "tokens" : [ {
-    "token" : "pack",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "bag",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "fast",
-    "startOffset" : 14,
-    "endOffset" : 18,
     "position" : 3
   } ],
   "contentScore" : null

@@ -1,4 +1,116 @@
 [ {
+  "id" : "AWoDwBEADTAu_IiLeQB3",
+  "text" : "Okay. What's a keg?",
+  "translations" : {
+    "russian" : "Что такое кега?"
+  },
+  "tokens" : [ {
+    "token" : "okay",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "what",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "keg",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEcBxeDTAu_IiLet6-",
+  "text" : "Okay, have a swig.",
+  "translations" : {
+    "russian" : "Ладно, хлебни."
+  },
+  "tokens" : [ {
+    "token" : "okay",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "swig",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEn7xRDTAu_IiLe3Dj",
+  "text" : "Become a nutritionist, okay?",
+  "translations" : {
+    "russian" : "Стань диетологом, понял?"
+  },
+  "tokens" : [ {
+    "token" : "become",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "nutritionist",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "okay",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAmaUDTAu_IiLeZog",
+  "text" : "Okay. You're a perfectionist.",
+  "translations" : {
+    "russian" : "Вы перфекционист."
+  },
+  "tokens" : [ {
+    "token" : "okay",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you're",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "perfectionist",
+    "startOffset" : 15,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgl-hoNEXFMlzHLDGB",
   "text" : "I need a favor, okay?",
   "translations" : {
@@ -65,10 +177,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgw6WbNEXFMlzHLSqH",
-  "text" : "Okay, first, we hire a midget.",
+  "id" : "AWoDZVlZDTAu_IiLeDEo",
+  "text" : "Okay. And a reinforced ceiling.",
   "translations" : {
-    "russian" : "Так, дл начала мы нанимаем карлика."
+    "russian" : "И укреплённый потолок."
   },
   "tokens" : [ {
     "token" : "okay",
@@ -76,37 +188,202 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "first",
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "reinforced",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "reinforce",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "ceiling",
+    "startOffset" : 23,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5c1nDTAu_IiLeUuL",
+  "text" : "Okay, clearly, it's a prank.",
+  "translations" : {
+    "russian" : "Я понял, это шутка."
+  },
+  "tokens" : [ {
+    "token" : "okay",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "clearly",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 20,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "prank",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDvcrNDTAu_IiLePr6",
+  "text" : "It's not a rut, okay?",
+  "translations" : {
+    "russian" : "Это не занудная привычка, ладно?"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "rut",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "okay",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaEDtDTAu_IiLfb3Q",
+  "text" : "Morgan was a comedian, okay?",
+  "translations" : {
+    "russian" : "Морган был комиком, хорошо?"
+  },
+  "tokens" : [ {
+    "token" : "morgan",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "comedian",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "okay",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEs-iQDTAu_IiLe6oM",
+  "text" : "Okay, don't be a dork.",
+  "translations" : {
+    "russian" : "Не будь занудой."
+  },
+  "tokens" : [ {
+    "token" : "okay",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "don't",
     "startOffset" : 6,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "we",
-    "startOffset" : 13,
-    "endOffset" : 15,
+    "token" : "be",
+    "startOffset" : 12,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "hire",
-    "startOffset" : 16,
-    "endOffset" : 20,
+    "token" : "a",
+    "startOffset" : 15,
+    "endOffset" : 16,
     "position" : 3
   }, {
-    "token" : "a",
-    "startOffset" : 21,
-    "endOffset" : 22,
+    "token" : "dork",
+    "startOffset" : 17,
+    "endOffset" : 21,
     "position" : 4
-  }, {
-    "token" : "midget",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgs234NEXFMlzHLM_o",
-  "text" : "Okay, this isn't a social, people.",
+  "id" : "AWoFaDHlDTAu_IiLfb2X",
+  "text" : "It's just a gnat, okay?",
   "translations" : {
-    "russian" : "Ребят, это вам не вечеринка."
+    "russian" : "Это просто комар, ясно?"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "gnat",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "okay",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjgSdDTAu_IiLeztN",
+  "text" : "Okay, I'll have a... a Danish.",
+  "translations" : {
+    "russian" : "Мне.... датское кофе."
   },
   "tokens" : [ {
     "token" : "okay",
@@ -114,57 +391,19 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "this",
+    "token" : "i'll",
     "startOffset" : 6,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "isn't",
+    "token" : "have",
     "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 17,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "social",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "people",
-    "startOffset" : 27,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglKgdNEXFMlzHLCDK",
-  "text" : "Okay, first, we hire a midget.",
-  "translations" : {
-    "russian" : "Так, дл начала мы нанимаем карлика."
-  },
-  "tokens" : [ {
-    "token" : "okay",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "first",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "we",
-    "startOffset" : 13,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "hire",
+    "token" : "a",
     "startOffset" : 16,
-    "endOffset" : 20,
+    "endOffset" : 17,
     "position" : 3
   }, {
     "token" : "a",
@@ -172,9 +411,123 @@
     "endOffset" : 22,
     "position" : 4
   }, {
-    "token" : "midget",
+    "token" : "danish",
     "startOffset" : 23,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUdOxDTAu_IiLfXlf",
+  "text" : "It's okay to vacillate a little.",
+  "translations" : {
+    "russian" : "Проявлять нерешительность это нормально."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "okay",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "vacillate",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 23,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "little",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZFFNDTAu_IiLfbCc",
+  "text" : "It's okay to vacillate a little.",
+  "translations" : {
+    "russian" : "Проявлять нерешительность это нормально."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "okay",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "vacillate",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 23,
+    "endOffset" : 24,
+    "position" : 4
+  }, {
+    "token" : "little",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaMfrDTAu_IiLfb-X",
+  "text" : "Okay, so there is a combination!",
+  "translations" : {
+    "russian" : "Ах, значит, есть кодовый замок!"
+  },
+  "tokens" : [ {
+    "token" : "okay",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "so",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "there",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 18,
+    "endOffset" : 19,
+    "position" : 4
+  }, {
+    "token" : "combination",
+    "startOffset" : 20,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

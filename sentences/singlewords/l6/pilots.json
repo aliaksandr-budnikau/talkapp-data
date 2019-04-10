@@ -131,6 +131,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEVe5tDTAu_IiLepZO",
+  "text" : "We're exposed. PILOT.",
+  "translations" : {
+    "russian" : "Мы открыты."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "exposed",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "expos",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "pilot",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgk8npNEXFMlzHLBp2",
   "text" : "Pucks pilot, act one.",
   "translations" : {
@@ -243,6 +271,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDtESWDTAu_IiLeOOz",
+  "text" : "Highly decorated combat pilot.",
+  "translations" : {
+    "russian" : "Военный пилот, не раз награжденный."
+  },
+  "tokens" : [ {
+    "token" : "high",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "decorated",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "decorate",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "combat",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "pilot",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgrCTDNEXFMlzHLKaS",
   "text" : "Pilot's still on.",
   "translations" : {
@@ -350,140 +411,64 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrCBGNEXFMlzHLKZz",
-  "text" : "I will pilot Unit 01.",
+  "id" : "AWoDtT5eDTAu_IiLeOYJ",
+  "text" : "Highly decorated combat pilot.",
   "translations" : {
-    "russian" : "Я буду пилотировать Еву-01."
+    "russian" : "Военный пилот, не раз награжденный."
   },
   "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "will",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "pilot",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "unit",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "01",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrBqJNEXFMlzHLKZP",
-  "text" : "You're a pilot, aren't you?",
-  "translations" : {
-    "russian" : "Ты же летчик, правда?"
-  },
-  "tokens" : [ {
-    "token" : "you're",
+    "token" : "high",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "a",
+    "token" : "decorated",
     "startOffset" : 7,
-    "endOffset" : 8,
+    "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "pilot",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "aren't",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "you",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrBp6NEXFMlzHLKZO",
-  "text" : "My father was a pilot.",
-  "translations" : {
-    "russian" : "У меня отец был летчик."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "father",
-    "startOffset" : 3,
-    "endOffset" : 9,
+    "token" : "decorate",
+    "startOffset" : 7,
+    "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "was",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "pilot",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrBlRNEXFMlzHLKZI",
-  "text" : "This is a Russian pilot.",
-  "translations" : {
-    "russian" : "Это - русский летчик."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "russian",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "pilot",
-    "startOffset" : 18,
+    "token" : "combat",
+    "startOffset" : 17,
     "endOffset" : 23,
-    "position" : 4
+    "position" : 2
+  }, {
+    "token" : "pilot",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVu_KDTAu_IiLeplc",
+  "text" : "We're exposed. PILOT.",
+  "translations" : {
+    "russian" : "Мы открыты."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "exposed",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "expos",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "pilot",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

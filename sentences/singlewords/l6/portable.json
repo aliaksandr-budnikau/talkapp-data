@@ -27,6 +27,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFFJdaDTAu_IiLfLyv",
+  "text" : "Connoisseur of all things portable.",
+  "translations" : {
+    "russian" : "Я знаток всего что движимо."
+  },
+  "tokens" : [ {
+    "token" : "connoisseur",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "all",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "th",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "portable",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "port",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgroHMNEXFMlzHLLR6",
   "text" : "SVU portable to central K.",
   "translations" : {
@@ -100,6 +138,65 @@
     "startOffset" : 20,
     "endOffset" : 27,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdrpgDTAu_IiLfeqX",
+  "text" : "Conflicting reports.",
+  "translations" : {
+    "russian" : "Противоречивые данные."
+  },
+  "tokens" : [ {
+    "token" : "conflicting",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "conflict",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "port",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMDjMDTAu_IiLfRPd",
+  "text" : "INITIAL REPORT.",
+  "translations" : {
+    "russian" : "Первоначальный доклад."
+  },
+  "tokens" : [ {
+    "token" : "initial",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "port",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUv-XDTAu_IiLfXyu",
+  "text" : "Quadrant report.",
+  "translations" : {
+    "russian" : "Сектора, докладывайте."
+  },
+  "tokens" : [ {
+    "token" : "quadrant",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "port",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
@@ -210,34 +307,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyiF3NEXFMlzHLU8Z",
-  "text" : "Busboys, trash collectors, porters.",
-  "translations" : {
-    "russian" : "Помощники официантов, мусорщики, швейцары."
-  },
-  "tokens" : [ {
-    "token" : "busboy",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "trash",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "collector",
-    "startOffset" : 15,
-    "endOffset" : 25,
-    "position" : 2
-  }, {
-    "token" : "port",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgyhCMNEXFMlzHLU7k",
   "text" : "Call the porter, quick.",
   "translations" : {
@@ -271,204 +340,120 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglkQhNEXFMlzHLCwq",
-  "text" : "No reports for DC.",
+  "id" : "AWbgyiF3NEXFMlzHLU8Z",
+  "text" : "Busboys, trash collectors, porters.",
   "translations" : {
-    "russian" : "Никаких сообщений из Вашингтона."
+    "russian" : "Помощники официантов, мусорщики, швейцары."
   },
   "tokens" : [ {
-    "token" : "no",
+    "token" : "busboy",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "port",
-    "startOffset" : 3,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "dc",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgln4pNEXFMlzHLC19",
-  "text" : "An environmental impact report?",
-  "translations" : {
-    "russian" : "Тчет о вли нии на экологию?"
-  },
-  "tokens" : [ {
-    "token" : "an",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "environmental",
-    "startOffset" : 3,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "impact",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "port",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguD4jNEXFMlzHLOYe",
-  "text" : "Reporting for duty, sir.",
-  "translations" : {
-    "russian" : "Готов к службе, сэр."
-  },
-  "tokens" : [ {
-    "token" : "port",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "duty",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "sir",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyh0DNEXFMlzHLU8J",
-  "text" : "So sorry about porter.",
-  "translations" : {
-    "russian" : "Мне так жаль насчет Портера."
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "sorry",
-    "startOffset" : 3,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "about",
+    "token" : "trash",
     "startOffset" : 9,
     "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "porter",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "port",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglipPNEXFMlzHLCt7",
-  "text" : "An environmental impact report?",
-  "translations" : {
-    "russian" : "Тчет о вли нии на экологию?"
-  },
-  "tokens" : [ {
-    "token" : "an",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "environmental",
-    "startOffset" : 3,
-    "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "impact",
-    "startOffset" : 17,
-    "endOffset" : 23,
+    "token" : "collector",
+    "startOffset" : 15,
+    "endOffset" : 25,
     "position" : 2
   }, {
     "token" : "port",
-    "startOffset" : 24,
-    "endOffset" : 30,
+    "startOffset" : 27,
+    "endOffset" : 34,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgohARNEXFMlzHLHCX",
-  "text" : "She never reported it.",
+  "id" : "AWoEaWNQDTAu_IiLeszq",
+  "text" : "He'd falsified surveyors' reports.",
   "translations" : {
-    "russian" : "Она никогда не сообщала о побоях."
+    "russian" : "Он подделал отчеты топографов."
   },
   "tokens" : [ {
-    "token" : "she",
+    "token" : "he'd",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "never",
-    "startOffset" : 4,
+    "token" : "falsify",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "surveyor",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "port",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeePJDTAu_IiLevto",
+  "text" : "Reporters don't have hormones?",
+  "translations" : {
+    "russian" : "Репорт ров нет гормонов?"
+  },
+  "tokens" : [ {
+    "token" : "port",
+    "startOffset" : 0,
     "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "don't",
+    "startOffset" : 10,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "reported",
-    "startOffset" : 10,
-    "endOffset" : 18,
+    "token" : "have",
+    "startOffset" : 16,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "port",
-    "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 2
+    "token" : "hormone",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnjAbDTAu_IiLe2v6",
+  "text" : "UNIT HQ, Geneva reporting.",
+  "translations" : {
+    "russian" : "Штаб-квартира ЮНИТ, сообщение из Женевы."
+  },
+  "tokens" : [ {
+    "token" : "unit",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
     "token" : "it",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgohPKNEXFMlzHLHCz",
-  "text" : "I'm reporting this.",
-  "translations" : {
-    "russian" : "Я об этом доложу."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "port",
-    "startOffset" : 4,
-    "endOffset" : 13,
+    "token" : "hq",
+    "startOffset" : 5,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "this",
-    "startOffset" : 14,
-    "endOffset" : 18,
+    "token" : "geneva",
+    "startOffset" : 9,
+    "endOffset" : 15,
     "position" : 2
+  }, {
+    "token" : "port",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEWp4VDTAu_IiLeqQX",
+  "text" : "My brushes and canvas.",
+  "translations" : {
+    "russian" : "Мои кисти и холст."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "brush",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "canvas",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmXIWNEXFMlzHLDwo",
   "text" : "Canvas, tarpaulin, something that doesn't stick.",
   "translations" : {
@@ -33,6 +61,44 @@
     "token" : "stick",
     "startOffset" : 42,
     "endOffset" : 47,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXLh0DTAu_IiLfZe6",
+  "text" : "Canvas case, containing scissors, dressings, forceps.",
+  "translations" : {
+    "russian" : "Завернутые в ткань ножницы, перевязочный материал, щипцы."
+  },
+  "tokens" : [ {
+    "token" : "canvas",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "case",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "contain",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "scissor",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "dressing",
+    "startOffset" : 34,
+    "endOffset" : 43,
+    "position" : 4
+  }, {
+    "token" : "forceps",
+    "startOffset" : 45,
+    "endOffset" : 52,
     "position" : 5
   } ],
   "contentScore" : null

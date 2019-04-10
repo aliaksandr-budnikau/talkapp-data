@@ -1,4 +1,58 @@
 [ {
+  "id" : "AWoEIWQcDTAu_IiLefew",
+  "text" : "Child, Arise.",
+  "translations" : {
+    "russian" : "Дитя, встань!"
+  },
+  "tokens" : [ {
+    "token" : "child",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "arise",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnyzFDTAu_IiLe28Y",
+  "text" : "Child prodigy.",
+  "translations" : {
+    "russian" : "Я вундеркинд."
+  },
+  "tokens" : [ {
+    "token" : "child",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "prodigy",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnyqyDTAu_IiLe28S",
+  "text" : "Child prodigy.",
+  "translations" : {
+    "russian" : "Вундеркинд."
+  },
+  "tokens" : [ {
+    "token" : "child",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "prodigy",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcFegNEXFMlzHK5st",
   "text" : "She is my child.",
   "translations" : {
@@ -55,6 +109,95 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEIhzcDTAu_IiLefm8",
+  "text" : "Never contradict a child.",
+  "translations" : {
+    "russian" : "Никогда не надо спорить с ребёнком..."
+  },
+  "tokens" : [ {
+    "token" : "never",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "contradict",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "child",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXX_yDTAu_IiLeqxg",
+  "text" : "Knitting a child's jumper.",
+  "translations" : {
+    "russian" : "Вязанием курточки ребенку."
+  },
+  "tokens" : [ {
+    "token" : "knitting",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 9,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "child",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "jumper",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "jump",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJWZiDTAu_IiLfPIj",
+  "text" : "Coddling your bastard child?",
+  "translations" : {
+    "russian" : "Нянчитесь со своим внебрачным ребенком?"
+  },
+  "tokens" : [ {
+    "token" : "coddle",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "bastard",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "child",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcFkHNEXFMlzHK5sy",
   "text" : "You had a child.",
   "translations" : {
@@ -102,6 +245,29 @@
     "token" : "child",
     "startOffset" : 11,
     "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmjrADTAu_IiLeKpi",
+  "text" : "An ailing child.",
+  "translations" : {
+    "russian" : "Больной ребенок."
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "ail",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "child",
+    "startOffset" : 10,
+    "endOffset" : 15,
     "position" : 2
   } ],
   "contentScore" : null
@@ -185,168 +351,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcFW7NEXFMlzHK5sl",
-  "text" : "She's your child, too.",
+  "id" : "AWoEvRKeDTAu_IiLe8MV",
+  "text" : "A scared, trembling child.",
   "translations" : {
-    "russian" : "Она также и твоя дочь."
-  },
-  "tokens" : [ {
-    "token" : "she",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "your",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "child",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "too",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcFxSNEXFMlzHK5s-",
-  "text" : "Sleep, fair child.",
-  "translations" : {
-    "russian" : "Спи, милый малыш."
-  },
-  "tokens" : [ {
-    "token" : "sleep",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "fair",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "child",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcE5INEXFMlzHK5sJ",
-  "text" : "He'll have another child.",
-  "translations" : {
-    "russian" : "У него ещё будет сын."
-  },
-  "tokens" : [ {
-    "token" : "he'll",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "have",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "another",
-    "startOffset" : 11,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "child",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcF-ANEXFMlzHK5tJ",
-  "text" : "Now get out... child.",
-  "translations" : {
-    "russian" : "Так что убирайся, малыш."
-  },
-  "tokens" : [ {
-    "token" : "now",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "get",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "out",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "child",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcGRhNEXFMlzHK5td",
-  "text" : "Child, what is this?",
-  "translations" : {
-    "russian" : "Малыш, что это?"
-  },
-  "tokens" : [ {
-    "token" : "child",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "what",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "this",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcGArNEXFMlzHK5tM",
-  "text" : "Sit here, child.",
-  "translations" : {
-    "russian" : "Садись сюда, малыш."
-  },
-  "tokens" : [ {
-    "token" : "sit",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "here",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "child",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcFBMNEXFMlzHK5sR",
-  "text" : "A mother raises her child.",
-  "translations" : {
-    "russian" : "Мать воспитывает своего сына."
+    "russian" : "Испуганный, дрожащий ребенок."
   },
   "tokens" : [ {
     "token" : "a",
@@ -354,101 +362,48 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "mother",
+    "token" : "scar",
     "startOffset" : 2,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "moth",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "raise",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "her",
-    "startOffset" : 16,
+    "token" : "tremble",
+    "startOffset" : 10,
     "endOffset" : 19,
-    "position" : 3
+    "position" : 2
   }, {
     "token" : "child",
     "startOffset" : 20,
     "endOffset" : 25,
-    "position" : 4
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgcE2dNEXFMlzHK5sH",
-  "text" : "He's no longer my child.",
+  "id" : "AWoENoR4DTAu_IiLejg7",
+  "text" : "We conceived a child.",
   "translations" : {
-    "russian" : "Он мне больше не сын!"
+    "russian" : "Мы зачали ребенка."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "we",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "no",
-    "startOffset" : 5,
-    "endOffset" : 7,
+    "token" : "conceive",
+    "startOffset" : 3,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "longer",
-    "startOffset" : 8,
+    "token" : "a",
+    "startOffset" : 13,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "long",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "my",
+    "token" : "child",
     "startOffset" : 15,
-    "endOffset" : 17,
+    "endOffset" : 20,
     "position" : 3
-  }, {
-    "token" : "child",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcEZ5NEXFMlzHK5rs",
-  "text" : "Why are you crying, child?",
-  "translations" : {
-    "russian" : "Почему ты плачешь, дитя?"
-  },
-  "tokens" : [ {
-    "token" : "why",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "cry",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "child",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

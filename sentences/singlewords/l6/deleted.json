@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoFMSFSDTAu_IiLfRZk",
+  "text" : "Innuendo, deleted.",
+  "translations" : {
+    "russian" : "Инсинуация уничтожена."
+  },
+  "tokens" : [ {
+    "token" : "innuendo",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "deleted",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "delete",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfqDbNEXFMlzHK8z7",
   "text" : "Hostile elements will be deleted.",
   "translations" : {
@@ -33,6 +56,44 @@
     "token" : "delete",
     "startOffset" : 25,
     "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEETk2DTAu_IiLeciJ",
+  "text" : "I deleted the extraneous subroutines.",
+  "translations" : {
+    "russian" : "Я удалила посторонние подпрограммы."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "deleted",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "delete",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "extraneous",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "subroutine",
+    "startOffset" : 25,
+    "endOffset" : 36,
     "position" : 4
   } ],
   "contentScore" : null

@@ -50,6 +50,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgxTWFNEXFMlzHLTGi",
+  "text" : "Four minutes ahead of schedule.",
+  "translations" : {
+    "russian" : "На 4 минуты лучше, чем по плану. Чёрт, до чего ж я хорош."
+  },
+  "tokens" : [ {
+    "token" : "four",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "minute",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "ahead",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "schedule",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxSjANEXFMlzHLTEy",
   "text" : "We're ahead of schedule, Nick.",
   "translations" : {
@@ -112,39 +145,6 @@
     "token" : "schedule",
     "startOffset" : 18,
     "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxTWFNEXFMlzHLTGi",
-  "text" : "Four minutes ahead of schedule.",
-  "translations" : {
-    "russian" : "На 4 минуты лучше, чем по плану. Чёрт, до чего ж я хорош."
-  },
-  "tokens" : [ {
-    "token" : "four",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "minute",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "ahead",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "schedule",
-    "startOffset" : 22,
-    "endOffset" : 30,
     "position" : 4
   } ],
   "contentScore" : null

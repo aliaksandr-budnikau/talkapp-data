@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDZVmzDTAu_IiLeDEp",
+  "text" : "Reinforced doors.",
+  "translations" : {
+    "russian" : "Укрепленные двери."
+  },
+  "tokens" : [ {
+    "token" : "reinforced",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "reinforce",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "doors",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "door",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvmFTNEXFMlzHLRPu",
   "text" : "These doors should hold.",
   "translations" : {
@@ -28,6 +56,186 @@
     "token" : "hold",
     "startOffset" : 19,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZUgvDTAu_IiLeDD5",
+  "text" : "Reinforced steel, iron doors.",
+  "translations" : {
+    "russian" : "Усиленная сталь, железные двери."
+  },
+  "tokens" : [ {
+    "token" : "reinforced",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "reinforce",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "steel",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "iron",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "doors",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "door",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZVcXDTAu_IiLeDEh",
+  "text" : "Backup doors reinforced.",
+  "translations" : {
+    "russian" : "Запасные двери укреплены..."
+  },
+  "tokens" : [ {
+    "token" : "backup",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "doors",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "door",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "reinforced",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "reinforce",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZUwGDTAu_IiLeDEG",
+  "text" : "Both doors are reinforced.",
+  "translations" : {
+    "russian" : "Обе двери усилены."
+  },
+  "tokens" : [ {
+    "token" : "both",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "doors",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "door",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "reinforced",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "reinforce",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnAsRDTAu_IiLeK5p",
+  "text" : "I confused the doors.",
+  "translations" : {
+    "russian" : "Я перепутала дверь."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "confused",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "fuse",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "doors",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "door",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKs6UDTAu_IiLehNr",
+  "text" : "Doors slamming, yelling, anything.",
+  "translations" : {
+    "russian" : "Хлопки дверью, крики, что угодно."
+  },
+  "tokens" : [ {
+    "token" : "doors",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "door",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "slamming",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "yell",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "anything",
+    "startOffset" : 25,
+    "endOffset" : 33,
     "position" : 3
   } ],
   "contentScore" : null
@@ -62,6 +270,44 @@
     "startOffset" : 20,
     "endOffset" : 29,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFa_k4DTAu_IiLfcoA",
+  "text" : "Perhaps you'd be more comfortable indoors.",
+  "translations" : {
+    "russian" : "Может, тебе будет уютней внутри."
+  },
+  "tokens" : [ {
+    "token" : "perhaps",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "you'd",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "more",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "comfortable",
+    "startOffset" : 22,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "doors",
+    "startOffset" : 34,
+    "endOffset" : 41,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

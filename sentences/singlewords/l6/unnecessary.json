@@ -1,75 +1,379 @@
 [ {
-  "id" : "AWbgyiuJNEXFMlzHLU82",
-  "text" : "For guards, transport, bribes if necessary.",
+  "id" : "AWoEmKYSDTAu_IiLe1sT",
+  "text" : "Not necessary.",
   "translations" : {
-    "russian" : "На охрану, транспорт, взятки, если потребуется."
+    "russian" : "В этом нет никакой необходимости."
   },
   "tokens" : [ {
-    "token" : "for",
+    "token" : "not",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "guard",
+    "token" : "necessary",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmHasDTAu_IiLe1qL",
+  "text" : "Necessary, captain.",
+  "translations" : {
+    "russian" : "Необходимость, капитан."
+  },
+  "tokens" : [ {
+    "token" : "necessary",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "captain",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmJ2lDTAu_IiLe1r5",
+  "text" : "It's necessary.",
+  "translations" : {
+    "russian" : "Это важно."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "necessary",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmG7bDTAu_IiLe1p1",
+  "text" : "It's necessary.",
+  "translations" : {
+    "russian" : "Нам нужен порядок."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "necessary",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmJ1nDTAu_IiLe1r4",
+  "text" : "It's necessary.",
+  "translations" : {
+    "russian" : "Это важно."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "necessary",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESVoSDTAu_IiLem9l",
+  "text" : "That entails necessary risks.",
+  "translations" : {
+    "russian" : "И это влечет за собой необходимые риски."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "entail",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "necessary",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "risk",
+    "startOffset" : 23,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmFzJDTAu_IiLe1pD",
+  "text" : "Are these things necessary?",
+  "translations" : {
+    "russian" : "Это необходимо?"
+  },
+  "tokens" : [ {
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "these",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "th",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "necessary",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmG3CDTAu_IiLe1py",
+  "text" : "No apology necessary.",
+  "translations" : {
+    "russian" : "Извинения не нужны!"
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "apology",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "necessary",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmJASDTAu_IiLe1rR",
+  "text" : "To pay what's necessary.",
+  "translations" : {
+    "russian" : "Заплатить сколько потребуется."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "pay",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "what",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "necessary",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmInnDTAu_IiLe1rA",
+  "text" : "That won't be necessary.",
+  "translations" : {
+    "russian" : "Этого не понадобиться."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "won't",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "necessary",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmIMgDTAu_IiLe1qv",
+  "text" : "Is this necessary?",
+  "translations" : {
+    "russian" : "Это обязательно?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "this",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "necessary",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmH9HDTAu_IiLe1qk",
+  "text" : "Oh, that's not necessary.",
+  "translations" : {
+    "russian" : "Это не обязательно."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "that",
     "startOffset" : 4,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "transport",
-    "startOffset" : 12,
-    "endOffset" : 21,
+    "token" : "not",
+    "startOffset" : 11,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "bribe",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "if",
-    "startOffset" : 30,
-    "endOffset" : 32,
-    "position" : 4
-  }, {
     "token" : "necessary",
-    "startOffset" : 33,
-    "endOffset" : 42,
-    "position" : 5
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbglrF6NEXFMlzHLC3i",
-  "text" : "Unnecessary backstory.",
+  "id" : "AWoEmJXBDTAu_IiLe1rk",
+  "text" : "That is not necessary.",
   "translations" : {
-    "russian" : "Ненужная предыстория."
+    "russian" : "Мне жаль. Это необязательно."
   },
   "tokens" : [ {
-    "token" : "necessary",
+    "token" : "that",
     "startOffset" : 0,
-    "endOffset" : 11,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "backstory",
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "necessary",
     "startOffset" : 12,
     "endOffset" : 21,
-    "position" : 1
+    "position" : 3
   } ],
-  "contentScore" : "POOR"
+  "contentScore" : null
 }, {
-  "id" : "AWbgn4MrNEXFMlzHLGLV",
-  "text" : "Unnecessary backstory.",
+  "id" : "AWoEmJPNDTAu_IiLe1rf",
+  "text" : "No. That's not necessary.",
   "translations" : {
-    "russian" : "Ненужная предыстория."
+    "russian" : "Это необязательно."
   },
   "tokens" : [ {
-    "token" : "necessary",
+    "token" : "no",
     "startOffset" : 0,
-    "endOffset" : 11,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "backstory",
-    "startOffset" : 12,
-    "endOffset" : 21,
+    "token" : "that",
+    "startOffset" : 4,
+    "endOffset" : 10,
     "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "necessary",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 3
   } ],
-  "contentScore" : "POOR"
+  "contentScore" : null
+}, {
+  "id" : "AWoEmJo2DTAu_IiLe1rv",
+  "text" : "This isn't necessary.",
+  "translations" : {
+    "russian" : "И поэтому вовсе не стоило..."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "isn't",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "necessary",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmJk8DTAu_IiLe1rt",
+  "text" : "It's not necessary.",
+  "translations" : {
+    "russian" : "Нет, не стоит."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "necessary",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
 } ]

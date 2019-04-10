@@ -1,0 +1,52 @@
+[ {
+  "id" : "AWoEIJRHDTAu_IiLefWC",
+  "text" : "Tramps and drunk teamsters.",
+  "translations" : {
+    "russian" : "Бродяги и пьяные погонщики."
+  },
+  "tokens" : [ {
+    "token" : "tramp",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "drunk",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "teamster",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIJOrDTAu_IiLefWA",
+  "text" : "We're not teamsters.",
+  "translations" : {
+    "russian" : "Но мы не водители грузовиков."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "teamster",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

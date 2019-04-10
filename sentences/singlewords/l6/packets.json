@@ -1,4 +1,88 @@
 [ {
+  "id" : "AWoEycNLDTAu_IiLe-ji",
+  "text" : "There's a jelly packet.",
+  "translations" : {
+    "russian" : "Коробочка с джемом."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "jelly",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "packet",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfgQLDTAu_IiLewhw",
+  "text" : "Packet of gravel.",
+  "translations" : {
+    "russian" : "Упаковка гравия."
+  },
+  "tokens" : [ {
+    "token" : "packet",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "gravel",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEPmHDTAu_IiLfLK3",
+  "text" : "Do you write cereal packets?",
+  "translations" : {
+    "russian" : "Что этикеток на пакетах со злаками?"
+  },
+  "tokens" : [ {
+    "token" : "do",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "write",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "cereal",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "packet",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgukVENEXFMlzHLPW6",
   "text" : "A large packet of flake white.",
   "translations" : {
@@ -33,6 +117,44 @@
     "token" : "white",
     "startOffset" : 24,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZa7RDTAu_IiLeDH7",
+  "text" : "You had me at flavor packets.",
+  "translations" : {
+    "russian" : "Ты меня приправой взяла."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "had",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "at",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 3
+  }, {
+    "token" : "flavor",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "packet",
+    "startOffset" : 21,
+    "endOffset" : 28,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoFU1dPDTAu_IiLfX2Q",
+  "text" : "Property column.",
+  "translations" : {
+    "russian" : "В рубрике недвижимости."
+  },
+  "tokens" : [ {
+    "token" : "property",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "column",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFeuEuDTAu_IiLffZ9",
+  "text" : "Corinthian columns. Ancient art.",
+  "translations" : {
+    "russian" : "Коринфские колонны это античное искусство."
+  },
+  "tokens" : [ {
+    "token" : "corinthian",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "column",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "ancient",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "art",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgn2lsNEXFMlzHLGIu",
   "text" : "Column of twos, march!",
   "translations" : {
@@ -70,6 +116,34 @@
     "startOffset" : 16,
     "endOffset" : 21,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDaCGNDTAu_IiLeDhU",
+  "text" : "Column with heavy artillery.",
+  "translations" : {
+    "russian" : "Колонны с тяжелой артиллерией."
+  },
+  "tokens" : [ {
+    "token" : "column",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "heavy",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "artillery",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {

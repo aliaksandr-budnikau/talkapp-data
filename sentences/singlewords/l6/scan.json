@@ -1,4 +1,182 @@
 [ {
+  "id" : "AWoD6lJCDTAu_IiLeVOg",
+  "text" : "Intelligence scan - initiate!",
+  "translations" : {
+    "russian" : "Сканирование интеллекта - начать!"
+  },
+  "tokens" : [ {
+    "token" : "intelligence",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "scan",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "initiate",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRTmODTAu_IiLfVQ2",
+  "text" : "You calibrate, I'll scan.",
+  "translations" : {
+    "russian" : "Ты калибруешь, я сканирую."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "calibrate",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "i'll",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "scan",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFRRlgDTAu_IiLfVPR",
+  "text" : "You calibrate, I'll scan.",
+  "translations" : {
+    "russian" : "Ты калибруешь, я сканирую."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "calibrate",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "i'll",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "scan",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEQkSVDTAu_IiLelq2",
+  "text" : "You calibrate, I'll scan.",
+  "translations" : {
+    "russian" : "Ты калибруешь, я сканирую."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "calibrate",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "i'll",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "scan",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFgO5UDTAu_IiLfgdj",
+  "text" : "Nomad, can you scan that?",
+  "translations" : {
+    "russian" : "Номад, можете просканировать?"
+  },
+  "tokens" : [ {
+    "token" : "nomad",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "can",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "scan",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "that",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDW9uxDTAu_IiLeB47",
+  "text" : "Ruth Bennet's scans show appendicitis.",
+  "translations" : {
+    "russian" : "На снимках Руты Беннет аппендицит."
+  },
+  "tokens" : [ {
+    "token" : "ruth",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ru",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "bennet's",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "scan",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "show",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "appendicitis",
+    "startOffset" : 25,
+    "endOffset" : 37,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgp8khNEXFMlzHLI-K",
   "text" : "I've ordered another CT scan.",
   "translations" : {
@@ -75,6 +253,115 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEfGMqDTAu_IiLewMK",
+  "text" : "Preliminary tachyon scans are negative.",
+  "translations" : {
+    "russian" : "Результат предварительного тахионного сканирования отрицательный."
+  },
+  "tokens" : [ {
+    "token" : "preliminary",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "tachyon",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "scan",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "negative",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 4
+  }, {
+    "token" : "negate",
+    "startOffset" : 30,
+    "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIAEADTAu_IiLefPl",
+  "text" : "My C.A.T. scan showed swelling.",
+  "translations" : {
+    "russian" : "Моя томография выявила отек."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "c.a.t",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "scan",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "show",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "swelling",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "swell",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHVDsDTAu_IiLeexu",
+  "text" : "He deliberately withheld the scans.",
+  "translations" : {
+    "russian" : "Он умышленно утаил наличие снимков."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "deliberate",
+    "startOffset" : 3,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "withheld",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "scan",
+    "startOffset" : 29,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgv5uDNEXFMlzHLRok",
   "text" : "I think they scan the ground.",
   "translations" : {
@@ -113,40 +400,154 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmtupNEXFMlzHLEXS",
-  "text" : "Attack range gate on maximum scan.",
+  "id" : "AWoEp_0bDTAu_IiLe4lA",
+  "text" : "The medical scans have proven that.",
   "translations" : {
-    "russian" : "Импульс дальности на максимум."
+    "russian" : "Медсканирование это подтвердило."
   },
   "tokens" : [ {
-    "token" : "attack",
+    "token" : "the",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "range",
-    "startOffset" : 7,
-    "endOffset" : 12,
+    "token" : "medical",
+    "startOffset" : 4,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "gate",
-    "startOffset" : 13,
+    "token" : "scan",
+    "startOffset" : 12,
     "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "on",
+    "token" : "have",
     "startOffset" : 18,
-    "endOffset" : 20,
+    "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "maximum",
-    "startOffset" : 21,
-    "endOffset" : 28,
+    "token" : "proven",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "that",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPH84DTAu_IiLd8_3",
+  "text" : "Zero abnormal activity on any scans.",
+  "translations" : {
+    "russian" : "Нулевая аномальная активность при любом сканировании."
+  },
+  "tokens" : [ {
+    "token" : "zero",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "abnormal",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "activity",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "any",
+    "startOffset" : 26,
+    "endOffset" : 29,
     "position" : 4
   }, {
     "token" : "scan",
-    "startOffset" : 29,
-    "endOffset" : 33,
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDr2NPDTAu_IiLeNgD",
+  "text" : "Scan the vicinity for other vessels.",
+  "translations" : {
+    "russian" : "Просканируйте окрестности - есть ли другие корабли."
+  },
+  "tokens" : [ {
+    "token" : "scan",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "vicinity",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "for",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "other",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "vessel",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUvnfDTAu_IiLfXya",
+  "text" : "Scan northeastern quadrant of base camp.",
+  "translations" : {
+    "russian" : "Проверь северо-восточный сектор."
+  },
+  "tokens" : [ {
+    "token" : "scan",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "northeastern",
+    "startOffset" : 5,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "quadrant",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 27,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "base",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "camp",
+    "startOffset" : 35,
+    "endOffset" : 39,
     "position" : 5
   } ],
   "contentScore" : null

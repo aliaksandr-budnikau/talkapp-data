@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWoDdVcxDTAu_IiLeFbM",
+  "text" : "Bamboo groves, mango orchards.",
+  "translations" : {
+    "russian" : "Бамбуковые заросли и манговые сады."
+  },
+  "tokens" : [ {
+    "token" : "bamboo",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "grove",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "mango",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "orchard",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUTKTDTAu_IiLfXeT",
+  "text" : "A mango. And... a telephone directory.",
+  "translations" : {
+    "russian" : "Манго... и телефонный справочник."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "mango",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "telephone",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "directory",
+    "startOffset" : 28,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

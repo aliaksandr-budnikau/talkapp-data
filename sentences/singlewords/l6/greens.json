@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoEsF-vDTAu_IiLe6Ck",
+  "text" : "Green pillbox.",
+  "translations" : {
+    "russian" : "Зеленая коробочка."
+  },
+  "tokens" : [ {
+    "token" : "green",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "pillbox",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDdU8LDTAu_IiLeFa5",
+  "text" : "Green bamboo!",
+  "translations" : {
+    "russian" : "Зеленый бамбук!"
+  },
+  "tokens" : [ {
+    "token" : "green",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bamboo",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgky0PNEXFMlzHLBaS",
   "text" : "Plus, housewives love green.",
   "translations" : {
@@ -51,6 +87,220 @@
     "token" : "green",
     "startOffset" : 20,
     "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcH68DTAu_IiLeExP",
+  "text" : "Green house, white trim.",
+  "translations" : {
+    "russian" : "Зелёный дом, белая отделка."
+  },
+  "tokens" : [ {
+    "token" : "green",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "house",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "white",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "trim",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlTz6DTAu_IiLeJ96",
+  "text" : "Dr. Benjamin Green PSYCHOLOGIST.",
+  "translations" : {
+    "russian" : "Др. Бенжамин Грин психолог."
+  },
+  "tokens" : [ {
+    "token" : "dr",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "benjamin",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "green",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "psychologist",
+    "startOffset" : 19,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDl0UcDTAu_IiLeKPL",
+  "text" : "A Green Beret!",
+  "translations" : {
+    "russian" : "Зеленый берет!"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "green",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "beret",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9ghZDTAu_IiLeXR5",
+  "text" : "A Cavalier, green.",
+  "translations" : {
+    "russian" : "Кавалье, зеленый."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "cavalier",
+    "startOffset" : 2,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "green",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYizgDTAu_IiLermX",
+  "text" : "Gal pal, Rachel Green.",
+  "translations" : {
+    "russian" : "Подружка, Рейчел Грин."
+  },
+  "tokens" : [ {
+    "token" : "gal",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pal",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "rachel",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "green",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwplFDTAu_IiLe9Ob",
+  "text" : "Like the green woodpecker.",
+  "translations" : {
+    "russian" : "Пивэр, то есть, значит, дятел."
+  },
+  "tokens" : [ {
+    "token" : "like",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "green",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "woodpecker",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMmTgDTAu_IiLfRpF",
+  "text" : "Stage one is green.",
+  "translations" : {
+    "russian" : "Ступень один готова."
+  },
+  "tokens" : [ {
+    "token" : "stage",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "one",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "green",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSTYEDTAu_IiLfWA9",
+  "text" : "An angry green blob.",
+  "translations" : {
+    "russian" : "Очень злая зеленая капля."
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "angry",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "green",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "blob",
+    "startOffset" : 15,
+    "endOffset" : 19,
     "position" : 3
   } ],
   "contentScore" : null
@@ -111,359 +361,59 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkzDINEXFMlzHLBap",
-  "text" : "You're far too green.",
+  "id" : "AWoDaGFzDTAu_IiLeDj9",
+  "text" : "With the green asparagus.",
   "translations" : {
-    "russian" : "Ты еще слишком неопытный."
+    "russian" : "И зелёную спаржу на гарнир."
   },
   "tokens" : [ {
-    "token" : "you're",
+    "token" : "with",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "far",
-    "startOffset" : 7,
-    "endOffset" : 10,
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "too",
-    "startOffset" : 11,
+    "token" : "green",
+    "startOffset" : 9,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "green",
+    "token" : "asparagus",
     "startOffset" : 15,
-    "endOffset" : 20,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpmBNNEXFMlzHLIen",
-  "text" : "What's green like?",
+  "id" : "AWoDdnaGDTAu_IiLeFk2",
+  "text" : "The green arrow bandit.",
   "translations" : {
-    "russian" : "На что похож зелёный цвет?"
+    "russian" : "Бандитская зеленая стрела."
   },
   "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "green",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "like",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpmjINEXFMlzHLIfW",
-  "text" : "Tavern on the Green?",
-  "translations" : {
-    "russian" : "Таверна на лугу ?"
-  },
-  "tokens" : [ {
-    "token" : "tavern",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "on",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
     "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "green",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkyxTNEXFMlzHLBaO",
-  "text" : "What's green like?",
-  "translations" : {
-    "russian" : "На что похож зелёный цвет?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "green",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "like",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkyniNEXFMlzHLBaB",
-  "text" : "And bring something green.",
-  "translations" : {
-    "russian" : "И принесите какую-нибудь зелень."
-  },
-  "tokens" : [ {
-    "token" : "and",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "bring",
+    "token" : "green",
     "startOffset" : 4,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "something",
+    "token" : "arrow",
     "startOffset" : 10,
-    "endOffset" : 19,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "green",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpmDpNEXFMlzHLIer",
-  "text" : "Plus, housewives love green.",
-  "translations" : {
-    "russian" : "К тому же, домохозяйки любят зеленый цвет."
-  },
-  "tokens" : [ {
-    "token" : "plus",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "housewives",
-    "startOffset" : 6,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "love",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "green",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpmWMNEXFMlzHLIfC",
-  "text" : "You're far too green.",
-  "translations" : {
-    "russian" : "Ты еще слишком неопытный."
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "far",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "too",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "green",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkNtnNEXFMlzHLAq2",
-  "text" : "Green iguanas are not toxic.",
-  "translations" : {
-    "russian" : "Нет, зеленые игуаны не ядовиты."
-  },
-  "tokens" : [ {
-    "token" : "green",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "iguana",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "not",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "toxic",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgky5mNEXFMlzHLBad",
-  "text" : "I was big on green.",
-  "translations" : {
-    "russian" : "Я обожала зеленый цвет."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 2,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "big",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "on",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 3
-  }, {
-    "token" : "green",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgplmmNEXFMlzHLIeD",
-  "text" : "I've only got green tea.",
-  "translations" : {
-    "russian" : "У меня только зелёный чай."
-  },
-  "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "only",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "got",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "green",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "tea",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpmBsNEXFMlzHLIeo",
-  "text" : "What happened to the green?",
-  "translations" : {
-    "russian" : "Где же зелёный цвет?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "happen",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "green",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpmCbNEXFMlzHLIep",
-  "text" : "Did you like the green?",
-  "translations" : {
-    "russian" : "Тебе нравился зелёный цвет?"
-  },
-  "tokens" : [ {
-    "token" : "did",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "like",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "green",
-    "startOffset" : 17,
+    "token" : "bandit",
+    "startOffset" : 16,
     "endOffset" : 22,
-    "position" : 4
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

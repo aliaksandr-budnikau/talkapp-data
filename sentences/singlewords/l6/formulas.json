@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoE2mlUDTAu_IiLfBcA",
+  "text" : "Who devised that formula?",
+  "translations" : {
+    "russian" : "Кто изобрёл формулу? Я."
+  },
+  "tokens" : [ {
+    "token" : "who",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "vise",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "that",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "formula",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnfYrNEXFMlzHLFia",
   "text" : "Can you cook Walter's formula?",
   "translations" : {
@@ -29,6 +57,44 @@
     "startOffset" : 22,
     "endOffset" : 29,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlQV-DTAu_IiLeJ8N",
+  "text" : "That's the molecular formula for benzene.",
+  "translations" : {
+    "russian" : "Это химическая формула бензола."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "molecular",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "formula",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "for",
+    "startOffset" : 29,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "benzene",
+    "startOffset" : 33,
+    "endOffset" : 40,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

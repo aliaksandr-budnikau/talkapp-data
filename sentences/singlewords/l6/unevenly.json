@@ -1,4 +1,96 @@
 [ {
+  "id" : "AWoDoFavDTAu_IiLeLdQ",
+  "text" : "Preposterous, even.",
+  "translations" : {
+    "russian" : "Даже абсурдное."
+  },
+  "tokens" : [ {
+    "token" : "preposterous",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "even",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "ev",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD621qDTAu_IiLeVWE",
+  "text" : "Even vegetarians.",
+  "translations" : {
+    "russian" : "Даже вегетарианцы."
+  },
+  "tokens" : [ {
+    "token" : "even",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ev",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "vegetarian",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDonDNDTAu_IiLeLs8",
+  "text" : "Devout, even.",
+  "translations" : {
+    "russian" : "Набожный, даже."
+  },
+  "tokens" : [ {
+    "token" : "devout",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "even",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "ev",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD711LDTAu_IiLeWAk",
+  "text" : "Delightful, even.",
+  "translations" : {
+    "russian" : "Очаровательна, к тому же..."
+  },
+  "tokens" : [ {
+    "token" : "delightful",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "even",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "ev",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfLEnNEXFMlzHK8ZF",
   "text" : "He approaches even now.",
   "translations" : {
@@ -98,10 +190,43 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbrgmNEXFMlzHK5VH",
-  "text" : "Even on your anniversary?",
+  "id" : "AWoDWAW0DTAu_IiLeBeU",
+  "text" : "And maybe even antelope.",
   "translations" : {
-    "russian" : "Даже на твой юбилей?"
+    "russian" : "Может, даже придется есть антилопу."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "maybe",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "even",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "ev",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "antelope",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5QENDTAu_IiLeUoN",
+  "text" : "Even waffles, father?",
+  "translations" : {
+    "russian" : "Папа, еще вафельку?"
   },
   "tokens" : [ {
     "token" : "even",
@@ -114,182 +239,88 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "on",
+    "token" : "waffle",
     "startOffset" : 5,
-    "endOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "your",
-    "startOffset" : 8,
-    "endOffset" : 12,
+    "token" : "father",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1jYGDTAu_IiLeS8I",
+  "text" : "Won't even order takeout.",
+  "translations" : {
+    "russian" : "Даже не заказывает еду на дом."
+  },
+  "tokens" : [ {
+    "token" : "won't",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "even",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ev",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "order",
+    "startOffset" : 11,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "anniversary",
-    "startOffset" : 13,
+    "token" : "takeout",
+    "startOffset" : 17,
     "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmPjGNEXFMlzHLDjn",
-  "text" : "Even pork chops?",
+  "id" : "AWoEDWU-DTAu_IiLebxC",
+  "text" : "It's not even Hove.",
   "translations" : {
-    "russian" : "Даже свиную отбивную?"
+    "russian" : "Это даже не Хоув."
   },
   "tokens" : [ {
-    "token" : "even",
+    "token" : "it",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "ev",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "pork",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "chop",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmvavNEXFMlzHLEaI",
-  "text" : "Not even this first.",
-  "translations" : {
-    "russian" : "Ever pinДаже эту первую в истории булавку."
-  },
-  "tokens" : [ {
     "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
   }, {
     "token" : "even",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "ev",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "this",
     "startOffset" : 9,
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "first",
+    "token" : "ev",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "hove",
     "startOffset" : 14,
-    "endOffset" : 19,
+    "endOffset" : 18,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgn1HaNEXFMlzHLGGW",
-  "text" : "Even for my VIP's?",
+  "id" : "AWoEQSPxDTAu_IiLeldR",
+  "text" : "I'm not even elected.",
   "translations" : {
-    "russian" : "Даже моим виайпи?"
-  },
-  "tokens" : [ {
-    "token" : "even",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "ev",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "for",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "vip's",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqu5JNEXFMlzHLJ92",
-  "text" : "Not even in advertisements.",
-  "translations" : {
-    "russian" : "Даже в рекламе..."
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "even",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "ev",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "advertisement",
-    "startOffset" : 12,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu2MtNEXFMlzHLP5p",
-  "text" : "Even jumbo shrimp?",
-  "translations" : {
-    "russian" : "Даже большую устрицу?"
-  },
-  "tokens" : [ {
-    "token" : "even",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "ev",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "jumbo",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "shrimp",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqK5sNEXFMlzHLJR_",
-  "text" : "I'm not even showing.",
-  "translations" : {
-    "russian" : "Я его даже не выставляю."
+    "russian" : "Меня даже не выбирали."
   },
   "tokens" : [ {
     "token" : "i'm",
@@ -312,60 +343,93 @@
     "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "showing",
+    "token" : "elected",
     "startOffset" : 13,
     "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "show",
+    "token" : "elect",
     "startOffset" : 13,
     "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdTX8NEXFMlzHK6yv",
-  "text" : "And played even harder.",
+  "id" : "AWoEdbfYDTAu_IiLeu57",
+  "text" : "Even pigeons aren't peaceful.",
   "translations" : {
-    "russian" : "А резвился ещё больше."
+    "russian" : "И у голубей бывают драки."
   },
   "tokens" : [ {
-    "token" : "and",
+    "token" : "even",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "played",
-    "startOffset" : 4,
-    "endOffset" : 10,
+    "token" : "ev",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "pigeon",
+    "startOffset" : 5,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "play",
-    "startOffset" : 4,
+    "token" : "aren't",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "peaceful",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErLyBDTAu_IiLe5bH",
+  "text" : "Consenting adults, even unmarried.",
+  "translations" : {
+    "russian" : "Взрослым можно, даже неженатым..."
+  },
+  "tokens" : [ {
+    "token" : "consenting",
+    "startOffset" : 0,
     "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "consent",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "adult",
+    "startOffset" : 11,
+    "endOffset" : 17,
     "position" : 1
   }, {
     "token" : "even",
-    "startOffset" : 11,
-    "endOffset" : 15,
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 2
   }, {
     "token" : "ev",
-    "startOffset" : 11,
-    "endOffset" : 15,
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 2
   }, {
-    "token" : "hard",
-    "startOffset" : 16,
-    "endOffset" : 22,
+    "token" : "married",
+    "startOffset" : 24,
+    "endOffset" : 33,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoV_MNEXFMlzHLGxT",
-  "text" : "Not even a letter.",
+  "id" : "AWoEx_9ADTAu_IiLe-Oz",
+  "text" : "Not even Baton Rouge?",
   "translations" : {
-    "russian" : "Даже не одного письма."
+    "russian" : "Даже в Батон Руж?"
   },
   "tokens" : [ {
     "token" : "not",
@@ -383,157 +447,48 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "a",
+    "token" : "baton",
     "startOffset" : 9,
-    "endOffset" : 10,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "letter",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwG1iNEXFMlzHLR18",
-  "text" : "He approaches even now.",
-  "translations" : {
-    "russian" : "Он приближается даже сейчас."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "approach",
-    "startOffset" : 3,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "even",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "ev",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "now",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxk61NEXFMlzHLTct",
-  "text" : "Don't even touch them.",
-  "translations" : {
-    "russian" : "Даже не прикасайся к нему."
-  },
-  "tokens" : [ {
-    "token" : "don't",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "even",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "ev",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "touch",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "them",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpBLmNEXFMlzHLHtt",
-  "text" : "Gender violence isn't even covered.",
-  "translations" : {
-    "russian" : "На насилие по половым признакам это не распространяется."
-  },
-  "tokens" : [ {
-    "token" : "gender",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "violence",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "isn't",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "even",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "ev",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "cover",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrGM0NEXFMlzHLKgI",
-  "text" : "I'd even do a sitcom.",
-  "translations" : {
-    "russian" : "Мне даже ситком пойдет."
-  },
-  "tokens" : [ {
-    "token" : "i'd",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "even",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "ev",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "do",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "sitcom",
-    "startOffset" : 14,
+    "token" : "rouge",
+    "startOffset" : 15,
     "endOffset" : 20,
-    "position" : 4
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEzo9YDTAu_IiLe_Z8",
+  "text" : "I wasn't even gesturing.",
+  "translations" : {
+    "russian" : "Я даже не жестикулировала."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "wasn't",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "even",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "ev",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "gesture",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

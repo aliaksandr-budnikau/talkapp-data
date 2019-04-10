@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoEel5SDTAu_IiLevzo",
+  "text" : "Constricted larynx, accelerated breathing.",
+  "translations" : {
+    "russian" : "Сужение гортани, учащенное дыхание."
+  },
+  "tokens" : [ {
+    "token" : "constrict",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "larynx",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "accelerated",
+    "startOffset" : 20,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "accelerate",
+    "startOffset" : 20,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "breathing",
+    "startOffset" : 32,
+    "endOffset" : 41,
+    "position" : 3
+  }, {
+    "token" : "breath",
+    "startOffset" : 32,
+    "endOffset" : 41,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbggPpTNEXFMlzHK9TW",
   "text" : "Attention, take strict containment!",
   "translations" : {
@@ -62,6 +100,67 @@
     "startOffset" : 23,
     "endOffset" : 34,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpE5WDTAu_IiLe36T",
+  "text" : "My discipline is strict.",
+  "translations" : {
+    "russian" : "Воспитываю я строго."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "discipline",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "strict",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQKQfDTAu_IiLd9nJ",
+  "text" : "They are all strict agnostics.",
+  "translations" : {
+    "russian" : "Все они убежденные агностики."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "all",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "strict",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "agnostic",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

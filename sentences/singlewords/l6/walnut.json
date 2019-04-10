@@ -1,4 +1,108 @@
 [ {
+  "id" : "AWoFL-clDTAu_IiLfRLd",
+  "text" : "Figs, walnuts... and caviar.",
+  "translations" : {
+    "russian" : "Инжир, грецкий орех... и икра."
+  },
+  "tokens" : [ {
+    "token" : "fig",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "walnut",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "caviar",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECcQ9DTAu_IiLebD0",
+  "text" : "Oak, walnut, cherry, pine or mahogany...",
+  "translations" : {
+    "russian" : "Дуб, грецкий орех, вишня, сосна или красное дерево..."
+  },
+  "tokens" : [ {
+    "token" : "oak",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "walnut",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "cherry",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "pine",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "or",
+    "startOffset" : 26,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "mahogany",
+    "startOffset" : 29,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKwBiDTAu_IiLfQPL",
+  "text" : "Can you make walnut-stuffed plums?",
+  "translations" : {
+    "russian" : "Ты умеешь готовить сливы, фаршированные орехом?"
+  },
+  "tokens" : [ {
+    "token" : "can",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "make",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "walnut",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "stuff",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "plum",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgma9DNEXFMlzHLD3H",
   "text" : "Walnut and raisin, dishes are empty.",
   "translations" : {
@@ -33,6 +137,44 @@
     "token" : "empty",
     "startOffset" : 30,
     "endOffset" : 35,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKv_-DTAu_IiLfQPK",
+  "text" : "Do you want walnut-stuffed plums?",
+  "translations" : {
+    "russian" : "Хочешь слив, фаршированных орехом?"
+  },
+  "tokens" : [ {
+    "token" : "do",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "want",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "walnut",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "stuff",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "plum",
+    "startOffset" : 27,
+    "endOffset" : 32,
     "position" : 5
   } ],
   "contentScore" : null

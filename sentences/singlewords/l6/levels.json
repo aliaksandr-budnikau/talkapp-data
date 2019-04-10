@@ -1,4 +1,171 @@
 [ {
+  "id" : "AWoDQpI8DTAu_IiLd99P",
+  "text" : "Administrations level.",
+  "translations" : {
+    "russian" : "Административный уровень."
+  },
+  "tokens" : [ {
+    "token" : "administrate",
+    "startOffset" : 0,
+    "endOffset" : 15,
+    "position" : 0
+  }, {
+    "token" : "level",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUri5DTAu_IiLeowy",
+  "text" : "Level five.",
+  "translations" : {
+    "russian" : "Пятая палуба."
+  },
+  "tokens" : [ {
+    "token" : "level",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "five",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUrt4DTAu_IiLeow5",
+  "text" : "Second level.",
+  "translations" : {
+    "russian" : "2-я палуба."
+  },
+  "tokens" : [ {
+    "token" : "second",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "level",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUrwFDTAu_IiLeow7",
+  "text" : "Third level.",
+  "translations" : {
+    "russian" : "4-я палуба."
+  },
+  "tokens" : [ {
+    "token" : "third",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "level",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUrrcDTAu_IiLeow3",
+  "text" : "Fourth level.",
+  "translations" : {
+    "russian" : "4-я палуба."
+  },
+  "tokens" : [ {
+    "token" : "fourth",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "four",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "level",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUrvGDTAu_IiLeow6",
+  "text" : "First level.",
+  "translations" : {
+    "russian" : "3-я палуба..."
+  },
+  "tokens" : [ {
+    "token" : "first",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "level",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUrllDTAu_IiLeowz",
+  "text" : "Level six!",
+  "translations" : {
+    "russian" : "6-я палуба."
+  },
+  "tokens" : [ {
+    "token" : "level",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "six",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUqk3DTAu_IiLeowB",
+  "text" : "Level, please.",
+  "translations" : {
+    "russian" : "Этаж, пожалуйста."
+  },
+  "tokens" : [ {
+    "token" : "level",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "please",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUrqdDTAu_IiLeow2",
+  "text" : "Fifth level.",
+  "translations" : {
+    "russian" : "5-я палуба."
+  },
+  "tokens" : [ {
+    "token" : "fifth",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "level",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxt34NEXFMlzHLTva",
   "text" : "Food court, ground level.",
   "translations" : {
@@ -55,470 +222,138 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkU-INEXFMlzHLA2X",
-  "text" : "DRN charge level 10.",
+  "id" : "AWoEUsGDDTAu_IiLeoxM",
+  "text" : "Level of inebriation?",
   "translations" : {
-    "russian" : "Уровень заряда 10."
+    "russian" : "Степень опьянения?"
   },
   "tokens" : [ {
-    "token" : "drn",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "charge",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
     "token" : "level",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "10",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguUb0NEXFMlzHLO3V",
-  "text" : "Noise exceeds permitted levels.",
-  "translations" : {
-    "russian" : "Шум превышает допустимый предел."
-  },
-  "tokens" : [ {
-    "token" : "noise",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "exceed",
+    "token" : "of",
     "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "permitted",
-    "startOffset" : 14,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "level",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxt8hNEXFMlzHLTvm",
-  "text" : "It's downstairs two levels.",
-  "translations" : {
-    "russian" : "Это 2 этажа вниз по лестнице."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "downstairs",
-    "startOffset" : 5,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "two",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "level",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxt9ANEXFMlzHLTvn",
-  "text" : "We're going up another level.",
-  "translations" : {
-    "russian" : "Поднимаемся на этаж выше."
-  },
-  "tokens" : [ {
-    "token" : "we're",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "going",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "go",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "up",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "another",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "level",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxnZuNEXFMlzHLTh2",
-  "text" : "Down to the symbolic level.",
-  "translations" : {
-    "russian" : "Вплоть до символического уровня."
-  },
-  "tokens" : [ {
-    "token" : "down",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "to",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "symbolic",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "level",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvcVgNEXFMlzHLQ7H",
-  "text" : "Suits are upper level, aft.",
-  "translations" : {
-    "russian" : "Скафандры наверху, на корме."
-  },
-  "tokens" : [ {
-    "token" : "suit",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "are",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "upper",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "level",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "aft",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxuGxNEXFMlzHLTv8",
-  "text" : "It's got to be level.",
-  "translations" : {
-    "russian" : "Оно должно стоять ровно."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 5,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "to",
+    "token" : "inebriation",
     "startOffset" : 9,
-    "endOffset" : 11,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "be",
-    "startOffset" : 12,
+    "token" : "inebriate",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUrnDDTAu_IiLeow0",
+  "text" : "Ground, atrium level.",
+  "translations" : {
+    "russian" : "Нижняя палуба. Атриум."
+  },
+  "tokens" : [ {
+    "token" : "ground",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "atrium",
+    "startOffset" : 8,
     "endOffset" : 14,
-    "position" : 3
+    "position" : 1
   }, {
     "token" : "level",
     "startOffset" : 15,
     "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeG8RNEXFMlzHK7cp",
-  "text" : "Plaques level with the grass.",
-  "translations" : {
-    "russian" : "Трава, оградки, все дела."
-  },
-  "tokens" : [ {
-    "token" : "plaque",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "level",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "with",
-    "startOffset" : 14,
-    "endOffset" : 18,
     "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "grass",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgt8ERNEXFMlzHLOL7",
-  "text" : "At the unconscious collective level.",
+  "id" : "AWoEUrsqDTAu_IiLeow4",
+  "text" : "Up! Up! Third level.",
   "translations" : {
-    "russian" : "Ну, на уровне коллективного бессознательного."
+    "russian" : "3-я палуба."
   },
   "tokens" : [ {
-    "token" : "at",
+    "token" : "up",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 3,
+    "token" : "up",
+    "startOffset" : 4,
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "conscious",
-    "startOffset" : 7,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "collective",
-    "startOffset" : 19,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "level",
-    "startOffset" : 30,
-    "endOffset" : 35,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxuR_NEXFMlzHLTwT",
-  "text" : "Might raise the comfort level.",
-  "translations" : {
-    "russian" : "Люди будут себя чувствовать спокойно."
-  },
-  "tokens" : [ {
-    "token" : "might",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "raise",
-    "startOffset" : 6,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "comfort",
-    "startOffset" : 16,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "level",
-    "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt_G4NEXFMlzHLOQz",
-  "text" : "Plaques level with the grass.",
-  "translations" : {
-    "russian" : "Трава, оградки, все дела."
-  },
-  "tokens" : [ {
-    "token" : "plaque",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "level",
+    "token" : "third",
     "startOffset" : 8,
     "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "with",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "grass",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxuPENEXFMlzHLTwM",
-  "text" : "I've got ta level with you.",
-  "translations" : {
-    "russian" : "Буду откровенной с вами."
-  },
-  "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "ta",
-    "startOffset" : 9,
-    "endOffset" : 11,
     "position" : 2
   }, {
     "token" : "level",
-    "startOffset" : 12,
-    "endOffset" : 17,
+    "startOffset" : 14,
+    "endOffset" : 19,
     "position" : 3
-  }, {
-    "token" : "with",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "you",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgxt_cNEXFMlzHLTvt",
-  "text" : "They're on the wrong bloody level.",
+  "id" : "AWoEUs7TDTAu_IiLeox0",
+  "text" : "Benson, security level two.",
   "translations" : {
-    "russian" : "Они на не том проклятом этаже."
+    "russian" : "Бенсон, служба безопасности второго уровня."
   },
   "tokens" : [ {
-    "token" : "they're",
+    "token" : "benson",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "security",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "level",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "two",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEeephDTAu_IiLevt7",
+  "text" : "Hormone levels, blood pressure.",
+  "translations" : {
+    "russian" : "Гормональный уровень, кровяное давление."
+  },
+  "tokens" : [ {
+    "token" : "hormone",
     "startOffset" : 0,
     "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "on",
+    "token" : "level",
     "startOffset" : 8,
-    "endOffset" : 10,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
+    "token" : "blood",
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "wrong",
-    "startOffset" : 15,
-    "endOffset" : 20,
+    "token" : "pressure",
+    "startOffset" : 22,
+    "endOffset" : 30,
     "position" : 3
-  }, {
-    "token" : "bloody",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "level",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxt0dNEXFMlzHLTvV",
-  "text" : "Step one a low level warrant.",
-  "translations" : {
-    "russian" : "Шаг первый ордер низкого уровня."
-  },
-  "tokens" : [ {
-    "token" : "step",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "one",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "low",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "level",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "warrant",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

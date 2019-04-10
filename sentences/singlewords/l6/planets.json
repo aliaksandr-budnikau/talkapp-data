@@ -1,4 +1,101 @@
 [ {
+  "id" : "AWoDw7N8DTAu_IiLeQj4",
+  "text" : "Planet. Gleaming Planet.",
+  "translations" : {
+    "russian" : "Мерцающая планета."
+  },
+  "tokens" : [ {
+    "token" : "planet",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "gleam",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "planet",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrwh7DTAu_IiLeNcs",
+  "text" : "Planet. Gleaming Planet.",
+  "translations" : {
+    "russian" : "Мерцающая планета."
+  },
+  "tokens" : [ {
+    "token" : "planet",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "gleam",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "planet",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8kDwDTAu_IiLeWje",
+  "text" : "The planet Venus?",
+  "translations" : {
+    "russian" : "Планета Венера?"
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "planet",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "venus",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEImbQDTAu_IiLefqG",
+  "text" : "Traversing the entire planet.",
+  "translations" : {
+    "russian" : "Пересекают всю планету."
+  },
+  "tokens" : [ {
+    "token" : "traverse",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "entire",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "planet",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmIJWNEXFMlzHLDWm",
   "text" : "Steady, Planet Express Ship.",
   "translations" : {
@@ -27,107 +124,351 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwGz0NEXFMlzHLR13",
-  "text" : "We are approaching their planet.",
+  "id" : "AWoD8kL0DTAu_IiLeWjk",
+  "text" : "The planet Venus.",
   "translations" : {
-    "russian" : "Мы приближаемся к их планете."
+    "russian" : "С планеты Венеры."
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "the",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "are",
-    "startOffset" : 3,
-    "endOffset" : 6,
+    "token" : "planet",
+    "startOffset" : 4,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "approach",
-    "startOffset" : 7,
-    "endOffset" : 18,
+    "token" : "venus",
+    "startOffset" : 11,
+    "endOffset" : 16,
     "position" : 2
-  }, {
-    "token" : "their",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "planet",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgfK_ANEXFMlzHK8ZA",
-  "text" : "We are approaching their planet.",
+  "id" : "AWoEIy8ZDTAu_IiLefy5",
+  "text" : "Traversing the entire planet.",
   "translations" : {
-    "russian" : "Мы приближаемся к их планете."
+    "russian" : "Пересекают всю планету."
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "traverse",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 10,
     "position" : 0
   }, {
-    "token" : "are",
-    "startOffset" : 3,
-    "endOffset" : 6,
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "approach",
-    "startOffset" : 7,
-    "endOffset" : 18,
+    "token" : "entire",
+    "startOffset" : 15,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "their",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
     "token" : "planet",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 4
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgueilNEXFMlzHLPLe",
-  "text" : "To Sicily 8, the Mob Planet.",
+  "id" : "AWoD8kNCDTAu_IiLeWjl",
+  "text" : "The planet Venus?",
   "translations" : {
-    "russian" : "На Сицилию 8, планету мафии!"
+    "russian" : "С Венеры?"
   },
   "tokens" : [ {
-    "token" : "to",
+    "token" : "the",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "sicily",
-    "startOffset" : 3,
+    "token" : "planet",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "venus",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhWwuDTAu_IiLex-5",
+  "text" : "This vile, lumbering planet?",
+  "translations" : {
+    "russian" : "Эта мерзкая, неуклюжая планета?"
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "vile",
+    "startOffset" : 5,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "8",
-    "startOffset" : 10,
-    "endOffset" : 11,
+    "token" : "lumbering",
+    "startOffset" : 11,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "mob",
-    "startOffset" : 17,
+    "token" : "lumber",
+    "startOffset" : 11,
     "endOffset" : 20,
-    "position" : 4
+    "position" : 2
   }, {
     "token" : "planet",
     "startOffset" : 21,
     "endOffset" : 27,
-    "position" : 5
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4YDZDTAu_IiLfCn7",
+  "text" : "This vile, lumbering planet?",
+  "translations" : {
+    "russian" : "Эта мерзкая, неуклюжая планета?"
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "vile",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "lumbering",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "lumber",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "planet",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8IRuDTAu_IiLeWNO",
+  "text" : "Planet size Magnitude 1 E.",
+  "translations" : {
+    "russian" : "Размер планеты величина 1-И."
+  },
+  "tokens" : [ {
+    "token" : "planet",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "size",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "magnitude",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "1",
+    "startOffset" : 22,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "e",
+    "startOffset" : 24,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoER54TDTAu_IiLemo4",
+  "text" : "Then the planet is hollow.",
+  "translations" : {
+    "russian" : "Тогда планета полая."
+  },
+  "tokens" : [ {
+    "token" : "th",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "planet",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "hollow",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERVjBDTAu_IiLemOF",
+  "text" : "This planet shall be scorched.",
+  "translations" : {
+    "russian" : "Я выжгу эту планету!"
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "planet",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "shall",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "be",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "scorch",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoER56QDTAu_IiLemo5",
+  "text" : "A hollow, space-jumping planet?",
+  "translations" : {
+    "russian" : "Полая, перемещающаяся с места на место планета?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "hollow",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "space",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "jump",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "planet",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIw1QDTAu_IiLfOpf",
+  "text" : "The planet is being irradiated.",
+  "translations" : {
+    "russian" : "Планета облучается радиацией."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "planet",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "being",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "bee",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "irradiate",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIyRtDTAu_IiLfOqr",
+  "text" : "The planet is being irradiated.",
+  "translations" : {
+    "russian" : "Планета облучается радиацией."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "planet",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "being",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "bee",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "irradiate",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

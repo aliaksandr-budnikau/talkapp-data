@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoE4guqDTAu_IiLfCt5",
+  "text" : "A ship?",
+  "translations" : {
+    "russian" : "Корабль?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "ship",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwAtYNEXFMlzHLRuJ",
   "text" : "We're not aboard a ship.",
   "translations" : {
@@ -28,6 +46,39 @@
     "token" : "ship",
     "startOffset" : 19,
     "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDgv6IDTAu_IiLeHZI",
+  "text" : "One ship against a fleet?",
+  "translations" : {
+    "russian" : "Один корабль против целого флота?"
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ship",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "against",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "fleet",
+    "startOffset" : 19,
+    "endOffset" : 24,
     "position" : 4
   } ],
   "contentScore" : null
@@ -94,6 +145,115 @@
     "token" : "captain",
     "startOffset" : 15,
     "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYRjcDTAu_IiLeraG",
+  "text" : "Dawes' ship was a diversion.",
+  "translations" : {
+    "russian" : "Корабль Доуса был обманкой."
+  },
+  "tokens" : [ {
+    "token" : "dawes",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ship",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "diversion",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "diverse",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEYShvDTAu_IiLerax",
+  "text" : "Dawes' ship was a diversion.",
+  "translations" : {
+    "russian" : "Корабль Доуса был обманкой."
+  },
+  "tokens" : [ {
+    "token" : "dawes",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "ship",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "was",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "diversion",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "diverse",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcM4pDTAu_IiLfdkn",
+  "text" : "This is a consular ship.",
+  "translations" : {
+    "russian" : "Это - консульский корабль."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "consular",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "ship",
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 4
   } ],
   "contentScore" : null
@@ -174,6 +334,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoE4g6YDTAu_IiLfCt_",
+  "text" : "The captain on a ship can.",
+  "translations" : {
+    "russian" : "Капитан корабля может."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "captain",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "on",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 15,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "ship",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "can",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgv3VhNEXFMlzHLRj-",
   "text" : "A ship captain can marry us.",
   "translations" : {
@@ -208,6 +406,44 @@
     "token" : "us",
     "startOffset" : 25,
     "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFPurxDTAu_IiLfT-8",
+  "text" : "This is a ship of exploration.",
+  "translations" : {
+    "russian" : "Это исследовательский корабль."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "ship",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 4
+  }, {
+    "token" : "exploration",
+    "startOffset" : 18,
+    "endOffset" : 29,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,129 @@
 [ {
+  "id" : "AWoFN9MjDTAu_IiLfSpE",
+  "text" : "Ion cannon 75 charged.",
+  "translations" : {
+    "russian" : "Ионная пушка заряжена на 75."
+  },
+  "tokens" : [ {
+    "token" : "ion",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "cannon",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "75",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "charged",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "charge",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFN9JbDTAu_IiLfSpC",
+  "text" : "An ion cannon?",
+  "translations" : {
+    "russian" : "Ионная пушка?"
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "ion",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "cannon",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEq_PLDTAu_IiLe5Sa",
+  "text" : "Reload the cannons.",
+  "translations" : {
+    "russian" : "Перезарядите пушки."
+  },
+  "tokens" : [ {
+    "token" : "reload",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "cannon",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFN9LPDTAu_IiLfSpD",
+  "text" : "Ion cannon ready.",
+  "translations" : {
+    "russian" : "Ионная пушка готова."
+  },
+  "tokens" : [ {
+    "token" : "ion",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "cannon",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "ready",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoErAqgDTAu_IiLe5TY",
+  "text" : "Central cannons reload!",
+  "translations" : {
+    "russian" : "Центральные пушки заряжай!"
+  },
+  "tokens" : [ {
+    "token" : "central",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "cannon",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "reload",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu5dRNEXFMlzHLP_7",
   "text" : "Light cannons don't kill Pac-Man.",
   "translations" : {
@@ -33,6 +158,120 @@
     "token" : "man",
     "startOffset" : 29,
     "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDXq2zDTAu_IiLeCLq",
+  "text" : "Your cannons made a compelling argument.",
+  "translations" : {
+    "russian" : "У вас есть пушки, и мы решили не спорить."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cannon",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "made",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 18,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "compelling",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "argument",
+    "startOffset" : 31,
+    "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDt9hODTAu_IiLeOxZ",
+  "text" : "You just pimped this cannon up.",
+  "translations" : {
+    "russian" : "Ты просто прокачала эту пушку."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "pimp",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "this",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "cannon",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  }, {
+    "token" : "up",
+    "startOffset" : 28,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECKsgDTAu_IiLea1x",
+  "text" : "Look who has a vortex cannon.",
+  "translations" : {
+    "russian" : "Смотрите, у кого есть вихревая пушка."
+  },
+  "tokens" : [ {
+    "token" : "look",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "who",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "vortex",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "cannon",
+    "startOffset" : 22,
+    "endOffset" : 28,
     "position" : 5
   } ],
   "contentScore" : null

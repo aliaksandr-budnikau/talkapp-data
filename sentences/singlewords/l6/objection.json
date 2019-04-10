@@ -1,46 +1,8 @@
 [ {
-  "id" : "AWbgdh9tNEXFMlzHK69m",
-  "text" : "Your objections are noted.",
+  "id" : "AWoDVTuRDTAu_IiLeBD4",
+  "text" : "Objection overruled.",
   "translations" : {
-    "russian" : "Я принимаю ваше замечание."
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "objection",
-    "startOffset" : 5,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "noted",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "note",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "not",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoknLNEXFMlzHLHIP",
-  "text" : "Objection, Your Honor, sidebar. Right?",
-  "translations" : {
-    "russian" : "Протестую, ваша честь, можно подойти?"
+    "russian" : "Возражение отклоняется."
   },
   "tokens" : [ {
     "token" : "objection",
@@ -48,25 +10,280 @@
     "endOffset" : 9,
     "position" : 0
   }, {
-    "token" : "your",
-    "startOffset" : 11,
-    "endOffset" : 15,
+    "token" : "overrule",
+    "startOffset" : 10,
+    "endOffset" : 19,
     "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVTE5DTAu_IiLeBDe",
+  "text" : "Objection overruled.",
+  "translations" : {
+    "russian" : "Возражение отклонено."
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
   }, {
-    "token" : "honor",
-    "startOffset" : 16,
+    "token" : "overrule",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVTIkDTAu_IiLeBDg",
+  "text" : "Objection overruled!",
+  "translations" : {
+    "russian" : "Возражение отклонено!"
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "overrule",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVTihDTAu_IiLeBDx",
+  "text" : "Objection overruled.",
+  "translations" : {
+    "russian" : "Протест отклонен."
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "overrule",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVvFMDTAu_IiLeBVh",
+  "text" : "Objection's overruled.",
+  "translations" : {
+    "russian" : "Протест отклоняется."
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "overrule",
+    "startOffset" : 12,
     "endOffset" : 21,
-    "position" : 2
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVqB_DTAu_IiLeBSS",
+  "text" : "Objection overruled.",
+  "translations" : {
+    "russian" : "Протест отклонен."
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
   }, {
-    "token" : "sidebar",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 3
+    "token" : "overrule",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVqSBDTAu_IiLeBSa",
+  "text" : "Objection overruled.",
+  "translations" : {
+    "russian" : "Возражение отклоняется."
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
   }, {
-    "token" : "right",
-    "startOffset" : 32,
-    "endOffset" : 37,
-    "position" : 4
+    "token" : "overrule",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVqNqDTAu_IiLeBSY",
+  "text" : "Objection overruled.",
+  "translations" : {
+    "russian" : "Отклоняется!"
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "overrule",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVuesDTAu_IiLeBVG",
+  "text" : "Objection overruled.",
+  "translations" : {
+    "russian" : "Возражение отклонено."
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "overrule",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVumaDTAu_IiLeBVL",
+  "text" : "Objection overruled.",
+  "translations" : {
+    "russian" : "Протест отклонён."
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "overrule",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVuycDTAu_IiLeBVU",
+  "text" : "Objection overruled.",
+  "translations" : {
+    "russian" : "Протест отклонен."
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "overrule",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVTHXDTAu_IiLeBDf",
+  "text" : "Objection overruled.",
+  "translations" : {
+    "russian" : "Возражение отклонено."
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "overrule",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVTyODTAu_IiLeBD6",
+  "text" : "Objection. Overruled.",
+  "translations" : {
+    "russian" : "Отклоняется."
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "overrule",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVqbsDTAu_IiLeBSf",
+  "text" : "Objection's overruled.",
+  "translations" : {
+    "russian" : "Протест отклоняется."
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "overrule",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVpqrDTAu_IiLeBSB",
+  "text" : "Objection overruled!",
+  "translations" : {
+    "russian" : "Возражение отклонено!"
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "overrule",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVpu7DTAu_IiLeBSE",
+  "text" : "Objection overruled.",
+  "translations" : {
+    "russian" : "Возражение отклонено."
+  },
+  "tokens" : [ {
+    "token" : "objection",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "overrule",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

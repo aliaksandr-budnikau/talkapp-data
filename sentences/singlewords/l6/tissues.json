@@ -1,4 +1,111 @@
 [ {
+  "id" : "AWoEn_ArDTAu_IiLe3F_",
+  "text" : "Membrane, stenos tissue.",
+  "translations" : {
+    "russian" : "Мембрану, тонкую как салфетка."
+  },
+  "tokens" : [ {
+    "token" : "membrane",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "steno",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "tissue",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD_alwDTAu_IiLeYtd",
+  "text" : "Development of breast tissue.",
+  "translations" : {
+    "russian" : "Развитие ткани молочной железы."
+  },
+  "tokens" : [ {
+    "token" : "development",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "develop",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "breast",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "tissue",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOUXnDTAu_IiLekCG",
+  "text" : "Dissect the tissue.",
+  "translations" : {
+    "russian" : "Разрезай ткани."
+  },
+  "tokens" : [ {
+    "token" : "dissect",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "tissue",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYh8zDTAu_IiLfakp",
+  "text" : "It penetrates -- dermal tissue.",
+  "translations" : {
+    "russian" : "Он проникает в кожную ткань."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "penetrate",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "dermal",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "tissue",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmn-JNEXFMlzHLENX",
   "text" : "Mixed connective tissue disease?",
   "translations" : {
@@ -28,6 +135,34 @@
     "token" : "disease",
     "startOffset" : 24,
     "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFXFZIDTAu_IiLfZah",
+  "text" : "Not tissue, it's gummy.",
+  "translations" : {
+    "russian" : "Это не ткань, а что-то липкое."
+  },
+  "tokens" : [ {
+    "token" : "not",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "tissue",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "gummy",
+    "startOffset" : 17,
+    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
@@ -65,6 +200,143 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFYVudDTAu_IiLfaaR",
+  "text" : "Normal follicles, normal lymphoid tissue.",
+  "translations" : {
+    "russian" : "Фолликулы в норме. Лимфатическая ткань в норме."
+  },
+  "tokens" : [ {
+    "token" : "normal",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "follicle",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "normal",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "lymphoid",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "tissue",
+    "startOffset" : 34,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIzp0DTAu_IiLefzX",
+  "text" : "A growth of new tissue.",
+  "translations" : {
+    "russian" : "Рост новых тканей."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "growth",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "grow",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "new",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "tissue",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEOTouDTAu_IiLekBj",
+  "text" : "I dissected his heart tissue.",
+  "translations" : {
+    "russian" : "Я вскрыла его сердечную мышцу."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "dissect",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "heart",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "tissue",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAEGYDTAu_IiLfIEj",
+  "text" : "There's deep tissue infection here.",
+  "translations" : {
+    "russian" : "Здесь глубокое заражение ткани."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "deep",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "tissue",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "infection",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "here",
+    "startOffset" : 30,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkj66NEXFMlzHLBIm",
   "text" : "Or tissue starts to die.",
   "translations" : {
@@ -95,6 +367,158 @@
     "startOffset" : 20,
     "endOffset" : 23,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEiF4DDTAu_IiLeym4",
+  "text" : "You see these clumps of tissue?",
+  "translations" : {
+    "russian" : "Видишь эти сгустки ткани?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "see",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "these",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "clump",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "tissue",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWFihDTAu_IiLfYtX",
+  "text" : "Intestines show no vital tissue reaction.",
+  "translations" : {
+    "russian" : "Ткани кишечника в полном порядке."
+  },
+  "tokens" : [ {
+    "token" : "intestine",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "show",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "vital",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "tissue",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "reaction",
+    "startOffset" : 32,
+    "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWdqIDTAu_IiLeBsh",
+  "text" : "Um... he's got weak aortic tissue.",
+  "translations" : {
+    "russian" : "Он... у него слабая аортальная ткань."
+  },
+  "tokens" : [ {
+    "token" : "um",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "he",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "got",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "weak",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "aortic",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "tissue",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDp8mvDTAu_IiLeMZ1",
+  "text" : "There will be a tissue biopsy.",
+  "translations" : {
+    "russian" : "Нужно сделать биопсию тканей."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "will",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "tissue",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 4
+  }, {
+    "token" : "biopsy",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

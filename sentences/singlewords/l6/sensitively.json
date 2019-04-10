@@ -1,4 +1,83 @@
 [ {
+  "id" : "AWoDV9aPDTAu_IiLeBc0",
+  "text" : "A highly sensitive antennae.",
+  "translations" : {
+    "russian" : "Очень чувствительные усики."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "high",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "sensitive",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "antennae",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjZJHDTAu_IiLeI6j",
+  "text" : "Rude, thoughtless, insensitive.",
+  "translations" : {
+    "russian" : "Ты грубый, эгоистичный, равнодушный."
+  },
+  "tokens" : [ {
+    "token" : "rude",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "thoughtless",
+    "startOffset" : 6,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "sensitive",
+    "startOffset" : 19,
+    "endOffset" : 30,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExrMFDTAu_IiLe9_i",
+  "text" : "I'm compassionate and sensitive.",
+  "translations" : {
+    "russian" : "Я сострадательная и чувствительная."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "compassionate",
+    "startOffset" : 4,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "sensitive",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgth0VNEXFMlzHLNoH",
   "text" : "You're hard and insensitive!",
   "translations" : {
@@ -23,6 +102,34 @@
     "token" : "sensitive",
     "startOffset" : 16,
     "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPv75DTAu_IiLd9Xt",
+  "text" : "Authoritarian and stubborn sensitive...",
+  "translations" : {
+    "russian" : "Авторитарна и упряма чувствительна..."
+  },
+  "tokens" : [ {
+    "token" : "authoritarian",
+    "startOffset" : 0,
+    "endOffset" : 13,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "stubborn",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "sensitive",
+    "startOffset" : 27,
+    "endOffset" : 36,
     "position" : 3
   } ],
   "contentScore" : null
@@ -56,6 +163,39 @@
     "token" : "sound",
     "startOffset" : 27,
     "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoElWqLDTAu_IiLe1GE",
+  "text" : "You're so considerate and sensitive.",
+  "translations" : {
+    "russian" : "Ты такой тактичный и деликатный."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "so",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "considerate",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "sensitive",
+    "startOffset" : 26,
+    "endOffset" : 35,
     "position" : 4
   } ],
   "contentScore" : null
@@ -94,6 +234,44 @@
     "token" : "other",
     "startOffset" : 33,
     "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmTkIDTAu_IiLe1zM",
+  "text" : "Sensitive, courageous, sexy, cool like you.",
+  "translations" : {
+    "russian" : "Кто-то чувствительный, смелый, сексуальный, сдержанный, как ты."
+  },
+  "tokens" : [ {
+    "token" : "sensitive",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "courageous",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "sexy",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "cool",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "like",
+    "startOffset" : 34,
+    "endOffset" : 38,
+    "position" : 4
+  }, {
+    "token" : "you",
+    "startOffset" : 39,
+    "endOffset" : 42,
     "position" : 5
   } ],
   "contentScore" : null

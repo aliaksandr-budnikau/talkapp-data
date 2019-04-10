@@ -27,6 +27,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEGSq7DTAu_IiLeeBd",
+  "text" : "Permission to defy order.",
+  "translations" : {
+    "russian" : "Разрешите нарушить приказ."
+  },
+  "tokens" : [ {
+    "token" : "permission",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "defy",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "order",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguH1gNEXFMlzHLOei",
   "text" : "Senior elective permission slip.",
   "translations" : {
@@ -83,6 +111,57 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD-fioDTAu_IiLeYBa",
+  "text" : "Permission to veto.",
+  "translations" : {
+    "russian" : "Разрешить тебе наложить вето?"
+  },
+  "tokens" : [ {
+    "token" : "permission",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "veto",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFCJE7DTAu_IiLfJpF",
+  "text" : "Permission to defy order.",
+  "translations" : {
+    "russian" : "Разрешите нарушить приказ."
+  },
+  "tokens" : [ {
+    "token" : "permission",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "defy",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "order",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwAgaNEXFMlzHLRt-",
   "text" : "Permission to come aboard, captain?",
   "translations" : {
@@ -112,6 +191,39 @@
     "token" : "captain",
     "startOffset" : 27,
     "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEl3WVDTAu_IiLe1eW",
+  "text" : "Permission to approach the bench?",
+  "translations" : {
+    "russian" : "Разрешите подойти?"
+  },
+  "tokens" : [ {
+    "token" : "permission",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "approach",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "bench",
+    "startOffset" : 27,
+    "endOffset" : 32,
     "position" : 4
   } ],
   "contentScore" : null
@@ -146,6 +258,153 @@
     "startOffset" : 28,
     "endOffset" : 35,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEl3XzDTAu_IiLe1eX",
+  "text" : "Permission to approach the bench.",
+  "translations" : {
+    "russian" : "Разрешите подойти."
+  },
+  "tokens" : [ {
+    "token" : "permission",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "approach",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "bench",
+    "startOffset" : 27,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD28YyDTAu_IiLeTlB",
+  "text" : "I have the Cultural Bureau's permission.",
+  "translations" : {
+    "russian" : "У меня есть разрешение Управления культуры."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "cultural",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "bureau",
+    "startOffset" : 20,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "permission",
+    "startOffset" : 29,
+    "endOffset" : 39,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqIb8DTAu_IiLe4rO",
+  "text" : "Permission to extract their gene seed.",
+  "translations" : {
+    "russian" : "Разрешите забрать их генетическое семя."
+  },
+  "tokens" : [ {
+    "token" : "permission",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "extract",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "their",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "gene",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "seed",
+    "startOffset" : 33,
+    "endOffset" : 37,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoESPoHDTAu_IiLem5J",
+  "text" : "Permission to expire on July 7.",
+  "translations" : {
+    "russian" : "Разрешение истекает 7 июля."
+  },
+  "tokens" : [ {
+    "token" : "permission",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "expire",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "on",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "july",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "7",
+    "startOffset" : 29,
+    "endOffset" : 30,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoElMBuDTAu_IiLe0-M",
+  "text" : "Delegations await me.",
+  "translations" : {
+    "russian" : "Меня ожидают делегации."
+  },
+  "tokens" : [ {
+    "token" : "legate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "await",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwIMWNEXFMlzHLR4y",
   "text" : "I'll await your arrival, Commander.",
   "translations" : {
@@ -103,6 +126,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEkxjiDTAu_IiLe0q6",
+  "text" : "I await a valid argument.",
+  "translations" : {
+    "russian" : "Я жду веских аргументов."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "await",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "valid",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 3
+  }, {
+    "token" : "argument",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgp5ylNEXFMlzHLI6M",
   "text" : "Battalion commanders are awaiting your orders.",
   "translations" : {
@@ -137,6 +193,82 @@
     "token" : "order",
     "startOffset" : 39,
     "endOffset" : 45,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIYl5DTAu_IiLefgf",
+  "text" : "Arise, Count! Great affairs awaits you!",
+  "translations" : {
+    "russian" : "Вставайте, граф, Вас зовут из подземелья."
+  },
+  "tokens" : [ {
+    "token" : "arise",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "count",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "great",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "affair",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "await",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "you",
+    "startOffset" : 35,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFatKaDTAu_IiLfcZZ",
+  "text" : "I await your questions and comments.",
+  "translations" : {
+    "russian" : "Ожидаю ваших вопросов и мнений."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "await",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "question",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  }, {
+    "token" : "comment",
+    "startOffset" : 27,
+    "endOffset" : 35,
     "position" : 5
   } ],
   "contentScore" : null

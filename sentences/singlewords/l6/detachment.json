@@ -1,4 +1,106 @@
 [ {
+  "id" : "AWoE-nG6DTAu_IiLfG5j",
+  "text" : "Detachment... halt!",
+  "translations" : {
+    "russian" : "Отделение... Стой!"
+  },
+  "tokens" : [ {
+    "token" : "detachment",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "detach",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "halt",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-nEXDTAu_IiLfG5h",
+  "text" : "Detachment, halt!",
+  "translations" : {
+    "russian" : "Отделение, стой!"
+  },
+  "tokens" : [ {
+    "token" : "detachment",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "detach",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "halt",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWQbzDTAu_IiLfY0z",
+  "text" : "Detachment... lie down!",
+  "translations" : {
+    "russian" : "Отделение... лежать!"
+  },
+  "tokens" : [ {
+    "token" : "detachment",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "detach",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "lie",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "down",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWQdYDTAu_IiLfY00",
+  "text" : "Detachment, lie down!",
+  "translations" : {
+    "russian" : "Отделение... лежать!"
+  },
+  "tokens" : [ {
+    "token" : "detachment",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "detach",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "lie",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "down",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu-QbNEXFMlzHLQJ8",
   "text" : "One shuttle, detached....",
   "translations" : {
@@ -60,6 +162,52 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFMmSbDTAu_IiLfRpE",
+  "text" : "Second stage detaching.",
+  "translations" : {
+    "russian" : "Вторая ступень отделяется.."
+  },
+  "tokens" : [ {
+    "token" : "second",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "stage",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "detach",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFM_6hDTAu_IiLfR8R",
+  "text" : "Second stage detaching.",
+  "translations" : {
+    "russian" : "Вторая ступень отделяется.."
+  },
+  "tokens" : [ {
+    "token" : "second",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "stage",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "detach",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgq0Z8NEXFMlzHLKFb",
   "text" : "The tether broke, I'm detached!",
   "translations" : {
@@ -94,6 +242,110 @@
     "token" : "detach",
     "startOffset" : 22,
     "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFM_5iDTAu_IiLfR8Q",
+  "text" : "Second stage ready to detach.",
+  "translations" : {
+    "russian" : "Вторая ступень готова. На экран."
+  },
+  "tokens" : [ {
+    "token" : "second",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "stage",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "ready",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "detach",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMmRWDTAu_IiLfRpD",
+  "text" : "Second stage ready to detach.",
+  "translations" : {
+    "russian" : "Вторая ступень готова. На экран."
+  },
+  "tokens" : [ {
+    "token" : "second",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "stage",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "ready",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "detach",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEb7CrDTAu_IiLet2b",
+  "text" : "Stellar bomb initiated and detached.",
+  "translations" : {
+    "russian" : "Звездная бомба запускается и отделяется."
+  },
+  "tokens" : [ {
+    "token" : "stellar",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "bomb",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "initiate",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "detached",
+    "startOffset" : 27,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "detach",
+    "startOffset" : 27,
+    "endOffset" : 35,
     "position" : 4
   } ],
   "contentScore" : null

@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoEZZMtDTAu_IiLesLK",
+  "text" : "Harmonious and productive.",
+  "translations" : {
+    "russian" : "Гармоничным и продуктивным."
+  },
+  "tokens" : [ {
+    "token" : "harmonious",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "productive",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "product",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFK7a2DTAu_IiLfQX5",
+  "text" : "Oozy but productive.",
+  "translations" : {
+    "russian" : "Слюняво, но продуктивно."
+  },
+  "tokens" : [ {
+    "token" : "oozy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "but",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "productive",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "product",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpxT1NEXFMlzHLIuU",
   "text" : "It's product liability.",
   "translations" : {
@@ -23,6 +79,34 @@
     "token" : "liability",
     "startOffset" : 13,
     "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFV6BxDTAu_IiLfYlf",
+  "text" : "Cola product, please.",
+  "translations" : {
+    "russian" : "Любую колу, пожалуйста."
+  },
+  "tokens" : [ {
+    "token" : "cola",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "product",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "duct",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "please",
+    "startOffset" : 14,
+    "endOffset" : 20,
     "position" : 2
   } ],
   "contentScore" : null
@@ -137,6 +221,82 @@
     "token" : "dream",
     "startOffset" : 19,
     "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEbA7fDTAu_IiLetPa",
+  "text" : "We got an elastic product.",
+  "translations" : {
+    "russian" : "У нас эластичный продукт."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "elastic",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "product",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "duct",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEqcSDTAu_IiLfLdY",
+  "text" : "Your client misused his product.",
+  "translations" : {
+    "russian" : "Ваш клиент злоупотреблял его продукцией."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "client",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "misuse",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "his",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "product",
+    "startOffset" : 24,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "duct",
+    "startOffset" : 24,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null

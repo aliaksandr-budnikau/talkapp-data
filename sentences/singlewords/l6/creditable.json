@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoFdB0-DTAu_IiLfeL5",
+  "text" : "Credit controls.",
+  "translations" : {
+    "russian" : "Кредитный контроль."
+  },
+  "tokens" : [ {
+    "token" : "credit",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "control",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpde1NEXFMlzHLISm",
   "text" : "I have excellent credit.",
   "translations" : {
@@ -80,6 +98,34 @@
     "startOffset" : 10,
     "endOffset" : 16,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFbsTdDTAu_IiLfdLH",
+  "text" : "Credit consolidation instruments.",
+  "translations" : {
+    "russian" : "Кредитные инструменты консолидации."
+  },
+  "tokens" : [ {
+    "token" : "credit",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "consolidation",
+    "startOffset" : 7,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "consolidate",
+    "startOffset" : 7,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "instrument",
+    "startOffset" : 21,
+    "endOffset" : 32,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -322,6 +368,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEqPQADTAu_IiLe4wE",
+  "text" : "Full Faith and Credit.",
+  "translations" : {
+    "russian" : "Полным признанием и доверием?"
+  },
+  "tokens" : [ {
+    "token" : "full",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "faith",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "credit",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBfh9DTAu_IiLfJKZ",
+  "text" : "Credit consolidation instruments.",
+  "translations" : {
+    "russian" : "Кредитные инструменты консолидации."
+  },
+  "tokens" : [ {
+    "token" : "credit",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "consolidation",
+    "startOffset" : 7,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "consolidate",
+    "startOffset" : 7,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "instrument",
+    "startOffset" : 21,
+    "endOffset" : 32,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpdbLNEXFMlzHLISi",
   "text" : "We both need extra credit.",
   "translations" : {
@@ -345,143 +447,6 @@
   }, {
     "token" : "extra",
     "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "credit",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpdcZNEXFMlzHLISj",
-  "text" : "Ask her about a credit.",
-  "translations" : {
-    "russian" : "Спроси её о кредите."
-  },
-  "tokens" : [ {
-    "token" : "ask",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "her",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "about",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "credit",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpd9VNEXFMlzHLITQ",
-  "text" : "He took credit for it.",
-  "translations" : {
-    "russian" : "Он приписал себе все заслуги."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "took",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "credit",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpfKsNEXFMlzHLIU_",
-  "text" : "You credit the drugs here?",
-  "translations" : {
-    "russian" : "Вы берете здесь наркотики в долг?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "credit",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "drug",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "here",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpfEmNEXFMlzHLIU1",
-  "text" : "Look, I don't give credit.",
-  "translations" : {
-    "russian" : "Послушай, я не даю в долг."
-  },
-  "tokens" : [ {
-    "token" : "look",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "don't",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "give",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "g",
-    "startOffset" : 14,
     "endOffset" : 18,
     "position" : 3
   }, {

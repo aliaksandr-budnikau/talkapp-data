@@ -55,6 +55,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWbgwpmdNEXFMlzHLSZX",
+  "text" : "You said deep.",
+  "translations" : {
+    "russian" : "Говорите, глубинное?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "said",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "deep",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu7PYNEXFMlzHLQDd",
   "text" : "I said something light.",
   "translations" : {
@@ -83,25 +106,305 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwpmdNEXFMlzHLSZX",
-  "text" : "You said deep.",
+  "id" : "AWoDW9XkDTAu_IiLeB4w",
+  "text" : "Appendicitis, he said.",
   "translations" : {
-    "russian" : "Говорите, глубинное?"
+    "russian" : "Аппендицит, сказал он."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "appendicitis",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "he",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "said",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbahmDTAu_IiLeEXm",
+  "text" : "Tourist attraction, I said.",
+  "translations" : {
+    "russian" : "Я же сказал, аттракцион для туристов."
+  },
+  "tokens" : [ {
+    "token" : "tourist",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "attraction",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "i",
+    "startOffset" : 20,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "said",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDhtf1DTAu_IiLeH9n",
+  "text" : "He said terrible affliction?",
+  "translations" : {
+    "russian" : "Сказал про ужасную болезнь?"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "said",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "terrible",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "affliction",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4_VNDTAu_IiLeUgs",
+  "text" : "I said, bath time.",
+  "translations" : {
+    "russian" : "Сказано, баня."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "said",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "bath",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "time",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDqtUzDTAu_IiLeM1V",
+  "text" : "Showing goodwill, they said.",
+  "translations" : {
+    "russian" : "Как они сказали, чтобы выразить доброжелательность."
+  },
+  "tokens" : [ {
+    "token" : "showing",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "show",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "goodwill",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "they",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "said",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEG4r-DTAu_IiLeedO",
+  "text" : "That's what he said.",
+  "translations" : {
+    "russian" : "Такон сказал."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "what",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "he",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "said",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEssNWDTAu_IiLe6cA",
+  "text" : "It's plane, Quixote said...",
+  "translations" : {
+    "russian" : "Это понятно, сказал Кихот..."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "plane",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "quixote",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "said",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE154sDTAu_IiLfA9q",
+  "text" : "I said beaver pelts.",
+  "translations" : {
+    "russian" : "Шкуры бобра."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "said",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "beaver",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "pelt",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBn95DTAu_IiLfJQj",
+  "text" : "Zap, said the lady.",
+  "translations" : {
+    "russian" : "Бац,-сказала женщина."
+  },
+  "tokens" : [ {
+    "token" : "zap",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
     "token" : "said",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "startOffset" : 5,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "deep",
-    "startOffset" : 9,
+    "token" : "the",
+    "startOffset" : 10,
     "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "lady",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBp5LDTAu_IiLfJRx",
+  "text" : "Zap, said the lady.",
+  "translations" : {
+    "russian" : "Бац,-сказала женщина."
+  },
+  "tokens" : [ {
+    "token" : "zap",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "said",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "lady",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFHtycDTAu_IiLfNxu",
+  "text" : "I said apologize.",
+  "translations" : {
+    "russian" : "Попроси у нее прощения, сейчас же."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "said",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "apologize",
+    "startOffset" : 7,
+    "endOffset" : 16,
     "position" : 2
   } ],
   "contentScore" : null
@@ -131,359 +434,6 @@
     "startOffset" : 13,
     "endOffset" : 18,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgf8YBNEXFMlzHK9CV",
-  "text" : "I said everybody out!",
-  "translations" : {
-    "russian" : "Я сказала, все вон!"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "said",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "everybody",
-    "startOffset" : 7,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgh6jaNEXFMlzHK-wL",
-  "text" : "Dream big, he said.",
-  "translations" : {
-    "russian" : "Он сказал мыслить шире."
-  },
-  "tokens" : [ {
-    "token" : "dream",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "big",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "he",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "said",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt_VXNEXFMlzHLORF",
-  "text" : "I never said grass.",
-  "translations" : {
-    "russian" : "Я не говорила трава."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "never",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "said",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "grass",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwNCrNEXFMlzHLR9U",
-  "text" : "I said everybody out!",
-  "translations" : {
-    "russian" : "Я сказала, все вон!"
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "said",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "everybody",
-    "startOffset" : 7,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "out",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvjKbNEXFMlzHLRJf",
-  "text" : "I said fresh deck.",
-  "translations" : {
-    "russian" : "Я сказал свежую колоду."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "said",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "fresh",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "deck",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "ck",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgv_MyNEXFMlzHLRs8",
-  "text" : "That's what the stewardess said.",
-  "translations" : {
-    "russian" : "Стюардесса тоже так сказала."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "what",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "stewardess",
-    "startOffset" : 16,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "said",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwWekNEXFMlzHLSGD",
-  "text" : "You said you booked it.",
-  "translations" : {
-    "russian" : "Ты сказала, что заказала его."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "said",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "you",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "booked",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "book",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyi1uNEXFMlzHLU89",
-  "text" : "Transport said about four hours.",
-  "translations" : {
-    "russian" : "Сможем перевезти часа через 4."
-  },
-  "tokens" : [ {
-    "token" : "transport",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "said",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "about",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "four",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "hour",
-    "startOffset" : 26,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgy37-NEXFMlzHLVTa",
-  "text" : "Bailey said he was single.",
-  "translations" : {
-    "russian" : "Бейли утверждал, что он холостяк."
-  },
-  "tokens" : [ {
-    "token" : "bailey",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "said",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "he",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "was",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "single",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgm-YqNEXFMlzHLEym",
-  "text" : "I said you're crushing me.",
-  "translations" : {
-    "russian" : "Говорю тебе, давишь."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "said",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "you're",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "crushing",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "crush",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "me",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgty_gNEXFMlzHLN9X",
-  "text" : "Like I said, no sweat.",
-  "translations" : {
-    "russian" : "Как я и сказал, нет проблем."
-  },
-  "tokens" : [ {
-    "token" : "like",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "said",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "no",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "sweat",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

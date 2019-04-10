@@ -1,107 +1,371 @@
 [ {
-  "id" : "AWbgxJ89NEXFMlzHLS53",
-  "text" : "My luggage hasn't arrived yet.",
+  "id" : "AWoE5SJkDTAu_IiLfDMv",
+  "text" : "Detain her until I arrive.",
   "translations" : {
-    "russian" : "Мой багаж ещё не прибыл."
+    "russian" : "Задержите её до моего прибытия."
   },
   "tokens" : [ {
-    "token" : "my",
+    "token" : "detain",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "luggage",
-    "startOffset" : 3,
+    "token" : "her",
+    "startOffset" : 7,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "hasn't",
+    "token" : "until",
     "startOffset" : 11,
-    "endOffset" : 17,
+    "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "arrive",
-    "startOffset" : 18,
-    "endOffset" : 25,
+    "token" : "i",
+    "startOffset" : 17,
+    "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "yet",
-    "startOffset" : 26,
-    "endOffset" : 29,
+    "token" : "arrive",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "arr",
+    "startOffset" : 19,
+    "endOffset" : 25,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvOTwNEXFMlzHLQmp",
-  "text" : "Now arriving at gate two.",
+  "id" : "AWoEdv67DTAu_IiLevJn",
+  "text" : "I'll arrive in a gondola.",
   "translations" : {
-    "russian" : "Прибывает ко второму шлюзу."
+    "russian" : "Я приплыву на гондоле. Прекрасно, месье виконт."
   },
   "tokens" : [ {
-    "token" : "now",
+    "token" : "i'll",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "arrive",
-    "startOffset" : 4,
-    "endOffset" : 12,
+    "startOffset" : 5,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "at",
-    "startOffset" : 13,
-    "endOffset" : 15,
+    "token" : "arr",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 12,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "gate",
-    "startOffset" : 16,
-    "endOffset" : 20,
+    "token" : "a",
+    "startOffset" : 15,
+    "endOffset" : 16,
     "position" : 3
   }, {
-    "token" : "two",
-    "startOffset" : 21,
+    "token" : "gondola",
+    "startOffset" : 17,
     "endOffset" : 24,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtlSuNEXFMlzHLNrw",
-  "text" : "Sister Monica Joan arrived penniless.",
+  "id" : "AWoE5EGrDTAu_IiLfDDf",
+  "text" : "Detain her until I arrive.",
   "translations" : {
-    "russian" : "Сестра Моника Джоан приехала к нам без гроша."
+    "russian" : "Задержите её до моего прибытия."
   },
   "tokens" : [ {
-    "token" : "sister",
+    "token" : "detain",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "monica",
+    "token" : "her",
     "startOffset" : 7,
-    "endOffset" : 13,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "joan",
-    "startOffset" : 14,
-    "endOffset" : 18,
+    "token" : "until",
+    "startOffset" : 11,
+    "endOffset" : 16,
     "position" : 2
+  }, {
+    "token" : "i",
+    "startOffset" : 17,
+    "endOffset" : 18,
+    "position" : 3
   }, {
     "token" : "arrive",
     "startOffset" : 19,
-    "endOffset" : 26,
-    "position" : 3
+    "endOffset" : 25,
+    "position" : 4
   }, {
-    "token" : "penniless",
-    "startOffset" : 27,
-    "endOffset" : 36,
+    "token" : "arr",
+    "startOffset" : 19,
+    "endOffset" : 25,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyhb1NEXFMlzHLU73",
-  "text" : "The porter's arrived for work.",
+  "id" : "AWoFGoa5DTAu_IiLfM45",
+  "text" : "Evading arrest.",
   "translations" : {
-    "russian" : "Портье прибыл на работу."
+    "russian" : "Сбежал от копа."
+  },
+  "tokens" : [ {
+    "token" : "evade",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "arrest",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "arr",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4vo_DTAu_IiLeUaL",
+  "text" : "Arrest barbarians!",
+  "translations" : {
+    "russian" : "Арестуйте варваров!"
+  },
+  "tokens" : [ {
+    "token" : "arrest",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "arr",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "barbarian",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQBtPDTAu_IiLfUOZ",
+  "text" : "Exterminator, you're under arrest.",
+  "translations" : {
+    "russian" : "Уничтожитель, ты арестован."
+  },
+  "tokens" : [ {
+    "token" : "exterminator",
+    "startOffset" : 0,
+    "endOffset" : 12,
+    "position" : 0
+  }, {
+    "token" : "you're",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "under",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "arrest",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "arr",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGoQRDTAu_IiLfM4v",
+  "text" : "What about evading arrest?",
+  "translations" : {
+    "russian" : "А уклонение от ареста?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "about",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "evade",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "arrest",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "arr",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhNeADTAu_IiLex3r",
+  "text" : "You're under arrest, Griffin.",
+  "translations" : {
+    "russian" : "Ты арестован, Грифин."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "under",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "arrest",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "arr",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "griffin",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGmU_DTAu_IiLfM3S",
+  "text" : "Your client evaded arrest.",
+  "translations" : {
+    "russian" : "Ваш клиент избегал ареста."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "client",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "evade",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "arrest",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "arr",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHPrxDTAu_IiLeett",
+  "text" : "Is he resisting arrest?",
+  "translations" : {
+    "russian" : "Это сопротивление аресту?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "he",
+    "startOffset" : 3,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "resisting",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "resist",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "arrest",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "arr",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHPXQDTAu_IiLeetc",
+  "text" : "He did resist arrest.",
+  "translations" : {
+    "russian" : "Он таки сопротивлялся при аресте."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "did",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "resist",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "arrest",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "arr",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQvj-DTAu_IiLfU0G",
+  "text" : "The cavalry's arrived.",
+  "translations" : {
+    "russian" : "А вот и кавалерия."
   },
   "tokens" : [ {
     "token" : "the",
@@ -109,13 +373,87 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "porter's",
+    "token" : "cavalry",
     "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "arrive",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDOS2RDTAu_IiLd8hy",
+  "text" : "That's Abbot Vincent arriving.",
+  "translations" : {
+    "russian" : "Прибыл аббат Винсент."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "abbot",
+    "startOffset" : 7,
     "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "porter",
-    "startOffset" : 4,
+    "token" : "vincent",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "arrive",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPzqEDTAu_IiLd9aH",
+  "text" : "Asset K has arrived.",
+  "translations" : {
+    "russian" : "Агент К прибыла?"
+  },
+  "tokens" : [ {
+    "token" : "asset",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "k",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "arrive",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGIaDDTAu_IiLfMhP",
+  "text" : "Baal's fleet arrives.",
+  "translations" : {
+    "russian" : "Флот Баала прибывает."
+  },
+  "tokens" : [ {
+    "token" : "baal",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fleet",
+    "startOffset" : 7,
     "endOffset" : 12,
     "position" : 1
   }, {
@@ -123,54 +461,34 @@
     "startOffset" : 13,
     "endOffset" : 20,
     "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "work",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvo91NEXFMlzHLRVC",
-  "text" : "Our sample engine hasn't arrived yet.",
+  "id" : "AWoFJCQRDTAu_IiLfO4E",
+  "text" : "The traitors have arrived.",
   "translations" : {
-    "russian" : "Главный офис никак не пришлёт нам машины."
+    "russian" : "Изменники прибыли."
   },
   "tokens" : [ {
-    "token" : "our",
+    "token" : "the",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "sample",
+    "token" : "traitor",
     "startOffset" : 4,
-    "endOffset" : 10,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "engine",
-    "startOffset" : 11,
+    "token" : "have",
+    "startOffset" : 13,
     "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "hasn't",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
     "token" : "arrive",
-    "startOffset" : 25,
-    "endOffset" : 32,
-    "position" : 4
-  }, {
-    "token" : "yet",
-    "startOffset" : 33,
-    "endOffset" : 36,
-    "position" : 5
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

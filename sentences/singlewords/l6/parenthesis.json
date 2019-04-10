@@ -1,0 +1,75 @@
+[ {
+  "id" : "AWoEkGG4DTAu_IiLe0LO",
+  "text" : "Colon closed parenthesis.",
+  "translations" : {
+    "russian" : "Двоеточие, закрывающая скобка."
+  },
+  "tokens" : [ {
+    "token" : "colon",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "closed",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "close",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "parenthesis",
+    "startOffset" : 13,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMtCIDTAu_IiLfRuN",
+  "text" : "I'm a parenthesis?",
+  "translations" : {
+    "russian" : "Я то, что в скобках?"
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "parenthesis",
+    "startOffset" : 6,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFMs9rDTAu_IiLfRuK",
+  "text" : "End of parenthesis.",
+  "translations" : {
+    "russian" : "Награ... конец скобок."
+  },
+  "tokens" : [ {
+    "token" : "end",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "parenthesis",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

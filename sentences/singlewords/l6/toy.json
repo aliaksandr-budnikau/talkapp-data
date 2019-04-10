@@ -55,6 +55,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDXWNqDTAu_IiLeCC9",
+  "text" : "Terrible pharmacy toys.",
+  "translations" : {
+    "russian" : "Ужасные аптечные игрушки."
+  },
+  "tokens" : [ {
+    "token" : "terrible",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "pharmacy",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "toy",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmAPMNEXFMlzHLDJF",
   "text" : "Oh, the toy birds.",
   "translations" : {
@@ -139,6 +162,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEAwwgDTAu_IiLeZwZ",
+  "text" : "Toys... they vibrated.",
+  "translations" : {
+    "russian" : "Игрушки... они вибрировали."
+  },
+  "tokens" : [ {
+    "token" : "toy",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "they",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "vibrate",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmADuNEXFMlzHLDIx",
   "text" : "A toy one, right?",
   "translations" : {
@@ -191,6 +237,34 @@
     "token" : "them",
     "startOffset" : 17,
     "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAuu_DTAu_IiLeZuy",
+  "text" : "Vibrators, other sex toys.",
+  "translations" : {
+    "russian" : "Вибраторы, другие игрушки."
+  },
+  "tokens" : [ {
+    "token" : "vibrator",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "other",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "sex",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "toy",
+    "startOffset" : 21,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
@@ -350,134 +424,35 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmAQqNEXFMlzHLDJI",
-  "text" : "The toy furniture is great.",
+  "id" : "AWoDaByaDTAu_IiLeDhI",
+  "text" : "Easy with that toy artillery.",
   "translations" : {
-    "russian" : "Игрушечная мебель это замечательно."
+    "russian" : "Полегче с этой игрушечной артиллерией."
   },
   "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "toy",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "furniture",
-    "startOffset" : 8,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "great",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmAm3NEXFMlzHLDJu",
-  "text" : "I won't be toyed with.",
-  "translations" : {
-    "russian" : "Я не хочу, чтобы со мной играли."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "won't",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "be",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "toy",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "with",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmAnmNEXFMlzHLDJw",
-  "text" : "I toyed with normal life.",
-  "translations" : {
-    "russian" : "Я играла в нормальную жизнь."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "toy",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "with",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "normal",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "life",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgmAeFNEXFMlzHLDJf",
-  "text" : "That explains the toy gun.",
-  "translations" : {
-    "russian" : "Это объясняет игрушечный пистолет."
-  },
-  "tokens" : [ {
-    "token" : "that",
+    "token" : "easy",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "explain",
+    "token" : "with",
     "startOffset" : 5,
-    "endOffset" : 13,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
+    "token" : "that",
+    "startOffset" : 10,
+    "endOffset" : 14,
     "position" : 2
   }, {
     "token" : "toy",
-    "startOffset" : 18,
-    "endOffset" : 21,
+    "startOffset" : 15,
+    "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "gun",
-    "startOffset" : 22,
-    "endOffset" : 25,
+    "token" : "artillery",
+    "startOffset" : 19,
+    "endOffset" : 28,
     "position" : 4
   } ],
   "contentScore" : null

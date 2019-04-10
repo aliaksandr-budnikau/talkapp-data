@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWoEgSPwDTAu_IiLexIw",
+  "text" : "This is out of bounds.",
+  "translations" : {
+    "russian" : "Это переходит границы."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "out",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "bounds",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgSYTDTAu_IiLexI2",
+  "text" : "It was out of bounds.",
+  "translations" : {
+    "russian" : "За границу поля."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "out",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 3
+  }, {
+    "token" : "bounds",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoD-fkWDTAu_IiLeYBb",
+  "text" : "Technically, I could veto.",
+  "translations" : {
+    "russian" : "Технически, я мог бы наложить вето."
+  },
+  "tokens" : [ {
+    "token" : "technical",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "could",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "veto",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhV_vDTAu_IiLfhKK",
+  "text" : "Elaborate, technical sounding twaddle.",
+  "translations" : {
+    "russian" : "Искусственная, умно звучащая болтовня."
+  },
+  "tokens" : [ {
+    "token" : "elaborate",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "technical",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "sounding",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "twaddle",
+    "startOffset" : 30,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeMc6NEXFMlzHK7hb",
   "text" : "Technically I'm on holiday.",
   "translations" : {
@@ -23,6 +79,67 @@
     "token" : "holiday",
     "startOffset" : 19,
     "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEcaSDTAu_IiLecpB",
+  "text" : "She's technically freelance anyway.",
+  "translations" : {
+    "russian" : "Формально она - внештатный сотрудник."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "technical",
+    "startOffset" : 6,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "freelance",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "anyway",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDTpGiDTAu_IiLeAAc",
+  "text" : "Technically, it's an amputation.",
+  "translations" : {
+    "russian" : "Формально, это ампутация."
+  },
+  "tokens" : [ {
+    "token" : "technical",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "amputation",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "amputate",
+    "startOffset" : 21,
+    "endOffset" : 31,
     "position" : 3
   } ],
   "contentScore" : null
@@ -52,6 +169,29 @@
     "startOffset" : 25,
     "endOffset" : 31,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEtx_qDTAu_IiLe7Kh",
+  "text" : "Your technical accomplishments?",
+  "translations" : {
+    "russian" : "Ваши технические достижения?"
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "technical",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "accomplishment",
+    "startOffset" : 15,
+    "endOffset" : 30,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -88,6 +228,77 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFaw40DTAu_IiLfcch",
+  "text" : "It was technically very competent.",
+  "translations" : {
+    "russian" : "Технически всё было очень грамотно."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "technical",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "very",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "competent",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhev5DTAu_IiLfhPA",
+  "text" : "Technically, you have dyed hair.",
+  "translations" : {
+    "russian" : "Фактически, ты все-таки покрасила волосы."
+  },
+  "tokens" : [ {
+    "token" : "technical",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "dyed",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "dye",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "hair",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkPKYNEXFMlzHLAtR",
   "text" : "Technically, it's multi-cultural trash.",
   "translations" : {
@@ -117,6 +328,77 @@
     "token" : "trash",
     "startOffset" : 33,
     "endOffset" : 38,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmVJNDTAu_IiLeKhk",
+  "text" : "Technically, in a telephone kiosk.",
+  "translations" : {
+    "russian" : "Технически говоря, в телефонной будке."
+  },
+  "tokens" : [ {
+    "token" : "technical",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "telephone",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "kiosk",
+    "startOffset" : 28,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9IaDDTAu_IiLfFuC",
+  "text" : "That's not technically a substitution.",
+  "translations" : {
+    "russian" : "Технически, это не замена."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "technical",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 23,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "substitution",
+    "startOffset" : 25,
+    "endOffset" : 37,
+    "position" : 4
+  }, {
+    "token" : "substitute",
+    "startOffset" : 25,
+    "endOffset" : 37,
     "position" : 4
   } ],
   "contentScore" : null
@@ -155,6 +437,82 @@
     "token" : "submission",
     "startOffset" : 38,
     "endOffset" : 49,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDu8iRDTAu_IiLePX9",
+  "text" : "Technically, Norfolk has more gross tonnage.",
+  "translations" : {
+    "russian" : "Формально, у Норфолка больший валовый тоннаж."
+  },
+  "tokens" : [ {
+    "token" : "technical",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "norfolk",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "has",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "more",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "gross",
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "tonnage",
+    "startOffset" : 36,
+    "endOffset" : 43,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD1zLvDTAu_IiLeTDE",
+  "text" : "Well, technically, that's not a cupboard.",
+  "translations" : {
+    "russian" : "Это долбаный чулан, да ведь?"
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "technical",
+    "startOffset" : 6,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "that",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "not",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "a",
+    "startOffset" : 30,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "cupboard",
+    "startOffset" : 32,
+    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null

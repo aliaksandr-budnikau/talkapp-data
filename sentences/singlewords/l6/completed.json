@@ -1,173 +1,214 @@
 [ {
-  "id" : "AWbgxRk0NEXFMlzHLTCt",
-  "text" : "Refuel complete, sir.",
+  "id" : "AWoDeUOsDTAu_IiLeF-u",
+  "text" : "Barrel cleaning completed!",
   "translations" : {
-    "russian" : "Заправка завершена, сэр."
+    "russian" : "Очистка ствола закончена."
   },
   "tokens" : [ {
-    "token" : "fuel",
+    "token" : "barrel",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "complete",
+    "token" : "cleaning",
     "startOffset" : 7,
     "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "sir",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgukQ6NEXFMlzHLPWx",
-  "text" : "God, you're completely white.",
-  "translations" : {
-    "russian" : "Бог ты мой, ты совсем бледный."
-  },
-  "tokens" : [ {
-    "token" : "god",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you're",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "completely",
-    "startOffset" : 12,
-    "endOffset" : 22,
+    "token" : "completed",
+    "startOffset" : 16,
+    "endOffset" : 25,
     "position" : 2
   }, {
     "token" : "complete",
-    "startOffset" : 12,
-    "endOffset" : 22,
+    "startOffset" : 16,
+    "endOffset" : 25,
     "position" : 2
-  }, {
-    "token" : "white",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgutfaNEXFMlzHLPo4",
-  "text" : "Your son is completely marginalized.",
+  "id" : "AWoDednmDTAu_IiLeGEU",
+  "text" : "Barrel cleaning completed!",
   "translations" : {
-    "russian" : "Ваш сын чувствует себя маргиналом."
+    "russian" : "Очистка ствола закончена."
   },
   "tokens" : [ {
-    "token" : "your",
+    "token" : "barrel",
     "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "son",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "completely",
-    "startOffset" : 12,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "complete",
-    "startOffset" : 12,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "marginalize",
-    "startOffset" : 23,
-    "endOffset" : 35,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWn5nbjtSHZo49ps8t_D",
-  "text" : "It was also completely redundant.",
-  "translations" : {
-    "russian" : "Кроме того это было совершенно излишним."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "was",
-    "startOffset" : 3,
     "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cleaning",
+    "startOffset" : 7,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "also",
-    "startOffset" : 7,
-    "endOffset" : 11,
+    "token" : "completed",
+    "startOffset" : 16,
+    "endOffset" : 25,
     "position" : 2
   }, {
-    "token" : "completely",
-    "startOffset" : 12,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
     "token" : "complete",
-    "startOffset" : 12,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "redundant",
-    "startOffset" : 23,
-    "endOffset" : 32,
-    "position" : 4
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdHIyNEXFMlzHK6n3",
-  "text" : "This party's a complete bust.",
+  "id" : "AWoFIpAXDTAu_IiLfOjA",
+  "text" : "Ground level preparations completed?",
   "translations" : {
-    "russian" : "Эта вечеринка полностью испорчена."
+    "russian" : "Основные пункты приготовлений завершены?"
   },
   "tokens" : [ {
-    "token" : "this",
+    "token" : "ground",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "party",
-    "startOffset" : 5,
+    "token" : "level",
+    "startOffset" : 7,
     "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "a",
+    "token" : "preparation",
     "startOffset" : 13,
-    "endOffset" : 14,
+    "endOffset" : 25,
     "position" : 2
   }, {
-    "token" : "complete",
-    "startOffset" : 15,
-    "endOffset" : 23,
+    "token" : "completed",
+    "startOffset" : 26,
+    "endOffset" : 35,
     "position" : 3
   }, {
-    "token" : "bust",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 4
+    "token" : "complete",
+    "startOffset" : 26,
+    "endOffset" : 35,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgszERNEXFMlzHLM6R",
-  "text" : "They were my complete works.",
+  "id" : "AWoDePhJDTAu_IiLeF77",
+  "text" : "Barrel cleaning completed!",
   "translations" : {
-    "russian" : "Это мое полное собрание сочинений."
+    "russian" : "Очистка ствола закончена."
+  },
+  "tokens" : [ {
+    "token" : "barrel",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cleaning",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "completed",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "complete",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDeY5WDTAu_IiLeGBh",
+  "text" : "Barrel cleaning completed!",
+  "translations" : {
+    "russian" : "Очистка ствола закончена."
+  },
+  "tokens" : [ {
+    "token" : "barrel",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cleaning",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "completed",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "complete",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDfFKUDTAu_IiLeGbQ",
+  "text" : "Barrel cleaning completed!",
+  "translations" : {
+    "russian" : "Очистка ствола закончена."
+  },
+  "tokens" : [ {
+    "token" : "barrel",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "cleaning",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "completed",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "complete",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIkofDTAu_IiLfOfV",
+  "text" : "Ground level preparations completed?",
+  "translations" : {
+    "russian" : "Основные пункты приготовлений завершены?"
+  },
+  "tokens" : [ {
+    "token" : "ground",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "level",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "preparation",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "completed",
+    "startOffset" : 26,
+    "endOffset" : 35,
+    "position" : 3
+  }, {
+    "token" : "complete",
+    "startOffset" : 26,
+    "endOffset" : 35,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDUFW1DTAu_IiLeARq",
+  "text" : "They have completed their analyses.",
+  "translations" : {
+    "russian" : "Они закончили их исследования."
   },
   "tokens" : [ {
     "token" : "they",
@@ -175,215 +216,269 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "were",
+    "token" : "have",
     "startOffset" : 5,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "my",
+    "token" : "completed",
     "startOffset" : 10,
-    "endOffset" : 12,
+    "endOffset" : 19,
     "position" : 2
   }, {
     "token" : "complete",
-    "startOffset" : 13,
-    "endOffset" : 21,
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "their",
+    "startOffset" : 20,
+    "endOffset" : 25,
     "position" : 3
   }, {
-    "token" : "works",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "work",
-    "startOffset" : 22,
-    "endOffset" : 27,
+    "token" : "analyses",
+    "startOffset" : 26,
+    "endOffset" : 34,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoh1eNEXFMlzHLHDo",
-  "text" : "The report is complete, sir.",
+  "id" : "AWoDVQSlDTAu_IiLeBBu",
+  "text" : "We never completed the questionnaire.",
   "translations" : {
-    "russian" : "Рапорт исчерпывающий, сэр."
+    "russian" : "Но мы не закончили опросник."
   },
   "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "port",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "complete",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "sir",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfh55NEXFMlzHK8sq",
-  "text" : "My fall was a complete success.",
-  "translations" : {
-    "russian" : "Моё падение в погребе оказалось полным успехом."
-  },
-  "tokens" : [ {
-    "token" : "my",
+    "token" : "we",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "fall",
+    "token" : "never",
     "startOffset" : 3,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "was",
-    "startOffset" : 8,
-    "endOffset" : 11,
+    "token" : "completed",
+    "startOffset" : 9,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
+    "token" : "complete",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "complete",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "success",
+    "token" : "questionnaire",
     "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 5
+    "endOffset" : 36,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnXeHNEXFMlzHLFVE",
-  "text" : "This stuff is a complete tiger.",
+  "id" : "AWoEdgM9DTAu_IiLeu9k",
+  "text" : "We finally completed a puzzle.",
   "translations" : {
-    "russian" : "Ёто вещество - насто щий зверь."
+    "russian" : "Мы сложили головоломку."
   },
   "tokens" : [ {
-    "token" : "this",
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "final",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "completed",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "complete",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "puzzle",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDUcGtDTAu_IiLeAgO",
+  "text" : "They have completed their analyses.",
+  "translations" : {
+    "russian" : "Они закончили их исследования."
+  },
+  "tokens" : [ {
+    "token" : "they",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "stuff",
+    "token" : "have",
     "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "completed",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "complete",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "their",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "analyses",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDT3WKDTAu_IiLeAI-",
+  "text" : "They have completed their analyses.",
+  "translations" : {
+    "russian" : "Они закончили их исследования."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "completed",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "complete",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "their",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "analyses",
+    "startOffset" : 26,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBywMDTAu_IiLfJYh",
+  "text" : "Completely swamped.",
+  "translations" : {
+    "russian" : "Абсолютно завалены."
+  },
+  "tokens" : [ {
+    "token" : "completely",
+    "startOffset" : 0,
     "endOffset" : 10,
-    "position" : 1
+    "position" : 0
   }, {
-    "token" : "is",
+    "token" : "complete",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "swamp",
     "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "complete",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "tiger",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwlUGNEXFMlzHLSU-",
-  "text" : "I think the change is complete.",
-  "translations" : {
-    "russian" : "Мне кажется, превращение завершилось."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "think",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "change",
-    "startOffset" : 12,
     "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "is",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "complete",
-    "startOffset" : 22,
-    "endOffset" : 30,
-    "position" : 5
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgfHKxNEXFMlzHK8Vm",
-  "text" : "The Experimental Space Voyage is complete!",
+  "id" : "AWoFJh6hDTAu_IiLfPRy",
+  "text" : "Completely annihilated.",
   "translations" : {
-    "russian" : "Закончился пробный космический рейс!"
+    "russian" : "Оно полностью уничтожено."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "completely",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 10,
     "position" : 0
   }, {
-    "token" : "experimental",
-    "startOffset" : 4,
-    "endOffset" : 16,
-    "position" : 1
+    "token" : "complete",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
   }, {
-    "token" : "space",
-    "startOffset" : 17,
+    "token" : "annihilate",
+    "startOffset" : 11,
     "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "voyage",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 3
-  }, {
-    "token" : "is",
-    "startOffset" : 30,
-    "endOffset" : 32,
-    "position" : 4
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFKZ8DDTAu_IiLfP-T",
+  "text" : "Completely astonished.",
+  "translations" : {
+    "russian" : "Совершенно поразила."
+  },
+  "tokens" : [ {
+    "token" : "completely",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
   }, {
     "token" : "complete",
-    "startOffset" : 33,
-    "endOffset" : 41,
-    "position" : 5
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "astonish",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbmdSDTAu_IiLeEfB",
+  "text" : "Complete affectation.",
+  "translations" : {
+    "russian" : "Сплошное притворство."
+  },
+  "tokens" : [ {
+    "token" : "complete",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "affectation",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

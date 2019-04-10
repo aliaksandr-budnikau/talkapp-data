@@ -1,46 +1,105 @@
 [ {
-  "id" : "AWbglO0_NEXFMlzHLCKr",
-  "text" : "Now the ancient gods answer you.",
+  "id" : "AWoFEtESDTAu_IiLfLfM",
+  "text" : "Ancient serpent.",
   "translations" : {
-    "russian" : "Древние боги ответили тебе."
+    "russian" : "Да, древний змей."
   },
   "tokens" : [ {
-    "token" : "now",
+    "token" : "ancient",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "ancient",
+    "token" : "serpent",
     "startOffset" : 8,
     "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "god",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "answer",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "you",
-    "startOffset" : 28,
-    "endOffset" : 31,
-    "position" : 5
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgug4mNEXFMlzHLPQI",
-  "text" : "The ancient chariot races of Rome!",
+  "id" : "AWoFeuEuDTAu_IiLffZ9",
+  "text" : "Corinthian columns. Ancient art.",
   "translations" : {
-    "russian" : "Древнеримские гонки на колесницах!"
+    "russian" : "Коринфские колонны это античное искусство."
+  },
+  "tokens" : [ {
+    "token" : "corinthian",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "column",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "ancient",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "art",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRCxODTAu_IiLd-PX",
+  "text" : "An ancient Oriental tradition.",
+  "translations" : {
+    "russian" : "Это старинная восточная традиция."
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "ancient",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "oriental",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "tradition",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwyQuDTAu_IiLe9VG",
+  "text" : "Ancient Egyptian algebra.",
+  "translations" : {
+    "russian" : "Древнеегипетская алгебра."
+  },
+  "tokens" : [ {
+    "token" : "ancient",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "egyptian",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "algebra",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ9X4DTAu_IiLfU_U",
+  "text" : "The ancient cactus fruit.",
+  "translations" : {
+    "russian" : "Плод древнего кактуса."
   },
   "tokens" : [ {
     "token" : "the",
@@ -53,25 +112,363 @@
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "chariot",
+    "token" : "cactus",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "fruit",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdgFZDTAu_IiLeu9e",
+  "text" : "An ancient puzzle.",
+  "translations" : {
+    "russian" : "Древняя головоломка."
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "ancient",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "puzzle",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAj4YDTAu_IiLeZmf",
+  "text" : "Ancients, I beseech you.",
+  "translations" : {
+    "russian" : "Древние, я умоляю вас."
+  },
+  "tokens" : [ {
+    "token" : "ancient",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 10,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "beseech",
     "startOffset" : 12,
     "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "race",
+    "token" : "you",
     "startOffset" : 20,
-    "endOffset" : 25,
+    "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwyGeDTAu_IiLe9U-",
+  "text" : "That's ancient Egyptian.",
+  "translations" : {
+    "russian" : "Это на древнеегипетском."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "ancient",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "egyptian",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWCNrDTAu_IiLfYrG",
+  "text" : "It's ancient Cyrillic.",
+  "translations" : {
+    "russian" : "Древняя кириллица."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ancient",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "cyrillic",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwx3FDTAu_IiLe9U1",
+  "text" : "Ancient Egyptian God of chaos.",
+  "translations" : {
+    "russian" : "Древнеегипетский бог хаоса."
+  },
+  "tokens" : [ {
+    "token" : "ancient",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "egyptian",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "god",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
   }, {
     "token" : "of",
-    "startOffset" : 26,
-    "endOffset" : 28,
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "chaos",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwx6_DTAu_IiLe9U4",
+  "text" : "It's an ancient Egyptian myth.",
+  "translations" : {
+    "russian" : "Это древнеегипетский миф."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "ancient",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "egyptian",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "myth",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhJ1gDTAu_IiLex0z",
+  "text" : "Ancient works accumulate scholarship, commentary.",
+  "translations" : {
+    "russian" : "Должны быть другие источники. Древние работы накапливают учение, комментарии годами."
+  },
+  "tokens" : [ {
+    "token" : "ancient",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "works",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "work",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "accumulate",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "scholarship",
+    "startOffset" : 25,
+    "endOffset" : 36,
+    "position" : 3
+  }, {
+    "token" : "commentary",
+    "startOffset" : 38,
+    "endOffset" : 48,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSg16DTAu_IiLfWK_",
+  "text" : "Rich and ancient tradition, brother.",
+  "translations" : {
+    "russian" : "Богатая и древняя традиция, брат."
+  },
+  "tokens" : [ {
+    "token" : "rich",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "ancient",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "tradition",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "brother",
+    "startOffset" : 28,
+    "endOffset" : 35,
     "position" : 4
   }, {
-    "token" : "rome",
+    "token" : "broth",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXejoDTAu_IiLeq2N",
+  "text" : "The ancient Hawaiians called this.",
+  "translations" : {
+    "russian" : "Древние гавайцы называли это."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "ancient",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "hawaiian",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "called",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "call",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "this",
     "startOffset" : 29,
     "endOffset" : 33,
-    "position" : 5
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwx2HDTAu_IiLe9U0",
+  "text" : "It's an ancient Egyptian trick.",
+  "translations" : {
+    "russian" : "Это древнеегипетский трюк."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "ancient",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "egyptian",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "trick",
+    "startOffset" : 25,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-RmTDTAu_IiLeX3G",
+  "text" : "Ancient Urdu dialect meaning herald.",
+  "translations" : {
+    "russian" : "На древнем диалекте Урду это значит Вестник."
+  },
+  "tokens" : [ {
+    "token" : "ancient",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "urdu",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "dialect",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "meaning",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "mean",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "herald",
+    "startOffset" : 29,
+    "endOffset" : 35,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

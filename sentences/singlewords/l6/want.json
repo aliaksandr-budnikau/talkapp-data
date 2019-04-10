@@ -1,4 +1,78 @@
 [ {
+  "id" : "AWoDhiLvDTAu_IiLeH3H",
+  "text" : "Want ham?",
+  "translations" : {
+    "russian" : "Хочешь ветчины?"
+  },
+  "tokens" : [ {
+    "token" : "want",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ham",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGYftDTAu_IiLfMs-",
+  "text" : "Want Isabel.",
+  "translations" : {
+    "russian" : "Хочу к Изабель."
+  },
+  "tokens" : [ {
+    "token" : "want",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "isabel",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEm15nDTAu_IiLe2Mq",
+  "text" : "I want pomp, I want circumstance.",
+  "translations" : {
+    "russian" : "Я хочу роскошь, Я хочу церемонию."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "want",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "pomp",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "i",
+    "startOffset" : 13,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "want",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 4
+  }, {
+    "token" : "circumstance",
+    "startOffset" : 20,
+    "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgg5Z0NEXFMlzHK93d",
   "text" : "He wants your film.",
   "translations" : {
@@ -172,226 +246,71 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdS6HNEXFMlzHK6yV",
-  "text" : "I want eventful play!",
+  "id" : "AWoDTAsyDTAu_IiLd_ky",
+  "text" : "Everyone wanted Alma Carter.",
   "translations" : {
-    "russian" : "Я хочу незабываемые забавы!"
+    "russian" : "Все хотели Альму Картер."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "everyone",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "want",
-    "startOffset" : 2,
-    "endOffset" : 6,
+    "token" : "wanted",
+    "startOffset" : 9,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "eventful",
-    "startOffset" : 7,
+    "token" : "want",
+    "startOffset" : 9,
     "endOffset" : 15,
-    "position" : 2
+    "position" : 1
   }, {
-    "token" : "play",
+    "token" : "alma",
     "startOffset" : 16,
     "endOffset" : 20,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjkEXNEXFMlzHLAHm",
-  "text" : "I want clean surfaces.",
-  "translations" : {
-    "russian" : "Я хочу гладкую поверхность."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "want",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "clean",
-    "startOffset" : 7,
-    "endOffset" : 12,
     "position" : 2
   }, {
-    "token" : "surfaces",
-    "startOffset" : 13,
-    "endOffset" : 21,
+    "token" : "carter",
+    "startOffset" : 21,
+    "endOffset" : 27,
     "position" : 3
   }, {
-    "token" : "surface",
-    "startOffset" : 13,
-    "endOffset" : 21,
+    "token" : "cart",
+    "startOffset" : 21,
+    "endOffset" : 27,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnlZyNEXFMlzHLFsW",
-  "text" : "You want my endorsement?",
+  "id" : "AWoDkBeYDTAu_IiLeJQ-",
+  "text" : "Want a bandage?",
   "translations" : {
-    "russian" : "Вы хотите мою поддержку?"
+    "russian" : "Может наложить повязку?"
   },
   "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
     "token" : "want",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "endorsement",
-    "startOffset" : 12,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "endorse",
-    "startOffset" : 12,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgpVWgNEXFMlzHLIHF",
-  "text" : "Hmm. I wanted airtime.",
-  "translations" : {
-    "russian" : "Я хотела эфирное время."
-  },
-  "tokens" : [ {
-    "token" : "hmm",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "i",
+    "token" : "a",
     "startOffset" : 5,
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "wanted",
+    "token" : "bandage",
     "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "want",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "airtime",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguK-jNEXFMlzHLOkv",
-  "text" : "I just want asylum.",
-  "translations" : {
-    "russian" : "Я просто хочу убежища."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "just",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "want",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "asylum",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgusbhNEXFMlzHLPm3",
-  "text" : "You'll want answers, justice.",
-  "translations" : {
-    "russian" : "Тебе нужны ответы, справедливость."
-  },
-  "tokens" : [ {
-    "token" : "you'll",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "want",
-    "startOffset" : 7,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "answer",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "justice",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxpwTNEXFMlzHLTms",
-  "text" : "You wanted the office.",
-  "translations" : {
-    "russian" : "Так хотел эту должность."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "wanted",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "want",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
     "endOffset" : 14,
     "position" : 2
-  }, {
-    "token" : "office",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgy_qkNEXFMlzHLVi-",
-  "text" : "I want to transfer.",
+  "id" : "AWoD804YDTAu_IiLeWw8",
+  "text" : "I want to enlist.",
   "translations" : {
-    "russian" : "Я хочу перейти в другую."
+    "russian" : "Я хочу завербоваться."
   },
   "tokens" : [ {
     "token" : "i",
@@ -409,45 +328,17 @@
     "endOffset" : 9,
     "position" : 2
   }, {
-    "token" : "transfer",
+    "token" : "enlist",
     "startOffset" : 10,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeuxPNEXFMlzHK8Aa",
-  "text" : "You want her fin?",
-  "translations" : {
-    "russian" : "Ты хочешь её плавник?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "want",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "her",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "fin",
-    "startOffset" : 13,
     "endOffset" : 16,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggfTENEXFMlzHK9gn",
-  "text" : "I want that part.",
+  "id" : "AWoEFAuYDTAu_IiLedE4",
+  "text" : "I want to enlist.",
   "translations" : {
-    "russian" : "Я хочу эту роль."
+    "russian" : "Я хочу поступить на службу."
   },
   "tokens" : [ {
     "token" : "i",
@@ -460,12 +351,101 @@
     "endOffset" : 6,
     "position" : 1
   }, {
-    "token" : "that",
+    "token" : "to",
     "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "enlist",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFAyxDTAu_IiLedE8",
+  "text" : "I want to enlist.",
+  "translations" : {
+    "russian" : "Я хочу поступить на службу."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "want",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "enlist",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEGWc-DTAu_IiLeeEM",
+  "text" : "You wanted excitement?",
+  "translations" : {
+    "russian" : "Вы хотели развлечений?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "wanted",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "want",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "excitement",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "excite",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKWRIDTAu_IiLeg7r",
+  "text" : "You want to yell?",
+  "translations" : {
+    "russian" : "Или покричать?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "want",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 9,
     "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "part",
+    "token" : "yell",
     "startOffset" : 12,
     "endOffset" : 16,
     "position" : 3

@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEwtfaDTAu_IiLe9Rd",
+  "text" : "Frankish scouts.",
+  "translations" : {
+    "russian" : "Франкская разведка."
+  },
+  "tokens" : [ {
+    "token" : "frankish",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "scout",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnzJRNEXFMlzHLGDR",
   "text" : "Good night, Scout.",
   "translations" : {
@@ -492,6 +510,44 @@
     "token" : "scout",
     "startOffset" : 24,
     "endOffset" : 29,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDTfTkDTAu_IiLd_5r",
+  "text" : "Hey, Scout, tell us about Amman.",
+  "translations" : {
+    "russian" : "Эй, Разведчик, расскажи нам об Аммане."
+  },
+  "tokens" : [ {
+    "token" : "hey",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "scout",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "tell",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "us",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "about",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "amman",
+    "startOffset" : 26,
+    "endOffset" : 31,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,177 @@
 [ {
+  "id" : "AWoEmgYfDTAu_IiLe18p",
+  "text" : "Spotter vehicle, nine o'clock.",
+  "translations" : {
+    "russian" : "Наблюдатель на девять часов."
+  },
+  "tokens" : [ {
+    "token" : "spotter",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "vehicle",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "nine",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "o'clock",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmgXRDTAu_IiLe18o",
+  "text" : "Spotter vehicle, left lane.",
+  "translations" : {
+    "russian" : "Наблюдатель, слева."
+  },
+  "tokens" : [ {
+    "token" : "spotter",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "vehicle",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "left",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "lane",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-o0GDTAu_IiLfG67",
+  "text" : "All vehicles halt!",
+  "translations" : {
+    "russian" : "Всем стоп!"
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "vehicle",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "halt",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDewylDTAu_IiLeGPf",
+  "text" : "He's ramming my vehicle!",
+  "translations" : {
+    "russian" : "Он таранит мою машину!"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ramming",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "vehicle",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEexmRDTAu_IiLev7_",
+  "text" : "Municipal Towed-Vehicles Lot.",
+  "translations" : {
+    "russian" : "Городская стоянка эвакуированного транспорта."
+  },
+  "tokens" : [ {
+    "token" : "municipal",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "tow",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "vehicle",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "lot",
+    "startOffset" : 25,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFajvFDTAu_IiLfcRw",
+  "text" : "Compact, vehicle-mounted unit.",
+  "translations" : {
+    "russian" : "Компактная, автомобильная."
+  },
+  "tokens" : [ {
+    "token" : "compact",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "vehicle",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "mounted",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "mount",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "unit",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "it",
+    "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgxbLLNEXFMlzHLTOS",
   "text" : "Vehicles on standby.",
   "translations" : {
@@ -19,6 +192,67 @@
     "startOffset" : 12,
     "endOffset" : 19,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDfACgDTAu_IiLeGYK",
+  "text" : "He's ramming my vehicle!",
+  "translations" : {
+    "russian" : "Он таранит мою машину!"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ramming",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "vehicle",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEql2qDTAu_IiLe5Ak",
+  "text" : "Your vehicle just overtook me.",
+  "translations" : {
+    "russian" : "Твой внедорожник меня обогнал."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "vehicle",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "just",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "overtook",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "me",
+    "startOffset" : 27,
+    "endOffset" : 29,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -50,6 +284,39 @@
   }, {
     "token" : "know",
     "startOffset" : 25,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqop7DTAu_IiLe5Cl",
+  "text" : "Your vehicle just overtook me.",
+  "translations" : {
+    "russian" : "Твой внедорожник меня обогнал."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "vehicle",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "just",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "overtook",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "me",
+    "startOffset" : 27,
     "endOffset" : 29,
     "position" : 4
   } ],
@@ -154,155 +421,69 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgon8lNEXFMlzHLHMv",
-  "text" : "17, we got the vehicle stopped.",
+  "id" : "AWoEQuCTDTAu_IiLelxz",
+  "text" : "Clutch, station the transport vehicle!",
   "translations" : {
-    "russian" : "17, мы задержали машину."
+    "russian" : "Клатч, подгоняй транспорт!"
   },
   "tokens" : [ {
-    "token" : "17",
+    "token" : "clutch",
     "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "we",
-    "startOffset" : 4,
     "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "got",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "vehicle",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "stopped",
-    "startOffset" : 23,
-    "endOffset" : 30,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgxw9_NEXFMlzHLT2I",
-  "text" : "No vehicles off the main road.",
-  "translations" : {
-    "russian" : "Никаких машин вне основной дороги."
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "vehicle",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "off",
-    "startOffset" : 12,
+    "token" : "station",
+    "startOffset" : 8,
     "endOffset" : 15,
-    "position" : 2
+    "position" : 1
   }, {
     "token" : "the",
     "startOffset" : 16,
     "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "transport",
+    "startOffset" : 20,
+    "endOffset" : 29,
     "position" : 3
   }, {
-    "token" : "main",
-    "startOffset" : 20,
-    "endOffset" : 24,
+    "token" : "vehicle",
+    "startOffset" : 30,
+    "endOffset" : 37,
     "position" : 4
-  }, {
-    "token" : "road",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyvcgNEXFMlzHLVH1",
-  "text" : "They vary the times, vehicle routes.",
+  "id" : "AWoDhGjnDTAu_IiLeHmd",
+  "text" : "This is the getaway vehicle.",
   "translations" : {
-    "russian" : "Они поменяли время и маршруты машин."
+    "russian" : "Это их машина для побега."
   },
   "tokens" : [ {
-    "token" : "they",
+    "token" : "this",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "vary",
+    "token" : "is",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 7,
     "position" : 1
   }, {
     "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
+    "startOffset" : 8,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "time",
-    "startOffset" : 14,
+    "token" : "getaway",
+    "startOffset" : 12,
     "endOffset" : 19,
     "position" : 3
   }, {
     "token" : "vehicle",
-    "startOffset" : 21,
-    "endOffset" : 28,
+    "startOffset" : 20,
+    "endOffset" : 27,
     "position" : 4
-  }, {
-    "token" : "route",
-    "startOffset" : 29,
-    "endOffset" : 35,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsT1mNEXFMlzHLMQr",
-  "text" : "And flag any missing-vehicle reports.",
-  "translations" : {
-    "russian" : "И пометь все рапорты о пропавших транспортных средствах."
-  },
-  "tokens" : [ {
-    "token" : "and",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "flag",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "any",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "miss",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "vehicle",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "port",
-    "startOffset" : 29,
-    "endOffset" : 36,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

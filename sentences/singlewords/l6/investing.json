@@ -1,77 +1,534 @@
 [ {
-  "id" : "AWbgdIJPNEXFMlzHK6ov",
-  "text" : "All the vested parties have agreed.",
+  "id" : "AWoFLeZTDTAu_IiLfQzC",
+  "text" : "Poor investment.",
   "translations" : {
-    "russian" : "Все заинтересованные стороны согласны."
+    "russian" : "Бедные инвестиции!"
   },
   "tokens" : [ {
-    "token" : "all",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "vest",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "party",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "have",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "agree",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgfX_8NEXFMlzHK8j8",
-  "text" : "Take your broker's vest off, Ginny.",
-  "translations" : {
-    "russian" : "Сними жилет брокера, Джинни."
-  },
-  "tokens" : [ {
-    "token" : "take",
+    "token" : "poor",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "your",
+    "token" : "investment",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "broker",
-    "startOffset" : 10,
+    "token" : "vestment",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "vest",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "invest",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLjNODTAu_IiLfQ2v",
+  "text" : "An investment.",
+  "translations" : {
+    "russian" : "Вложению денег."
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "investment",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "vestment",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "vest",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "invest",
+    "startOffset" : 3,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLeg4DTAu_IiLfQzH",
+  "text" : "It's investment.",
+  "translations" : {
+    "russian" : "Все эти инвестиции."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "investment",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "vestment",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "vest",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "invest",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLfDWDTAu_IiLfQzg",
+  "text" : "Good investment.",
+  "translations" : {
+    "russian" : "Выгодное вложение."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "investment",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "vestment",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "vest",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "invest",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLh5HDTAu_IiLfQ1v",
+  "text" : "The investment.",
+  "translations" : {
+    "russian" : "Деньги."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "investment",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "vestment",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "vest",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "invest",
+    "startOffset" : 4,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLfwEDTAu_IiLfQ0D",
+  "text" : "Investment banker.",
+  "translations" : {
+    "russian" : "Инвестиционный банкир."
+  },
+  "tokens" : [ {
+    "token" : "investment",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "vestment",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "vest",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "invest",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "banker",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "bank",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLjBiDTAu_IiLfQ2n",
+  "text" : "Great investment.",
+  "translations" : {
+    "russian" : "Прекрасное вложение денег."
+  },
+  "tokens" : [ {
+    "token" : "great",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "investment",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "vestment",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "vest",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "invest",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLhELDTAu_IiLfQ1F",
+  "text" : "It's an investment.",
+  "translations" : {
+    "russian" : "Это капиталовложение."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "an",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "investment",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "vestment",
+    "startOffset" : 8,
     "endOffset" : 18,
     "position" : 2
   }, {
     "token" : "vest",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "invest",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLgSiDTAu_IiLfQ0d",
+  "text" : "I want investment.",
+  "translations" : {
+    "russian" : "Я хочу инвестировать."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "want",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "investment",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "vestment",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "vest",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "invest",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSoPGDTAu_IiLfWQe",
+  "text" : "I invest the capital.",
+  "translations" : {
+    "russian" : "Я инвестирую свои деньги."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "invest",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "vest",
+    "startOffset" : 2,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "capital",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDq5CmDTAu_IiLeM7t",
+  "text" : "A judicious investment?",
+  "translations" : {
+    "russian" : "Разумное вложение, верно?"
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "judicious",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "investment",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "vestment",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "vest",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "invest",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLf7RDTAu_IiLfQ0L",
+  "text" : "Korea's investment paradigm.",
+  "translations" : {
+    "russian" : "Корейские инвестиционные пирамиды."
+  },
+  "tokens" : [ {
+    "token" : "korea",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "investment",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "vestment",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "vest",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "invest",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "paradigm",
     "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFLixRDTAu_IiLfQ2X",
+  "text" : "But, without investment...",
+  "translations" : {
+    "russian" : "Но, без вкладов..."
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "without",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "investment",
+    "startOffset" : 13,
     "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "vestment",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "vest",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "invest",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsYxDDTAu_IiLe6O2",
+  "text" : "I also invest a percentage.",
+  "translations" : {
+    "russian" : "Я также инвестирую часть денег."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "also",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "invest",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "vest",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 14,
+    "endOffset" : 15,
     "position" : 3
   }, {
-    "token" : "off",
-    "startOffset" : 24,
-    "endOffset" : 27,
+    "token" : "percentage",
+    "startOffset" : 16,
+    "endOffset" : 26,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVQ9fDTAu_IiLfYJc",
+  "text" : "Kevlar vest.",
+  "translations" : {
+    "russian" : "Бронежилет."
+  },
+  "tokens" : [ {
+    "token" : "kevlar",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
   }, {
-    "token" : "ginny",
-    "startOffset" : 29,
-    "endOffset" : 34,
-    "position" : 5
+    "token" : "vest",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVQyCDTAu_IiLfYJU",
+  "text" : "Kevlar vests.",
+  "translations" : {
+    "russian" : "Бронежилеты из кевлара."
+  },
+  "tokens" : [ {
+    "token" : "kevlar",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "vest",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

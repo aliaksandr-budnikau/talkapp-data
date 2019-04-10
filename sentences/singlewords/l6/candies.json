@@ -32,6 +32,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEdhw2DTAu_IiLeu-0",
+  "text" : "Candy bars, crossword puzzles...",
+  "translations" : {
+    "russian" : "Карамельки, кроссворды..."
+  },
+  "tokens" : [ {
+    "token" : "candy",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "bars",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "bar",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "crossword",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "puzzle",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgb_LFNEXFMlzHK5nA",
   "text" : "Candy from a baby.",
   "translations" : {
@@ -56,6 +89,34 @@
     "token" : "baby",
     "startOffset" : 13,
     "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcOFYDTAu_IiLeEz-",
+  "text" : "Item 200 candied chestnuts.",
+  "translations" : {
+    "russian" : "Далее 200 засахаренных каштанов."
+  },
+  "tokens" : [ {
+    "token" : "item",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "200",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "candy",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "chestnut",
+    "startOffset" : 17,
+    "endOffset" : 26,
     "position" : 3
   } ],
   "contentScore" : null
@@ -89,6 +150,72 @@
     "token" : "candy",
     "startOffset" : 17,
     "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNvc-DTAu_IiLfSfA",
+  "text" : "Here, have a butterscotch candy.",
+  "translations" : {
+    "russian" : "Вот, возьмите ириску."
+  },
+  "tokens" : [ {
+    "token" : "here",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "butterscotch",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "candy",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUfAUDTAu_IiLfXms",
+  "text" : "Gruel and candy are different.",
+  "translations" : {
+    "russian" : "Каша и леденцы разные вещи."
+  },
+  "tokens" : [ {
+    "token" : "gruel",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "candy",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "different",
+    "startOffset" : 20,
+    "endOffset" : 29,
     "position" : 4
   } ],
   "contentScore" : null

@@ -1,4 +1,104 @@
 [ {
+  "id" : "AWoFaK5WDTAu_IiLfb9D",
+  "text" : "Combination locks.",
+  "translations" : {
+    "russian" : "Кодовый замок."
+  },
+  "tokens" : [ {
+    "token" : "combination",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "lock",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzl0SDTAu_IiLeR-0",
+  "text" : "Lock clanking.",
+  "translations" : {
+    "russian" : "Лязг замка."
+  },
+  "tokens" : [ {
+    "token" : "lock",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "clanking",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "clank",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaK-SDTAu_IiLfb9I",
+  "text" : "Combination lock.",
+  "translations" : {
+    "russian" : "Кодовый замок."
+  },
+  "tokens" : [ {
+    "token" : "combination",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "lock",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaK_IDTAu_IiLfb9J",
+  "text" : "Combination lock?",
+  "translations" : {
+    "russian" : "Кодовый замок?"
+  },
+  "tokens" : [ {
+    "token" : "combination",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "lock",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzk_8DTAu_IiLeR-X",
+  "text" : "Lock clanking.",
+  "translations" : {
+    "russian" : "Лязг замка."
+  },
+  "tokens" : [ {
+    "token" : "lock",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "clanking",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "clank",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgj49kNEXFMlzHLAZU",
   "text" : "Locked in a cycle.",
   "translations" : {
@@ -32,29 +132,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvgjuNEXFMlzHLREC",
-  "text" : "No dual lock?",
-  "translations" : {
-    "russian" : "Двойного замка нет?"
-  },
-  "tokens" : [ {
-    "token" : "no",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "dual",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "lock",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbguy-wNEXFMlzHLPzX",
   "text" : "Lock this wing down.",
   "translations" : {
@@ -84,6 +161,212 @@
     "token" : "down",
     "startOffset" : 15,
     "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgvgjuNEXFMlzHLREC",
+  "text" : "No dual lock?",
+  "translations" : {
+    "russian" : "Двойного замка нет?"
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "dual",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "lock",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEdsn7DTAu_IiLevHE",
+  "text" : "KEYS JANGLE, LOCK CLANKS.",
+  "translations" : {
+    "russian" : "Звенят ключи, лязгает замок."
+  },
+  "tokens" : [ {
+    "token" : "key",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "jangle",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "lock",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "clank",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE70moDTAu_IiLfE1r",
+  "text" : "LOCK CLICKS Fascinating.",
+  "translations" : {
+    "russian" : "Восхитительно."
+  },
+  "tokens" : [ {
+    "token" : "lock",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "click",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fascinating",
+    "startOffset" : 12,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "fascinate",
+    "startOffset" : 12,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaK8PDTAu_IiLfb9G",
+  "text" : "It's a combination lock.",
+  "translations" : {
+    "russian" : "Это кодовый замок."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "combination",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "lock",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoET3KgDTAu_IiLeoH_",
+  "text" : "Lock hand. Thumb inside.",
+  "translations" : {
+    "russian" : "Держи руку большим пальцем внутрь."
+  },
+  "tokens" : [ {
+    "token" : "lock",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hand",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "thumb",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "inside",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "side",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDR--zDTAu_IiLd-4q",
+  "text" : "We're locked into Albania.",
+  "translations" : {
+    "russian" : "Мы завязаны на Албанию."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "locked",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "lock",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "into",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "albania",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD7ROIDTAu_IiLeVmT",
+  "text" : "Unlocking spinal conductive network.",
+  "translations" : {
+    "russian" : "Позвоночная система открыта."
+  },
+  "tokens" : [ {
+    "token" : "lock",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "spinal",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "conductive",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "conduct",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "network",
+    "startOffset" : 28,
+    "endOffset" : 35,
     "position" : 3
   } ],
   "contentScore" : null
@@ -146,158 +429,6 @@
     "startOffset" : 19,
     "endOffset" : 22,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvf8qNEXFMlzHLRCm",
-  "text" : "I locked off my cabin.",
-  "translations" : {
-    "russian" : "Я закрыл свою кабинку."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "locked",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "lock",
-    "startOffset" : 2,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "off",
-    "startOffset" : 9,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "cabin",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgokNTNEXFMlzHLHHn",
-  "text" : "All prisoners report for lock down.",
-  "translations" : {
-    "russian" : "Всем заключенным доложить о прибытии."
-  },
-  "tokens" : [ {
-    "token" : "all",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "prison",
-    "startOffset" : 4,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "port",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "lock",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "down",
-    "startOffset" : 30,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgq_tbNEXFMlzHLKWZ",
-  "text" : "LSB- Lock clicks, keys jingle -RSB.",
-  "translations" : {
-    "russian" : "Щелкает замок, звенят ключи."
-  },
-  "tokens" : [ {
-    "token" : "lsb",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "lock",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "click",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "key",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "jingle",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "rsb",
-    "startOffset" : 31,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvj7XNEXFMlzHLRLL",
-  "text" : "This one should unlock the hatch.",
-  "translations" : {
-    "russian" : "Люк должен отпираться вот этим."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "one",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "should",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "lock",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "hatch",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

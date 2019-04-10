@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEcp5xDTAu_IiLeuWD",
+  "text" : "Nit nurse.",
+  "translations" : {
+    "russian" : "Вшивая медсестра."
+  },
+  "tokens" : [ {
+    "token" : "nit",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "nurse",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdOrBNEXFMlzHK6un",
   "text" : "Playing nurse, I mean.",
   "translations" : {
@@ -32,48 +50,117 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgegxRNEXFMlzHK7zv",
-  "text" : "Nurses said Liam was resting comfortably.",
+  "id" : "AWoEcc7bDTAu_IiLeuNU",
+  "text" : "Gosling is the nurse !",
   "translations" : {
-    "russian" : "Медсёстры сказали, что Лиам будет спать с комфортом."
+    "russian" : "Гусёнок, это мамка!"
+  },
+  "tokens" : [ {
+    "token" : "gosling",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "nurse",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXvpQDTAu_IiLerCW",
+  "text" : "Nurse Lee, damp gauze.",
+  "translations" : {
+    "russian" : "Сестра Ли, смочите марлю."
   },
   "tokens" : [ {
     "token" : "nurse",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "said",
-    "startOffset" : 7,
-    "endOffset" : 11,
+    "token" : "lee",
+    "startOffset" : 6,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "liam",
-    "startOffset" : 12,
-    "endOffset" : 16,
+    "token" : "damp",
+    "startOffset" : 11,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "was",
-    "startOffset" : 17,
-    "endOffset" : 20,
+    "token" : "gauze",
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "rest",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "comfortably",
-    "startOffset" : 29,
-    "endOffset" : 40,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvKcYNEXFMlzHLQjR",
-  "text" : "The departure of the wet nurse.",
+  "id" : "AWoEi-j_DTAu_IiLezTj",
+  "text" : "Gosling is the nurse !",
   "translations" : {
-    "russian" : "Отъезд кормилицы."
+    "russian" : "Гусёнок, это мамка!"
+  },
+  "tokens" : [ {
+    "token" : "gosling",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "nurse",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdSgkDTAu_IiLfeYB",
+  "text" : "I'm supervising nurse.",
+  "translations" : {
+    "russian" : "Я старший медбрат!"
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "supervise",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "nurse",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDssVADTAu_IiLeOBJ",
+  "text" : "The hospice nurse is here.",
+  "translations" : {
+    "russian" : "Медсестра из хосписа здесь."
   },
   "tokens" : [ {
     "token" : "the",
@@ -81,30 +168,322 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "departure",
+    "token" : "hospice",
     "startOffset" : 4,
-    "endOffset" : 13,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "of",
-    "startOffset" : 14,
-    "endOffset" : 16,
+    "token" : "nurse",
+    "startOffset" : 12,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 17,
+    "token" : "is",
+    "startOffset" : 18,
     "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "wet",
+    "token" : "here",
     "startOffset" : 21,
-    "endOffset" : 24,
+    "endOffset" : 25,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEq6w8DTAu_IiLe5PS",
+  "text" : "Ah, the annual nurses' convention.",
+  "translations" : {
+    "russian" : "Ах, этот ежегодный слёт медсестер."
+  },
+  "tokens" : [ {
+    "token" : "ah",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "annual",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
   }, {
     "token" : "nurse",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 5
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "convention",
+    "startOffset" : 23,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdSc6DTAu_IiLfeX-",
+  "text" : "I'm the new supervising nurse.",
+  "translations" : {
+    "russian" : "Я новый старший медбрат."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "new",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "supervise",
+    "startOffset" : 12,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "nurse",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDhHTNDTAu_IiLeHm6",
+  "text" : "We're outlaws, not wet nurses.",
+  "translations" : {
+    "russian" : "Мы разбойники, а не няньки."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "outlaw",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "wet",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "nurse",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDhHVNDTAu_IiLeHm7",
+  "text" : "We're outlaws, not wet nurses!",
+  "translations" : {
+    "russian" : "Мы разбойники, а не няньки!"
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "outlaw",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "wet",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "nurse",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEX6vBDTAu_IiLerKV",
+  "text" : "I like my nurses naughty.",
+  "translations" : {
+    "russian" : "Я люблю непослушных медсестричек."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "like",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "nurse",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "naughty",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYyZeDTAu_IiLfay2",
+  "text" : "You're flirting with that nurse.",
+  "translations" : {
+    "russian" : "Ты заигрываешь с этой медсестрой."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "flirt",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "that",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "nurse",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFY8NhDTAu_IiLfa7E",
+  "text" : "You're flirting with that nurse.",
+  "translations" : {
+    "russian" : "Ты заигрываешь с этой медсестрой."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "flirt",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "that",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "nurse",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFhdXDDTAu_IiLfhOJ",
+  "text" : "Nurses with starched white cotton.",
+  "translations" : {
+    "russian" : "Медсестры в накрахмаленных белых халатиках."
+  },
+  "tokens" : [ {
+    "token" : "nurse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "starch",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "white",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "cotton",
+    "startOffset" : 27,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIPwcDTAu_IiLfON_",
+  "text" : "We're outlaws, not wet nurses.",
+  "translations" : {
+    "russian" : "Мы разбойники, а не няньки."
+  },
+  "tokens" : [ {
+    "token" : "we're",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "outlaw",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "not",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "wet",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "nurse",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]

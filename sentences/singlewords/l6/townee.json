@@ -1,0 +1,75 @@
+[ {
+  "id" : "AWoEelW2DTAu_IiLevzO",
+  "text" : "Townee bar.",
+  "translations" : {
+    "russian" : "Деревенский бар."
+  },
+  "tokens" : [ {
+    "token" : "townee",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "bar",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEelYEDTAu_IiLevzP",
+  "text" : "He's a townee.",
+  "translations" : {
+    "russian" : "Он деревенский."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "townee",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEelbvDTAu_IiLevzS",
+  "text" : "Buy me a drink, townee?",
+  "translations" : {
+    "russian" : "Купишь мне выпить, Деревенщина?"
+  },
+  "tokens" : [ {
+    "token" : "buy",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 2
+  }, {
+    "token" : "drink",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "townee",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

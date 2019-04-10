@@ -1,0 +1,75 @@
+[ {
+  "id" : "AWoFDApqDTAu_IiLfKSI",
+  "text" : "Alleged terrorist.",
+  "translations" : {
+    "russian" : "Подозреваемую в терроризме."
+  },
+  "tokens" : [ {
+    "token" : "alleged",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "allege",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "terrorist",
+    "startOffset" : 8,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaGXfDTAu_IiLfb5O",
+  "text" : "Terrorist attacks and comedians.",
+  "translations" : {
+    "russian" : "Про террористов и комедии."
+  },
+  "tokens" : [ {
+    "token" : "terrorist",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "attack",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "comedian",
+    "startOffset" : 22,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjK7eDTAu_IiLeIyk",
+  "text" : "Ruthless terrorists who...",
+  "translations" : {
+    "russian" : "Жестокими террористами, которые..."
+  },
+  "tokens" : [ {
+    "token" : "ruthless",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "terrorist",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "who",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

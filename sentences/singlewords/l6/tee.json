@@ -1,39 +1,524 @@
 [ {
-  "id" : "AWbgnHUWNEXFMlzHLE9x",
-  "text" : "I didn't grind my teeth.",
+  "id" : "AWoDsHvADTAu_IiLeNq3",
+  "text" : "Blond hair and teeth?",
   "translations" : {
-    "russian" : "И даже не скрежетал зубами."
+    "russian" : "Светлые волосы и зубы?"
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "blond",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "didn't",
-    "startOffset" : 2,
+    "token" : "hair",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "teeth",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "tee",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWh3fDTAu_IiLeqKj",
+  "text" : "I'll brush my teeth.",
+  "translations" : {
+    "russian" : "Я почищу зубы."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "brush",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "teeth",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "tee",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWsiUDTAu_IiLeqSR",
+  "text" : "I'll brush my teeth.",
+  "translations" : {
+    "russian" : "Я почищу зубы."
+  },
+  "tokens" : [ {
+    "token" : "i'll",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "brush",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "teeth",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "tee",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWw1xDTAu_IiLeqVZ",
+  "text" : "She's brushing her teeth.",
+  "translations" : {
+    "russian" : "Она зубы чистит."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "brush",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "her",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "teeth",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "tee",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFefAFDTAu_IiLffO3",
+  "text" : "The teeth, hooves, horns...",
+  "translations" : {
+    "russian" : "И нет лошади."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "teeth",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "tee",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "hooves",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "horn",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWmD4DTAu_IiLeqNr",
+  "text" : "She's brushing her teeth.",
+  "translations" : {
+    "russian" : "Она зубы чистит."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "brush",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "her",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "teeth",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "tee",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWr4yDTAu_IiLeqR0",
+  "text" : "I'm brushing my teeth.",
+  "translations" : {
+    "russian" : "Я зубы чищу!"
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "brush",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "teeth",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "tee",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFegYyDTAu_IiLffP9",
+  "text" : "The teeth, hooves, horns...",
+  "translations" : {
+    "russian" : "И нет лошади."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "teeth",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "tee",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "hooves",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "horn",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFYL18DTAu_IiLfaSK",
+  "text" : "Oh, claws and teeth.",
+  "translations" : {
+    "russian" : "О, когти и зубы."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "claw",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "teeth",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "tee",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDk_RHDTAu_IiLeJy4",
+  "text" : "Oh, teeth whitening. Sorry.",
+  "translations" : {
+    "russian" : "Отбеливание зубов."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "teeth",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "tee",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "whitening",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "whiten",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "sorry",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWhQpDTAu_IiLeqKF",
+  "text" : "Brushing my teeth?",
+  "translations" : {
+    "russian" : "Чищу зубы?"
+  },
+  "tokens" : [ {
+    "token" : "brush",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "teeth",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "tee",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWr3VDTAu_IiLeqRz",
+  "text" : "Brushing my teeth?",
+  "translations" : {
+    "russian" : "Чищу зубы?"
+  },
+  "tokens" : [ {
+    "token" : "brush",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "teeth",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "tee",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWsfIDTAu_IiLeqSP",
+  "text" : "Brush me teeth...",
+  "translations" : {
+    "russian" : "Почищу зубы..."
+  },
+  "tokens" : [ {
+    "token" : "brush",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 6,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "grind",
+    "token" : "teeth",
     "startOffset" : 9,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "my",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
+    "token" : "tee",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFederDTAu_IiLffNx",
+  "text" : "The teeth, hooves, horns...",
+  "translations" : {
+    "russian" : "И нет лошади."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
   }, {
     "token" : "teeth",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
   }, {
     "token" : "tee",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "hooves",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "horn",
+    "startOffset" : 19,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDk_B5DTAu_IiLeJyx",
+  "text" : "50 off teeth whitening.",
+  "translations" : {
+    "russian" : "50 за отбеливание зубов."
+  },
+  "tokens" : [ {
+    "token" : "50",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "off",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "teeth",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "tee",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "whitening",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "whiten",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDk_MhDTAu_IiLeJy2",
+  "text" : "Homemade teeth whitening.",
+  "translations" : {
+    "russian" : "Отбеливание зубов в домашних условиях."
+  },
+  "tokens" : [ {
+    "token" : "homemade",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "teeth",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "tee",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "whitening",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "whiten",
+    "startOffset" : 15,
+    "endOffset" : 24,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

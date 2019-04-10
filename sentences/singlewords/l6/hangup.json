@@ -1,0 +1,57 @@
+[ {
+  "id" : "AWoE2wn2DTAu_IiLfBit",
+  "text" : "Why'd you hangup?",
+  "translations" : {
+    "russian" : "Почему ты прекратила разговор?"
+  },
+  "tokens" : [ {
+    "token" : "why'd",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "hangup",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE2wiPDTAu_IiLfBiq",
+  "text" : "You don't have any hangups...",
+  "translations" : {
+    "russian" : "Но вы же без комплексов?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "don't",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "any",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "hangup",
+    "startOffset" : 19,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

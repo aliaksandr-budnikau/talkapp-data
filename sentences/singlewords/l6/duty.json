@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoEGS0dDTAu_IiLeeBj",
+  "text" : "Dereliction of duty.",
+  "translations" : {
+    "russian" : "Нарушение долга."
+  },
+  "tokens" : [ {
+    "token" : "dereliction",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "duty",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhHSHDTAu_IiLexy1",
+  "text" : "Flagrant dereliction of duty.",
+  "translations" : {
+    "russian" : "Вопиющее нарушение долга."
+  },
+  "tokens" : [ {
+    "token" : "flagrant",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "dereliction",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "duty",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguCzONEXFMlzHLOWy",
   "text" : "I got jury duty.",
   "translations" : {
@@ -51,6 +102,34 @@
     "token" : "sir",
     "startOffset" : 20,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD84O7DTAu_IiLeWzh",
+  "text" : "Enlisted S01E07 Parade Duty.",
+  "translations" : {
+    "russian" : "Завербованы Сезон 1 Эпизод 7 Городской парад."
+  },
+  "tokens" : [ {
+    "token" : "enlist",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "s01e07",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "parade",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "duty",
+    "startOffset" : 23,
+    "endOffset" : 27,
     "position" : 3
   } ],
   "contentScore" : null
@@ -218,6 +297,67 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEGSwjDTAu_IiLeeBh",
+  "text" : "Flagrant dereliction of duty.",
+  "translations" : {
+    "russian" : "Вопиющее нарушение долга."
+  },
+  "tokens" : [ {
+    "token" : "flagrant",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "dereliction",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "duty",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoExu68DTAu_IiLe-CT",
+  "text" : "No grumbling over duties?",
+  "translations" : {
+    "russian" : "Никаких жалоб на обязанности?"
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "grumbling",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "grumble",
+    "startOffset" : 3,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "over",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "duty",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgawhzNEXFMlzHK4gm",
   "text" : "Who is duty tomorrow?",
   "translations" : {
@@ -246,244 +386,59 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguDmuNEXFMlzHLOYG",
-  "text" : "It's the duty social worker.",
+  "id" : "AWoEfC7WDTAu_IiLewJj",
+  "text" : "With duty prevailing.",
   "translations" : {
-    "russian" : "Это обязанность социального работника."
+    "russian" : "В которой долг одержал победу."
   },
   "tokens" : [ {
-    "token" : "it",
+    "token" : "with",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "the",
+    "token" : "duty",
     "startOffset" : 5,
-    "endOffset" : 8,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "duty",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "social",
-    "startOffset" : 14,
+    "token" : "prevailing",
+    "startOffset" : 10,
     "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "worker",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "work",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt2-FNEXFMlzHLODm",
-  "text" : "He's not on active duty.",
-  "translations" : {
-    "russian" : "Не находится на действительной службе."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "on",
-    "startOffset" : 9,
-    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "active",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "act",
-    "startOffset" : 12,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "duty",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt41mNEXFMlzHLOGs",
-  "text" : "You did your civic duty.",
-  "translations" : {
-    "russian" : "Ты выполнил свой гражданский долг."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "did",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "civic",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "duty",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguD04NEXFMlzHLOYa",
-  "text" : "Juvenile delinquent reporting for duty.",
-  "translations" : {
-    "russian" : "Малолетний преступник явился на службу."
-  },
-  "tokens" : [ {
-    "token" : "juvenile",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "delinquent",
-    "startOffset" : 9,
-    "endOffset" : 19,
-    "position" : 1
-  }, {
-    "token" : "port",
-    "startOffset" : 20,
-    "endOffset" : 29,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 30,
-    "endOffset" : 33,
-    "position" : 3
-  }, {
-    "token" : "duty",
-    "startOffset" : 34,
-    "endOffset" : 38,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguEbcNEXFMlzHLOZN",
-  "text" : "Thus, they must pay duty.",
-  "translations" : {
-    "russian" : "Поэтому, они должны платить пошлину."
-  },
-  "tokens" : [ {
-    "token" : "thus",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "they",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "must",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "pay",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "duty",
-    "startOffset" : 20,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt4rGNEXFMlzHLOGY",
-  "text" : "You have a civic duty.",
-  "translations" : {
-    "russian" : "Это ваш гражданский долг."
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "have",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "civic",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "duty",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguEFPNEXFMlzHLOYx",
-  "text" : "I'll access his duty roster.",
-  "translations" : {
-    "russian" : "Я посмотрю его график дежурств."
-  },
-  "tokens" : [ {
-    "token" : "i'll",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "access",
-    "startOffset" : 5,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "his",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "duty",
-    "startOffset" : 16,
+    "token" : "prevail",
+    "startOffset" : 10,
     "endOffset" : 20,
-    "position" : 3
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFBGTDTAu_IiLedFK",
+  "text" : "Enlisted S01E07 Parade Duty.",
+  "translations" : {
+    "russian" : "Завербованы Сезон 1 Эпизод 7 Городской парад."
+  },
+  "tokens" : [ {
+    "token" : "enlist",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
   }, {
-    "token" : "roster",
-    "startOffset" : 21,
+    "token" : "s01e07",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "parade",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "duty",
+    "startOffset" : 23,
     "endOffset" : 27,
-    "position" : 4
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

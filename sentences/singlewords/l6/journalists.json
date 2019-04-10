@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoE-hyaDTAu_IiLfG1L",
+  "text" : "Occupation journalist.",
+  "translations" : {
+    "russian" : "Профессия журналист."
+  },
+  "tokens" : [ {
+    "token" : "occupation",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "journalist",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgouD5NEXFMlzHLHU3",
   "text" : "A journalist once said.",
   "translations" : {
@@ -23,6 +41,34 @@
     "token" : "said",
     "startOffset" : 18,
     "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEywd3DTAu_IiLe-yO",
+  "text" : "Journalists make difficult bedfellows.",
+  "translations" : {
+    "russian" : "Из журналистов плохие любовники."
+  },
+  "tokens" : [ {
+    "token" : "journalist",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "make",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "difficult",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "bedfellow",
+    "startOffset" : 27,
+    "endOffset" : 37,
     "position" : 3
   } ],
   "contentScore" : null
@@ -52,6 +98,171 @@
     "startOffset" : 26,
     "endOffset" : 33,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEqj7VDTAu_IiLe4_L",
+  "text" : "A very... opinionated journalist.",
+  "translations" : {
+    "russian" : "Очень... упрямый журналист."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "very",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "opinionated",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "journalist",
+    "startOffset" : 22,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEcIODTAu_IiLeco2",
+  "text" : "Freelance journalist, birdwatcher, daredevil.",
+  "translations" : {
+    "russian" : "Внештатный журналист, любитель птиц, сорвиголова."
+  },
+  "tokens" : [ {
+    "token" : "freelance",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "journalist",
+    "startOffset" : 10,
+    "endOffset" : 20,
+    "position" : 1
+  }, {
+    "token" : "birdwatch",
+    "startOffset" : 22,
+    "endOffset" : 33,
+    "position" : 2
+  }, {
+    "token" : "daredevil",
+    "startOffset" : 35,
+    "endOffset" : 44,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQbr7DTAu_IiLfUj2",
+  "text" : "ABDULELAH HAIDER SHAYE YEMENI JOURNALIST.",
+  "translations" : {
+    "russian" : "Йеменский журналист."
+  },
+  "tokens" : [ {
+    "token" : "abdulelah",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "haider",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "shaye",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "yemeni",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "journalist",
+    "startOffset" : 30,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEcHPDTAu_IiLeco1",
+  "text" : "He's a birdwatcher, and freelance journalist.",
+  "translations" : {
+    "russian" : "Наблюдатель за птицами, а также внештатный журналист."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "birdwatch",
+    "startOffset" : 7,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "freelance",
+    "startOffset" : 24,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "journalist",
+    "startOffset" : 34,
+    "endOffset" : 44,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEL8pXDTAu_IiLeiOI",
+  "text" : "You forbid journalists to take notes.",
+  "translations" : {
+    "russian" : "Вы запретили журналистам делать заметки."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "forbid",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "journalist",
+    "startOffset" : 11,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 23,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "take",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "note",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -89,6 +300,82 @@
     "token" : "too",
     "startOffset" : 25,
     "endOffset" : 28,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEo-D3DTAu_IiLe31N",
+  "text" : "The dissident American journalist Laura Sutton.",
+  "translations" : {
+    "russian" : "Диссидент, американская журналистка, Лора Саттон."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dissident",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "american",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "journalist",
+    "startOffset" : 23,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "laura",
+    "startOffset" : 34,
+    "endOffset" : 39,
+    "position" : 4
+  }, {
+    "token" : "sutton",
+    "startOffset" : 40,
+    "endOffset" : 46,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDRr6_DTAu_IiLd-r9",
+  "text" : "Migrants, activists and the journalists waited.",
+  "translations" : {
+    "russian" : "Всю ночь мигранты, активисты и журналисты ждали приезда полиции."
+  },
+  "tokens" : [ {
+    "token" : "migrant",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "activist",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 20,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 24,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "journalist",
+    "startOffset" : 28,
+    "endOffset" : 39,
+    "position" : 4
+  }, {
+    "token" : "wait",
+    "startOffset" : 40,
+    "endOffset" : 46,
     "position" : 5
   } ],
   "contentScore" : null

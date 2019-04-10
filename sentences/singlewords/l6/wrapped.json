@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEPse0DTAu_IiLelCQ",
+  "text" : "Wrapped in a veil.",
+  "translations" : {
+    "russian" : "Закутавшись в тончайшую вуаль."
+  },
+  "tokens" : [ {
+    "token" : "wrapped",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "veil",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcfK_NEXFMlzHK6D7",
   "text" : "I wrapped it myself!",
   "translations" : {
@@ -23,6 +51,34 @@
     "token" : "myself",
     "startOffset" : 13,
     "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEg6QDTAu_IiLecss",
+  "text" : "You know, wrapped up.",
+  "translations" : {
+    "russian" : "Ну знаешь, свернувшись."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "know",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "wrapped",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "up",
+    "startOffset" : 18,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
@@ -170,6 +226,44 @@
     "token" : "it",
     "startOffset" : 21,
     "endOffset" : 23,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkVHpDTAu_IiLe0Vc",
+  "text" : "I wrapped her in my petticoat.",
+  "translations" : {
+    "russian" : "Я завернула её в свою юбку."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "wrapped",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "her",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "in",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "my",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 4
+  }, {
+    "token" : "petticoat",
+    "startOffset" : 20,
+    "endOffset" : 29,
     "position" : 5
   } ],
   "contentScore" : null

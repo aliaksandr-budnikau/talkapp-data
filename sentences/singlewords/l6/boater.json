@@ -27,6 +27,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDe5I1DTAu_IiLeGUN",
+  "text" : "Any dames there, Boats?",
+  "translations" : {
+    "russian" : "А там много женщин, боцман?"
+  },
+  "tokens" : [ {
+    "token" : "any",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dame",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "there",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "boat",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgu0UbNEXFMlzHLP17",
   "text" : "Same as Anna's boat.",
   "translations" : {
@@ -75,6 +103,62 @@
     "startOffset" : 10,
     "endOffset" : 14,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDerq8DTAu_IiLeGMg",
+  "text" : "Any dames there, Boats?",
+  "translations" : {
+    "russian" : "А там много женщин, боцман?"
+  },
+  "tokens" : [ {
+    "token" : "any",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dame",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "there",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "boat",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE_NxyDTAu_IiLfHZE",
+  "text" : "Any dames there, Boats?",
+  "translations" : {
+    "russian" : "А там много женщин, боцман?"
+  },
+  "tokens" : [ {
+    "token" : "any",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dame",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "there",
+    "startOffset" : 10,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "boat",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -147,36 +231,54 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgu00pNEXFMlzHLP23",
-  "text" : "We took to the boats.",
+  "id" : "AWoDe_26DTAu_IiLeGYD",
+  "text" : "Ram the boat.",
   "translations" : {
-    "russian" : "Мы сели в шлюпки."
+    "russian" : "Тарань лодку."
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "ram",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "took",
-    "startOffset" : 3,
+    "token" : "the",
+    "startOffset" : 4,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "to",
+    "token" : "boat",
     "startOffset" : 8,
-    "endOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSxybDTAu_IiLfWXk",
+  "text" : "Any dames there, Boats?",
+  "translations" : {
+    "russian" : "А там много женщин, боцман?"
+  },
+  "tokens" : [ {
+    "token" : "any",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "dame",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "there",
+    "startOffset" : 10,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
     "token" : "boat",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 4
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -214,6 +316,72 @@
     "token" : "boat",
     "startOffset" : 17,
     "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgu00pNEXFMlzHLP23",
+  "text" : "We took to the boats.",
+  "translations" : {
+    "russian" : "Мы сели в шлюпки."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "took",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "boat",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD68LhDTAu_IiLeVYe",
+  "text" : "Wedgwood sauce boat... real nice.",
+  "translations" : {
+    "russian" : "Соусник Веджвуда...очень хороший."
+  },
+  "tokens" : [ {
+    "token" : "wedgwood",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "sauce",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "boat",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "real",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "nice",
+    "startOffset" : 28,
+    "endOffset" : 32,
     "position" : 4
   } ],
   "contentScore" : null
@@ -285,219 +453,6 @@
     "token" : "board",
     "startOffset" : 23,
     "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu0ilNEXFMlzHLP2Z",
-  "text" : "Well, I have a boat.",
-  "translations" : {
-    "russian" : "Ну, у меня судно."
-  },
-  "tokens" : [ {
-    "token" : "well",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "i",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "have",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "boat",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbguTqQNEXFMlzHLO1x",
-  "text" : "This boat has no permit.",
-  "translations" : {
-    "russian" : "У этой лодки разрешения не было."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "boat",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "has",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "no",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "permit",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu0PTNEXFMlzHLP1y",
-  "text" : "There's a boat chasing us!",
-  "translations" : {
-    "russian" : "За нами гонится лодка!"
-  },
-  "tokens" : [ {
-    "token" : "there",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "boat",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "chasing",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "chase",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "us",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu0VpNEXFMlzHLP1-",
-  "text" : "So you design the boats.",
-  "translations" : {
-    "russian" : "Так, значит, вы проектируете корабли."
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "design",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "sign",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "boat",
-    "startOffset" : 18,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu05cNEXFMlzHLP3C",
-  "text" : "Launch boats, pick up survivors.",
-  "translations" : {
-    "russian" : "Спустите шлюпки, подберите уцелевших."
-  },
-  "tokens" : [ {
-    "token" : "launch",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "boat",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "pick",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "up",
-    "startOffset" : 19,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "survivor",
-    "startOffset" : 22,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu03-NEXFMlzHLP2_",
-  "text" : "The, the boat's too crowded.",
-  "translations" : {
-    "russian" : "В шлюпке слишком много народу."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "boat",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "too",
-    "startOffset" : 16,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "crowded",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "crowd",
-    "startOffset" : 20,
-    "endOffset" : 27,
     "position" : 4
   } ],
   "contentScore" : null

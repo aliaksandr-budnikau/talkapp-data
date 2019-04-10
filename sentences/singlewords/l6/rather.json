@@ -1,8 +1,8 @@
 [ {
-  "id" : "AWbgns42NEXFMlzHLF4-",
-  "text" : "I'd rather be the rat.",
+  "id" : "AWoDd0XyDTAu_IiLeFsK",
+  "text" : "I'd rather be bankrupt.",
   "translations" : {
-    "russian" : "Я предпочел бы быть крысой."
+    "russian" : "Лучше быть банкротом."
   },
   "tokens" : [ {
     "token" : "i'd",
@@ -20,27 +20,50 @@
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "the",
+    "token" : "bankrupt",
     "startOffset" : 14,
-    "endOffset" : 17,
+    "endOffset" : 22,
     "position" : 3
-  }, {
-    "token" : "rat",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrEPmNEXFMlzHLKdR",
-  "text" : "One I'd rather not repeat.",
+  "id" : "AWoEETANDTAu_IiLechv",
+  "text" : "It ends rather abruptly.",
   "translations" : {
-    "russian" : "Повторения которого мне бы не хотелось."
+    "russian" : "Всё закончилось довольно резко."
   },
   "tokens" : [ {
-    "token" : "one",
+    "token" : "it",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "end",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "rather",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "abrupt",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnpFRDTAu_IiLe20s",
+  "text" : "No, I'd rather not.",
+  "translations" : {
+    "russian" : "Нет, мне не хочется."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
     "position" : 0
   }, {
     "token" : "i'd",
@@ -57,18 +80,97 @@
     "startOffset" : 15,
     "endOffset" : 18,
     "position" : 3
-  }, {
-    "token" : "repeat",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzQ9hNEXFMlzHLWHB",
-  "text" : "It's a rather mature emotion.",
+  "id" : "AWoFPq3WDTAu_IiLfT7y",
+  "text" : "You seemed rather startled.",
   "translations" : {
-    "russian" : "Это более зрелая эмоция."
+    "russian" : "Ты выглядела испуганной."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "seem",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "rather",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "startle",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD2itDDTAu_IiLeTY1",
+  "text" : "I'd rather be flogged.",
+  "translations" : {
+    "russian" : "Я бы предпочел порку..."
+  },
+  "tokens" : [ {
+    "token" : "i'd",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "rather",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "flogged",
+    "startOffset" : 14,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDlHAtDTAu_IiLeJ3P",
+  "text" : "I'd rather have squirrels!",
+  "translations" : {
+    "russian" : "Нет. Пусть будут белки!"
+  },
+  "tokens" : [ {
+    "token" : "i'd",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "rather",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "have",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "squirrel",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD9AYpDTAu_IiLeW53",
+  "text" : "It's rather treacherous stuff.",
+  "translations" : {
+    "russian" : "Вот такая правда - предательская штука."
   },
   "tokens" : [ {
     "token" : "it",
@@ -76,8 +178,59 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "a",
+    "token" : "rather",
     "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "treacherous",
+    "startOffset" : 12,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "stuff",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsf8DDTAu_IiLe6T5",
+  "text" : "I'd rather dominate.",
+  "translations" : {
+    "russian" : "Я бы предпочла доминировать."
+  },
+  "tokens" : [ {
+    "token" : "i'd",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "rather",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "dominate",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvHGGDTAu_IiLe8Ff",
+  "text" : "I feel rather chipper.",
+  "translations" : {
+    "russian" : "Я чувствую себя довольно бодро."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "feel",
+    "startOffset" : 2,
     "endOffset" : 6,
     "position" : 1
   }, {
@@ -86,362 +239,196 @@
     "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "mature",
+    "token" : "chipper",
     "startOffset" : 14,
-    "endOffset" : 20,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "emotion",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
-  }, {
-    "token" : "emote",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbSTeNEXFMlzHK4-r",
-  "text" : "I would've rather done my time.",
+  "id" : "AWoEbhO0DTAu_IiLetkr",
+  "text" : "I'd rather dominate.",
   "translations" : {
-    "russian" : "Я бы отмотал свой срок."
+    "russian" : "Я бы предпочла доминировать."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "i'd",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "would've",
-    "startOffset" : 2,
+    "token" : "rather",
+    "startOffset" : 4,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "rather",
+    "token" : "dominate",
     "startOffset" : 11,
-    "endOffset" : 17,
+    "endOffset" : 19,
     "position" : 2
-  }, {
-    "token" : "done",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "my",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "time",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoQBpNEXFMlzHLGoH",
-  "text" : "But this story is rather different.",
+  "id" : "AWoDYeuzDTAu_IiLeCk2",
+  "text" : "He's rather a dandy.",
   "translations" : {
-    "russian" : "Но это предание отличается от других."
+    "russian" : "Он - большой франт."
   },
   "tokens" : [ {
-    "token" : "but",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "this",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "story",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "rather",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "different",
-    "startOffset" : 25,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgcTpbNEXFMlzHK55h",
-  "text" : "It's nothing formal but rather fun.",
-  "translations" : {
-    "russian" : "Это не формально, скорее забава."
-  },
-  "tokens" : [ {
-    "token" : "it",
+    "token" : "he",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "nothing",
+    "token" : "rather",
     "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "formal",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "but",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "rather",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "fun",
-    "startOffset" : 31,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnIX9NEXFMlzHLE_S",
-  "text" : "Rather than heating an entire room.",
-  "translations" : {
-    "russian" : "Чем нагревать всю комнату."
-  },
-  "tokens" : [ {
-    "token" : "rather",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "than",
-    "startOffset" : 7,
     "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "heat",
-    "startOffset" : 12,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "an",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "entire",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "room",
-    "startOffset" : 30,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrfQhNEXFMlzHLLE_",
-  "text" : "Strict Parental Oversight Rather Than Sports.",
-  "translations" : {
-    "russian" : "Государственное Родительское Управление Подрастающего Поколения."
-  },
-  "tokens" : [ {
-    "token" : "strict",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "parental",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 1
-  }, {
-    "token" : "oversight",
-    "startOffset" : 16,
-    "endOffset" : 25,
-    "position" : 2
-  }, {
-    "token" : "rather",
-    "startOffset" : 26,
-    "endOffset" : 32,
-    "position" : 3
-  }, {
-    "token" : "than",
-    "startOffset" : 33,
-    "endOffset" : 37,
-    "position" : 4
-  }, {
-    "token" : "sport",
-    "startOffset" : 38,
-    "endOffset" : 44,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsfDoNEXFMlzHLMgv",
-  "text" : "It's nothing formal but rather fun.",
-  "translations" : {
-    "russian" : "Это не формально, скорее забава."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "nothing",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "formal",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "but",
-    "startOffset" : 20,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "rather",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
-    "token" : "fun",
-    "startOffset" : 31,
-    "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtn20NEXFMlzHLNuc",
-  "text" : "The BMW, a rather poor third.",
-  "translations" : {
-    "russian" : "А BMW на жалком третьем месте."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "bmw",
-    "startOffset" : 4,
-    "endOffset" : 7,
     "position" : 1
   }, {
     "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
+    "startOffset" : 12,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "rather",
-    "startOffset" : 11,
-    "endOffset" : 17,
+    "token" : "dandy",
+    "startOffset" : 14,
+    "endOffset" : 19,
     "position" : 3
-  }, {
-    "token" : "poor",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "third",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgeKW3NEXFMlzHK7fj",
-  "text" : "Rather than heating an entire room.",
+  "id" : "AWoEDt6gDTAu_IiLecEK",
+  "text" : "Or, rather, his... receptacle.",
   "translations" : {
-    "russian" : "Чем нагревать всю комнату."
+    "russian" : "Или, скорее, его... вместилище."
   },
   "tokens" : [ {
-    "token" : "rather",
+    "token" : "or",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "than",
-    "startOffset" : 7,
-    "endOffset" : 11,
+    "token" : "rather",
+    "startOffset" : 4,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "heat",
+    "token" : "his",
     "startOffset" : 12,
-    "endOffset" : 19,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "an",
-    "startOffset" : 20,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "entire",
-    "startOffset" : 23,
+    "token" : "receptacle",
+    "startOffset" : 19,
     "endOffset" : 29,
-    "position" : 4
-  }, {
-    "token" : "room",
-    "startOffset" : 30,
-    "endOffset" : 34,
-    "position" : 5
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghXhoNEXFMlzHK-Rx",
-  "text" : "But this story is rather different.",
+  "id" : "AWoEsL-hDTAu_IiLe6Ge",
+  "text" : "I'd rather dominate.",
   "translations" : {
-    "russian" : "Но это предание отличается от других."
+    "russian" : "Я бы предпочла доминировать."
   },
   "tokens" : [ {
-    "token" : "but",
+    "token" : "i'd",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "this",
+    "token" : "rather",
     "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "dominate",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEUE7sDTAu_IiLeoSl",
+  "text" : "I'd rather smell you.",
+  "translations" : {
+    "russian" : "Так бы и нюхал."
+  },
+  "tokens" : [ {
+    "token" : "i'd",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "rather",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "smell",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "you",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFO0KgDTAu_IiLfTRt",
+  "text" : "That was rather, elaborate.",
+  "translations" : {
+    "russian" : "Это было скорее тщательно продумано."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 5,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "story",
+    "token" : "rather",
     "startOffset" : 9,
-    "endOffset" : 14,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "is",
-    "startOffset" : 15,
-    "endOffset" : 17,
+    "token" : "elaborate",
+    "startOffset" : 17,
+    "endOffset" : 26,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSWUnDTAu_IiLd_IS",
+  "text" : "Dipsomania is rather sordid.",
+  "translations" : {
+    "russian" : "Алкоголизм по их части."
+  },
+  "tokens" : [ {
+    "token" : "dipsomania",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
   }, {
     "token" : "rather",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
   }, {
-    "token" : "different",
-    "startOffset" : 25,
-    "endOffset" : 34,
-    "position" : 5
+    "token" : "sordid",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

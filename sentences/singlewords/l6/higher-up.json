@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEVUuVDTAu_IiLepRJ",
+  "text" : "Bobby, go up high.",
+  "translations" : {
+    "russian" : "Бобби, поднимись повыше."
+  },
+  "tokens" : [ {
+    "token" : "bobby",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "go",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "up",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "high",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgnLG-NEXFMlzHLFCz",
   "text" : "Way up firm and high.",
   "translations" : {
@@ -61,6 +89,72 @@
     "token" : "high",
     "startOffset" : 16,
     "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZg9HDTAu_IiLfbaG",
+  "text" : "You must swing high up.",
+  "translations" : {
+    "russian" : "Ты должна качаться высоко."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "must",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "swing",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "high",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "up",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZKdbDTAu_IiLfbG9",
+  "text" : "You must swing high up.",
+  "translations" : {
+    "russian" : "Ты должна качаться высоко."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "must",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "swing",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "high",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "up",
+    "startOffset" : 20,
+    "endOffset" : 22,
     "position" : 4
   } ],
   "contentScore" : null

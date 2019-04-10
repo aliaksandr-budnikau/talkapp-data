@@ -1,4 +1,27 @@
 [ {
+  "id" : "AWoE12LhDTAu_IiLfA7J",
+  "text" : "Jail is tough.",
+  "translations" : {
+    "russian" : "В тюрьме нелегко."
+  },
+  "tokens" : [ {
+    "token" : "jail",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "tough",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgk8fWNEXFMlzHLBpn",
   "text" : "THE MERRY JAIL ACT II.",
   "translations" : {
@@ -28,6 +51,39 @@
     "token" : "ii",
     "startOffset" : 19,
     "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzqSKDTAu_IiLeSBS",
+  "text" : "No, jail's a dog kennel.",
+  "translations" : {
+    "russian" : "Нет, тюрьма это собачья конура."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "jail",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "dog",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "kennel",
+    "startOffset" : 17,
+    "endOffset" : 23,
     "position" : 4
   } ],
   "contentScore" : null
@@ -104,6 +160,120 @@
     "token" : "jail",
     "startOffset" : 26,
     "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEALWJDTAu_IiLeZTQ",
+  "text" : "You flinch, you go to jail.",
+  "translations" : {
+    "russian" : "Ты отступаешь, ты идешь в тюрьму."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "flinch",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "you",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "go",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 4
+  }, {
+    "token" : "jail",
+    "startOffset" : 22,
+    "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDx8CbDTAu_IiLeRDw",
+  "text" : "Anyway, bronchitis is better than jail.",
+  "translations" : {
+    "russian" : "В любом случае... лучше уж бронхит, чем каторга."
+  },
+  "tokens" : [ {
+    "token" : "anyway",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "bronchitis",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "better",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "than",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "jail",
+    "startOffset" : 34,
+    "endOffset" : 38,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDX_1lDTAu_IiLeCVO",
+  "text" : "The real tenant went to jail.",
+  "translations" : {
+    "russian" : "Владелец квартиры сейчас в тюрьме."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "real",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "tenant",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "went",
+    "startOffset" : 16,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "jail",
+    "startOffset" : 24,
+    "endOffset" : 28,
     "position" : 5
   } ],
   "contentScore" : null

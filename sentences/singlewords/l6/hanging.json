@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoDmTf-DTAu_IiLeKgv",
+  "text" : "Hanging around, flirting, teasing.",
+  "translations" : {
+    "russian" : "Крутилась рядом, флиртовала, дразнила."
+  },
+  "tokens" : [ {
+    "token" : "hanging",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "hang",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "around",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "flirt",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "teasing",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "teas",
+    "startOffset" : 26,
+    "endOffset" : 33,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgiC2mNEXFMlzHK-3b",
   "text" : "Hanging on a laundry line.",
   "translations" : {
@@ -71,6 +109,44 @@
     "token" : "line",
     "startOffset" : 21,
     "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD12pNDTAu_IiLeTEf",
+  "text" : "Well, hanging over the sideboard.",
+  "translations" : {
+    "russian" : "Вообще-то она висела над буфетом."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "hanging",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "hang",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "over",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "sideboard",
+    "startOffset" : 23,
+    "endOffset" : 32,
     "position" : 4
   } ],
   "contentScore" : null
@@ -151,6 +227,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDe89RDTAu_IiLeGWZ",
+  "text" : "Hang in there, Ram.",
+  "translations" : {
+    "russian" : "Отдохнём немного здесь, Рам."
+  },
+  "tokens" : [ {
+    "token" : "hang",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "there",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "ram",
+    "startOffset" : 15,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvENDNEXFMlzHLQWK",
   "text" : "Hang thee, young baggage!",
   "translations" : {
@@ -179,10 +283,38 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbggXT2NEXFMlzHK9Z7",
-  "text" : "Hang on a second... agent.",
+  "id" : "AWoEb9CaDTAu_IiLet3x",
+  "text" : "Hang is a verb.",
   "translations" : {
-    "russian" : "Подожди секунду... агент."
+    "russian" : "Висельник это слово."
+  },
+  "tokens" : [ {
+    "token" : "hang",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "verb",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE0ueVDTAu_IiLfAKU",
+  "text" : "Hang on, Wen.",
+  "translations" : {
+    "russian" : "Держись, Вэн."
   },
   "tokens" : [ {
     "token" : "hang",
@@ -195,91 +327,10 @@
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
+    "token" : "wen",
+    "startOffset" : 9,
+    "endOffset" : 12,
     "position" : 2
-  }, {
-    "token" : "second",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "agent",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyEGaNEXFMlzHLUMZ",
-  "text" : "Hang on a second... agent.",
-  "translations" : {
-    "russian" : "Подожди секунду... агент."
-  },
-  "tokens" : [ {
-    "token" : "hang",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "on",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 8,
-    "endOffset" : 9,
-    "position" : 2
-  }, {
-    "token" : "second",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "agent",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbga0miNEXFMlzHK4kN",
-  "text" : "It just hangs in sections.",
-  "translations" : {
-    "russian" : "Оно всё висит по отдельности."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "just",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "hangs",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "hang",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "section",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

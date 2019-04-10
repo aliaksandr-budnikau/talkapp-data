@@ -1,4 +1,58 @@
 [ {
+  "id" : "AWoD2aS5DTAu_IiLeTU1",
+  "text" : "ENGINE RATTLES.",
+  "translations" : {
+    "russian" : "ДВИГАТЕЛЬ погремушки."
+  },
+  "tokens" : [ {
+    "token" : "engine",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "rattle",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDinEuDTAu_IiLeIeW",
+  "text" : "ENGINE IDLING.",
+  "translations" : {
+    "russian" : "Двигателя на холостом ходу."
+  },
+  "tokens" : [ {
+    "token" : "engine",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "idle",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDinICDTAu_IiLeIeY",
+  "text" : "Engine idling.",
+  "translations" : {
+    "russian" : "Движок на холостом ходу."
+  },
+  "tokens" : [ {
+    "token" : "engine",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "idle",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgvoZeNEXFMlzHLRUq",
   "text" : "The right engine refused.",
   "translations" : {
@@ -23,6 +77,67 @@
     "token" : "fuse",
     "startOffset" : 17,
     "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKQ5iDTAu_IiLeg3s",
+  "text" : "Tires Screeching, Engine Racing.",
+  "translations" : {
+    "russian" : "Визжание шин, звук двигателя."
+  },
+  "tokens" : [ {
+    "token" : "tires",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "tire",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "screech",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "engine",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "race",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEonULDTAu_IiLe3kN",
+  "text" : "Start the engines, Jock!",
+  "translations" : {
+    "russian" : "Заводи мотор, Джок!"
+  },
+  "tokens" : [ {
+    "token" : "start",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "engine",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "jock",
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
@@ -106,6 +221,146 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDtfLMDTAu_IiLeOey",
+  "text" : "All engines ahead flank.",
+  "translations" : {
+    "russian" : "Все двигатели на полную."
+  },
+  "tokens" : [ {
+    "token" : "all",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "engine",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "ahead",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "flank",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEKO40DTAu_IiLeg2Q",
+  "text" : "Engine Starts Tires Screeching.",
+  "translations" : {
+    "russian" : "Заводится двигатель Визг шин."
+  },
+  "tokens" : [ {
+    "token" : "engine",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "start",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "tires",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "tire",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "screech",
+    "startOffset" : 20,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDwvPDTAu_IiLecGd",
+  "text" : "Engine capacity at 48.",
+  "translations" : {
+    "russian" : "Объем двигателя в 48."
+  },
+  "tokens" : [ {
+    "token" : "engine",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "capacity",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "48",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDwypDTAu_IiLecGg",
+  "text" : "Engine capacity at 83.",
+  "translations" : {
+    "russian" : "Объем двигателя в 83."
+  },
+  "tokens" : [ {
+    "token" : "engine",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "capacity",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "83",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEonTNDTAu_IiLe3kM",
+  "text" : "Jock, the engines!",
+  "translations" : {
+    "russian" : "Джок, заводи же!"
+  },
+  "tokens" : [ {
+    "token" : "jock",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "engine",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgpAr3NEXFMlzHLHtG",
   "text" : "That's the engine cover.",
   "translations" : {
@@ -164,326 +419,6 @@
     "startOffset" : 19,
     "endOffset" : 26,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvqEMNEXFMlzHLRV0",
-  "text" : "Wonderful engine isn't she?",
-  "translations" : {
-    "russian" : "Рекрасный паровоз не так ли?"
-  },
-  "tokens" : [ {
-    "token" : "wonderful",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "engine",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "isn't",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "she",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvo83NEXFMlzHLRVB",
-  "text" : "Drivers, start your engines!",
-  "translations" : {
-    "russian" : "Водители, завести моторы!"
-  },
-  "tokens" : [ {
-    "token" : "drive",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "start",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "your",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "engine",
-    "startOffset" : 20,
-    "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvorDNEXFMlzHLRU0",
-  "text" : "LRB- BUS ENGINE STARTING -RRB.",
-  "translations" : {
-    "russian" : "ЗАВЕЛСЯ МОТОР АВТОБУСА."
-  },
-  "tokens" : [ {
-    "token" : "lrb",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "bus",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "engine",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "start",
-    "startOffset" : 16,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "rrb",
-    "startOffset" : 26,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvpZeNEXFMlzHLRVZ",
-  "text" : "Construct the Latin's siege engine.",
-  "translations" : {
-    "russian" : "Построить осадную машину латина."
-  },
-  "tokens" : [ {
-    "token" : "construct",
-    "startOffset" : 0,
-    "endOffset" : 9,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "latin",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "siege",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "engine",
-    "startOffset" : 28,
-    "endOffset" : 34,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvpaNNEXFMlzHLRVa",
-  "text" : "Happy, get the engine running!",
-  "translations" : {
-    "russian" : "Хэппи, заводи машину!"
-  },
-  "tokens" : [ {
-    "token" : "happy",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "get",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 11,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "engine",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "running",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvp-lNEXFMlzHLRVw",
-  "text" : "Oh, excuse me, my engine.",
-  "translations" : {
-    "russian" : "О, простите, мой паровоз."
-  },
-  "tokens" : [ {
-    "token" : "oh",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "excuse",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "engine",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvowLNEXFMlzHLRU4",
-  "text" : "So the engine's more powerful.",
-  "translations" : {
-    "russian" : "Чтобы мотор работал мощнее."
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "engine",
-    "startOffset" : 7,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "more",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "powerful",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvozGNEXFMlzHLRU6",
-  "text" : "We've got engine trouble, mate.",
-  "translations" : {
-    "russian" : "Дружище, у нас проблема с мотором."
-  },
-  "tokens" : [ {
-    "token" : "we've",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "got",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "engine",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "trouble",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "mate",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvoHbNEXFMlzHLRUP",
-  "text" : "Warp engines are off-line.",
-  "translations" : {
-    "russian" : "Варп двигатели не работают."
-  },
-  "tokens" : [ {
-    "token" : "warp",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "engine",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "off",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "line",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgvpRaNEXFMlzHLRVS",
-  "text" : "He shot out the engine.",
-  "translations" : {
-    "russian" : "Он стрелял в машину."
-  },
-  "tokens" : [ {
-    "token" : "he",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "shot",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "out",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "engine",
-    "startOffset" : 16,
-    "endOffset" : 22,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

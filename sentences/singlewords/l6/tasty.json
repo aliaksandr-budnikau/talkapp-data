@@ -279,39 +279,6 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzYbqNEXFMlzHLWWb",
-  "text" : "Oh, that smells tasty, Rose.",
-  "translations" : {
-    "russian" : "Ах как вкусно пахнет."
-  },
-  "tokens" : [ {
-    "token" : "oh",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "smell",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "tasty",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "rose",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
   "id" : "AWbgzYUlNEXFMlzHLWWN",
   "text" : "Thanks for the tasty dinner.",
   "translations" : {
@@ -340,6 +307,39 @@
   }, {
     "token" : "dinner",
     "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgzYbqNEXFMlzHLWWb",
+  "text" : "Oh, that smells tasty, Rose.",
+  "translations" : {
+    "russian" : "Ах как вкусно пахнет."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "smell",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "tasty",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "rose",
+    "startOffset" : 23,
     "endOffset" : 27,
     "position" : 4
   } ],
@@ -444,41 +444,36 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdv65NEXFMlzHK7IZ",
-  "text" : "Maybe it's a tasty Southern treat.",
+  "id" : "AWoFfQMTDTAu_IiLffyr",
+  "text" : "Tasty piece of kit that.",
   "translations" : {
-    "russian" : "Может это вкусное южное угощение."
+    "russian" : "Вкусная часть комплекта."
   },
   "tokens" : [ {
-    "token" : "maybe",
+    "token" : "tasty",
     "startOffset" : 0,
     "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "it",
+    "token" : "piece",
     "startOffset" : 6,
-    "endOffset" : 10,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
+    "token" : "of",
+    "startOffset" : 12,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "tasty",
-    "startOffset" : 13,
+    "token" : "kit",
+    "startOffset" : 15,
     "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "southern",
+    "token" : "that",
     "startOffset" : 19,
-    "endOffset" : 27,
+    "endOffset" : 23,
     "position" : 4
-  }, {
-    "token" : "treat",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

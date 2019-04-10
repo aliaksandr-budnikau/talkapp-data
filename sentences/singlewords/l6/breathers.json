@@ -1,4 +1,180 @@
 [ {
+  "id" : "AWoETfnJDTAu_IiLen2C",
+  "text" : "Laborious breathing.",
+  "translations" : {
+    "russian" : "Тяжело дышит."
+  },
+  "tokens" : [ {
+    "token" : "laborious",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "breathing",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "breath",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvYmBDTAu_IiLe8Rt",
+  "text" : "BREATHING TREMULOUSLY.",
+  "translations" : {
+    "russian" : "Что случилось?"
+  },
+  "tokens" : [ {
+    "token" : "breathing",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "breath",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "tremulous",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvS8jDTAu_IiLe8Nq",
+  "text" : "BREATH TREMBLING.",
+  "translations" : {
+    "russian" : "ДЫХАНИЕ трепетом."
+  },
+  "tokens" : [ {
+    "token" : "breath",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "tremble",
+    "startOffset" : 7,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD08W_DTAu_IiLeSqU",
+  "text" : "Keep breathing, Bobble.",
+  "translations" : {
+    "russian" : "Бобби."
+  },
+  "tokens" : [ {
+    "token" : "keep",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "breathing",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "breath",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "bobble",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEsDN5DTAu_IiLe6Az",
+  "text" : "Take a breath, Cleave.",
+  "translations" : {
+    "russian" : "Расслабься, Кливер."
+  },
+  "tokens" : [ {
+    "token" : "take",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "breath",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "cleave",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE-QVfDTAu_IiLfGmt",
+  "text" : "It's breathable, but thin.",
+  "translations" : {
+    "russian" : "Дышать можно, но воздух разрежен."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "breathable",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "breath",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "but",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "thin",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUiYaDTAu_IiLfXpI",
+  "text" : "Good, breath... cough.",
+  "translations" : {
+    "russian" : "Хорошо, дыши... покашляй."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "breath",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "cough",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgn76ENEXFMlzHLGRV",
   "text" : "ABC's... airway, breathing, circulation.",
   "translations" : {
@@ -37,112 +213,242 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkQjtNEXFMlzHLAvT",
-  "text" : "You could waste your breath.",
+  "id" : "AWoEERuJDTAu_IiLecgv",
+  "text" : "Your posture, your breathing.",
   "translations" : {
-    "russian" : "Ты можешь тратить впустую свое дыхание."
+    "russian" : "Твоя осанка, твое дыхание."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "your",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "could",
-    "startOffset" : 4,
-    "endOffset" : 9,
+    "token" : "posture",
+    "startOffset" : 5,
+    "endOffset" : 12,
     "position" : 1
-  }, {
-    "token" : "waste",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
   }, {
     "token" : "your",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "breath",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwm6dNEXFMlzHLSWl",
-  "text" : "Hey, Omar, take a deep breath.",
-  "translations" : {
-    "russian" : "Эй, Омар, сделай глубокий вдох."
-  },
-  "tokens" : [ {
-    "token" : "hey",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "omar",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "take",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 16,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "deep",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  }, {
-    "token" : "breath",
-    "startOffset" : 23,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglHuUNEXFMlzHLB-F",
-  "text" : "It erupts hot on the breath.",
-  "translations" : {
-    "russian" : "Она прорывается горячим дыханием."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "erupt",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "hot",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "on",
     "startOffset" : 14,
-    "endOffset" : 16,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "breathing",
+    "startOffset" : 19,
+    "endOffset" : 28,
     "position" : 3
   }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 4
+    "token" : "breath",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFUnHEDTAu_IiLfXsX",
+  "text" : "Good, breath... cough.",
+  "translations" : {
+    "russian" : "Хорошо, дыши... покашляй."
+  },
+  "tokens" : [ {
+    "token" : "good",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
   }, {
     "token" : "breath",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 5
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "cough",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAMfqDTAu_IiLeZUF",
+  "text" : "Shivering, nausea, difficulty breathing...",
+  "translations" : {
+    "russian" : "Дрожь, тошнота, затрудненное дыхание..."
+  },
+  "tokens" : [ {
+    "token" : "shiver",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "nausea",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "difficulty",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "breathing",
+    "startOffset" : 30,
+    "endOffset" : 39,
+    "position" : 3
+  }, {
+    "token" : "breath",
+    "startOffset" : 30,
+    "endOffset" : 39,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaRD8DTAu_IiLfcCK",
+  "text" : "Colombian Devil's Breath.",
+  "translations" : {
+    "russian" : "Колумбийское дьявольское дыхание."
+  },
+  "tokens" : [ {
+    "token" : "colombian",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "devil",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "breath",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETfsxDTAu_IiLen2H",
+  "text" : "Breathing laboriously Aw, see.",
+  "translations" : {
+    "russian" : "Ну вот."
+  },
+  "tokens" : [ {
+    "token" : "breathing",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "breath",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "laborious",
+    "startOffset" : 10,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "aw",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "see",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoETd2VDTAu_IiLen0j",
+  "text" : "Extortion, terrible breath, murder.",
+  "translations" : {
+    "russian" : "Вымогательство, запах изо рта, убийства."
+  },
+  "tokens" : [ {
+    "token" : "extortion",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "terrible",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "breath",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "murder",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEel5SDTAu_IiLevzo",
+  "text" : "Constricted larynx, accelerated breathing.",
+  "translations" : {
+    "russian" : "Сужение гортани, учащенное дыхание."
+  },
+  "tokens" : [ {
+    "token" : "constrict",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "larynx",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "accelerated",
+    "startOffset" : 20,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "accelerate",
+    "startOffset" : 20,
+    "endOffset" : 31,
+    "position" : 2
+  }, {
+    "token" : "breathing",
+    "startOffset" : 32,
+    "endOffset" : 41,
+    "position" : 3
+  }, {
+    "token" : "breath",
+    "startOffset" : 32,
+    "endOffset" : 41,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEnyCuDTAu_IiLe27z",
+  "text" : "A diaphragm, breathing.",
+  "translations" : {
+    "russian" : "Диафрагма, дыхание."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "diaphragm",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "breathing",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "breath",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

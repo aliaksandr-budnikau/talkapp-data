@@ -1,95 +1,289 @@
 [ {
-  "id" : "AWbgxyczNEXFMlzHLT33",
-  "text" : "Freeze, U.S. Marshals!",
+  "id" : "AWoE9SOmDTAu_IiLfF1X",
+  "text" : "Freezing.",
   "translations" : {
-    "russian" : "Стоять, федеральные маршалы!"
+    "russian" : "Ледяная."
+  },
+  "tokens" : [ {
+    "token" : "freezing",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "freeze",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9S92DTAu_IiLfF1-",
+  "text" : "Freeze.",
+  "translations" : {
+    "russian" : "Замрите."
   },
   "tokens" : [ {
     "token" : "freeze",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
-  }, {
-    "token" : "u.s",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "marshal",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgeTErNEXFMlzHK7nZ",
-  "text" : "So was the ocean freezing?",
+  "id" : "AWoE9QdTDTAu_IiLfF0C",
+  "text" : "Freeze...",
   "translations" : {
-    "russian" : "Значит, океан оказался холодным?"
+    "russian" : "Стоять!"
   },
   "tokens" : [ {
-    "token" : "so",
+    "token" : "freeze",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 6,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9S1xDTAu_IiLfF15",
+  "text" : "Freeze.",
+  "translations" : {
+    "russian" : "Замерли."
+  },
+  "tokens" : [ {
+    "token" : "freeze",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9QsYDTAu_IiLfF0M",
+  "text" : "Freeze!",
+  "translations" : {
+    "russian" : "Стой!"
+  },
+  "tokens" : [ {
+    "token" : "freeze",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9N77DTAu_IiLfFyI",
+  "text" : "Freezing.",
+  "translations" : {
+    "russian" : "Ужасно замёрзла."
+  },
+  "tokens" : [ {
+    "token" : "freezing",
+    "startOffset" : 0,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "was",
-    "startOffset" : 3,
+    "token" : "freeze",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9Q1iDTAu_IiLfF0S",
+  "text" : "Freeze!",
+  "translations" : {
+    "russian" : "Стой."
+  },
+  "tokens" : [ {
+    "token" : "freeze",
+    "startOffset" : 0,
     "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "ocean",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9NpHDTAu_IiLfFx8",
+  "text" : "You're freezing.",
+  "translations" : {
+    "russian" : "Вы замерзли."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
   }, {
     "token" : "freezing",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 4
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
   }, {
     "token" : "freeze",
-    "startOffset" : 17,
-    "endOffset" : 25,
-    "position" : 4
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvHLcNEXFMlzHLQcb",
-  "text" : "The connection points freeze up.",
+  "id" : "AWoE9N3tDTAu_IiLfFyF",
+  "text" : "I'm freezing.",
   "translations" : {
-    "russian" : "Места соединения застывают."
+    "russian" : "Я замерзла."
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "i'm",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "connection",
+    "token" : "freezing",
     "startOffset" : 4,
-    "endOffset" : 14,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "point",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 2
+    "token" : "freeze",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9PkEDTAu_IiLfFzX",
+  "text" : "It's freezing.",
+  "translations" : {
+    "russian" : "Холодная."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "freezing",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
   }, {
     "token" : "freeze",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 3
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9QxFDTAu_IiLfF0P",
+  "text" : "Freeze! L.A.P.D.!",
+  "translations" : {
+    "russian" : "Стой, полиция."
+  },
+  "tokens" : [ {
+    "token" : "freeze",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
   }, {
-    "token" : "up",
-    "startOffset" : 29,
-    "endOffset" : 31,
-    "position" : 4
+    "token" : "l.a.p.d",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9QgcDTAu_IiLfF0E",
+  "text" : "Freeze it!",
+  "translations" : {
+    "russian" : "Стоять!"
+  },
+  "tokens" : [ {
+    "token" : "freeze",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9PWzDTAu_IiLfFzL",
+  "text" : "It's freezing.",
+  "translations" : {
+    "russian" : "Становится холодно."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "freezing",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "freeze",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9SJUDTAu_IiLfF1S",
+  "text" : "It's freezing.",
+  "translations" : {
+    "russian" : "Так вода ледяная."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "freezing",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "freeze",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9QexDTAu_IiLfF0D",
+  "text" : "Freeze, asshole!",
+  "translations" : {
+    "russian" : "Стоять, придурок!"
+  },
+  "tokens" : [ {
+    "token" : "freeze",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "asshole",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9QmmDTAu_IiLfF0I",
+  "text" : "Freeze, mama!",
+  "translations" : {
+    "russian" : "Стоять, мама!"
+  },
+  "tokens" : [ {
+    "token" : "freeze",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "mama",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
   } ],
   "contentScore" : null
 } ]

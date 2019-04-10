@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDTk2SDTAu_IiLd_9a",
+  "text" : "Life, death, resurrection, redemption.",
+  "translations" : {
+    "russian" : "Жизнь, смерть, воскрешение, искупление."
+  },
+  "tokens" : [ {
+    "token" : "life",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "death",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "resurrection",
+    "startOffset" : 13,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "redemption",
+    "startOffset" : 27,
+    "endOffset" : 37,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgmJ6XNEXFMlzHLDZo",
   "text" : "Locals described a miraculous resurrection...",
   "translations" : {
@@ -29,6 +57,77 @@
     "startOffset" : 30,
     "endOffset" : 42,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEJ4PvDTAu_IiLegk6",
+  "text" : "Your expertise with magical resurrection?",
+  "translations" : {
+    "russian" : "У тебя что, есть опыт в волшебном воскрешении?"
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "expertise",
+    "startOffset" : 5,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "magical",
+    "startOffset" : 20,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "resurrection",
+    "startOffset" : 28,
+    "endOffset" : 40,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoELW1yDTAu_IiLehvD",
+  "text" : "The flower of resurrection and rebirth.",
+  "translations" : {
+    "russian" : "Это цветок воскрешения и возрождения."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "flower",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "resurrection",
+    "startOffset" : 14,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "rebirth",
+    "startOffset" : 31,
+    "endOffset" : 38,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

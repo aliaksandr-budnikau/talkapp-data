@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEK3sgDTAu_IiLehWH",
+  "text" : "I'm gonna go grab dessert.",
+  "translations" : {
+    "russian" : "Я принесу десерт."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gonna",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "go",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "grab",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "dessert",
+    "startOffset" : 18,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguf9hNEXFMlzHLPOT",
   "text" : "And I'm positive you ate dessert.",
   "translations" : {
@@ -33,6 +66,44 @@
     "token" : "dessert",
     "startOffset" : 25,
     "endOffset" : 32,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5HpSDTAu_IiLeUkX",
+  "text" : "There's vanilla ice cream for dessert.",
+  "translations" : {
+    "russian" : "Существует ванильным кремом на десерт."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "vanilla",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "ice",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "cream",
+    "startOffset" : 20,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "for",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "dessert",
+    "startOffset" : 30,
+    "endOffset" : 37,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,471 +1,501 @@
 [ {
-  "id" : "AWbge4MwNEXFMlzHK8Iz",
-  "text" : "The news traveled fast.",
+  "id" : "AWoE8FJRDTAu_IiLfFAz",
+  "text" : "Fasten or unfasten your belts?",
   "translations" : {
-    "russian" : "Новость распространилась мгновенно."
+    "russian" : "Так пристегнуть, или отстегнуть?"
   },
   "tokens" : [ {
-    "token" : "the",
+    "token" : "fasten",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "news",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "new",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "traveled",
-    "startOffset" : 9,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "travel",
-    "startOffset" : 9,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
     "token" : "fast",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbge4giNEXFMlzHK8JF",
-  "text" : "Word travels fast, huh?",
-  "translations" : {
-    "russian" : "Слухи распространяются быстро, не так ли?"
-  },
-  "tokens" : [ {
-    "token" : "word",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "travel",
-    "startOffset" : 5,
-    "endOffset" : 12,
+    "token" : "or",
+    "startOffset" : 7,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "fast",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "token" : "fasten",
+    "startOffset" : 10,
+    "endOffset" : 18,
     "position" : 2
   }, {
-    "token" : "huh",
+    "token" : "your",
     "startOffset" : 19,
-    "endOffset" : 22,
+    "endOffset" : 23,
     "position" : 3
+  }, {
+    "token" : "belt",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkewaNEXFMlzHLBB1",
-  "text" : "These guys work fast.",
+  "id" : "AWoE8FKWDTAu_IiLfFA0",
+  "text" : "Fasten the harness.",
   "translations" : {
-    "russian" : "Эти парни работают быстро."
+    "russian" : "Пристегнуть ремни."
   },
   "tokens" : [ {
-    "token" : "these",
+    "token" : "fasten",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "guy",
-    "startOffset" : 6,
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "work",
+    "token" : "harness",
     "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8G98DTAu_IiLfFCB",
+  "text" : "Fasten your bed-sheets!",
+  "translations" : {
+    "russian" : "Пристегнулись простынями."
+  },
+  "tokens" : [ {
+    "token" : "fasten",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "bed",
+    "startOffset" : 12,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "fast",
+    "token" : "b",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "sheet",
     "startOffset" : 16,
-    "endOffset" : 20,
+    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnueFNEXFMlzHLF7m",
-  "text" : "Pack a bag... fast.",
+  "id" : "AWoE8FhQDTAu_IiLfFBF",
+  "text" : "Fasten your seat belt.",
   "translations" : {
-    "russian" : "Пакуй вещи... быстро."
+    "russian" : "Пристегни ремень безопасности."
   },
   "tokens" : [ {
-    "token" : "pack",
+    "token" : "fasten",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "seat",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "belt",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8Ff7DTAu_IiLfFBE",
+  "text" : "Fasten your seat belt.",
+  "translations" : {
+    "russian" : "Пристегни ремень."
+  },
+  "tokens" : [ {
+    "token" : "fasten",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "seat",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "belt",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8HK0DTAu_IiLfFCI",
+  "text" : "Help me fasten it.",
+  "translations" : {
+    "russian" : "Помоги мне закрепить."
+  },
+  "tokens" : [ {
+    "token" : "help",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "a",
+    "token" : "me",
     "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "bag",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "fast",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzUVjNEXFMlzHLWN8",
-  "text" : "So fast... so strong.",
-  "translations" : {
-    "russian" : "Такая быстрая... такая сильная..."
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "fast",
-    "startOffset" : 3,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "so",
-    "startOffset" : 11,
-    "endOffset" : 13,
+    "token" : "fasten",
+    "startOffset" : 8,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "strong",
-    "startOffset" : 14,
-    "endOffset" : 20,
+    "token" : "fast",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 15,
+    "endOffset" : 17,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkeZONEXFMlzHLBBo",
-  "text" : "And going fast.",
+  "id" : "AWoE8HgLDTAu_IiLfFCW",
+  "text" : "Fasten it well!",
   "translations" : {
-    "russian" : "И летит быстро."
+    "russian" : "Закрепи как следует!"
   },
   "tokens" : [ {
-    "token" : "and",
+    "token" : "fasten",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "going",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "go",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
     "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "well",
     "startOffset" : 10,
     "endOffset" : 14,
     "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgkfwINEXFMlzHLBCq",
-  "text" : "So we're fasting now?",
+  "id" : "AWoE8Hk3DTAu_IiLfFCZ",
+  "text" : "You can fasten?",
   "translations" : {
-    "russian" : "Так мы сейчас постимся?"
+    "russian" : "Можешь застегнуть?"
   },
   "tokens" : [ {
-    "token" : "so",
+    "token" : "you",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "we're",
-    "startOffset" : 3,
-    "endOffset" : 8,
+    "token" : "can",
+    "startOffset" : 4,
+    "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "fast",
-    "startOffset" : 9,
-    "endOffset" : 16,
+    "token" : "fasten",
+    "startOffset" : 8,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "now",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
+    "token" : "fast",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtcddNEXFMlzHLNiq",
-  "text" : "Strike hard, strike fast.",
+  "id" : "AWoE8GnhDTAu_IiLfFBy",
+  "text" : "Fasten your seat belt.",
   "translations" : {
-    "russian" : "Напасть быстро и сильно."
+    "russian" : "Пристегнуться!"
   },
   "tokens" : [ {
-    "token" : "strike",
+    "token" : "fasten",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "hard",
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
     "startOffset" : 7,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "strike",
-    "startOffset" : 13,
-    "endOffset" : 19,
+    "token" : "seat",
+    "startOffset" : 12,
+    "endOffset" : 16,
     "position" : 2
   }, {
+    "token" : "belt",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8FVjDTAu_IiLfFA9",
+  "text" : "You, fasten your harness.",
+  "translations" : {
+    "russian" : "Ты, пристегни ремни."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "fasten",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
     "token" : "fast",
-    "startOffset" : 20,
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "harness",
+    "startOffset" : 17,
     "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgyzmSNEXFMlzHLVLo",
-  "text" : "He is rushing fast.",
+  "id" : "AWoE8Hu3DTAu_IiLfFCh",
+  "text" : "Fasten your waistcoat.",
   "translations" : {
-    "russian" : "Как он бежит..."
+    "russian" : "Застегни кофту."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "fasten",
     "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 3,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "rushing",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "rush",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "fast",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbge4YuNEXFMlzHK8I-",
-  "text" : "News travels fast, huh?",
-  "translations" : {
-    "russian" : "Новости быстро распространяются, да?"
-  },
-  "tokens" : [ {
-    "token" : "news",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "new",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "travel",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "fast",
-    "startOffset" : 13,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "huh",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkekNNEXFMlzHLBBv",
-  "text" : "So, two fast shots.",
-  "translations" : {
-    "russian" : "Итак, два быстрых выстрела."
-  },
-  "tokens" : [ {
-    "token" : "so",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "two",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "fast",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "shot",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkfHXNEXFMlzHLBCD",
-  "text" : "It's too fast.",
-  "translations" : {
-    "russian" : "Да, слишком скоро."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "too",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "fast",
-    "startOffset" : 9,
-    "endOffset" : 13,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkgCrNEXFMlzHLBDC",
-  "text" : "But fasting made easier.",
-  "translations" : {
-    "russian" : "Но голодать стало легче."
-  },
-  "tokens" : [ {
-    "token" : "but",
-    "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
     "token" : "fast",
-    "startOffset" : 4,
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
     "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "made",
+    "token" : "waistcoat",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8GS6DTAu_IiLfFBk",
+  "text" : "Fasten your belt.",
+  "translations" : {
+    "russian" : "Садись. Твой ремень.."
+  },
+  "tokens" : [ {
+    "token" : "fasten",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "belt",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8HC_DTAu_IiLfFCD",
+  "text" : "Fasten the belts.",
+  "translations" : {
+    "russian" : "Пристегнёшься?"
+  },
+  "tokens" : [ {
+    "token" : "fasten",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "belt",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8FAHDTAu_IiLfFAs",
+  "text" : "Fasten your seat belts.",
+  "translations" : {
+    "russian" : "Пристегните ваши ремни."
+  },
+  "tokens" : [ {
+    "token" : "fasten",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "seat",
     "startOffset" : 12,
     "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "easy",
+    "token" : "belt",
     "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgbnWaNEXFMlzHK5RY",
-  "text" : "But I'm aging fast.",
-  "translations" : {
-    "russian" : "Но я быстро старею."
-  },
-  "tokens" : [ {
-    "token" : "but",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "i'm",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "age",
-    "startOffset" : 8,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "fast",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbge4pkNEXFMlzHK8JO",
-  "text" : "Some news travels fast.",
-  "translations" : {
-    "russian" : "Некоторые новости распространяются быстро."
-  },
-  "tokens" : [ {
-    "token" : "some",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "news",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "new",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "travel",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "fast",
-    "startOffset" : 18,
     "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbge4wpNEXFMlzHK8JT",
-  "text" : "Bad news travels fast.",
+  "id" : "AWoE8FLUDTAu_IiLfFA1",
+  "text" : "Fasten your harness.",
   "translations" : {
-    "russian" : "Плохие новости распространяются быстро."
+    "russian" : "Пристегнуть ремни."
   },
   "tokens" : [ {
-    "token" : "bad",
+    "token" : "fasten",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "news",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "new",
-    "startOffset" : 4,
-    "endOffset" : 8,
+    "token" : "harness",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8FltDTAu_IiLfFBI",
+  "text" : "Fasten your seat belt!",
+  "translations" : {
+    "russian" : "Пристегните ремни безопасности."
+  },
+  "tokens" : [ {
+    "token" : "fasten",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fast",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 7,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "travel",
-    "startOffset" : 9,
+    "token" : "seat",
+    "startOffset" : 12,
     "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "fast",
+    "token" : "belt",
     "startOffset" : 17,
     "endOffset" : 21,
     "position" : 3

@@ -1,0 +1,75 @@
+[ {
+  "id" : "AWoFEeegDTAu_IiLfLVX",
+  "text" : "Hematologic malignancies.",
+  "translations" : {
+    "russian" : "Гемобластоз."
+  },
+  "tokens" : [ {
+    "token" : "hematologic",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "malignancy",
+    "startOffset" : 12,
+    "endOffset" : 24,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEeaDDTAu_IiLfLVU",
+  "text" : "Bone marrow malignancy.",
+  "translations" : {
+    "russian" : "Рак костного мозга."
+  },
+  "tokens" : [ {
+    "token" : "bone",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "marrow",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "malignancy",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEeIkDTAu_IiLfLVI",
+  "text" : "We treat the underlying malignancy.",
+  "translations" : {
+    "russian" : "Мы будем лечить вызывающую это опухоль."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "treat",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "underly",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "malignancy",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

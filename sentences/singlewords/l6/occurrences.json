@@ -1,0 +1,57 @@
+[ {
+  "id" : "AWoDPdnwDTAu_IiLd9NH",
+  "text" : "Occurrence Automobile accident.",
+  "translations" : {
+    "russian" : "Происшествие автомобильная авария."
+  },
+  "tokens" : [ {
+    "token" : "occurrence",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "automobile",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 1
+  }, {
+    "token" : "accident",
+    "startOffset" : 22,
+    "endOffset" : 30,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8ljkDTAu_IiLfFV2",
+  "text" : "That was an unfortunate occurrence.",
+  "translations" : {
+    "russian" : "Это было просто неудачное происшествие."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "an",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "fortunate",
+    "startOffset" : 12,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "occurrence",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

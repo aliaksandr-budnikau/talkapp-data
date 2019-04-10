@@ -1,29 +1,19 @@
 [ {
-  "id" : "AWbgyFrhNEXFMlzHLUP2",
-  "text" : "I'm switching to vodka.",
+  "id" : "AWoES1UeDTAu_IiLenVl",
+  "text" : "Stub, switch.",
   "translations" : {
-    "russian" : "Я переключаюсь на водку."
+    "russian" : "Корешки, подмена."
   },
   "tokens" : [ {
-    "token" : "i'm",
+    "token" : "stub",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "switch",
-    "startOffset" : 4,
-    "endOffset" : 13,
+    "startOffset" : 6,
+    "endOffset" : 12,
     "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "vodka",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
   } ],
   "contentScore" : null
 }, {
@@ -74,6 +64,85 @@
     "token" : "do",
     "startOffset" : 19,
     "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWbgyFrhNEXFMlzHLUP2",
+  "text" : "I'm switching to vodka.",
+  "translations" : {
+    "russian" : "Я переключаюсь на водку."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "switch",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "vodka",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEoqUnDTAu_IiLe3mZ",
+  "text" : "Switched to C.",
+  "translations" : {
+    "russian" : "R.M. discriminators.Дискриминатор подключен."
+  },
+  "tokens" : [ {
+    "token" : "switch",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "c",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4ooGDTAu_IiLfCy2",
+  "text" : "Switching to wireless download.",
+  "translations" : {
+    "russian" : "Переключаюсь на беспроводное скачивание."
+  },
+  "tokens" : [ {
+    "token" : "switch",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "wireless",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "download",
+    "startOffset" : 22,
+    "endOffset" : 30,
     "position" : 3
   } ],
   "contentScore" : null
@@ -134,6 +203,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDPu1FDTAu_IiLd9XK",
+  "text" : "Reengage autopilot switches.",
+  "translations" : {
+    "russian" : "Повторно включите переключатели автопилота."
+  },
+  "tokens" : [ {
+    "token" : "engage",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "autopilot",
+    "startOffset" : 9,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "switch",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyFTQNEXFMlzHLUO_",
   "text" : "Someone hit that switch.",
   "translations" : {
@@ -186,6 +278,62 @@
     "token" : "infrared",
     "startOffset" : 15,
     "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPX-DDTAu_IiLd9J1",
+  "text" : "Auto retro-jettison switch.",
+  "translations" : {
+    "russian" : "Роджер. Автоматический переключатель."
+  },
+  "tokens" : [ {
+    "token" : "auto",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "retro",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "jettison",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "switch",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDZDOVDTAu_IiLeC51",
+  "text" : "Switch on arsenal heating.",
+  "translations" : {
+    "russian" : "Включить подогрев арсенала."
+  },
+  "tokens" : [ {
+    "token" : "switch",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "arsenal",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "heat",
+    "startOffset" : 18,
+    "endOffset" : 25,
     "position" : 3
   } ],
   "contentScore" : null
@@ -271,209 +419,6 @@
     "startOffset" : 18,
     "endOffset" : 21,
     "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyEzQNEXFMlzHLUN6",
-  "text" : "They must've switched places.",
-  "translations" : {
-    "russian" : "Они должно быть поменялись местами."
-  },
-  "tokens" : [ {
-    "token" : "they",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "must've",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "switch",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "places",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "place",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyE--NEXFMlzHLUOT",
-  "text" : "Did you switch the kids?",
-  "translations" : {
-    "russian" : "Ты поменяла детей местами?"
-  },
-  "tokens" : [ {
-    "token" : "did",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "switch",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 15,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "kid",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyFqyNEXFMlzHLUP0",
-  "text" : "Backup battery switched itself on.",
-  "translations" : {
-    "russian" : "Резервный аккумулятор переключился сам."
-  },
-  "tokens" : [ {
-    "token" : "backup",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "battery",
-    "startOffset" : 7,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "switch",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "itself",
-    "startOffset" : 24,
-    "endOffset" : 30,
-    "position" : 3
-  }, {
-    "token" : "on",
-    "startOffset" : 31,
-    "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyGR4NEXFMlzHLURB",
-  "text" : "Willie, cut me a switch!",
-  "translations" : {
-    "russian" : "Вилли, отрежь мне ветку для хлыста!"
-  },
-  "tokens" : [ {
-    "token" : "willie",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "cut",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 12,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 15,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "switch",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyEz_NEXFMlzHLUN7",
-  "text" : "Ferguson switched cars with us.",
-  "translations" : {
-    "russian" : "Фергюсон поменялся с нами машинами."
-  },
-  "tokens" : [ {
-    "token" : "ferguson",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "switch",
-    "startOffset" : 9,
-    "endOffset" : 17,
-    "position" : 1
-  }, {
-    "token" : "car",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "with",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 3
-  }, {
-    "token" : "us",
-    "startOffset" : 28,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyE5HNEXFMlzHLUOF",
-  "text" : "I'm happy to switch places.",
-  "translations" : {
-    "russian" : "Я был бы рад поменяться местами."
-  },
-  "tokens" : [ {
-    "token" : "i'm",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "happy",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "switch",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "places",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "place",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

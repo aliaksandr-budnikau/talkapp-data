@@ -293,29 +293,80 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtAKJNEXFMlzHLNMx",
-  "text" : "Sickness is a state.",
+  "id" : "AWoEx1PuDTAu_IiLe-G9",
+  "text" : "Urgent medical jargon, stat!",
   "translations" : {
-    "russian" : "Болезнь - это состояние."
+    "russian" : "Спешный медицинский жаргон, быстро!"
   },
   "tokens" : [ {
-    "token" : "sickness",
+    "token" : "urgent",
     "startOffset" : 0,
-    "endOffset" : 8,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "sick",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "is",
-    "startOffset" : 9,
-    "endOffset" : 11,
+    "token" : "medical",
+    "startOffset" : 7,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "a",
-    "startOffset" : 12,
+    "token" : "jargon",
+    "startOffset" : 15,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "stat",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbd4EDTAu_IiLeEZs",
+  "text" : "Ron, they're state auditors.",
+  "translations" : {
+    "russian" : "Рон, это аудиторы штата."
+  },
+  "tokens" : [ {
+    "token" : "ron",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "they're",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "state",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "auditor",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD4HqHDTAu_IiLeUH1",
+  "text" : "Gary Welsh at State.",
+  "translations" : {
+    "russian" : "Гэри Уэлш из госдепартамента."
+  },
+  "tokens" : [ {
+    "token" : "gary",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "welsh",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "at",
+    "startOffset" : 11,
     "endOffset" : 13,
     "position" : 2
   }, {
@@ -326,104 +377,112 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgtCX9NEXFMlzHLNPv",
-  "text" : "Please state your emergency.",
+  "id" : "AWoDzdLdDTAu_IiLeR55",
+  "text" : "Growlers go to State!",
   "translations" : {
-    "russian" : "Пожалуйста, изложите ситуацию."
+    "russian" : "До победы в чемпионате штата."
   },
   "tokens" : [ {
-    "token" : "please",
+    "token" : "growl",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "state",
-    "startOffset" : 7,
-    "endOffset" : 12,
+    "token" : "go",
+    "startOffset" : 9,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "your",
-    "startOffset" : 13,
-    "endOffset" : 17,
+    "token" : "to",
+    "startOffset" : 12,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "emergency",
-    "startOffset" : 18,
-    "endOffset" : 27,
+    "token" : "state",
+    "startOffset" : 15,
+    "endOffset" : 20,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgs_-MNEXFMlzHLNMh",
-  "text" : "Depending on the state.",
+  "id" : "AWoEZAerDTAu_IiLer6r",
+  "text" : "Ensuring state security.",
   "translations" : {
-    "russian" : "В зависимости от штата."
+    "russian" : "Обеспечивали безопасность государства."
   },
   "tokens" : [ {
-    "token" : "pend",
+    "token" : "ensure",
     "startOffset" : 0,
-    "endOffset" : 9,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "on",
-    "startOffset" : 10,
-    "endOffset" : 12,
+    "token" : "state",
+    "startOffset" : 9,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
+    "token" : "security",
+    "startOffset" : 15,
+    "endOffset" : 23,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ0gtDTAu_IiLfU4K",
+  "text" : "Treasury or State?",
+  "translations" : {
+    "russian" : "Финансы или внешняя политика?"
+  },
+  "tokens" : [ {
+    "token" : "treasury",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "or",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
   }, {
     "token" : "state",
-    "startOffset" : 17,
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDbhB9DTAu_IiLeEbp",
+  "text" : "No, the state auditors.",
+  "translations" : {
+    "russian" : "Нет, аудиторы."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "state",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "auditor",
+    "startOffset" : 14,
     "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgeg_bNEXFMlzHK7z9",
-  "text" : "Your Honor, the State rests.",
+  "id" : "AWoFDqyMDTAu_IiLfKwm",
+  "text" : "The State Capitol.",
   "translations" : {
-    "russian" : "Ваша честь, Штат просит перерыв."
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "honor",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "state",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "rests",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "rest",
-    "startOffset" : 22,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjouANEXFMlzHLALp",
-  "text" : "The center... up... state, down.",
-  "translations" : {
-    "russian" : "Центральная... вверху штата, внизу."
+    "russian" : "Здание капитолия..."
   },
   "tokens" : [ {
     "token" : "the",
@@ -431,139 +490,15 @@
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "center",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "cent",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "up",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
     "token" : "state",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "down",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgnMBTNEXFMlzHLFD_",
-  "text" : "The center... up... state, down.",
-  "translations" : {
-    "russian" : "Центральная... вверху штата, внизу."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "center",
     "startOffset" : 4,
-    "endOffset" : 10,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "cent",
-    "startOffset" : 4,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "up",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "state",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 3
-  }, {
-    "token" : "down",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtAuCNEXFMlzHLNNl",
-  "text" : "It's not a state secret.",
-  "translations" : {
-    "russian" : "Это не государственная тайна."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "not",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "state",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "secret",
-    "startOffset" : 17,
-    "endOffset" : 23,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtC-xNEXFMlzHLNQj",
-  "text" : "Please state area of activation.",
-  "translations" : {
-    "russian" : "Пожалуйста, установите радиус активации."
-  },
-  "tokens" : [ {
-    "token" : "please",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "state",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "area",
-    "startOffset" : 13,
+    "token" : "capitol",
+    "startOffset" : 10,
     "endOffset" : 17,
     "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "activation",
-    "startOffset" : 21,
-    "endOffset" : 31,
-    "position" : 4
-  }, {
-    "token" : "activate",
-    "startOffset" : 21,
-    "endOffset" : 31,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

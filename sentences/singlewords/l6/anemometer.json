@@ -1,0 +1,42 @@
+[ {
+  "id" : "AWoDVDHpDTAu_IiLeA5N",
+  "text" : "Anemometer Steady.",
+  "translations" : {
+    "russian" : "Скорость ветра в норме."
+  },
+  "tokens" : [ {
+    "token" : "anemometer",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "steady",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVDGEDTAu_IiLeA5M",
+  "text" : "Is this anemometer?",
+  "translations" : {
+    "russian" : "Это ветромер?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "this",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "anemometer",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+} ]

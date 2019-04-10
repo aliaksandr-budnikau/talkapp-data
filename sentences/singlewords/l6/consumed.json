@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoFRdcsDTAu_IiLfVYd",
+  "text" : "2,400 calories consumed today.",
+  "translations" : {
+    "russian" : "Употребил 2400 калорий за сегодня."
+  },
+  "tokens" : [ {
+    "token" : "2,400",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "calorie",
+    "startOffset" : 6,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "consumed",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "consume",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "today",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglX7XNEXFMlzHLCbK",
   "text" : "The turbine will consume more fuel.",
   "translations" : {

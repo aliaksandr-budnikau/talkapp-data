@@ -1,4 +1,70 @@
 [ {
+  "id" : "AWoEMHvWDTAu_IiLeiXN",
+  "text" : "The topic, gentlemen, is mutiny.",
+  "translations" : {
+    "russian" : "Джентльмены, давайте обсудим бунт."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "topic",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "gentlemen",
+    "startOffset" : 11,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "mutiny",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDuDHNDTAu_IiLeO0x",
+  "text" : "Is this a painful topic?",
+  "translations" : {
+    "russian" : "Тебе трудно об этом говорить?"
+  },
+  "tokens" : [ {
+    "token" : "is",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "this",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "painful",
+    "startOffset" : 10,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "topic",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwjBNNEXFMlzHLSSp",
   "text" : "I majored in changing topics.",
   "translations" : {
@@ -34,6 +100,44 @@
     "startOffset" : 22,
     "endOffset" : 28,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpHYHDTAu_IiLe38I",
+  "text" : "We have a controversial topic today.",
+  "translations" : {
+    "russian" : "Сегодня у нас спорная тема."
+  },
+  "tokens" : [ {
+    "token" : "we",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "have",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "controversial",
+    "startOffset" : 10,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "topic",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "today",
+    "startOffset" : 30,
+    "endOffset" : 35,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

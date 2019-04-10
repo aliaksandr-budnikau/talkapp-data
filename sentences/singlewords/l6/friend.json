@@ -60,6 +60,123 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD-mbDDTAu_IiLeYGy",
+  "text" : "Excuse my friend's frivolity.",
+  "translations" : {
+    "russian" : "Простите легкомыслие моей подруги."
+  },
+  "tokens" : [ {
+    "token" : "excuse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "friend",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "frivolity",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDz06CDTAu_IiLeSGy",
+  "text" : "Wake up, Friend Owl.",
+  "translations" : {
+    "russian" : "Проснись, Филин."
+  },
+  "tokens" : [ {
+    "token" : "wake",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "friend",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "owl",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEt98VDTAu_IiLe7TB",
+  "text" : "Dignity's on me, friends.",
+  "translations" : {
+    "russian" : "Обеспечу вам чувство собственного достоинства."
+  },
+  "tokens" : [ {
+    "token" : "dignity",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "on",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "friend",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNwkjDTAu_IiLfSf6",
+  "text" : "Friends, Romans, and Irishmen...",
+  "translations" : {
+    "russian" : "Друзья, католики и ирландцы..."
+  },
+  "tokens" : [ {
+    "token" : "friend",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "romans",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "roman",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "irishmen",
+    "startOffset" : 21,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjr9dNEXFMlzHLAOc",
   "text" : "Nice, nice, friendly conversation.",
   "translations" : {
@@ -144,136 +261,52 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsbNoNEXFMlzHLMbF",
-  "text" : "Nobody's getting lynched, friend.",
+  "id" : "AWoDjm8KDTAu_IiLeJCP",
+  "text" : "Don't despair, my friend.",
   "translations" : {
-    "russian" : "Приятель, сегодня никто никого не линчует."
+    "russian" : "Не падай духом, друг мой."
   },
   "tokens" : [ {
-    "token" : "nobody",
+    "token" : "don't",
     "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "getting",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "lynch",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 2
-  }, {
-    "token" : "friend",
-    "startOffset" : 26,
-    "endOffset" : 32,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsb6DNEXFMlzHLMcC",
-  "text" : "Not mine, my friend's.",
-  "translations" : {
-    "russian" : "Не мое, коллеги."
-  },
-  "tokens" : [ {
-    "token" : "not",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "mine",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "friend",
-    "startOffset" : 13,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsbnANEXFMlzHLMbt",
-  "text" : "I had a friend...",
-  "translations" : {
-    "russian" : "У меня был товарищ..."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "had",
-    "startOffset" : 2,
     "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 6,
-    "endOffset" : 7,
-    "position" : 2
-  }, {
-    "token" : "friend",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgueaxNEXFMlzHLPLM",
-  "text" : "Nobody's getting lynched, friend.",
-  "translations" : {
-    "russian" : "Приятель, сегодня никто никого не линчует."
-  },
-  "tokens" : [ {
-    "token" : "nobody",
-    "startOffset" : 0,
-    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "getting",
-    "startOffset" : 9,
-    "endOffset" : 16,
+    "token" : "despair",
+    "startOffset" : 6,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "lynch",
-    "startOffset" : 17,
-    "endOffset" : 24,
+    "token" : "my",
+    "startOffset" : 15,
+    "endOffset" : 17,
     "position" : 2
   }, {
     "token" : "friend",
-    "startOffset" : 26,
-    "endOffset" : 32,
+    "startOffset" : 18,
+    "endOffset" : 24,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgueKqNEXFMlzHLPKt",
-  "text" : "Yes, my Latino friend.",
+  "id" : "AWoDrIVaDTAu_IiLeNEi",
+  "text" : "Hello my pious friend!",
   "translations" : {
-    "russian" : "Да, мой латинский дружок."
+    "russian" : "Здравствуй, мой благочестивый друг."
   },
   "tokens" : [ {
-    "token" : "yes",
+    "token" : "hello",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 5,
     "position" : 0
   }, {
     "token" : "my",
-    "startOffset" : 5,
-    "endOffset" : 7,
+    "startOffset" : 6,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "latino",
-    "startOffset" : 8,
+    "token" : "pious",
+    "startOffset" : 9,
     "endOffset" : 14,
     "position" : 2
   }, {
@@ -284,80 +317,108 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzGcONEXFMlzHLVxB",
-  "text" : "We dined with friends.",
+  "id" : "AWoEpN7rDTAu_IiLe4A5",
+  "text" : "Fish and fowl, friends.",
   "translations" : {
-    "russian" : "Мы ужинали с друзьями."
+    "russian" : "Рыба и птица, друзья."
   },
   "tokens" : [ {
-    "token" : "we",
+    "token" : "fish",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "din",
-    "startOffset" : 3,
+    "token" : "and",
+    "startOffset" : 5,
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "with",
+    "token" : "fowl",
     "startOffset" : 9,
     "endOffset" : 13,
     "position" : 2
   }, {
     "token" : "friend",
-    "startOffset" : 14,
-    "endOffset" : 21,
+    "startOffset" : 15,
+    "endOffset" : 22,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgjr32NEXFMlzHLAOX",
-  "text" : "You think it's friendly?",
+  "id" : "AWoEK5pDDTAu_IiLehXv",
+  "text" : "From foe to friend.",
   "translations" : {
-    "russian" : "Думаешь, оно дружелюбно?"
+    "russian" : "Втерись в доверие врагу'."
   },
   "tokens" : [ {
-    "token" : "you",
+    "token" : "from",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "foe",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "friend",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEuI-4DTAu_IiLe7aZ",
+  "text" : "Accuracy is our friend.",
+  "translations" : {
+    "russian" : "Точность - наш друг."
+  },
+  "tokens" : [ {
+    "token" : "accuracy",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "our",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "friend",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEQ0NDTAu_IiLfLLu",
+  "text" : "Ooh, earth-friendly cereals.",
+  "translations" : {
+    "russian" : "О, экологически чистая крупа."
+  },
+  "tokens" : [ {
+    "token" : "ooh",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "think",
-    "startOffset" : 4,
-    "endOffset" : 9,
+    "token" : "earth",
+    "startOffset" : 5,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "it",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "friendly",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "friend",
-    "startOffset" : 15,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjsZUNEXFMlzHLAO1",
-  "text" : "Finally, a friendly face.",
-  "translations" : {
-    "russian" : "Наконец-то хоть одно дружеское лицо."
-  },
-  "tokens" : [ {
-    "token" : "final",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 9,
+    "token" : "ear",
+    "startOffset" : 5,
     "endOffset" : 10,
     "position" : 1
   }, {
@@ -371,94 +432,33 @@
     "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "face",
+    "token" : "cereal",
     "startOffset" : 20,
-    "endOffset" : 24,
+    "endOffset" : 27,
     "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsbSwNEXFMlzHLMbL",
-  "text" : "Call me, friend.",
+  "id" : "AWoE-obRDTAu_IiLfG6o",
+  "text" : "Halt there, friend.",
   "translations" : {
-    "russian" : "Позвони мне, приятель."
+    "russian" : "Остановись, друг мой."
   },
   "tokens" : [ {
-    "token" : "call",
+    "token" : "halt",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "me",
+    "token" : "there",
     "startOffset" : 5,
-    "endOffset" : 7,
+    "endOffset" : 10,
     "position" : 1
   }, {
     "token" : "friend",
-    "startOffset" : 9,
-    "endOffset" : 15,
+    "startOffset" : 12,
+    "endOffset" : 18,
     "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgscUKNEXFMlzHLMcp",
-  "text" : "Well, my learned friends...",
-  "translations" : {
-    "russian" : "Итак, уважаемые коллеги."
-  },
-  "tokens" : [ {
-    "token" : "well",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "learned",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "learn",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "friend",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgscKpNEXFMlzHLMcf",
-  "text" : "Loosen up, my friend.",
-  "translations" : {
-    "russian" : "Дорогой коллега, что за глупости?"
-  },
-  "tokens" : [ {
-    "token" : "loosen",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "up",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "my",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "friend",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
   } ],
   "contentScore" : null
 } ]

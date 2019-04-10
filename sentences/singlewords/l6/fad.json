@@ -1,39 +1,409 @@
 [ {
-  "id" : "AWbgu4QeNEXFMlzHLP9o",
-  "text" : "Yes, but the light's fading.",
+  "id" : "AWoDraDoDTAu_IiLeNPA",
+  "text" : "It's fading.",
   "translations" : {
-    "russian" : "Да, но свет уходит."
+    "russian" : "Он блёкнет."
   },
   "tokens" : [ {
-    "token" : "yes",
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fading",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fad",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrcLtDTAu_IiLeNQU",
+  "text" : "Fading aft.",
+  "translations" : {
+    "russian" : "Уходит к корме."
+  },
+  "tokens" : [ {
+    "token" : "fading",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fad",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "aft",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrb1TDTAu_IiLeNQE",
+  "text" : "It's fading!",
+  "translations" : {
+    "russian" : "Он слабеет!"
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fading",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fad",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFI4NnDTAu_IiLfOvq",
+  "text" : "Variance fading.",
+  "translations" : {
+    "russian" : "Колебания уменьшаются."
+  },
+  "tokens" : [ {
+    "token" : "variance",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "fading",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "fad",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrbC1DTAu_IiLeNPm",
+  "text" : "They faded.",
+  "translations" : {
+    "russian" : "Они прошли."
+  },
+  "tokens" : [ {
+    "token" : "they",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "faded",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "fad",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrXd-DTAu_IiLeNNb",
+  "text" : "They're fading.",
+  "translations" : {
+    "russian" : "Они исчезают."
+  },
+  "tokens" : [ {
+    "token" : "they're",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "fading",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "fad",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrbzlDTAu_IiLeNQD",
+  "text" : "She's fading.",
+  "translations" : {
+    "russian" : "Слабеет."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "fading",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "fad",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrXOiDTAu_IiLeNNT",
+  "text" : "He's fading!",
+  "translations" : {
+    "russian" : "Он исчезает!"
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fading",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fad",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrYhxDTAu_IiLeNOD",
+  "text" : "Totally faded.",
+  "translations" : {
+    "russian" : "Полностью исчезла."
+  },
+  "tokens" : [ {
+    "token" : "total",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "faded",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "fad",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrY5cDTAu_IiLeNOR",
+  "text" : "He's fading.",
+  "translations" : {
+    "russian" : "Он угасает."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "fading",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "fad",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrcgmDTAu_IiLeNQg",
+  "text" : "You're fading.",
+  "translations" : {
+    "russian" : "Ты уходишь."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fading",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "fad",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrY1ZDTAu_IiLeNOO",
+  "text" : "The memory Is fading.",
+  "translations" : {
+    "russian" : "Угасает память моя."
+  },
+  "tokens" : [ {
+    "token" : "the",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "but",
-    "startOffset" : 5,
-    "endOffset" : 8,
+    "token" : "memory",
+    "startOffset" : 4,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 9,
-    "endOffset" : 12,
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "light's",
-    "startOffset" : 13,
+    "token" : "fading",
+    "startOffset" : 14,
     "endOffset" : 20,
     "position" : 3
   }, {
+    "token" : "fad",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrZSdDTAu_IiLeNOh",
+  "text" : "You're fading, Isaac.",
+  "translations" : {
+    "russian" : "Ты угасаешь, Айзек."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
     "token" : "fading",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
   }, {
     "token" : "fad",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "isaac",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrZYKDTAu_IiLeNOk",
+  "text" : "I am fading.",
+  "translations" : {
+    "russian" : "Я угасаю."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "am",
+    "startOffset" : 2,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "fading",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "fad",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrcsvDTAu_IiLeNQm",
+  "text" : "His pulse is fading.",
+  "translations" : {
+    "russian" : "Пульс пропадает."
+  },
+  "tokens" : [ {
+    "token" : "his",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pulse",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "fading",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "fad",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDrXcGDTAu_IiLeNNa",
+  "text" : "The blemishes are fading.",
+  "translations" : {
+    "russian" : "Пятна исчезают."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "blemish",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "fading",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "fad",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

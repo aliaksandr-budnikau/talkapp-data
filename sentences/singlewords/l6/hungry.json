@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEEhLmDTAu_IiLecs5",
+  "text" : "I'm hungry.",
+  "translations" : {
+    "russian" : "Хочу поесть."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "hungry",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtNCLNEXFMlzHLNbL",
   "text" : "I beg you. I'm hungry.",
   "translations" : {
@@ -28,6 +46,105 @@
     "token" : "hungry",
     "startOffset" : 15,
     "endOffset" : 21,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgTtkDTAu_IiLexJ_",
+  "text" : "Fresh basil makes me hungry.",
+  "translations" : {
+    "russian" : "Свежий базилик пробуждает аппетит."
+  },
+  "tokens" : [ {
+    "token" : "fresh",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "basil",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "make",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "hungry",
+    "startOffset" : 21,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWEERDTAu_IiLfYsV",
+  "text" : "There's quiche if you're hungry.",
+  "translations" : {
+    "russian" : "Есть пирог, если ты голоден."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "quiche",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "if",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "you're",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "hungry",
+    "startOffset" : 25,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEfe9oDTAu_IiLewgo",
+  "text" : "He's dark, evil, predatory, hungry.",
+  "translations" : {
+    "russian" : "Он темный, злой, хищный, голодный."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "dark",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "evil",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "predatory",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "hungry",
+    "startOffset" : 28,
+    "endOffset" : 34,
     "position" : 4
   } ],
   "contentScore" : null
@@ -66,6 +183,120 @@
     "token" : "here",
     "startOffset" : 26,
     "endOffset" : 30,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwxuTDTAu_IiLe9Ut",
+  "text" : "Without Egyptian grain, Rome goes hungry.",
+  "translations" : {
+    "russian" : "Без хлеба из Египта Рим начнет голодать."
+  },
+  "tokens" : [ {
+    "token" : "without",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "egyptian",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "grain",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "rome",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "goes",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "hungry",
+    "startOffset" : 34,
+    "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFcrTeDTAu_IiLfd7e",
+  "text" : "You must be constantly hungry, right?",
+  "translations" : {
+    "russian" : "Вы должны испытывать постоянное чувство голода, правда?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "must",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "be",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "constant",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "hungry",
+    "startOffset" : 23,
+    "endOffset" : 29,
+    "position" : 4
+  }, {
+    "token" : "right",
+    "startOffset" : 31,
+    "endOffset" : 36,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEZqgfDTAu_IiLesWm",
+  "text" : "Without Egyptian grain, Rome goes hungry.",
+  "translations" : {
+    "russian" : "Без хлеба из Египта Рим начнет голодать."
+  },
+  "tokens" : [ {
+    "token" : "without",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "egyptian",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "grain",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "rome",
+    "startOffset" : 24,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "goes",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 4
+  }, {
+    "token" : "hungry",
+    "startOffset" : 34,
+    "endOffset" : 40,
     "position" : 5
   } ],
   "contentScore" : null

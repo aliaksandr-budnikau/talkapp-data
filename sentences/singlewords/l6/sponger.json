@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoFXLvqDTAu_IiLfZfD",
+  "text" : "Dry sponge and forceps.",
+  "translations" : {
+    "russian" : "Сухую губку и щипцы."
+  },
+  "tokens" : [ {
+    "token" : "dry",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sponge",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "forceps",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgncuENEXFMlzHLFd5",
   "text" : "Toffees, sponge cake, warm fruit.",
   "translations" : {
@@ -29,6 +57,44 @@
     "startOffset" : 27,
     "endOffset" : 32,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD23mEDTAu_IiLeTi0",
+  "text" : "He doesn't understand about bovine sponge...",
+  "translations" : {
+    "russian" : "Он не доходит про коровье бешен..."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "doesn't",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "understand",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "about",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "bovine",
+    "startOffset" : 28,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "sponge",
+    "startOffset" : 35,
+    "endOffset" : 41,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -66,6 +132,44 @@
     "token" : "sponge",
     "startOffset" : 21,
     "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWLrnDTAu_IiLeBj9",
+  "text" : "Nurse Monk, pencil, sponge with antiseptic.",
+  "translations" : {
+    "russian" : "Сестра Монк, карандаш и губку с антисептиком."
+  },
+  "tokens" : [ {
+    "token" : "nurse",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "monk",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "pencil",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "sponge",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "with",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "antiseptic",
+    "startOffset" : 32,
+    "endOffset" : 42,
     "position" : 5
   } ],
   "contentScore" : null

@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoEybVBDTAu_IiLe-i7",
+  "text" : "Jelly doughnuts?",
+  "translations" : {
+    "russian" : "А как же пончики с желе?"
+  },
+  "tokens" : [ {
+    "token" : "jelly",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "doughnuts",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEb0PVDTAu_IiLetx5",
+  "text" : "But I love glazed doughnuts.",
+  "translations" : {
+    "russian" : "Но я люблю глазированные пончики."
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "i",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "love",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "glazed",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "glaze",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "doughnuts",
+    "startOffset" : 18,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgzUAzNEXFMlzHLWNV",
   "text" : "Burned coffee and stale doughnuts.",
   "translations" : {
@@ -34,6 +90,44 @@
     "startOffset" : 24,
     "endOffset" : 33,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEhj6IDTAu_IiLeyJS",
+  "text" : "As in polyester, doughnuts and brutality.",
+  "translations" : {
+    "russian" : "То есть в полиэстер, пончики и жестокость."
+  },
+  "tokens" : [ {
+    "token" : "as",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "in",
+    "startOffset" : 3,
+    "endOffset" : 5,
+    "position" : 1
+  }, {
+    "token" : "polyester",
+    "startOffset" : 6,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "doughnuts",
+    "startOffset" : 17,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "and",
+    "startOffset" : 27,
+    "endOffset" : 30,
+    "position" : 4
+  }, {
+    "token" : "brutality",
+    "startOffset" : 31,
+    "endOffset" : 40,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

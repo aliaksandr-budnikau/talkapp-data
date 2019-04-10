@@ -91,6 +91,39 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoD4nl4DTAu_IiLeUWv",
+  "text" : "Traces of nickel, vanadium, sulphur...",
+  "translations" : {
+    "russian" : "Следи никеля, ванадия и серы..."
+  },
+  "tokens" : [ {
+    "token" : "trace",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "nickel",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "vanadium",
+    "startOffset" : 18,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "sulphur",
+    "startOffset" : 28,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgkNizNEXFMlzHLAqn",
   "text" : "Sulphur and saltpeter make gunpowder.",
   "translations" : {
@@ -475,44 +508,6 @@
     "token" : "smell",
     "startOffset" : 22,
     "endOffset" : 27,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkNcNNEXFMlzHLAqc",
-  "text" : "Yes, it's essentially finely powdered sulphur.",
-  "translations" : {
-    "russian" : "А, по сути это измельченна в мелкий порошок сера."
-  },
-  "tokens" : [ {
-    "token" : "yes",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "essentially",
-    "startOffset" : 10,
-    "endOffset" : 21,
-    "position" : 2
-  }, {
-    "token" : "finely",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "powder",
-    "startOffset" : 29,
-    "endOffset" : 37,
-    "position" : 4
-  }, {
-    "token" : "sulphur",
-    "startOffset" : 38,
-    "endOffset" : 45,
     "position" : 5
   } ],
   "contentScore" : null

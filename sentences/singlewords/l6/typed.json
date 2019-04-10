@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoE-4R3DTAu_IiLfHHu",
+  "text" : "You mean constipation types.",
+  "translations" : {
+    "russian" : "Хочешь сказать у тебя запор?"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "mean",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "constipation",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "constipate",
+    "startOffset" : 9,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "types",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "type",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgay3_NEXFMlzHK4iq",
   "text" : "I know your type.",
   "translations" : {
@@ -27,79 +65,440 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgm5HmNEXFMlzHLEqd",
-  "text" : "Cross and type for two units.",
+  "id" : "AWoDTwVPDTAu_IiLeAE2",
+  "text" : "A type of... amphibian.",
   "translations" : {
-    "russian" : "Крест и щипцы для двух узлов."
+    "russian" : "Чем-то вроде... земноводных."
   },
   "tokens" : [ {
-    "token" : "cross",
+    "token" : "a",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "and",
-    "startOffset" : 6,
+    "token" : "type",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 7,
     "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "amphibian",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDk9SmDTAu_IiLeJx4",
+  "text" : "Wesley Snipes type?",
+  "translations" : {
+    "russian" : "Я похож на Снайпса? Похож? Неужели похож?"
+  },
+  "tokens" : [ {
+    "token" : "wesley",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "snipe",
+    "startOffset" : 7,
+    "endOffset" : 13,
     "position" : 1
   }, {
     "token" : "type",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEU48XDTAu_IiLeo7c",
+  "text" : "Wesley Snipes type?",
+  "translations" : {
+    "russian" : "Я похож на Снайпса? Похож? Неужели похож?"
+  },
+  "tokens" : [ {
+    "token" : "wesley",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "snipe",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "type",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwBwXDTAu_IiLe8vc",
+  "text" : "What type of brackets?",
+  "translations" : {
+    "russian" : "Какие именно скобки?"
+  },
+  "tokens" : [ {
+    "token" : "what",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "type",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "of",
     "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "bracket",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHyydDTAu_IiLefGQ",
+  "text" : "Especially the balding, virile type.",
+  "translations" : {
+    "russian" : "Особенно лысеющих, мужественный типаж."
+  },
+  "tokens" : [ {
+    "token" : "especial",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "bald",
+    "startOffset" : 15,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "virile",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "type",
+    "startOffset" : 31,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwlUDDTAu_IiLe9LF",
+  "text" : "You're not the diabolical type.",
+  "translations" : {
+    "russian" : "Ты не сможешь придумать дьявольский план."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
     "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "for",
+    "token" : "diabolical",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "type",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEzDOUDTAu_IiLe-_t",
+  "text" : "You're not the sacrificial type.",
+  "translations" : {
+    "russian" : "Ты не относишься к жертвенному типу."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "sacrificial",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 3
+  }, {
+    "token" : "type",
+    "startOffset" : 27,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE1vS1DTAu_IiLfA2s",
+  "text" : "Same type of stab wound.",
+  "translations" : {
+    "russian" : "Одинаковые раны от удара ножом."
+  },
+  "tokens" : [ {
+    "token" : "same",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "type",
+    "startOffset" : 5,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "of",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "stab",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "wound",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFF7CzDTAu_IiLfMXY",
+  "text" : "You're a special, idealistic type.",
+  "translations" : {
+    "russian" : "Ты особый, идеалистический тип."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "special",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "idealistic",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "type",
+    "startOffset" : 29,
+    "endOffset" : 33,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFSiMGDTAu_IiLfWL8",
+  "text" : "It's a type of resin.",
+  "translations" : {
+    "russian" : "Это один из видов смолы."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "type",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 12,
+    "endOffset" : 14,
+    "position" : 3
+  }, {
+    "token" : "resin",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "sin",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDX9APDTAu_IiLeCT0",
+  "text" : "He's the type who argues.",
+  "translations" : {
+    "russian" : "Я с ним поссорилась."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "type",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "who",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "argue",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDh9hrDTAu_IiLeIGs",
+  "text" : "He's my rugged guy type.",
+  "translations" : {
+    "russian" : "Он мой тип суровых парней."
+  },
+  "tokens" : [ {
+    "token" : "he",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "rugged",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "guy",
     "startOffset" : 15,
     "endOffset" : 18,
     "position" : 3
   }, {
-    "token" : "two",
+    "token" : "type",
     "startOffset" : 19,
-    "endOffset" : 22,
+    "endOffset" : 23,
     "position" : 4
-  }, {
-    "token" : "it",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgs2rrNEXFMlzHLM_V",
-  "text" : "But I'm not the social type.",
+  "id" : "AWoEiJM8DTAu_IiLeyqE",
+  "text" : "You're not the gang type.",
   "translations" : {
-    "russian" : "Но я не очень общительный."
+    "russian" : "Ты не бандит."
   },
   "tokens" : [ {
-    "token" : "but",
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "not",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "gang",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "type",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyhShDTAu_IiLe-nQ",
+  "text" : "You type glands, but class.",
+  "translations" : {
+    "russian" : "Вид гланд, но класс."
+  },
+  "tokens" : [ {
+    "token" : "you",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "i'm",
+    "token" : "type",
     "startOffset" : 4,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "not",
-    "startOffset" : 8,
-    "endOffset" : 11,
+    "token" : "gland",
+    "startOffset" : 9,
+    "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "the",
-    "startOffset" : 12,
-    "endOffset" : 15,
+    "token" : "but",
+    "startOffset" : 17,
+    "endOffset" : 20,
     "position" : 3
   }, {
-    "token" : "social",
-    "startOffset" : 16,
-    "endOffset" : 22,
+    "token" : "class",
+    "startOffset" : 21,
+    "endOffset" : 26,
     "position" : 4
-  }, {
-    "token" : "type",
-    "startOffset" : 23,
-    "endOffset" : 27,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

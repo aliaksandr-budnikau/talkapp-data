@@ -1,4 +1,58 @@
 [ {
+  "id" : "AWoFEm_XDTAu_IiLfLbC",
+  "text" : "Malicious gossip.",
+  "translations" : {
+    "russian" : "Злые языки."
+  },
+  "tokens" : [ {
+    "token" : "malicious",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "gossip",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDimkCDTAu_IiLeIeD",
+  "text" : "Idle gossip.",
+  "translations" : {
+    "russian" : "Простые сплетни."
+  },
+  "tokens" : [ {
+    "token" : "idle",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "gossip",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE8X8dDTAu_IiLfFND",
+  "text" : "Backstairs gossip.",
+  "translations" : {
+    "russian" : "Деревенские сплетни."
+  },
+  "tokens" : [ {
+    "token" : "backstair",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "gossip",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgoFspNEXFMlzHLGXg",
   "text" : "It's gossip and innuendo.",
   "translations" : {
@@ -297,158 +351,59 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgoFLtNEXFMlzHLGWp",
-  "text" : "Shopping, gossip and marriage.",
+  "id" : "AWoFAdFEDTAu_IiLfIYB",
+  "text" : "It's all backroom gossip.",
   "translations" : {
-    "russian" : "Покупки, сплетни и замужество."
+    "russian" : "Всё это закулисные сплетни."
   },
   "tokens" : [ {
-    "token" : "shopping",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "shoppe",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "gossip",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "and",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "marriage",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoFxiNEXFMlzHLGXn",
-  "text" : "X.o.x.o., gossip girl.",
-  "translations" : {
-    "russian" : "Х. о. х. о, Сплетница."
-  },
-  "tokens" : [ {
-    "token" : "x.o.x.o",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "gossip",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "girl",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoFYoNEXFMlzHLGXA",
-  "text" : "You're asking me to gossip?",
-  "translations" : {
-    "russian" : "Вы хотите, чтобы я сплетничала?"
-  },
-  "tokens" : [ {
-    "token" : "you're",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "ask",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "me",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 17,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "gossip",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoFUPNEXFMlzHLGW3",
-  "text" : "You mean you've been gossiping.",
-  "translations" : {
-    "russian" : "Хочешь сказать, посплетничал?"
-  },
-  "tokens" : [ {
-    "token" : "you",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "mean",
-    "startOffset" : 4,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "you've",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "been",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "gossip",
-    "startOffset" : 21,
-    "endOffset" : 30,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoFkWNEXFMlzHLGXS",
-  "text" : "Stop it, that's just gossip!",
-  "translations" : {
-    "russian" : "Перестань, это всего лишь слухи!"
-  },
-  "tokens" : [ {
-    "token" : "stop",
+    "token" : "it",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "it",
+    "token" : "all",
     "startOffset" : 5,
-    "endOffset" : 7,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "that",
+    "token" : "backroom",
     "startOffset" : 9,
-    "endOffset" : 15,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "just",
-    "startOffset" : 16,
-    "endOffset" : 20,
+    "token" : "gossip",
+    "startOffset" : 18,
+    "endOffset" : 24,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFEqHLDTAu_IiLfLdM",
+  "text" : "That's just malicious gossip.",
+  "translations" : {
+    "russian" : "Это лишь злобные сплетни."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "just",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "malicious",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
   }, {
     "token" : "gossip",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

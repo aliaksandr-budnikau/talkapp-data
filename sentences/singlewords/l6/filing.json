@@ -1,4 +1,80 @@
 [ {
+  "id" : "AWoDQz1KDTAu_IiLd-Ex",
+  "text" : "There's travel, filing, administration...",
+  "translations" : {
+    "russian" : "Еще командировки, бумажная работа, администрирование."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "travel",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "filing",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "administration",
+    "startOffset" : 24,
+    "endOffset" : 38,
+    "position" : 3
+  }, {
+    "token" : "administrate",
+    "startOffset" : 24,
+    "endOffset" : 38,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQp80DTAu_IiLd99z",
+  "text" : "There's travel, filing, administration...",
+  "translations" : {
+    "russian" : "Еще командировки, бумажная работа, администрирование."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "travel",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "filing",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 16,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "administration",
+    "startOffset" : 24,
+    "endOffset" : 38,
+    "position" : 3
+  }, {
+    "token" : "administrate",
+    "startOffset" : 24,
+    "endOffset" : 38,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgdoHENEXFMlzHK7CA",
   "text" : "Refiling with your throwing arm?",
   "translations" : {
@@ -32,6 +108,44 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEm4FiDTAu_IiLe2OU",
+  "text" : "Oh, and I do me defiling.",
+  "translations" : {
+    "russian" : "Ох, и как же развращал."
+  },
+  "tokens" : [ {
+    "token" : "oh",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "i",
+    "startOffset" : 8,
+    "endOffset" : 9,
+    "position" : 2
+  }, {
+    "token" : "do",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 3
+  }, {
+    "token" : "me",
+    "startOffset" : 13,
+    "endOffset" : 15,
+    "position" : 4
+  }, {
+    "token" : "filing",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjFziNEXFMlzHK_uu",
   "text" : "Well, what's the profile?",
   "translations" : {
@@ -60,233 +174,244 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqY4NNEXFMlzHLJlL",
-  "text" : "He transmitted files to us.",
+  "id" : "AWoEbbRkDTAu_IiLetgx",
+  "text" : "A file - Luther garland's.",
   "translations" : {
-    "russian" : "Он успел отправить нам файл."
+    "russian" : "Посмотреть дело Лютера Гарланда."
   },
   "tokens" : [ {
-    "token" : "he",
+    "token" : "a",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "transmitted",
-    "startOffset" : 3,
-    "endOffset" : 14,
+    "token" : "file",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "luther",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "garland",
+    "startOffset" : 16,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4t4oDTAu_IiLfC19",
+  "text" : "Download shared files.",
+  "translations" : {
+    "russian" : "Загрузка разделила файлы."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "shared",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "share",
+    "startOffset" : 9,
+    "endOffset" : 15,
     "position" : 1
   }, {
     "token" : "files",
-    "startOffset" : 15,
-    "endOffset" : 20,
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 2
   }, {
     "token" : "file",
-    "startOffset" : 15,
-    "endOffset" : 20,
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "us",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguMz_NEXFMlzHLOoU",
-  "text" : "This file concerns her detention.",
+  "id" : "AWoE4uefDTAu_IiLfC2T",
+  "text" : "Download shared files.",
   "translations" : {
-    "russian" : "Этот файл имеет отношение к ее задержанию."
+    "russian" : "Загружаю общие данные."
   },
   "tokens" : [ {
-    "token" : "this",
+    "token" : "download",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "file",
-    "startOffset" : 5,
-    "endOffset" : 9,
+    "token" : "shared",
+    "startOffset" : 9,
+    "endOffset" : 15,
     "position" : 1
   }, {
-    "token" : "concern",
-    "startOffset" : 10,
-    "endOffset" : 18,
+    "token" : "share",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "her",
-    "startOffset" : 19,
+    "token" : "file",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNdEwDTAu_IiLfSRk",
+  "text" : "I interpret case-files.",
+  "translations" : {
+    "russian" : "Я интерпретирую архивы."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "interpret",
+    "startOffset" : 2,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "case",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "files",
+    "startOffset" : 17,
     "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "detention",
-    "startOffset" : 23,
-    "endOffset" : 32,
-    "position" : 4
+    "token" : "file",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwh2gNEXFMlzHLSRf",
-  "text" : "I filed the change reports.",
+  "id" : "AWoFeE8JDTAu_IiLfe8D",
+  "text" : "I've skimmed his file.",
   "translations" : {
-    "russian" : "Я подавал отчеты об изменениях."
+    "russian" : "Я просмотрел данные на него."
   },
   "tokens" : [ {
-    "token" : "i",
+    "token" : "i've",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "filed",
-    "startOffset" : 2,
-    "endOffset" : 7,
+    "token" : "skimmed",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4c1BDTAu_IiLfCrh",
+  "text" : "Downloading the files.",
+  "translations" : {
+    "russian" : "Загружаю файлы."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "file",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4c5qDTAu_IiLfCrl",
+  "text" : "Download his file.",
+  "translations" : {
+    "russian" : "Загружаю его досье."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "his",
+    "startOffset" : 9,
+    "endOffset" : 12,
     "position" : 1
   }, {
     "token" : "file",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
+    "startOffset" : 13,
+    "endOffset" : 17,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4m46DTAu_IiLfCxt",
+  "text" : "Downloading secure files.",
+  "translations" : {
+    "russian" : "Загрузка секретных файлов."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
   }, {
-    "token" : "change",
+    "token" : "secure",
     "startOffset" : 12,
     "endOffset" : 18,
-    "position" : 3
+    "position" : 1
   }, {
-    "token" : "port",
+    "token" : "files",
     "startOffset" : 19,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbggu39NEXFMlzHK9uP",
-  "text" : "Your profile - is now like cameos.",
-  "translations" : {
-    "russian" : "Ваш профиль - это настоящее подобие камеи."
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "file",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 15,
-    "endOffset" : 17,
+    "endOffset" : 24,
     "position" : 2
   }, {
-    "token" : "now",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "like",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "cameo",
-    "startOffset" : 27,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiuGINEXFMlzHK_aO",
-  "text" : "That's obviously the wrong sound file.",
-  "translations" : {
-    "russian" : "Это, очевидно, не тот звуковой файл."
-  },
-  "tokens" : [ {
-    "token" : "that",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "obvious",
-    "startOffset" : 7,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "wrong",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "sound",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 4
-  }, {
     "token" : "file",
-    "startOffset" : 33,
-    "endOffset" : 37,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgleoANEXFMlzHLCm8",
-  "text" : "Your profile - is now like cameos.",
-  "translations" : {
-    "russian" : "Ваш профиль - это настоящее подобие камеи."
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "file",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 15,
-    "endOffset" : 17,
+    "startOffset" : 19,
+    "endOffset" : 24,
     "position" : 2
-  }, {
-    "token" : "now",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "like",
-    "startOffset" : 22,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "cameo",
-    "startOffset" : 27,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvG26NEXFMlzHLQbs",
-  "text" : "I have clearance for that file.",
+  "id" : "AWoFNDDTDTAu_IiLfR-k",
+  "text" : "I interpret case-files.",
   "translations" : {
-    "russian" : "У меня есть разрешение на этот файл."
+    "russian" : "Я интерпретирую архивы."
   },
   "tokens" : [ {
     "token" : "i",
@@ -294,68 +419,81 @@
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "have",
+    "token" : "interpret",
     "startOffset" : 2,
-    "endOffset" : 6,
+    "endOffset" : 11,
     "position" : 1
   }, {
-    "token" : "clearance",
-    "startOffset" : 7,
+    "token" : "case",
+    "startOffset" : 12,
     "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "for",
+    "token" : "files",
     "startOffset" : 17,
-    "endOffset" : 20,
+    "endOffset" : 22,
     "position" : 3
   }, {
-    "token" : "that",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
     "token" : "file",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 5
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqQejNEXFMlzHLJZj",
-  "text" : "That's obviously the wrong sound file.",
+  "id" : "AWoD_4csDTAu_IiLeZEr",
+  "text" : "Travis' psych file.",
   "translations" : {
-    "russian" : "Это, очевидно, не тот звуковой файл."
+    "russian" : "Психологическая карта Тревиса."
   },
   "tokens" : [ {
-    "token" : "that",
+    "token" : "travis",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "obvious",
-    "startOffset" : 7,
-    "endOffset" : 16,
+    "token" : "psych",
+    "startOffset" : 8,
+    "endOffset" : 13,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
+    "token" : "file",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE4cx2DTAu_IiLfCre",
+  "text" : "Download shared files.",
+  "translations" : {
+    "russian" : "Загружаю общие данные."
+  },
+  "tokens" : [ {
+    "token" : "download",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "shared",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "share",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "files",
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 2
   }, {
-    "token" : "wrong",
-    "startOffset" : 21,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "sound",
-    "startOffset" : 27,
-    "endOffset" : 32,
-    "position" : 4
-  }, {
     "token" : "file",
-    "startOffset" : 33,
-    "endOffset" : 37,
-    "position" : 5
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

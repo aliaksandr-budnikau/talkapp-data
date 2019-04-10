@@ -1,8 +1,8 @@
 [ {
-  "id" : "AWbghkbxNEXFMlzHK-dB",
-  "text" : "Tried to imagine other scenarios?",
+  "id" : "AWoDRNE6DTAu_IiLd-Wn",
+  "text" : "Tried to domesticate you.",
   "translations" : {
-    "russian" : "Пыталась представлять другие сценарии?"
+    "russian" : "И пытался приручить тебя."
   },
   "tokens" : [ {
     "token" : "tried",
@@ -20,27 +20,182 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "imagine",
+    "token" : "domesticate",
     "startOffset" : 9,
-    "endOffset" : 16,
+    "endOffset" : 20,
     "position" : 2
   }, {
-    "token" : "other",
-    "startOffset" : 17,
-    "endOffset" : 22,
+    "token" : "you",
+    "startOffset" : 21,
+    "endOffset" : 24,
     "position" : 3
-  }, {
-    "token" : "scenario",
-    "startOffset" : 23,
-    "endOffset" : 32,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgnkbENEXFMlzHLFqr",
-  "text" : "We should've tried it toasted.",
+  "id" : "AWoDWDkIDTAu_IiLeBf7",
+  "text" : "Have you tried antibiotics.",
   "translations" : {
-    "russian" : "Может, попробуем поджарить?"
+    "russian" : "Давали антибиотики."
+  },
+  "tokens" : [ {
+    "token" : "have",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 5,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "tried",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "try",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "antibiotic",
+    "startOffset" : 15,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYt8yDTAu_IiLeCtI",
+  "text" : "Those arches are untried.",
+  "translations" : {
+    "russian" : "Такие арки никогда не строили."
+  },
+  "tokens" : [ {
+    "token" : "those",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "arch",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "tried",
+    "startOffset" : 17,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEybPWDTAu_IiLe-i2",
+  "text" : "I've tried Royal Jelly.",
+  "translations" : {
+    "russian" : "Я пробовал королевское желе."
+  },
+  "tokens" : [ {
+    "token" : "i've",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "tried",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "try",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "royal",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "jelly",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDiaN5DTAu_IiLeIW_",
+  "text" : "Already tried, it's inoperative.",
+  "translations" : {
+    "russian" : "Уже пытался. Он не работает."
+  },
+  "tokens" : [ {
+    "token" : "already",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tried",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "try",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "operative",
+    "startOffset" : 20,
+    "endOffset" : 31,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEE9vLDTAu_IiLedCq",
+  "text" : "I tried to enlist.",
+  "translations" : {
+    "russian" : "Я пытался завербоваться."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "tried",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "try",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "enlist",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpFCoDTAu_IiLe36a",
+  "text" : "We tried discipline, therapy.",
+  "translations" : {
+    "russian" : "Мы испробовали наказания, терапию."
   },
   "tokens" : [ {
     "token" : "we",
@@ -48,29 +203,331 @@
     "endOffset" : 2,
     "position" : 0
   }, {
-    "token" : "should've",
+    "token" : "tried",
     "startOffset" : 3,
-    "endOffset" : 12,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "tried",
-    "startOffset" : 13,
-    "endOffset" : 18,
+    "token" : "try",
+    "startOffset" : 3,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "discipline",
+    "startOffset" : 9,
+    "endOffset" : 19,
     "position" : 2
+  }, {
+    "token" : "therapy",
+    "startOffset" : 21,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5epKDTAu_IiLfDVW",
+  "text" : "Tried to strangle me.",
+  "translations" : {
+    "russian" : "Хотел задушить."
+  },
+  "tokens" : [ {
+    "token" : "tried",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
   }, {
     "token" : "try",
-    "startOffset" : 13,
-    "endOffset" : 18,
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "strangle",
+    "startOffset" : 9,
+    "endOffset" : 17,
     "position" : 2
   }, {
-    "token" : "it",
-    "startOffset" : 19,
+    "token" : "me",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFGobvDTAu_IiLfM46",
+  "text" : "She tried to evade.",
+  "translations" : {
+    "russian" : "Она попыталась сбежать."
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "tried",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "try",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "evade",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFfpgKDTAu_IiLfgE6",
+  "text" : "We've tried beautician.",
+  "translations" : {
+    "russian" : "Мы пробовали косметолога."
+  },
+  "tokens" : [ {
+    "token" : "we've",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "tried",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "try",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "beautician",
+    "startOffset" : 12,
+    "endOffset" : 22,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD81ArDTAu_IiLeWxB",
+  "text" : "I tried to enlist.",
+  "translations" : {
+    "russian" : "Я пытался завербоваться."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "tried",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "try",
+    "startOffset" : 2,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 8,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "enlist",
+    "startOffset" : 11,
+    "endOffset" : 17,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5utPDTAu_IiLfDfj",
+  "text" : "Tried to strangle me.",
+  "translations" : {
+    "russian" : "Хотел задушить."
+  },
+  "tokens" : [ {
+    "token" : "tried",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "try",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "strangle",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE580EDTAu_IiLfDp2",
+  "text" : "Tried to strangle me.",
+  "translations" : {
+    "russian" : "Хотел задушить."
+  },
+  "tokens" : [ {
+    "token" : "tried",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "try",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "strangle",
+    "startOffset" : 9,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 18,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDVgZ0DTAu_IiLeBMH",
+  "text" : "Tried to cancel the club.",
+  "translations" : {
+    "russian" : "Попытался закрыть Хор."
+  },
+  "tokens" : [ {
+    "token" : "tried",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "try",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "cancel",
+    "startOffset" : 9,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "club",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEHAlBDTAu_IiLeeix",
+  "text" : "Someone tried to frame him.",
+  "translations" : {
+    "russian" : "Кто-то пытался ложно обвинить его."
+  },
+  "tokens" : [ {
+    "token" : "someone",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "tried",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "try",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "frame",
+    "startOffset" : 17,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "him",
+    "startOffset" : 23,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE5euxDTAu_IiLfDVc",
+  "text" : "She tried to strangle him!",
+  "translations" : {
+    "russian" : "Она пыталась задушить его!"
+  },
+  "tokens" : [ {
+    "token" : "she",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "tried",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "try",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "to",
+    "startOffset" : 10,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "strangle",
+    "startOffset" : 13,
     "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "toast",
+    "token" : "him",
     "startOffset" : 22,
-    "endOffset" : 29,
+    "endOffset" : 25,
     "position" : 4
   } ],
   "contentScore" : null

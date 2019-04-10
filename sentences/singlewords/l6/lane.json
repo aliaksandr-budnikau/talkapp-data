@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoEvpXhDTAu_IiLe8dY",
+  "text" : "Oak Lane.",
+  "translations" : {
+    "russian" : "Ок Лэйн."
+  },
+  "tokens" : [ {
+    "token" : "oak",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "lane",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwCPtNEXFMlzHLRv1",
   "text" : "There are 5 lanes!",
   "translations" : {
@@ -107,6 +125,34 @@
     "token" : "5",
     "startOffset" : 12,
     "endOffset" : 13,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEmgXRDTAu_IiLe18o",
+  "text" : "Spotter vehicle, left lane.",
+  "translations" : {
+    "russian" : "Наблюдатель, слева."
+  },
+  "tokens" : [ {
+    "token" : "spotter",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "vehicle",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "left",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "lane",
+    "startOffset" : 22,
+    "endOffset" : 26,
     "position" : 3
   } ],
   "contentScore" : null
@@ -261,6 +307,29 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEr8HIDTAu_IiLe58D",
+  "text" : "On debtors' lane?",
+  "translations" : {
+    "russian" : "На улице должников?"
+  },
+  "tokens" : [ {
+    "token" : "on",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "debtor",
+    "startOffset" : 3,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "lane",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgwDH2NEXFMlzHLRw1",
   "text" : "You crossed two lanes!",
   "translations" : {
@@ -294,206 +363,87 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwCXTNEXFMlzHLRv-",
-  "text" : "Get back in your lane.",
+  "id" : "AWoDx1DvDTAu_IiLeRAP",
+  "text" : "Broadway and Harmony Lane.",
   "translations" : {
-    "russian" : "Вернись на свою полосу."
+    "russian" : "Бродвей и Хармони Лэйн."
   },
   "tokens" : [ {
-    "token" : "get",
+    "token" : "broadway",
     "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "back",
-    "startOffset" : 4,
     "endOffset" : 8,
-    "position" : 1
+    "position" : 0
   }, {
-    "token" : "in",
+    "token" : "and",
     "startOffset" : 9,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "your",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "lane",
-    "startOffset" : 17,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwCKRNEXFMlzHLRvt",
-  "text" : "Stay on the right lane!",
-  "translations" : {
-    "russian" : "Оставайтесь на правой полосе!"
-  },
-  "tokens" : [ {
-    "token" : "stay",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "on",
-    "startOffset" : 5,
-    "endOffset" : 7,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "right",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "lane",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwCR3NEXFMlzHLRv4",
-  "text" : "Northbound lanes are looking good.",
-  "translations" : {
-    "russian" : "Полосы движения на север выглядят неплохо."
-  },
-  "tokens" : [ {
-    "token" : "northbound",
-    "startOffset" : 0,
-    "endOffset" : 10,
-    "position" : 0
-  }, {
-    "token" : "lane",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "are",
-    "startOffset" : 17,
+    "token" : "harmony",
+    "startOffset" : 13,
     "endOffset" : 20,
     "position" : 2
-  }, {
-    "token" : "look",
-    "startOffset" : 21,
-    "endOffset" : 28,
-    "position" : 3
-  }, {
-    "token" : "good",
-    "startOffset" : 29,
-    "endOffset" : 33,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgwCtkNEXFMlzHLRwW",
-  "text" : "What happened in the lane?",
-  "translations" : {
-    "russian" : "Что произошло в переулке?"
-  },
-  "tokens" : [ {
-    "token" : "what",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "happen",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 3
   }, {
     "token" : "lane",
     "startOffset" : 21,
     "endOffset" : 25,
-    "position" : 4
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwC29NEXFMlzHLRwh",
-  "text" : "Clean up my lane, jackass.",
+  "id" : "AWoEZcftDTAu_IiLesNQ",
+  "text" : "Broadway and Harmony Lane.",
   "translations" : {
-    "russian" : "Освободи мою дорожку, придурок."
+    "russian" : "Бродвей и Хармони Лэйн."
   },
   "tokens" : [ {
-    "token" : "clean",
+    "token" : "broadway",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "up",
-    "startOffset" : 6,
-    "endOffset" : 8,
+    "token" : "and",
+    "startOffset" : 9,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "my",
-    "startOffset" : 9,
-    "endOffset" : 11,
+    "token" : "harmony",
+    "startOffset" : 13,
+    "endOffset" : 20,
     "position" : 2
   }, {
     "token" : "lane",
-    "startOffset" : 12,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "jackass",
-    "startOffset" : 18,
+    "startOffset" : 21,
     "endOffset" : 25,
-    "position" : 4
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwDFENEXFMlzHLRwy",
-  "text" : "All right, this is lane 9.",
+  "id" : "AWoEjw9IDTAu_IiLez8G",
+  "text" : "Butler service, Miss Lane.",
   "translations" : {
-    "russian" : "Вот, это 9 дорожка."
+    "russian" : "Это лакей, мисс Лейн."
   },
   "tokens" : [ {
-    "token" : "all",
+    "token" : "butler",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "right",
-    "startOffset" : 4,
-    "endOffset" : 9,
+    "token" : "service",
+    "startOffset" : 7,
+    "endOffset" : 14,
     "position" : 1
   }, {
-    "token" : "this",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "is",
+    "token" : "miss",
     "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
+    "endOffset" : 20,
+    "position" : 2
   }, {
     "token" : "lane",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "9",
-    "startOffset" : 24,
+    "startOffset" : 21,
     "endOffset" : 25,
-    "position" : 5
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

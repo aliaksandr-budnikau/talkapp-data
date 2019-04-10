@@ -1,4 +1,65 @@
 [ {
+  "id" : "AWoFVE_TDTAu_IiLfYBN",
+  "text" : "I said, preferably cashmere.",
+  "translations" : {
+    "russian" : "Я сказал, что лучше кашемировый."
+  },
+  "tokens" : [ {
+    "token" : "i",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "said",
+    "startOffset" : 2,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "preferably",
+    "startOffset" : 8,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "cashmere",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFAKnqDTAu_IiLfIJw",
+  "text" : "Preferably with a rusty knife.",
+  "translations" : {
+    "russian" : "Желательно с ржавым ножом."
+  },
+  "tokens" : [ {
+    "token" : "preferably",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 16,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "rusty",
+    "startOffset" : 18,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "knife",
+    "startOffset" : 24,
+    "endOffset" : 29,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgeCVRNEXFMlzHK7Yv",
   "text" : "Somewhere preferably with a fan.",
   "translations" : {
@@ -28,6 +89,39 @@
     "token" : "fan",
     "startOffset" : 28,
     "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDb6SDDTAu_IiLeEql",
+  "text" : "Mm-hmm. Pretzels, preferably Bavarian...",
+  "translations" : {
+    "russian" : "Брецели, желательно баварские..."
+  },
+  "tokens" : [ {
+    "token" : "mm",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "hmm",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "pretzel",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "preferably",
+    "startOffset" : 18,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "bavarian",
+    "startOffset" : 29,
+    "endOffset" : 37,
     "position" : 4
   } ],
   "contentScore" : null

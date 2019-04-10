@@ -1,4 +1,94 @@
 [ {
+  "id" : "AWoDOTB6DTAu_IiLd8h3",
+  "text" : "Father Abbot!",
+  "translations" : {
+    "russian" : "Отец аббат!"
+  },
+  "tokens" : [ {
+    "token" : "father",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "abbot",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjYNlDTAu_IiLeI6D",
+  "text" : "Father's thoughtless.",
+  "translations" : {
+    "russian" : "Отец легкомысленный."
+  },
+  "tokens" : [ {
+    "token" : "father",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "thoughtless",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFIeHtDTAu_IiLfOZ8",
+  "text" : "Fathers taunt.",
+  "translations" : {
+    "russian" : "Отцовская насмешка."
+  },
+  "tokens" : [ {
+    "token" : "father",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "taunt",
+    "startOffset" : 8,
+    "endOffset" : 13,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEudL8DTAu_IiLe7op",
+  "text" : "Father Pole?",
+  "translations" : {
+    "russian" : "Отец Поул?"
+  },
+  "tokens" : [ {
+    "token" : "father",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "pole",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9MDRDTAu_IiLfFwt",
+  "text" : "Surrogate father.",
+  "translations" : {
+    "russian" : "Приёмному отцу."
+  },
+  "tokens" : [ {
+    "token" : "surrogate",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "father",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgv-7dNEXFMlzHLRst",
   "text" : "His father was my father's steward.",
   "translations" : {
@@ -37,154 +127,238 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgsY7LNEXFMlzHLMX4",
-  "text" : "My father hated foundations.",
+  "id" : "AWoDOTVsDTAu_IiLd8iB",
+  "text" : "Get Father Abbot.",
   "translations" : {
-    "russian" : "Мой отец ненавидел фонды."
+    "russian" : "Позови отца аббата."
   },
   "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "father",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "hat",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "foundation",
-    "startOffset" : 16,
-    "endOffset" : 27,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgw4saNEXFMlzHLSod",
-  "text" : "How fares your father?",
-  "translations" : {
-    "russian" : "Как поживает твой отец?"
-  },
-  "tokens" : [ {
-    "token" : "how",
+    "token" : "get",
     "startOffset" : 0,
     "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "fare",
+    "token" : "father",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "abbot",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDPgKkDTAu_IiLd9Ol",
+  "text" : "Your father's so Austrian.",
+  "translations" : {
+    "russian" : "Он типичный австриец."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "father",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "so",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "austrian",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDXJw1DTAu_IiLeB9o",
+  "text" : "Your father approves that.",
+  "translations" : {
+    "russian" : "Твой отец одобряет это."
+  },
+  "tokens" : [ {
+    "token" : "your",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "father",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "approve",
+    "startOffset" : 12,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "that",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDcEk6DTAu_IiLeEvW",
+  "text" : "And Mud's father?",
+  "translations" : {
+    "russian" : "Или отцом Мада?"
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "mud",
     "startOffset" : 4,
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "your",
+    "token" : "father",
     "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "father",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgzJJWNEXFMlzHLV2t",
-  "text" : "Stop it, father.",
-  "translations" : {
-    "russian" : "Перестаньте, отец."
-  },
-  "tokens" : [ {
-    "token" : "stop",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 5,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "father",
-    "startOffset" : 9,
-    "endOffset" : 15,
+    "endOffset" : 16,
     "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgdoiKNEXFMlzHK7CU",
-  "text" : "Good throw, father.",
+  "id" : "AWoDdyOCDTAu_IiLeFrA",
+  "text" : "Her father died bankrupt.",
   "translations" : {
-    "russian" : "Отличный бросок, отец."
+    "russian" : "Ее отец умер банкротом."
   },
   "tokens" : [ {
-    "token" : "good",
+    "token" : "her",
     "startOffset" : 0,
-    "endOffset" : 4,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "throw",
-    "startOffset" : 5,
+    "token" : "father",
+    "startOffset" : 4,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "father",
-    "startOffset" : 12,
-    "endOffset" : 18,
+    "token" : "die",
+    "startOffset" : 11,
+    "endOffset" : 15,
     "position" : 2
+  }, {
+    "token" : "bankrupt",
+    "startOffset" : 16,
+    "endOffset" : 24,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgbNbqNEXFMlzHK46S",
-  "text" : "This leak won't do, Father.",
+  "id" : "AWoDiTpZDTAu_IiLeISy",
+  "text" : "Are you limping, Father?",
   "translations" : {
-    "russian" : "Зта дыра никуда не годится, отец."
+    "russian" : "Вы прихрамываете, отец?"
   },
   "tokens" : [ {
-    "token" : "this",
+    "token" : "are",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "you",
+    "startOffset" : 4,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "limp",
+    "startOffset" : 8,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "father",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDmkqUDTAu_IiLeKqL",
+  "text" : "Father dead, mother ailing.",
+  "translations" : {
+    "russian" : "Отец мертв, мать болеет."
+  },
+  "tokens" : [ {
+    "token" : "father",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "dead",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "mother",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "moth",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "ail",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD5QENDTAu_IiLeUoN",
+  "text" : "Even waffles, father?",
+  "translations" : {
+    "russian" : "Папа, еще вафельку?"
+  },
+  "tokens" : [ {
+    "token" : "even",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "leak",
+    "token" : "ev",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "waffle",
     "startOffset" : 5,
-    "endOffset" : 9,
+    "endOffset" : 12,
     "position" : 1
   }, {
-    "token" : "won't",
-    "startOffset" : 10,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "do",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
     "token" : "father",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgddD8NEXFMlzHK66B",
-  "text" : "Thank your father for me.",
+  "id" : "AWoEFGwPDTAu_IiLedJX",
+  "text" : "I'm Oded's father.",
   "translations" : {
-    "russian" : "Поблагодарите за меня вашего отца."
+    "russian" : "Я отец Одеда."
   },
   "tokens" : [ {
-    "token" : "thank",
+    "token" : "i'm",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 3,
     "position" : 0
   }, {
-    "token" : "your",
-    "startOffset" : 6,
+    "token" : "oded's",
+    "startOffset" : 4,
     "endOffset" : 10,
     "position" : 1
   }, {
@@ -192,323 +366,34 @@
     "startOffset" : 11,
     "endOffset" : 17,
     "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 18,
-    "endOffset" : 21,
-    "position" : 3
-  }, {
-    "token" : "me",
-    "startOffset" : 22,
-    "endOffset" : 24,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgmHplNEXFMlzHLDVw",
-  "text" : "My father's a metro driver.",
+  "id" : "AWoEOIdcDTAu_IiLej5J",
+  "text" : "Good morrow, father Laurence.",
   "translations" : {
-    "russian" : "Мой отец - машинист метро."
+    "russian" : "Доброе утро, отец Лоренцо."
   },
   "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "father",
-    "startOffset" : 3,
-    "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "metro",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "driver",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "drive",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsdwtNEXFMlzHLMeu",
-  "text" : "The father's a major fundraiser.",
-  "translations" : {
-    "russian" : "Отец мальчика главный у демократов по сбору денег."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "father",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "major",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "fundraiser",
-    "startOffset" : 21,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgc0gvNEXFMlzHK6XE",
-  "text" : "You'd make a great father.",
-  "translations" : {
-    "russian" : "Ты бы стал прекрасным отцом."
-  },
-  "tokens" : [ {
-    "token" : "you'd",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "make",
-    "startOffset" : 6,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "great",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "father",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbglhapNEXFMlzHLCrx",
-  "text" : "Your father's really a stuntman?",
-  "translations" : {
-    "russian" : "Твой отец действительно каскадер?"
-  },
-  "tokens" : [ {
-    "token" : "your",
+    "token" : "good",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "father",
+    "token" : "morrow",
     "startOffset" : 5,
-    "endOffset" : 13,
+    "endOffset" : 11,
     "position" : 1
-  }, {
-    "token" : "ally",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 21,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "stuntman",
-    "startOffset" : 23,
-    "endOffset" : 31,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrBp6NEXFMlzHLKZO",
-  "text" : "My father was a pilot.",
-  "translations" : {
-    "russian" : "У меня отец был летчик."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
   }, {
     "token" : "father",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "was",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 14,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "pilot",
-    "startOffset" : 16,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrxJpNEXFMlzHLLfM",
-  "text" : "Father, please open your eyes.",
-  "translations" : {
-    "russian" : "Отец, пожалуйста, откройте глаза."
-  },
-  "tokens" : [ {
-    "token" : "father",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "please",
-    "startOffset" : 8,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "open",
-    "startOffset" : 15,
+    "startOffset" : 13,
     "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "op",
-    "startOffset" : 15,
-    "endOffset" : 19,
-    "position" : 2
-  }, {
-    "token" : "your",
+    "token" : "laurence",
     "startOffset" : 20,
-    "endOffset" : 24,
+    "endOffset" : 28,
     "position" : 3
-  }, {
-    "token" : "eye",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgr3mNNEXFMlzHLLoi",
-  "text" : "Put my father in quarantine.",
-  "translations" : {
-    "russian" : "Поместите моего отца под карантин."
-  },
-  "tokens" : [ {
-    "token" : "put",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "father",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "quarantine",
-    "startOffset" : 17,
-    "endOffset" : 27,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgsbzdNEXFMlzHLMb6",
-  "text" : "My friend became a father.",
-  "translations" : {
-    "russian" : "Мой товарищ стал отцом."
-  },
-  "tokens" : [ {
-    "token" : "my",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "friend",
-    "startOffset" : 3,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "became",
-    "startOffset" : 10,
-    "endOffset" : 16,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 17,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "father",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgktknNEXFMlzHLBVa",
-  "text" : "Father's waiting for his game.",
-  "translations" : {
-    "russian" : "Отец уже настроился на партию в карты."
-  },
-  "tokens" : [ {
-    "token" : "father",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "wait",
-    "startOffset" : 9,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "for",
-    "startOffset" : 17,
-    "endOffset" : 20,
-    "position" : 2
-  }, {
-    "token" : "his",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "game",
-    "startOffset" : 25,
-    "endOffset" : 29,
-    "position" : 4
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,60 @@
 [ {
+  "id" : "AWoD7N9fDTAu_IiLeVkB",
+  "text" : "No diaper pail.",
+  "translations" : {
+    "russian" : "Нет ни ведра для подгузников."
+  },
+  "tokens" : [ {
+    "token" : "no",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "diaper",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "pail",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEWPt0DTAu_IiLep9X",
+  "text" : "Baby's got a diaper rash?",
+  "translations" : {
+    "russian" : "У малыша сыпь на попке?"
+  },
+  "tokens" : [ {
+    "token" : "baby",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "got",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "a",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "diaper",
+    "startOffset" : 13,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "rash",
+    "startOffset" : 20,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgtDJRNEXFMlzHLNQy",
   "text" : "You have a diaper bag?",
   "translations" : {

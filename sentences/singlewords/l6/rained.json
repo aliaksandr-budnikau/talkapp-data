@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEhIolDTAu_IiLexz3",
+  "text" : "There was thundery rain.",
+  "translations" : {
+    "russian" : "Прошел дождь с грозой."
+  },
+  "tokens" : [ {
+    "token" : "there",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "thundery",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "rain",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjWiTNEXFMlzHK_8D",
   "text" : "Last night it rained.",
   "translations" : {
@@ -111,6 +139,34 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFcr7SDTAu_IiLfd73",
+  "text" : "And it rained constantly.",
+  "translations" : {
+    "russian" : "И все время лил дождь."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "it",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "rain",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "constant",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjWluNEXFMlzHK_8G",
   "text" : "Is it still raining?",
   "translations" : {
@@ -136,6 +192,133 @@
     "startOffset" : 12,
     "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-jALDTAu_IiLeYEG",
+  "text" : "Twigs and rain?",
+  "translations" : {
+    "russian" : "Ветви и дождь?.."
+  },
+  "tokens" : [ {
+    "token" : "twig",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "and",
+    "startOffset" : 6,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "rain",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFJNaQDTAu_IiLfPBN",
+  "text" : "Rain cycles are altered.",
+  "translations" : {
+    "russian" : "Циклы дождей изменились."
+  },
+  "tokens" : [ {
+    "token" : "rain",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "cycle",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "are",
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "altered",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "alter",
+    "startOffset" : 16,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEAMtFDTAu_IiLeZUQ",
+  "text" : "And shiver in the rain.",
+  "translations" : {
+    "russian" : "И трястись под дождём."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "shiver",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "shiv",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "rain",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEy_xiDTAu_IiLe-9O",
+  "text" : "Without your sacrifice came rain.",
+  "translations" : {
+    "russian" : "Дождь пойдёт и без жертвоприношения."
+  },
+  "tokens" : [ {
+    "token" : "without",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "your",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "sacrifice",
+    "startOffset" : 13,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "came",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "rain",
+    "startOffset" : 28,
+    "endOffset" : 32,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {
@@ -172,6 +355,105 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDhYj1DTAu_IiLeHxO",
+  "text" : "A driving rain of misery.",
+  "translations" : {
+    "russian" : "Хлестким ливнем страданий."
+  },
+  "tokens" : [ {
+    "token" : "a",
+    "startOffset" : 0,
+    "endOffset" : 1,
+    "position" : 0
+  }, {
+    "token" : "drive",
+    "startOffset" : 2,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "rain",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "of",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 3
+  }, {
+    "token" : "misery",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnUPeDTAu_IiLeLEc",
+  "text" : "Sounds like rain out there.",
+  "translations" : {
+    "russian" : "Кажется, будет гроза."
+  },
+  "tokens" : [ {
+    "token" : "sounds",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "like",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "rain",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "out",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "there",
+    "startOffset" : 21,
+    "endOffset" : 26,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFjhNmDTAu_IiLfigZ",
+  "text" : "And gently drops the rain.",
+  "translations" : {
+    "russian" : "И мягко капал дождь."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "gently",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "drop",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "rain",
+    "startOffset" : 21,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgjW_WNEXFMlzHK_8Z",
   "text" : "It's been raining for days.",
   "translations" : {
@@ -202,333 +484,6 @@
     "startOffset" : 22,
     "endOffset" : 26,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjWhFNEXFMlzHK_8C",
-  "text" : "Order the rain to fall?",
-  "translations" : {
-    "russian" : "Чтобы я заказал дождь?"
-  },
-  "tokens" : [ {
-    "token" : "order",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 6,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "rain",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "to",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "fall",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjWrVNEXFMlzHK_8K",
-  "text" : "Did you hit any rain?",
-  "translations" : {
-    "russian" : "Вы попали под дождь?"
-  },
-  "tokens" : [ {
-    "token" : "did",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "hit",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "any",
-    "startOffset" : 12,
-    "endOffset" : 15,
-    "position" : 3
-  }, {
-    "token" : "rain",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgooeBNEXFMlzHLHNh",
-  "text" : "Wait till the rain stops.",
-  "translations" : {
-    "russian" : "Подожди, когда кончится дождь."
-  },
-  "tokens" : [ {
-    "token" : "wait",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "till",
-    "startOffset" : 5,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "rain",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "stops",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "stop",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjXDgNEXFMlzHK_8d",
-  "text" : "It's raining in my heart.",
-  "translations" : {
-    "russian" : "Весь день льёт слёзы сердце."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "rain",
-    "startOffset" : 5,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "in",
-    "startOffset" : 13,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "heart",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjXBjNEXFMlzHK_8b",
-  "text" : "Goodness, it's raining a lot!",
-  "translations" : {
-    "russian" : "А погодка-то, ну и льет!"
-  },
-  "tokens" : [ {
-    "token" : "goodness",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "good",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "it",
-    "startOffset" : 10,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "rain",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 2
-  }, {
-    "token" : "a",
-    "startOffset" : 23,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "lot",
-    "startOffset" : 25,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgom4-NEXFMlzHLHLR",
-  "text" : "Well, at least it stopped raining.",
-  "translations" : {
-    "russian" : "Хорошо хоть дождь прекратился."
-  },
-  "tokens" : [ {
-    "token" : "well",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "at",
-    "startOffset" : 6,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "least",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "it",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "stopped",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "rain",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgiuwHNEXFMlzHK_ay",
-  "text" : "Is that the sound of rain?",
-  "translations" : {
-    "russian" : "Это не шум дождя?"
-  },
-  "tokens" : [ {
-    "token" : "is",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "that",
-    "startOffset" : 3,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 8,
-    "endOffset" : 11,
-    "position" : 2
-  }, {
-    "token" : "sound",
-    "startOffset" : 12,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "of",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 4
-  }, {
-    "token" : "rain",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjW7sNEXFMlzHK_8W",
-  "text" : "I've never seen so much rain.",
-  "translations" : {
-    "russian" : "Я не видел столько дождя."
-  },
-  "tokens" : [ {
-    "token" : "i've",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "never",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "seen",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "so",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "much",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "rain",
-    "startOffset" : 24,
-    "endOffset" : 28,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgjXSKNEXFMlzHK_8o",
-  "text" : "Terror rained down from the skies.",
-  "translations" : {
-    "russian" : "Ужас сыпался с небес."
-  },
-  "tokens" : [ {
-    "token" : "terror",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "rain",
-    "startOffset" : 7,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "down",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "from",
-    "startOffset" : 19,
-    "endOffset" : 23,
-    "position" : 3
-  }, {
-    "token" : "the",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "sky",
-    "startOffset" : 28,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

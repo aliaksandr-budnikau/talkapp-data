@@ -1,4 +1,55 @@
 [ {
+  "id" : "AWoD79YKDTAu_IiLeWFk",
+  "text" : "Superb, Nick.",
+  "translations" : {
+    "russian" : "Отлично, Ник."
+  },
+  "tokens" : [ {
+    "token" : "superb",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "nick",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFWRzEDTAu_IiLfY1m",
+  "text" : "Lying to Nick sucks.",
+  "translations" : {
+    "russian" : "Врать Нику отстой."
+  },
+  "tokens" : [ {
+    "token" : "lying",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "lye",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "to",
+    "startOffset" : 6,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "nick",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "suck",
+    "startOffset" : 14,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqPPONEXFMlzHLJX6",
   "text" : "Nick's plan sounds fair.",
   "translations" : {
@@ -55,6 +106,62 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoDvXkVDTAu_IiLePox",
+  "text" : "And authentic terrific Nick.",
+  "translations" : {
+    "russian" : "Подлинным потрясающим Ником."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "authentic",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "terrific",
+    "startOffset" : 14,
+    "endOffset" : 22,
+    "position" : 2
+  }, {
+    "token" : "nick",
+    "startOffset" : 23,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEVXoKDTAu_IiLepTb",
+  "text" : "Nick's plan sounds fair.",
+  "translations" : {
+    "russian" : "А вот план Ника звучит справедливо."
+  },
+  "tokens" : [ {
+    "token" : "nick",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "plan",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "sounds",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "fair",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgisMeNEXFMlzHK_Yl",
   "text" : "Nick's plan sounds fair.",
   "translations" : {
@@ -80,6 +187,29 @@
     "startOffset" : 19,
     "endOffset" : 23,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEj3yTDTAu_IiLe0A_",
+  "text" : "The janitor, Nick.",
+  "translations" : {
+    "russian" : "Привратник."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "janitor",
+    "startOffset" : 4,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "nick",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -112,6 +242,62 @@
     "token" : "stoke",
     "startOffset" : 18,
     "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDWs6uDTAu_IiLeByg",
+  "text" : "And Nick's gonna clap.",
+  "translations" : {
+    "russian" : "А Ник будет хлопать в ладоши."
+  },
+  "tokens" : [ {
+    "token" : "and",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "nick",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "gonna",
+    "startOffset" : 11,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "clap",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDnRGUDTAu_IiLeLCl",
+  "text" : "Nick's plan sounds fair.",
+  "translations" : {
+    "russian" : "А вот план Ника звучит справедливо."
+  },
+  "tokens" : [ {
+    "token" : "nick",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "plan",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "sounds",
+    "startOffset" : 12,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "fair",
+    "startOffset" : 19,
+    "endOffset" : 23,
     "position" : 3
   } ],
   "contentScore" : null
@@ -149,6 +335,115 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoFKYEJDTAu_IiLfP83",
+  "text" : "Wow. Nick's book is astonishing.",
+  "translations" : {
+    "russian" : "Книга Ника изумительна."
+  },
+  "tokens" : [ {
+    "token" : "wow",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "nick",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "book",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "astonishing",
+    "startOffset" : 20,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "astonish",
+    "startOffset" : 20,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDQk1uDTAu_IiLd96O",
+  "text" : "Nick specializes in defending juveniles.",
+  "translations" : {
+    "russian" : "Да, Ник специализируется на защите несовершеннолетних."
+  },
+  "tokens" : [ {
+    "token" : "nick",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "specialize",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "in",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "fend",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "juvenile",
+    "startOffset" : 30,
+    "endOffset" : 39,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD8vE7DTAu_IiLeWsa",
+  "text" : "Nick, give me my vermouth.",
+  "translations" : {
+    "russian" : "Ник, отдай мой вермут."
+  },
+  "tokens" : [ {
+    "token" : "nick",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "give",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "g",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "me",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "my",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "vermouth",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgfdILNEXFMlzHK8od",
   "text" : "Well, here's the deal, Nick.",
   "translations" : {
@@ -179,44 +474,6 @@
     "startOffset" : 23,
     "endOffset" : 27,
     "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgyJN2NEXFMlzHLUXA",
-  "text" : "The track is gliding fast, Nick.",
-  "translations" : {
-    "russian" : "Трек в нужном состоянии для больших скоростей."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "track",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "is",
-    "startOffset" : 10,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "glide",
-    "startOffset" : 13,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "fast",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "nick",
-    "startOffset" : 27,
-    "endOffset" : 31,
-    "position" : 5
   } ],
   "contentScore" : null
 } ]

@@ -1,4 +1,78 @@
 [ {
+  "id" : "AWoFL7eKDTAu_IiLfRJO",
+  "text" : "Maple inlays.",
+  "translations" : {
+    "russian" : "Вставки кленового дерева."
+  },
+  "tokens" : [ {
+    "token" : "maple",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "lays",
+    "startOffset" : 6,
+    "endOffset" : 12,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEXbA8DTAu_IiLeqzr",
+  "text" : "Maple, elm, beech, poplar.",
+  "translations" : {
+    "russian" : "Клен, вяз, бук, тополь."
+  },
+  "tokens" : [ {
+    "token" : "maple",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "elm",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "beech",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "poplar",
+    "startOffset" : 19,
+    "endOffset" : 25,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFBli6DTAu_IiLfJO3",
+  "text" : "Maple Shade Psychiatric Hospital ?",
+  "translations" : {
+    "russian" : "Пcиxиaтpичecкaя бoльницa Mэйпл Шэйд ?"
+  },
+  "tokens" : [ {
+    "token" : "maple",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "shade",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "psychiatric",
+    "startOffset" : 12,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "hospital",
+    "startOffset" : 24,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgk2M3NEXFMlzHLBfY",
   "text" : "No... she's a maple log.",
   "translations" : {
@@ -62,6 +136,44 @@
     "startOffset" : 20,
     "endOffset" : 23,
     "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoER_CeDTAu_IiLemst",
+  "text" : "Maple Loops, Granny's Big Fudge Nuggets.",
+  "translations" : {
+    "russian" : "Кленовые колечки, Большие Бабушкины помадки."
+  },
+  "tokens" : [ {
+    "token" : "maple",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "loop",
+    "startOffset" : 6,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "granny",
+    "startOffset" : 13,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "big",
+    "startOffset" : 22,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "fudge",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 4
+  }, {
+    "token" : "nugget",
+    "startOffset" : 32,
+    "endOffset" : 39,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

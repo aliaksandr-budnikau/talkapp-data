@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEmT7FDTAu_IiLe1zd",
+  "text" : "Courageous, indomitable, implacable, impossible...",
+  "translations" : {
+    "russian" : "Храбрая, упрямая, непримиримая, невозможная..."
+  },
+  "tokens" : [ {
+    "token" : "courageous",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "indomitable",
+    "startOffset" : 12,
+    "endOffset" : 23,
+    "position" : 1
+  }, {
+    "token" : "implacable",
+    "startOffset" : 25,
+    "endOffset" : 35,
+    "position" : 2
+  }, {
+    "token" : "impossible",
+    "startOffset" : 37,
+    "endOffset" : 47,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbguOjJNEXFMlzHLOrs",
   "text" : "O, an impossible person!",
   "translations" : {
@@ -27,40 +55,449 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghAUYNEXFMlzHK99g",
-  "text" : "A heroine with an impossible goal.",
+  "id" : "AWoE7zJHDTAu_IiLfE0w",
+  "text" : "Fascinating, but quite impossible.",
   "translations" : {
-    "russian" : "Героиня с недостижимыми целями."
+    "russian" : "Потрясающе. Но невозможно."
   },
   "tokens" : [ {
-    "token" : "a",
+    "token" : "fascinating",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 11,
     "position" : 0
   }, {
-    "token" : "heroine",
-    "startOffset" : 2,
-    "endOffset" : 9,
+    "token" : "fascinate",
+    "startOffset" : 0,
+    "endOffset" : 11,
+    "position" : 0
+  }, {
+    "token" : "but",
+    "startOffset" : 13,
+    "endOffset" : 16,
     "position" : 1
   }, {
-    "token" : "with",
-    "startOffset" : 10,
-    "endOffset" : 14,
+    "token" : "quite",
+    "startOffset" : 17,
+    "endOffset" : 22,
     "position" : 2
   }, {
-    "token" : "an",
-    "startOffset" : 15,
-    "endOffset" : 17,
+    "token" : "impossible",
+    "startOffset" : 23,
+    "endOffset" : 33,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFNMtuDTAu_IiLfSFf",
+  "text" : "Intimacy was impossible.",
+  "translations" : {
+    "russian" : "Близость была невозможна."
+  },
+  "tokens" : [ {
+    "token" : "intimacy",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "was",
+    "startOffset" : 9,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "impossible",
+    "startOffset" : 13,
+    "endOffset" : 23,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDOjTUDTAu_IiLd8p-",
+  "text" : "It's theoretically impossible.",
+  "translations" : {
+    "russian" : "Это невозможно в теории."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "theoretical",
+    "startOffset" : 5,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "impossible",
+    "startOffset" : 19,
+    "endOffset" : 29,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE3OFgDTAu_IiLfB2P",
+  "text" : "Conquerors of the impossible.",
+  "translations" : {
+    "russian" : "Завоеватели недостижимого."
+  },
+  "tokens" : [ {
+    "token" : "conqueror",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 14,
+    "endOffset" : 17,
+    "position" : 2
   }, {
     "token" : "impossible",
     "startOffset" : 18,
     "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaUfkDTAu_IiLesyk",
+  "text" : "That proposition is genetically impossible!",
+  "translations" : {
+    "russian" : "Это предложение генетически невозможно!"
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "position",
+    "startOffset" : 5,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 17,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "genetically",
+    "startOffset" : 20,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "impossible",
+    "startOffset" : 32,
+    "endOffset" : 42,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwHlyDTAu_IiLe8zz",
+  "text" : "One that's impossible to duplicate.",
+  "translations" : {
+    "russian" : "Который невозможно скопировать."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "impossible",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "duplicate",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDTEVYDTAu_IiLd_nP",
+  "text" : "But alchemy's impossible, isn't it?",
+  "translations" : {
+    "russian" : "Но алхимия невозможна, не так ли?"
+  },
+  "tokens" : [ {
+    "token" : "but",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "alchemy",
+    "startOffset" : 4,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "impossible",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "isn't",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "it",
+    "startOffset" : 32,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD62esDTAu_IiLeVV5",
+  "text" : "That's impossible! He's a vegetarian.",
+  "translations" : {
+    "russian" : "Это немыслимо, ведь он вегетарианец!"
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "impossible",
+    "startOffset" : 7,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "he",
+    "startOffset" : 19,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 24,
+    "endOffset" : 25,
+    "position" : 3
+  }, {
+    "token" : "vegetarian",
+    "startOffset" : 26,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvu-EDTAu_IiLe8hc",
+  "text" : "One that's impossible to duplicate.",
+  "translations" : {
+    "russian" : "Который невозможно скопировать."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "impossible",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "duplicate",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEvyFkDTAu_IiLe8js",
+  "text" : "One that's impossible to duplicate.",
+  "translations" : {
+    "russian" : "Который невозможно скопировать."
+  },
+  "tokens" : [ {
+    "token" : "one",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "impossible",
+    "startOffset" : 11,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 22,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "duplicate",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwKOyDTAu_IiLe812",
+  "text" : "Scientifically impossible self-healing car.",
+  "translations" : {
+    "russian" : "С точки зрения науки невозможна самовосстанавливающаяся машина."
+  },
+  "tokens" : [ {
+    "token" : "scientifically",
+    "startOffset" : 0,
+    "endOffset" : 14,
+    "position" : 0
+  }, {
+    "token" : "impossible",
+    "startOffset" : 15,
+    "endOffset" : 25,
+    "position" : 1
+  }, {
+    "token" : "self",
+    "startOffset" : 26,
+    "endOffset" : 30,
+    "position" : 2
+  }, {
+    "token" : "heal",
+    "startOffset" : 31,
+    "endOffset" : 38,
+    "position" : 3
+  }, {
+    "token" : "car",
+    "startOffset" : 39,
+    "endOffset" : 42,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEw8SyDTAu_IiLe9cp",
+  "text" : "Such a union was impossible.",
+  "translations" : {
+    "russian" : "Такой союз был невозможен."
+  },
+  "tokens" : [ {
+    "token" : "such",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 5,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "union",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "ion",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "was",
+    "startOffset" : 13,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "impossible",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFZNzADTAu_IiLfbJv",
+  "text" : "It's doubtful... but not impossible.",
+  "translations" : {
+    "russian" : "Сомнительно... но это не невозможно."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "doubtful",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "but",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 2
+  }, {
+    "token" : "not",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 3
+  }, {
+    "token" : "impossible",
+    "startOffset" : 25,
+    "endOffset" : 35,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoECWLYDTAu_IiLea-4",
+  "text" : "That sentence is impossible to comprehend.",
+  "translations" : {
+    "russian" : "Это предложение невозможно постичь."
+  },
+  "tokens" : [ {
+    "token" : "that",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "sentence",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "impossible",
+    "startOffset" : 17,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "to",
+    "startOffset" : 28,
+    "endOffset" : 30,
     "position" : 4
   }, {
-    "token" : "goal",
-    "startOffset" : 29,
-    "endOffset" : 33,
+    "token" : "comprehend",
+    "startOffset" : 31,
+    "endOffset" : 41,
     "position" : 5
   } ],
   "contentScore" : null

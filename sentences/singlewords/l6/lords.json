@@ -1,41 +1,26 @@
 [ {
-  "id" : "AWbgxwgsNEXFMlzHLT1L",
-  "text" : "A pulse loop, Lord President?",
+  "id" : "AWoD7oVKDTAu_IiLeV25",
+  "text" : "Britain, Lord.",
   "translations" : {
-    "russian" : "Импульсная петля, Лорд Президент?"
+    "russian" : "Из Британии, повелитель."
   },
   "tokens" : [ {
-    "token" : "a",
+    "token" : "britain",
     "startOffset" : 0,
-    "endOffset" : 1,
+    "endOffset" : 7,
     "position" : 0
   }, {
-    "token" : "pulse",
-    "startOffset" : 2,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "loop",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
     "token" : "lord",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "president",
-    "startOffset" : 19,
-    "endOffset" : 28,
-    "position" : 4
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 1
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwUbtNEXFMlzHLSEI",
-  "text" : "Lord Santa, strike him down!",
+  "id" : "AWoEkIOqDTAu_IiLe0Mt",
+  "text" : "Lord Garth.",
   "translations" : {
-    "russian" : "Великий Санта, срази его!"
+    "russian" : "Лорд Гарт."
   },
   "tokens" : [ {
     "token" : "lord",
@@ -43,35 +28,76 @@
     "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "santa",
+    "token" : "garth",
     "startOffset" : 5,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "strike",
-    "startOffset" : 12,
-    "endOffset" : 18,
+    "token" : "gar",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDYgMmDTAu_IiLeClq",
+  "text" : "Lords... aristocrats!",
+  "translations" : {
+    "russian" : "Господа... Аристократы!"
+  },
+  "tokens" : [ {
+    "token" : "lord",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "aristocrat",
+    "startOffset" : 9,
+    "endOffset" : 20,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkEOfDTAu_IiLe0J3",
+  "text" : "Lord, lord - Killed a duplicate.",
+  "translations" : {
+    "russian" : "Боже, боже убивал копию."
+  },
+  "tokens" : [ {
+    "token" : "lord",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "lord",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "kill",
+    "startOffset" : 13,
+    "endOffset" : 19,
     "position" : 2
   }, {
-    "token" : "him",
-    "startOffset" : 19,
-    "endOffset" : 22,
+    "token" : "a",
+    "startOffset" : 20,
+    "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "down",
-    "startOffset" : 23,
-    "endOffset" : 27,
+    "token" : "duplicate",
+    "startOffset" : 22,
+    "endOffset" : 31,
     "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgq2JCNEXFMlzHLKH6",
-  "text" : "Good Lord, those people can chat.",
+  "id" : "AWoDe9ZXDTAu_IiLeGWp",
+  "text" : "Hall Lord Ram!",
   "translations" : {
-    "russian" : "Боже, они болтают без умолку."
+    "russian" : "Слава Господу Раме!"
   },
   "tokens" : [ {
-    "token" : "good",
+    "token" : "hall",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
@@ -81,108 +107,78 @@
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "those",
-    "startOffset" : 11,
+    "token" : "ram",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEDqH-DTAu_IiLecBL",
+  "text" : "Much obliged, my lord.",
+  "translations" : {
+    "russian" : "Премного благодарен, Ваша честь."
+  },
+  "tokens" : [ {
+    "token" : "much",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "obliged",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "oblige",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "my",
+    "startOffset" : 14,
     "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "people",
+    "token" : "lord",
     "startOffset" : 17,
-    "endOffset" : 23,
+    "endOffset" : 21,
     "position" : 3
-  }, {
-    "token" : "can",
-    "startOffset" : 24,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "chat",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgwQWrNEXFMlzHLSAf",
-  "text" : "For Lord's sake, light the beacon!",
+  "id" : "AWoFLAmiDTAu_IiLfQb6",
+  "text" : "Lord of the manor.",
   "translations" : {
-    "russian" : "Ради Бога, поджигай сигнальные огни!"
+    "russian" : "Владыка поместья."
   },
   "tokens" : [ {
-    "token" : "for",
+    "token" : "lord",
     "startOffset" : 0,
-    "endOffset" : 3,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "lord",
-    "startOffset" : 4,
-    "endOffset" : 10,
+    "token" : "of",
+    "startOffset" : 5,
+    "endOffset" : 7,
     "position" : 1
-  }, {
-    "token" : "sake",
-    "startOffset" : 11,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "light",
-    "startOffset" : 17,
-    "endOffset" : 22,
-    "position" : 3
   }, {
     "token" : "the",
-    "startOffset" : 23,
-    "endOffset" : 26,
-    "position" : 4
-  }, {
-    "token" : "beacon",
-    "startOffset" : 27,
-    "endOffset" : 33,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdbKHNEXFMlzHK64n",
-  "text" : "O Lord... receive my sinful soul.",
-  "translations" : {
-    "russian" : "Господи... прими душу мою грешную."
-  },
-  "tokens" : [ {
-    "token" : "o",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "lord",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "receive",
-    "startOffset" : 10,
-    "endOffset" : 17,
+    "startOffset" : 8,
+    "endOffset" : 11,
     "position" : 2
   }, {
-    "token" : "my",
-    "startOffset" : 18,
-    "endOffset" : 20,
+    "token" : "manor",
+    "startOffset" : 12,
+    "endOffset" : 17,
     "position" : 3
-  }, {
-    "token" : "sinful",
-    "startOffset" : 21,
-    "endOffset" : 27,
-    "position" : 4
-  }, {
-    "token" : "soul",
-    "startOffset" : 28,
-    "endOffset" : 32,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbguSKENEXFMlzHLOyq",
-  "text" : "The lord is my life's refuge.",
+  "id" : "AWoFRgiHDTAu_IiLfVa1",
+  "text" : "The Lord Chamberlain's Men.",
   "translations" : {
-    "russian" : "Господь - прибежище живота моего."
+    "russian" : "Труппа Лорда Чемберлена."
   },
   "tokens" : [ {
     "token" : "the",
@@ -195,101 +191,219 @@
     "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "is",
+    "token" : "chamberlain",
     "startOffset" : 9,
-    "endOffset" : 11,
+    "endOffset" : 22,
     "position" : 2
   }, {
-    "token" : "my",
-    "startOffset" : 12,
-    "endOffset" : 14,
+    "token" : "men",
+    "startOffset" : 23,
+    "endOffset" : 26,
     "position" : 3
-  }, {
-    "token" : "life",
-    "startOffset" : 15,
-    "endOffset" : 21,
-    "position" : 4
-  }, {
-    "token" : "refuge",
-    "startOffset" : 22,
-    "endOffset" : 28,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgez7iNEXFMlzHK8FG",
-  "text" : "Oh Lord, send us a thunder...",
+  "id" : "AWoEAlFkDTAu_IiLeZnc",
+  "text" : "Lord, we beseech thee.",
   "translations" : {
-    "russian" : "Господи, пошли нам гром..."
+    "russian" : "Господь, мы просим тебя."
   },
   "tokens" : [ {
-    "token" : "oh",
+    "token" : "lord",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 4,
     "position" : 0
   }, {
-    "token" : "lord",
-    "startOffset" : 3,
-    "endOffset" : 7,
+    "token" : "we",
+    "startOffset" : 6,
+    "endOffset" : 8,
     "position" : 1
   }, {
-    "token" : "send",
+    "token" : "beseech",
+    "startOffset" : 9,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "thee",
+    "startOffset" : 17,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIXhxDTAu_IiLeffl",
+  "text" : "Arise, O lord!",
+  "translations" : {
+    "russian" : "Восстань, о повелитель!"
+  },
+  "tokens" : [ {
+    "token" : "arise",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "o",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "lord",
     "startOffset" : 9,
     "endOffset" : 13,
     "position" : 2
-  }, {
-    "token" : "us",
-    "startOffset" : 14,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 17,
-    "endOffset" : 18,
-    "position" : 4
-  }, {
-    "token" : "thunder",
-    "startOffset" : 19,
-    "endOffset" : 26,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgpp4XNEXFMlzHLIkC",
-  "text" : "My Lord, at this very instant.",
+  "id" : "AWoEIXlMDTAu_IiLeffm",
+  "text" : "Arise O lord!",
   "translations" : {
-    "russian" : "Милорд, в этот самый момент."
+    "russian" : "Восстань, о повелитель!"
   },
   "tokens" : [ {
-    "token" : "my",
+    "token" : "arise",
     "startOffset" : 0,
-    "endOffset" : 2,
+    "endOffset" : 5,
     "position" : 0
   }, {
-    "token" : "lord",
-    "startOffset" : 3,
+    "token" : "o",
+    "startOffset" : 6,
     "endOffset" : 7,
     "position" : 1
   }, {
-    "token" : "at",
+    "token" : "lord",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIXf0DTAu_IiLeffk",
+  "text" : "Arise, O Lord.",
+  "translations" : {
+    "russian" : "Восстань, Господи!"
+  },
+  "tokens" : [ {
+    "token" : "arise",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "o",
+    "startOffset" : 7,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "lord",
     "startOffset" : 9,
-    "endOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEb1XZDTAu_IiLetyp",
+  "text" : "Thus spake the Lord.",
+  "translations" : {
+    "russian" : "Так говорит Господь."
+  },
+  "tokens" : [ {
+    "token" : "thus",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "spake",
+    "startOffset" : 5,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 11,
+    "endOffset" : 14,
     "position" : 2
   }, {
-    "token" : "this",
-    "startOffset" : 12,
-    "endOffset" : 16,
+    "token" : "lord",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEIXeWDTAu_IiLeffj",
+  "text" : "Arise O Lord.",
+  "translations" : {
+    "russian" : "Восстань, Господи."
+  },
+  "tokens" : [ {
+    "token" : "arise",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "o",
+    "startOffset" : 6,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "lord",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEkIJDDTAu_IiLe0Mp",
+  "text" : "I'm sorry, Lord Garth.",
+  "translations" : {
+    "russian" : "Извините, лорд Гарт."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "sorry",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "lord",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "garth",
+    "startOffset" : 16,
+    "endOffset" : 21,
     "position" : 3
   }, {
-    "token" : "very",
-    "startOffset" : 17,
+    "token" : "gar",
+    "startOffset" : 16,
     "endOffset" : 21,
-    "position" : 4
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaQZYDTAu_IiLfcBn",
+  "text" : "Colombian drug lords.",
+  "translations" : {
+    "russian" : "Это колумбийские наркоторговцы."
+  },
+  "tokens" : [ {
+    "token" : "colombian",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
   }, {
-    "token" : "instant",
-    "startOffset" : 22,
-    "endOffset" : 29,
-    "position" : 5
+    "token" : "drug",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "lord",
+    "startOffset" : 15,
+    "endOffset" : 20,
+    "position" : 2
   } ],
   "contentScore" : null
 } ]

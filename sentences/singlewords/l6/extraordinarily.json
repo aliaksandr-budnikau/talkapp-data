@@ -1,4 +1,50 @@
 [ {
+  "id" : "AWoEW5ReDTAu_IiLeqbh",
+  "text" : "How extraordinarily quaint!",
+  "translations" : {
+    "russian" : "Как это забавно."
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "extraordinarily",
+    "startOffset" : 4,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "quaint",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFaxm_DTAu_IiLfcdH",
+  "text" : "You're extraordinarily competent.",
+  "translations" : {
+    "russian" : "Ты невероятно хорош."
+  },
+  "tokens" : [ {
+    "token" : "you're",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "extraordinarily",
+    "startOffset" : 7,
+    "endOffset" : 22,
+    "position" : 1
+  }, {
+    "token" : "competent",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgcoePNEXFMlzHK6MK",
   "text" : "I've been extraordinarily happy with life.",
   "translations" : {
@@ -33,6 +79,44 @@
     "token" : "life",
     "startOffset" : 37,
     "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFACN_DTAu_IiLfIDC",
+  "text" : "These mathematical formulae are extraordinarily complex.",
+  "translations" : {
+    "russian" : "Эта математическая формула чрезвычайно сложна."
+  },
+  "tokens" : [ {
+    "token" : "these",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "mathematical",
+    "startOffset" : 6,
+    "endOffset" : 18,
+    "position" : 1
+  }, {
+    "token" : "formulae",
+    "startOffset" : 19,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 28,
+    "endOffset" : 31,
+    "position" : 3
+  }, {
+    "token" : "extraordinarily",
+    "startOffset" : 32,
+    "endOffset" : 47,
+    "position" : 4
+  }, {
+    "token" : "complex",
+    "startOffset" : 48,
+    "endOffset" : 55,
     "position" : 5
   } ],
   "contentScore" : null

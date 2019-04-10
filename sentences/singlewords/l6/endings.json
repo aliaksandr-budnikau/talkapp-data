@@ -1,4 +1,139 @@
 [ {
+  "id" : "AWoFVtOpDTAu_IiLfYcz",
+  "text" : "End quote.",
+  "translations" : {
+    "russian" : "Конец цитаты."
+  },
+  "tokens" : [ {
+    "token" : "end",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "quote",
+    "startOffset" : 4,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEpA1pDTAu_IiLe33T",
+  "text" : "End of sentence, end of discussion.",
+  "translations" : {
+    "russian" : "Конец предложения, конец обсуждения."
+  },
+  "tokens" : [ {
+    "token" : "end",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "sentence",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "end",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "of",
+    "startOffset" : 21,
+    "endOffset" : 23,
+    "position" : 4
+  }, {
+    "token" : "discussion",
+    "startOffset" : 24,
+    "endOffset" : 34,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEETANDTAu_IiLechv",
+  "text" : "It ends rather abruptly.",
+  "translations" : {
+    "russian" : "Всё закончилось довольно резко."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "end",
+    "startOffset" : 3,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "rather",
+    "startOffset" : 8,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "abrupt",
+    "startOffset" : 15,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEgmQTDTAu_IiLexZE",
+  "text" : "To end his misdeeds.",
+  "translations" : {
+    "russian" : "И покончим с его злодеяниями."
+  },
+  "tokens" : [ {
+    "token" : "to",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "end",
+    "startOffset" : 3,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "misdeed",
+    "startOffset" : 11,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVtFPDTAu_IiLfYcq",
+  "text" : "End of quote.",
+  "translations" : {
+    "russian" : "Конец цитаты."
+  },
+  "tokens" : [ {
+    "token" : "end",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "quote",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgl3bpNEXFMlzHLC_T",
   "text" : "Not a Hollywood ending.",
   "translations" : {
@@ -29,6 +164,151 @@
     "startOffset" : 16,
     "endOffset" : 22,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDjMg6DTAu_IiLeIzg",
+  "text" : "Relentless, never-ending torture.",
+  "translations" : {
+    "russian" : "Беспощадная, нескончаемая пытка."
+  },
+  "tokens" : [ {
+    "token" : "relentless",
+    "startOffset" : 0,
+    "endOffset" : 10,
+    "position" : 0
+  }, {
+    "token" : "never",
+    "startOffset" : 12,
+    "endOffset" : 17,
+    "position" : 1
+  }, {
+    "token" : "ending",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "end",
+    "startOffset" : 18,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "torture",
+    "startOffset" : 25,
+    "endOffset" : 32,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDkhbIDTAu_IiLeJio",
+  "text" : "This madness ends now!",
+  "translations" : {
+    "russian" : "Это безумие прекратится сегодня же!"
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "madness",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "mad",
+    "startOffset" : 5,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "end",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "now",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFFnWzDTAu_IiLfMI2",
+  "text" : "Message ends 1430 Zulu.",
+  "translations" : {
+    "russian" : "Конец сообщения 14 30 по Гринвичу."
+  },
+  "tokens" : [ {
+    "token" : "message",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "end",
+    "startOffset" : 8,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "1430",
+    "startOffset" : 13,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "zulu",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFT1a3DTAu_IiLfXJl",
+  "text" : "It should end tragically.",
+  "translations" : {
+    "russian" : "Я думаю, что всё должно закончиться трагически."
+  },
+  "tokens" : [ {
+    "token" : "it",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "should",
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "end",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "tragically",
+    "startOffset" : 14,
+    "endOffset" : 24,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFVtInDTAu_IiLfYct",
+  "text" : "End of quote.",
+  "translations" : {
+    "russian" : "Конец цитаты..."
+  },
+  "tokens" : [ {
+    "token" : "end",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "quote",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 2
   } ],
   "contentScore" : null
 }, {
@@ -65,495 +345,105 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghZE2NEXFMlzHK-TE",
-  "text" : "Happy ending, right?",
+  "id" : "AWoEg7UzDTAu_IiLexpr",
+  "text" : "Comb to the end.",
   "translations" : {
-    "russian" : "Счастливый конец, да?"
+    "russian" : "Прочешем всё до конца."
   },
   "tokens" : [ {
-    "token" : "happy",
-    "startOffset" : 0,
-    "endOffset" : 5,
-    "position" : 0
-  }, {
-    "token" : "ending",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "end",
-    "startOffset" : 6,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "right",
-    "startOffset" : 14,
-    "endOffset" : 19,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghZQzNEXFMlzHK-TQ",
-  "text" : "Critics remember beginnings and endings.",
-  "translations" : {
-    "russian" : "Критики запоминают начало и конец."
-  },
-  "tokens" : [ {
-    "token" : "critic",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "remember",
-    "startOffset" : 8,
-    "endOffset" : 16,
-    "position" : 1
-  }, {
-    "token" : "beginning",
-    "startOffset" : 17,
-    "endOffset" : 27,
-    "position" : 2
-  }, {
-    "token" : "and",
-    "startOffset" : 28,
-    "endOffset" : 31,
-    "position" : 3
-  }, {
-    "token" : "end",
-    "startOffset" : 32,
-    "endOffset" : 39,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl64hNEXFMlzHLDBy",
-  "text" : "End of the world, cupcake.",
-  "translations" : {
-    "russian" : "Конец света, пирожок..."
-  },
-  "tokens" : [ {
-    "token" : "end",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "of",
-    "startOffset" : 4,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "the",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "world",
-    "startOffset" : 11,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "cupcake",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgrPkgNEXFMlzHLKt9",
-  "text" : "The box ends the ceasefire.",
-  "translations" : {
-    "russian" : "Ящик положит конец перемирию."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "box",
-    "startOffset" : 4,
-    "endOffset" : 7,
-    "position" : 1
-  }, {
-    "token" : "end",
-    "startOffset" : 8,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "the",
-    "startOffset" : 13,
-    "endOffset" : 16,
-    "position" : 3
-  }, {
-    "token" : "ceasefire",
-    "startOffset" : 17,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgt1hkNEXFMlzHLOBW",
-  "text" : "This vagrancy has to end.",
-  "translations" : {
-    "russian" : "Это бродяжничество должно закончиться."
-  },
-  "tokens" : [ {
-    "token" : "this",
+    "token" : "comb",
     "startOffset" : 0,
     "endOffset" : 4,
     "position" : 0
-  }, {
-    "token" : "vagrancy",
-    "startOffset" : 5,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "has",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 2
   }, {
     "token" : "to",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "end",
-    "startOffset" : 21,
-    "endOffset" : 24,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgdKnONEXFMlzHK6q_",
-  "text" : "The party meeting just ended.",
-  "translations" : {
-    "russian" : "Партийное собрание только что завершилось."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "party",
-    "startOffset" : 4,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "meeting",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "meet",
-    "startOffset" : 10,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "just",
-    "startOffset" : 18,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "end",
-    "startOffset" : 23,
-    "endOffset" : 28,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkjoHNEXFMlzHLBIM",
-  "text" : "In the end, everyone dies.",
-  "translations" : {
-    "russian" : "В конце концов, человек в нас, как сущность, исчезнет!"
-  },
-  "tokens" : [ {
-    "token" : "in",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "end",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "everyone",
-    "startOffset" : 12,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "dies",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "die",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgoLrhNEXFMlzHLGhM",
-  "text" : "Your lead's a dead end.",
-  "translations" : {
-    "russian" : "Твоя зацепка привела к тупику."
-  },
-  "tokens" : [ {
-    "token" : "your",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "lead's",
     "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
     "endOffset" : 11,
-    "position" : 1
-  }, {
-    "token" : "a",
-    "startOffset" : 12,
-    "endOffset" : 13,
     "position" : 2
   }, {
-    "token" : "dead",
-    "startOffset" : 14,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
     "token" : "end",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 4
+    "startOffset" : 12,
+    "endOffset" : 15,
+    "position" : 3
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghZcxNEXFMlzHK-Ta",
-  "text" : "Nerve endings screaming in silence.",
+  "id" : "AWoEk09XDTAu_IiLe0tS",
+  "text" : "End of December.",
   "translations" : {
-    "russian" : "Нервные окончания кричат в тишине."
+    "russian" : "В конце декабря."
   },
   "tokens" : [ {
-    "token" : "nerve",
+    "token" : "end",
     "startOffset" : 0,
-    "endOffset" : 5,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "december",
+    "startOffset" : 7,
+    "endOffset" : 15,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoERuFGDTAu_IiLemgE",
+  "text" : "Stop, end emission.",
+  "translations" : {
+    "russian" : "Прекратить, остановить эмиссию."
+  },
+  "tokens" : [ {
+    "token" : "stop",
+    "startOffset" : 0,
+    "endOffset" : 4,
     "position" : 0
   }, {
     "token" : "end",
     "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 1
-  }, {
-    "token" : "screaming",
-    "startOffset" : 14,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "scream",
-    "startOffset" : 14,
-    "endOffset" : 23,
-    "position" : 2
-  }, {
-    "token" : "in",
-    "startOffset" : 24,
-    "endOffset" : 26,
-    "position" : 3
-  }, {
-    "token" : "silence",
-    "startOffset" : 27,
-    "endOffset" : 34,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgj481NEXFMlzHLAZT",
-  "text" : "It's a never-ending cycle.",
-  "translations" : {
-    "russian" : "Это какой-то замкнутый круг."
-  },
-  "tokens" : [ {
-    "token" : "it",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "a",
-    "startOffset" : 5,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "never",
-    "startOffset" : 7,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "ending",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "end",
-    "startOffset" : 13,
-    "endOffset" : 19,
-    "position" : 3
-  }, {
-    "token" : "cycle",
-    "startOffset" : 20,
-    "endOffset" : 25,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtpmXNEXFMlzHLNwM",
-  "text" : "I want to end poverty.",
-  "translations" : {
-    "russian" : "Я бы хотела победить нищету."
-  },
-  "tokens" : [ {
-    "token" : "i",
-    "startOffset" : 0,
-    "endOffset" : 1,
-    "position" : 0
-  }, {
-    "token" : "want",
-    "startOffset" : 2,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "to",
-    "startOffset" : 7,
     "endOffset" : 9,
-    "position" : 2
+    "position" : 1
   }, {
-    "token" : "end",
+    "token" : "emission",
     "startOffset" : 10,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "poverty",
-    "startOffset" : 14,
-    "endOffset" : 21,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghY8jNEXFMlzHK-S9",
-  "text" : "This happy ending is bullshit.",
-  "translations" : {
-    "russian" : "Эти истории со счастливым концом чушь полная."
-  },
-  "tokens" : [ {
-    "token" : "this",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "happy",
-    "startOffset" : 5,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "ending",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "end",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  }, {
-    "token" : "is",
-    "startOffset" : 18,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "bullshit",
-    "startOffset" : 21,
-    "endOffset" : 29,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgeRN-NEXFMlzHK7lu",
-  "text" : "To the end of our journey!",
-  "translations" : {
-    "russian" : "За окончание нашего путешествия!"
-  },
-  "tokens" : [ {
-    "token" : "to",
-    "startOffset" : 0,
-    "endOffset" : 2,
-    "position" : 0
-  }, {
-    "token" : "the",
-    "startOffset" : 3,
-    "endOffset" : 6,
-    "position" : 1
-  }, {
-    "token" : "end",
-    "startOffset" : 7,
-    "endOffset" : 10,
-    "position" : 2
-  }, {
-    "token" : "of",
-    "startOffset" : 11,
-    "endOffset" : 13,
-    "position" : 3
-  }, {
-    "token" : "our",
-    "startOffset" : 14,
-    "endOffset" : 17,
-    "position" : 4
-  }, {
-    "token" : "journey",
-    "startOffset" : 18,
-    "endOffset" : 25,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbghZWLNEXFMlzHK-TV",
-  "text" : "Villains can't get their happy endings.",
-  "translations" : {
-    "russian" : "Злодеям не полагается счастливый конец."
-  },
-  "tokens" : [ {
-    "token" : "villain",
-    "startOffset" : 0,
-    "endOffset" : 8,
-    "position" : 0
-  }, {
-    "token" : "can't",
-    "startOffset" : 9,
-    "endOffset" : 14,
-    "position" : 1
-  }, {
-    "token" : "get",
-    "startOffset" : 15,
     "endOffset" : 18,
     "position" : 2
-  }, {
-    "token" : "their",
-    "startOffset" : 19,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "happy",
-    "startOffset" : 25,
-    "endOffset" : 30,
-    "position" : 4
-  }, {
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFesQNDTAu_IiLffYl",
+  "text" : "End of the hallway.",
+  "translations" : {
+    "russian" : "В конце коридора."
+  },
+  "tokens" : [ {
     "token" : "end",
-    "startOffset" : 31,
-    "endOffset" : 38,
-    "position" : 5
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "of",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 2
+  }, {
+    "token" : "hallway",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

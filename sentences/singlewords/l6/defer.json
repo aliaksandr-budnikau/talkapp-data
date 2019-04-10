@@ -65,97 +65,445 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgrAftNEXFMlzHLKXf",
-  "text" : "Big f ricking newsflash.",
+  "id" : "AWoEJHbIDTAu_IiLegBr",
+  "text" : "F-f-f-five-foot increments.",
   "translations" : {
-    "russian" : "Охренительная новость."
+    "russian" : "П-п-пятифутовых."
   },
   "tokens" : [ {
-    "token" : "big",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
     "token" : "f",
-    "startOffset" : 4,
-    "endOffset" : 5,
-    "position" : 1
-  }, {
-    "token" : "rick",
-    "startOffset" : 6,
-    "endOffset" : 13,
-    "position" : 2
-  }, {
-    "token" : "newsflash",
-    "startOffset" : 14,
-    "endOffset" : 23,
-    "position" : 3
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgl4UlNEXFMlzHLC_6",
-  "text" : "Where's my f g cupcake?",
-  "translations" : {
-    "russian" : "Где мой f g кекс?"
-  },
-  "tokens" : [ {
-    "token" : "where",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "my",
-    "startOffset" : 8,
-    "endOffset" : 10,
-    "position" : 1
-  }, {
-    "token" : "f",
-    "startOffset" : 11,
-    "endOffset" : 12,
-    "position" : 2
-  }, {
-    "token" : "g",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 3
-  }, {
-    "token" : "cupcake",
-    "startOffset" : 15,
-    "endOffset" : 22,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgu95uNEXFMlzHLQJK",
-  "text" : "G-o, space, f-u...",
-  "translations" : {
-    "russian" : "П, пробел, о..."
-  },
-  "tokens" : [ {
-    "token" : "g",
     "startOffset" : 0,
     "endOffset" : 1,
     "position" : 0
   }, {
-    "token" : "o",
+    "token" : "f",
     "startOffset" : 2,
     "endOffset" : 3,
     "position" : 1
   }, {
-    "token" : "space",
-    "startOffset" : 5,
+    "token" : "f",
+    "startOffset" : 4,
+    "endOffset" : 5,
+    "position" : 2
+  }, {
+    "token" : "five",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 3
+  }, {
+    "token" : "foot",
+    "startOffset" : 11,
+    "endOffset" : 15,
+    "position" : 4
+  }, {
+    "token" : "increment",
+    "startOffset" : 16,
+    "endOffset" : 26,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD3RkCDTAu_IiLeTum",
+  "text" : "Go f...",
+  "translations" : {
+    "russian" : "Да идите вы к чёрту..."
+  },
+  "tokens" : [ {
+    "token" : "go",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "f",
+    "startOffset" : 3,
+    "endOffset" : 4,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD3QFkDTAu_IiLeTt6",
+  "text" : "An f.",
+  "translations" : {
+    "russian" : "Двойка."
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "f",
+    "startOffset" : 3,
+    "endOffset" : 4,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD3QDXDTAu_IiLeTt5",
+  "text" : "An f.",
+  "translations" : {
+    "russian" : "Двойка."
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "f",
+    "startOffset" : 3,
+    "endOffset" : 4,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD3QHwDTAu_IiLeTt7",
+  "text" : "An f.",
+  "translations" : {
+    "russian" : "Двойка."
+  },
+  "tokens" : [ {
+    "token" : "an",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "f",
+    "startOffset" : 3,
+    "endOffset" : 4,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjHi6DTAu_IiLezaU",
+  "text" : "Please confer with him.",
+  "translations" : {
+    "russian" : "Пожалуйста, обсудите это с ним."
+  },
+  "tokens" : [ {
+    "token" : "please",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "confer",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "fer",
+    "startOffset" : 7,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "with",
+    "startOffset" : 14,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "him",
+    "startOffset" : 19,
+    "endOffset" : 22,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDxzfKDTAu_IiLeQ_c",
+  "text" : "Cooped up, I ferment.",
+  "translations" : {
+    "russian" : "Взаперти я начинаю бродить."
+  },
+  "tokens" : [ {
+    "token" : "coop",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "up",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "i",
+    "startOffset" : 11,
+    "endOffset" : 12,
+    "position" : 2
+  }, {
+    "token" : "ferment",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "fer",
+    "startOffset" : 13,
+    "endOffset" : 20,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDxzrkDTAu_IiLeQ_i",
+  "text" : "How does it ferment?",
+  "translations" : {
+    "russian" : "С чего бы ему бродить?"
+  },
+  "tokens" : [ {
+    "token" : "how",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "does",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "doe",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "it",
+    "startOffset" : 9,
+    "endOffset" : 11,
+    "position" : 2
+  }, {
+    "token" : "ferment",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "fer",
+    "startOffset" : 12,
+    "endOffset" : 19,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjGj5DTAu_IiLezZk",
+  "text" : "Now we get to confer.",
+  "translations" : {
+    "russian" : "Так что будем совещаться."
+  },
+  "tokens" : [ {
+    "token" : "now",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "we",
+    "startOffset" : 4,
+    "endOffset" : 6,
+    "position" : 1
+  }, {
+    "token" : "get",
+    "startOffset" : 7,
     "endOffset" : 10,
     "position" : 2
   }, {
-    "token" : "f",
-    "startOffset" : 12,
+    "token" : "to",
+    "startOffset" : 11,
     "endOffset" : 13,
     "position" : 3
   }, {
-    "token" : "u",
+    "token" : "confer",
     "startOffset" : 14,
-    "endOffset" : 15,
+    "endOffset" : 20,
     "position" : 4
+  }, {
+    "token" : "fer",
+    "startOffset" : 14,
+    "endOffset" : 20,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDaWsQDTAu_IiLeDut",
+  "text" : "Confer with your astrologers, cousin.",
+  "translations" : {
+    "russian" : "Поговори со своими астрологами, кузен."
+  },
+  "tokens" : [ {
+    "token" : "confer",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fer",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "astrologer",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "cousin",
+    "startOffset" : 30,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjHWrDTAu_IiLezaK",
+  "text" : "Confer with your client, counselor.",
+  "translations" : {
+    "russian" : "Переговорите со своим клиентом."
+  },
+  "tokens" : [ {
+    "token" : "confer",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fer",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "client",
+    "startOffset" : 17,
+    "endOffset" : 23,
+    "position" : 3
+  }, {
+    "token" : "counselor",
+    "startOffset" : 25,
+    "endOffset" : 34,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjHxEDTAu_IiLezah",
+  "text" : "Confer with your astrologers, cousin.",
+  "translations" : {
+    "russian" : "Поговори со своими астрологами, кузен."
+  },
+  "tokens" : [ {
+    "token" : "confer",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "fer",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "with",
+    "startOffset" : 7,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "your",
+    "startOffset" : 12,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "astrologer",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 3
+  }, {
+    "token" : "cousin",
+    "startOffset" : 30,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEjGHiDTAu_IiLezZN",
+  "text" : "The Tribunal needs to confer!",
+  "translations" : {
+    "russian" : "Трибуналу необходимо посовещаться."
+  },
+  "tokens" : [ {
+    "token" : "the",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "tribunal",
+    "startOffset" : 4,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "need",
+    "startOffset" : 13,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 19,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "confer",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "fer",
+    "startOffset" : 22,
+    "endOffset" : 28,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD3RoEDTAu_IiLeTuo",
+  "text" : "You know what? F the F.",
+  "translations" : {
+    "russian" : "Знаете, что? К чёрту двойки!"
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "know",
+    "startOffset" : 4,
+    "endOffset" : 8,
+    "position" : 1
+  }, {
+    "token" : "what",
+    "startOffset" : 9,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "f",
+    "startOffset" : 15,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "the",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 4
+  }, {
+    "token" : "f",
+    "startOffset" : 21,
+    "endOffset" : 22,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

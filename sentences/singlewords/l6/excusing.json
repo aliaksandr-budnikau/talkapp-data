@@ -1,4 +1,40 @@
 [ {
+  "id" : "AWoEALnfDTAu_IiLeZTd",
+  "text" : "Excuse me.",
+  "translations" : {
+    "russian" : "I thought you still had the shiversПростите, я подумал, что вы все еще дрожите."
+  },
+  "tokens" : [ {
+    "token" : "excuse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoENG0hDTAu_IiLejIb",
+  "text" : "Excuse me.",
+  "translations" : {
+    "russian" : "Your Honor, but that is an appallingПросите, ваша честь, это ужасное обвинение."
+  },
+  "tokens" : [ {
+    "token" : "excuse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgl-bCNEXFMlzHLDFz",
   "text" : "Excuse me, what favor?",
   "translations" : {
@@ -55,89 +91,10 @@
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghEO6NEXFMlzHK-A7",
-  "text" : "Excuse me, ladies.",
+  "id" : "AWoD7g46DTAu_IiLeVxq",
+  "text" : "Excuse my son's manners.",
   "translations" : {
-    "russian" : "Извините меня, леди."
-  },
-  "tokens" : [ {
-    "token" : "excuse",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "lady",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtE-bNEXFMlzHLNS_",
-  "text" : "Excuse me, ladies.",
-  "translations" : {
-    "russian" : "Извините меня, леди."
-  },
-  "tokens" : [ {
-    "token" : "excuse",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "lady",
-    "startOffset" : 11,
-    "endOffset" : 17,
-    "position" : 2
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgtFvuNEXFMlzHLNTx",
-  "text" : "Will you excuse us, ladies?",
-  "translations" : {
-    "russian" : "Девушки, оставьте нас одних."
-  },
-  "tokens" : [ {
-    "token" : "will",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
-    "token" : "excuse",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "us",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "lady",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgkZC2NEXFMlzHLA8o",
-  "text" : "Excuse my crude soldier's ways.",
-  "translations" : {
-    "russian" : "Прости мои грубые солдатские замашки."
+    "russian" : "Простите моего сына за его поведение."
   },
   "tokens" : [ {
     "token" : "excuse",
@@ -150,245 +107,259 @@
     "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "crude",
+    "token" : "son",
     "startOffset" : 10,
     "endOffset" : 15,
     "position" : 2
   }, {
-    "token" : "soldier",
+    "token" : "manner",
     "startOffset" : 16,
-    "endOffset" : 25,
+    "endOffset" : 23,
     "position" : 3
-  }, {
-    "token" : "way",
-    "startOffset" : 26,
-    "endOffset" : 30,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgvp-lNEXFMlzHLRVw",
-  "text" : "Oh, excuse me, my engine.",
+  "id" : "AWoEAzu3DTAu_IiLeZys",
+  "text" : "Cellphone vibrating Excuse me.",
   "translations" : {
-    "russian" : "О, простите, мой паровоз."
+    "russian" : "Извините."
   },
   "tokens" : [ {
-    "token" : "oh",
+    "token" : "cellphone",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "vibrate",
+    "startOffset" : 10,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "excuse",
+    "startOffset" : 20,
+    "endOffset" : 26,
+    "position" : 2
+  }, {
+    "token" : "me",
+    "startOffset" : 27,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-mbDDTAu_IiLeYGy",
+  "text" : "Excuse my friend's frivolity.",
+  "translations" : {
+    "russian" : "Простите легкомыслие моей подруги."
+  },
+  "tokens" : [ {
+    "token" : "excuse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "friend",
+    "startOffset" : 10,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "frivolity",
+    "startOffset" : 19,
+    "endOffset" : 28,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPIYcDTAu_IiLekoV",
+  "text" : "Excuse my late introduction.",
+  "translations" : {
+    "russian" : "Простите, что раньше не представился."
+  },
+  "tokens" : [ {
+    "token" : "excuse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "my",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "late",
+    "startOffset" : 10,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "introduction",
+    "startOffset" : 15,
+    "endOffset" : 27,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPbgjDTAu_IiLek1j",
+  "text" : "Excuse me for intruding.",
+  "translations" : {
+    "russian" : "Извините, что вмешиваюсь."
+  },
+  "tokens" : [ {
+    "token" : "excuse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "me",
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "intrude",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEyt6_DTAu_IiLe-wV",
+  "text" : "Excuse his manners.",
+  "translations" : {
+    "russian" : "Извините за его поведение."
+  },
+  "tokens" : [ {
+    "token" : "excuse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "his",
+    "startOffset" : 7,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "manner",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE9uOhDTAu_IiLfGLH",
+  "text" : "An excuse for littering?",
+  "translations" : {
+    "russian" : "Оправдывать тех, кто мусорит?"
+  },
+  "tokens" : [ {
+    "token" : "an",
     "startOffset" : 0,
     "endOffset" : 2,
     "position" : 0
   }, {
     "token" : "excuse",
-    "startOffset" : 4,
+    "startOffset" : 3,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "for",
+    "startOffset" : 10,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "litter",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFQ-aqDTAu_IiLfVAH",
+  "text" : "Excuse the pun.",
+  "translations" : {
+    "russian" : "Извини за каламбур."
+  },
+  "tokens" : [ {
+    "token" : "excuse",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 7,
     "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "me",
+    "token" : "pun",
     "startOffset" : 11,
-    "endOffset" : 13,
+    "endOffset" : 14,
     "position" : 2
-  }, {
-    "token" : "my",
-    "startOffset" : 15,
-    "endOffset" : 17,
-    "position" : 3
-  }, {
-    "token" : "engine",
-    "startOffset" : 18,
-    "endOffset" : 24,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbghFIUNEXFMlzHK-Bt",
-  "text" : "Will you excuse us, ladies?",
+  "id" : "AWoFRhRmDTAu_IiLfVbZ",
+  "text" : "Excuse me, Agent Chamberlain?",
   "translations" : {
-    "russian" : "Девушки, оставьте нас одних."
+    "russian" : "Прошу прощения, Агент Чемберлейн?"
   },
   "tokens" : [ {
-    "token" : "will",
-    "startOffset" : 0,
-    "endOffset" : 4,
-    "position" : 0
-  }, {
-    "token" : "you",
-    "startOffset" : 5,
-    "endOffset" : 8,
-    "position" : 1
-  }, {
     "token" : "excuse",
-    "startOffset" : 9,
-    "endOffset" : 15,
-    "position" : 2
-  }, {
-    "token" : "us",
-    "startOffset" : 16,
-    "endOffset" : 18,
-    "position" : 3
-  }, {
-    "token" : "lady",
-    "startOffset" : 20,
-    "endOffset" : 26,
-    "position" : 4
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgscSNNEXFMlzHLMcn",
-  "text" : "Please excuse my learned friend.",
-  "translations" : {
-    "russian" : "Простите моего коллегу, Ваша честь."
-  },
-  "tokens" : [ {
-    "token" : "please",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "excuse",
+    "token" : "me",
     "startOffset" : 7,
-    "endOffset" : 13,
+    "endOffset" : 9,
     "position" : 1
   }, {
-    "token" : "my",
-    "startOffset" : 14,
+    "token" : "agent",
+    "startOffset" : 11,
     "endOffset" : 16,
     "position" : 2
   }, {
-    "token" : "learned",
+    "token" : "chamberlain",
     "startOffset" : 17,
-    "endOffset" : 24,
+    "endOffset" : 28,
     "position" : 3
-  }, {
-    "token" : "learn",
-    "startOffset" : 17,
-    "endOffset" : 24,
-    "position" : 3
-  }, {
-    "token" : "friend",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 4
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgqG5bNEXFMlzHLJMX",
-  "text" : "Excuse me... I think it's set.",
+  "id" : "AWoDs1vnDTAu_IiLeOGl",
+  "text" : "Excuse my profanity.",
   "translations" : {
-    "russian" : "Звините мен... похоже уже застыл."
+    "russian" : "Простите за сквернословие."
   },
   "tokens" : [ {
     "token" : "excuse",
     "startOffset" : 0,
     "endOffset" : 6,
     "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "i",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "think",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "set",
-    "startOffset" : 26,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgilEMNEXFMlzHK_Sp",
-  "text" : "Excuse me... I think it's set.",
-  "translations" : {
-    "russian" : "Звините мен... похоже уже застыл."
-  },
-  "tokens" : [ {
-    "token" : "excuse",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "i",
-    "startOffset" : 13,
-    "endOffset" : 14,
-    "position" : 2
-  }, {
-    "token" : "think",
-    "startOffset" : 15,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "it",
-    "startOffset" : 21,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "set",
-    "startOffset" : 26,
-    "endOffset" : 29,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgneWiNEXFMlzHLFgo",
-  "text" : "Excuse me, my coffee is boiling.",
-  "translations" : {
-    "russian" : "Простите, у меня кипит кофе."
-  },
-  "tokens" : [ {
-    "token" : "excuse",
-    "startOffset" : 0,
-    "endOffset" : 6,
-    "position" : 0
-  }, {
-    "token" : "me",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
   }, {
     "token" : "my",
-    "startOffset" : 11,
-    "endOffset" : 13,
+    "startOffset" : 7,
+    "endOffset" : 9,
+    "position" : 1
+  }, {
+    "token" : "profanity",
+    "startOffset" : 10,
+    "endOffset" : 19,
     "position" : 2
-  }, {
-    "token" : "coffee",
-    "startOffset" : 14,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "is",
-    "startOffset" : 21,
-    "endOffset" : 23,
-    "position" : 4
-  }, {
-    "token" : "boil",
-    "startOffset" : 24,
-    "endOffset" : 31,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgzDlANEXFMlzHLVq_",
-  "text" : "Excuse me, my carriage is waiting.",
+  "id" : "AWoD7g6IDTAu_IiLeVxr",
+  "text" : "Excuse his manners.",
   "translations" : {
-    "russian" : "Простите, мой экипаж ждет."
+    "russian" : "Извините за его поведение."
   },
   "tokens" : [ {
     "token" : "excuse",
@@ -396,68 +367,48 @@
     "endOffset" : 6,
     "position" : 0
   }, {
-    "token" : "me",
+    "token" : "his",
     "startOffset" : 7,
-    "endOffset" : 9,
+    "endOffset" : 10,
     "position" : 1
   }, {
-    "token" : "my",
+    "token" : "manner",
     "startOffset" : 11,
-    "endOffset" : 13,
+    "endOffset" : 18,
     "position" : 2
-  }, {
-    "token" : "carriage",
-    "startOffset" : 14,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "is",
-    "startOffset" : 23,
-    "endOffset" : 25,
-    "position" : 4
-  }, {
-    "token" : "wait",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 5
   } ],
   "contentScore" : null
 }, {
-  "id" : "AWbgby-PNEXFMlzHK5b3",
-  "text" : "Excuse me, what date is today?",
+  "id" : "AWoE5O9JDTAu_IiLfDKy",
+  "text" : "Delaying things? Making excuses?",
   "translations" : {
-    "russian" : "Ростите, какое сегодн число?"
+    "russian" : "Все задерживает, находит оправдания?"
   },
   "tokens" : [ {
-    "token" : "excuse",
+    "token" : "lay",
     "startOffset" : 0,
-    "endOffset" : 6,
+    "endOffset" : 8,
     "position" : 0
   }, {
-    "token" : "me",
-    "startOffset" : 7,
-    "endOffset" : 9,
-    "position" : 1
-  }, {
-    "token" : "what",
-    "startOffset" : 11,
+    "token" : "th",
+    "startOffset" : 9,
     "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "making",
+    "startOffset" : 17,
+    "endOffset" : 23,
     "position" : 2
   }, {
-    "token" : "date",
-    "startOffset" : 16,
-    "endOffset" : 20,
-    "position" : 3
-  }, {
-    "token" : "is",
-    "startOffset" : 21,
+    "token" : "make",
+    "startOffset" : 17,
     "endOffset" : 23,
-    "position" : 4
+    "position" : 2
   }, {
-    "token" : "today",
+    "token" : "excuse",
     "startOffset" : 24,
-    "endOffset" : 29,
-    "position" : 5
+    "endOffset" : 31,
+    "position" : 3
   } ],
   "contentScore" : null
 } ]

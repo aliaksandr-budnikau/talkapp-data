@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoDPuzXDTAu_IiLd9XJ",
+  "text" : "Disable the autopilot.",
+  "translations" : {
+    "russian" : "Отключение автопилота."
+  },
+  "tokens" : [ {
+    "token" : "disable",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "dis",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "the",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "autopilot",
+    "startOffset" : 12,
+    "endOffset" : 21,
+    "position" : 2
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbglln5NEXFMlzHLCzF",
   "text" : "Janus, Gaia and Dis...",
   "translations" : {
@@ -24,6 +52,39 @@
     "startOffset" : 16,
     "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEEUC4DTAu_IiLecif",
+  "text" : "Exterior atmosphere indicator is disabled.",
+  "translations" : {
+    "russian" : "Индикатор внешней атмосферы не работает."
+  },
+  "tokens" : [ {
+    "token" : "exterior",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "atmosphere",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "indicator",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 2
+  }, {
+    "token" : "is",
+    "startOffset" : 30,
+    "endOffset" : 32,
+    "position" : 3
+  }, {
+    "token" : "disable",
+    "startOffset" : 33,
+    "endOffset" : 41,
+    "position" : 4
   } ],
   "contentScore" : null
 }, {

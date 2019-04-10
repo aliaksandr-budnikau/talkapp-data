@@ -1,4 +1,37 @@
 [ {
+  "id" : "AWoEnzUTDTAu_IiLe280",
+  "text" : "Published author, tap prodigy.",
+  "translations" : {
+    "russian" : "Мало того, что у нее книжка вышла, так еще и гений в чечетке."
+  },
+  "tokens" : [ {
+    "token" : "published",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "publish",
+    "startOffset" : 0,
+    "endOffset" : 9,
+    "position" : 0
+  }, {
+    "token" : "author",
+    "startOffset" : 10,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "tap",
+    "startOffset" : 18,
+    "endOffset" : 21,
+    "position" : 2
+  }, {
+    "token" : "prodigy",
+    "startOffset" : 22,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgobUhNEXFMlzHLG5f",
   "text" : "Tabloid published some photos.",
   "translations" : {
@@ -70,6 +103,77 @@
   } ],
   "contentScore" : null
 }, {
+  "id" : "AWoEPH7JDTAu_IiLekn8",
+  "text" : "My introduction got it published.",
+  "translations" : {
+    "russian" : "Её опубликовали лишь из-за моего вступления."
+  },
+  "tokens" : [ {
+    "token" : "my",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "introduction",
+    "startOffset" : 3,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "got",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "it",
+    "startOffset" : 20,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "published",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "publish",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoD-RK8DTAu_IiLeX20",
+  "text" : "Herald House... the publisher.",
+  "translations" : {
+    "russian" : "Геральд Хаус... издание."
+  },
+  "tokens" : [ {
+    "token" : "herald",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "house",
+    "startOffset" : 7,
+    "endOffset" : 12,
+    "position" : 1
+  }, {
+    "token" : "the",
+    "startOffset" : 16,
+    "endOffset" : 19,
+    "position" : 2
+  }, {
+    "token" : "publisher",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "publish",
+    "startOffset" : 20,
+    "endOffset" : 29,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgobWeNEXFMlzHLG5k",
   "text" : "You're publishing lies!",
   "translations" : {
@@ -128,6 +232,44 @@
     "startOffset" : 17,
     "endOffset" : 19,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDzWweDTAu_IiLeR2M",
+  "text" : "Here recently Republished a wonderful brochure.",
+  "translations" : {
+    "russian" : "Тут недавно переиздали замечательную брошюрку."
+  },
+  "tokens" : [ {
+    "token" : "here",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "recent",
+    "startOffset" : 5,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "published",
+    "startOffset" : 14,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 26,
+    "endOffset" : 27,
+    "position" : 3
+  }, {
+    "token" : "wonderful",
+    "startOffset" : 28,
+    "endOffset" : 37,
+    "position" : 4
+  }, {
+    "token" : "brochure",
+    "startOffset" : 38,
+    "endOffset" : 46,
+    "position" : 5
   } ],
   "contentScore" : null
 }, {
@@ -269,6 +411,44 @@
     "token" : "it",
     "startOffset" : 25,
     "endOffset" : 27,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDUteIDTAu_IiLeArW",
+  "text" : "You should publish a correspondence novel.",
+  "translations" : {
+    "russian" : "Сможешь опубликовать роман корреспонденции."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "should",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "publish",
+    "startOffset" : 11,
+    "endOffset" : 18,
+    "position" : 2
+  }, {
+    "token" : "a",
+    "startOffset" : 19,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "correspondence",
+    "startOffset" : 21,
+    "endOffset" : 35,
+    "position" : 4
+  }, {
+    "token" : "novel",
+    "startOffset" : 36,
+    "endOffset" : 41,
     "position" : 5
   } ],
   "contentScore" : null

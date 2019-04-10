@@ -1,0 +1,77 @@
+[ {
+  "id" : "AWoEaU9mDTAu_IiLesy5",
+  "text" : "Chances are I am genetically predisposed.",
+  "translations" : {
+    "russian" : "У меня есть к этому генетическая предрасположенность."
+  },
+  "tokens" : [ {
+    "token" : "chance",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "are",
+    "startOffset" : 8,
+    "endOffset" : 11,
+    "position" : 1
+  }, {
+    "token" : "i",
+    "startOffset" : 12,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "am",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "genetically",
+    "startOffset" : 17,
+    "endOffset" : 28,
+    "position" : 4
+  }, {
+    "token" : "predispose",
+    "startOffset" : 29,
+    "endOffset" : 40,
+    "position" : 5
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEaVBBDTAu_IiLesy7",
+  "text" : "I'm genetically predisposed to get cancer.",
+  "translations" : {
+    "russian" : "У меня генетическая предрасположенность к раку."
+  },
+  "tokens" : [ {
+    "token" : "i'm",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "genetically",
+    "startOffset" : 4,
+    "endOffset" : 15,
+    "position" : 1
+  }, {
+    "token" : "predispose",
+    "startOffset" : 16,
+    "endOffset" : 27,
+    "position" : 2
+  }, {
+    "token" : "to",
+    "startOffset" : 28,
+    "endOffset" : 30,
+    "position" : 3
+  }, {
+    "token" : "get",
+    "startOffset" : 31,
+    "endOffset" : 34,
+    "position" : 4
+  }, {
+    "token" : "cancer",
+    "startOffset" : 35,
+    "endOffset" : 41,
+    "position" : 5
+  } ],
+  "contentScore" : null
+} ]

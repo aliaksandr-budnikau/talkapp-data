@@ -1,0 +1,67 @@
+[ {
+  "id" : "AWoE85sJDTAu_IiLfFjq",
+  "text" : "Do a peripheral blood smear.",
+  "translations" : {
+    "russian" : "Возьмите повторный мазок крови."
+  },
+  "tokens" : [ {
+    "token" : "do",
+    "startOffset" : 0,
+    "endOffset" : 2,
+    "position" : 0
+  }, {
+    "token" : "a",
+    "startOffset" : 3,
+    "endOffset" : 4,
+    "position" : 1
+  }, {
+    "token" : "peripheral",
+    "startOffset" : 5,
+    "endOffset" : 15,
+    "position" : 2
+  }, {
+    "token" : "blood",
+    "startOffset" : 16,
+    "endOffset" : 21,
+    "position" : 3
+  }, {
+    "token" : "smear",
+    "startOffset" : 22,
+    "endOffset" : 27,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEPqpHDTAu_IiLelA1",
+  "text" : "Yeah, peripheral reflexes are normal.",
+  "translations" : {
+    "russian" : "Периферийные рефлексы в норме."
+  },
+  "tokens" : [ {
+    "token" : "yeah",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "peripheral",
+    "startOffset" : 6,
+    "endOffset" : 16,
+    "position" : 1
+  }, {
+    "token" : "flex",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 2
+  }, {
+    "token" : "are",
+    "startOffset" : 26,
+    "endOffset" : 29,
+    "position" : 3
+  }, {
+    "token" : "normal",
+    "startOffset" : 30,
+    "endOffset" : 36,
+    "position" : 4
+  } ],
+  "contentScore" : null
+} ]

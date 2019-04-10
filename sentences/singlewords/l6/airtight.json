@@ -1,4 +1,22 @@
 [ {
+  "id" : "AWoDSQJkDTAu_IiLd_EI",
+  "text" : "Airtight alibi.",
+  "translations" : {
+    "russian" : "У него железное алиби."
+  },
+  "tokens" : [ {
+    "token" : "airtight",
+    "startOffset" : 0,
+    "endOffset" : 8,
+    "position" : 0
+  }, {
+    "token" : "alibi",
+    "startOffset" : 9,
+    "endOffset" : 14,
+    "position" : 1
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqBGfNEXFMlzHLJET",
   "text" : "Our screen was airtight.",
   "translations" : {
@@ -75,6 +93,77 @@
     "startOffset" : 15,
     "endOffset" : 23,
     "position" : 2
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEFQ6GDTAu_IiLedQ9",
+  "text" : "This is airtight and watertight.",
+  "translations" : {
+    "russian" : "Это безупречно и неопровержимо."
+  },
+  "tokens" : [ {
+    "token" : "this",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "is",
+    "startOffset" : 5,
+    "endOffset" : 7,
+    "position" : 1
+  }, {
+    "token" : "airtight",
+    "startOffset" : 8,
+    "endOffset" : 16,
+    "position" : 2
+  }, {
+    "token" : "and",
+    "startOffset" : 17,
+    "endOffset" : 20,
+    "position" : 3
+  }, {
+    "token" : "watertight",
+    "startOffset" : 21,
+    "endOffset" : 31,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoDSRKYDTAu_IiLd_Ez",
+  "text" : "Well, that is an airtight alibi.",
+  "translations" : {
+    "russian" : "Это твердое алиби."
+  },
+  "tokens" : [ {
+    "token" : "well",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "that",
+    "startOffset" : 6,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "is",
+    "startOffset" : 11,
+    "endOffset" : 13,
+    "position" : 2
+  }, {
+    "token" : "an",
+    "startOffset" : 14,
+    "endOffset" : 16,
+    "position" : 3
+  }, {
+    "token" : "airtight",
+    "startOffset" : 17,
+    "endOffset" : 25,
+    "position" : 4
+  }, {
+    "token" : "alibi",
+    "startOffset" : 26,
+    "endOffset" : 31,
+    "position" : 5
   } ],
   "contentScore" : null
 } ]

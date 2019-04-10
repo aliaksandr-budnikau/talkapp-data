@@ -1,0 +1,32 @@
+[ {
+  "id" : "AWoFdkuvDTAu_IiLfelW",
+  "text" : "Ostler?",
+  "translations" : {
+    "russian" : "Остлер?"
+  },
+  "tokens" : [ {
+    "token" : "ostler",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoFdkr0DTAu_IiLfelU",
+  "text" : "Chef ostler?",
+  "translations" : {
+    "russian" : "Шеф-повар Остлер?"
+  },
+  "tokens" : [ {
+    "token" : "chef",
+    "startOffset" : 0,
+    "endOffset" : 4,
+    "position" : 0
+  }, {
+    "token" : "ostler",
+    "startOffset" : 5,
+    "endOffset" : 11,
+    "position" : 1
+  } ],
+  "contentScore" : null
+} ]

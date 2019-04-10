@@ -1,4 +1,42 @@
 [ {
+  "id" : "AWoFG9_iDTAu_IiLfNKm",
+  "text" : "Jurors undergo no such screening.",
+  "translations" : {
+    "russian" : "Присяжные не проходят такой проверки."
+  },
+  "tokens" : [ {
+    "token" : "juror",
+    "startOffset" : 0,
+    "endOffset" : 6,
+    "position" : 0
+  }, {
+    "token" : "undergo",
+    "startOffset" : 7,
+    "endOffset" : 14,
+    "position" : 1
+  }, {
+    "token" : "no",
+    "startOffset" : 15,
+    "endOffset" : 17,
+    "position" : 2
+  }, {
+    "token" : "such",
+    "startOffset" : 18,
+    "endOffset" : 22,
+    "position" : 3
+  }, {
+    "token" : "screening",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  }, {
+    "token" : "screen",
+    "startOffset" : 23,
+    "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgqBGfNEXFMlzHLJET",
   "text" : "Our screen was airtight.",
   "translations" : {
@@ -145,6 +183,39 @@
     "token" : "screen",
     "startOffset" : 26,
     "endOffset" : 32,
+    "position" : 4
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoE19ANDTAu_IiLfA_z",
+  "text" : "You pawned his flat screen.",
+  "translations" : {
+    "russian" : "Ты заложил его плоский экран."
+  },
+  "tokens" : [ {
+    "token" : "you",
+    "startOffset" : 0,
+    "endOffset" : 3,
+    "position" : 0
+  }, {
+    "token" : "pawn",
+    "startOffset" : 4,
+    "endOffset" : 10,
+    "position" : 1
+  }, {
+    "token" : "his",
+    "startOffset" : 11,
+    "endOffset" : 14,
+    "position" : 2
+  }, {
+    "token" : "flat",
+    "startOffset" : 15,
+    "endOffset" : 19,
+    "position" : 3
+  }, {
+    "token" : "screen",
+    "startOffset" : 20,
+    "endOffset" : 26,
     "position" : 4
   } ],
   "contentScore" : null
@@ -467,82 +538,6 @@
     "token" : "screen",
     "startOffset" : 28,
     "endOffset" : 34,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgqBncNEXFMlzHLJFD",
-  "text" : "The screen's there for a reason.",
-  "translations" : {
-    "russian" : "Не зря это прикрывают тканью."
-  },
-  "tokens" : [ {
-    "token" : "the",
-    "startOffset" : 0,
-    "endOffset" : 3,
-    "position" : 0
-  }, {
-    "token" : "screen",
-    "startOffset" : 4,
-    "endOffset" : 12,
-    "position" : 1
-  }, {
-    "token" : "there",
-    "startOffset" : 13,
-    "endOffset" : 18,
-    "position" : 2
-  }, {
-    "token" : "for",
-    "startOffset" : 19,
-    "endOffset" : 22,
-    "position" : 3
-  }, {
-    "token" : "a",
-    "startOffset" : 23,
-    "endOffset" : 24,
-    "position" : 4
-  }, {
-    "token" : "reason",
-    "startOffset" : 25,
-    "endOffset" : 31,
-    "position" : 5
-  } ],
-  "contentScore" : null
-}, {
-  "id" : "AWbgh8MYNEXFMlzHK-xn",
-  "text" : "Without antimatter energy screens, you hope.",
-  "translations" : {
-    "russian" : "Без щита из антиматерии, будем надеятся."
-  },
-  "tokens" : [ {
-    "token" : "without",
-    "startOffset" : 0,
-    "endOffset" : 7,
-    "position" : 0
-  }, {
-    "token" : "antimatter",
-    "startOffset" : 8,
-    "endOffset" : 18,
-    "position" : 1
-  }, {
-    "token" : "energy",
-    "startOffset" : 19,
-    "endOffset" : 25,
-    "position" : 2
-  }, {
-    "token" : "screen",
-    "startOffset" : 26,
-    "endOffset" : 33,
-    "position" : 3
-  }, {
-    "token" : "you",
-    "startOffset" : 35,
-    "endOffset" : 38,
-    "position" : 4
-  }, {
-    "token" : "hope",
-    "startOffset" : 39,
-    "endOffset" : 43,
     "position" : 5
   } ],
   "contentScore" : null

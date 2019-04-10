@@ -1,4 +1,32 @@
 [ {
+  "id" : "AWoEx5DbDTAu_IiLe-Jw",
+  "text" : "Rogue reapers smuggling people?",
+  "translations" : {
+    "russian" : "Жнецы - мошенники, которые занимаются незаконным ввозом людей?"
+  },
+  "tokens" : [ {
+    "token" : "rogue",
+    "startOffset" : 0,
+    "endOffset" : 5,
+    "position" : 0
+  }, {
+    "token" : "reap",
+    "startOffset" : 6,
+    "endOffset" : 13,
+    "position" : 1
+  }, {
+    "token" : "smuggle",
+    "startOffset" : 14,
+    "endOffset" : 23,
+    "position" : 2
+  }, {
+    "token" : "people",
+    "startOffset" : 24,
+    "endOffset" : 30,
+    "position" : 3
+  } ],
+  "contentScore" : null
+}, {
   "id" : "AWbgyD_0NEXFMlzHLUML",
   "text" : "A rogue CIA agent.",
   "translations" : {
@@ -52,6 +80,44 @@
     "startOffset" : 12,
     "endOffset" : 17,
     "position" : 3
+  } ],
+  "contentScore" : null
+}, {
+  "id" : "AWoEwvEkDTAu_IiLe9Sr",
+  "text" : "Princes, princesses, and huntsmen, rogues.",
+  "translations" : {
+    "russian" : "Принцы, принцессы, и охотник, жулики."
+  },
+  "tokens" : [ {
+    "token" : "prince",
+    "startOffset" : 0,
+    "endOffset" : 7,
+    "position" : 0
+  }, {
+    "token" : "princess",
+    "startOffset" : 9,
+    "endOffset" : 19,
+    "position" : 1
+  }, {
+    "token" : "and",
+    "startOffset" : 21,
+    "endOffset" : 24,
+    "position" : 2
+  }, {
+    "token" : "huntsmen",
+    "startOffset" : 25,
+    "endOffset" : 33,
+    "position" : 3
+  }, {
+    "token" : "rogues",
+    "startOffset" : 35,
+    "endOffset" : 41,
+    "position" : 4
+  }, {
+    "token" : "rogue",
+    "startOffset" : 35,
+    "endOffset" : 41,
+    "position" : 4
   } ],
   "contentScore" : null
 } ]
